@@ -4,6 +4,8 @@
 
 Projet réalisé par **Daniela-Maria Toma** (Master en Humanités Numériques avec spécialisation Informatique pour les Sciences Humaines) dans le cadre du cours _Visualisation de données_ enseigné par **Isaac Pante** dans la _Faculté des Lettres_ de _l’Université de Lausanne_.
 
+Projet disponible à l'adresse : [https://danielamtoma.github.io/](https://danielamtoma.github.io/).
+
 ## Description :
 
 Le projet offre une série de représentations dynamiques des données liées aux projets inscrits dans le programme Horizon 2020. Le site a été réalisé en html et javascript et les visualisations avec d3.js.
