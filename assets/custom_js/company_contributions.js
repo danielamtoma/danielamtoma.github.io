@@ -2,6 +2,8 @@
 function companyContribution(){
   $("#myCompanyGraph_3_1").html('');
   $("#myCompanyGraph_3_description").html('');
+  $("#myCompanyGraph_3_information").html('');
+  $("#myCompanyGraph_3_information").html('Représentations des 5 plus grandes subventions reçues par rapport au total des subventions. Cliquez sur un projet pour afficher ses informations à droite.<hr/>');
   var id = $('#companyId').text();
   var jswidth = document.getElementById('companies').clientWidth;
   jswidth = jswidth-94;

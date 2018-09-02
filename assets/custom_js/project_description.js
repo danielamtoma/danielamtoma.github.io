@@ -3,6 +3,8 @@ function projectInformation(){
   $("#myProjectGraph_1_description").html('');
   $("#myProjectGraph_1_1").html('');
   $("#myProjectGraph_1_2").html('');
+  $("#myProjectGraph_1_information").html('');
+  $("#myProjectGraph_1_information").html('Informations générales sur le projet comprenant la proportion des subventions de l\'Union Européenne par rapport au coût total du projet.<hr/>');
   var id = $('#projectId').text();
 
   // Affichage des informations

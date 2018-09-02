@@ -2,6 +2,8 @@
 function companyRelationProjects(){
   $("#myCompanyGraph_4").html('');
   $("#myCompanyGraph_4_description").html('');
+  $("#myCompanyGraph_4_information").html('');
+  $("#myCompanyGraph_4_information").html('Représentation des projets dans lesquels l’organisation est impliquée. La taille du cercle varie en fonction de la contribution reçue. Cliquez sur un projet pour afficher ses informations à droite.<hr/>');
   var id = $('#companyId').text();
   var jswidth = document.getElementById('companies').clientWidth;
   jswidth = jswidth-94;
@@ -18,7 +20,7 @@ function companyRelationProjects(){
   });
 
   var width = jswidth,
-      height = 800;
+      height = jswidth/1.3;
 
   var color = d3.scale.category20();
 

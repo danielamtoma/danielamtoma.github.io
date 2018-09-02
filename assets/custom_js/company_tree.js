@@ -3,6 +3,8 @@ function companyRelations(){
   // Get JSON data
   $("#myCompanyGraph_2").html('');
   $("#myCompanyGraph_2_description").html('');
+  $("#myCompanyGraph_2_information").html('');
+  $("#myCompanyGraph_2_information").html('Représentation des collaborations existant entre l’organisation sélectionnée et d’autres entités. En cliquant sur une entité ses informations seront affichées.<hr/>');
   var id = $('#companyId').text();
 
   // Affichage des informations

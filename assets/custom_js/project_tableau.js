@@ -1,5 +1,7 @@
 /****** Fonction qui retourne les informations de la compagnie ******/
 function projectTableau(){
+  $("#myProjectGraph_4_information").html('');
+  $("#myProjectGraph_4_information").html('Liste de toutes les organisations impliquées dans le projet. Cliquez sur une organisation listée pour afficher à gauche ses informations.<hr/>');
   var id = $('#projectId').text();
   $.getJSON('data/projects/'+id+'.json', function(data){
     var compagnies = '<table class="table">'+

@@ -257,6 +257,12 @@
     width: 100%;
     height: 100%;
   }
+  .graph-information{
+    padding-top: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: #8b8b8b;
+  }
   </style>
 
 </head>
@@ -298,7 +304,6 @@
             </div>
           </div>
           <div class="chart-notes">
-            Sélectionnez une compagnie
           </div>
         </div>
       </div>
@@ -313,7 +318,7 @@
 
               <!-- Début Search form -->
               <div style="padding:10px;">
-                <input id="search-form" class="form-control" type="text" placeholder="Search" autocomplete="off" aria-label="Search">
+                <input id="search-form" class="form-control" type="text" placeholder="Rechercher" autocomplete="off" aria-label="Search">
               </div>
               <script type="text/javascript">
                 $(document).ready(function() {
@@ -331,7 +336,7 @@
               <!-- Début slider -->
               <div class="section" style="padding:10px;">
 
-                  <p>Contribution EU in €:</p>
+                  <p><b>Contribution EU en €</b></p>
 
                   <input type="text" id="rangeSlider" value="" name="rangeSlider" />
 
@@ -435,7 +440,6 @@
             </div>
           </div>
           <div class="chart-notes">
-            Notes about this chart
           </div>
         </div>
       </div>
@@ -458,7 +462,7 @@
                   <a data-toggle="tab" href="#company_2" onclick='companyRelations()'>Relations</a>
                 </li>
                 <li>
-                  <a data-toggle="tab" href="#company_3" onclick='companyContribution();companyContributionProportion()'>Coûts</a>
+                  <a data-toggle="tab" href="#company_3" onclick='companyContribution();companyContributionProportion()'>Contributions</a>
                 </li>
                 <li>
                   <a data-toggle="tab" href="#company_4" onclick='companyRelationProjects()'>Projets</a>
@@ -471,6 +475,7 @@
                 <div id="company_1" class="tab-pane fade in active">
                   <div class="data-content-wrapper">
                     <div class="data-content-header"><h3 class="data-title">Informations générales</h3></div>
+                    <p><div class="graph-information" id="myCompanyGraph_1_information"></div></p>
                     <p><div class="graph-description" id="myCompanyGraph_1_description"></div></p>
                     <p><div class="data-content-d3" id="myCompanyGraph_1"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/company48.png" alt="Company" /></br>Sélectionnez</br>une compagnie</div></div></div><p>
                   </div>
@@ -479,6 +484,7 @@
                 <div id="company_2" class="tab-pane fade">
                   <div class="data-content-wrapper">
                     <div class="data-content-header"><h3 class="data-title">Relations</h3></div>
+                    <p><div class="graph-information" id="myCompanyGraph_2_information"></div></p>
                     <p><div class="graph-description" id="myCompanyGraph_2_description"></div></p>
                     <p><div class="data-content-d3" id="myCompanyGraph_2"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/company48.png" alt="Company" /></br>Sélectionnez</br>une compagnie</div></div></div><p>
                   </div>
@@ -486,7 +492,8 @@
 
                 <div id="company_3" class="tab-pane fade">
                   <div class="data-content-wrapper">
-                    <div class="data-content-header"><h3 class="data-title">Coûts</h3></div>
+                    <div class="data-content-header"><h3 class="data-title">Contributions</h3></div>
+                    <p><div class="graph-information" id="myCompanyGraph_3_information"></div></p>
                     <p><div class="graph-description" id="myCompanyGraph_3_description"></div></p>
                     <p><div class="data-content-d3" id="myCompanyGraph_3">
                       <div class="graph-description" id="myCompanyGraph_3_1_description"></div>
@@ -494,7 +501,7 @@
                         <div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/company48.png" alt="Company" /></br>Sélectionnez</br>une compagnie</div></div>
                       </div>
                       <div class="graph-description" id="myCompanyGraph_3_2_description"></div>
-                      <div id="myCompanyGraph_3_2" style="position: relative;"></div>
+                      <div id="myCompanyGraph_3_2" style="position: relative; padding-top: 30px"></div>
                     </div><p>
                   </div>
                 </div>
@@ -502,6 +509,7 @@
                 <div id="company_4" class="tab-pane fade">
                   <div class="data-content-wrapper">
                     <div class="data-content-header"><h3 class="data-title">Projets</h3></div>
+                    <p><div class="graph-information" id="myCompanyGraph_4_information"></div></p>
                     <p><div class="graph-description" id="myCompanyGraph_4_description"></div></p>
                     <p><div class="data-content-d3" id="myCompanyGraph_4"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/company48.png" alt="Company" /></br>Sélectionnez</br>une compagnie</div></div></div><p>
                   </div>
@@ -512,7 +520,6 @@
             </div>
           </div>
           <div class="chart-notes">
-            Notes about this chart
           </div>
         </div>
       </div>
@@ -533,7 +540,7 @@
                   <a data-toggle="tab" href="#project_2" onclick='projectRelationCompanies()'>Compagnies</a>
                 </li>
                 <li>
-                  <a data-toggle="tab" href="#project_3" onclick='projectContribution();projectContributionProportion()'>Coûts</a>
+                  <a data-toggle="tab" href="#project_3" onclick='projectContribution();projectContributionProportion()'>Contributions</a>
                 </li>
                 <li>
                   <a data-toggle="tab" href="#project_4" onclick='projectTableau()'>Tableau</a>
@@ -546,6 +553,7 @@
                 <div id="project_1" class="tab-pane fade in active">
                   <div class="data-content-wrapper">
                     <div class="data-content-header"><h3 class="data-title">Informations générales</h3></div>
+                    <p><div class="graph-information" id="myProjectGraph_1_information"></div></p>
                     <p><div class="graph-description" id="myProjectGraph_1_description"></div></p>
                     <p>
                       <div class="data-content-d3" id="myProjectGraph_1">
@@ -559,6 +567,7 @@
                 <div id="project_2" class="tab-pane fade">
                   <div class="data-content-wrapper">
                     <div class="data-content-header"><h3 class="data-title">Relations</h3></div>
+                    <p><div class="graph-information" id="myProjectGraph_2_information"></div></p>
                     <p><div class="graph-description" id="myProjectGraph_2_description"></div></p>
                     <p><div class="data-content-d3" id="myProjectGraph_2"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/project48.png" alt="Projet" /></br>Sélectionnez</br>un projet</div></div></div></p>
                   </div>
@@ -566,7 +575,8 @@
 
                 <div id="project_3" class="tab-pane fade">
                   <div class="data-content-wrapper">
-                    <div class="data-content-header"><h3 class="data-title">Coûts</h3></div>
+                    <div class="data-content-header"><h3 class="data-title">Contributions</h3></div>
+                    <p><div class="graph-information" id="myProjectGraph_3_information"></div></p>
                     <p><div class="graph-description" id="myProjectGraph_3_description"></div></p>
                     <p><div class="data-content-d3" id="myProjectGraph_3">
                     <div class="graph-description" id="myProjectGraph_3_1_description"></div>
@@ -574,7 +584,7 @@
                       <div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/project48.png" alt="Projet" /></br>Sélectionnez</br>un projet</div></div>
                     </div>
                     <div class="graph-description" id="myProjectGraph_3_2_description"></div>
-                    <div id="myProjectGraph_3_2" style="position: relative;"></div>
+                    <div id="myProjectGraph_3_2" style="position: relative; padding-top: 30px;"></div>
                   </div><p>
                   </div>
                 </div>
@@ -582,6 +592,7 @@
                 <div id="project_4" class="tab-pane fade">
                   <div class="data-content-wrapper">
                     <div class="data-content-header"><h3 class="data-title">Contributions</h3></div>
+                    <p><div class="graph-information" id="myProjectGraph_4_information"></div></p>
                     <p><div class="graph-description" id="myProjectGraph_4_description"></div></p>
                     <p><div class="data-content-d3" id="myProjectGraph_4"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/project48.png" alt="Projet" /></br>Sélectionnez</br>un projet</div></div></div></p>
                   </div>
@@ -592,7 +603,6 @@
             </div>
           </div>
           <div class="chart-notes">
-            Notes about this chart
           </div>
         </div>
       </div>

@@ -2,6 +2,7 @@
 function selectorBarchart(sectorStat){
   // set the dimensions of the canvas
   $("#barChartSelector").html('');
+
   var data = [];
   for (var sect in sectorStat){
     data.push({sector:sect, contribution:sectorStat[sect]});

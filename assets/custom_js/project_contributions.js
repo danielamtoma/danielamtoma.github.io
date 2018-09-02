@@ -2,6 +2,8 @@
 function projectContribution(){
     $("#myProjectGraph_3_1").html('');
     $("#myProjectGraph_3_description").html('');
+    $("#myProjectGraph_3_information").html('');
+    $("#myProjectGraph_3_information").html('Représentations des 5 organisations ayant reçu les plus grandes suventions pour ce projet. Cliquez sur une compagnie pour afficher à droite ses informations.<hr/>');
     var id = $('#projectId').text();
 
     // Affichage des informations

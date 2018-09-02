@@ -2,7 +2,10 @@
 function companyInformation(){
   $("#myCompanyGraph_1").html('');
   $("#myCompanyGraph_1_description").html('');
+  $("#myCompanyGraph_1_information").html('');
   var id = $('#companyId').text();
+
+  $("#myCompanyGraph_1_information").html('Liste de tous les projets de l’organisation. Cliquez sur un projet listé pour afficher à droite ses informations.<hr/>');
 
   // Affichage des informations
   $.getJSON('data/companies/'+id+'.json', function(description){
