@@ -23,17 +23,24 @@ La page est divisée en quatre zones principales :
  - Filtre pour les secteurs affiliés aux projets
  - Barre de recherche par mots-clés
  
+![alt text](https://raw.githubusercontent.com/danielamtoma/danielamtoma.github.io/master/assets/img/map.png)
+
 ### 3. Zone liée à l’organisation choisie sur la carte, avec 4 menus :
  - **Menu Informations** : des informations générales sur l’organisation, une liste de ses projets et leurs coûts.
  - **Menu Relations** : une représentation de toutes les entités qui collaborent avec l'organisation sélectionnée.
  - **Menu Coûts** : une représentation des subventions reçues pour les 5  projets ayant reçu les plus grands financements de la part de l'Union Européenne.
  - **Menu Projets** : une représentation visuelle des projets de l'organisation.
+
+![alt text](https://raw.githubusercontent.com/danielamtoma/danielamtoma.github.io/master/assets/img/organisation_information.png)
+![alt text](https://raw.githubusercontent.com/danielamtoma/danielamtoma.github.io/master/assets/img/organisation_contributions.png)
  
 ### 4. Zone liée au projet choisi depuis la zone organisation, avec 4 menus :
 - **Menu Informations** : des informations générales sur le projet et son coût.
 - **Menu Compagnies** : une représentation de toutes les entités collaborant sur le projet.
 - **Menu Coûts** : une représentation de la proportion subvention-coût total du projet.
 - **Menu Tableau** : un tableau représentant les organisations qui participent au projet sélectionné.
+
+![alt text](https://raw.githubusercontent.com/danielamtoma/danielamtoma.github.io/master/assets/img/project_relations.png)
 
 Tous les éléments représentés - projets ou organisations - sont cliquables et les zones se mettent à jour dynamiquement afin de faciliter la navigation.
 
