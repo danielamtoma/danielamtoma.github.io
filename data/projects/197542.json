@@ -1,0 +1,78 @@
+{
+    "rcn": "197542",
+    "acronym": "ESCAPE",
+    "topics": "FETHPC-1-2014",
+    "title": "Energy-efficient SCalable Algorithms for weather Prediction at Exascale",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "ESCAPE will develop world-class, extreme-scale computing capabilities for European operational numerical weather prediction (NWP) and future climate models. The biggest challenge for state-of-the-art NWP arises from the need to simulate complex physical phenomena within tight production schedules. Existing extreme-scale application software of weather and climate services is ill-equipped to adapt to the rapidly evolving hardware. This is exacerbated by other drivers for hardware \ndevelopment, with processor arrangements not necessarily optimal for weather and climate simulations. ESCAPE will redress this imbalance through innovation actions that fundamentally reform Earth-system modelling. \nESCAPE addresses the ETP4HPC SRA 'Energy and resiliency' priority topic, developing a holistic understanding of energy-efficiency for extreme-scale applications using heterogeneous architectures, accelerators and special compute units. The three key reasons why this proposal will provide the necessary means to take a huge step forward in weather and climate modelling as well as interdisciplinary research on energy-efficient high-performance computing are:\n1) Defining and encapsulating the fundamental algorithmic building blocks ('Weather & Climate Dwarfs') underlying weather and climate services. This is the pre-requisite for any subsequent co-design, optimization, and adaptation efforts.\n2) Combining ground-breaking frontier research on algorithm development for use in extreme-scale, high-performance computing applications, minimizing time- and cost-to-solution.\n3) Synthesizing the complementary skills of all project partners. This includes ECMWF, the world leader in global NWP together with leading European regional forecasting consortia, teaming up with excellent university research and experienced high-performance computing centres, two world-leading hardware companies, and one European start-up SME, providing entirely new knowledge and technology to the field.",
+    "totalCost": "3977952,5",
+    "ecMaxContribution": "3977952,5",
+    "coordinator": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+    "coordinatorCountry": "UK",
+    "participants": "NATIONAL UNIVERSITY OF IRELAND GALWAY;DANMARKS METEOROLOGISKE INSTITUT;DEUTSCHER WETTERDIENST;INSTITUT ROYAL METEOROLOGIQUE DE BELGIQUE;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;NVIDIA SWITZERLAND AG;BULL SAS;LOUGHBOROUGH UNIVERSITY;METEO-FRANCE;EIDGENOESSISCHES DEPARTEMENT DES INNERN;OPTALYSYS",
+    "participantCountries": "IE;DK;DE;BE;PL;CH;FR;UK",
+    "projectParticipants": {
+        "996699154": {
+            "orgId": "996699154",
+            "orgName": "INSTITUT ROYAL METEOROLOGIQUE DE BELGIQUE",
+            "ecContrib": 312500
+        },
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 475500
+        },
+        "935293207": {
+            "orgId": "935293207",
+            "orgName": "NVIDIA SWITZERLAND AG",
+            "ecContrib": 193335
+        },
+        "998059094": {
+            "orgId": "998059094",
+            "orgName": "DEUTSCHER WETTERDIENST",
+            "ecContrib": 65625
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 702185
+        },
+        "999578890": {
+            "orgId": "999578890",
+            "orgName": "METEO-FRANCE",
+            "ecContrib": 293175
+        },
+        "999990752": {
+            "orgId": "999990752",
+            "orgName": "LOUGHBOROUGH UNIVERSITY",
+            "ecContrib": 293658
+        },
+        "999978045": {
+            "orgId": "999978045",
+            "orgName": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+            "ecContrib": 367960
+        },
+        "990186089": {
+            "orgId": "990186089",
+            "orgName": "EIDGENOESSISCHES DEPARTEMENT DES INNERN",
+            "ecContrib": 395375
+        },
+        "999509438": {
+            "orgId": "999509438",
+            "orgName": "DANMARKS METEOROLOGISKE INSTITUT",
+            "ecContrib": 275610
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 269280
+        },
+        "935338700": {
+            "orgId": "935338700",
+            "orgName": "OPTALYSYS",
+            "ecContrib": 333750
+        }
+    },
+    "calculatedTotalContribution": 3977953
+}

@@ -1,0 +1,98 @@
+{
+    "rcn": "204189",
+    "acronym": "IMPERIUM",
+    "topics": "GV-6-2015",
+    "title": "IMplementation of Powertrain Control for Economic and Clean Real driving emIssion and fuel ConsUMption",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2019",
+    "objective": "Fuel economy is a key aspect to reduce operating costs and improve efficiency of freight traffic, thus increasing truck competitiveness.\n\nThe main objective of the IMPERIUM project (IMplementation of Powertrain Control for Economic and Clean Real driving EmIssion and ConsUMption) is to achieve fuel consumption reduction by 20% (diesel and urea) whilst keeping the vehicle within the legal limits for pollutant emissions. The approach relies on three stages targeting the improvement of the control strategy:\n\n* Direct optimisation of the control of the main components (engine, exhaust after-treatment, transmission, waste heat recovery, e-drive) to maximize their performances.\n\n* Global powertrain energy manager to coordinate the different energy sources and optimize their use depending on the current driving situation. \n\n* Providing a more comprehensive understanding of the mission (eHorizon, mission-based learning) such that the different energy sources can be planned and optimized on a long term. \n\nThe IMPERIUM consortium consist of major European actors and is able to provide a 100% European value chain for the development of future powertrain control strategies for trucks.",
+    "totalCost": "9945610,68",
+    "ecMaxContribution": "6625977,14",
+    "coordinator": "AVL LIST GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "VOLVO TECHNOLOGY AB;RICARDO UK LIMITED;ROBERT BOSCH GMBH;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;IVECO S.p.A.;DAF TRUCKS NV;CESKE VYSOKE UCENI TECHNICKE V PRAZE;POLITECNICO DI TORINO;POLITECNICO DI MILANO;Continental Automotive GmbH;HONEYWELL, SPOL. S.R.O;FPT MOTORENFORSCHUNG AG;TECHNISCHE UNIVERSITEIT EINDHOVEN;FEV EUROPE GMBH;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "SE;UK;DE;IT;NL;CZ;CH",
+    "projectParticipants": {
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 1391439
+        },
+        "999952728": {
+            "orgId": "999952728",
+            "orgName": "HONEYWELL, SPOL. S.R.O",
+            "ecContrib": 114500
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 204500
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 152000
+        },
+        "999848744": {
+            "orgId": "999848744",
+            "orgName": "CESKE VYSOKE UCENI TECHNICKE V PRAZE",
+            "ecContrib": 35500
+        },
+        "969442445": {
+            "orgId": "969442445",
+            "orgName": "IVECO S.p.A.",
+            "ecContrib": 869000
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 54500
+        },
+        "996253924": {
+            "orgId": "996253924",
+            "orgName": "DAF TRUCKS NV",
+            "ecContrib": 863458
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 512500
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 54500
+        },
+        "999984544": {
+            "orgId": "999984544",
+            "orgName": "VOLVO TECHNOLOGY AB",
+            "ecContrib": 938500
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 242673
+        },
+        "999431353": {
+            "orgId": "999431353",
+            "orgName": "RICARDO UK LIMITED",
+            "ecContrib": 487133
+        },
+        "999432808": {
+            "orgId": "999432808",
+            "orgName": "FEV EUROPE GMBH",
+            "ecContrib": 393500
+        },
+        "999761638": {
+            "orgId": "999761638",
+            "orgName": "Continental Automotive GmbH",
+            "ecContrib": 312275
+        },
+        "930155505": {
+            "orgId": "930155505",
+            "orgName": "FPT MOTORENFORSCHUNG AG",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 6625978
+}

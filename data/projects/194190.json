@@ -1,0 +1,48 @@
+{
+    "rcn": "194190",
+    "acronym": "PING",
+    "topics": "ICT-03-2014",
+    "title": "Printed Intelligent NFC Game cards and packaging",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The emerging technology breakthrough of the Internet-of-Things is expected to offer promising solutions for packaging and interactive entertainment. The PING project anticipates on this evolution and aims to develop flexible, fully integrated metal-oxide Near Field Communication (NFC) tags seamlessly embedded in folded carton packaging and game cards. This will introduce NFC technology at lower cost and without substantial changes to product dimensions and mechanical characteristics. Moreover, one-time programmable memory (PROM) will enable additional functionality. NFC chip development will be ready for implementation in the ìup-scaledî production facility at Pragmatic Printing (>100Mn chips/year). As a result, the PING consortium represents the value chain (design, manufacturing, integration, assembly and conversion) of NFC-enabled products in Europe and will secure follow-on commercialisation for volume production. More specifically the PING objectives are as follows:\n1) Development of a Process Design Kit (PDK) for automated design of complex integrated circuits in scalable metal-oxide technology and compatible with standard simulation tools\n2) Advancing the design of complex NFC circuitry with enhanced performance and functionality using the developed PDK\n3) Implementation of scalable manufacturing processes to realize flexible, large area metal-oxide NFC circuitry\n4) Evaluation of suitable antenna manufacturing processes and chip bonding technologies \n5) Demonstration of flexible, fully integrated metal-oxide NFC tags in the existing products of two end-users scalable to high-volume markets\n\nThe consortium is a well balanced mix of 1 SME (Pragmatic Printing), 3 industrial partners (Cartamundi, Smartrac, Van Genechten Packaging) and 2 major research institutes (imec, TNO) fully capable of achieving the ambitious PING goals. Moreover, this constellation enables the project to tackle the problem with an exhaustive approach, including researchers, developers and users. The main activities will focus on:\nï\tNFC chip design and processing\nï\tNFC antenna design and production\nï\tPROM design and processing\nï\tAssembly of chips, antenna and game card sheets",
+    "totalCost": "3334243",
+    "ecMaxContribution": "3334243",
+    "coordinator": "CARTAMUNDI TURNHOUT",
+    "coordinatorCountry": "BE",
+    "participants": "VG NICOLAUS GMBH & CO KG;SMARTRAC TECHNOLOGY GMBH;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;PRAGMATIC PRINTING LIMITED",
+    "participantCountries": "DE;NL;BE;UK",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 749588
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 353031
+        },
+        "940633833": {
+            "orgId": "940633833",
+            "orgName": "VG NICOLAUS GMBH & CO KG",
+            "ecContrib": 202407
+        },
+        "953121516": {
+            "orgId": "953121516",
+            "orgName": "SMARTRAC TECHNOLOGY GMBH",
+            "ecContrib": 491500
+        },
+        "940865857": {
+            "orgId": "940865857",
+            "orgName": "CARTAMUNDI TURNHOUT",
+            "ecContrib": 999218
+        },
+        "952007083": {
+            "orgId": "952007083",
+            "orgName": "PRAGMATIC PRINTING LIMITED",
+            "ecContrib": 538500
+        }
+    },
+    "calculatedTotalContribution": 3334244
+}

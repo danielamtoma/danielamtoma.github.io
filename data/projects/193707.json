@@ -1,0 +1,38 @@
+{
+    "rcn": "193707",
+    "acronym": "SEPHY",
+    "topics": "COMPET-01-2014",
+    "title": "SPACE ETHERNET PHYSICAL LAYER TRANSCEIVER",
+    "startDate": "01/05/2015",
+    "endDate": "31/12/2018",
+    "objective": "The growing complexity of space systems is creating the need for high speed networking technologies to interconnect the different elements of a spacecraft. This interest has spurred initiatives by both ESA and NASA to define the next generation networking technologies for Space. In both cases, Ethernet has been the preferred choice due to its wide adoption in terrestrial applications and because it is fully specified in standards to ensure interoperability. \n\nThe requirements for integrated circuits that have to operate in space are very different from those that are used in terrestrial applications. In particular, the radiation is much more intense and causes several types of effects on the devices that compromise their reliability. Therefore, special ìrad-hardî design and manufacturing techniques are needed for devices that will operate in space. This means that to implement Ethernet in space systems, rad-hard Ethernet components have to be designed. \n\nThe goal of this proposal is to design and manufacture rad-hard Ethernet PHYs (Physical layer transceivers). In particular a 10/100Mbps PHY is targeted as the first short term objective. This device will enable the use of Ethernet in space systems and also provide the starting point for the long term objective of implementing a Gigabit Ethernet PHY for space. To that end, the proposal includes a feasibility study and also contributions to the 1000BASE-T-1 Ethernet standard.\n\nTo implement the Ethernet PHYs, the consortium has significant analogue (Arquimea) and digital (IHP) design capabilities. In addition, it has also experience on the upper layers of Ethernet and its use in Space systems (TTTech) and on the design and implementation of Ethernet PHYs and Ethernet standards (Universidad de Nebrija). Finally, the electronic technology and manufacturing capabilities are also covered (ATMEL) as are the space system perspective and testing (Thales Alenia Space Spain).",
+    "totalCost": "3115222,5",
+    "ecMaxContribution": "3115222,5",
+    "coordinator": "ARQUIMEA INGENIERIA SL",
+    "coordinatorCountry": "ES",
+    "participants": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK;TTTECH COMPUTERTECHNIK AG;THALES ALENIA SPACE ESPANA, SA;UNIVERSITAS NEBRISSENSIS SA;MICROCHIP TECHNOLOGY NANTES",
+    "participantCountries": "DE;AT;ES;FR",
+    "projectParticipants": {
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 512450
+        },
+        "997456724": {
+            "orgId": "997456724",
+            "orgName": "UNIVERSITAS NEBRISSENSIS SA",
+            "ecContrib": 359350
+        },
+        "999791029": {
+            "orgId": "999791029",
+            "orgName": "TTTECH COMPUTERTECHNIK AG",
+            "ecContrib": 343135
+        },
+        "999701595": {
+            "orgId": "999701595",
+            "orgName": "THALES ALENIA SPACE ESPANA, SA",
+            "ecContrib": 510150
+        }
+    },
+    "calculatedTotalContribution": 1725085
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "199563",
+    "acronym": "SenseCare",
+    "topics": "MSCA-RISE-2015",
+    "title": "Sensor Enabled Affective Computing for Enhancing Medical Care",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "This project brings together a diverse group of subject matter experts from industry and academia under one umbrella, with the main aim of enhancing and advancing future healthcare processes and systems using sensory and machine learning technologies to provide emotional (affective) and cognitive insights into patients well-being so as to provide them with more effective treatment across multiple medical domains. The objective is to develop technologies and methods that will lessen the enormous and growing health care costs of dementia and related cognitive impairments that burden European citizens, which is estimated to cost over Ä250 Billion by 2030 [1]. \n\nFrom a technical perspective, the primary objective is to ìdevelop a cloud based affective computing [2] operating system capable of processing and fusing multiple sensory data streams to provide cognitive and emotional intelligence for AI connected healthcare systemsî. In particular the consortium intends to:\n\nï\tSpecify and engineer the architecture of the SenseCare platform and will release two versions of the platform cloud infrastructure during the life of the RISE project.\nï\tCreate and evaluate two use case test pilots (relating to the dementia care and connected health medical domains) that integrate with, use and apply the services of the SenseCare platform.  \nï\tSpecify and engineer a number of medical informatics applications that will run on the SenseCare platform and that will also be tested and evaluated as part of the use case test pilot phases.\n\nThe outputs of the project will lead to significant and lasting impact on the innovation potential of the individual researchers, their host organisations as well as impacting in a much wider sense at a European and global level.",
+    "totalCost": "504000",
+    "ecMaxContribution": "504000",
+    "coordinator": "CORK INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IE",
+    "participants": "FTK FORSCHUNGSINSTITUT FUR TELEKOMMUNIKATION UND KOOPERATION EV;INMARK EUROPA SA;GLOBIT-GLOBALE INFORMATIONSTECHNIKGMBH;UNIVERSITY OF ULSTER",
+    "participantCountries": "DE;ES;UK",
+    "projectParticipants": {
+        "926001480": {
+            "orgId": "926001480",
+            "orgName": "INMARK EUROPA SA",
+            "ecContrib": 54000
+        },
+        "999885313": {
+            "orgId": "999885313",
+            "orgName": "UNIVERSITY OF ULSTER",
+            "ecContrib": 121500
+        },
+        "999702565": {
+            "orgId": "999702565",
+            "orgName": "GLOBIT-GLOBALE INFORMATIONSTECHNIKGMBH",
+            "ecContrib": 54000
+        },
+        "999595089": {
+            "orgId": "999595089",
+            "orgName": "CORK INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 153000
+        },
+        "991821994": {
+            "orgId": "991821994",
+            "orgName": "FTK FORSCHUNGSINSTITUT FUR TELEKOMMUNIKATION UND KOOPERATION EV",
+            "ecContrib": 121500
+        }
+    },
+    "calculatedTotalContribution": 504000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "201261",
+    "acronym": "CharmingAntimatter",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Measurement of charm matter-antimatter asymmetries",
+    "startDate": "01/08/2017",
+    "endDate": "30/01/2020",
+    "objective": "Flavour physics, and the study of antimatter in particular, is one of the most exciting fields at the frontier of fundamental physics research. It is driven by the question of what happened to the antimatter after the Big Bang and is a recognized long-term priority as part of the CERN European strategy for particle physics. Nature provides particles that contain both matter and antimatter quarks as ideal laboratories for the discovery of matter-antimatter asymmetries (CP violation). This proposal will focus on the least explored of these particles, charm mesons; CP violation discoveries in strange and beauty mesons have already led to Nobel Prizes.\n\nThe centrepiece of the action is a measurement based on data from the LHCb experiment, the world's leading player in flavour physics. The analysis will use one of the most complex techniques for the most sensitive decay mode of charm mesons. The determination of the decay-time dependence of the phase-space structure of this decay gives access to fundamental parameters of nature governing both matter-antimatter oscillations and CP violation. This multi-dimensional analysis involving millions of charm particle decays is computationally extremely challenging. This will be overcome by the development and exploitation of novel techniques of parallel programming on graphical processing units.\n\nFor the needs of the analysis, the project includes a required improvement of the Geant4 Monte Carlo generator software to allow more efficient and more accurate simulation of matter-antimatter differences. The proposal also includes studies to find the optimal method for statistical combination of charm oscillation and CP violation measurements to combine the results of all LHCb measurements involving different decay modes and methods.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "THE UNIVERSITY OF MANCHESTER",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

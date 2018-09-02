@@ -1,0 +1,17 @@
+{
+    "rcn": "216254",
+    "acronym": "ELVER",
+    "topics": "ERC-2017-ADG",
+    "title": "Engineering with Logic and Verification: Mathematically Rigorous Engineering for Safe and Secure Computer Systems",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2023",
+    "objective": "Computer systems have become critical to modern society, but they are pervasively subject to security flaws and malicious attacks, with large-scale exposures of confidential data, denial-of-service and ransom attacks, and the threat of nation-state attackers: they are trusted, but are far from trustworthy. This is especially important for the major pan-industry components of our information infrastructure: processors, programming languages, operating systems, etc.\n\nThe basic problem is that conventional engineering techniques suffice only to make systems that *usually* work. The usual test-and-debug development methods, with poorly specified abstractions described in prose, lack the mathematical rigour of other engineering disciplines - yet the huge investment in legacy systems and skills makes it hard to improve.\n\nELVER will develop *mathematically rigorous* methods for specifying, testing, and reasoning about *real systems*, focussed on the core mechanisms used by hardware and software to enforce security boundaries.  It will establish mathematical models for the industry ARM architecture, used pervasively in mobile phones and embedded devices, and the CHERI research architecture, which protects against many attacks. Using these, ELVER will build tools for analysis of system software, develop techniques for mathematical proof of safety and security properties, and explore improved systems programming languages.  ELVER will build on successful collaborations with ARM, IBM, and the C/C\\\\ ISO standards committees.  It will directly impact mainstream processor architectures, languages, and development methods, smoothly complementing existing methods while simultaneously enabling longer-term research towards the gold standard of provably secure systems.\n\nELVER will thus demonstrate the feasibility and benefits of a more rigorous approach to system engineering, putting future systems on more solid foundations, and hence making them safer and more secure",
+    "totalCost": "2473844",
+    "ecMaxContribution": "2473844",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

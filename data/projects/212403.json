@@ -1,0 +1,38 @@
+{
+    "rcn": "212403",
+    "acronym": "SYMBIOSIS",
+    "topics": "BG-14-2017",
+    "title": "A Holistic Opto-Acoustic System for Monitoring Marine Biodiversities",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "We present the SYMBIOSIS project to provide a mature, cost effective autonomous optco-acoustic prototype for the characterization, classification, and biomass evaluation of six target pelagic fish that are important to the fishery industry and that reflect on the health of the environment. The processing will be made in a real-time fashion onsite, and the results will be sent to a shore station. The system will be completely autonomous and will withstand three month deployment without recharging. We will demonstrate the capabilities of the system and its readiness to a TRL6 stage over three sea and ocean mooring sites.\nSYMBIOSIS is devised as a blend of acoustic and optical components. The acoustic unit will include an active underwater acoustic array of 2X3 elements, to detect, classify, evaluate the biomass, and localize the predefined pelagic fish in the far field of 500m. The optical component will comprise of a fixed frame of six underwater optical cameras, and will perform machine learning-based classification and biomass evaluation in the near field of 2-3 attenuation lengths in low-light conditions. To conserve power the optical unit will be triggered upon detection from the acoustic unit, and will use the results from the acoustic localization. The system will be modular, both in term of performance and in terms of composition, and will adapt to different scenarios and cost requirements.\nSYMBIOSIS will involve the university of Haifa, Israel (four groups); IMDEA Networks, Spain (two groups); Wireless and More, Italy; and EvoLogics, Germany. The academic partners have already developed all the technical components of the system, and have demonstrated preliminary results in multiple sea experiments. The industry partners have substantial experience with integrating acoustic and optical components for long-term sea development, and is a leading firm for the development of realtime underwater signal processing.",
+    "totalCost": "1602460",
+    "ecMaxContribution": "1399960",
+    "coordinator": "UNIVERSITY OF HAIFA",
+    "coordinatorCountry": "IL",
+    "participants": "EVOLOGICS GMBH;WIRELESS AND MORE SRL;FUNDACION IMDEA NETWORKS",
+    "participantCountries": "DE;IT;ES",
+    "projectParticipants": {
+        "959000395": {
+            "orgId": "959000395",
+            "orgName": "EVOLOGICS GMBH",
+            "ecContrib": 402500
+        },
+        "911627729": {
+            "orgId": "911627729",
+            "orgName": "WIRELESS AND MORE SRL",
+            "ecContrib": 70000
+        },
+        "999651058": {
+            "orgId": "999651058",
+            "orgName": "FUNDACION IMDEA NETWORKS",
+            "ecContrib": 233722
+        },
+        "999897826": {
+            "orgId": "999897826",
+            "orgName": "UNIVERSITY OF HAIFA",
+            "ecContrib": 693738
+        }
+    },
+    "calculatedTotalContribution": 1399960
+}

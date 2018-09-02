@@ -1,0 +1,218 @@
+{
+    "rcn": "194937",
+    "acronym": "EGI-Engage",
+    "topics": "EINFRA-1-2014",
+    "title": "Engaging the EGI Community towards an Open Science Commons",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2017",
+    "objective": "Over the last decade, the European Grid Infrastructure (EGI) has built a distributed computing and data infrastructure to support over 21,000 researchers from many disciplines with unprecedented data analysis capabilities. EGI builds on the European and national investments and relies on the expertise of EGI.eu - a not-for-profit foundation that provides coordination to the EGI Community, including user groups, EGI.eu participants in the EGI Council, and the other collaborating partners.\n\nThe mission of EGI-Engage is to accelerate the implementation of the Open Science Commons vision, where researchers from all disciplines have easy and open access to the innovative digital services, data, knowledge and expertise they need for their work. The Open Science Commons is grounded on three pillars: the e-Infrastructure Commons, an ecosystem of key services; the Open Data Commons, where any researcher can access, use and reuse data; and the Knowledge Commons, in which communities have shared ownership of knowledge and participate in the co-development of software and are technically supported to exploit state-of-the-art digital services.\n\nEGI-Engage will expand the capabilities offered to scientists (e.g. improved cloud or data services) and the spectrum of its user base by engaging with large Research Infrastructures  (RIs), the long-tail of science and industry/SMEs. The main engagement instrument will be a network of eight Competence Centres, where National Grid Initiatives (NGIs), user communities, technology and service providers will join forces to collect requirements, integrate community-specific applications into state-of-the-art services, foster interoperability across e-Infrastructures, and evolve services through a user-centric development model. The project will also coordinate the NGI efforts to support the long-tail of science by developing ad hoc access policies and by providing services and resources that will lower barriers and learning curves.",
+    "totalCost": "8650001,5",
+    "ecMaxContribution": "8000000",
+    "coordinator": "STICHTING EGI",
+    "coordinatorCountry": "NL",
+    "participants": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB;EISCAT SCIENTIFIC ASSOCIATION;FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS FAO;AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE;USTAV INFORMATIKY,  SLOVENSKA AKADEMIA VIED;MAAT France;UNIVERSITI PUTRA MALAYSIA;BIOBANKS AND BIOMOLECULAR RESOURCESRESEARCH INFRASTRUCTURE CONSORTIUM(BBMRI-ERIC);EUROPEAN MOLECULAR BIOLOGY LABORATORY;AGROKNOW IKE;INSTITUTE OF INFORMATION AND COMMUNICATION TECHNOLOGIES;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ADVANCED SCIENCE AND TECHNOLOGY INSTITUTE;ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE;TURKIYE BILIMSEL VE TEKNOLOJIK ARASTIRMA KURUMU;UPPSALA UNIVERSITET;LABORATORIO DE INSTRUMENTACAO E FISICA EXPERIMENTAL DE PARTICULAS;PROVINCIA LOMBARDO VENETA - ORDINEOSPEDALIERO DI SAN GIOVANNI DI DIO- FATEBENEFRATELLI;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;CONSORZIO INTERUNIVERSITARIO RISONANZE MAGNETICHE DI METALLO PROTEINE;SURFSARA BV;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;CONSIGLIO NAZIONALE DELLE RICERCHE;MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET;EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH;THE TRUSTEES OF INDIANA UNIVERSITY;INSTITUT TEKNOLOGI BANDUNG;ACADEMIA SINICA;ENGINEERING - INGEGNERIA INFORMATICA SPA;SVEUCILISTE U ZAGREBU SVEUCILISNI RACUNSKI CENTAR;GESELLSCHAFT FUR WISSENSCHAFTLICHE DATENVERARBEITUNG MBH GOTTINGEN;SWISS NATIONAL GRID ASSOCIATION (SWING);INSTITUT NATIONAL DE LA RECHERCHE AGRONOMIQUE;OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN;ICETA INSTITUTO DE CIENCIAS, TECNOLOGIAS E AGROAMBIENTE DA UNIVERSIDADE DO PORTO;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;VLAAMS INSTITUUT VOOR DE ZEE VZW;CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY;ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "participantCountries": "CZ;SE;IT;PL;SK;FR;MY;AT;DE;EL;BG;PH;TR;PT;ES;NL;UK;HU;CH;US;ID;TW;HR;BE;FI",
+    "projectParticipants": {
+        "999615168": {
+            "orgId": "999615168",
+            "orgName": "PROVINCIA LOMBARDO VENETA - ORDINEOSPEDALIERO DI SAN GIOVANNI DI DIO- FATEBENEFRATELLI",
+            "ecContrib": 21750
+        },
+        "999661534": {
+            "orgId": "999661534",
+            "orgName": "LABORATORIO DE INSTRUMENTACAO E FISICA EXPERIMENTAL DE PARTICULAS",
+            "ecContrib": 108500
+        },
+        "998484245": {
+            "orgId": "998484245",
+            "orgName": "ICETA INSTITUTO DE CIENCIAS, TECNOLOGIAS E AGROAMBIENTE DA UNIVERSIDADE DO PORTO",
+            "ecContrib": 18000
+        },
+        "999985029": {
+            "orgId": "999985029",
+            "orgName": "UPPSALA UNIVERSITET",
+            "ecContrib": 117719
+        },
+        "990872073": {
+            "orgId": "990872073",
+            "orgName": "THE TRUSTEES OF INDIANA UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999823912": {
+            "orgId": "999823912",
+            "orgName": "OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+            "ecContrib": 22500
+        },
+        "999650282": {
+            "orgId": "999650282",
+            "orgName": "UNIVERSITI PUTRA MALAYSIA",
+            "ecContrib": 0
+        },
+        "999844573": {
+            "orgId": "999844573",
+            "orgName": "AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE",
+            "ecContrib": 258875
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 698000
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 48875
+        },
+        "999577920": {
+            "orgId": "999577920",
+            "orgName": "INSTITUT TEKNOLOGI BANDUNG",
+            "ecContrib": 0
+        },
+        "952865630": {
+            "orgId": "952865630",
+            "orgName": "SURFSARA BV",
+            "ecContrib": 324219
+        },
+        "999630688": {
+            "orgId": "999630688",
+            "orgName": "ADVANCED SCIENCE AND TECHNOLOGY INSTITUTE",
+            "ecContrib": 0
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 721488
+        },
+        "999593731": {
+            "orgId": "999593731",
+            "orgName": "USTAV INFORMATIKY,  SLOVENSKA AKADEMIA VIED",
+            "ecContrib": 54750
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 230875
+        },
+        "990097722": {
+            "orgId": "990097722",
+            "orgName": "EISCAT SCIENTIFIC ASSOCIATION",
+            "ecContrib": 148586
+        },
+        "999599939": {
+            "orgId": "999599939",
+            "orgName": "VLAAMS INSTITUUT VOOR DE ZEE VZW",
+            "ecContrib": 33000
+        },
+        "999589463": {
+            "orgId": "999589463",
+            "orgName": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB",
+            "ecContrib": 274812
+        },
+        "999594701": {
+            "orgId": "999594701",
+            "orgName": "ACADEMIA SINICA",
+            "ecContrib": 0
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 92250
+        },
+        "999587135": {
+            "orgId": "999587135",
+            "orgName": "TURKIYE BILIMSEL VE TEKNOLOJIK ARASTIRMA KURUMU",
+            "ecContrib": 28000
+        },
+        "946597878": {
+            "orgId": "946597878",
+            "orgName": "BIOBANKS AND BIOMOLECULAR RESOURCES RESEARCH INFRASTRUCTURE CONSORTIUM (BBMRI-ERIC)",
+            "ecContrib": 0
+        },
+        "989221715": {
+            "orgId": "989221715",
+            "orgName": "STICHTING EGI",
+            "ecContrib": 2804224
+        },
+        "941253178": {
+            "orgId": "941253178",
+            "orgName": "AGROKNOW IKE",
+            "ecContrib": 14250
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 431101
+        },
+        "999645820": {
+            "orgId": "999645820",
+            "orgName": "CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY",
+            "ecContrib": 144188
+        },
+        "999993274": {
+            "orgId": "999993274",
+            "orgName": "INSTITUT NATIONAL DE LA RECHERCHE AGRONOMIQUE",
+            "ecContrib": 48588
+        },
+        "999651252": {
+            "orgId": "999651252",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET",
+            "ecContrib": 165210
+        },
+        "973354455": {
+            "orgId": "973354455",
+            "orgName": "INSTITUTE OF INFORMATION AND COMMUNICATION TECHNOLOGIES",
+            "ecContrib": 27019
+        },
+        "999655326": {
+            "orgId": "999655326",
+            "orgName": "SVEUCILISTE U ZAGREBU SVEUCILISNI RACUNSKI CENTAR",
+            "ecContrib": 169125
+        },
+        "999516810": {
+            "orgId": "999516810",
+            "orgName": "CONSORZIO INTERUNIVERSITARIO RISONANZE MAGNETICHE DI METALLO PROTEINE",
+            "ecContrib": 53000
+        },
+        "936898654": {
+            "orgId": "936898654",
+            "orgName": "SWISS NATIONAL GRID ASSOCIATION (SWING)",
+            "ecContrib": 0
+        },
+        "999608281": {
+            "orgId": "999608281",
+            "orgName": "FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS FAO",
+            "ecContrib": 40688
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 40699
+        },
+        "998399661": {
+            "orgId": "998399661",
+            "orgName": "MAAT France",
+            "ecContrib": 28000
+        },
+        "958202473": {
+            "orgId": "958202473",
+            "orgName": "GESELLSCHAFT FUR WISSENSCHAFTLICHE DATENVERARBEITUNG MBH GOTTINGEN",
+            "ecContrib": 67849
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 78000
+        },
+        "999937887": {
+            "orgId": "999937887",
+            "orgName": "ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE",
+            "ecContrib": 419312
+        },
+        "999988133": {
+            "orgId": "999988133",
+            "orgName": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+            "ecContrib": 138000
+        }
+    },
+    "calculatedTotalContribution": 7871452
+}

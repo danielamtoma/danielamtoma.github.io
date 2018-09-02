@@ -1,0 +1,23 @@
+{
+    "rcn": "195037",
+    "acronym": "JUNO",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Joint Volumetric Reconstruction and Automated Analysis of the Fetal Heart from Cardiovascular Magnetic Resonance Images",
+    "startDate": "16/11/2015",
+    "endDate": "15/11/2017",
+    "objective": "Recent advancements in cardiovascular magnetic resonance (CMR) have finally made possible static and dynamic in-vivo imaging of the fetal heart. This new capability has the potential to provide a fundamental new tool for structural and functional assessment of the fetal cardiovascular system, with groundbreaking clinical consequences. In fact, congenital heart diseases (CHDs) and intrauterine growth restriction (IUGR, which induces cardiovascular remodeling) are among the leading causes of infant mortality worldwide. Fetal CMR imaging may potentially allow more accurate diagnosis of these conditions, and thus improve postnatal outcomes thanks to better in-utero therapy administration, delivery and perinatal intervention planning. Unfortunately, fetal CMR is currently limited to the acquisition of a single slice in time, allowing only qualitative and operator-dependent evaluation of the fetal heart. The JUNO project aims at improving the present capabilities of fetal CMR by tackling its limitations with an image processing approach. The specific goals are (1) development of a method for super resolution volumetric reconstruction of the fetal heart, using image registration techniques applied to a set of single-slice acquisitions; (2) development of automated segmentation methods, based on deformable models and atlases, for the identification of structures such as ventricular contours and main vesselsí boundaries; (3) extraction of quantitative functional parameters (e.g. stroke volume and ejection fraction) from datasets acquired from healthy, CHDs- and IUGR-affected fetuses, to test the feasibility of objective detection of these conditions. By achieving these goals, JUNO will provide an innovative set of methods allowing for the first time quantitative, noninvasive, functional assessment of the fetal cardiovascular system, and thus address a long standing clinical need for such methodology.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

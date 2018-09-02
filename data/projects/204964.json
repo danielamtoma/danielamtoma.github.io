@@ -1,0 +1,23 @@
+{
+    "rcn": "204964",
+    "acronym": "BrainControl",
+    "topics": "ERC-PoC-2015",
+    "title": "Stable Brain-Machine control via a learnable standalone interface",
+    "startDate": "01/09/2016",
+    "endDate": "28/02/2018",
+    "objective": "Non-invasive Brain Machine Interfaces (BMI) bring great promise for neuro-rehabilitation and neuro-prosthesis, as well as for brain control of everyday devices and performance of simple tasks. Over the last 15 years the interest in BMIs has grown substantially, and a variety of interfaces have been developed. The field has been growing dramatically, and market studies reveal an estimated market size of $1.46 billion by 2020. However, non-invasive BMIs have failed to reach the impressive control seen by BMIs implanted in the brain. To date, they require considerable training to reach a moderate level of control, they are susceptible to noise and interference, do not generalize between people and devices, and performance does not show long-term consolidation. Results from our ERC-funded work uncovered a new paradigm that dramatically improves these issues. We propose to develop a prototype for a novel, standalone, non-invasive, noise-resistant BMI, based on an unexplored BMI learning paradigm. In this POC we will 1) refine the brain signal interface (decoder) to be automatically customizable to each individual and produces faster training, 2) implement our BMI technology into a portable hardware-based system, and 3) develop a virtual reality/gaming training platform that will increase learning, performance and consolidation of BMI control. In addition to these technical aims, we propose to explore commercial opportunities and societal benefits, in particular in the health sector. We will conduct market analysis and develop a business case for this product, while expanding industry contacts for production and commercialization.\nThe work proposed in this PoC grant will permit, for the first time to our knowledge, the development of a portable, stand-alone, noise-resistant, and easy to learn BMI, applicable across a wide set of devices, which will bring a significant social impact in health, entertainment and other applications.",
+    "totalCost": "149625",
+    "ecMaxContribution": "149625",
+    "coordinator": "FUNDACAO D. ANNA SOMMER CHAMPALIMAUD E DR. CARLOS MONTEZ CHAMPALIMAUD",
+    "coordinatorCountry": "PT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "967498371": {
+            "orgId": "967498371",
+            "orgName": "FUNDACAO D. ANNA SOMMER CHAMPALIMAUD E DR. CARLOS MONTEZ CHAMPALIMAUD",
+            "ecContrib": 149625
+        }
+    },
+    "calculatedTotalContribution": 149625
+}

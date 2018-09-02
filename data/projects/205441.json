@@ -1,0 +1,63 @@
+{
+    "rcn": "205441",
+    "acronym": "5G CHAMPION",
+    "topics": "EUK-01-2016",
+    "title": "5G Communication with a Heterogeneous, Agile Mobile network in the Pyunchang wInter Olympic competioN",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2018",
+    "objective": "The 5G CHAMPION project ambitions to deliver the first 5G system proof-of-concept in conjunction with the 2018 South Korean Winter Olympics. Key novel 5G building blocks will be developed and implemented into a new architectural approach providing an efficient end-to-end system performance encompassing cutting edge 5G radio-access, core-network and satellite technologies.\nIt will be the first time ever that state-of-the art terrestrial wireless communication, including future key enablers such as mmWave access, will be seamlessly combined with a disruptive satellite communication, forming a ëmulti RAT capableí 5G network optimised to serve user equipment in various deployment context. The novel building blocks will rely on innovations in RF, antenna and radio protocols design for mmWave access and backhaul network, efficient virtualization through NFV/SDN functions enabling a flexible packet core implementation and satellite based communication and navigation solutions for extended coverage and ubiquitous high precision location estimation. Emphasize is furthermore laid on an efficient standardization strategy and on the resolution of key certification hurdles. \nThe proposed technologies will finally be improving Latency in the ms range and provide high throughput in very dense user environment, cost effective network management, QoS improved in high speed mobility conditions, high precision/integrity location and timing estimation, ubiquitous service provisioning as well as flexibility in equipment reconfiguration through software which are listed among the main challenges for the design of the 5G network. These technologies are of particular interest for High speed mobile broadband and Internet of things and the respective integration of heterogeneous technologies in a common framework.",
+    "totalCost": "2998517,5",
+    "ecMaxContribution": "2998517,5",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "OULUN YLIOPISTO;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;TELESPAZIO FRANCE SAS;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;INTEL DEUTSCHLAND GMBH;NOKIA SOLUTIONS AND NETWORKS OY;THALES ALENIA SPACE FRANCE;IMINDS",
+    "participantCountries": "FI;DE;FR;BE",
+    "projectParticipants": {
+        "999844670": {
+            "orgId": "999844670",
+            "orgName": "OULUN YLIOPISTO",
+            "ecContrib": 527750
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 184375
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 710778
+        },
+        "997899044": {
+            "orgId": "997899044",
+            "orgName": "TELESPAZIO FRANCE SAS",
+            "ecContrib": 100750
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 213856
+        },
+        "999925471": {
+            "orgId": "999925471",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS OY",
+            "ecContrib": 797400
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 215101
+        },
+        "967538432": {
+            "orgId": "967538432",
+            "orgName": "INTEL DEUTSCHLAND GMBH",
+            "ecContrib": 248508
+        }
+    },
+    "calculatedTotalContribution": 2998518
+}

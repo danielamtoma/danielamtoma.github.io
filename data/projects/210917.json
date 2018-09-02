@@ -1,0 +1,78 @@
+{
+    "rcn": "210917",
+    "acronym": "TrustVehicle",
+    "topics": "ART-04-2016",
+    "title": "Improved trustworthiness and weather-independence of conditional automated vehicles in mixed traffic scenarios",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2020",
+    "objective": "Automated driving can be implemented with relatively simple controllers if the current location of the ego vehicle and the current and future locations of other road users are known without uncertainty. However, this is not going to happen in the initial stages of the introduction of automated driving systems into the market. As a consequence, system and human driver uncertainty pose a significant challenge in the development of trustable and fault-tolerant automated driving controllers, especially for conditional automation (SAE level 3) in mixed traffic scenarios. The TrustVehicle consortium brings together participants from the whole vehicle value chain to enhance safety and user-friendliness of level 3 automated driving systems. The main objectives are: (i) the systematic identification of critical road scenarios based on in-depth analysis of possible traffic situations and human behaviour; (ii) the setup of new tools for the cost- and time-effective assessment of driver-in/off-the-loop situations; (iii) design of controllers and sensor fusion systems capable of dealing with complex, uncertain and variable road scenarios to enhance road safety; (iv) the implementation of intuitive human-machine interfaces for the safe management of the transition phases taking into account user acceptance and gender-specific aspects; and (iv) the establishment of an adaptive and agile vehicle validation based on self-diagnostics and data logging to steadily extend the list of relevant scenarios and test cases. The outputs of the TrustVehicle project will be extensively assessed in real-world operating conditions on four demonstrators representing four vehicle classes. End users of the technology will systematically and thoroughly express their requirements, expectations, and concerns during the consortium activity. Special focus will be put on the demonstration of the fault-tolerant and fail-operational system behaviour at any time and for different kinds of weather conditions.",
+    "totalCost": "4998903,75",
+    "ecMaxContribution": "4998903,75",
+    "coordinator": "Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH",
+    "coordinatorCountry": "AT",
+    "participants": "LINKKER OY;CISC SEMICONDUCTOR GMBH;INFINEON TECHNOLOGIES AUSTRIA  AG;IDEAS & MOTION SRL;VOLVO PERSONVAGNAR AB;Teknologian tutkimuskeskus VTT Oy;VALEO VISION SAS;AVL LIST GMBH;TOFAS TURK OTOMOBIL FABRIKASI ANONIM SIRKETI;FORD OTOMOTIV SANAYI ANONIM SIRKETI;UNIVERSITY OF SURREY",
+    "participantCountries": "FI;AT;IT;SE;FR;TR;UK",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 400134
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 427325
+        },
+        "999945065": {
+            "orgId": "999945065",
+            "orgName": "VOLVO PERSONVAGNAR AB",
+            "ecContrib": 487250
+        },
+        "995963991": {
+            "orgId": "995963991",
+            "orgName": "VALEO VISION SAS",
+            "ecContrib": 450000
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 388529
+        },
+        "937989419": {
+            "orgId": "937989419",
+            "orgName": "LINKKER OY",
+            "ecContrib": 380000
+        },
+        "988751750": {
+            "orgId": "988751750",
+            "orgName": "CISC SEMICONDUCTOR GMBH",
+            "ecContrib": 315000
+        },
+        "997885852": {
+            "orgId": "997885852",
+            "orgName": "Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH",
+            "ecContrib": 390000
+        },
+        "937035230": {
+            "orgId": "937035230",
+            "orgName": "FORD OTOMOTIV SANAYI ANONIM SIRKETI",
+            "ecContrib": 540000
+        },
+        "972778275": {
+            "orgId": "972778275",
+            "orgName": "TOFAS TURK OTOMOBIL FABRIKASI ANONIM SIRKETI",
+            "ecContrib": 480000
+        },
+        "951805323": {
+            "orgId": "951805323",
+            "orgName": "IDEAS & MOTION SRL",
+            "ecContrib": 300625
+        },
+        "999705087": {
+            "orgId": "999705087",
+            "orgName": "INFINEON TECHNOLOGIES AUSTRIA  AG",
+            "ecContrib": 440041
+        }
+    },
+    "calculatedTotalContribution": 4998904
+}

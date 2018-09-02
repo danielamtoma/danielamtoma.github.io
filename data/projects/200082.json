@@ -1,0 +1,23 @@
+{
+    "rcn": "200082",
+    "acronym": "DYNAMICMARCH",
+    "topics": "ERC-StG-2015",
+    "title": "Dynamics of Multiple, Interacting and Concurrent Markov Chains",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2021",
+    "objective": "Markov chains are fundamental processes and have been studied in nearly every scientific discipline in the past 100 years. In computer science, reversible Markov chains, also known as random walks, form the basis of many efficient randomised algorithms which have been successfully applied to a variety of complex sampling, learning and optimisation problems.\n\nNowadays an increasing number of algorithms and processes on networks are based on multiple (concurrent and possibly dependent) random walks, including algorithms for packet routing, content search, graph clustering, link prediction and website ranking. This trend will be reinforced by the steady growth of large-scale networks and massive data sets. However, the existing theory of single random walks is not well-suited to cope with the complexity inherent to multiple random walks, and even for independent walks many fundamental questions remain open.\n\nThe goal of this proposal is to develop a systematic and rigorous study of multiple random walks. First, we will analyse this random process via commonly used metrics such as hitting times, cover times, mixing times as well as new quantities which are unique to multiple random walks. Then we will connect these quantities to structural properties of the underlying graph. Finally, these insights will be applied to the design of new efficient randomised algorithms for large graphs and distributed networks.",
+    "totalCost": "1400789",
+    "ecMaxContribution": "1400789",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

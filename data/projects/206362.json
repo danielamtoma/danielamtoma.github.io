@@ -1,0 +1,58 @@
+{
+    "rcn": "206362",
+    "acronym": "ACTiCLOUD",
+    "topics": "ICT-06-2016",
+    "title": "ACTivating resource efficiency and large databases in the CLOUD",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Despite their proliferation as a dominant computing paradigm, cloud computing systems lack effective mechanisms to manage their vast amounts of resources efficiently, leading to severe resource waste and ultimately limiting their applicability to large classes of critical applications that pose non-moderate resource demands. This creates a significant need to lift existing technological barriers of actual fluidity and scalability of cloud resources towards promoting cloud computing as a critical cornerstone for digital economy.\n\nACTiCLOUD proposes a novel cloud computing architecture for drastically improved management of cloud resources, targeting 1.5x increase in resource efficiency and more than 10x in scalability. By utilizing modest investments on hardware intelligence that enables true resource disaggregation between multiple servers, we will progress current state-of-the-art in hypervisors and cloud management systems promoting holistic resource management at the rack scale and across distributed cloud sites. On top of this, we will evolve the ecosystem around in-memory databases, a core component for extremely demanding and highly critical classes of applications that up to now have faced severe difficulties in matching their resource requirements with state-of-the-art cloud offerings, with a final goal to provide cost-efficient and highly performant DataBase-as-a-Service (DBaaS) cloud platforms.\n\nACTiCLOUD builds on top of cutting-edge European technologies for cloud servers brought into the project by Numascale and Kaleao, and extends OnApp's MicroVisor, an innovative hypervisor to virtualize resources at the rack-scale. Furthermore it joins the forces of highly acclaimed academic institutions to address key research challenges and extend the capabilities of OpenStack and JVM. Finally, it applies the foreseen innovation to MonetDB, the column-store database pioneer, and Neo4j, the world-leader in graph databases.",
+    "totalCost": "4733532,5",
+    "ecMaxContribution": "4733532,5",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "KALEAO LIMITED;THE UNIVERSITY OF MANCHESTER;NETWORK ENGINE FOR OBJECTS IN LUND AB;UMEA UNIVERSITET;NUMASCALE AS;ONAPP LIMITED;MONETDB SOLUTIONS B.V.",
+    "participantCountries": "UK;SE;NO;GI;NL",
+    "projectParticipants": {
+        "949731657": {
+            "orgId": "949731657",
+            "orgName": "MONETDB SOLUTIONS B.V.",
+            "ecContrib": 616875
+        },
+        "954880320": {
+            "orgId": "954880320",
+            "orgName": "ONAPP LIMITED",
+            "ecContrib": 610000
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 513250
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 557682
+        },
+        "937061129": {
+            "orgId": "937061129",
+            "orgName": "NUMASCALE AS",
+            "ecContrib": 671000
+        },
+        "923198471": {
+            "orgId": "923198471",
+            "orgName": "KALEAO LIMITED",
+            "ecContrib": 503600
+        },
+        "999881821": {
+            "orgId": "999881821",
+            "orgName": "UMEA UNIVERSITET",
+            "ecContrib": 556125
+        },
+        "956818380": {
+            "orgId": "956818380",
+            "orgName": "NETWORK ENGINE FOR OBJECTS IN LUND AB",
+            "ecContrib": 705000
+        }
+    },
+    "calculatedTotalContribution": 4733532
+}

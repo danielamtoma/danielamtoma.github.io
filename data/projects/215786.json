@@ -1,0 +1,17 @@
+{
+    "rcn": "215786",
+    "acronym": "ML Potentials",
+    "topics": "MSCA-IF-2017",
+    "title": "Constructing Intermolecular Potentials by Combining Physics and Machine Learning",
+    "startDate": "15/03/2018",
+    "endDate": "14/03/2020",
+    "objective": "Statistical-learning approaches are emerging as powerful alternatives to direct approaches to solving the electronic Schrˆdinger equation for determining the energy and other properties of molecules. Despite the recent success of methods like deep neural networks, these methods are limited to relatively small molecules. The issue is that predicting long-range intermolecular interactions with machine learning requires sampling the vast diversity of chemical environments that occur on an extended length scale, leading to a combinatorial explosion in the amount of training data that is required. To solve this problem, the functional form of the long-range interactions is taken from physical models, but the parameters that enter those expressions (atomic charges/multipoles; induced charges/multipoles; van der Waals coefficients) are determined by combining physical insight with machine learning. In this model, machine learning is used only to predict short-range phenomena like the dependence of atomic charges/multipoles on the molecular structure and the dependence of induced atomic charges/multipoles on the local electric field. The resulting machine-learned physically-motivated atomistic intermolecular potentials are valid for molecules of any size, but only require training data from small- and medium-sized molecules.\nThis development will provide molecular energies with the accuracy of quantum methods, at the computational cost of classical molecular mechanics approaches. This not only allows one to compute interaction energies for large molecules (e.g., the binding energy between a drug and a receptor), but allows the computational screening of molecules based on computed interaction energies. In addition to its transformative computational utility, this pioneering strategyóusing physical insight to build a model, then using machine learning methods for the parameters in the modelócan be extended to many other problems in chemistry, physics, and materials science.",
+    "totalCost": "160800",
+    "ecMaxContribution": "160800",
+    "coordinator": "UNIVERSITE DU LUXEMBOURG",
+    "coordinatorCountry": "LU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

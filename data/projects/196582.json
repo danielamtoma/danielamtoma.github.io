@@ -1,0 +1,23 @@
+{
+    "rcn": "196582",
+    "acronym": "3D Reloaded",
+    "topics": "ERC-CoG-2014",
+    "title": "3D Reloaded: Novel Algorithms for 3D Shape Inference and Analysis",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Despite their amazing success, we believe that computer vision algorithms have only scratched the surface of what can be done in terms of modeling and understanding our world from images. We believe that novel image analysis techniques will be a major enabler and driving force behind next-generation technologies, enhancing everyday life and opening up radically new possibilities. And we believe that the key to achieving this is to develop algorithms for reconstructing and analyzing the 3D structure of our world. \n\nIn this project, we will focus on three lines of research:\n\nA) We will develop algorithms for 3D reconstruction from standard color cameras and from RGB-D cameras. In particular, we will promote real-time-capable direct and dense methods. In contrast to the classical two-stage approach of sparse feature-point based motion estimation and subsequent dense reconstruction, these methods optimally exploit all color information to jointly estimate dense geometry and camera motion.\n\nB) We will develop algorithms for 3D shape analysis, including rigid and non-rigid matching, decomposition and interpretation of 3D shapes. We will focus on algorithms which are optimal or near-optimal. One of the major computational challenges lies in generalizing existing 2D shape analysis techniques to shapes in 3D and 4D (temporal evolutions of 3D shape).\n\nC) We will develop shape priors for 3D reconstruction. These can be learned from sample shapes or acquired during the reconstruction process. For example, when reconstructing a larger office algorithms may exploit the geometric self-similarity of the scene, storing a model of a chair and its multiple instances only once rather than multiple times. \n\nAdvancing the state of the art in geometric reconstruction and geometric analysis will have a profound impact well beyond computer vision. We strongly believe that we have the necessary competence to pursue this project. Preliminary results have been well received by the community.",
+    "totalCost": "2000000",
+    "ecMaxContribution": "2000000",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 2000000
+        }
+    },
+    "calculatedTotalContribution": 2000000
+}

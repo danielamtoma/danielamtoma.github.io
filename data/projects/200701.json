@@ -1,0 +1,23 @@
+{
+    "rcn": "200701",
+    "acronym": "ARCA",
+    "topics": "ERC-StG-2015",
+    "title": "Analysis and Representation of Complex Activities in Videos",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "The goal of the project is to automatically analyse human activities observed in videos. Any solution to this problem will allow the development of novel applications. It could be used to create short videos that summarize daily activities to support patients suffering from Alzheimer's disease. It could also be used for education, e.g., by providing a video analysis for a trainee in the hospital that shows if the tasks have been correctly executed.\n\nThe analysis of complex activities in videos, however, is very challenging since activities vary in temporal duration between minutes and hours, involve interactions with several objects that change their appearance and shape, e.g., food during cooking, and are composed of many sub-activities, which can happen at the same time or in various orders.\n\nWhile the majority of recent works in action recognition focuses on developing better feature encoding techniques for classifying sub-activities in short video clips of a few seconds, this project moves forward and aims to develop a  higher level representation of complex activities to overcome the limitations of current approaches. This includes the handling of large time variations and the ability to recognize and locate complex activities in videos. To this end, we aim to develop a unified model that provides detailed information about the activities and sub-activities in terms of time and spatial location, as well as involved pose motion, objects and their transformations.\n\nAnother aspect of the project is to learn a representation from videos that is not tied to a specific source of videos or limited to a specific application. Instead we aim to learn a representation that is invariant to a perspective change, e.g., from a third-person perspective to an egocentric perspective, and can be applied to various modalities like videos or depth data without the need of collecting massive training data for all modalities. In other words, we aim to learn the essence of activities.",
+    "totalCost": "1499875",
+    "ecMaxContribution": "1499875",
+    "coordinator": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980276": {
+            "orgId": "999980276",
+            "orgName": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+            "ecContrib": 1499875
+        }
+    },
+    "calculatedTotalContribution": 1499875
+}

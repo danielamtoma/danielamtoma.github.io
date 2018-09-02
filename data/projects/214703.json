@@ -1,0 +1,17 @@
+{
+    "rcn": "214703",
+    "acronym": "mPP",
+    "topics": "ERC-2017-COG",
+    "title": "machine learning for Particle Physics",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "This project proposes to use modern Machine Learning (ML),  particularly Deep Learning (DL), as a breakthrough solution to address the scientific, technological, and financial challenges that High Energy Physics (HEP) will face in the decade ahead. The quest for new physics is increasing the complexity of the experiments and, consequently, the human and financial costs to operate these detectors, with experiments facing at best flat budgets. ML offers a way out of this impasse. With the development of DL, ML has successfully addressed tasks such as image recognition and text understanding, which eventually opened the way to automatizing complex tasks. These progresses have the potential to revolutionize HEP experimental techniques. We propose to apply cutting-edge ML technologies to HEP problems, paving the way to self-operating detectors, capable of visually inspecting events and identifying the physics process generating them, while monitoring the goodness of the data, the correct functioning of the detector components and, if any, the occurrence of anomalous events caused by unspecified new physics processes. We structure the work in a set of working packages, representing intermediate steps towards this final goal. We propose to apply ML to data taking, event identification, data-taking monitoring, and event reconstruction as intermediate steps toward using these techniques for unsupervised physics searches. The project resources will by used to create a team of computer scientists, who will carry on a systematic R&D program to apply  cutting-edge ML technology to HEP: reinforced learning, generative models, event indexing, data mining, anomaly and outliers detection, etc. Being hosted at CERN, the project will benefit from existing computing infrastructures, large datasets availability, the presence of local experts of each aspect of HEP, and established collaborations with private companies on hardware and software R&D.",
+    "totalCost": "1703750",
+    "ecMaxContribution": "1703750",
+    "coordinator": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

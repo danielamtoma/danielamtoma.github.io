@@ -1,0 +1,23 @@
+{
+    "rcn": "196063",
+    "acronym": "MoDATS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Model-based Data Analysis of Transcription and Splicing",
+    "startDate": "05/01/2016",
+    "endDate": "19/01/2018",
+    "objective": "Gene expression is the fundamental process that in all cells produces functional protein from a genomic DNA template using a messenger RNA (mRNA) intermediate. Eukaryotic gene expression involves transcription--the polymerization of mRNA--and splicing--the removal of non-coding regions from the mRNA. Recent evidence shows that nascent mRNAs are spliced while still being transcribed, not after completion of transcription, and that splicing machinery regulates transcription. This cross-talk complicates understanding of gene expression, as its mechanism and consequences are not understood. This project proposes using model-based data analysis, applied to multiple types of data, to study the kinetics of coupled transcription and splicing. \n\nModel-based data analysis is a statistical framework in which models are formulated as probability distributions encoding the stochastic interactions between components, including observed data. Knowledge of the underlying mechanism--here, biological--is used to quantify both the phenomenon, and the uncertainty resulting from partial knowledge and noisy observations. The need for such analysis is acute in modern biology: decades of molecular biology have yielded detailed information on specific molecules and pathways, and now next-generation sequencing (NGS) allows scientists to collect gigabytes of data on thousands of distinct molecules simultaneously. Yet, integrating these approaches is challenging: biologists struggle to analyze NGS data in ways that give insight into known--and previously unknown--biological mechanisms.\n\nHere, the model-based data analysis paradigm will be used to interrogate the interplay of transcription and splicing, using state-of the art data including time-resolved NGS measurements of RNA processing. Working with experimentalists, we will quantify the kinetics of splicing in constitutive genes by labeling nascent transcripts, and estimate the effect of splicing on polymerase elongation genome-wide.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

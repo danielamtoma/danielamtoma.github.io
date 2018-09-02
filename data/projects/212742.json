@@ -1,0 +1,23 @@
+{
+    "rcn": "212742",
+    "acronym": "EvoCellBio",
+    "topics": "ERC-2017-STG",
+    "title": "A combined in vitro and in vivo approach to dissect biochemical network evolution.",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "How do organisms evolve? I propose to study how biochemical networks reorganize during evolution without compromising fitness. This is a complex problem: firstly, it is hard to know if a mutation increased fitness because this depends on the environment it arose in, which is typically unknown. Secondly, it is hard to find out how adaptive mutations improve fitness, because in cells, all biochemical networks are connected. I will reduce the complexity by two approaches, focused on symmetry-breaking in budding yeast, a functionally conserved process, which is the first step for polarity establishment and essential for proliferation. \n First, I will study how adaptive mutations improve fitness in yeast cells, which are evolved after the deletion of an important symmetry-breaking gene. I will use fluorescent live-cell microscopy of polarisation markers to measure fitness, defined as the rate of symmetry breaking. I will combine my data with a kinetic mathematical model to determine how specific network structures facilitate evolutionary network reorganisation. \n Second, to test predicted network structures, I will build minimal evolvable networks for symmetry breaking in vitro. In my definition of such a network, all of the components are essential for either fitness or evolvability. I will encapsulate the necessary proteins in emulsion droplets to form a functional evolvable network and use fluorescence microscopy to measure its fitness (the rate of a single protein-spot formation on a droplet membrane) and evolvability (the number of accessible neutral or adaptive mutations in the one-step mutational landscape of the network). Next, I will study how increasing the number of components affects the networkís evolvability and fitness. \nThis research will explain how proteins essential in one species have been lost in closely related species. My expertise with in vitro systems, modelling, biophysics and evolution makes me uniquely qualified for this ambitious project.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

@@ -1,0 +1,88 @@
+{
+    "rcn": "199859",
+    "acronym": "symbIoTe",
+    "topics": "ICT-30-2015",
+    "title": "Symbiosis of smart objects across IoT environments",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Connected smart objects have invaded our everyday life across multiple domains, e.g. home withautomation solutions, assisted living with sensors and wearables to monitor personal activities, smart transportation and environmental monitoring. IoT is evolving around a plethora of vertically isolated platforms, each specifically suited to given scenarios and often adopting non-standard, sometimes fully proprietary, protocols to control the variety of sensors, actuators and communication elements. symbIoTe comes to evolve this fragmented environment and provides an abstraction layer for a unified control view on various IoT platforms and sensing/actuating resources. symbIoTe designs and develops an IoT orchestration middleware capable of unified and secure access to physical and virtualized IoT resources; hierarchical and orchestrated discovery and control across multiple IoT platforms; federation of IoT controllers and resources for cooperative sensing/actuation tasks; seamless roaming of smart objects across smart spaces. symbIoTe builds its orchestration middleware on top of existing standards for protocols and interfaces, plus a number IoT platforms both proprietary (i.e. developed by its industrial partners) and from open source (e.g. OpenIoT). This unique set of backgrounds and foreground can result in a significant step forward in horizontal integration and federation of IoT domains. Five use cases with real large scale deployments have been selected to validate our vision in representative smart spaces: home/residence, educational campus, stadium, mobility and yachting. Engagement with real users is key in our validation process. With its research, symbIoTe can enable innovative business models for a large set of stakeholders of the IoT value chain, and particularly SMEs and new entrants in the IoT market. The consortium includes direct beneficiaries of these impacts, including small and large industry with IoT business and renowned research performers.",
+    "totalCost": "7104827,5",
+    "ecMaxContribution": "7104827,5",
+    "coordinator": "INTRACOM SA TELECOM SOLUTIONS",
+    "coordinatorCountry": "EL",
+    "participants": "UNIDATA SPA;NEXTWORKS;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;UNIVERSITAT WIEN;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;SVEUCILISTE U ZAGREBU FAKULTET ELEKTROTEHNIKE I RACUNARSTVA;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;ATOS SPAIN SA;NA.VI.GO. SOCIETA CONSORTILE A RESPONSABILITA LIMITATA;SENSING & CONTROL SYSTEMS SL;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI;UBIWHERE LDA;VIPNET DRUSTVO Z OGRANICENOM ODGOVORNOSCU ZA USLUGE JAVNIH TELEKOMUNIKACIJA",
+    "participantCountries": "IT;AT;DE;HR;PL;ES;PT",
+    "projectParticipants": {
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 580750
+        },
+        "999866883": {
+            "orgId": "999866883",
+            "orgName": "UNIVERSITAT WIEN",
+            "ecContrib": 439051
+        },
+        "949771621": {
+            "orgId": "949771621",
+            "orgName": "UNIDATA SPA",
+            "ecContrib": 288724
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 525000
+        },
+        "999876486": {
+            "orgId": "999876486",
+            "orgName": "SVEUCILISTE U ZAGREBU FAKULTET ELEKTROTEHNIKE I RACUNARSTVA",
+            "ecContrib": 324000
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 420000
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 501875
+        },
+        "991811906": {
+            "orgId": "991811906",
+            "orgName": "UBIWHERE LDA",
+            "ecContrib": 504688
+        },
+        "940917849": {
+            "orgId": "940917849",
+            "orgName": "VIPNET DRUSTVO Z OGRANICENOM ODGOVORNOSCU ZA USLUGE JAVNIH TELEKOMUNIKACIJA",
+            "ecContrib": 237625
+        },
+        "995962051": {
+            "orgId": "995962051",
+            "orgName": "SENSING & CONTROL SYSTEMS SL",
+            "ecContrib": 363500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 594875
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 676478
+        },
+        "999969994": {
+            "orgId": "999969994",
+            "orgName": "INTRACOM SA TELECOM SOLUTIONS",
+            "ecContrib": 1445875
+        },
+        "974788406": {
+            "orgId": "974788406",
+            "orgName": "NA.VI.GO. SOCIETA CONSORTILE A RESPONSABILITA LIMITATA",
+            "ecContrib": 202388
+        }
+    },
+    "calculatedTotalContribution": 7104829
+}

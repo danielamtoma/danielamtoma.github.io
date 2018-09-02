@@ -1,0 +1,63 @@
+{
+    "rcn": "199182",
+    "acronym": "TULIPP",
+    "topics": "ICT-04-2015",
+    "title": "Towards Ubiquitous Low-power Image Processing Platforms",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "Tulipp will develop a reference platform that defines implementation rules and interfaces to tackle power consumption issues while delivering high, efficient and guaranteed computing performance for image processing applications. Using this reference platform will enable designers to develop an elementary board at a reduced cost to meet typical embedded systems requirements: Size, Weight and Power (SWaP) requirements. Moreover, for less constrained systems which performance requirements cannot be fulfilled by one instance of the platform, the reference platform will also be scalable so that the resulting boards be chained for higher processing power.\nTo demonstrate its effectiveness, an instance of the reference platform will be developed during the project. The instance of the reference platform will be use-case driven and split between the implementation of: a reference HW architecture - a scalable low-power board; a low-power operating system and image processing libraries; an energy aware tool chain. It will lead to three proof-of-concept demonstrators across different application domains: real-time and low-power medical image processing product prototype of surgical X-ray system (Mobile c-arm); embedded image processing systems within Unmanned Aerial Vehicles (UAV); automotive real time embedded systems for driver assistance.\nThe Tulipp approach will also give rise to advances in system integration, processing innovation and idle power management.\nTulipp will closely work with standardisation organisations to propose new standards derived from its reference platform to the industry.\nIts consortium includes the necessary and sufficient number of partners covering all the required inter-disciplinary expertise to successfully carry out the required experimentation, integration and demonstration activities as well as to assure a manageable project structure and minimise the risks to achieve the ambitious goals of the project.",
+    "totalCost": "4732008,14",
+    "ecMaxContribution": "3897055,45",
+    "coordinator": "THALES SA",
+    "coordinatorCountry": "FR",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;EFFICIENT INNOVATION SAS;RUHR-UNIVERSITAET BOCHUM;HIPPEROS;SUNDANCE MULTIPROCESSOR TECHNOLOGY LTD;Synective Labs AB;NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "DE;FR;BE;UK;SE;NO",
+    "projectParticipants": {
+        "999751938": {
+            "orgId": "999751938",
+            "orgName": "THALES SA",
+            "ecContrib": 643029
+        },
+        "968862482": {
+            "orgId": "968862482",
+            "orgName": "SUNDANCE MULTIPROCESSOR TECHNOLOGY LTD",
+            "ecContrib": 326156
+        },
+        "925487574": {
+            "orgId": "925487574",
+            "orgName": "Synective Labs AB",
+            "ecContrib": 367500
+        },
+        "929399875": {
+            "orgId": "929399875",
+            "orgName": "HIPPEROS",
+            "ecContrib": 490000
+        },
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 143148
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 406227
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 703738
+        },
+        "954725605": {
+            "orgId": "954725605",
+            "orgName": "EFFICIENT INNOVATION SAS",
+            "ecContrib": 121538
+        },
+        "999977851": {
+            "orgId": "999977851",
+            "orgName": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+            "ecContrib": 695720
+        }
+    },
+    "calculatedTotalContribution": 3897056
+}

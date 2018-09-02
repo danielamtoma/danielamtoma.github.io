@@ -1,0 +1,23 @@
+{
+    "rcn": "208651",
+    "acronym": "ML-TEXTSUM",
+    "topics": "MSCA-IF-2016",
+    "title": "Multi-language text summarization",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "In our daily life, we are submerged by huge amounts of text, coming from different sources such as emails, news, reports, and so on. The availability of unprecedented volumes of data represents both a challenge and an opportunity. On one hand, it can lead to information overload, a phenomenon that limits oneís capacity to understand an issue and act in the presence of too much information. On the other hand, the effective harnessing of this information has undeniable economical potential. Furthermore, In the European context, special needs to be put to multilingualism to guarantee global access to high quality information.\n\nThe objective of this application is to develop ML-TEXTSUM, a system for efficient and accurate multi-lingual text summarization. That is, given as input a text document, the system will output a summary of the document in the same or in a different language. Building on recent breakouts in machine learning and natural language processing, I propose a novel architecture for ML-TEXTSUM that will be able to produce high quality summaries while at same time remain modular enough so that new languages can be added with minimal effort. The availability of such system shall allow citizens, regardless of their language, to better handle the information overload and to gain access to critically distilled information (e.g., what is a certain newspaperís opinion on the same topic this year? Are male/female athletes portrayed differently by the media?). \n\nThe project is characterized by the interplay of multiple disciplines: the proposed architecture requires to master a combination of natural language processing and machine learning techniques. At the same time, the formidable scale of this system will require the development of novel distributed optimization methods. This interplay will be achieved thanks to my past and future collaborations, my solid background in optimization and machine learning, as well as through the acquisition of new ad-hoc skills.",
+    "totalCost": "265840,2",
+    "ecMaxContribution": "265840,2",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 265840
+        }
+    },
+    "calculatedTotalContribution": 265840
+}

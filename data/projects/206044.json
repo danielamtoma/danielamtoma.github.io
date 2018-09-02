@@ -1,0 +1,23 @@
+{
+    "rcn": "206044",
+    "acronym": "Resummation4PS",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Advances in higher-order resummation and Parton Shower",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2019",
+    "objective": "Full exploitation of the LHC data, notably for Higgs precision measurements, traditional standard-model studies and certain BSM searches, relies on high-precision theoretical calculations. The most widely used kind of theoretical prediction is the parton-shower Monte Carlo approach (PSMC). This accounts for logarithmically enhanced contributions to all order in the coupling. While there has been much progress in the past decade in combining PSMC and fixed-order calculations, the logarithmic accuracy of the underlying parton shower has received much less attention.\nThis project will start by developing the technology to describe the structure of the perturbative calculations at next-to-next-to-leading logarithmic (NNLL) accuracy for processes that involve QCD radiation both off the initial and the final state particles. That understanding will provide the foundations to extend for the first time the accuracy of parton showers to NNLL accuracy for a broad class of observables. \nGiven recent developments in matching and merging of PSMCs with fixed order predictions, this will be of benefit not just for the intrinsic logarithmic accuracy of the shower but also facilitate future improvements in matching and merging, with resulting further improvements in LHC data extraction and interpretation.",
+    "totalCost": "175419,6",
+    "ecMaxContribution": "175419,6",
+    "coordinator": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999988133": {
+            "orgId": "999988133",
+            "orgName": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+            "ecContrib": 175420
+        }
+    },
+    "calculatedTotalContribution": 175420
+}

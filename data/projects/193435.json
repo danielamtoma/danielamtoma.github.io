@@ -1,0 +1,63 @@
+{
+    "rcn": "193435",
+    "acronym": "PREVIEW",
+    "topics": "FoF-01-2014",
+    "title": "PREdictiVe system to recommend Injection mold sEtup in Wireless sensor networks",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The objective of PREVIEW is to develop a Cyber Physical System (CPS) for plastic injection manufacturing processes monitoring, control and optimization, by incorporating several innovative and cutting edge technological solutions: advanced artificial intelligence and machine learning techniques, robust industrial wireless communication, IoT and indoor location. PREVIEW is a middleware solution that facilitates easy, ubiquitous, holistic and fast sharing of product and process information across the entire injection production process.\n\nPREVIEW development incorporates several innovative technological solutions:\n\n-PREVIEW Advanced Predictive system offers a powerful knowledge based system for data analysis. Based on the data analysis results compared to historical data, the system will provide feedback, closing the loop by recommending actions to improve productivity; \n\n-PREVIEW will develop and implement the Data acquisition modules to collect the data from the in-mould cavity pressure and temperature sensors as well to collect data from the injection machine PLC;\n\n-Thanks to the data acquisition modules and the industrial wireless communication capabilities developed in the project, mould and machine become IoT-capable, allowing for interoperability at intra-plant level with other devices, including the PREVIEW server, database and mobile devices such as tablets and smartphones;\n\n-PREVIEW system offers the possibility to share among the Cloud the mould-DNA functionalities as well as the Setup Predictive System. These functionalities enable to reuse historical data when setting up a mould in another location.\n \nPREVIEW deploys a set of technologies and enablers (Information and communication technologies, manufacturing strategies, modelling, simulation and forecasting methods and tools), for process optimization of manufacturing assets in the injection sector.",
+    "totalCost": "3321852,5",
+    "ecMaxContribution": "3321852,5",
+    "coordinator": "FUNDACIO PRIVADA ASCAMM",
+    "coordinatorCountry": "ES",
+    "participants": "PROMOLDING BV;PLASTIASITE SA;HUMBOLDT-UNIVERSITAET ZU BERLIN;SMITHERS RAPRA AND SMITHERS PIRA LIMITED;Proform Ipari Ès Kereskedelmi Kft.;MPT PLASTICA SRL;VISUM LIMITED",
+    "participantCountries": "NL;ES;DE;UK;HU;IT;IE",
+    "projectParticipants": {
+        "998914828": {
+            "orgId": "998914828",
+            "orgName": "PROMOLDING BV",
+            "ecContrib": 253500
+        },
+        "999513124": {
+            "orgId": "999513124",
+            "orgName": "FUNDACIO PRIVADA ASCAMM",
+            "ecContrib": 0
+        },
+        "999850781": {
+            "orgId": "999850781",
+            "orgName": "HUMBOLDT-UNIVERSITAET ZU BERLIN",
+            "ecContrib": 582689
+        },
+        "999526025": {
+            "orgId": "999526025",
+            "orgName": "PLASTIASITE SA",
+            "ecContrib": 432700
+        },
+        "953720588": {
+            "orgId": "953720588",
+            "orgName": "MPT PLASTICA SRL",
+            "ecContrib": 184112
+        },
+        "942630578": {
+            "orgId": "942630578",
+            "orgName": "VISUM LIMITED",
+            "ecContrib": 424188
+        },
+        "928030235": {
+            "orgId": "928030235",
+            "orgName": "FUNDACIO EURECAT",
+            "ecContrib": 732562
+        },
+        "997487085": {
+            "orgId": "997487085",
+            "orgName": "Proform Ipari és Kereskedelmi Kft.",
+            "ecContrib": 188382
+        },
+        "998803569": {
+            "orgId": "998803569",
+            "orgName": "SMITHERS RAPRA AND SMITHERS PIRA LIMITED",
+            "ecContrib": 523719
+        }
+    },
+    "calculatedTotalContribution": 3321852
+}

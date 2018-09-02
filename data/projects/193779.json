@@ -1,0 +1,63 @@
+{
+    "rcn": "193779",
+    "acronym": "QUCHIP",
+    "topics": "FETPROACT-3-2014",
+    "title": "Quantum Simulation on a Photonic Chip",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2018",
+    "objective": "Simulation is a fundamental computational tool for modern science with applications ranging from drug design to materials science. Quantum simulators have the potential to revolutionize the way simulations are performed by accessing system sizes that are untractable in classical machines. As a result, they will become a suite of powerful and precise instruments enabling the investigation of relevant phenomena in the dynamics of complex quantum systems, such as quantum transport and energy transfer, as well as implementing quantum improved computation -  tasks hard to simulate classically. QUCHIP aims at implementing quantum simulation on integrated photonic processors. Photons present unique advantages deriving from their mobility and the immunity to decoherence: these two features make them substantially different from any other quantum system. Moreover integrated quantum photonics capitalizes on the multi-billion dollar investment already placed into photonics development and commercialization. QUCHIP will exploit these advantages to implement quantum walk experiments in which several photons propagate over complex circuit architectures ìjumpingî between different waveguides. This platform represents the most resource-efficient quantum computation scheme to date: Boson Sampling. Recent computational theory findings have shown exceptional potential for this scheme to achieve the quantum supremacy regime in which quantum systems surpass classical ones. QUCHIP will develop new photonic technologies, ranging from on-chip sources of single photons to complex waveguide architectures and on-chip detectors. We will explore the dynamics of noisy quantum networks and develop practical schemes to demonstrate key structural and functional elements of the network dynamics. The benefits range from insights into the dynamics of complex systems to a dramatic push forward for the realization of an experimental device whose output cannot be formally calculated by classical means.",
+    "totalCost": "2681713,75",
+    "ecMaxContribution": "2681713,75",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITAT WIEN;UNIVERSITAET ULM;UNIVERSITE LIBRE DE BRUXELLES;CONSIGLIO NAZIONALE DELLE RICERCHE;UNIVERSITY OF SOUTHAMPTON;UNIVERSITY OF BRISTOL;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;UNIVERSITAET PADERBORN",
+    "participantCountries": "AT;DE;BE;IT;UK",
+    "projectParticipants": {
+        "999866883": {
+            "orgId": "999866883",
+            "orgName": "UNIVERSITAT WIEN",
+            "ecContrib": 358712
+        },
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 431250
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 184784
+        },
+        "936119647": {
+            "orgId": "936119647",
+            "orgName": "UNIVERSITAET ULM",
+            "ecContrib": 187500
+        },
+        "999986290": {
+            "orgId": "999986290",
+            "orgName": "UNIVERSITE LIBRE DE BRUXELLES",
+            "ecContrib": 120650
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 319830
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 435250
+        },
+        "999837492": {
+            "orgId": "999837492",
+            "orgName": "UNIVERSITAET PADERBORN",
+            "ecContrib": 300000
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 343738
+        }
+    },
+    "calculatedTotalContribution": 2681714
+}

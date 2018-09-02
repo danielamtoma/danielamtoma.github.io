@@ -1,0 +1,23 @@
+{
+    "rcn": "212762",
+    "acronym": "TIMEISNOW",
+    "topics": "ERC-2017-STG",
+    "title": "The Time is Now: Understanding Social Network Dynamics Using Relational Event Histories",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Relational event history data are becoming increasingly available due to new technical developments. These data contain detailed information about who interacted with whom in a network and when. For example, employees wear sociometric badges storing time-stamped interactions between colleagues, classrooms are monitored to observe interactions between teachers and students, and police databases store violent interactions between criminal gangs in city districts.\nThis new type of data has the potential to greatly contribute to our understanding of dynamic social networks by providing new insights about speed, rhythm, duration, and lag in social interactions. However a crucial problem is that statistical tools for analyzing such data are currently underdeveloped. We are therefore unable to exploit this treasure of information, resulting in a limited understanding about the evolution of social relations in continuous time.\nI will undertake the following actions to resolve this fundamental shortcoming. First, I will develop an innovative Bayesian statistical framework for the analysis of relational event histories by building upon the novel relational event model, which has great potential but is in a preliminary stage of development. Second, I will implement the new framework in free and user-friendly software to ensure general utilization among social scientists. Third, in collaboration with network experts in organizational sociology, sociology of education, and criminology, I will develop tailor-made extensions for dynamic social processes in important applications.\nIn sum, this project will yield a groundbreaking new methodology for testing and building theories on time-sensitive processes in social networks. It will allow us to research, among others, how fast integration occurs among teams with workers from different cultures, how long it takes to develop respect in the classroom, and when violent interactions between criminal gangs will occur in the near future.",
+    "totalCost": "1499854",
+    "ecMaxContribution": "1499854",
+    "coordinator": "STICHTING KATHOLIEKE UNIVERSITEIT BRABANT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999899475": {
+            "orgId": "999899475",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT BRABANT",
+            "ecContrib": 1499854
+        }
+    },
+    "calculatedTotalContribution": 1499854
+}

@@ -1,0 +1,38 @@
+{
+    "rcn": "206399",
+    "acronym": "INTERSTELLAR",
+    "topics": "COMPET-1-2016",
+    "title": "Building the next generation high-speed data converters to strengthen European excellence and competitiveness on space applications and beyond",
+    "startDate": "01/12/2016",
+    "endDate": "31/08/2020",
+    "objective": "The proposed INTERSTELLAR project addresses one critical topic of European non-dependence under the line ìHigh speed DAC-ADC based on European Technologyî ñ analogue-to-digital and digital-to-analogue data converters. E2V designs, manufactures, supplies to the space market these essential components, but faces keen competition from US providers. To preserve know-how and production of such competitive components in Europe and to underscore its efforts for non-dependence, the industrial consortium proposes to develop two new data converters and to mature them to TRL6. A four-channel ADC, sampling at up to 6 GSPs offers ultra-wide input bandwidth, flexibility and high-speed serial outputs. A multi-channel DAC, reconstructing at up to 6 GSPs offers multi-Nyquist output bandwidth, configurable modes and high-speed serial inputs. Using a European semiconductor technology, the new converters shall target performances beyond todayís state-of-the-art to ensure their competitiveness by their delivery dates. Such devices facilitate innovative Rx-to-Tx signal chain solutions for satellite telecommunications, earth observation, navigation and scientific missions. To achieve the challenging objectives set, the four partners have intimate knowledge in space technology and will bring expertise to the project. E2V (F), coordinator, will be in charge of design, manufacturing and test activities. AIRBUS Defence & Space (UK) and THALES ALENIA SPACE (F), the two major European space companies, will make a key contribution as end-users of space data converters ñ guiding initial requirements and evaluating the devices under relevant conditions. The Fraunhofer Institute (D) will significantly contribute with reference PCBs hosting the new ADC and DAC, thus enabling detailed device evaluation and enhancing the dissemination of the results. Assembling such honed skills within a fruitful cooperation, promises to make the INTERSTELLAR project a great success for the European space industry.",
+    "totalCost": "7309500,5",
+    "ecMaxContribution": "6201187,5",
+    "coordinator": "TELEDYNE E2V SEMICONDUCTORS SAS",
+    "coordinatorCountry": "FR",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;THALES ALENIA SPACE FRANCE;AIRBUS DEFENCE AND SPACE LTD",
+    "participantCountries": "DE;FR;UK",
+    "projectParticipants": {
+        "997773235": {
+            "orgId": "997773235",
+            "orgName": "TELEDYNE E2V SEMICONDUCTORS SAS",
+            "ecContrib": 3795000
+        },
+        "999530778": {
+            "orgId": "999530778",
+            "orgName": "AIRBUS DEFENCE AND SPACE LTD",
+            "ecContrib": 353836
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 1232371
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 819980
+        }
+    },
+    "calculatedTotalContribution": 6201187
+}

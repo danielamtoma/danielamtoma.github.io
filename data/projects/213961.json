@@ -1,0 +1,23 @@
+{
+    "rcn": "213961",
+    "acronym": "DeepRNA",
+    "topics": "MSCA-IF-2017",
+    "title": "Discovering functional protein-RNA interactions through data integration and machine learning.",
+    "startDate": "01/03/2018",
+    "endDate": "29/02/2020",
+    "objective": "RNA-binding proteins are implicated across a wide spectrum of human genetic disorders, with molecular mechanisms ranging from aggregation of proteins and RNAs to defects in splicing and translation. Examples include heterogeneous and life-threatening genetic disorders such as Diamond-Blackfan anaemia, spinocerebellar ataxia and amyotrophic lateral sclerosis (ALS) among others.\n\nThe DeepRNA project targets genetic diseases via disease-associated variants in the human transcriptome and is enabled by recent data on expression quantitative trait loci (eQTLs) and experimentally determined RNA-protein and RNA-RNA interactions. The data will be complemented with high-quality RNA-protein interaction predictions carried out in the host group that has a strong track record in computing and validating RNA-protein associations.\n\nTo my knowledge the use of eQTL variants to study RNA-protein interactions is a novel approach and is useful for developing new tools for personalised medicine. My approach will expand the human interactome in a genome-wide manner beyond experimental data, which is currently available for only 352 of the 1,542 recently described RNA-binding proteins. Complementing experimentally determined interactions with predictions will allow me to expand my analyses of the human interactome to the genomic scale while maintaining accuracy, by using the experimental dataset as a gold standard. I will employ methods such as graph partitioning and graph neural network encoding to rationalise the effects of disease-associated variants on the human interaction network, and make quantitative predictions of polymorphisms associated with genetic diseases, thereby aiding personalised medicine.\n\nI am confident  that this fellowship will equip me with the domain knowledge, independence and transferrable skills to confidently and creatively build an interdisciplinary, globally recognised research team within Europe that will focus on medically relevant human signalling systems.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999544455": {
+            "orgId": "999544455",
+            "orgName": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

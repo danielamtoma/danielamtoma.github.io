@@ -1,0 +1,28 @@
+{
+    "rcn": "211858",
+    "acronym": "HiCoS",
+    "topics": "ERC-2017-STG",
+    "title": "Higher Co-dimension Singularities: Minimal Surfaces and the Thin Obstacle Problem",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Singular solutions to variational problems and to partial differential equations are naturally ubiquitous in many contexts, and among these minimal surfaces theory and free boundary problems are two prominent examples both for their  analytical content and their physical interest.\nA crucial aspect in this regard is the co-dimension of the objects under consideration: indeed, many of the analytical and geometric principles which are valid for minimal hypersurfaces or regular points of the free boundary do not apply to higher co-dimension surfaces or singular free boundary points.\n\nThe aim of this project is to investigate some of the most compelling questions about the singularities of two classical problems in the geometric calculus of variations in higher co-dimension:\n\nI. Mass-minimizing integer rectifiable currents, i.e. solutions to the Plateau problem of finding the surfaces of least area, attacking specific conjectures about the structure of the singular set, most prominently the boundedness of its measure.\n\nII. The thin obstacle problem, consisting in minimizing the Dirichlet energy (or a variant of it) among functions constrained above an obstacle that is assigned on a lower dimensional space, with the purpose of answering some of the main open questions on the singular free boundary points.\n\nThe main unifying theme of the project is the central role played by geometric measure theory, which underlines various common aspects of these two problems and makes them suited to be treated in an unified framework.\nAlthough these are classical questions with a long tradition, our knowledge about them is still limited and their investigation is among the most challenging issues in regularity theory. This is the central focus of the project, with the final goal to develop suitable analytical techniques that provides valuable insights on the mathematics at the basis of higher co-dimension singularities, eventually fruitful in other geometric and analytical settings.",
+    "totalCost": "1341250",
+    "ecMaxContribution": "1341250",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITAET LEIPZIG",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 1341250
+        },
+        "999854564": {
+            "orgId": "999854564",
+            "orgName": "UNIVERSITAET LEIPZIG",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1341250
+}

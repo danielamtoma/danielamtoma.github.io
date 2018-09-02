@@ -1,0 +1,133 @@
+{
+    "rcn": "200556",
+    "acronym": "SmartNet",
+    "topics": "LCE-06-2015",
+    "title": "Smart TSO-DSO interaction schemes, market architectures and ICT Solutions for the integration of ancillary services from demand side management and distributed generation",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "The project SmartNet aims at providing architectures for optimized interaction between TSOs and DSOs in managing the exchange of information for monitoring and for the acquisition of ancillary services (reserve and balancing, voltage regulation, congestion management) both at national level and in a cross-border context. Local needs for ancillary services in distribution systems are supposed to co-exist with system needs for balancing and congestion management. Resources located in distribution systems, like demand side management and distributed generation, are supposed to participate to the provision of ancillary services both locally and for the system in the context of competitive ancillary services markets.\nThrough an in-depth and a simulation in a lab-environment, answers are sought for to the following questions:\nï\tWhich ancillary services could be provided from distribution to the whole system (via transmission). \nï\tWhich optimized modalities could be adopted for managing the network at the TSO-DSO interface and what monitoring and control signals could be exchanged to carry out a coordinated action.\nï\tHow the architectures of the real time markets (in particular the balancing markets) could be consequently revised.\nï\tWhat information has to be exchanged and how (ICT) for the coordination on the distribution-transmission border, starting from monitoring aspects, to guarantee observability and control of distributed generation, flexible demand and storage systems.\nï\tWhich implications could the above issues have on the on-going market coupling process, that is going to be extended to real time markets in the next years, according to the draft Network Code on Electricity Balancing by ENTSO-E.\nDifferent TSO-DSO interaction modalities are compared with reference to three selected national cases (Italian, Danish, Spanish) also supposing the possibility of a cross-border exchange of balancing services.\nPhysical pilots are developed for the same national cases.",
+    "totalCost": "12657928",
+    "ecMaxContribution": "12657928",
+    "coordinator": "RICERCA SUL SISTEMA ENERGETICO - RSE SPA",
+    "coordinatorCountry": "IT",
+    "participants": "N-SIDE;SINTEF ENERGI AS;EDYNA SRL;VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.;SIEMENS SPA;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;NOVASOL AS;STIFTELSEN SINTEF;NUESTRA NUEVA ENERGIA SL;Teknologian tutkimuskeskus VTT Oy;ENDESA DISTRIBUCION ELECTRICA S.L;FUNDACION TECNALIA RESEARCH & INNOVATION;SELTA SPA;EUROPEAN UNIVERSITY INSTITUTE;Vodafone Procurement Company S. ‡ r.l.;NYFORS ENTERPRISE AS;TERNA RETE ITALIA SPA;EURISCO APS;DANMARKS TEKNISKE UNIVERSITET;ENERGINET.DK;DANSKE COMMODITIES A/S;UNIVERSITY OF STRATHCLYDE",
+    "participantCountries": "BE;NO;IT;AT;DK;ES;FI;LU;UK",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 847188
+        },
+        "999513221": {
+            "orgId": "999513221",
+            "orgName": "SINTEF ENERGI AS",
+            "ecContrib": 856382
+        },
+        "967272264": {
+            "orgId": "967272264",
+            "orgName": "EURISCO APS",
+            "ecContrib": 253206
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 158579
+        },
+        "933559526": {
+            "orgId": "933559526",
+            "orgName": "Vodafone Procurement Company S. à r.l.",
+            "ecContrib": 329344
+        },
+        "951444968": {
+            "orgId": "951444968",
+            "orgName": "TERNA RETE ITALIA SPA",
+            "ecContrib": 329921
+        },
+        "983126429": {
+            "orgId": "983126429",
+            "orgName": "SELTA SPA",
+            "ecContrib": 777766
+        },
+        "993558003": {
+            "orgId": "993558003",
+            "orgName": "ENDESA DISTRIBUCION ELECTRICA S.L",
+            "ecContrib": 385125
+        },
+        "925534328": {
+            "orgId": "925534328",
+            "orgName": "NOVASOL AS",
+            "ecContrib": 196150
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 723421
+        },
+        "936991580": {
+            "orgId": "936991580",
+            "orgName": "N-SIDE",
+            "ecContrib": 1015265
+        },
+        "928295142": {
+            "orgId": "928295142",
+            "orgName": "NYFORS ENTERPRISE AS",
+            "ecContrib": 76080
+        },
+        "999902385": {
+            "orgId": "999902385",
+            "orgName": "EUROPEAN UNIVERSITY INSTITUTE",
+            "ecContrib": 242100
+        },
+        "916836532": {
+            "orgId": "916836532",
+            "orgName": "NUESTRA NUEVA ENERGIA SL",
+            "ecContrib": 654756
+        },
+        "999529420": {
+            "orgId": "999529420",
+            "orgName": "RICERCA SUL SISTEMA ENERGETICO - RSE SPA",
+            "ecContrib": 1534913
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 1129125
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 534354
+        },
+        "999974068": {
+            "orgId": "999974068",
+            "orgName": "UNIVERSITY OF STRATHCLYDE",
+            "ecContrib": 381799
+        },
+        "999645238": {
+            "orgId": "999645238",
+            "orgName": "VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.",
+            "ecContrib": 1100696
+        },
+        "999804027": {
+            "orgId": "999804027",
+            "orgName": "ENERGINET.DK",
+            "ecContrib": 109234
+        },
+        "934592770": {
+            "orgId": "934592770",
+            "orgName": "DANSKE COMMODITIES A/S",
+            "ecContrib": 68932
+        },
+        "929004309": {
+            "orgId": "929004309",
+            "orgName": "EDYNA SRL",
+            "ecContrib": 404249
+        },
+        "966142408": {
+            "orgId": "966142408",
+            "orgName": "SIEMENS SPA",
+            "ecContrib": 549344
+        }
+    },
+    "calculatedTotalContribution": 12657929
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "194795",
+    "acronym": "OILMOD",
+    "topics": "ICT-37-2014-1",
+    "title": "Optical Injection Locked Modulator",
+    "startDate": "01/11/2014",
+    "endDate": "30/04/2015",
+    "objective": "Video, mobile and cloud have driven network bandwidth to grow at astonishing rates, estimated at about 40% growth year over year. Between 2000 and 2009 channel data rates in commercial optical fibre networks were peaking at 10Gb/s. Introduction of coherent technology caused a step change and around 2011 rates jumped to 100Gb/s for long haul transmission. It was enabled by advances in digital signal processing, narrow linewidth lasers, coherent receivers and optical modulators. Such modulators are used to control both the level and phase of the optical signal to send data and are the main topic of this proposal. \nState of the art modulators are based on a common optical transmitter circuit  (a Mach-Zehnder Modulator) to encode the data. In 2012 researchers at the Univ. Southampton invented a new device and applied for a patent on the concept. It is based on optical injection locking (OIL) and allows directly modulated lasers to be used to encode the data. Demonstration systems were developed in partnership with Eblana Photonics who provided the OIL laser devices and is the exclusive licensee to the patent IP. Eblana, established in Dublin in 2001, provides laser sources for sensing and high volume comms applications. \nThe technique has received strong interest from the scientific community and, significantly, network system manufacturers who have stated eagerness to trial prototypes. \nDifferentiators are that the output is linear, drive electronics are fundamentally simpler and uses half the number of high speed connections compared to the competition. Key advantages include low cost, low power consumption and amenable to miniaturisation to very small sizes. \nCoherent 100G transmission will migrate to shorter reach and wider usage in metropolitan networks (60-800km range) and in enterprise and access at shorter distances and these are the market focus. Eblana Photonics will exploit this technology to become the highest volume supplier of such modulators in the world.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "EBLANA PHOTONICS LIMITED",
+    "coordinatorCountry": "IE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999655423": {
+            "orgId": "999655423",
+            "orgName": "EBLANA PHOTONICS LIMITED",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

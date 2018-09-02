@@ -1,0 +1,108 @@
+{
+    "rcn": "197341",
+    "acronym": "SUPERFLUIDITY",
+    "topics": "ICT-14-2014",
+    "title": "Superfluidity: a super-fluid, cloud-native, converged edge system",
+    "startDate": "01/07/2015",
+    "endDate": "31/03/2018",
+    "objective": "Superfluidity is ìa state in which matter behaves like a fluid with zero viscosityî. Our project aims at achieving superfluidity in the network: the ability to instantiate services on-the-fly, run them anywhere in the network (core, aggregation, edge) and shift them transparently to different locations.\nThe SUPERFLUIDITY project tackles crucial shortcomings in todayís networks: long provisioning times, with wasteful over-provisioning used to meet variable demand; reliance on rigid and cost-ineffective hardware devices; daunting complexity emerging from three forms of heterogeneity: heterogeneous traffic and sources; heterogeneous services and needs; and heterogeneous access technologies, with multi-vendor network components.\nThe SUPERFLUIDITY solution is based on: a decomposition of network components and services into elementary and reusable primitives; a native, converged cloud-based architecture; the virtualization of radio and network processing tasks; platform-independent abstractions, permitting reuse of network functions across heterogeneous hardware platforms, while catering to the vendorsí need for closed platforms/implementations; and high performance software optimizations along with leveraging of hardware accelerators.\nAs a result, the 5G network will benefit from: i) location-independence: network services deployable in heterogeneous networks; ii) time-independence: near instantaneous deployment and migration of services; iii) scale-independence: transparent service scalability; and iv) hardware-independence: development and deployment of services with high performance irrespective of the underlying hardware.\nThrough these properties, SUPERFLUIDITY will provide a converged cloud-based 5G concept that will enable innovative use cases in the mobile edge, empower new business models, and reduce investment and operational costs.\nThe SUPERFLUIDITY consortium gathers an impressive and uncommon blend of Telco and IT players that can make its vision a reality.",
+    "totalCost": "7894615",
+    "ecMaxContribution": "7894614",
+    "coordinator": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITE DE LIEGE;E-BLINK;CITRIX ELLAS MONOPROSOPI ETAIRIA PERIORISMENIS EVTHINIS;BEN-GURION UNIVERSITY OF THE NEGEV;ALTICE LABS SA;UNIFIED STREAMING BV;TELEFONICA INVESTIGACION Y DESARROLLO SA;ONAPP LIMITED;RED HAT ISRAEL LTD;UNIVERSITATEA POLITEHNICA DIN BUCURESTI;INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED;BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY;NEC EUROPE LTD;ALCATEL-LUCENT ISRAEL LTD;NOKIA BELL LABS FRANCE;TELCARIA IDEAS SL;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "BE;FR;EL;IL;PT;NL;ES;GI;RO;IE;UK;DE",
+    "projectParticipants": {
+        "952235130": {
+            "orgId": "952235130",
+            "orgName": "CITRIX ELLAS MONOPROSOPI ETAIRIA PERIORISMENIS EVTHINIS",
+            "ecContrib": 709375
+        },
+        "999842342": {
+            "orgId": "999842342",
+            "orgName": "UNIVERSITATEA POLITEHNICA DIN BUCURESTI",
+            "ecContrib": 287500
+        },
+        "999976105": {
+            "orgId": "999976105",
+            "orgName": "UNIVERSITE DE LIEGE",
+            "ecContrib": 355875
+        },
+        "934810826": {
+            "orgId": "934810826",
+            "orgName": "UNIFIED STREAMING BV",
+            "ecContrib": 150000
+        },
+        "954880320": {
+            "orgId": "954880320",
+            "orgName": "ONAPP LIMITED",
+            "ecContrib": 587500
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 365025
+        },
+        "935159056": {
+            "orgId": "935159056",
+            "orgName": "ALCATEL-LUCENT ISRAEL LTD",
+            "ecContrib": 650000
+        },
+        "996377696": {
+            "orgId": "996377696",
+            "orgName": "NOKIA BELL LABS FRANCE",
+            "ecContrib": 608856
+        },
+        "987086066": {
+            "orgId": "987086066",
+            "orgName": "INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED",
+            "ecContrib": 687000
+        },
+        "999911503": {
+            "orgId": "999911503",
+            "orgName": "ALTICE LABS SA",
+            "ecContrib": 319500
+        },
+        "938460839": {
+            "orgId": "938460839",
+            "orgName": "TELCARIA IDEAS SL",
+            "ecContrib": 249750
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 729875
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 284500
+        },
+        "999908593": {
+            "orgId": "999908593",
+            "orgName": "BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+            "ecContrib": 328750
+        },
+        "929543144": {
+            "orgId": "929543144",
+            "orgName": "E-BLINK",
+            "ecContrib": 30400
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 701958
+        },
+        "999846222": {
+            "orgId": "999846222",
+            "orgName": "BEN-GURION UNIVERSITY OF THE NEGEV",
+            "ecContrib": 233750
+        },
+        "950302793": {
+            "orgId": "950302793",
+            "orgName": "RED HAT ISRAEL LTD",
+            "ecContrib": 615000
+        }
+    },
+    "calculatedTotalContribution": 7894614
+}

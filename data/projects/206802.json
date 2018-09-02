@@ -1,0 +1,23 @@
+{
+    "rcn": "206802",
+    "acronym": "INTEGRID",
+    "topics": "SMEInst-09-2016-2017",
+    "title": "An INTEgral optimisation toolbox for smart GRID data communication network design and planning",
+    "startDate": "01/11/2016",
+    "endDate": "28/02/2017",
+    "objective": "A power grid is composed by a network of electricity meters, transmission lines, substations, transformers and other parts that allows delivering electricity from power plants to final users. The evolution of this kind of networks and the usersí needs require a new kind of electric grid concept, i.e. the smart grid, which is capable of handling the current trend of digitalisation and computerisation. INTEGRID is an algorithm-based optimisation software that provides a set of tools to solve strategic decision making problems, which arise during the design and planning of a smart power grid. Our solution simultaneously optimises various combinatorial decisions in the network, such as minimising the number of network devices to be deployed in a neighbourhood, reducing channel interference of interconnected networking devices or maximising geographical coverage of a region, by taking four fundamental strategic performance measures into account: Reliability, Security, Cost-effectiveness and Universality. Based on the geographical coordinates of nodes (houses), capacity of smart devices and redundancy rate (user defined), our solution is capable of designing or optimising the distribution network, reaching levels of efficiency of near 98%. INTEGRID can be stated as a highly superior tool for the design and optimisation of smart grids compared to its alternatives in the market; it is generic, accessible, dynamic and comprehensive, besides providing high performance capabilities. We have demonstrated with three use cases from Belgium, Turkey and France that the cost savings can be up to 10%, although this percentage can vary depending on the ìas-isî situation of the users. Besides, users will enjoy many additional advantages, such as operating in a simpler supply chain due to optimised system utilisation, hence reduction of decision complexity, associated costs and carbon footprint. For EU alone, the total number of smart meters connected by 2020 can be as high as 200M",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "UMIT HAKAN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "933840923": {
+            "orgId": "933840923",
+            "orgName": "UMIT HAKAN",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

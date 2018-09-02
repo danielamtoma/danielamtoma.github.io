@@ -1,0 +1,23 @@
+{
+    "rcn": "209029",
+    "acronym": "DNA NANO MAP",
+    "topics": "MSCA-IF-2016",
+    "title": "Affordable DNA Mapping using Solidstate-Nanopores",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2019",
+    "objective": "DNA analysis will become an important clinical tool in identification the composition of microbial species living in the gut. The most dominant technique at the time is based on PCR amplification of the 16s rDNA gene and subsequent sequencing of the variable region in the gene. This method however is limited in the amount of detail it provides and is notoriously susceptible to primer bias. Furthermore, due to the requirement of a PCR machine and sequencer the technique is too expensive and time consuming for a clinical setting. \n\nOver the past few years nanopores have been heralded as a cheap alternative for biomolecular analysis. Specifically solid-state nanopores, which consist of a small pore in a solid membrane, have the potential for cost-effective mass-production in cleanroom facilities. Furthermore, since these pores can detect double stranded DNA they can easily be used for analysis of DNA maps.\n\nIn this proposal I suggest to use DNA mapping with solid state nanopores. The basic idea is to sequence-specifically label DNA molecules using DNA Methyltransferases and synthetic analogues of the natural cofactor S-adenosyl-methionine. The pattern of labels attached to the DNA is unique for the underlying sequence.\n\nIn my Ph.D. I used this method to transfer fluorescent dyes to the DNA and subsequently extracted the DNA map using super resolution fluorescence microscopy. In this case, the attached label will induce a current-drop when the DNA molecule translocates through the channel. The extracted current-trace will then be converted to a DNA map in basepairs and can be used to match to a real sequence. This proposed method can be used to identify genomic elements and eventually be used to recognize species, for a fraction of the cost of 16s rDNA sequencing.",
+    "totalCost": "175419,6",
+    "ecMaxContribution": "175419,6",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 175420
+        }
+    },
+    "calculatedTotalContribution": 175420
+}

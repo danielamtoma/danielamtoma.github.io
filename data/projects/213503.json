@@ -1,0 +1,23 @@
+{
+    "rcn": "213503",
+    "acronym": "VESTA",
+    "topics": "ERC-2017-COG",
+    "title": "VErified STAtic analysis platform",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2023",
+    "objective": "Computer software pervades our life but far too much of it contains programming errors (bugs). Software is more and more complex and such errors are unavoidable if programmers are not accompanied with some tools that help auditing software codes. Static analysis is an increasingly popular technique that aims at automatically compute properties of software. These properties then help finding bugs, or proving absence of them. Industrial static analysers are flourishing. Facebook, Google, Microsoft develop their own static analysis tools to help maintaining their huge code base. Critical software industry (aircraft, railways, nuclear, etc.) has embraced the use of advanced static analysis tool as AstrÈe to companion and sometimes, ligthen their traditional software validation campaigns based on meticulous testing and reviews. Unfortunately, designing advanced static analyses like AstrÈe requires a very rare expertise in Abstract Interpretation, a foundational landmark in the research area, and implementing these ideas efficiently and correctly is specially tricky.\nThe VESTA project will propose guidance and tool-support to the designers of static analysis, in order to build advanced but reliable static analysis tools. We focus on analyzing low-level softwares written in C, leveraging on the CompCert verified compiler. This compiler toolchain is fully verified in the Coq proof assistant.\nVerasco is a verified static analyser that I have architected. It analyses C programs and follows many of the advanced abstract interpretation technique developped for AstrÈe, but it is formally verified. The outcome of the VESTA project will be a platform that help designing other verified advanced abstract interpreters like Verasco, without starting from a white page. We will apply this technique to develop security analyses for C programs. The platform will be open-source and will help the adoption of abstract interpretation techniques.",
+    "totalCost": "1885566",
+    "ecMaxContribution": "1885566",
+    "coordinator": "ECOLE NORMALE SUPERIEURE DE RENNES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "944762056": {
+            "orgId": "944762056",
+            "orgName": "ECOLE NORMALE SUPERIEURE DE RENNES",
+            "ecContrib": 1885566
+        }
+    },
+    "calculatedTotalContribution": 1885566
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "212038",
+    "acronym": "SC-EpiCode",
+    "topics": "ERC-2016-STG",
+    "title": "Decoding the Epigenomic Regulatory Code by the Use of Single Cell Technologies",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Chromatin regulators adjust genome functions by modifying chromatin states. Comprehensive characterization of chromatin states, associations of chromatin regulators, and expression profiles is crucial for investigating: 1.Cellular differentiation triggers. 2.The nature of the underlying chromatin regulatory mechanisms. 3.The effect of cellular heterogeneity, and 4. How chromatin affects mRNA expression. Mapping chromatin states by sequencing immunoprecipitated chromatin (ChIP-seq) provides an extraordinary resource for studying cellular states. However, a major shortcoming is that the profiles reflect a composite average over the studied cell population, concealing important information about the underlying subpopulations. To address this hurdle, I pioneered Drop-Seq, a novel drop based microfluidic technology for single cell ChIP-seq and RNA-seq. Applying the technique to thousands of embryonic stem (ES) cells, we identified a spectrum of sub-populations defined by differences in chromatin signatures of pluripotency and differentiation priming. However, despite initial progress, the extent and significance of chromatin-state heterogeneity and its relationship with mRNA expression remain largely uncharted. The central aim of this proposal is to develop a novel framework to systematically characterize cell-to-cell variability at the epigenomic level. Our approach will include the development of technology enabling ChIP-seq and RNA-seq on the same cell. We will also exploit drop-based microfluidics to develop a robust CRISPR/Cas9-based approach to assess single and multiple perturbations. Finally, we will apply these innovative technologies to questions about cellular heterogeneity and epigenomic regulation during early differentiation of ES cells. This proposal will reveal the function and interplay between chromatin regulators, histone marks and transcription events, and shed light on the underlying regulation leading to cell fate decisions.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

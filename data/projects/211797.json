@@ -1,0 +1,38 @@
+{
+    "rcn": "211797",
+    "acronym": "TB-EPF",
+    "topics": "ERC-PoC-2016",
+    "title": "Enhanced Place Finding (EPF) of TB transmission hotspots",
+    "startDate": "01/09/2017",
+    "endDate": "28/02/2019",
+    "objective": "TB is transmitted via person-to-person aerosols. Recent studies suggests that in TB endemic areas up to 70% of transmission events take place outside the household in public places. Moreover, TB transmission is unequally spatially distributed and occurs in transmission hotspot areas. Mathematical models consequently demonstrated that identifying hotspots and blocking within-hotspot-transmission through targeted public health interventions will be the most efficient way of lowering the TB burden. In the present PoC proposal we aim to complement the population-based Enhanced-Case-Finding intervention tested in the INTERRUPTB study, with a spatially more targeted ìEnhanced-Place-Findingî (EPF) approach to identify transmission hotspots in an unbiased fashion. Using traditional methods to find transmission hotspots can only be done retrospectively after years of data collection. Therefore we propose a novel EPF strategy to detect transmission hotspots in real-time using phone-tracking technology to establish a spatial map of aggregated TB patients movements. Within the ERC-funded INTERRUPTB study in The Gambia, we sequenced 2000 mycobacterial isolates, which allows us to establish a bacterial genetic transmission network. Within the PoC proposal, we seek to reconsent these patients to analyze their everyday movements using classical contact investigation complemented by phone tracking, to determine which public places have an increased risk of TB transmission. We aim to demonstrate that phone tracking of TB patients can be a cheap, easy, and, most importantly, prospective TB transmission hotspots identification tool, no longer requiring molecular epidemiological investigations. Such a finding can ultimately be developed into an app that warns national TB programs of early TB outbreaks, so that early public health measures like increased ventilation and active case finding can be initiated. This approach can furthermore be applied to other infectious diseases.",
+    "totalCost": "149783",
+    "ecMaxContribution": "149783",
+    "coordinator": "PRINS LEOPOLD INSTITUUT VOOR TROPISCHE GENEESKUNDE",
+    "coordinatorCountry": "BE",
+    "participants": "DALBERG DATA INSIGHTS;UNIVERSITE CATHOLIQUE DE LOUVAIN;UNITED KINGDOM RESEARCH AND INNOVATION;MEDICAL RESEARCH COUNCIL",
+    "participantCountries": "BE;UK",
+    "projectParticipants": {
+        "911684571": {
+            "orgId": "911684571",
+            "orgName": "DALBERG DATA INSIGHTS",
+            "ecContrib": 46278
+        },
+        "999883276": {
+            "orgId": "999883276",
+            "orgName": "PRINS LEOPOLD INSTITUUT VOOR TROPISCHE GENEESKUNDE",
+            "ecContrib": 69523
+        },
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 2321
+        },
+        "999990170": {
+            "orgId": "999990170",
+            "orgName": "MEDICAL RESEARCH COUNCIL",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 118122
+}

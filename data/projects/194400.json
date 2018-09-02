@@ -1,0 +1,23 @@
+{
+    "rcn": "194400",
+    "acronym": "SPOOC",
+    "topics": "ERC-CoG-2014",
+    "title": "Automated Security Proofs of Cryptographic Protocols: Privacy, Untrusted Platforms and Applications to E-voting Protocols",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "The rise of the Internet and the ubiquity of electronic devices has deeply changed our way of life. Many face to face and paper transactions have nowadays digital counterparts: home banking, e- commerce, e-voting, etc. The security of such transactions is ensured by the means of cryptographic protocols. While historically the main goals of protocols were to ensure confidentiality and authentication the situation has changed. The ability of people to stay connected constantly combined with ill-conceived systems seriously threatens peopleís privacy. E-voting protocols need to guarantee privacy of votes, while ensuring transparency of the voting process; RFID and mobile telephone protocols have to guarantee that people cannot be traced. Moreover due to viruses and malware, personal computers and mobile phones must not be considered anymore to be trustworthy; yet they have to be used to execute protocols that need to achieve security goals. To detect flaws, prove the security of protocols and propose new design principles the Spooc project will develop solid foundations and practical tools to analyze and formally prove security properties that ensure the privacy of users as well as techniques for executing protocols on untrusted platforms. We will\n\n- develop foundations and practical tools for specifying and formally verifying new security properties, in particular privacy properties;\n\n- develop techniques for the design and automated analysis of protocols that have to be executed on untrusted platforms;\n\n- apply these methods in particular to novel e-voting protocols, which aim at guaranteeing strong security guarantees without need to trust the voter client software. \n\nThe Spooc project will significantly advance formal verification of security protocols and contribute to the development of a rich framework that provides techniques and tools to analyze and design security protocols guaranteeing userís privacy and relaxing trust assumptions on the execution platforms.",
+    "totalCost": "1903500",
+    "ecMaxContribution": "1903500",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 1903500
+        }
+    },
+    "calculatedTotalContribution": 1903500
+}

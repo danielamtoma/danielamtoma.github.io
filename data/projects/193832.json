@@ -1,0 +1,43 @@
+{
+    "rcn": "193832",
+    "acronym": "G MOTIT",
+    "topics": "GALILEO-2-2014",
+    "title": "Galileo-Enhanced MOTIT: an electric scooter sharing service for sustainable urban mobility",
+    "startDate": "01/01/2015",
+    "endDate": "31/03/2017",
+    "objective": "Causing peaks in pollution, wasted time and noise nuisance, traffic jams are one of the greatest challenges to overcome for the majority of large cities around the world. Itís a problem that affects the richest countries and developing countries alike, and the possible solutions are as slow to put in place as they are difficult to enforce. Moreover, the reduction of global greenhouse gas emissions is one of the major challenges of the 21st century. These facts highlight the need of efficient and environmentally sustainable urban mobility services that do not generate CO2 emissions and ease traffic congestion. \nWithin this context, an innovative service has been developed in order to solve mobility problems in the city of Barcelona and potentially major metropolitan areas in Europe. MOTIT is a unique and innovative electric scooter sharing service, in which users may pick up and drop off vehicles wherever and whenever they want. MOTIT allows users to reserve a scooter with their smartphone, and some minutes before the start of the trip he receives a notification on his smartphone with the position of the vehicle assigned. \nVehicle positioning performance is key for the success of the service, since the user is informed on where to pick up his vehicle based on this source. During initial pilot operations, supported by European Commission R&D funding , GPS-based solution (embedded on the tablet device of the vehicle) has proven not to be a reliable solution because of:\nï Lack of availability in certain areas of the city (deep urban)\nï Positioning errors, and therefore misleading scooter location information to user\nTherefore, G-MOTIT project aims to overcome these problems by developing and integrating an EGNSS-based location technology. The location solution will be validated both functionally and operationally through a small-scale demonstration in Grand Paris region.",
+    "totalCost": "1288525",
+    "ecMaxContribution": "947717,5",
+    "coordinator": "PILDO LABS WESSEX LTD",
+    "coordinatorCountry": "UK",
+    "participants": "FundaciÛn Creafutur;INSTITUT MUNICIPAL D'INFORMATICA DE BARCELONA;CLEM';GOING GREEN SL",
+    "participantCountries": "ES;FR",
+    "projectParticipants": {
+        "969047849": {
+            "orgId": "969047849",
+            "orgName": "INSTITUT MUNICIPAL D'INFORMATICA DE BARCELONA",
+            "ecContrib": 54375
+        },
+        "943645295": {
+            "orgId": "943645295",
+            "orgName": "PILDO LABS WESSEX LTD",
+            "ecContrib": 320425
+        },
+        "963668326": {
+            "orgId": "963668326",
+            "orgName": "Fundación Creafutur",
+            "ecContrib": 98125
+        },
+        "961642481": {
+            "orgId": "961642481",
+            "orgName": "GOING GREEN SL",
+            "ecContrib": 209388
+        },
+        "961362442": {
+            "orgId": "961362442",
+            "orgName": "CLEM'",
+            "ecContrib": 265405
+        }
+    },
+    "calculatedTotalContribution": 947718
+}

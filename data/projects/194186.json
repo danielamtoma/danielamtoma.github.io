@@ -1,0 +1,53 @@
+{
+    "rcn": "194186",
+    "acronym": "RAPID",
+    "topics": "ICT-07-2014",
+    "title": "Heterogeneous Secure Multi-level Remote Acceleration Service for Low-Power Integrated Systems and Devices",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Many low-power devices such as smartphones, tablets, notebooks as well as several other embedded systems can't always cope with the increased demand for processing power, memory and storage required by modern applications in gaming, vision, security, robotics, aerospace, etc. As a result, most such applications are only executed on high-end servers.\n\nRAPID tackles this challenge by taking advantage of high-performance accelerators and high-bandwidth networks. Following our approach, compute or storage intensive tasks are seamlessly offloaded from the low-power devices to more powerful heterogeneous accelerators, supporting multiple virtual CPUs and GPUs. We propose, for the first time, a secure unified model where almost any device or infrastructure, ranging from smartphone, notebook, laptop and desktop to private and public cloud can operate as an accelerated entity and/or as an accelerator serving other less powerful devices in a secure way.\n\nRAPID offers a registration mechanism, which permits the accelerated entities to automatically find and connect to nearby accelerators with the required resources. Next, a runtime system, running on each such accelerated entity, takes into account several parameters such as the local status, the environmental conditions, the task requirements, and the status of the accelerators it is connected to in order to decide whether local tasks (or incoming tasks if the entity also acts as an accelerator) should be executed locally or remotely. Novel scheduling algorithms, admission control policies, Service Level Agreements and license policies are employed to serve multiple accelerated applications efficiently on heterogeneous cloud infrastructures.\n\nAn easy-to-use task-based programming model will be defined, while a novel runtime will automatically offload and execute the tasks transparently to the programmer. Within the RAPID project the first public acceleration cloud service will become available and commercially exploitable.",
+    "totalCost": "2023800",
+    "ecMaxContribution": "2023800",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "HERTA SECURITY SL;UNIVERSITA DEGLI STUDI DI NAPOLI PARTHENOPE;ATOS SPAIN SA;THE QUEEN'S UNIVERSITY OF BELFAST;SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "participantCountries": "ES;IT;UK;EL",
+    "projectParticipants": {
+        "951529843": {
+            "orgId": "951529843",
+            "orgName": "HERTA SECURITY SL",
+            "ecContrib": 211875
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 258750
+        },
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 348331
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 300625
+        },
+        "999856019": {
+            "orgId": "999856019",
+            "orgName": "UNIVERSITA DEGLI STUDI DI NAPOLI PARTHENOPE",
+            "ecContrib": 222669
+        },
+        "983282308": {
+            "orgId": "983282308",
+            "orgName": "SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS",
+            "ecContrib": 354625
+        },
+        "999992013": {
+            "orgId": "999992013",
+            "orgName": "THE QUEEN'S UNIVERSITY OF BELFAST",
+            "ecContrib": 326925
+        }
+    },
+    "calculatedTotalContribution": 2023800
+}

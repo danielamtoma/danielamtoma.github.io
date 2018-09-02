@@ -1,0 +1,23 @@
+{
+    "rcn": "199218",
+    "acronym": "FireSpec",
+    "topics": "ERC-PoC-2015",
+    "title": "Integrated spectroscopic sensors for the risk assessment of fires",
+    "startDate": "01/03/2016",
+    "endDate": "31/08/2017",
+    "objective": "Most fire deaths are not caused by burns, but by smoke inhalation. Toxic gases in smoke are beside heat and lack of oxygen the major lethal factor in uncontrolled fires. Drones are considered more and more as the ultimate assistants during firefighting operations. Drones or Unmanned Aerial Vehicles (UAV) provide critical top-down perspectives on dangerous areas. This is helpful in dealing with most fires, and especially important and effective when dealing with fires at high risk sites. There is an urgent need for small, low-weight, low power, real-time gas sensors with a high specificity that can be integrated in UAVs. Availability of such sensors could save lives as UAVs might detect and map toxic gas fields in fireplaces and evaluate how they spread. Besides integration in UAVs, such sensors can be integrated in firefighterís cloths or installed in fire prone places. In FireSpec, we propose the concept of an integrated wavelength modulation spectroscopic sensor for real time hazardous gas detection based on a silicon photonics integrated chip comprising a series of InP lasers, a gasprobe and an InP detector. The wavelengths of the lasers are matched with the mid-infrared (MIR) absorption lines of the gasses to be detected. The concept directly builds upon knowledge and technology developed in the ERC-project Miracle (Mid-InfraRed Active photonic integrated Circuits for Life sciences and Environment). In Miracle, we are investigating and developing the field of photonic integrated circuits for the MIR wavelength band based on high-index contrast waveguide structures. To extend the functionality of the photonic integrated circuit, heterogeneous integration of other materials such as III-V dies, on the high index contrast waveguide system for particular optical functions, such as lasers and detectors is pursued. FireSpec technology is expected to be a game changer in mobile real time toxic gas detection applications.",
+    "totalCost": "149685",
+    "ecMaxContribution": "149685",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 149685
+        }
+    },
+    "calculatedTotalContribution": 149685
+}

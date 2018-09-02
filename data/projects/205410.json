@@ -1,0 +1,23 @@
+{
+    "rcn": "205410",
+    "acronym": "PROSIT",
+    "topics": "JTI-CS2-2015-CFP02-ENG-02-03",
+    "title": "Integration of a property simulation tool for virtual design and manufacturing of forged disks for aero engine applications",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2019",
+    "objective": "In order to overcome current shortcomings of the state-of-the-art simulation chain, this project will make improvements on microstructural modelling (integration of non-uniform microstructures), billet modelling (evaluation of billet inhomogeneity introduced during feedstock processing) and modelling of materials properties (yield strength variations in circumferential direction, influence of non-uniform grain structures) available to the customer. On the one hand, this means a further development of already demonstrated capabilities of Bˆhler Schmiedetechnik GmbH & Co KG (BSTG) to simulate microstructural and mechanical properties for increasing prediction fidelity. On the other hand, this is of special importance for efficiency of future engines (i.e., lower fuel consumption, reduction of CO2 emission, etc.), as a fully integrated simulation chain allows for an optimization of forged engine disks in respect of weight and safety.\nYield strength variations in circumferential direction were observed in an earlier research project. It was assumed, that this behavior is caused by variations in the billet and certain process conditions during the last forging operation. Aiming to the topic of this proposal, these additional impacts should be analyzed (for metallurgical understanding) and included in an existing mechanical properties simulation tool (for quantitative prediction). The influence of inhomogeneous breakdown and converting of the billet will be elaborated together with the billet supplier Bˆhler Edelstahl GmbH & Co KG (BEG). This close collaboration is essential to enable a fully integrated simulation chain. After establishing a grain class model to predict duplex grain structures, the effect of duplex grain size on yield strength and fatigue properties will be studied. Finally, a validation has to be done on forged turbine disks to show the effectiveness and capabilities of the further developed mechanical properties simulation tool.",
+    "totalCost": "450000",
+    "ecMaxContribution": "450000",
+    "coordinator": "VOESTALPINE BOHLER AEROSPACE GMBH & CO KG",
+    "coordinatorCountry": "AT",
+    "participants": "VOESTALPINE BOHLER EDELSTAHL GMBH &CO KG",
+    "participantCountries": "AT",
+    "projectParticipants": {
+        "998593467": {
+            "orgId": "998593467",
+            "orgName": "VOESTALPINE BOHLER AEROSPACE GMBH & CO KG",
+            "ecContrib": 387375
+        }
+    },
+    "calculatedTotalContribution": 387375
+}

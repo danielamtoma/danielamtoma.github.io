@@ -1,0 +1,78 @@
+{
+    "rcn": "204770",
+    "acronym": "SHIPLYS",
+    "topics": "MG-4.3-2015",
+    "title": "Ship Lifecycle Software Solutions",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2019",
+    "objective": "SHIPLYS has been specified as necessary by our architect, shipbuilder and shipowner members, who, in order to survive in the world market, need to improve their capability to reduce the cycle time and costs of design and production, to be able to reliably produce better ship concepts through virtual prototyping and to meet the increasing requirements for LCCA (Life Cycle Cost Analysis), environmental assessments, risk assessments and end-of-life considerations as differentiators.  \nYet, the calculation and modeling to do this is difficult and time consuming, especially for SMEs without a large overhead of trained staff and tools, due to difficulties in integrating data between incompatible tools and formats for different design stages: conceptual hull design; the finite element calculations feeding preliminary and detailed designs; and virtual prototyping simulation models.  This is coupled with the lack of an industry specific lifecycle modeling technique, hindered by the lack of information to support reliable decision-making.\nSHIPLYS aims to transfer experience from the development of industry modeling coherence schemes e.g. BIM (Building Information Modelling), and use them to produce new techniques for quick, reliable multi-disciplinary modeling capability for the marine industry:\n- Develop standardization aspects of the new paradigm by transferring the key BIM Product Model principles: identify and capture the useful implicit information in existing CAD/CAE data and develop data formats to provide persistence for data reuse between design stages\n- Develop a Virtual Prototyping system to incorporate LCCA, environmental and risk assessment  criteria, for fast and cost effective evaluation of alternatives\n- Add multi-criterion decision analysis techniques to support decision making across the short/ long term, based on explicit formulation matrix of ëBuyer Utility;í the key purchasing decision criteria\n- To build on ISO10303 standards for interoperable data reuse",
+    "totalCost": "6144150",
+    "ecMaxContribution": "6144150",
+    "coordinator": "TWI LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "ASTILLEROS DE SANTANDER SA;ALVEUS DOO ZA SAVJETOVANJE I INZENJERING;NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA;VARNA MARITIME;ATLANTEC ENTERPRISE SOLUTIONS GMBH;FUNDACION CENTRO TECNOLOGICO SOERMAR;LLOYD'S REGISTER EMEA IPS;FERGUSON MARINE ENGINEERING LTD;BMT GROUP LTD;INSTITUTO SUPERIOR TECNICO;UNIVERSITY OF STRATHCLYDE",
+    "participantCountries": "ES;HR;EL;BG;DE;UK;PT",
+    "projectParticipants": {
+        "987609963": {
+            "orgId": "987609963",
+            "orgName": "FUNDACION CENTRO TECNOLOGICO SOERMAR",
+            "ecContrib": 258086
+        },
+        "952565027": {
+            "orgId": "952565027",
+            "orgName": "VARNA MARITIME",
+            "ecContrib": 79809
+        },
+        "999992983": {
+            "orgId": "999992983",
+            "orgName": "INSTITUTO SUPERIOR TECNICO",
+            "ecContrib": 696604
+        },
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 507345
+        },
+        "999617108": {
+            "orgId": "999617108",
+            "orgName": "BMT GROUP LTD",
+            "ecContrib": 778206
+        },
+        "999912764": {
+            "orgId": "999912764",
+            "orgName": "TWI LIMITED",
+            "ecContrib": 1357412
+        },
+        "999974068": {
+            "orgId": "999974068",
+            "orgName": "UNIVERSITY OF STRATHCLYDE",
+            "ecContrib": 814491
+        },
+        "998981176": {
+            "orgId": "998981176",
+            "orgName": "LLOYD'S REGISTER EMEA IPS",
+            "ecContrib": 268238
+        },
+        "925158162": {
+            "orgId": "925158162",
+            "orgName": "FERGUSON MARINE ENGINEERING LTD",
+            "ecContrib": 75265
+        },
+        "998724029": {
+            "orgId": "998724029",
+            "orgName": "ATLANTEC ENTERPRISE SOLUTIONS GMBH",
+            "ecContrib": 919094
+        },
+        "983340411": {
+            "orgId": "983340411",
+            "orgName": "ASTILLEROS DE SANTANDER SA",
+            "ecContrib": 163350
+        },
+        "997124014": {
+            "orgId": "997124014",
+            "orgName": "ALVEUS DOO ZA SAVJETOVANJE I INZENJERING",
+            "ecContrib": 226250
+        }
+    },
+    "calculatedTotalContribution": 6144150
+}

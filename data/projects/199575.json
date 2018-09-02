@@ -1,0 +1,23 @@
+{
+    "rcn": "199575",
+    "acronym": "BEACON",
+    "topics": "ERC-StG-2015",
+    "title": "Hybrid Digital-Analog Networking under Extreme Energy and Latency Constraints",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "The objective of the BEACON project is to (re-)introduce analog communications into the design of modern wireless networks. We argue that the extreme energy and latency constraints imposed by the emerging Internet of Everything (IoE) paradigm can only be met within a hybrid digital-analog communications framework. Current network architectures separate source and channel coding, orthogonalize users, and employ long block-length digital source and channel codes, which are either suboptimal or not applicable under the aforementioned constraints. BEACON questions these well-established design principles, and proposes to replace them with a hybrid digital-analog communications framework, which will meet the required energy and latency constraints while simplifying the encoding and decoding processes. BEACON pushes the performance of the IoE to its theoretical limits by i) exploiting signal correlations that are abundant in IoE applications, given the foreseen density of deployed sensing devices, ii) taking into account the limited and stochastic nature of energy availability due to, for example, energy harvesting capabilities, iii) using feedback resources to improve the end-to-end signal distortion, and iv) deriving novel converse results to identify fundamental performance benchmarks.\n\nThe results of BEACON will not only shed light on the fundamental limits on the performance any coding scheme can achieve, but will also lead to the development of unconventional codes and communication protocols that can approach these limits, combining digital and analog communication techniques. The ultimate challenge for this project is to exploit the developed hybrid digital-analog networking theory for a complete overhaul of the physical layer design for emerging IoE applications, such as smart grids, tele-robotics and smart homes. For this purpose, a proof-of-concept implementation test-bed will also be built using software defined radios and sensor nodes.",
+    "totalCost": "1496350",
+    "ecMaxContribution": "1496350",
+    "coordinator": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 1496350
+        }
+    },
+    "calculatedTotalContribution": 1496350
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "194241",
+    "acronym": "COCOHA",
+    "topics": "ICT-22-2014",
+    "title": "Cognitive Control of a Hearing Aid",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "We propose to design a hearing aid system that can be mentally (cognitively) steered so as to allow a more ìnatural communicationî for the hearing disabled, a population that forms over 7% of Europeans (50 million people). Hearing disabilities lead to a degraded quality of life, exclusion, and associated costs for society. Hearing aids (and cochlear implants), while effective in quiet, are still unreliable in noisy reverberant environments typical of realistic everyday life situations. Based on recent success in decoding non-invasive cortical recordings (EEG, MEG), and our multidisciplinary team (of engineers, neurophysiologists, psychophysicists, and audiologists), we propose to develop and implement algorithms to decode brain signals picked up by EEG electrodes to extract intention signals, and to match them to acoustic sources within the environment. These in turn will steer an acoustic beam-former towards the targeted speaker or sound source. We propose to implement the design within a real hearing aid, and to evaluate the outcome with normal and hearing impaired subjects. The results of this project will benefit hearing aid and cochlear-implant industries (well represented in Europe), and the end users who are the elderly and hearing impaired. It will also lead to increased scientific understanding and knowledge of attention mechanisms, and how they might be harnessed to control sensory inputs. We hope the results of this project will be a forerunner for broader applications of cognitive brain imaging to decipher and exploit human intentions in prosthetic sensory systems, especially given the increased availability, miniaturization, and affordability of EEG recording setups in scientific research and medical diagnostics.",
+    "totalCost": "3998125",
+    "ecMaxContribution": "3217500",
+    "coordinator": "ECOLE NORMALE SUPERIEURE",
+    "coordinatorCountry": "FR",
+    "participants": "OTICON A/S;UNIVERSITAT ZURICH;DANMARKS TEKNISKE UNIVERSITET;UNIVERSITY COLLEGE LONDON",
+    "participantCountries": "DK;CH;UK",
+    "projectParticipants": {
+        "999854758": {
+            "orgId": "999854758",
+            "orgName": "ECOLE NORMALE SUPERIEURE",
+            "ecContrib": 991250
+        },
+        "999659594": {
+            "orgId": "999659594",
+            "orgName": "OTICON A/S",
+            "ecContrib": 670000
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 782500
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 773750
+        },
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3217500
+}

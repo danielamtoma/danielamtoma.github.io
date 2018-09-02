@@ -1,0 +1,63 @@
+{
+    "rcn": "193833",
+    "acronym": "e-Airport",
+    "topics": "GALILEO-1-2014",
+    "title": "Increase airport capacity, safety and security using European GNSS",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2017",
+    "objective": "The main goals of the e-Airport project are:\nï The development of an airport operations monitor application based on European GNSS to increase the efficiency, safety and security  of  aircraft services and cargo processes \nï Application demonstrations in two European airports using EGNOS and Galileo Early services.\n\nEurocontrol statistics indicates that 70 % of all flight delays in Europe are caused by airlines or their ground handlers, airports or other parties involved in the turn around process which includes cabin service, catering, fuelling, cargo operations, passenger boarding etc.\nOn the other hand, ICAO Annex 14 recommends to provide apron management service to increase airport capacity in low visibility conditions and at complex, high-density aerodromes.\nTo cope with these efficiency and safety goals different R&D projects in Europe have developed applications focused on improving particular aspects of Airport Operations. \nThe e-Airport project aims at:\nï evolve GPS based solutions developed in previous projects in multicostellation based solutions exploiting GPS, EGNOS/EDAS and Galileo services\nï integrate the applications developed to monitor aircraft services and cargo processes in a single wider application able to measure the global Airport performance Key Performance Indicators according to the SESAR guidelines\nMoreover e-Airport project will propose an evolution of the current CEN standard for provision of EGNOS CS/EDAS based services to include the use of Galileo services and it will release the associated client SW tool to the GNSS developer community with free open source license.\n\nAirport Operators and one Air Navigation Service Provider are part of the e-Airport project team to drive the application development with actual operational user needs and to validate the application demonstration in:\nï ìKarol Wojty?aî International Airport of Bari-Palese\nï ìHenri Coand?î International Airport of Bucarest",
+    "totalCost": "2537179,08",
+    "ecMaxContribution": "1873506,6",
+    "coordinator": "TELESPAZIO SPA",
+    "coordinatorCountry": "IT",
+    "participants": "SCHELLER SYSTEMTECHNIK GMBH;TECHNO SKY S.R.L.;AEROPORTUL INTERNATIONAL SIBIU RA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ENAV SPA;COMPANIA NATIONALA AEROPORTURI BUCURESTI SA;AEROPORTI DI PUGLIA SOCIETA PER AZIONI;RARTEL SA",
+    "participantCountries": "DE;IT;RO",
+    "projectParticipants": {
+        "941390724": {
+            "orgId": "941390724",
+            "orgName": "AEROPORTI DI PUGLIA SOCIETA PER AZIONI",
+            "ecContrib": 68225
+        },
+        "941608877": {
+            "orgId": "941608877",
+            "orgName": "TECHNO SKY S.R.L.",
+            "ecContrib": 167366
+        },
+        "943139052": {
+            "orgId": "943139052",
+            "orgName": "RARTEL SA",
+            "ecContrib": 186348
+        },
+        "941615570": {
+            "orgId": "941615570",
+            "orgName": "COMPANIA NATIONALA AEROPORTURI BUCURESTI SA",
+            "ecContrib": 0
+        },
+        "999939051": {
+            "orgId": "999939051",
+            "orgName": "TELESPAZIO SPA",
+            "ecContrib": 636790
+        },
+        "998197513": {
+            "orgId": "998197513",
+            "orgName": "ENAV SPA",
+            "ecContrib": 163488
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 324938
+        },
+        "918406768": {
+            "orgId": "918406768",
+            "orgName": "AEROPORTUL INTERNATIONAL SIBIU RA",
+            "ecContrib": 67702
+        },
+        "998646526": {
+            "orgId": "998646526",
+            "orgName": "SCHELLER SYSTEMTECHNIK GMBH",
+            "ecContrib": 258650
+        }
+    },
+    "calculatedTotalContribution": 1873507
+}

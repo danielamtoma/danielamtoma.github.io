@@ -1,0 +1,43 @@
+{
+    "rcn": "211049",
+    "acronym": "VALEMA",
+    "topics": "JTI-CS2-2016-CFP04-SYS-02-22",
+    "title": "VALidation tests of ElectroMechanical Actuators and its dedicated control units at TRL 6 level",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2019",
+    "objective": "The objective of the VALEMA project is twofold:\n- On the one hand it is required to manufacture and assembly units (EMAs and ECUs) previously designed and developed according to the JTI-CS2-2016-CFP03-SYS-02-14 Call (Development of electromechanical actuators and electronic control units for flight control systems) for in flight tests activities.\n- On the other hand it is required to perform certification activities regarding both the HW and SW of the ECUs in order to obtain a permit to fly in the FTB2 demonstrator of the Regional Aircraft.\n\nThe manufacturing part will include a deep analysis of manufacturing routes, materials to be used and applicable qualification tests, searching for innovative processes, in order to ensure that the processes optimize the manufacturing time, minimize the raw material used and minimize the environmental impact.\n\nThe certification activities will be aimed at obtaining the permit to fly from the applicable Airworthiness Authorities for the aileron/spoiler ECU HW design (according to DO-254) and for the aileron/spoiler ECU SW design (according to DO-178B).\n\nThese activities can be considered as the last step within the HW and SW design of the aileron/spoiler ECU development to be undertaken in EMA4FLIGHT according to the JTI-CS2-2016-CFP03-SYS-02-14 Call and, as such, the innovations developed within that call also apply herein.",
+    "totalCost": "1091512,5",
+    "ecMaxContribution": "782512,5",
+    "coordinator": "GMV AEROSPACE AND DEFENCE SA",
+    "coordinatorCountry": "ES",
+    "participants": "UMBRAGROUP SPA;RAMEM SA;FUNDACION TECNALIA RESEARCH & INNOVATION;SKYLIFE ENGINEERING SL",
+    "participantCountries": "IT;ES",
+    "projectParticipants": {
+        "972978192": {
+            "orgId": "972978192",
+            "orgName": "UMBRAGROUP SPA",
+            "ecContrib": 170625
+        },
+        "999905004": {
+            "orgId": "999905004",
+            "orgName": "GMV AEROSPACE AND DEFENCE SA",
+            "ecContrib": 260138
+        },
+        "998869529": {
+            "orgId": "998869529",
+            "orgName": "RAMEM SA",
+            "ecContrib": 230125
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 61512
+        },
+        "952538061": {
+            "orgId": "952538061",
+            "orgName": "SKYLIFE ENGINEERING SL",
+            "ecContrib": 60112
+        }
+    },
+    "calculatedTotalContribution": 782512
+}

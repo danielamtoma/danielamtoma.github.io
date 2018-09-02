@@ -1,0 +1,17 @@
+{
+    "rcn": "214505",
+    "acronym": "DESlRE",
+    "topics": "MSCA-IF-2017",
+    "title": "Data-Efficient Scalable Reinforcement Learning for Practical Robotic Environments",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2020",
+    "objective": "The robotics industry is in the process of greater adoption of machine learning. Recent reinforcement learning (RL) and AI breakthroughs, such as AlphaGo, rely on collecting large amounts of data. Such methods are unsuitable for real robots which often can only afford a few trials. Moreover, some states are unsafe to explore, e.g. running over a cliff. Conversely, works such as PILCO combine Bayesian models with model-based RL to improve data efficiency. Those frameworks typically thrive in small data regimes. The goal of this project is to develop RL algorithms that scale to high dimensions while learning with less data. The main pillars of our methodology are RL, recurrent networks, Bayesian methods, embodied exploration, and optimization. To tackle the data efficiency, we adopt model-based RL approaches. We plan to combine representation learning and dynamics in a single model, leading to high predictive power and low-dimensional internal state spaces. Notably, we use methods that can learn disentangled representations, e.g. infoGAN. In practical robots, effective exploration is a real problem in current approaches. We want to leverage recent works in embodied exploration by the host group which allows various real-world robots to explore their capabilities in minutes of interaction. I received my Ph.D. for work in optimization with Dr. William Hager. I also conducted postdoctoral research in machine learning. The Autonomous Learning group is led by Dr. Georg Martius, who has previously studied artificial intrinsic motivation, the self-organized exploration of sensorimotor coordination via information theory, and internal model learning. He also developed the robotics environment LPZRobots. I will gain extensive experience in practical robotics, embodied exploration, and information theory through the collaboration and mature as an advanced AI researcher. Both Dr. Martius and I have a track record of publishing code online. We will continue this effort.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

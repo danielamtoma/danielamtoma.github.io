@@ -1,0 +1,63 @@
+{
+    "rcn": "199417",
+    "acronym": "MULTIPLY",
+    "topics": "EO-2-2015",
+    "title": "MULTIscale SENTINEL land surface information retrieval PLatform",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "With the start of the SENTINEL era, an unprecedented amount of Earth Observation (EO) data will become available. Currently there is no consistent but extendible and adaptable framework to integrate observations from different sensors in order to obtain the best possible estimate of the land surface state. MULTIPY proposes a solution to this challenge. The project will develop an efficient and fully traceable platform that uses state-of-the-art physical radiative transfer models, within advanced data assimilation (DA) concepts, to consistently acquire, interpret and produce a continuous stream of high spatial and temporal resolution estimates of land surface parameters, fully characterized. These inferences on the state of the land surface will be the result from the coherent joint interpretation of the observations from the different Sentinels, as well as other 3rd party missions (e.g. ProbaV, Landsat, MODIS). The framework allows users to exchange components as plug-ins according to their needs. The proposal is based on the EO-LDAS concepts developed within several ESA-funded projects, which have shown the feasibility of producing estimates of the land surface parameters by combining different sets of observations through the use of radiative transfer models. We will provide a fully generic flexible data retrieval platform for Copernicus services that provides integrated and consistent data products in an easily accessible virtual machine with advanced visualisation tools. Users will be engaged throughout the process and trained. Moreover, user demonstrator projects include applications to crop monitoring & modelling, forestry,  biodiversity and nature management. Another user demonstrator project involves providing satellite operators with an opportunity to cross-calibrate their data to the science-grade Sentinel standards.",
+    "totalCost": "2994055",
+    "ecMaxContribution": "2994055",
+    "coordinator": "UNIVERSITEIT LEIDEN",
+    "coordinatorCountry": "NL",
+    "participants": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN;BROCKMANN CONSULT GMBH;ASSIMILA LTD;UNIVERSIDAD DE ALCALA;TARTU OBSERVATORY - ESTONIAN MINISTRY OF EDUCATION AND RESEARCH;ADAS UK LIMITED;UNIVERSITY COLLEGE LONDON;UNIVERSITE DE VERSAILLES SAINT-QUENTIN-EN-YVELINES.",
+    "participantCountries": "DE;UK;ES;EE;FR",
+    "projectParticipants": {
+        "999894237": {
+            "orgId": "999894237",
+            "orgName": "TARTU OBSERVATORY - ESTONIAN MINISTRY OF EDUCATION AND RESEARCH",
+            "ecContrib": 81500
+        },
+        "951120988": {
+            "orgId": "951120988",
+            "orgName": "ADAS UK LIMITED",
+            "ecContrib": 99875
+        },
+        "952596067": {
+            "orgId": "952596067",
+            "orgName": "ASSIMILA LTD",
+            "ecContrib": 75125
+        },
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 560288
+        },
+        "999835746": {
+            "orgId": "999835746",
+            "orgName": "UNIVERSIDAD DE ALCALA",
+            "ecContrib": 49422
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 621470
+        },
+        "999974553": {
+            "orgId": "999974553",
+            "orgName": "UNIVERSITEIT LEIDEN",
+            "ecContrib": 797125
+        },
+        "984286452": {
+            "orgId": "984286452",
+            "orgName": "BROCKMANN CONSULT GMBH",
+            "ecContrib": 617250
+        },
+        "999837104": {
+            "orgId": "999837104",
+            "orgName": "UNIVERSITE DE VERSAILLES SAINT-QUENTIN-EN-YVELINES.",
+            "ecContrib": 92000
+        }
+    },
+    "calculatedTotalContribution": 2994055
+}

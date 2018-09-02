@@ -1,0 +1,73 @@
+{
+    "rcn": "194314",
+    "acronym": "iBROW",
+    "topics": "ICT-06-2014",
+    "title": "Innovative ultra-BROadband ubiquitous Wireless communications through terahertz transceivers",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2018",
+    "objective": "The demand for broadband content and services has been growing at tremendous rates, and predictions indicate that wireless data-rates of multiple tens of Gbps will be required by the year 2020, essentially for short-range connectivity. Currently available wireless technology cannot support these future demands, and so there is an urgent need to develop new technology platforms that are cost and energy efficient to enable ubiquitous ultra-broadband wireless communications seamlessly integrated with high-speed fibre-optic networks, paving the way for 100 Gbps datarates in the long term. The frequency spectrum currently in use is not expected to be suitable to accommodate the predicted future data-rate requirements, and therefore there is a need to embrace higher frequency bands, above 60 GHz and up to 1 THz. iBROW aims at developing a novel, low cost, energy-efficient and compact ultra-broadband short-range wireless communication transceiver technology, capable of addressing predicted future network usage requirements. This will be pursued through the exploitation of Resonant Tunnelling Diode (RTD) devices which represent the fastest pure solid-state electronic devices operating at room temperature with reported working frequencies exceeding 1 THz. Through the development of a unified technology that can be integrated into both ends of the wireless link, namely consumer portable devices and fibre-optic supported base-stations, the project aims at increasing the RTD output power, optical detection efficiency and energy efficiency at target frequencies, developing a methodology for low cost RTD manufacturing on a silicon platform, photonic integration and packaging, as well as identifying appropriate communication methods and architectures to enable its deployment in 10 Gbps short-range wireless communication devices in short term and paving the way for 100 Gbps in long term for both the mm-wave and THz frequency bands, seamlessly integrated with optical fibre networks",
+    "totalCost": "3995128,75",
+    "ecMaxContribution": "3995128,75",
+    "coordinator": "UNIVERSITY OF GLASGOW",
+    "coordinatorCountry": "UK",
+    "participants": "COMPOUND SEMICONDUCTOR TECHNOLOGIES GLOBAL LIMITED;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;VIVID COMPONENTS LTD;ALCATEL-LUCENT DEUTSCHLAND AG;Optocap Ltd;UNIVERSIDADE DO ALGARVE;IQE Silicon Compounds Ltd;III-V LAB",
+    "participantCountries": "UK;FR;PT;DE",
+    "projectParticipants": {
+        "991579785": {
+            "orgId": "991579785",
+            "orgName": "COMPOUND SEMICONDUCTOR TECHNOLOGIES GLOBAL LIMITED",
+            "ecContrib": 256250
+        },
+        "985490319": {
+            "orgId": "985490319",
+            "orgName": "Optocap Ltd",
+            "ecContrib": 263750
+        },
+        "998439819": {
+            "orgId": "998439819",
+            "orgName": "VIVID COMPONENTS LTD",
+            "ecContrib": 235838
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 356250
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 470044
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 304375
+        },
+        "999912376": {
+            "orgId": "999912376",
+            "orgName": "ALCATEL-LUCENT DEUTSCHLAND AG",
+            "ecContrib": 209094
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 861599
+        },
+        "999863003": {
+            "orgId": "999863003",
+            "orgName": "UNIVERSIDADE DO ALGARVE",
+            "ecContrib": 320000
+        },
+        "986544030": {
+            "orgId": "986544030",
+            "orgName": "IQE Silicon Compounds Ltd",
+            "ecContrib": 217500
+        },
+        "999971546": {
+            "orgId": "999971546",
+            "orgName": "III-V LAB",
+            "ecContrib": 500430
+        }
+    },
+    "calculatedTotalContribution": 3995130
+}

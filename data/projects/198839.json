@@ -1,0 +1,58 @@
+{
+    "rcn": "198839",
+    "acronym": "ENCASE",
+    "topics": "MSCA-RISE-2015",
+    "title": "EnhaNcing seCurity And privacy in the Social wEb: a user centered approach for the protection of minors",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "ENCASE will leverage the latest advances in usable security and privacy to design and implement a browser-based architecture for the protection of minors from malicious actors in online social networks. The ENCASE user-centric architecture will consist of three distinct services, which can be combined to form an effective protective net against cyberbullying and sexually abusive acts: a) a browser add-on with its corresponding scalable back-end software stack that collects the usersí online actions to unveil incidents of aggressive or  distressed behavior; b) a browser add-on  with its associated scalable software stack that analyses social web data to detect fraudulent and fake activity and alert the user; and c) a browser add-on that detects when a user is about to share sensitive content (e.g., photos or address information) with an inappropriate audience and warns the user or his parents of the imminent privacy threat. The third add-on has usable controls that enable users to protect their content by suggesting suitable access lists, by watermarking, and by securing the content via cryptography or steganography. The three browser add-ons and the back-end social web data analytics software stack will be assessed with user studies and piloting activities and will be released to the public. The foundation of the research and innovation activities will be a diligently planned inter-sectorial and interdisciplinary secondment program for Experienced and Early Stage Researchers that fosters knowledge exchange.  The academic partners will contribute know-how on user experience assessment, large scale data processing, machine learning and data-mining algorithm design, and content confidentiality techniques. The industrial partners will primarily offer expertise in production-grade software development, access to real-world online social network data, and access to numerous end-users through widely deployed products.",
+    "totalCost": "2160000",
+    "ecMaxContribution": "2160000",
+    "coordinator": "TECHNOLOGIKO PANEPISTIMIO KYPROU",
+    "coordinatorCountry": "CY",
+    "participants": "LSTECH LTD;ARISTOTELIO PANEPISTIMIO THESSALONIKIS;UNIVERSITA DEGLI STUDI ROMA TRE;INNOVEITORS (INNOVATORS) EFARMOGES YPSILIS TECHNOLOGIAS AE;TELEFONICA INVESTIGACION Y DESARROLLO SA;SIGNALGENERIX LIMITED;UNIVERSITY COLLEGE LONDON;CY.R.I.C CYPRUS RESEARCH AND INNOVATION CENTER LTD",
+    "participantCountries": "UK;EL;IT;ES;CY",
+    "projectParticipants": {
+        "952429809": {
+            "orgId": "952429809",
+            "orgName": "CY.R.I.C CYPRUS RESEARCH AND INNOVATION CENTER LTD",
+            "ecContrib": 270000
+        },
+        "935056721": {
+            "orgId": "935056721",
+            "orgName": "LSTECH LTD",
+            "ecContrib": 270000
+        },
+        "999597223": {
+            "orgId": "999597223",
+            "orgName": "TECHNOLOGIKO PANEPISTIMIO KYPROU",
+            "ecContrib": 580500
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 270000
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 81000
+        },
+        "953176127": {
+            "orgId": "953176127",
+            "orgName": "INNOVEITORS (INNOVATORS) EFARMOGES YPSILIS TECHNOLOGIAS AE",
+            "ecContrib": 54000
+        },
+        "999866107": {
+            "orgId": "999866107",
+            "orgName": "UNIVERSITA DEGLI STUDI ROMA TRE",
+            "ecContrib": 256500
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 270000
+        }
+    },
+    "calculatedTotalContribution": 2052000
+}

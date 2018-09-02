@@ -1,0 +1,23 @@
+{
+    "rcn": "198446",
+    "acronym": "SEDAL",
+    "topics": "ERC-CoG-2014",
+    "title": "Statistical Learning for Earth Observation Data Analysis.",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "SEDAL is an interdisciplinary project that aims to develop novel statistical learning methods to analyze Earth Observation (EO) satellite data. In the last decade, machine learning models have helped to monitor land, oceans, and atmosphere through the analysis and estimation of climate and biophysical parameters. Current approaches, however, cannot deal efficiently with the particular characteristics of remote sensing data. In the coming few years, this problem will largely increase: several satellite missions, such as the operational EU Copernicus Sentinels, will be launched, and we will face the urgent need to process and understand huge amounts of complex, heterogeneous, multisource, and structured data to monitor the rapid changes already occurring in our Planet.\n\nSEDAL aims to develop the next generation of statistical inference methods for EO data analysis. We will develop advanced regression methods to improve efficiency, prediction accuracy and uncertainties, encode physical knowledge about the problem, and attain self-explanatory models learned from empirical data. Even more importantly, we will learn graphical causal models to explain the potentially complex interactions between key observed variables, and discover hidden essential drivers and confounding factors. This project will thus aboard the fundamental problem of moving from correlation to dependence and then to causation through EO data analysis. The theoretical developments will be guided by the challenging problems of estimating biophysical parameters and learning causal relations at both local and global planetary scales.\n\nThe long-term vision of SEDAL is tied to open new frontiers and foster research towards algorithms capable of discovering knowledge from EO data, a stepping stone before the more ambitious far-end goal of machine reasoning of anthropogenic climate change.",
+    "totalCost": "1716954",
+    "ecMaxContribution": "1716954",
+    "coordinator": "UNIVERSITAT DE VALENCIA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999953019": {
+            "orgId": "999953019",
+            "orgName": "UNIVERSITAT DE VALENCIA",
+            "ecContrib": 1716954
+        }
+    },
+    "calculatedTotalContribution": 1716954
+}

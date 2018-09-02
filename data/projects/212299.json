@@ -1,0 +1,23 @@
+{
+    "rcn": "212299",
+    "acronym": "LightCrypt",
+    "topics": "ERC-2017-STG",
+    "title": "New Directions in Lightweight Cryptanalysis",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Over the next five years, fifty billion new smart devices will be connected to the Internet of Things (IoT), creating a revolution in the way we interact with our environment. Such resource constrained devices will require lightweight cryptography to protect them and us from bad actors. Unfortunately, such schemes can be highly vulnerable: Two notable examples are the encryption schemes used in GSM cellular phones and in car remote controls - both broken by the PI. We claim that it is not sufficient to adjust the current design and analysis tools to the constrained environment. Instead, we must establish a new research methodology, aiming directly at the problems arising in the 'lightweight realm'. \nWe plan to concentrate on four main directions. First, we will go 'a level up' to study the security of generic lightweight building blocks in order to find the minimal number of operations required to transition from insecure to secure designs. Second, when considering specific ciphers we will pursue practical low complexity attacks, which are more relevant to the lightweight realm than standard theoretical attacks. Third, we will pursue new directions toward establishing 'white-box cryptography' ñ a central challenge in IoT cryptography. Finally, we will explore further applications of discrete analysis to lightweight cryptography, trying to establish rigorous conditions under which the standard cryptanalytic techniques apply in order to avoid unnecessarily pessimistic security estimates.   \nFor the near future, we hope that our research will make it possible to detect and fix weaknesses in existing lightweight ciphers before they can be exploited by the 'bad guys'. Looking forward farther, we hope to understand how to design new secure lightweight ciphers for the billions of IoT devices to come.",
+    "totalCost": "1487500",
+    "ecMaxContribution": "1487500",
+    "coordinator": "BAR ILAN UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999886574": {
+            "orgId": "999886574",
+            "orgName": "BAR ILAN UNIVERSITY",
+            "ecContrib": 1487500
+        }
+    },
+    "calculatedTotalContribution": 1487500
+}

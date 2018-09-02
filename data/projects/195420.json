@@ -1,0 +1,23 @@
+{
+    "rcn": "195420",
+    "acronym": "TRICE QFT",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "TRapped Ion Coherent Execution of Quantum Fourier Transform",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "Quantum computers hold the promise to efficiently solve certain computational problems that would be intractable using conventional computers. The latter are not able to efficiently incorporate quantum phenomena arising with superposition of states or entanglement. In order to realize a large-scale quantum computer, it is imperative to have superior control over the efficiency and reliability of already available quantum operations. Trapped ions, being a scalable quantum system, envisage the experimental realization of a large-scale universal quantum computer. The proposed project will demonstrate a novel route to implement a Quantum Fourier Transform (QFT), a crucial component of many quantum algorithms, in a small-scale quantum information processor based on a string of singly charged ytterbium ions confined in a linear Paul trap. In presence of a magnetic field gradient-induced coupling, simultaneous interaction between all pairs of qubits will be exploited for efficient execution of quantum algorithms. Thus, instead of decomposing a given quantum algorithm into its smallest possible elementary constituents (1- and 2-qubit gates), multi-qubit conditional quantum dynamics will be used to implement a QFT. Experiment and theory will collaborate at all stages to streamline the project. New collaborations will be established allowing to combine the tremendous knowledge and expertise already existing in the field. The breakthroughs envisioned in the project are, to explore and implement simultaneous couplings between N ? 4 qubits allowing for efficient execution of quantum algorithms, and to implement a Quantum Fourier Transform with N ? 4 qubits pointing into the future capability of realizing a large number factorization using a quantum factoring algorithm. In addition, career development plans are proposed to assist the fellow acquire new skills enabling a high level of professional maturity and independence to lead a successful career in academia.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "UNIVERSITAET SIEGEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999849617": {
+            "orgId": "999849617",
+            "orgName": "UNIVERSITAET SIEGEN",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

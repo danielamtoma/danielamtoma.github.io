@@ -1,0 +1,63 @@
+{
+    "rcn": "212896",
+    "acronym": "HYPERNETS",
+    "topics": "SC5-18-2017",
+    "title": "A new hyperspectral radiometer integrated in automated networks of water and land bidirectional reflectance measurements for satellite validation",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2022",
+    "objective": "Networking of automated instruments on unmanned platforms, e.g. AERONET-OC and RADCALNET, has proved to be the most effective way to provide validation data for Copernicus optical missions. The re-use of data from each site for many optical missions (S2, S3, PROBA-V,MODIS,VIIRS,L8,PlÈiades,ENMAP,PRISMA,SABIAMAR,etc.) gives a huge economy of scale. The existing AERONET-OC and RADCALNET networks are based on multispectral instruments, which are expensive to acquire and require modelling associated uncertainties to cover all spectral bands of all sensors. Recent advances in opto-electronics facilitate the use of miniaturized hyperspectral spectrometers, with reduced price. Industrial production of video surveillance cameras greatly reduces the price of pointing systems for scientific instruments. Improved LEDs can provide a stable light source for relative calibration and continuous autonomous monitoring of radiometers. Webcams (for remote inspection of instruments and maintenance support) and data transmission have become cheaper allowing reducing the running costs and improving the reliability of autonomous instrument systems. The objective of the HYPERNETS project is to develop a new lower cost hyperspectral radiometer and associated pointing system and embedded calibration device for automated measurement of water and land bidirectional reflectance. The instrument will be tested in a prototype network covering a wide range of water and land types and operating conditions. Quality controlled data with associated uncertainty estimates will be provided automatically for the validation of all optical satellite missions. Preparations will be made a) for the new instrument design (and associated calibration service) to be commercialized with an expected lifetime of at least 10 years and b) for the networks to be further expanded to become the main source of surface reflectance validation data for all spectral bands of all optical missions for at least the next 10 years.",
+    "totalCost": "4999233,75",
+    "ecMaxContribution": "4999233,75",
+    "coordinator": "INSTITUT ROYAL DES SCIENCES NATURELLES DE BELGIQUE",
+    "coordinatorCountry": "BE",
+    "participants": "NPL MANAGEMENT LIMITED;UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;CONSEJO NACIONAL DE INVESTIGACIONES CIENTIFICAS Y TECNICAS (CONICET);TARTU ULIKOOL;HELMHOLTZ ZENTRUM POTSDAM DEUTSCHESGEOFORSCHUNGSZENTRUM GFZ;CONSIGLIO NAZIONALE DELLE RICERCHE;TARTU OBSERVATORY - ESTONIAN MINISTRY OF EDUCATION AND RESEARCH;SORBONNE UNIVERSITE",
+    "participantCountries": "UK;FR;AR;EE;DE;IT",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "999894237": {
+            "orgId": "999894237",
+            "orgName": "TARTU OBSERVATORY - ESTONIAN MINISTRY OF EDUCATION AND RESEARCH",
+            "ecContrib": 0
+        },
+        "998437006": {
+            "orgId": "998437006",
+            "orgName": "INSTITUT ROYAL DES SCIENCES NATURELLES DE BELGIQUE",
+            "ecContrib": 750000
+        },
+        "999994341": {
+            "orgId": "999994341",
+            "orgName": "HELMHOLTZ ZENTRUM POTSDAM DEUTSCHESGEOFORSCHUNGSZENTRUM GFZ",
+            "ecContrib": 449236
+        },
+        "999895013": {
+            "orgId": "999895013",
+            "orgName": "TARTU ULIKOOL",
+            "ecContrib": 2050000
+        },
+        "998619754": {
+            "orgId": "998619754",
+            "orgName": "CONSEJO NACIONAL DE INVESTIGACIONES CIENTIFICAS Y TECNICAS (CONICET)",
+            "ecContrib": 300000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 450000
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 550000
+        },
+        "999920330": {
+            "orgId": "999920330",
+            "orgName": "NPL MANAGEMENT LIMITED",
+            "ecContrib": 449998
+        }
+    },
+    "calculatedTotalContribution": 4999234
+}

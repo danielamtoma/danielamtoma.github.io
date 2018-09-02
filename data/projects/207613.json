@@ -1,0 +1,23 @@
+{
+    "rcn": "207613",
+    "acronym": "CHIC",
+    "topics": "ERC-2016-COG",
+    "title": "On CHip terahertz frequency Combs",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "The terahertz (THz) portion of the electromagnetic spectrum is the junction between optics and electronics.   THz is a gate to sensing applications and spectroscopy as well as appealing for material inspection,  non-invasive imaging for safety and medical applications and short-range high data rate wireless communication  which are being extended to higher frequencies entering the THz range. Optical frequency combs have dominated the scene of laser physics in the last 10 years revolutionizing many fields of optics from metrology to high precision spectroscopy. Optical frequency combs act as rulers in the frequency domain and are characterized by their perfectly equally spaced and coherent modes. An extremely appealing application of optical frequency combs is the so-called dual-comb spectroscopy where multi-heterodyne detection is performed allowing Fourier transform spectroscopy with high resolution, high sensitivity and no moving parts. \nThe objective of this proposal is to create on-chip, self-referenced frequency combs operating in the spectral region from 1.5-5-5 THz.  Two main approaches will be followed: direct generation with THz QC lasers (cryogenically cooled) and room temperature non-linear generation by means of Mid-IR QCL combs.  Such devices will be groundbreaking since they will allow high resolution THz spectroscopy and they will pave the way to high-rate local data transmission and coherent communication. We recently demonstrated octave spanning lasing from a THz QCL: this will constitute the foundation of our efforts. The developed combs will be implemented in the extremely powerful dual-comb scheme with innovative on-chip self-stabilization and detection of the multi-heterodyne signals.  The self-referencing and the independence from an external detector makes the proposed devices disruptive due to their extreme compactness, intrinsic stability and large bandwidth.",
+    "totalCost": "1999055",
+    "ecMaxContribution": "1999055",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 1999055
+        }
+    },
+    "calculatedTotalContribution": 1999055
+}

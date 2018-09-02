@@ -1,0 +1,33 @@
+{
+    "rcn": "200105",
+    "acronym": "math4AAArisk",
+    "topics": "ERC-PoC-2015",
+    "title": "A mathematical platform for Abdominal Aortic Aneurism risk assessment and surgical planning",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2016",
+    "objective": "Abdominal Aneurysm of the Aorta (AAA) is a degenerative disease of the last segment of the abdominal aorta, representing the 14th leading cause of death for the 60 to 85 year-old age group in US. An estimated 80 million people aged 60 years and older are at risk in Western Europe. To date the most commonly used clinical protocol for surgical acceptance is based on the estimate of  AAA diameter.  The report prepared for the Agency for Healthcare Research and Quality came to the conclusion that: the annual risk of rupture is 1% or lower for a diameter less than 5.5 cm; the 1-year risk of rupture increases with the aneurysm size; it may exceed 10% in the individuals with diameters above 6 cm.\n\nAssessment of AAA rupture risk has long been a topic of interest in clinical research setting. The ability to estimate patient specific probability of AAA rupture can lead to reduced health care costs, adequate and timely patient diagnostic and comfort.\n\nMath4AAArisk aims at the realization of a mathematical platform to support clinicians through the following steps: (A1) From medical imaging to sizing and morphological characterization of AAA, (A2) Preliminary risk evaluation, (A3) Computer simulation and enhanced risk assessment, (B1) Automatic surgery planner, (C1) Anonymous data base storage.\n\nThe proposed mathematical platform yields quantitative physical indicators in real time at the sole request of inputting a few clinical measurements; it is patient adapted, as it integrates with patientís radiological images, under full control of clinicians; it is aimed at improving the diagnostic analysis and possibly the surgical planning.  We wish to establish the viability for a market exploitation of the math4AAArisk platform and identify possible later stage funding opportunities.",
+    "totalCost": "147400",
+    "ecMaxContribution": "147400",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "MOXOFF SPA;UNIVERSITA DEGLI STUDI DI MILANO",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "952423019": {
+            "orgId": "952423019",
+            "orgName": "MOXOFF SPA",
+            "ecContrib": 85300
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 51250
+        },
+        "999995796": {
+            "orgId": "999995796",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MILANO",
+            "ecContrib": 10850
+        }
+    },
+    "calculatedTotalContribution": 147400
+}

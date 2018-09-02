@@ -1,0 +1,48 @@
+{
+    "rcn": "194263",
+    "acronym": "SARAFun",
+    "topics": "ICT-23-2014",
+    "title": "Smart Assembly Robot with Advanced FUNctionalities",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2018",
+    "objective": "While Industrial robots are very successful in many areas of industrial manufacturing, assembly automation still suffers from complex time consuming programming and the need of dedicated hardware. ABB has developed FRIDA (Friendly Robot for Industrial Dual Arm Assembly), a collaborative inherently safe assembly robot that is expected to reduce integration costs significantly by offering a standardized hardware setup and simple fitting of the robot into existing workplaces. Internal Pilot testing at ABB has however shown that when FRIDA is programmed with traditional methods the programming time even for simple assembly tasks will remain very long.\nThe SARAFun project has been formed to enable a non-expert user to integrate a new bi-manual assembly task on a FRIDA robot in less than a day. This will be accomplished by augmenting the FRIDA robot with cutting edge sensory and cognitive abilities as well as reasoning abilities required to plan and execute an assembly task. \nThe overall conceptual approach is that the robot should be capable of learning and executing assembly tasks in a human like manner.  Studies will be made to understand how human assembly workers learn and perform assembly tasks. The human performance will be modelled and transferred to the FRIDA robot as assembly skills. The robot will learn assembly tasks, such as insertion or folding, by observing the task being performed by a human instructor. The robot will then analyze the task and generate an assembly program, including exception handling, and design 3D printable fingers tailored for gripping the parts at hand. Aided by the human instructor, the robot will finally learn to perform the actual assembly task, relying on sensory feedback from vision, force and tactile sensing as well as physical human robot interaction. During this phase the robot will gradually improve its understanding of the assembly at hand until it is capable of performing the assembly in a fast and robust manner.",
+    "totalCost": "4037266,25",
+    "ecMaxContribution": "4037265,5",
+    "coordinator": "ABB AB",
+    "coordinatorCountry": "SE",
+    "participants": "KUNGLIGA TEKNISKA HOEGSKOLAN;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;FUNDACION TECNALIA RESEARCH & INNOVATION;LUNDS UNIVERSITET;UNIVERSITAET BIELEFELD",
+    "participantCountries": "SE;EL;ES;DE",
+    "projectParticipants": {
+        "998509853": {
+            "orgId": "998509853",
+            "orgName": "ABB AB",
+            "ecContrib": 1054747
+        },
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 569500
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 564612
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 462500
+        },
+        "999854370": {
+            "orgId": "999854370",
+            "orgName": "UNIVERSITAET BIELEFELD",
+            "ecContrib": 409031
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 976875
+        }
+    },
+    "calculatedTotalContribution": 4037265
+}

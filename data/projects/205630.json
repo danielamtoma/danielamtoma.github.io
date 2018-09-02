@@ -1,0 +1,38 @@
+{
+    "rcn": "205630",
+    "acronym": "BRIDAS",
+    "topics": "JTI-CS2-2015-CFP02-AIR-02-12",
+    "title": "Brillouin Distributed sensor for Aeronautical Structures",
+    "startDate": "01/07/2016",
+    "endDate": "31/12/2018",
+    "objective": "The proposal is addressed to the development of a prototype for distributed strain measurements in optical fibers for industrial aeronautical contexts: composite manufacturing plants, structural test platforms and airborne conditions. The prototype will be based on stimulated Brillouin scattering (SBS), and will be aimed to the structural health monitoring of composite parts employed in the aeronautical industry. The developed prototype will have performance significantly superior to those offered by commercial SBS-based interrogation units. In particular, the prototype will have the following characteristics: (a) A spatial resolution of 5 mm; (b) A measurement range of 150 m; (c) A total weight less than 4.75 kg; (d) A specific software for each monitoring scenario, providing all relevant data in an effective and accessible way.\nThe developed sensor will implement a Brillouin Optical Frequency-Domain Analysis (BOFDA) configuration, characterized by the fact that measurements are carried out in the frequency domain  The prototype will be assembled with Original Equipment Manufacturer (OEM) components, selected in order to minimize size and weight, in particular by making use of a vector network analyzer (VNA) operating up to 20 GHz. The prototype will be employed in the evaluation of quality and structural health of composite parts for the aeronautical industry, such as complete fuselage, wings, vertical or horizontal tail plane of passenger commercial aircrafts. By measuring the strain along optical fibers embedded into composite parts during their manufacture, damage detection will be possible both in the manufacturing stage and during service life. The developed system will be integrated into one typical industrial application that will be selected with the Topic Manager. At the end of the project, the delivered prototype will be validated based on the research context.",
+    "totalCost": "354593,75",
+    "ecMaxContribution": "350281,25",
+    "coordinator": "UNIVERSITA DEGLI STUDI DELLA CAMPANIA LUIGI VANVITELLI",
+    "coordinatorCountry": "IT",
+    "participants": "CONSIGLIO NAZIONALE DELLE RICERCHE;OPTOSENSING SRL;UNIVERSIDAD REY JUAN CARLOS",
+    "participantCountries": "IT;ES",
+    "projectParticipants": {
+        "948530021": {
+            "orgId": "948530021",
+            "orgName": "OPTOSENSING SRL",
+            "ecContrib": 10062
+        },
+        "999886283": {
+            "orgId": "999886283",
+            "orgName": "UNIVERSIDAD REY JUAN CARLOS",
+            "ecContrib": 69962
+        },
+        "999848356": {
+            "orgId": "999848356",
+            "orgName": "UNIVERSITA DEGLI STUDI DELLA CAMPANIA LUIGI VANVITELLI",
+            "ecContrib": 135100
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 135156
+        }
+    },
+    "calculatedTotalContribution": 350280
+}

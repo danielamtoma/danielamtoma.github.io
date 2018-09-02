@@ -1,0 +1,28 @@
+{
+    "rcn": "205354",
+    "acronym": "Neuroimaging power",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Effect size and power for neuroimaging.",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "There is an increasing concern about statistical power in neuroscience research. Critically, an underpowered study has poor predictive power. Findings from a low-power study are unlikely to be reproducible, and thus a power analysis is a critical component of any paper. This project aims to promote and facilitate the use of power analyses.\nA key component of a power analysis is the specification of an effect size. However, in neuroimaging, there is no standardised way to communicate effect sizes, which makes the choice of an appropriate effect size a formidable task. The best way today to perform a power analysis is by collecting a pilot data set, a very expensive practice. To eliminate the need for pilot data, we will develop a standardised measure of effect size taking into account the spatial variance and the uncertainty of the measurements. Communicating effect sizes in new publications will facilitate the use of power analyses.\nTo further alleviate the need for pilot data, we will provide a library of effect sizes for different tasks and contrasts, using open data projects in neuroimaging. We will integrate our effect size estimator in open repositories NeuroVault and OpenfMRI. Consequently, these effect sizes can then serve as a proxy for a pilot study, and as such, a huge cost in the design of an experiment is eliminated.\nA new experiment will not be identical to the open data and as such the hypothesised parameters might not be fully accurate. To address this issue, we present a flexible framework to analyse data mid-way without harming the control of the type I error rate. Such a procedure will allow re-evaluating halfway an experiment whether it is useful to continue a study, and how many more subjects are needed for statistically sound inferences.\nTo make our methods maximally available, we will write a software suite including all these methods in different programming platforms and we will provide a GUI to further increase the use of power analyses.",
+    "totalCost": "264668,4",
+    "ecMaxContribution": "264668,4",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999466467": {
+            "orgId": "999466467",
+            "orgName": "BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 264668
+        }
+    },
+    "calculatedTotalContribution": 264668
+}

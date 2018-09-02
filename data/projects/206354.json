@@ -1,0 +1,78 @@
+{
+    "rcn": "206354",
+    "acronym": "CERBERO",
+    "topics": "ICT-01-2016",
+    "title": "Cross-layer modEl-based fRamework for multi-oBjective dEsign of Reconfigurable systems in unceRtain hybRid envirOnments",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "ICT is embedded and pervasive into our daily lives. The notion of Cyber Physical Systems (CPS) has emerged: embedded computational collaborating devices, capable of controlling physical elements and responding to humans.\nThe Cross-layer modEl-based fRamework for multi-oBjective dEsign of Reconfigurable systems in unceRtain hybRid envirOnments (CERBERO) project aims at developing a design environment for CPS based of two pillars: a cross-layer model based approach to describe, optimize, and analyze the system and all its different views concurrently; an advanced adaptivity support based on a multi-layer autonomous engine. To overcome the limit of current tools, CERBERO provides: libraries of generic Key Performance Indicators for reconfigurable CPSs in hybrid/uncertain environments; novel formal and simulation-based methods; a continuous design environment guaranteeing early-stage analysis and optimization of functional and non-functional requirements, including energy, reliability and security. CERBERO effectiveness will be assessed in challenging and diverse scenarios, brought by industrial leaders: an embedded CPS with self-healing capabilities for planetary explorations (TASE-S&T), an ocean monitoring CPSoS (AS), and a Smart Travelling CPSoS for Electric Vehicle (TNO-CRF-S&T). CERBERO will automate multi-objective decisions to meet requirements and correct/optimizedñbyñconstruction designs. Interoperable components (i.e. DynAA by TNO, AOW by IBM, PREESM by INSA, PAPI-ARTICo3 by UPM, MDC by UniCA-UniSS) will be enhanced with additional features (as security, USI), mostly released as open-source to foster open innovation and a real path to standardisation, and integrated (IBM- AI) into a unique framework. Design speed up (one order of magnitude), increased performance (30% less energy) and reduced costs of deployment (by rapid prototyping and system in the loop incremental design) and maintenance (by runtime verification and adaptivity) of CPSoS are expected.",
+    "totalCost": "5383597,5",
+    "ecMaxContribution": "4996460",
+    "coordinator": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+    "coordinatorCountry": "IL",
+    "participants": "CENTRO RICERCHE FIAT SCPA;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;UNIVERSITA DEGLI STUDI DI CAGLIARI;ABINSULA SRL;SCIENCE AND TECHNOLOGY BV;INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES;UNIVERSITA DELLA SVIZZERA ITALIANA;AMBIESENSE LTD;UNIVERSITA DEGLI STUDI DI SASSARI;THALES ALENIA SPACE ESPANA, SA;UNIVERSIDAD POLITECNICA DE MADRID",
+    "participantCountries": "IT;NL;FR;CH;UK;ES",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 339560
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 1064550
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 575125
+        },
+        "985898301": {
+            "orgId": "985898301",
+            "orgName": "AMBIESENSE LTD",
+            "ecContrib": 590588
+        },
+        "999841663": {
+            "orgId": "999841663",
+            "orgName": "UNIVERSITA DEGLI STUDI DI CAGLIARI",
+            "ecContrib": 259250
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 422500
+        },
+        "951632372": {
+            "orgId": "951632372",
+            "orgName": "ABINSULA SRL",
+            "ecContrib": 307500
+        },
+        "999585874": {
+            "orgId": "999585874",
+            "orgName": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+            "ecContrib": 0
+        },
+        "999611482": {
+            "orgId": "999611482",
+            "orgName": "INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES",
+            "ecContrib": 348125
+        },
+        "990406085": {
+            "orgId": "990406085",
+            "orgName": "SCIENCE AND TECHNOLOGY BV",
+            "ecContrib": 178125
+        },
+        "999465594": {
+            "orgId": "999465594",
+            "orgName": "UNIVERSITA DEGLI STUDI DI SASSARI",
+            "ecContrib": 386475
+        },
+        "999701595": {
+            "orgId": "999701595",
+            "orgName": "THALES ALENIA SPACE ESPANA, SA",
+            "ecContrib": 524662
+        }
+    },
+    "calculatedTotalContribution": 4996460
+}

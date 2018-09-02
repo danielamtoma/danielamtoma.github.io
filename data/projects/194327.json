@@ -1,0 +1,38 @@
+{
+    "rcn": "194327",
+    "acronym": "MMT",
+    "topics": "ICT-17-2014",
+    "title": "MMT will deliver a language independent commercial online translation service based on a new open-source machine translation distributed architecture",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The goal of MMT is to deliver a language independent commercial online translation service based on a new open-source machine translation distributed architecture. \n\nMMT does not require any initial training phase. Once fed with training data MMT will be ready to translate. MMT de-facto will merge translation memory and machine translation technology into one single product. Quality of translations will increase as soon as new training data are added.\n\nMMT manages context automatically so that it will not require building domain specific systems. MMT will provide best translation quality for any topic/domain by storing training segments together with context linking information.\n\nMMT enables scalability of data and users so that no more expensive ad-hoc hardware installations are needed. The MMT architecture will support high performance and linear scalability up to thousands of nodes. The same software will work to set-up a personal translation system or to create a web-based service on a cluster of commodity nodes able to handle terabytes of data and millions of users.\n\nMMT will create a data collection infrastructure that accelerates the process of filling the data gap between large IT companies and the MT industry.  MMT will leverage the data crawled on the web by Common Crawl, TAUS, Translatedís MyMemory and Matecat data and facilities to set up a processing pipeline that will create unprecedented  amounts of clean parallel and monolingual data to develop machine translation systems.",
+    "totalCost": "3695200",
+    "ecMaxContribution": "2994700",
+    "coordinator": "TRANSLATED SRL",
+    "coordinatorCountry": "IT",
+    "participants": "TAUS BV;FONDAZIONE BRUNO KESSLER;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "NL;IT;UK",
+    "projectParticipants": {
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 757500
+        },
+        "964864433": {
+            "orgId": "964864433",
+            "orgName": "TRANSLATED SRL",
+            "ecContrib": 1004500
+        },
+        "994797857": {
+            "orgId": "994797857",
+            "orgName": "TAUS BV",
+            "ecContrib": 630000
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 602700
+        }
+    },
+    "calculatedTotalContribution": 2994700
+}

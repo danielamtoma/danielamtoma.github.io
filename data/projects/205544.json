@@ -1,0 +1,58 @@
+{
+    "rcn": "205544",
+    "acronym": "THOMAS",
+    "topics": "FOF-02-2016",
+    "title": "Mobile dual arm robotic workers with embedded cognition for hybrid and dynamically reconfigurable manufacturing systems",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2020",
+    "objective": "The productivity of the serial production model is compromised by the need to perform changes in the production equipment that cannot support multiple operations in dynamic environments. Low cost labour is no longer an option for EU manufacturers due to the fast rise of wages and the increasing costs of energy and logistics. Manual tasks cannot be fully automated with a good ratio of cost vs robustness using standard robots due to: high product variability, dedicated process equipment and high cost of maintenance by expert users. The answer to this challenge lays in the creation of production concepts that base their operation on the autonomy and collaboration between production resources. \nThe vision of THOMAS is: ìto create a dynamically reconfigurable shopfloor utilizing autonomous, mobile dual arm robots that are able to perceive their environment and through reasoning, cooperate with each other and with other production resources including human operatorsî.\nThe objective of THOMAS are to:\n- Enable mobility on products and resources. Introducing mobile robots able to navigate in the shopfloor and utilize dexterous tooling to perform multiple operations.\n- Enabling perception of the task and the environment using a) the individual resourceís and b) collaborative perception by combining sensors of multiple resources \n- Dynamic balancing of workload. Allowing the resources to communicate over a common network and automatically adjust their behaviour by sharing or reallocating tasks dynamically.\n- Fast programming and automatic execution of new tasks by a) automatically generating the robot program for new products and b) applying skills over the perceived environment to determine required adaptations\n- Safe human robot collaboration, eliminating physical barriers, by introducing cognitive abilities that allow the detection of humans and their intentions\nTHOMAS will demonstrate and validate its developments in the automotive and the aeronautics industrial sectors.",
+    "totalCost": "5624225",
+    "ecMaxContribution": "4510700",
+    "coordinator": "PANEPISTIMIO PATRON",
+    "coordinatorCountry": "EL",
+    "participants": "ROBOCEPTION GMBH;SICK AG;FUNDACION TECNALIA RESEARCH & INNOVATION;PSA AUTOMOBILES SA;Aernnova Aerospace S.A.U.;DGH ROBOTICA, AUTOMATIZACION Y MANTENIMIENTO INDUSTRIAL SA;INTRASOFT INTERNATIONAL SA",
+    "participantCountries": "DE;ES;FR;LU",
+    "projectParticipants": {
+        "928134510": {
+            "orgId": "928134510",
+            "orgName": "ROBOCEPTION GMBH",
+            "ecContrib": 350875
+        },
+        "999702371": {
+            "orgId": "999702371",
+            "orgName": "INTRASOFT INTERNATIONAL SA",
+            "ecContrib": 468125
+        },
+        "990590094": {
+            "orgId": "990590094",
+            "orgName": "SICK AG",
+            "ecContrib": 747600
+        },
+        "999420877": {
+            "orgId": "999420877",
+            "orgName": "PSA AUTOMOBILES SA",
+            "ecContrib": 386225
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 873725
+        },
+        "997390764": {
+            "orgId": "997390764",
+            "orgName": "Aernnova Aerospace S.A.U.",
+            "ecContrib": 198188
+        },
+        "999894528": {
+            "orgId": "999894528",
+            "orgName": "PANEPISTIMIO PATRON",
+            "ecContrib": 1038750
+        },
+        "949608079": {
+            "orgId": "949608079",
+            "orgName": "DGH ROBOTICA, AUTOMATIZACION Y MANTENIMIENTO INDUSTRIAL SA",
+            "ecContrib": 447212
+        }
+    },
+    "calculatedTotalContribution": 4510700
+}

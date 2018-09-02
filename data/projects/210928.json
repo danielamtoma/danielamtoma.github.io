@@ -1,0 +1,23 @@
+{
+    "rcn": "210928",
+    "acronym": "FastMat",
+    "topics": "ERC-2016-COG",
+    "title": "Fast determination of fatigue properties of materials beyond one billion cycles",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "Many mechanical structures are submitted to repeated loadings and can break under stress lower than the ultimate tensile stress. This phenomenon is called the fatigue of materials and can be found in many industrial sectors, such as the transport industry, aeronautic industry and energy production. Fatigue design is thus crucial in engineering and it requires the precise characterization of material behavior under cyclic loadings to ensure the safety and reliability of structures throughout their life. An increase in the life span of a structure or a reduction in the number of maintenance phases leads to an increases in the number of cycles applied to this structure. It is presently common to find mechanical systems subjected to several billion cycles, in what is called the gigacycle fatigue domain. The characterization of the fatigue behavior of materials requires fatigue tests to be conducted until fracture for different stress amplitudes. One problem with this method is the test duration, which becomes excessive and beyond possible, particularly for a very high number of cycles. The goal of FastMat is to develop a new method that reduces considerably the duration of fatigue characterization. This method involves the use of only short interrupted tests coupled with a self-heating measurement to characterize the fatigue behavior for very low stress amplitudes. The scientific objective is to develop simultaneously experimental and numerical tools for the fast determination of fatigue behavior. The experimental approach will be developed to estimate simultaneously the dissipation and the stored energy, which directly reflect fatigue damage. For the numerical approach, discrete dislocation dynamics simulations will be developed to establish links between the fatigue damage associated with the evolution of dislocation structures, the stored energy and the dissipated energy.",
+    "totalCost": "1860962,5",
+    "ecMaxContribution": "1860962,5",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1860962
+        }
+    },
+    "calculatedTotalContribution": 1860962
+}

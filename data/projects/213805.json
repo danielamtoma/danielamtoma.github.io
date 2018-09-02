@@ -1,0 +1,28 @@
+{
+    "rcn": "213805",
+    "acronym": "ADD-ON",
+    "topics": "JTI-CS2-2017-CFP06-AIR-02-43",
+    "title": "Advanced Damage Detection though Optical sensor Network",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2021",
+    "objective": "The main objective of the ADD-ON (Advanced Damage Detection though Optical sensor Network) project is to investigate the feasibility of developing an unique Optical Sensor Network (OSN) to control the various classes of distributed and punctual optical sensors. This solution can monitor, in a variety of profiles of use (in-flight monitoring, on-ground operation), the SHM measurands of interest: delamination, corrosion, cracking, loading and can simultaneously sustain data transferÖ This OSN will be designed starting at its conception phase in order to facilitate its integration into aircrafts, considering the specific environmental constraints of aerospace. Several challenges will have to be overcome during the 36-months project, to attain this main objective in collaboration with the Topic Manager. \nï First, demonstrate the feasibility of using a low cost sensor for delamination and damage detection based on waveguides inscribed into a sol-gel matrix able to be deployed on large surface. \nï Second, optimize a loading measurement chain based on FBG and using an integrated photonics system all-at-chip level adapted to the aircraft avionics needs. \nï Third, investigating the feasibility of self-diagnosis for the OSN. During the ADD-ON project, the potential of the OFDR, BOFDA and HR-OTDR sensing techniques will be more particularly evaluated and the best solution will be selected and tested on the small-scale prototype panel (in-lab validation).\nThe ADD-ON concept, methodology, flowchart and associated tasks, subtasks to achieve these goals will be detailed in this proposal. The results from ADD-ON will lead and/or contribute to the following benefits:\nï Reduction of manufacturing cost due to higher integration.\nï Weight reduction due to multidisciplinary optimization including new certification approach.\nï Enhancement of new multifunctional materials.\nï Manufacturing and assembly skill and capabilities; Structural dynamic and structural analysis tools.",
+    "totalCost": "999311,25",
+    "ecMaxContribution": "999311,25",
+    "coordinator": "UNIVERSITE JEAN MONNET SAINT-ETIENNE",
+    "coordinatorCountry": "FR",
+    "participants": "TECHNOBIS FIBRE TECHNOLOGIES BV",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999889775": {
+            "orgId": "999889775",
+            "orgName": "UNIVERSITE JEAN MONNET SAINT-ETIENNE",
+            "ecContrib": 497834
+        },
+        "992236087": {
+            "orgId": "992236087",
+            "orgName": "TECHNOBIS FIBRE TECHNOLOGIES BV",
+            "ecContrib": 501478
+        }
+    },
+    "calculatedTotalContribution": 999312
+}

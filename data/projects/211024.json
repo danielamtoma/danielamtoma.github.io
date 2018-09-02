@@ -1,0 +1,28 @@
+{
+    "rcn": "211024",
+    "acronym": "iEBDD",
+    "topics": "ERC-PoC-2016",
+    "title": "A Software Interface for Interactive Ensemble-Based Drug Design",
+    "startDate": "01/07/2017",
+    "endDate": "31/12/2018",
+    "objective": "The ERC project EBDD was funded to bring about a new generation of computer algorithms to implement accurate molecular simulations of biomolecules and their interactions with man-made molecules that are potential new therapeutics.  First results from the EBDD project (ERC-StG-2013-336289) indicate the ground-breaking potential of the academic software generated for supporting pre-clinical drug discovery R&D in the pharmaceutical and biotech sectors. Building on these early results from the EBDD project, this proposal aims to prototype an innovative interactive human-computer drug design workflow that will enhance the value of the academic software, and enable new types of R&D processes (hit discovery, hit-to-lead and lead-optimisation) in a preclinical drug discovery environment.  \n\nTo be commercially viable the prototype must be equipped with an intuitive and robust graphical user interface to enable high quality 3D data visualisation, and that also enable real-time user interactions with large-scale computer simulations executed on remote high-performance computing resources. The computer simulation protocols need to  be standardised for ease of use by non-experts, and validated for robustness on industry benchmarks. The prototype will developed in partnership with a professional software SME specialised in interactive scientific data visualization, and a large EU biopharmaceutical company that will test multiple versions of the prototype and feedback on improvements over current processes. This close collaboration with the software SME and pharmaceutical companies will ensure that the resulting prototype will be of high value, meets industry standards, and is ready for commercialisation.",
+    "totalCost": "149951",
+    "ecMaxContribution": "149951",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "INTERACTIVE SCIENTIFIC LTD",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "912500923": {
+            "orgId": "912500923",
+            "orgName": "INTERACTIVE SCIENTIFIC LTD",
+            "ecContrib": 30625
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 119326
+        }
+    },
+    "calculatedTotalContribution": 149951
+}

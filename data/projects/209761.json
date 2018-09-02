@@ -1,0 +1,23 @@
+{
+    "rcn": "209761",
+    "acronym": "MultiCAMS",
+    "topics": "MSCA-IF-2016",
+    "title": "Multi-level Model Calibration for the Assessment of Historical Masonry Structures",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "The MultiCAMS project will develop an advanced computational strategy including numerical modelling and innovative model calibration for realistic assessment of historical unreinforced masonry structures. The presence of relevant historical heritage in Europe, partly still in use, together with high seismic risk in the Mediterranean areas highlights the need of assessing such structures considering current safety requirements and if necessary strengthened to prevent critical failure. The proposed assessment approach is based on the use of models with different levels of sophistication, comprising detailed mesoscale models where masonry units and mortar joints are modelled separately (low level), homogeneous shell/solid-element models in which masonry is considered as a continuum (intermediate level), and efficient macroscale models where entire structural parts (i.e. piers, spandrels) are represented by appropriate macro-elements (high level). In this respect, I will develop a novel numerical description with macro-elements for an efficient and practical analysis of masonry structures accounting for the interaction between the nonlinear in-plane and out-of-plane behaviour of different URM components. An innovative model calibration strategy utilising inverse analysis techniques will thus be developed to couple the efficiency of the novel simplified mechanical model and the accuracy of existing detailed models, such as the parameters of each model will be determined from the inverse analysis of the numerical response of the lower-level model. The main outcome of MultiCAMS will be a comprehensive and accurate methodology for the seismic assessment of historical masonry buildings, which represents an urgent requirement for the safeguard of human lives in many European urban areas, as shown by recent catastrophic events.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

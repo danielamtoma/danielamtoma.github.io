@@ -1,0 +1,53 @@
+{
+    "rcn": "212487",
+    "acronym": "CROWDBOT",
+    "topics": "ICT-25-2016-2017",
+    "title": "Safe Robot Navigation in Dense Crowds",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2021",
+    "objective": "CROWDBOT will enable mobile robots to navigate autonomously and assist humans in crowded areas. Todayís robots are programmed to stop when a human, or any obstacle is too close, to avoid coming into contact while moving. This prevents robots from entering densely frequented areas and performing effectively in these high dynamic environments. CROWDBOT aims to fill in the gap in knowledge on close interactions between robots and humans during navigation tasks. The project considers three realistic scenarios: 1) a semi-autonomous wheelchair that must adapt its trajectory to unexpected movements of people in its vicinity to ensure neither its user nor the pedestrians around it are injured; 2) the commercially available Pepper robot that must navigate in a dense crowd while actively approaching people to assist them; 3) the under development robot cuyBot will adapt to compact crowd, being touched and pushed by people. These scenarios generate numerous ethical and safety concerns which this project addresses through a dedicated Ethical and Safety Advisory Board that will design guidelines for robots engaging in interaction in crowded environments. \nCROWDBOT gathers the required expertise to develop new robot capabilities to allow robots to move in a safe and socially acceptable manner. This requires achieving step changes in a) sensing abilities to estimate the crowd motion around the robot, b) cognitive abilities for the robot to predict the short term evolution of the crowd state and c) navigation abilities to perform safe motion at close range from people. \nThrough demonstrators and open software components, CROWDBOT will show that safe navigation tasks can be achieved within crowds and will facilitate incorporating its results into mobile robots, with significant scientific and industrial impact. By extending the robot operation field toward crowded environments, we enable possibilities for new applications, such as robot-assisted crowd traffic management.",
+    "totalCost": "3997660",
+    "ecMaxContribution": "3997660",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "LOCOMOTEC GMBH;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;UNIVERSITY COLLEGE LONDON;SOFTBANK ROBOTICS EUROPE",
+    "participantCountries": "DE;CH;UK;FR",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 706521
+        },
+        "996538522": {
+            "orgId": "996538522",
+            "orgName": "SOFTBANK ROBOTICS EUROPE",
+            "ecContrib": 536250
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 516625
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 763770
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 599994
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 439500
+        },
+        "970374421": {
+            "orgId": "970374421",
+            "orgName": "LOCOMOTEC GMBH",
+            "ecContrib": 435000
+        }
+    },
+    "calculatedTotalContribution": 3997660
+}

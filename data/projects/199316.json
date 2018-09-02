@@ -1,0 +1,43 @@
+{
+    "rcn": "199316",
+    "acronym": "RegoLight",
+    "topics": "COMPET-03-2015",
+    "title": "Sintering Regolith with Solar Light",
+    "startDate": "01/11/2015",
+    "endDate": "30/04/2018",
+    "objective": "Future human activity on the lunar surface will use 3D printing to build infrastructure from lunar soil using the Sun as the only source of energy. Today this technology is considered disruptive; tomorrow it will be the standard. The RegoLight project will investigate the sintering process of lunar regolith simulants by means of concentrated sun light in order to prepare for future lunar missions for building infrastructure (leveled terrain, dust shelters, launch pads etc.) and structural components for lunar habitats.\nSolar sintering of regolith is currently at TRL3 , being able to build a regolith ëbrickí in a laboratory set-up with a moving table in a solar furnace. RegoLight aims at enhancing this specific additive layer manufacturing technique ñwhich seems very promising for lunar applications since it does not involve any consumablesñ by further characterizing the parameters for sintering different types of regolith and by developing a movable printing head capable both of pointing the concentrated solar beam at the required spot and of deploying incrementally additional layers of regolith in order to continue with the additive building process.\nBased on the mechanical properties of solar sintered regolith architectural scenarios and applications will be developed, taking into account the benefits of additive layer manufacturing and novel construction concepts for lunar gravity. This detailed Finite Element Modeling will provide a first insight into lunar architectural scenarios using this technology: With a concurrent engineering approach sample structures will be printed having been derived from ëbig pictureí scenarios and bottom up approaches at the same time.\nThe project objective is the development of a regolith solar sintering device breadboard which will be validated in a relevant environment (TRL5). The parts printed in a thermal vacuum chamber will undergo mechanical properties tests to build a database and FEM analysis for validation of the concepts.",
+    "totalCost": "999372,5",
+    "ecMaxContribution": "999372,5",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "BOLLINGER GROHMANN SCHNEIDER ZIVILTECHNIKER GMBH;SPACE APPLICATIONS SERVICES NV;LIQUIFER SYSTEMS GROUP GMBH;COMPAGNIE MARITIME D EXPERTISES SA",
+    "participantCountries": "AT;BE;FR",
+    "projectParticipants": {
+        "945976108": {
+            "orgId": "945976108",
+            "orgName": "BOLLINGER GROHMANN SCHNEIDER ZIVILTECHNIKER GMBH",
+            "ecContrib": 102188
+        },
+        "999757467": {
+            "orgId": "999757467",
+            "orgName": "SPACE APPLICATIONS SERVICES NV",
+            "ecContrib": 350125
+        },
+        "960432406": {
+            "orgId": "960432406",
+            "orgName": "COMPAGNIE MARITIME D EXPERTISES SA",
+            "ecContrib": 85750
+        },
+        "963628459": {
+            "orgId": "963628459",
+            "orgName": "LIQUIFER SYSTEMS GROUP GMBH",
+            "ecContrib": 112348
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 348962
+        }
+    },
+    "calculatedTotalContribution": 999373
+}

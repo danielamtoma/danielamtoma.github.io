@@ -1,0 +1,58 @@
+{
+    "rcn": "214254",
+    "acronym": "Cross-CPP",
+    "topics": "ICT-14-2016-2017",
+    "title": "Ecosystem for Services based on integrated Cross-sectorial Data Streams from multiple Cyber Physical Products and Open Data Sources",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2020",
+    "objective": "The objective is to establish an IT environment for the integration and analytics of data streams coming from high volume (mass) products with cyber physical features, as well from Open Data Sources, aiming to offer new cross sectorial services and focusing on the commercial confidentiality, privacy and IPR and ethical issues using an context sensitive approach. The project addresses cross-stream analysis of large data volumes from mass cyber physical products (CPP) from various industrial sectors such as automotive, and home automation. The business objective of the research is to allow for analyses of such data streams in combination to other (non-industrial, open) data streams and for the establishment of diverse enhanced sectorial and cross-sectorial services. The project will develop: (i) New models for integration and analytics of data streams coming from multi-sectorial CPP, including shared systems of entity identifiers applicable to multi-sectorial CPP (as well as the definition of agreed data models for data streams from multiple CPP aiming at defacto standard; (ii) Ecosystem, including a common Marketplace, and methodology to use such models to build multi-sectorial cloud based services, (iii) Toolbox for real-time and predictive cross-stream analytics, context modelling and extraction, and dynamically changing security policy, privacy and IPR conditions/rules  and (iv) set of services such as services based on a combination of data streams from home automation and (electrical) vehicles to provide enhanced local weather forecast and predict and optimise energy consumptions in households. The project will build upon the results from past and current projects, where results from the project AutoMat, addressing services developed based on data streams from vehicles, will be used as a basis for further development aiming to extend it to integrated, cross-sectorial data streams analytics.",
+    "totalCost": "3505978,75",
+    "ecMaxContribution": "2836490,52",
+    "coordinator": "INSTITUT F‹R ANGEWANDTE SYSTEMTECHNIK BREMEN GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "METEOLOGIX AG;VYSOKE UCENI TECHNICKE V BRNE;ATOS SPAIN SA;SIEMENS SRO;X/OPEN COMPANY LIMITED;VOLKSWAGEN AG;UNIVERSIDAD POLITECNICA DE MADRID",
+    "participantCountries": "CH;CZ;ES;UK;DE",
+    "projectParticipants": {
+        "966716454": {
+            "orgId": "966716454",
+            "orgName": "SIEMENS SRO",
+            "ecContrib": 226061
+        },
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 322781
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 302991
+        },
+        "999634374": {
+            "orgId": "999634374",
+            "orgName": "INSTITUT FÜR ANGEWANDTE SYSTEMTECHNIK BREMEN GMBH",
+            "ecContrib": 610951
+        },
+        "999789283": {
+            "orgId": "999789283",
+            "orgName": "X/OPEN COMPANY LIMITED",
+            "ecContrib": 233720
+        },
+        "913645426": {
+            "orgId": "913645426",
+            "orgName": "METEOLOGIX AG",
+            "ecContrib": 293628
+        },
+        "999939924": {
+            "orgId": "999939924",
+            "orgName": "VOLKSWAGEN AG",
+            "ecContrib": 505740
+        },
+        "999873091": {
+            "orgId": "999873091",
+            "orgName": "VYSOKE UCENI TECHNICKE V BRNE",
+            "ecContrib": 340619
+        }
+    },
+    "calculatedTotalContribution": 2836491
+}

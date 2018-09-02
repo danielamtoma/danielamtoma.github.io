@@ -1,0 +1,43 @@
+{
+    "rcn": "210614",
+    "acronym": "TRADE",
+    "topics": "JTI-CS2-2016-CFP04-LPA-01-28",
+    "title": "Turbo electRic Aircraft Design Environment (TRADE)",
+    "startDate": "01/09/2017",
+    "endDate": "29/02/2020",
+    "objective": "The improvement potential in conventional aero engines will be realized over the next decades. While a number of evolutionary improvements remain, the limits to thermal efficiency are becoming visible in terms of material constraints, NOx emissions and engine operability. The propulsive efficiency improvement potential is also small and constrained by transmission losses, nacelle and intake drag, engine weight and - for open-rotors - by noise and integration challenges. If the continuous increase in air travel is to become sustainable - as the ACARE 2020 and Flightpath 2050 goals require - then a revolutionary step change in aircraft technology is required.\n\nCurrent aircraft/engine conceptual design methodologies are centered on the disciplines of aerodynamics, structures, and gas turbine performance. Key aspects of unconventional concepts - such as hybrid electric propulsion - are thus hard to capture within existing design tools.\n\nTRADE proposes the integration of three new aspects into aircraft/engine conceptual design. First, an advanced structural model quantifies the impact of the installation of heavy equipment on the sizing of the aircraft structure. Second, refined on-board system models capture design and performance trades in electric power systems, gas turbines, and thermal management. Finally, an operational and mission model enables flight dynamic analyses and an assessment of handling qualities of diverging aircraft configurations. All improvements build on extensive model assets of the consortium members.\n\nTRADE also delivers the integration of these new aspects into a conceptual design environment. The environment is suitable for the design of hybrid electric aircraft, and the consortium will apply it for configuration assessment and optimization at sub-system as well as whole-aircraft level.\n\nTRADE fulfills all the topic requirements of JTI-CS2-2016-CFP04-LPA-01-28, and opens the path to a technological breakthrough in the aeronautics community.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "MODELON AB",
+    "coordinatorCountry": "SE",
+    "participants": "ABB AB;TECHNISCHE UNIVERSITAET BERLIN;THE UNIVERSITY OF NOTTINGHAM;MAELARDALENS HOEGSKOLA",
+    "participantCountries": "SE;DE;UK",
+    "projectParticipants": {
+        "998509853": {
+            "orgId": "998509853",
+            "orgName": "ABB AB",
+            "ecContrib": 0
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 340000
+        },
+        "985954464": {
+            "orgId": "985954464",
+            "orgName": "MODELON AB",
+            "ecContrib": 385000
+        },
+        "999881530": {
+            "orgId": "999881530",
+            "orgName": "MAELARDALENS HOEGSKOLA",
+            "ecContrib": 455000
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 320000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

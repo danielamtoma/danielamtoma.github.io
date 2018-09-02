@@ -1,0 +1,28 @@
+{
+    "rcn": "205355",
+    "acronym": "PhySound",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Physically Based Simulation and Rendering of Thin Shell Sound",
+    "startDate": "01/12/2016",
+    "endDate": "31/05/2019",
+    "objective": "Sound is as important as visuals in modern media (lms, video-games). Yet, little effort has been devoted to the rendering of sound from digital environments, compared to the phenomenal advances of visual rendering. Virtual scenes are sonied through the ad-hoc edition of recorded sounds and their manual synchronization with the visuals, yielding limited and repetitive sounds. This proposal addresses this problem by generating sounds from virtual environments through physically based simulation, and focuses on a challenging family of objects: thin shells. Characteristic thin shell sounds include tearing cloth and paper, crushing cans and plastic bottles, and crumpling a piece of paper and a plastic bag. Sound synthesis of thin-shell sound will be addressed through a set of modeling techniques (model reduction, high frequency bandwidth extension and precomputed sound databases), while real-time constrains will be addressed using data-driven approaches. This project will considerably widen the number of real life object sounds that can be digitally generated, and will contribute to the young research eld of physically based sound rendering, which has the potential of becoming the next key technology of the media industry. The expertise of Columbia University in thin shells and sound rendering, complemented by the expertise of Inria in real-time sound rendering provide the optimal setting for the success of this fellowship. In addition, the researcher will receive training through research and on complementary skills, including student tutoring, teaching, dissemination, and project management. Industry-related skills, such as technology transfer, research-to-product techniques and standardization will be trained through a secondment in the industrial sector at AudioGaming. This Action will allow the researcher to become a mature and independent, and to obtain a long term research position in Europe as a world leader in physically based sound rendering.",
+    "totalCost": "221635,8",
+    "ecMaxContribution": "221635,8",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998269778": {
+            "orgId": "998269778",
+            "orgName": "TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+            "ecContrib": 0
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 221636
+        }
+    },
+    "calculatedTotalContribution": 221636
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "211172",
+    "acronym": "BlockchainKYC",
+    "topics": "SMEInst-13-2016-2017",
+    "title": "Blockchain-based, 100% automated KYC (Know Your Customer) service",
+    "startDate": "01/07/2017",
+    "endDate": "30/11/2017",
+    "objective": "Authenteq has developed a smartphone-based 100% automated and tamper-proof online identity verification service (Authenteq ID) that uses multifactor biometric authentication, fitting the needs of online/mobile marketplaces, as well as other websites that require or benefit from ID verification such as betting, gaming or dating sites. This system aims to eliminate user anonymity in online transactions (and therefore drastically reduce identify fraud), while maintaining the highest level of privacy for consumers. Authenteq ID uniquely combines [1] a smartphone app, where the end-user creates its certified ID by scanning its passport and taking a selfie, [2] backend proprietary services that perform face match recognition, image analysis of ID security elements and third-party security checks, and [3] Blockchain data storage for validation\npurposes (impossible to reverse-engineer and hack). Personal details and images are hashed and files deleted from the server and app.\nThe biometric enrolment and verification processes - with several tamper-evident analyses - proves that the person requesting an Authenteq ID is unequivocally who s/he says s/he is, meeting ëKnow Your Customerí and ëAnti-Money Launderingí regulations. After registration, the app will only be accessible to the rightful owner, through multifactor\nauthentication. In the app, the user will be able to seamlessly grant personal data verification access to the marketplaces where it plans to conduct business, by linking its marketplace user profile with the Authenteq ID stored on the blockchain (data is verified, not sent to marketplaces).\nOur system has the capacity to eliminate identity fraud in linked profiles, and these marketplaces no longer need to collect passport scans and manually verify user IDs.\nTo fully develop the Authenteq ID system, we aim to conduct a feasibility study (BlockchainKYC, Phase 1) and a large-scale system demonstration in operational environment (Phase 2).",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "AUTHENTEQ EHF",
+    "coordinatorCountry": "IS",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "916568133": {
+            "orgId": "916568133",
+            "orgName": "AUTHENTEQ EHF",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

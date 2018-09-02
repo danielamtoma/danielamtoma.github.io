@@ -1,0 +1,83 @@
+{
+    "rcn": "193265",
+    "acronym": "SOUND",
+    "topics": "PHC-32-2014",
+    "title": "Statistical multi-Omics UNDerstanding of Patient Samples",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "Bioinformatic analysis is the biggest bottleneck in many genomic medicine projects. Our objective is to enable researchers to dramatically increase statistically informed use of personal multi-omic data in medicine. Soon, multiple types of omic technologies will be applied to 100,000s of patient-derived samples, with the three-stage goal of better understanding disease biology, discovery of new interventions, and personalizing the choice of treatment options. Our interdisciplinary team of biostatisticians, bioinformaticians, software developers and physician-scientists will address the analysis bottleneck with statistically and computationally sound methods. The SOUND consortium will (i) develop widely used and excellent bioinformatic and statistical methods and open source software for common but challenging tasks, including data pre-processing, data integration, statistical inference, visual presentation, and publication-quality reporting; (ii) introduce novel approaches to ground breaking multi-omics applications in oncology and medical genetics; (iii) develop interoperable data structures and software interfaces that enable seamless combination of tools; (iv) support a collaborative international academic and industry developer community; (v) enable rapid development and execution of high-quality software; (vi) lower the barrier to entry into this transdisciplinary field by providing simple, robust, easy-to-use solutions; and (vii) develop a training programme with regular courses and comprehensive online tutorials. Our aim is to create the de facto standard toolkit used in every clinical research lab for statistically informed analysis of personal multi-omic data. SOUND will increase research and innovation opportunities by reducing barriers of entry to genomic medicine across academic, healthcare and commercial sectors by translating in a rapid and efficient manner complex and innovative analytical approaches into modular, interoperable, reusable applications.",
+    "totalCost": "3656977,5",
+    "ecMaxContribution": "2953062,5",
+    "coordinator": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+    "coordinatorCountry": "DE",
+    "participants": "BEDATADRIVEN BV;INSTITUTO DE ENGENHARIA MECANICA;LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN;THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;TECHNISCHE UNIVERSITAET MUENCHEN;HEALTH RESEARCH INC;DEUTSCHES KREBSFORSCHUNGSZENTRUM HEIDELBERG;UNIVERSITAT ZURICH;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;UNIVERSITAETSKLINIKUM HEIDELBERG;KLINIKUM RECHTS DER ISAR DER TECHNISCHEN UNIVERSITAT MUNCHEN;FRED HUTCHINSON CANCER RESEARCH CENTER NON PROFIT CORPORATION",
+    "participantCountries": "NL;PT;DE;UK;US;CH",
+    "projectParticipants": {
+        "999990073": {
+            "orgId": "999990073",
+            "orgName": "DEUTSCHES KREBSFORSCHUNGSZENTRUM HEIDELBERG",
+            "ecContrib": 301375
+        },
+        "950224708": {
+            "orgId": "950224708",
+            "orgName": "FRED HUTCHINSON CANCER RESEARCH CENTER NON PROFIT CORPORATION",
+            "ecContrib": 0
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "998907068": {
+            "orgId": "998907068",
+            "orgName": "INSTITUTO DE ENGENHARIA MECANICA",
+            "ecContrib": 315929
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 650404
+        },
+        "999841081": {
+            "orgId": "999841081",
+            "orgName": "UNIVERSITAETSKLINIKUM HEIDELBERG",
+            "ecContrib": 0
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 38179
+        },
+        "999875710": {
+            "orgId": "999875710",
+            "orgName": "KLINIKUM RECHTS DER ISAR DER TECHNISCHEN UNIVERSITAT MUNCHEN",
+            "ecContrib": 331000
+        },
+        "937526632": {
+            "orgId": "937526632",
+            "orgName": "BEDATADRIVEN BV",
+            "ecContrib": 318750
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 274571
+        },
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 0
+        },
+        "926493367": {
+            "orgId": "926493367",
+            "orgName": "HEALTH RESEARCH INC",
+            "ecContrib": 399594
+        }
+    },
+    "calculatedTotalContribution": 2629802
+}

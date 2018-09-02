@@ -1,0 +1,53 @@
+{
+    "rcn": "194162",
+    "acronym": "ENTICE",
+    "topics": "ICT-07-2014",
+    "title": "dEcentralized repositories for traNsparent and efficienT vIrtual maChine opErations",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "Virtualization is a key enabler of cloud computing that allows to run multiple virtual machines (VM) with their own software environment and applications on top of physical hardware with the promise to increase efficient usage of hardware resources at lower cost and increased elasticity. Typically VMs are created using provider-specific templates (so called VM images) that are stored in proprietary repositories which leads to provider lock-in and hinder portability or simultaneous use of multiple federated Clouds. Optimization at the level of the VM images is needed both by the Cloud applications as well as by the underlying Cloud providers for improved resource usage, speed, elasticity, redundancy, fault tolerance and other much desired Quality of Service (QoS)-related features. Critical barriers exist that prevent many users from industry, business and academia to effectively use cloud resources and virtualization environments for their computing and data processing needs. In this project we will create a novel (ENTICE) environment targeting federated Cloud infrastructures for: (i) simplifying the creation of lightweight and highly optimized VM images; (ii) automatic decomposition and distribution of VM images based on multi-objective optimization (performance, economic costs, storage size, and QoS requirements) and a knowledge collection and reasoning  infrastructure, and (iii) auto-scaling of Cloud resources that supports interoperability of VMs across Cloud infrastructures without provider lock-in. We gathered an interesting selection of complementary use cases from energy management to earth observation and cloud orchestration which will be used to validate the ENTICE environment and that are provided by two SME and one industrial partners of the project.",
+    "totalCost": "2767565",
+    "ecMaxContribution": "2767563",
+    "coordinator": "UNIVERSITAET INNSBRUCK",
+    "coordinatorCountry": "AT",
+    "participants": "DEIMOS CASTILLA LA MANCHA SL;FLEXIANT LIMITED;WELLNESS TELECOM SL;MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET;FLEXIOPS LIMITED;UNIVERZA V LJUBLJANI",
+    "participantCountries": "ES;UK;HU;SI",
+    "projectParticipants": {
+        "986084444": {
+            "orgId": "986084444",
+            "orgName": "FLEXIANT LIMITED",
+            "ecContrib": 0
+        },
+        "999869114": {
+            "orgId": "999869114",
+            "orgName": "UNIVERSITAET INNSBRUCK",
+            "ecContrib": 789750
+        },
+        "952545239": {
+            "orgId": "952545239",
+            "orgName": "DEIMOS CASTILLA LA MANCHA SL",
+            "ecContrib": 355063
+        },
+        "991160066": {
+            "orgId": "991160066",
+            "orgName": "WELLNESS TELECOM SL",
+            "ecContrib": 340250
+        },
+        "999651252": {
+            "orgId": "999651252",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET",
+            "ecContrib": 428375
+        },
+        "999923240": {
+            "orgId": "999923240",
+            "orgName": "UNIVERZA V LJUBLJANI",
+            "ecContrib": 359625
+        },
+        "916061405": {
+            "orgId": "916061405",
+            "orgName": "FLEXIOPS LIMITED",
+            "ecContrib": 494500
+        }
+    },
+    "calculatedTotalContribution": 2767563
+}

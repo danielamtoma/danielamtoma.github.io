@@ -1,0 +1,17 @@
+{
+    "rcn": "215829",
+    "acronym": "VECMA",
+    "topics": "FETHPC-02-2017",
+    "title": "Verified Exascale Computing for Multiscale Applications",
+    "startDate": "15/06/2018",
+    "endDate": "14/06/2021",
+    "objective": "The purpose of this proposal is to enable a diverse set of multiscale, multiphysics applications -- from fusion and advanced materials through climate and migration, to drug discovery and the sharp end of clinical decision making in personalised medicine -- to run on current multi-petascale computers and emerging exascale environments with high fidelity such that their output is 'actionable'. That is, the calculations and simulations are certifiable as validated (V), verified (V) and equipped with uncertainty quantification (UQ) by tight error bars such that they may be relied upon for making important decisions in all the domains of concern. The central deliverable will be an open source toolkit for multiscale VVUQ based on generic multiscale VV and UQ primitives, to be released in stages over the lifetime of this project, fully tested and evaluated in emerging exascale environments, actively promoted over the lifetime of this project, and made widely available in European HPC centres.\n\nThe project includes a fast track that will ensure applications are able to apply available multiscale VVUQ tools as soon as possible, while guiding the deep track development of new capabilities and their integration into a wider set of production applications by the end of the project. The deep track includes the development of more disruptive and automated algorithms, and their exascale-aware implementation in a more intrusive way with respect to the underlying and pre-existing multiscale modelling and simulation schemes.\n\nThe potential impact of these certified multiscale simulations is enormous, and so we aim to promote the VVUQ toolkit across a wide range of scientific and social scientific domains, as well as within computational science more broadly. Scientific excellence and outreach will be overseen by a Scientific Advisory Board, while exploitation, including economic and societal impact, will be assisted by the projectís Innovation Advisory Board.",
+    "totalCost": "3999477,5",
+    "ecMaxContribution": "3999477,5",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;CBK SCI CON LIMITED;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;BAYERISCHE AKADEMIE DER WISSENSCHAFTEN;BULL SAS;BRUNEL UNIVERSITY LONDON;STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN;UNIVERSITEIT VAN AMSTERDAM",
+    "participantCountries": "DE;UK;PL;FR;NL",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

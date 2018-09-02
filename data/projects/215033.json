@@ -1,0 +1,17 @@
+{
+    "rcn": "215033",
+    "acronym": "ISOMAXENT",
+    "topics": "MSCA-IF-2017",
+    "title": "Development of a design-through-analysis methodology based on a coupled isogemetrcic-maximumentropy approach",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2020",
+    "objective": "Although from an historical point of view Computer Aided Design (CAD) and Numerical Analysis have always been two detached engineering disciplines, a lot of effort has been made over the last few years to seek a tighter integration between them. The recent development of Isogeometric Analysis (IGA) was one of the main achievement in this direction. The key idea of IGA is to use for the Analysis the same basis functions employed for the CAD representation, which in most of the cases are non-uniform rational B-splines (NURBS). However, the tensor product nature of NURBS poses some limitations in the trivariate volume parametrization of complex shapes and in local refinement, operations that are not needed for CAD purposes but are particularly important for the Analysis. This project aims at developing a coupled approach where IGA is blended with the Maximum Entropy meshless approximants, in order to overcome to such limitations, which prevents IGA to fully develop outside of the academic world into industry, and thus to create a design-through-analysis methodology with many potential industrial applications. Such methodology will be first developed for three-dimensional applications in the framework of NURBS boundary representations and then alternative frameworks, based on T-splines and subdivision surfaces, will be also explored. The application of the method to practical problems of industrial relevance will be then considered in detail. The programme will boost the career prospects, increase employability and widen the set of skills of the experienced researcher.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

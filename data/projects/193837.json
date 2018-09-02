@@ -1,0 +1,38 @@
+{
+    "rcn": "193837",
+    "acronym": "GMCA",
+    "topics": "GALILEO-2-2014",
+    "title": "GNSS Monitoring for Critical Applications",
+    "startDate": "01/02/2015",
+    "endDate": "30/09/2016",
+    "objective": "The objective of this project is to provide a basis upon which Galileo can be relied upon to the same extent that GPS is currently, especially by the Aviation user community and then beyond.  It is proposed that DWIís existing GNSS Performance Monitoring System (GPMS) is enhanced to include EGNSS and this platform can latterly include other constellations and augmentations for use beyond Europe.\n\nThe project shall gather EGNSS signal data for analysis and comparison thereby providing the aviation community the confidence they need for including EGNSS within their planning for navigation. It will monitor new signals alongside the GPS signals and provide operationally relevant information to existing and new users of the GPMS. In addition, the system will be updated to include the capability for the monitoring of interference and spoofing.",
+    "totalCost": "732737,5",
+    "ecMaxContribution": "512916,25",
+    "coordinator": "DW International Ltd",
+    "coordinatorCountry": "UK",
+    "participants": "QASCOM SRL;OBER PIETER BASTIAAN;CHRONOS TECHNOLOGY LIMITED;Spirent Communications plc",
+    "participantCountries": "IT;NL;UK",
+    "projectParticipants": {
+        "998738385": {
+            "orgId": "998738385",
+            "orgName": "QASCOM SRL",
+            "ecContrib": 103819
+        },
+        "943565561": {
+            "orgId": "943565561",
+            "orgName": "OBER PIETER BASTIAAN",
+            "ecContrib": 43251
+        },
+        "942705753": {
+            "orgId": "942705753",
+            "orgName": "DW International Ltd",
+            "ecContrib": 135914
+        },
+        "941390239": {
+            "orgId": "941390239",
+            "orgName": "CHRONOS TECHNOLOGY LIMITED",
+            "ecContrib": 195212
+        }
+    },
+    "calculatedTotalContribution": 478196
+}

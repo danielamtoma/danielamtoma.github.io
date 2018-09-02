@@ -1,0 +1,23 @@
+{
+    "rcn": "194464",
+    "acronym": "SymplecticEinstein",
+    "topics": "ERC-CoG-2014",
+    "title": "The symplectic geometry of anti-self-dual Einstein metrics",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "This project is founded on a new formulation of Einstein's equations in dimension 4, which I developed together with my co-authors. This new approach reveals a surprising link between four-dimensional Einstein manifolds and six-dimensional symplectic geometry. My project will exploit this interplay in both directions: using Riemannian geometry to prove results about symplectic manifolds and using symplectic geometry to prove results about Reimannian manifolds.\n\nOur new idea is to rewrite Einstein's equations using the language of gauge theory. The fundamental objects are no longer Riemannian metrics, but instead certain connections over a 4-manifold M. A connection A defines a metric g_A via its curvature, analogous to the relationship between the electromagnetic potential and field in Maxwell's theory. The total volume of (M,g_A) is an action S(A) for the theory, whose critical points give Einstein metrics. At the same time, the connection A also determines a symplectic structure \\omega_A on an associated 6-manifold Z which fibres over M.\n\nMy project has two main goals. The first is to classify the symplectic manifolds which arise this way.  Classification of general symplectic 6-manifolds is beyond current techniques of symplectic geometry, making my aims here very ambitious. My second goal is to provide an existence theory both for anti-self-dual PoincarÈ--Einstein metrics and for minimal surfaces in such manifolds. Again, my aims here go decisively beyond the state of the art. In all of these situations, a fundamental problem is the formation of singularities in degenerating families. What makes new progress possible is the fresh input coming from the symplectic manifold Z. I will combine this with techniques from Riemannian geometry and gauge theory to control the singularities which can occur.",
+    "totalCost": "1162880",
+    "ecMaxContribution": "1162880",
+    "coordinator": "UNIVERSITE LIBRE DE BRUXELLES",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986290": {
+            "orgId": "999986290",
+            "orgName": "UNIVERSITE LIBRE DE BRUXELLES",
+            "ecContrib": 1162880
+        }
+    },
+    "calculatedTotalContribution": 1162880
+}

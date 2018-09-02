@@ -1,0 +1,78 @@
+{
+    "rcn": "194149",
+    "acronym": "SAFURE",
+    "topics": "ICT-01-2014",
+    "title": "SAFety and secURity by design for interconnected mixed-critical cyber-physical systems",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "SAFURE targets the design of cyber-physical systems by implementing a methodology that ensures safety and security 'by construction'. This methodology is enabled by a framework developed to extend system capabilities so as to control the concurrent effects of security threats on the system behaviour.\nThe current approach for security on safety-critical embedded systems is generally to keep subsystems separated, but this approach is now being challenged by technological evolution towards openness, increased communications and use of multi-core architectures.\nThe objectives of SAFURE are to (1) implement a holistic approach to safety and security of embedded dependable systems, preventing and detecting potential attacks; (2) to empower designers and developers with analysis methods, development tools and execution capabilities that jointly consider security and safety; (3) to set the ground for the development of SAFURE-compliant mixed-critical embedded products.\nThe results of SAFURE will be (1) a framework with the capability to detect, prevent and protect from security threats on safety, able to monitor from application level down to the hardware level potential attacks to system integrity from time, energy, temperature and data threats; (2) a methodology that supports the joint design of safety and security of embedded systems, assisting the designer and developers with tools and modelling languages extensions; (3) proof-of concept through 3 industrial use cases in automotive and telecommunications; (4) recommendations for extensions of standards to integrate security on safety-critical systems; (5) specifications to design and develop SAFURE-compliant products.\nThe impact of SAFURE will help European suppliers of safety-critical embedded products to develop more cost and energy-aware solutions. To ensure this impact, a community will be created around the project. SAFURE comprises 7 industrial manufacturers, 4 leading universities and research centres and 1 SME.",
+    "totalCost": "5702631,25",
+    "ecMaxContribution": "5231375",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "THALES COMMUNICATIONS & SECURITY SAS;SYSGO AG;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;TTTECH COMPUTERTECHNIK AG;SYMTAVISION GMBH;THALES SA;MAGNETI MARELLI S.P.A.;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;ESCRYPT GMBH EMBEDDED SECURITY",
+    "participantCountries": "FR;DE;IT;CH;AT;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 280000
+        },
+        "999751938": {
+            "orgId": "999751938",
+            "orgName": "THALES SA",
+            "ecContrib": 552300
+        },
+        "999723323": {
+            "orgId": "999723323",
+            "orgName": "SYSGO AG",
+            "ecContrib": 570000
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 443500
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 548125
+        },
+        "999884731": {
+            "orgId": "999884731",
+            "orgName": "SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA",
+            "ecContrib": 366250
+        },
+        "995531856": {
+            "orgId": "995531856",
+            "orgName": "MAGNETI MARELLI S.P.A.",
+            "ecContrib": 622900
+        },
+        "999592373": {
+            "orgId": "999592373",
+            "orgName": "ESCRYPT GMBH EMBEDDED SECURITY",
+            "ecContrib": 456250
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 491300
+        },
+        "999791029": {
+            "orgId": "999791029",
+            "orgName": "TTTECH COMPUTERTECHNIK AG",
+            "ecContrib": 431500
+        },
+        "999734187": {
+            "orgId": "999734187",
+            "orgName": "SYMTAVISION GMBH",
+            "ecContrib": 469250
+        }
+    },
+    "calculatedTotalContribution": 5231375
+}

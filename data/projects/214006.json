@@ -1,0 +1,23 @@
+{
+    "rcn": "214006",
+    "acronym": "MouseDepthPrey",
+    "topics": "MSCA-IF-2017",
+    "title": "The role of depth perception during prey capture in the mouse",
+    "startDate": "01/03/2018",
+    "endDate": "29/02/2020",
+    "objective": "The perception of depth entails the non-trivial transformation from two 2-D images captured by the retinas to a unified 3-D representation of the environment. This computation has been under scrutiny for long, but there are still many unanswered questions about how different depth cues, such as motion parallax and stereopsis, are utilized, and about the neural mechanisms underlying depth perception. In this work, I propose employing predatory behavior in the mouse, a visually guided, robust behavior, as a paradigm to answer some of these questions. For this, I will adapt existing freely behaving virtual reality technology for rendering an environment that will elicit prey capture behavior in the mouse. I will then systematically modulate the depth cues available to the animal to determine the main contributors to estimating the distance to the prey. Since the brain regions involved in depth computations are not well defined, I will subsequently use a head-fixed paradigm to perform functional, single-cell resolution calcium imaging of cortical neurons across visual areas during binocular presentation of prey-like stimuli. This will allow for identification of the neural correlates of the relevant depth cues and their location. Given that the behavior likely relies on binocular cues, imaging will target the primary visual cortex (V1) and its neighboring higher visual areas. V1 is likely the first site of meaningful integration of signals from the two eyes, and its surrounding areas also contain binocular regions. Finally, using the neural evidence acquired, I will image during freely moving behavior to identify the way depth cues are processed for successful prey capture.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "206190",
+    "acronym": "PYCSEL",
+    "topics": "ICT-02-2016",
+    "title": "PYroelectric Conformable SEnsor matrix for Large area applications in security and safety",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "From government to consumer applications, personal identification is an ever increasing concern and demand. Fingerprints are the oldest and the most reliable features to be used because of their singularity and inalterability. \nThe main goal of the PYCSEL project is to develop a low cost thin and large area fingerprint sensing surface enabling the personal identification via the development of a TOLAE technology, combining an organic sensor with a TFT matrix on a plastic foil. Based on the fact that personal recognition requires high resolution (500 dpi) and large (1 up to 4 fingers) sensors, the project focuses on the design, development and integration of a printed pyroelectric PVDF-based sensor layer on a IGZO TFT active matrix on foil and connected to an electronic driver and readout board, resulting in a thin fingerprint conformable sensor with no need for any optical bulky and/or costly extra components integration. Multiple fingerprints capture will be possible with the resulting large area hybrid system whose conformability allow easy further integration and ergonomic use especially for high growth and high value portable security uses. Therefore, it will offer differentiating properties for the portable governmental market as it will exhibit breakthrough in terms of mechanical robustness and conformability. Those advantages will also increase fingerprint sensors penetration into high volume automotive (personalized HMIs), machine tool (user-restricted HMI), buildings (access control) and consumer markets (PCs). The PYCSEL project will also entitle a transfer from LAB proof of concept to Technological validation in relevant environment. The final large area fingerprint sensor prototype will be able to acquire 4 fingers at a time, with an objective resolution of 500 dpi, and will allow the running of biometric acquisition campaigns as well as demonstration of safety control in automotive application by end-users.",
+    "totalCost": "3814297,5",
+    "ecMaxContribution": "3814297,5",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "AUTOLIV DEVELOPMENT AB;IDEMIA IDENTITY & SECURITY FRANCE;BIOAGE SRL;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;IRLYNX;UNIVERSIDAD CARLOS III DE MADRID",
+    "participantCountries": "SE;FR;IT;NL;BE;ES",
+    "projectParticipants": {
+        "999576950": {
+            "orgId": "999576950",
+            "orgName": "BIOAGE SRL",
+            "ecContrib": 362506
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 630474
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 618865
+        },
+        "999766294": {
+            "orgId": "999766294",
+            "orgName": "IDEMIA IDENTITY & SECURITY FRANCE",
+            "ecContrib": 506415
+        },
+        "999808004": {
+            "orgId": "999808004",
+            "orgName": "AUTOLIV DEVELOPMENT AB",
+            "ecContrib": 276690
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 851362
+        },
+        "936235368": {
+            "orgId": "936235368",
+            "orgName": "IRLYNX",
+            "ecContrib": 250209
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 317776
+        }
+    },
+    "calculatedTotalContribution": 3814297
+}

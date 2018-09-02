@@ -1,0 +1,23 @@
+{
+    "rcn": "206941",
+    "acronym": "SOLARIS",
+    "topics": "ERC-2016-STG",
+    "title": "Large-Scale Learning with Deep Kernel Machines",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "Machine learning has become a key part of scientific fields that produce a massive amount of data and that are in dire need of scalable tools to automatically make sense of it. Unfortunately, classical statistical modeling has often become impractical due to recent shifts in the amount of data to process, and in the high complexity and large size of models that are able to take advantage of massive data. The promise of SOLARIS is to invent a new generation of machine learning models that fulfill the current needs of large-scale data analysis: high scalability, ability to deal with huge-dimensional models, fast learning, easiness of use, and adaptivity to various data structures. To achieve the expected breakthroughs, our angle of attack consists of novel optimization techniques for solving large-scale problems and a new learning paradigm called deep kernel machine. This paradigm marries two schools of thought that have been considered so far to have little overlap: kernel methods and deep learning. The former is associated with a well-understood theory and methodology but lacks scalability, whereas the latter has obtained significant success on large-scale prediction problems, notably in computer vision. Deep kernel machines will lead to theoretical and practical breakthroughs in machine learning and related fields. For instance, convolutional neural networks were invented more than two decades ago and are todayís state of the art for image classification. Yet, theoretical foundations and principled methodology for these deep networks are nowhere to be found. The project will address such fundamental issues, and its results are expected to make deep networks simpler to design, easier to use, and faster to train. It will also leverage the ability of kernels to model invariance and work with a large class of structured data such as graphs and sequences, leading to a broad scope of applications with potentially groundbreaking advances in diverse scientific fields.",
+    "totalCost": "1498465",
+    "ecMaxContribution": "1498465",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 1498465
+        }
+    },
+    "calculatedTotalContribution": 1498465
+}

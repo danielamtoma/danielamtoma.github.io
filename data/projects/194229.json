@@ -1,0 +1,58 @@
+{
+    "rcn": "194229",
+    "acronym": "RIFE",
+    "topics": "ICT-05-2014",
+    "title": "architectuRe for an Internet For Everybody",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "RIFE addresses the major societal challenge of providing affordable Internet access to those who cannot afford it by solving the technological challenge to increase the efficiency of the underlying transport networks and the involved architectures and protocols. The RIFE solution will harness unused transmission capacity, combined with placing content caches and service functionality closer to the user and will use heterogeneous transmission opportunities that range from localized mesh and home networks over well-connected ISP backhauls to scarce satellite resources. RIFE will build upon recent advances on information-centric and delay-tolerant networking by developing optimized dissemination strategies for the involved transport networks, unified within a novel communication architecture that will provide clear abstractions to application developers. We will develop, deploy and showcase our solution in a real-life setting within a large-scale community network in Spain, demonstrating the technology and economic opportunities that the RIFE platform provides. We will complement our real-life testbeds with emulation scenarios to enable the evaluation of our novel resource management schemes at scale, while integrating with our prototype platform. On the economic side, we will develop business opportunities for local authorities as well as backhaul network providers to create a sustainable value chain by introducing virtual network operators that utilize the under-used capacity in a new business relationship with local customers, enabling novel and often socially-driven business models. The involvement of a technology, equipment, as well as satellite and community network provider will allow for maximizing the commercial exploitation of RIFE within real deployments and towards standard communities within the IETF/IRTF and beyond, placing RIFE in the centre of a growing community of practitioners that all share the same goal: making the Internet affordable to everybody!",
+    "totalCost": "3185001,25",
+    "ecMaxContribution": "2930626,25",
+    "coordinator": "MARTEL GMBH",
+    "coordinatorCountry": "CH",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;TECHNISCHE UNIVERSITAET MUENCHEN;AVANTI HYLAS 2 CYPRUS LIMITED;INTERDIGITAL EUROPE LTD;AALTO KORKEAKOULUSAATIO SR;FUNDACIO PRIVADA PER A LA XARXA OBERTA, LLIURE I NEUTRAL, GUIFI.NET;THALES ALENIA SPACE FRANCE",
+    "participantCountries": "UK;DE;CY;FI;ES;FR",
+    "projectParticipants": {
+        "969706479": {
+            "orgId": "969706479",
+            "orgName": "FUNDACIO PRIVADA PER A LA XARXA OBERTA, LLIURE I NEUTRAL, GUIFI.NET",
+            "ecContrib": 243250
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "999695387": {
+            "orgId": "999695387",
+            "orgName": "MARTEL GMBH",
+            "ecContrib": 0
+        },
+        "950635891": {
+            "orgId": "950635891",
+            "orgName": "INTERDIGITAL EUROPE LTD",
+            "ecContrib": 531032
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "956158392": {
+            "orgId": "956158392",
+            "orgName": "AVANTI HYLAS 2 CYPRUS LIMITED",
+            "ecContrib": 313125
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 200210
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 305020
+        }
+    },
+    "calculatedTotalContribution": 1592637
+}

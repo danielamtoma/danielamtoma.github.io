@@ -1,0 +1,23 @@
+{
+    "rcn": "213270",
+    "acronym": "CoMoCo",
+    "topics": "SMEInst-09-2016-2017",
+    "title": "Development of an Intelligent Controller for Electro-motors",
+    "startDate": "01/12/2017",
+    "endDate": "30/04/2018",
+    "objective": "Electric motors (EMs) and the systems they drive such as fans, pumps, and circulators are the single largest electrical end?use. EM are found in industrial and commercial applications such as, pumps, fans, conveyors, lifts, ventilation, compressors, etc. EMís are designed for a maximum usage and most efficient only during maximum usage. If lower than maximum, the EMs becomes inefficient. Most of the EMs (e.g. for elevator) are not used constantly with maximum load but with a partial load only.\nThe here presented CoMoCo is an intelligent controller for EMs developed by CONTRONICS. Depending on the type of electro-motor and the required capacity, by regulating and controlling the consumption in real-time between 45 to 90 % electric energy can be saved. Our controller measures the electromagnetic field in the EM without using mechanical sensors. The built-in software accurately estimates where the magnetic field will be in the next microsecond. It calculates the minimum and the type of energy required to realize this field and then precisely supplies it, using the data obtained. Switching to energy efficient electro-motors can save Europe up to 202 billion kWh in electricity consumption, equivalent to a reduction of Ä10 billion per year in operating costs for industry, as well as a reduction of 79 million tonnes of CO2 emissions. CoMoCo was already tested and it demonstrated to be a cutting-edge, energy-efficient, economically accessible and profitable EM controller to reduce the energy consumption by 80% in ventilation systems operated in pig farms. In this proposal, the SME CONTRONICS is applying for funding of a feasibility study for verifying the further technological development as well as economic viability of the CoMoCo intelligent EM control, in diverse industrial applications.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "CONTRONICS ENGINEERING BV* CEN",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "953622327": {
+            "orgId": "953622327",
+            "orgName": "CONTRONICS ENGINEERING BV* CEN",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "211286",
+    "acronym": "PlasmaCellControl",
+    "topics": "ERC-2016-ADG",
+    "title": "Transcriptional control of plasma cell development and function",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Antibody-secreting cells consisting of short-lived proliferating plasmablasts and long-lived quiescent plasma cells are essential for the acute response to infection and long-term protection of the host against pathogens. Only a few regulators (Blimp1, IRF4, XBP1, Aiolos, Ikaros and E-proteins) have been implicated in the transcriptional control of antibody-secreting cells, and their target genes, with the exception of Blimp1 and E-proteins, are still unknown. This proposal aims to systematically identify key players in the development and function of antibody-secreting cells by using the CRISPR/Cas9 and Cre/loxP methods.\n     For this, we improved existing protocols to extend the duration of in vitro plasmablast differentiation and showed that Rosa26(Cas9/\\) B cells infected with Blimp1 or Xbp1 sgRNA-expressing retroviruses recapitulated the Blimp1 and Xbp1 mutant phenotypes in this proof-of-principle experiment. Moreover, Cre retrovirus-mediated deletion of Irf4, Ikaros and Aiolos strongly impaired plasmablast differentiation in this optimized system.\n     To discover new regulators of plasma cell differentiation, CRISPR/Cas9-based screens will be performed with pooled sgRNA libraries targeting all known upregulated genes in plasmablasts and plasma cells, followed by individual validation of the best hits. Selected top-ranked genes will be analyzed in vivo by conditional mutagenesis with newly generated, plasma cell-specific Cre lines. Regulated target genes of IRF4, Ikaros, Aiolos, XBP1 and the XBP1-regulated transcription factor Bhlha15 will be identified in plasmablasts by ChIP- and RNA-seq analyses. Target genes with potentially interesting functions will be further characterized by CRISPR/Cas9- or Cre/loxP-mediated mutagenesis.\n     These experiments will provide fundamentally new insight into the molecular mechanisms controlling the development and function of antibody-secreting cells, which are the essential effector cells of humoral immunity.",
+    "totalCost": "2500000",
+    "ecMaxContribution": "2500000",
+    "coordinator": "FORSCHUNGSINSTITUT FUR MOLEKULARE PATHOLOGIE GESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999919069": {
+            "orgId": "999919069",
+            "orgName": "FORSCHUNGSINSTITUT FUR MOLEKULARE PATHOLOGIE GESELLSCHAFT MBH",
+            "ecContrib": 2500000
+        }
+    },
+    "calculatedTotalContribution": 2500000
+}

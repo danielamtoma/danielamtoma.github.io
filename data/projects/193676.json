@@ -1,0 +1,23 @@
+{
+    "rcn": "193676",
+    "acronym": "CLC",
+    "topics": "ERC-StG-2014",
+    "title": "Cryptography with Low Complexity",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2020",
+    "objective": "The efficiency of cryptographic constructions is a fundamental question. Theoretically, it is important to understand how much computational resources are needed to guarantee strong notions of security. Practically, highly efficient schemes are always desirable for real-world applications. More generally, the possibility of cryptography with low complexity has wide applications for problems in computational complexity, combinatorial optimization, and computational learning theory.\n\nIn this proposal we aim to understand what are the minimal computational resources needed to perform basic cryptographic tasks. In a nutshell, we suggest to focus on three main objectives. First, we would like to get better understanding of the cryptographic hardness of random local functions. Such functions can be computed by highly-efficient circuits and their cryptographic hardness provides a strong and clean formulation for the conjectured average-case hardness of constraint satisfaction problems - a fundamental subject which lies at the core of the theory of computer science. Our second objective is to harness our insights into the hardness of local functions to improve the efficiency of basic cryptographic building blocks such as pseudorandom functions. Finally, our third objective is to expand our theoretical understanding of garbled circuits, study their limitations, and improve their efficiency.\n\nThe suggested project can bridge across different regions of computer science such as random combinatorial structures, cryptography, and circuit complexity. It is expected to impact central problems in cryptography, while enriching the general landscape of theoretical computer science.",
+    "totalCost": "1265750",
+    "ecMaxContribution": "1265750",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1265750
+        }
+    },
+    "calculatedTotalContribution": 1265750
+}

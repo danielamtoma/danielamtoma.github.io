@@ -1,0 +1,17 @@
+{
+    "rcn": "214373",
+    "acronym": "CAPPERAM",
+    "topics": "MSCA-IF-2017",
+    "title": "Contrast Agents for Protontherapy PET Range Monitoring",
+    "startDate": "01/12/2018",
+    "endDate": "30/11/2020",
+    "objective": "In radiation therapy, proton therapy has a more favourable dose distribution than conventional radiotherapy with photons and electrons. However, in order to fully exploit this dosimetric advantage, it would be required to verify the range of protons in the patient with mm accuracy. The most used strategy for in-vivo range verification in protontherapy relies on positron emission tomography (PET) activation. As they progress through the patient, proton beams undergo nuclear reactions than can produce radioactive isotopes, some of which are positron-emitters. This induced radiactivity can be detected in commercial or dedicated PET scanners and used to deduce the delivered dose distribution in the patient.\n\nWhile a promising technique, two main challenges have so far limited its clinical implementation: first, the proton interaction cross sections of the elements making up the body (C, O, N, H) are relatively low, which causes the positron dissintegration counts detected by the PET scanners to be about 1 or 2 orders of magnitude lower than the usual numbers in nuclear medicine. And second, the spatial and temporal distributions of PET emitters follow a very complex relation with the dose depositions which complicate the range verification process.\n\nThe CAPPERAM project aims at solving these two problems by using Zn-based contrast agents in the patient during irradiation. Zn has a very high cross section for proton interaction peaking at very low proton energies, which produces a very high concentration of PET emitters near the end of the proton range.\n\nThe action, comprising both computational simulations and phantom experiments, will take place in Sedecal Molecular Imaging, a company dedicated to the fabrication of high-precision PET devices, with a 6-month secondment at the group of Nuclear Physics of the Complutense University in Madrid, which specializes in applications of experimental nuclear physics to medical imaging.",
+    "totalCost": "170121,6",
+    "ecMaxContribution": "170121,6",
+    "coordinator": "SEDECAL MOLECULAR IMAGING SL",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

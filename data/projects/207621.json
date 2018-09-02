@@ -1,0 +1,23 @@
+{
+    "rcn": "207621",
+    "acronym": "time-data",
+    "topics": "ERC-2016-COG",
+    "title": "Time-Data Trade-Offs in Resource-Constrained Information and Inference Systems",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Massive data poses a fundamental challenge to learning algorithms, which is captured by the following computational dogma: The running time of an algorithm increases with the size of its input data. The available computational power, however, is growing slowly relative to data sizes. Hence, large-scale problems of interest require increasingly more time to solve. \nOur recent research demonstrates that this dogma is false in general, and supports an emerging perspective: Data should be treated as a resource that can be traded off with other resources such as running time. For data acquisition and communications, we have also shown related sampling, energy, and circuit area trade-offs.\nA detailed understanding of time-data and other analogous trade-offs, however, requires interdisciplinary studies that are currently in their infancy even for basic system models. Existing approaches are too specialized, and crucially, they only aim at establishing a trade-off, but not characterizing its optimality or its technological feasibility.\nTIME-DATA will confront these challenges by building unified mathematical foundations on how we generate data via sampling, how we set up learning objectives that govern our fundamental goals, and how we optimize these goals to obtain numerical solutions. We will demonstrate our rigorous theory with task-specific, end-to-end trade-offs (e.g., samples, power, computation, and statistical precision) in broad domains, by not only building prototype analog-to-information conversion hardware, but also accelerating scientific and medical imaging, and engineering new tools of discovery in materials science.\nOur goal of systematically understanding and expanding on this emerging perspective is ambitious: Our mathematical sampling framework, in tandem with new universal primal-dual algorithms and geometric estimators, are expected to change the way we treat data in information systems, promising substantial flexibility in the use of limited resources.",
+    "totalCost": "1931574",
+    "ecMaxContribution": "1931574",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 1931574
+        }
+    },
+    "calculatedTotalContribution": 1931574
+}

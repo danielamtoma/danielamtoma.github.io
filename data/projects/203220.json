@@ -1,0 +1,28 @@
+{
+    "rcn": "203220",
+    "acronym": "INCEPT",
+    "topics": "ERC-StG-2015",
+    "title": "INhomogenieties and fluctuations in quantum CohErent matter Phases by ultrafast optical Tomography",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "Standard time domain experiments measure the time evolution of the reflected/transmitted mean number of photons in the probe pulses. The evolution of the response of a material is typically averaged over the illuminated area as well as over many pump and probe measurements repeated stroboscopically. The aim of this project is to extend time domain optical spectroscopy beyond mean photon number measurements by performing a full Time Resolved Quantum State Reconstruction (TRQSR) of the probe pulses as a function of the pump and probe delay. The nature of the light matter interaction and the transient light-induced states of matter will be imprinted into the probe quantum state after the interaction with the material and can be uncovered with unprecedented detail with this new approach to time domain studies.\n\nTRQSR will be implemented by combining pump and probe experiments resolving single light pulses with balanced homodyne detection quantum tomography in the pulsed regime. We will apply and exploit the unique capabilities of TRQSR to address two different unresolved problems in condensed matter. Firstly, we will investigate the coherent and squeezed nature of low energy photo-induced vibrational states. We will use TRQSR with probe pulses shorter than the phonon timescale to interrogate the time evolution of the vibrational state induced by the pump pulse. Secondly, we will address inhomogeneities in photo-induced phase transformations. With TRQSR we can perform time domain measurements with a very small photon number per pulse which will give information on the interaction between the material (as prepared by the pump pulse) and individual photons. In this limit, TRQSR will allow us to retrieve rich statistics. While the average will deliver the information of a standard pump and probe experiment, higher order moments will give information on the time evolution of spatial inhomogenieties in the transient state.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI TRIESTE",
+    "coordinatorCountry": "IT",
+    "participants": "ELETTRA - SINCROTRONE TRIESTE SCPA",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "999589851": {
+            "orgId": "999589851",
+            "orgName": "ELETTRA - SINCROTRONE TRIESTE SCPA",
+            "ecContrib": 150000
+        },
+        "999842051": {
+            "orgId": "999842051",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRIESTE",
+            "ecContrib": 1350000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

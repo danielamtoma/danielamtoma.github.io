@@ -1,0 +1,43 @@
+{
+    "rcn": "194336",
+    "acronym": "RoMaNS",
+    "topics": "ICT-23-2014",
+    "title": "Robotic Manipulation for Nuclear Sort and Segregation",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "The RoMaNS (Robotic Manipulation for Nuclear Sort and Segregation) project will advance the state of the art in mixed autonomy for tele-manipulation, to solve a challenging and safety-critical ìsort and segregateî industrial problem, driven by urgent market and societal needs.\n\nCleaning up the past half century of nuclear waste, in the UK alone (mostly at the Sellafield site), represents the largest environmental remediation project in the whole of Europe. Most EU countries face related challenges. Nuclear waste must be ìsorted and segregatedî, so that low-level waste is placed in low-level storage containers, rather than occupying extremely expensive and resource intensive high-level storage containers and facilities. Many older nuclear sites (>60 years in UK) contain large numbers of legacy storage containers, some of which have contents of mixed contamination levels, and sometimes unknown contents.\n\nSeveral million of these legacy waste containers must now be cut open, investigated, and their contents sorted. This can only be done remotely using robots, because of the high levels of radioactive material. Current state-of-the-art practice in the industry, consists of simple tele-operation (e.g. by joystick or teach-pendant). Such an approach is not viable in the long-term, because it is prohibitively slow for processing the vast quantity of material required.\n\nThe project will:\n1) Develop novel hardware and software solutions for advanced bi-lateral master-slave tele-operation.\n2)  Develop advanced autonomy methods for highly adaptive automatic grasping and manipulation actions.\n3) Combine autonomy and tele-operation methods using state-of-the-art understanding of mixed initiative planning, variable autonomy and shared control approaches.\n4) Deliver a TRL 6 demonstration in an industrial plant-representative environment at the UK National Nuclear Lab Workington test facility.",
+    "totalCost": "6377521,25",
+    "ecMaxContribution": "6377521",
+    "coordinator": "THE UNIVERSITY OF BIRMINGHAM",
+    "coordinatorCountry": "UK",
+    "participants": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;NATIONAL NUCLEAR LABORATORY LIMITED;TECHNISCHE UNIVERSITAT DARMSTADT;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR;UK;DE",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 1423720
+        },
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 1624130
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1065561
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 805100
+        },
+        "999757952": {
+            "orgId": "999757952",
+            "orgName": "NATIONAL NUCLEAR LABORATORY LIMITED",
+            "ecContrib": 1459010
+        }
+    },
+    "calculatedTotalContribution": 6377521
+}

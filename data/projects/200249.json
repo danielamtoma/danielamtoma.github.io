@@ -1,0 +1,53 @@
+{
+    "rcn": "200249",
+    "acronym": "EASY Pv",
+    "topics": "GALILEO-2-2015",
+    "title": "EGNSS high Accuracy SYstem improving PhotoVoltaic plants maintenance",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2018",
+    "objective": "EGNSS high Accuracy SYstem improving PhotoVoltaic plants maintenance.\n\nThe purpose of the EASY PV proposal is to provide a time and cost effective service as direct response to the growing need expressed by several maintainers and PV field owners to enhance the energy production of their plants.\n\nAs photovoltaic plants are aging, it is not uncommon that their production lowers due to inefficiency caused by unknown modules on the plant lowering the whole plantís productivity. Thermal inspections are valuable for PV owners and maintainers, but relevant procedures (currently performed by operators with handheld cameras) are time demanding and sometimes expensive due to safety costs for the personnel involved in the operations (e.g.: PV modules on roofs, rough areas, Ö). It stands to reason that today such operations are not fully automated yet and the responsive recognition of a broken module might result very difficult in a large PV plant.\n\nAs a first improved solution, the growing technology of RPAS (Remotely Piloted Aircraft Systems) is exploited to gather thermic images which are geo-referenced by GPS positioning and processed by computer vision algorithms. However this configuration is very respectful but still not enough in order to provide the required positioning accuracy for the automation and fast identification of the broken modules. Only the aid of accurate positioning allows a cost effective solution to reduce time, costs and risks for personnel involved: the added value provided by the employment of GNSS high accuracy solutions as novelty in the RPAS domain is the key driver for the EASY PV turnkey solution.\n\nFinally EASY PV solution is conceived to build up an automatic system for acquiring, georeferencing and processing both visible and thermal images captured by an RPAS equipped with a Galileo/EGNOS high accuracy receiver, flying over a photovoltaic field. In this way it is possible to easily detect the defective modules to be replaced.",
+    "totalCost": "1284068,75",
+    "ecMaxContribution": "935973,13",
+    "coordinator": "SISTEMATICA SPA",
+    "coordinatorCountry": "IT",
+    "participants": "AARHUS UNIVERSITET;TOPVIEW SRL START UP INNOVATIVA;DEEP BLUE SRL;ALPHA CONSULTANTS (UK) LTD;Entec Spa;AALBORG UNIVERSITET",
+    "participantCountries": "DK;IT;UK",
+    "projectParticipants": {
+        "998325941": {
+            "orgId": "998325941",
+            "orgName": "DEEP BLUE SRL",
+            "ecContrib": 57750
+        },
+        "938215526": {
+            "orgId": "938215526",
+            "orgName": "TOPVIEW SRL START UP INNOVATIVA",
+            "ecContrib": 173250
+        },
+        "950979950": {
+            "orgId": "950979950",
+            "orgName": "ALPHA CONSULTANTS (UK) LTD",
+            "ecContrib": 153086
+        },
+        "998506652": {
+            "orgId": "998506652",
+            "orgName": "SISTEMATICA SPA",
+            "ecContrib": 325938
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 74119
+        },
+        "939037116": {
+            "orgId": "939037116",
+            "orgName": "Entec Spa",
+            "ecContrib": 102200
+        },
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 49631
+        }
+    },
+    "calculatedTotalContribution": 935974
+}

@@ -1,0 +1,63 @@
+{
+    "rcn": "199177",
+    "acronym": "ARGO",
+    "topics": "ICT-04-2015",
+    "title": "WCET-Aware Parallelization of Model-Based Applications for Heterogeneous Parallel Systems",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Increasing performance and reducing costs, while maintaining safety levels and programmability are the key de-mands for embedded and cyber-physical systems in European domains, e.g. aerospace, automation, and automotive. For many applications, the necessary performance with low energy consumption can only be provided by customized computing platforms based on heterogeneous many-core architectures. However, their parallel programming with time-critical embedded applications suffers from a complex toolchain and programming process.\nARGO (WCET-Aware PaRallelization of Model-Based Applications for HeteroGeneOus Parallel Systems) will ad-dress this challenge with a holistic approach for programming heterogeneous multi- and many-core architectures using automatic parallelization of model-based real-time applications. ARGO will enhance WCET-aware automatic parallelization by a cross-layer programming approach combining automatic tool-based and user-guided parallelization to reduce the need for expertise in programming parallel heterogeneous architectures. The ARGO approach will be assessed and demonstrated by prototyping comprehensive time-critical applications from both aerospace and industrial automation domains on customized heterogeneous many-core platforms. \nThe challenging research and innovation action will be achieved by the unique ARGO consortium that brings together industry, leading research institutes and universities. High class SMEs such as Recore Systems, Scilab Enterprises and AbsInt will contribute their diverse know-how in heterogeneous many-core technologies, model-based design environments and WCET calculation. The academic partners will contribute their outstanding expertise in code transformations, automatic parallelization and system-level WCET analysis.",
+    "totalCost": "3892181,25",
+    "ecMaxContribution": "3892181",
+    "coordinator": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+    "coordinatorCountry": "DE",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;TECHNOLOGIKO EKPAIDEFTIKO IDRYMA (TEI) DYTIKIS ELLADAS;ABSINT ANGEWANDTE INFORMATIK GMBH;EMMTRIX TECHNOLOGIES GMBH;RECORE SYSTEMS BV;UNIVERSITE DE RENNES I;SCILAB ENTERPRISES SAS",
+    "participantCountries": "DE;EL;NL;FR",
+    "projectParticipants": {
+        "999733993": {
+            "orgId": "999733993",
+            "orgName": "RECORE SYSTEMS BV",
+            "ecContrib": 598750
+        },
+        "968754133": {
+            "orgId": "968754133",
+            "orgName": "SCILAB ENTERPRISES SAS",
+            "ecContrib": 402738
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 532500
+        },
+        "947610461": {
+            "orgId": "947610461",
+            "orgName": "TECHNOLOGIKO EKPAIDEFTIKO IDRYMA (TEI) DYTIKIS ELLADAS",
+            "ecContrib": 440000
+        },
+        "999734769": {
+            "orgId": "999734769",
+            "orgName": "ABSINT ANGEWANDTE INFORMATIK GMBH",
+            "ecContrib": 393160
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 349570
+        },
+        "999858541": {
+            "orgId": "999858541",
+            "orgName": "UNIVERSITE DE RENNES I",
+            "ecContrib": 553125
+        },
+        "920403901": {
+            "orgId": "920403901",
+            "orgName": "EMMTRIX TECHNOLOGIES GMBH",
+            "ecContrib": 202309
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 420030
+        }
+    },
+    "calculatedTotalContribution": 3892182
+}

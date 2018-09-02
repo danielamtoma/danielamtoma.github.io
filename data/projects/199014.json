@@ -1,0 +1,63 @@
+{
+    "rcn": "199014",
+    "acronym": "HeartMan",
+    "topics": "PHC-28-2015",
+    "title": "Personal Decision Support System For Heart Failure Management",
+    "startDate": "01/01/2016",
+    "endDate": "30/04/2019",
+    "objective": "1ñ2% of the developed world suffers from congestive heart failure (CHF), which is the most frequent cause of hospitalization in people aged over 65. CHF management involves medications, monitoring of fluid intake and weight, exercise and lifestyle modifications. Since most patients are elderly and suffer from co-morbidities, they have difficulty adhering to the management guidelines, which often leads to poor outcomes.\n\nThe HeartMan project will develop a personal health system to help CHF patients manage their disease. Its core will be a decision support system that will provide personalised advice to the patients. Its first key feature will be evidence-based predictive models: a short-term model developed in the European project Chiron, and long-term models adapted to focus on modifiable parameters that can improve the patients' predicted outcomes. Its second key feature will be the delivery of the advice through a cognitive behavioural therapy based on cognitive dissonance. This is a proven approach that exploits the dissonance between healthy attitudes and unhealthy behaviours to improve the behaviours. It will be augmented by mindfulness exercises, which are expected to make the patients more receptive to the HeartMan's advice. The system will also feature advanced health devices and monitoring methods to understand the patients' physical and psychological state, and standard-based data management for wide interoperability.\n\nIn developing the HeartMan system, a human-centred approach will be used. The resulting system will be validated in two trials, which will test its medical effectiveness and usability. The project will also have strong dissemination and exploitation. To ensure industry-standard robustness, the industrial partners will have key role in developing the prototypes, and the documentation necessary for certification as a medical device will be prepared. All the consortium will be involved in IPR management and the building of business models.",
+    "totalCost": "3325050",
+    "ecMaxContribution": "3325050",
+    "coordinator": "INSTITUT JOZEF STEFAN",
+    "coordinatorCountry": "SI",
+    "participants": "UNIVERSITEIT GENT;EUROPEAN HEART NETWORK AISBL;SENLAB, DRUZBA ZA INFORMACIJSKO TEHNOLOGIJO, DOO;ATOS SPAIN SA;CONSIGLIO NAZIONALE DELLE RICERCHE;KATHOLIEKE UNIVERSITEIT LEUVEN;BITTIUM BIOSIGNALS OY;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "participantCountries": "BE;SI;ES;IT;FI",
+    "projectParticipants": {
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 317375
+        },
+        "999683941": {
+            "orgId": "999683941",
+            "orgName": "MEGA ELEKTRONIIKKA OY",
+            "ecContrib": 0
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 413125
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 422500
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 475725
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 477625
+        },
+        "968032453": {
+            "orgId": "968032453",
+            "orgName": "EUROPEAN HEART NETWORK AISBL",
+            "ecContrib": 95325
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 341250
+        },
+        "934022604": {
+            "orgId": "934022604",
+            "orgName": "SENLAB, DRUZBA ZA INFORMACIJSKO TEHNOLOGIJO, DOO",
+            "ecContrib": 289375
+        }
+    },
+    "calculatedTotalContribution": 2832300
+}

@@ -1,0 +1,17 @@
+{
+    "rcn": "215700",
+    "acronym": "LHCBIGDATA",
+    "topics": "MSCA-IF-2017",
+    "title": "Exploiting big data and machine learning techniques for LHC experiments",
+    "startDate": "02/07/2018",
+    "endDate": "01/07/2020",
+    "objective": "Large international scientific collaborations will face in the near future unprecedented computing and data challenges. The analysis of multi-PetaByte datasets at CMS, ATLAS, LHCb and Alice, the four experiments at the Large Hadron Collider (LHC), requires a global federated infrastructure of distributed computing resources. The HL-LHC, the High Luminosity upgrade of the LHC, is expected to deliver 100 times more data than the LHC, with corresponding increase of event sizes, volumes and complexity. Modern techniques for big data analytics and machine learning (ML) are needed to cope with such unprecedented data stream. Critical areas that will strongly benefit from ML are data analysis, detector operation including calibration and monitoring, and computing operations. Aim of this project is to provide the LHC community with the necessary tools to deploy ML solutions through the use of open cloud technologies such as the INDIGO-DataCloud services. Heterogeneous technologies (systems based on multi-cores, GPUs, ...) and opportunistic resources will be integrated. The developed tools will be experiment-independent to promote the exchange of common solutions among the various LHC experiments. The benefits of such an approach will be demonstrated in a real world use case, the optimization of the computing operations for the CMS experiment. In addition, once available, the tools to deploy ML as a service can be easily transferred to other scientific domains that have the need to treat large data streams.",
+    "totalCost": "180277,2",
+    "ecMaxContribution": "180277,2",
+    "coordinator": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

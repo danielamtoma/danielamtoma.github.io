@@ -1,0 +1,23 @@
+{
+    "rcn": "193664",
+    "acronym": "MESOPROBIO",
+    "topics": "ERC-StG-2014",
+    "title": "Mesoscopic models for propagation in biology",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "According to biologists, there is a need for quantitative models that are able to cope with the complexity of problems arising in the field of life sciences. Here, complexity refers to the interplay between various scales that are not clearly separate. The great challenge of the MESOPROBIO project is to analyse complex PDE models for biological propagation phenomena at the mesoscale. By analogy with the kinetic theory of gases, this is an intermediate level of description between the microscale (individual-based models) and the macroscale (parabolic reaction-transport-diffusion equations). The specific feature common to all the models involved in the project is the local heterogeneity with respect to a structure variable (velocity, phenotypical trait, age) which requires new mathematical methods. I propose to push analysis beyond classical upscaling arguments and to track the local heterogeneity all along the analysis.\n\nThe biological applications are: concentration waves of bacteria, evolutionary aspects of structured populations (with respect to dispersal ability or life-history traits), and anomalous diffusion. The mathematical challenges are: multiscale analysis of PDE having different properties in different directions of the phase space, including nonlocal terms (scattering, competition), and possibly lacking basic features of reaction-diffusion equations such as the maximum principle. The outcomes are: travelling waves, accelerating fronts, approximation of geometric optics, nonlocal Hamilton-Jacobi equations, optimal foraging strategies and evolutionary dynamics of phenotypical traits. Emphasis will be placed on quantitative results with strong feedback towards biology.\n\nThe project will be conducted in Lyon, a French hub for mathematical biology and hyperbolic equations. There will be close interaction with biologists in order to establish the most appropriate questions to answer. Several collaborations in Europe (UK, Austria) will be developed.",
+    "totalCost": "1091688",
+    "ecMaxContribution": "1091688",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1091688
+        }
+    },
+    "calculatedTotalContribution": 1091688
+}

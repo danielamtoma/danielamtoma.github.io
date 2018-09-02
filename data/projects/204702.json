@@ -1,0 +1,23 @@
+{
+    "rcn": "204702",
+    "acronym": "USECFrontiers",
+    "topics": "ERC-StG-2015",
+    "title": "Frontiers of Usable Security ñ Principles and Methods for Administrator and Developer Usable Security Research",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2021",
+    "objective": "Usability problems are a major cause of many of todayís IT-security incidents. Security systems are often too complicated, time-consuming, and error prone. For more than a decade researchers in the domain of usable security (USEC) have attempted to combat these problems by conducting interdisciplinary research focusing on the root causes of the problems and on the creation of usable security mechanisms. While major improvements have been made, to date USEC research has focused almost entirely on the non-expert end-user. However, many of the most catastrophic security incidents were not caused by end-users, but by developers or administrators. Heartbleed and Shellshock were both caused by single developers yet had global consequences. The recent Sony hack compromised an entire multi-national IT-infrastructure and misappropriated over 100 TB of data, unnoticed. Fundamentally, every software vulnerability and misconfigured system is caused by developers or administrators making mistakes, but very little research has been done into the underlying causalities and possible mitigation strategies. \nI aim to extend the frontiers of usable security by conducting foundational research into USEC methods for developers and administrators. To this end I will research and systemize the hitherto unexamined human factors in a carefully selected set of problems currently faced by developers and administrators, specifically: authentication, secure messaging, systems configuration, intrusion detection, and public key infrastructures. From this pioneering research I will extract and develop principles, methods, and best practices for conducting usability studies and research with these actors and establish a foundation for this emerging research field. In addition to these foundational methodological results, I expect to make fundamental advancements in the above application research domains by including the human factors in these currently purely technical research areas.",
+    "totalCost": "1498976",
+    "ecMaxContribution": "1498976",
+    "coordinator": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980276": {
+            "orgId": "999980276",
+            "orgName": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+            "ecContrib": 1498976
+        }
+    },
+    "calculatedTotalContribution": 1498976
+}

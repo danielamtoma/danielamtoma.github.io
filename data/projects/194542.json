@@ -1,0 +1,23 @@
+{
+    "rcn": "194542",
+    "acronym": "OptnanoATcryo",
+    "topics": "ERC-CoG-2014",
+    "title": "Optical nanoscopy at 1 nm resolution: far-field fluorescence control at cryogenic temperatures",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2020",
+    "objective": "Optical nanoscopy is a powerful technique used in biology to study subcellular structures and function via specifically targeted fluorescent labels. Localization microscopy in particular offers a much better resolution (~10-50 nm) than conventional microscopy (~250 nm) while being relatively undemanding on the experimental setup and the subsequent image analysis.  The next revolution in imaging to 1 nm isotropic resolution in 3D must realize a big increase in the number of collected photons from single fluorescent emitters as well as in the labelling density. Only then can subcellular structures be imaged at the molecular level to study the molecular machinery of the cell. Notably observations of DNA conformation in 3D at such resolutions would be spectacular and enable investigation of biophysical models ranging from chromosomal DNA packaging to gene regulation.\n\nI propose a new imaging technique based on fluorescence control at cryogenic temperatures in combination with novel data driven super-resolution reconstruction schemes employing prior knowledge that promises this unprecedented optical far-field resolution. I introduce a twofold technical leap by i) much higher photon counts due to negligible photobleaching at cryogenic temperatures while maintaining the sparsity required for single emitter localization and ii) relaxing the required labelling density using a priori information and the averaging of many identical entities. Orientational blinking ensures single emitter localization via a combination of polarization sensitive excitation, detection and stimulated depletion and triplet state shelving.\nBiophysical models of cell structures and data driven priors mean that fewer samples are needed to fully describe a structure.\nIn a larger perspective, the outcome of this research will enable the combination of structural cryo-electron microscopy imaging at subnanometer resolutions with functional fluorescent imaging at the nanometer scale.",
+    "totalCost": "1911792,5",
+    "ecMaxContribution": "1911792,5",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1911792
+        }
+    },
+    "calculatedTotalContribution": 1911792
+}

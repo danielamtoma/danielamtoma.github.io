@@ -1,0 +1,48 @@
+{
+    "rcn": "199148",
+    "acronym": "DIMENSION",
+    "topics": "ICT-27-2015",
+    "title": "Directly Modulated Lasers on Silicon",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2020",
+    "objective": "DIMENSION establishes a truly integrated electro-optical platform, extending the silicon (Bi)CMOS and silicon photonics platform with III-V photonic functionality. The III-V integration concept is fully CMOS compatible and offers fundamental advantages compared to state-of-the art integration approaches. After bonding and growing ultra-thin III-V structures onto the silicon front-end-of-line, the active optical functions are embedded into the back-end of line stack. This offers great opportunities for new innovative devices and functions at the chip-level but also for the assembly of such silicon devices. As processing takes place on silicon wafers, this project has the unique opportunity to bring the cost of integrated devices, with CMOS, photonic and III-V functionality, down to the cost of silicon volume manufacturing. Such a platform has the potential to allow Europe to take a leading position in the field of high functionality integrated photonics. Moreover, the project demonstrators adhere to standards such as IEEE802.3, 25G optical components and low-power electronics, thus opening a viable route towards ultra-low-cost high-performance optical transceivers for a new era of data centres and cloud systems. DIMENSION will realise three demonstrators:\nï A short-reach transmitter for intra-datacenter operation addressing the 400 GbE-LR8 (IEEE 802.3bs) standard making use of an array of directly modulated lasers, pulse-amplitude-modulation (PAM4) techniques and 8 wavelength channels in the telecom O-band.\nï A medium-reach transmitter for inter-datacenter applications beyond the 400 GbE-LR8 (IEEE 802.3bs) standard by providing a tuneable coherent transmitter for inter-datacenter and metro applications for link lengths in excess of 10km using a modulator integrated on the same chip.\nï A novel laser directly grown on silicon photonics, operated at 25Gb/s in the telecom O-band demonstrating the significant cost-saving potential of the technologies pursued in DIMENSION.",
+    "totalCost": "3422128,75",
+    "ecMaxContribution": "2621758,75",
+    "coordinator": "TECHNISCHE UNIVERSITAET DRESDEN",
+    "coordinatorCountry": "DE",
+    "participants": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK;IBM RESEARCH GMBH;RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES;Optocap Ltd;ADVA OPTICAL NETWORKING SE",
+    "participantCountries": "DE;CH;EL;UK",
+    "projectParticipants": {
+        "999582382": {
+            "orgId": "999582382",
+            "orgName": "RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES",
+            "ecContrib": 270625
+        },
+        "985490319": {
+            "orgId": "985490319",
+            "orgName": "Optocap Ltd",
+            "ecContrib": 322500
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 800634
+        },
+        "999811787": {
+            "orgId": "999811787",
+            "orgName": "ADVA OPTICAL NETWORKING SE",
+            "ecContrib": 522500
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 705500
+        }
+    },
+    "calculatedTotalContribution": 2621759
+}

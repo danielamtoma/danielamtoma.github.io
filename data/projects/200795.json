@@ -1,0 +1,23 @@
+{
+    "rcn": "200795",
+    "acronym": "TissueMaps",
+    "topics": "ERC-CoG-2015",
+    "title": "Integrating spatial and genetic information via automated image analysis and interactive visualization of tissue data",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "Digital imaging of tissue samples and genetic analysis by next generation sequencing are two rapidly emerging fields in pathology. The exponential growth in digital imaging in pathology is catalyzed by more advanced imaging hardware, comparable to the complete shift from analog to digital images that took place in radiology a couple of decades ago: Entire glass slides can be digitized at near the optical resolution limits in only a few minutesí time, and fluorescence as well as bright field stains can be imaged in parallel. \n\nGenetic analysis, and particularly transcriptomics, is rapidly evolving thanks to the impressive development of next generation sequencing technologies, enabling genome-wide single-cell analysis of DNA and RNA in thousands of cells at constantly decreasing costs. However, most of todayís available technologies result in a genetic analysis that is decoupled from the morphological and spatial information of the original tissue sample, while many important questions in tumor- and developmental biology require single cell spatial resolution to understand tissue heterogeneity.\n\nThe goal of the proposed project is to develop computational methods that bridge these two emerging fields. We want to combine spatially resolved high-throughput genomics analysis of tissue sections with digital image analysis of tissue morphology. Together with collaborators from the biomedical field, we propose two approaches for spatially resolved genomics; one based on sequencing mRNA transcripts directly in tissue samples, and one based on spatially resolved cellular barcoding followed by single cell sequencing. Both approaches require development of advanced digital image processing methods. Thus, we will couple genetic analysis with digital pathology. Going beyond visual assessment of this rich digital data will be a fundamental component for the future development of histopathology, both as a diagnostic tool and as a research field.",
+    "totalCost": "1738690",
+    "ecMaxContribution": "1738690",
+    "coordinator": "UPPSALA UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985029": {
+            "orgId": "999985029",
+            "orgName": "UPPSALA UNIVERSITET",
+            "ecContrib": 1738690
+        }
+    },
+    "calculatedTotalContribution": 1738690
+}

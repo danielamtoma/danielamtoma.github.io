@@ -1,0 +1,23 @@
+{
+    "rcn": "212110",
+    "acronym": "SBS3-5",
+    "topics": "ERC-2017-STG",
+    "title": "Stimulated Brillouin Scattering based RF to Optical Signal Transduction and Amplification",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "While the detection of weak signals (down to the single photon level) in the optical frequency range is routine on account of the high photon energy (compared to thermal excitation energy kBT) and the availability of efficient detectors, this is not the case in the radio frequency (RF) and microwave frequency regimes wherein thermal (Johnson) noise in detectors swamps out the faint RF signals (in applications from radio astronomy, MRI to radar) and requires the use of cryogenic amplifiers. The ability to map signals efficiently from the microwave to optical regime becomes paramount for distant systems to communicate with each other using low loss telecom fibers. Both classical (radio over fiber systems) and quantum (linking two superconducting qubit processors in two dilution fridges) information processing systems will benefit greatly from the development of an efficient RF to optical signal transducer.\n I have been developing efficient RF to optical transduction schemes in GaAs cavity optomechanical systems (KC Balram et al., Nature Photonics (2016)) by exploiting its favorable piezoelectric (for coupling RF signals to propagating acoustic waves) and elasto-optic (for engineering strong acousto-optic interactions) properties. In this project, I would like to extend this work and address the issue of weak RF signal detection by up-converting RF signals to the optical domain using integrated Stimulated Brillouin Scattering (SBS) and shot-noise limited optical detection. Piezoelectric SBS systems can also be used to build high frequency, high gain RF amplifiers with noise figures that can be lower than conventional RF amplifiers. Working in a novel GaAs on insulator platform helps provide some unique advantages (tightly confined acoustic and optical modes with large modal overlap and a large elasto-optic coefficient leading to significant Brillouin gain) while holding the potential for interfacing complex circuitry in a well-established III-V materials platform.",
+    "totalCost": "1712581",
+    "ecMaxContribution": "1712581",
+    "coordinator": "UNIVERSITY OF BRISTOL",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 1712581
+        }
+    },
+    "calculatedTotalContribution": 1712581
+}

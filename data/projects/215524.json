@@ -1,0 +1,17 @@
+{
+    "rcn": "215524",
+    "acronym": "HYBSPN",
+    "topics": "MSCA-IF-2017",
+    "title": "Hybrid Learning Systems utilizing Sum-Product Networks",
+    "startDate": "01/03/2018",
+    "endDate": "31/12/2019",
+    "objective": "We have recently witnessed a considerable interest in probabilistic models within deep learning, leading to e.g. generative adversarial networks, deep generative networks, neural auto-regressive density estimators and Pixel-RNNs/CNNs. Furthermore, sum-product networks (SPNs) are a recent deep architecture with a unique advantage over the aforementioned models: they allow both exact and efficient inference, implemented in terms of simple network passes. However, SPNs are a constrained type of neural network and do not reach the full flexibility of the deep learning tool kit available to date. This calls for hybrid learning systems which exploit the superior inference properties of SPNs within other deep learning approaches. \nIn this project, I will investigate two such approaches. First, I will structurally combine a deep learning architecture (front-end), which extracts a representation from a set of inputs, controlling the parameters of an SPN (back-end) over a set of outputs. This yields a hybrid conditional SPN which facilitates full inference over the output space, and which is naturally applied in structural prediction tasks. Such hybrid SPNs can be expected to be highly expressive and to set new state-of-the-art results in e.g. semantic image segmentation. \nThe second approach is to use SPNs as variational distributions, i.e. for approximating a given target distribution by minimizing Kullback-Leibler divergence. On the one hand, this allows to capture intractable models with SPNs, with the goal to enable fast amortized approximate inference. On the other hand, this approach allows to use hybrid conditional SPNs as so-called inference networks for intractable generative models with latent variables, for the purpose of variational posterior inference and learning. This approach would represent a substantial improvement over state-of-the-art approaches, which are usually limited to expensive inference via Monte Carlo estimation.",
+    "totalCost": "179166,9",
+    "ecMaxContribution": "179166,9",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

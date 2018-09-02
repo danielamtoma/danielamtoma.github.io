@@ -1,0 +1,23 @@
+{
+    "rcn": "204442",
+    "acronym": "MYKI",
+    "topics": "ERC-StG-2015",
+    "title": "A Bidirectional MyoKinetic Implanted Interface for Natural Control of Artificial Limbs",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "MYKI aims at developing and clinically evaluating a dexterous hand prosthesis with tactile sensing which is naturally controlled and perceived by the amputee. This will be possible by overcoming the conventional approaches based on recording electrical signals from the peripheral nervous system (nerves or skeletal muscles) through the development of a radically new Human-Machine Interface (HMI) based on magnetic field principles, both able to decode voluntary motor commands and to convey sensory feedback to the individual. Core of this system is a multitude of magnets implanted in independent muscles and external magnetic readers/drivers (MRDs) able to (i) continuously localize the movements of the magnets and, at specific times, (ii) induce subtle movements in specific magnets. In fact, as a magnet is implanted it will travel with the muscle it is located in, and its localization will provide a direct measure of the contraction/elongation of that muscle, which is voluntarily controlled by the central nervous system. In this way it will be possible to decode the efferent signals sent by the brain by observing a by-product of the muscle fibres recruitment. On the other hand, a movement induced in the implanted magnet by the external MRD, could provide a perceivable stimulus, conveyed to the brain by means of the peripheral sensory receptors present in the muscle (e.g. muscle spindles or Golgi tendon organ) or in the neighbouring skin (tactile mechanoreceptors). In this way we aim to provide tactile and/or proprioceptive sensory information to the brain, thus restoring the physiological sensorimotor control loop. Remarkably, with passive magnetic tags (that do not require to be powered-on) and wearable readers/drivers, it will be possible to implement a wireless, bidirectional HMI with dramatically enhanced capabilities with respect to the state of the art interfaces, as illustrated in this proposal.",
+    "totalCost": "1475269",
+    "ecMaxContribution": "1475269",
+    "coordinator": "SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999884731": {
+            "orgId": "999884731",
+            "orgName": "SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA",
+            "ecContrib": 1475269
+        }
+    },
+    "calculatedTotalContribution": 1475269
+}

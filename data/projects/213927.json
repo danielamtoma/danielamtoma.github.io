@@ -1,0 +1,88 @@
+{
+    "rcn": "213927",
+    "acronym": "ALOHA",
+    "topics": "ICT-05-2017",
+    "title": "software framework for runtime-Adaptive and secure deep Learning On Heterogeneous Architectures",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Deep Learning (DL) algorithms are an extremely promising instrument in artificial intelligence, achieving very high performance in numerous recognition, identification, and classification tasks. To foster their pervasive adoption in a vast scope of new applications and markets, a step forward is needed towards the implementation of the on-line classification task (called inference) on low-power embedded systems, enabling a shift to the edge computing paradigm. Nevertheless, when DL is moved at the edge, severe performance requirements must coexist with tight constraints in terms of power/energy consumption, posing the need for parallel and energy-efficient heterogeneous computing platforms. Unfortunately, programming for this kind of architectures requires advanced skills and significant effort, also considering that DL algorithms are designed to improve precision, without considering the limitations of the device that will execute the inference. Thus, the deployment of DL algorithms on heterogeneous architectures is often unaffordable for SMEs and midcaps without adequate support from software development tools. \nThe main goal of ALOHA is to facilitate implementation of DL on heterogeneous low-energy computing platforms. To this aim, the project will develop a software development tool flow, automating:\nï Algorithm design and analysis;\nï Porting of the inference tasks to heterogeneous embedded architectures, with optimized mapping and scheduling;\nï Implementation of middleware and primitives controlling the target platform, to optimize power and energy savings.\nDuring the development of the ALOHA tool flow, several main features will be addressed, such as architecture-awareness (the features of the embedded architecture will be considered starting from the algorithm design), adaptivity, security, productivity, and extensibility. \nALOHA will be assessed over three different use-cases, involving surveillance, smart industry automation, and medical application domains.",
+    "totalCost": "5976415",
+    "ecMaxContribution": "5976415",
+    "coordinator": "STMICROELECTRONICS SRL",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITEIT LEIDEN;PLURIBUS ONE SRL;SYSTHMATA YPOLOGISTIKIS ORASHS IRIDA LABS AE;PKE ELECTRONICS AG;SANTER REPLY SPA;UNIVERSITA DEGLI STUDI DI CAGLIARI;SOFTWARE COMPETENCE CENTER HAGENBERG GMBH;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;UNIVERSITA DEGLI STUDI DI SASSARI;MEDYMATCH TECHNOLOGY LTD;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD;UNIVERSITEIT VAN AMSTERDAM;CA TECHNOLOGIES DEVELOPMENT SPAIN SA",
+    "participantCountries": "NL;IT;EL;AT;CH;IL;ES",
+    "projectParticipants": {
+        "912323025": {
+            "orgId": "912323025",
+            "orgName": "PKE ELECTRONICS AG",
+            "ecContrib": 322392
+        },
+        "972159221": {
+            "orgId": "972159221",
+            "orgName": "CA TECHNOLOGIES DEVELOPMENT SPAIN SA",
+            "ecContrib": 723794
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 731350
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 481250
+        },
+        "999841663": {
+            "orgId": "999841663",
+            "orgName": "UNIVERSITA DEGLI STUDI DI CAGLIARI",
+            "ecContrib": 494375
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 805950
+        },
+        "999663765": {
+            "orgId": "999663765",
+            "orgName": "SOFTWARE COMPETENCE CENTER HAGENBERG GMBH",
+            "ecContrib": 313000
+        },
+        "921822526": {
+            "orgId": "921822526",
+            "orgName": "PLURIBUS ONE SRL",
+            "ecContrib": 250000
+        },
+        "986393389": {
+            "orgId": "986393389",
+            "orgName": "SYSTHMATA YPOLOGISTIKIS ORASHS IRIDA LABS AE",
+            "ecContrib": 357500
+        },
+        "992762021": {
+            "orgId": "992762021",
+            "orgName": "SANTER REPLY SPA",
+            "ecContrib": 303991
+        },
+        "912240575": {
+            "orgId": "912240575",
+            "orgName": "MEDYMATCH TECHNOLOGY LTD",
+            "ecContrib": 301500
+        },
+        "999974553": {
+            "orgId": "999974553",
+            "orgName": "UNIVERSITEIT LEIDEN",
+            "ecContrib": 321625
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 352688
+        },
+        "999465594": {
+            "orgId": "999465594",
+            "orgName": "UNIVERSITA DEGLI STUDI DI SASSARI",
+            "ecContrib": 217000
+        }
+    },
+    "calculatedTotalContribution": 5976415
+}

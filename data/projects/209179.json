@@ -1,0 +1,23 @@
+{
+    "rcn": "209179",
+    "acronym": "LockChip",
+    "topics": "ERC-PoC-2016",
+    "title": "A custom lock chip for compact NMR",
+    "startDate": "01/04/2017",
+    "endDate": "30/09/2018",
+    "objective": "Nuclear magnetic resonance is an important chemical analysis method, because of its inherent chemical specificity, its versatility to extract molecular information, and its absolute accuracy. The market has been dominated by large superconducting NMR magnets with price tags of many 100k Ä. The emergence of less expensive low field compact (tabletop and portable) NMR spectrometers, based on the use of permanent magnets, with price tags around a factor of 10 lower than superconducting magnets, brings a drastically lower cost-of-ownership, and the significantly lower need for external support, maintenance, and lack of liquid Helium, which is opening up new applications and huge new markets for NMR.\n\nCompact NMR spectrometers, mainly used for teaching but targeting professional applications (e.g. real time process monitoring in chemical factories), have very cramped magnet bores (15 mm cube) mainly needed for the generation and detection of analyte signal. The magnetic field strength of their permanent magnets is strongly temperature dependent, so that the proportional NMR frequency drifts during measurements that are taken over extended time periods, which can lead to erroneous resonance results and is a major challenge, especially for forensic applications, or applications in factories. The remedy is to detect the temperature-dependent frequency shifts of a special lock substance, which is typically mixed into the sample, but cannot be done in the case of factory automation applications.\n\nThis represents a big barrier for the introduction of compact NMR into many professional applications.\n\nOur miniaturized NMR detector, entitled LockChip, provides an ideal solution for all aspects. Its extremely compact size, easily fits side-by-side with the vendor NMR detector, with only two leads of wire needed to connect it to the lock channel circuitry. Our chip can therefore solve this issue, and help to open up a vast market.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

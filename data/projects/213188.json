@@ -1,0 +1,58 @@
+{
+    "rcn": "213188",
+    "acronym": "PICTURE",
+    "topics": "ICT-30-2017",
+    "title": "High Performance and High Yield Heterogeneous III-V/Si Photonic Integrated Circuits using a Thin and Uniform Bonding Layer",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "The objective of PICTURE project is to develop a photonic integration technology by bonding multi-III-V-dies of different epitaxial stacks to SOI wafers with a thinner and uniform dielectric bonding layer. This heterogeneous integration platform will enable higher performance lasers and photo-detectors using the optimized III-V dies. In addition, the thinner bonding layer will lead to record performance MOSCAP III-V/Si modulators, and to a new generation of wavelength tunable distributed feedback lasers. Moreover the full process including SOI process, bonding, III-V and back-end process will be made on a 200mm R&D CMOS line, leading to higher yield, smaller footprint and lower cost PICs. Two types of PICs with a total capacity of 400Gb/s will be developed, packaged and validated in system configuration.\nIn parallel, PICTURE project will develop direct growth of high performance quantum-dot lasers and selective area growth on bonded templates for high density future generation of PICs.\nThe project is coordinated by III-V Lab, and includes University of Southampton, CEA, University College London, Imec, Tyndall, Argotech and Nokia Bell Labs. The consortium is highly complementary, covering all skills required to achieve the project objectives: growth of semiconductor materials, silicon process and III-V process, design and characterization of PICs, prototyping and assessment of PICs in high bit rate digital communication systems: \nApart from the adequacy of the consortium to achieve collectively the project objectives, the consortium partners have the potential to set up a comprehensive supply chain for the future exploitation of the project results, either by exploiting the results ìin houseî or by setting up suitable partnerships.",
+    "totalCost": "4050477,5",
+    "ecMaxContribution": "3924532,5",
+    "coordinator": "III-V LAB",
+    "coordinatorCountry": "FR",
+    "participants": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;UNIVERSITY OF SOUTHAMPTON;NOKIA BELL LABS FRANCE;ARGOTECH AS;UNIVERSITY COLLEGE LONDON;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+    "participantCountries": "FR;BE;UK;CZ;IE",
+    "projectParticipants": {
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 586666
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 379688
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 880094
+        },
+        "956040343": {
+            "orgId": "956040343",
+            "orgName": "ARGOTECH AS",
+            "ecContrib": 297255
+        },
+        "996377696": {
+            "orgId": "996377696",
+            "orgName": "NOKIA BELL LABS FRANCE",
+            "ecContrib": 292780
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 325145
+        },
+        "999971546": {
+            "orgId": "999971546",
+            "orgName": "III-V LAB",
+            "ecContrib": 793618
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 369288
+        }
+    },
+    "calculatedTotalContribution": 3924534
+}

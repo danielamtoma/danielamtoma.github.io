@@ -1,0 +1,33 @@
+{
+    "rcn": "213587",
+    "acronym": "PROTEUS",
+    "topics": "JTI-CS2-2017-CFP06-ENG-03-18",
+    "title": "Development of simulation methods and tools to predict the idle and sub-idle behavior of future large Very High Bypass Ratio geared civil turbofan engines.",
+    "startDate": "05/02/2018",
+    "endDate": "04/02/2021",
+    "objective": "PROTEUS project is linked to Work Package 6 (WP6) (and WP5) of the Engines ITD focusing on the Very High Bypass Ratio (VHBR) geared turbofan engine demonstrator programme. Its aim is to develop a capability to predict and understand the idle and sub-idle performance and operability of large VHBR geared turbofan engines. The work will focus on the characterization of the performance of key engine components at idle and sub-idle conditions using high-fidelity models and simulations along with validation against experimental data provided by the Topic Manager. The components to be studied include the core compressors ((Intermediate and High Pressure Compressors IPC and HPC), staged lean-burn combustor, low pressure system (including the low speed fan, Power Gearbox (PGB) and turbines), and heat management and secondary air systems. Results from high-order simulations will be reduced into appropriate 0D (or 1D) component characteristics and integrated within a toolset developed in the Numerical Propulsion Simulation System (NPSS) environment for rapid whole-engine performance analyses.",
+    "totalCost": "1112715",
+    "ecMaxContribution": "1112715",
+    "coordinator": "CRANFIELD UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+    "participantCountries": "UK;DE",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 617998
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 264718
+        }
+    },
+    "calculatedTotalContribution": 882716
+}

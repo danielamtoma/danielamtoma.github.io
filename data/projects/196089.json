@@ -1,0 +1,28 @@
+{
+    "rcn": "196089",
+    "acronym": "LV-Pri20",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Logic-based Verification of Privacy-Preservation in Europe's 2020 ICT",
+    "startDate": "22/06/2015",
+    "endDate": "21/06/2017",
+    "objective": "In line with the EU 2020 Flagship Initiative on a Digital Agenda for Europe and the upcoming EU Cybersecurity Strategy, the goal of the LV-Pri20 project is to aid our ICT-driven lives, by ìsafeguarding the human right of privacy in the digital societyî. Concretely, the main focus of LV-Pri20 is the formal and automatic analysis of privacy-preservation in todayís ICT. LV-Pri20 will focus on the prevalent wireless media, e.g., RF-identification protocols, remote car-unlocking, wearables, machine-to-machine communication in the Internet of Things (IoT)/ubiquitous computing, but it will not neglect wired environments (given their common cloud-connection). \nLV-Pri20 will assess and automatically analyse privacy-sensitive applications, in their standalone execution, as well as in the more involved setting of multiple, concurrent executions thereof. This will be done systematically and taxonomically: distinct classes of applications (e.g., identification protocols using Electronic Product Codes vs. the Open Smart Grid Protocol) and different privacy properties (e.g., data non-leakage vs. data-user unlinkability) will be respectively analysed via tailored, well-defined techniques. \nTo specify privacy, LV-Pri20 will design/refine different non-classical logic languages which have inherent semantics for privacy-like expression (e.g., strategy logics). For these, we will then develop new model checking algorithms. All will be incorporated in automatic verification software, which already proved efficient in analysing highly distributed systems, inline with, e.g., the IoT applications envisaged herein.\nLV-Pri20 will have a multi-disciplinary, collaborative nature, an academic core and industrial side. After an initial privacy scrutiny, new/patched RFID-based, privacy-preserving, communication protocols will be (re-)designed and implemented. For these, we will devise mathematical proofs for one-session security, and run automatic analysis of their multi-session executions.",
+    "totalCost": "195454,81",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "UNIVERSITY OF SURREY",
+    "coordinatorCountry": "UK",
+    "participants": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 100171
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 95284
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

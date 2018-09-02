@@ -1,0 +1,28 @@
+{
+    "rcn": "212602",
+    "acronym": "HD-DittoGraph",
+    "topics": "ERC-2016-ADG",
+    "title": "HD-DittoGraph: a digital human Embryonic Stem Cell platform for Huntington's repeats",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2023",
+    "objective": "This proposal is aimed at identifying the molecular mechanisms that have brought the human Huntington Disease-causing Huntingtin (Htt) exon 1, with its pure and unstable CAG repeat, to be shaped the way it is today. Specifically, we intend to screen for genetic elements affecting Htt repeat length instability in dividing and postmitotic neuronal cells. The novelty of our approach relies on the construction of a human embryonic stem (hES) cell platform that couples highly efficient CRISPR/Cas9 technology with genome-wide screenings and third generation sequencing, to test the contribution of thousands of unequivocally barcoded cis and trans modifiers on Htt exon 1 repeats instability. \n\nIn Aim 1, we will test the contribution of cis-modifiers to repeat instability during multiple mitotic divisions, by generating a hES cell platform where we will subsequently introduce a barcoded donor library of different Htt exon 1 constructs, with different CAG and flanking sequences, at the Htt locus. \nIn Aim 2 our hES cell platform will be implemented with inducible Cas9 elements and sgRNAs libraries to perform genome-wide loss and gain of function (LOF, GOF) screenings of trans-acting modifiers of repeat sequence and size. The sgRNAs will act as barcodes for the modifier genes, allowing to test their causative role on repeat size changes. \nIn Aim 3, we will exploit the neurogenic potential of hES cells in our LOF and GOF platforms to identify Htt exon 1 repeat modifiers in differentiating striatal neurons. Candidate modifier genes will be individually validated and tested for their functional impact on gene networks by transcriptome analysis. \nIn all approaches, third generation sequencing and ad hoc computational pipelines will allow the simultaneous identification of the repeat changes and their association to the corresponding modifiers. Overall, this research proposal is expected to provide key molecular and genetic insights into the process of Htt repeat expansion in human",
+    "totalCost": "2040943",
+    "ecMaxContribution": "2040943",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "FONDAZIONE ISTITUTO NAZIONALE DI GENETICA MOLECOLARE INGM",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "998645168": {
+            "orgId": "998645168",
+            "orgName": "FONDAZIONE ISTITUTO NAZIONALE DI GENETICA MOLECOLARE INGM",
+            "ecContrib": 172500
+        },
+        "999995796": {
+            "orgId": "999995796",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MILANO",
+            "ecContrib": 1868443
+        }
+    },
+    "calculatedTotalContribution": 2040943
+}

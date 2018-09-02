@@ -1,0 +1,33 @@
+{
+    "rcn": "210355",
+    "acronym": "MOTIVATE",
+    "topics": "JTI-CS2-2016-CFP04-AIR-02-32",
+    "title": "Matrix Optimization for Testing by Interaction of Virtual And Test Environments",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2020",
+    "objective": "A significant step change is proposed in the way virtual and test environments are used together in an industrial environment to reduce the cost, risks and time associated with product development.  Enabling technologies, which have been demonstrated in laboratory conditions during a series of EU FP 5 and 7 projects, will be transitioned into the industrial environment and demonstrated in a structural test on an aircraft subcomponent.  In more detail: approaches to quantifying uncertainty in measurements of displacement and strain fields obtained using digital image correlation will be reviewed and a simple-to-use, robust methodology developed for use in industrial environments, with attention paid to the need to consider the entire measurement volume as well as within the same timescale as a structure test.  In addition, recent advances in the validation of simulations, using image decomposition to compare predicted and measured data fields, will be incorporated into advanced structural test protocols taking account of uncertainties to provide statements on the extent to which the predictions represent reality, i.e. the validity of the simulations.  Best practice guidelines will be developed to allow the test matrix to be optimised thus minimizing the cost and time required for tests while maximising the reliability and credibility of the simulations.  The proposed research represents a significant and generic advance in the technologies and methodologies used to validate computational models of structures that will benefit a wide range of industrial sectors, including the aerospace industry where it will support the introduction of disruptive technologies, such as highly integrated structures, by enabling high fidelity simulations.  A strong programme of exploitation and dissemination is proposed using traditional routes as well as digital shorts, webinars, and a blog as well as workshops linked to the revision of the prenormative document published by CEN.",
+    "totalCost": "741851,25",
+    "ecMaxContribution": "492876",
+    "coordinator": "THE UNIVERSITY OF LIVERPOOL",
+    "coordinatorCountry": "UK",
+    "participants": "ATHINA-EREVNITIKO KENTRO KAINOTOMIAS STIS TECHNOLOGIES TIS PLIROFORIAS, TON EPIKOINONION KAI TIS GNOSIS;Dantec Dynamics GmbH;EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+    "participantCountries": "EL;DE;CH",
+    "projectParticipants": {
+        "999980567": {
+            "orgId": "999980567",
+            "orgName": "THE UNIVERSITY OF LIVERPOOL",
+            "ecContrib": 189226
+        },
+        "999907138": {
+            "orgId": "999907138",
+            "orgName": "EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+            "ecContrib": 0
+        },
+        "998427791": {
+            "orgId": "998427791",
+            "orgName": "Dantec Dynamics GmbH",
+            "ecContrib": 162400
+        }
+    },
+    "calculatedTotalContribution": 351626
+}

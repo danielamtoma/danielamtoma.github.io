@@ -1,0 +1,28 @@
+{
+    "rcn": "210353",
+    "acronym": "TestConCert",
+    "topics": "JTI-CS2-2016-CFP04-AIR-01-21",
+    "title": "TestConCert is a future-proof fusion of automation technology using IoT communication strategies with flight test bench control and test management from requirement up to the certification document.",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2018",
+    "objective": "This research program requires automation and flight test technologies. As stipulated in the Clean Sky 2 Workplan the automation area must be TwinCat and Ethercat from Beckhoff for sensor and control of the cooling system. As Beckhoff releases TwinCat 3 with IoT Interfaces at the end of this year, the adaption of configuration data, sensors and additional services to the test environment will be done bei IoT (MQTT) communication. In doing this we get a data cloud where the flight test system can be adapted very easy and flexible. Moreover additional services like distributed error management and visualization can be expanded without influence to other systems. Therefore this research program is a good demonstration of a new generation of test and automation platforms to show much more flexibility in using IoT strategies.\n\nIn using the semantic interoperability of IoT communication the runtime system of the test platform can be adapted without knowledge about the underlying distributed control system. A common configuration data base organizes parameters of the system under test as well as control parameters of the automation area. \n\nThe already existing test environment will be expanded to the requirement of the Clean Sky 2 Workplan. TestConCert will provide an integrated verification environment for system certification according to system requirements. It will control test execution on the test runtime system, provide evaluation of test results based on requirements and full requirements traceability. The test results are populated within automated and customizable reports which can directly be used within certification documents.",
+    "totalCost": "818500",
+    "ecMaxContribution": "572000",
+    "coordinator": "RAZORCAT DEVELOPMENT GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "RST INDUSTRIE AUTOMATION GMBH",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "966996493": {
+            "orgId": "966996493",
+            "orgName": "RST INDUSTRIE AUTOMATION GMBH",
+            "ecContrib": 382000
+        },
+        "917717486": {
+            "orgId": "917717486",
+            "orgName": "RAZORCAT DEVELOPMENT GMBH",
+            "ecContrib": 190000
+        }
+    },
+    "calculatedTotalContribution": 572000
+}

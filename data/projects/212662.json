@@ -1,0 +1,23 @@
+{
+    "rcn": "212662",
+    "acronym": "VSDN",
+    "topics": "MSCA-IF-2016",
+    "title": "Video streaming services with Software-Defined Networking",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2019",
+    "objective": "Recent advances in mobile devices and video streaming services have motivated large-scale media consumption both in fixed and mobile environments. In this context, the main objective of network operators and service providers is to improve the Quality of Experience (QoE) of the end-users by providing high quality services and mechanisms for seamless\nadaptation to the specific network conditions of each user. However, the initial design of the Internet as a best-effort network makes it inappropriate for high-volume and bandwidth-intensive applications, like video streaming, and the centralised architectures employed by the network operators lead to long, non-optimal communication paths between clients and servers, waste of network resources and increased delays. \n\nThe improvement of the QoE of multimedia communication services require novel network architectures and cross-layer adaptation mechanisms. Specifically, at the network layer, Software Defined Networking (SDN) enables the virtualisation of the network functions so that the network operators implement their own rules and policies in software and deploy them in an abstracted and virtualised network infrastructure. At the application layer, the Dynamic Adaptive Streaming over HTTP (DASH) approach enables the seamless adaptation of\nthe video client to the specific network conditions of each user. The understanding of how the network parameters affect the\nhuman perception is a key factor in optimizing the functions in the end-to-end delivery chain. \n\nThe V-SDN project aims at developing a QoE-driven media delivery platform based on network virtualisation functionalities, which takes into account the service utility functions, network topology, link capacities and the specific QoE requirements of each application. The developed QoE-driven media delivery platform will be implemented and demonstrated with an innovative media delivery system employing a novel DASH client, a further key development of the project.",
+    "totalCost": "152653,2",
+    "ecMaxContribution": "152653,2",
+    "coordinator": "ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",
+    "coordinatorCountry": "EL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999896856": {
+            "orgId": "999896856",
+            "orgName": "ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",
+            "ecContrib": 152653
+        }
+    },
+    "calculatedTotalContribution": 152653
+}

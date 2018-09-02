@@ -1,0 +1,33 @@
+{
+    "rcn": "202668",
+    "acronym": "COCTA",
+    "topics": "Sesar-05-2015",
+    "title": "Coordinated capacity ordering and trajectory pricing for better-performing ATM",
+    "startDate": "15/04/2016",
+    "endDate": "14/09/2018",
+    "objective": "COCTA project proposes coordinated economic measures aiming to pre-emptively reconcile air traffic demand and airspace capacity, by acting on both sides of the inequality. In performing demand-capacity balancing COCTA primarily aims to reduce the cost arising from lack of coordination in the ATM system, stemming both from divorced planning horizons of ANSPs and aircraft operators (AOs), and from an inadequate pricing of navigation services. \nANSPs plan their capacities weeks and months in advance, with only very limited and costly possibilities to adjust those on a short notice. On the other side, AOs attach great value to flight planning flexibility and tend to file their route choice decisions only hours before the time of departure. The mismatch between the predictability for ANSPs and flexibility for AOs results in substantial and costly capacity buffers built into ANSP planning decisions. COCTA recognizes this as a major issue and designs mechanisms acting on both sides, to incentivize more cost-efficient outcomes. To make this possible, COCTA envisages a new role for the network manager (NM), supported by re-designed regulatory setting. \nOn capacity side, the NM purchases airspace capacities in line with expected network demand, employing a network-centred, demand driven approach, as opposed to the current, piecemeal and supply-driven practice, which is tailored against local (ANSP) traffic peaks. As a consequence, excessive provision of airspace capacity is to be reduced, with associated cost savings. \nOn the demand side, the NM performs trajectory pricing, offering route menus to AOs, including novel, flexible products, aiming at an appropriate balance between cost-efficiency, delays, environmental impact and equity, without compromising safety. COCTA mechanisms and choice-based mathematical models thus work in a re-designed ATM value chain and optimize multi-criteria objectives, fully complying with multi-dimensional SES policy goals.",
+    "totalCost": "534157,5",
+    "ecMaxContribution": "534157,5",
+    "coordinator": "Univerzitet u Beogradu - Saobracajni fakultet",
+    "coordinatorCountry": "RS",
+    "participants": "HOCHSCHULE WORMS;THE UNIVERSITY OF WARWICK",
+    "participantCountries": "DE;UK",
+    "projectParticipants": {
+        "999976784": {
+            "orgId": "999976784",
+            "orgName": "THE UNIVERSITY OF WARWICK",
+            "ecContrib": 220656
+        },
+        "997736181": {
+            "orgId": "997736181",
+            "orgName": "Univerzitet u Beogradu - Saobracajni fakultet",
+            "ecContrib": 167924
+        },
+        "946930588": {
+            "orgId": "946930588",
+            "orgName": "HOCHSCHULE WORMS",
+            "ecContrib": 145578
+        }
+    },
+    "calculatedTotalContribution": 534158
+}

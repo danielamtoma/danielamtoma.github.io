@@ -1,0 +1,23 @@
+{
+    "rcn": "208115",
+    "acronym": "PhotonICSWARM",
+    "topics": "ERC-2016-COG",
+    "title": "Photonic Integrated Circuits using Scattered Waveguide elements in an Adaptive, Reconfigurable Mesh.",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2022",
+    "objective": "In PhotonICSWARM, I will use silicon photonics technology to build general-purpose, programmable optical chips that rely on topologies of distributed waveguide circuits governed by distributed control algorithms.\n\nIn silicon photonics, optical signals are transported along waveguides on photonic integrated circuits and processed by elements that filter specific wavelengths or modulate signals. Silicon photonics is the choice technology for high-speed communication links, but also for different types of sensors. However, photonic circuits are still very simple compared to today's electronics, because they use connectivity topologies where light follows a single path. \n\nThe optical chip concepts I propose in PhotonICSWARM start from radically different topologies, which will allow 1-2 orders of magnitude scaling in complexity. They are based on tightly interconnected, distributed optical signal paths. This high connectivity will enable much more complex optical functions, and to realise these I will apply adaptive, distributed control algorithms. I will explore different optical waveguide concepts: waveguide meshes, phased arrays, lattices of resonators, lateral leakage and 2-D holographic gratings. These will be fabricated on existing state-of-the-art technology platforms, so PhotonICSWARM will rather revolve around the theory, simulation, design and characterisation methodologies.\n\nWith these distributed photonic circuits I will create programmable photonics that can be applied for many applications, as the optical equivalent of electronic field-programmable gate arrays (FPGA). They can enable on-chip parallel optical signal processing for pattern recognition or real-time encryption of high-bitrate optical data streams. Programmable circuits can speed up the research cycle, taking much less time to test new photonic chip concepts, and over time make integrated photonics accessible to the 'Maker community'.",
+    "totalCost": "1990000",
+    "ecMaxContribution": "1990000",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 1990000
+        }
+    },
+    "calculatedTotalContribution": 1990000
+}

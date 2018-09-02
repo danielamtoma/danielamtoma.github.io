@@ -1,0 +1,48 @@
+{
+    "rcn": "196954",
+    "acronym": "NEMF21",
+    "topics": "FETOPEN-1-2014",
+    "title": "Noisy Electromagnetic Fields - A Technological Platform for Chip-to-Chip Communication in the 21st Century",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "Wireless Chip-to-Chip (C2C) communication and wireless links between printed circuit boards operating as Multiple Input Multiple Output devices need to become dominant features of future generations of integrated circuits and chip architectures. They will be able to overcome the information bottleneck due to wired connections and will lead the semiconductor industry into a new More-Than-Moore era. Designing the architecture of these wireless C2C networks is, however, impossible today based on standard engineering design tools. Efficient modelling strategies for describing noisy electromagnetic fields in complex environments are necessary for developing these new chip architectures and wireless interconnectors. Device modelling and chip optimization procedures need to be based on the underlying physics for determining the electromagnetic fields, the noise models and complex interference pattern. In addition, they need to take into account input signals of modern communication systems being modulated, coded, noisy and eventually disturbed by other signals and thus extremely complex. \nRecent advances both in electrical engineering and mathematical physics make it possible to deliver the breakthroughs necessary to enable this future emerging wireless C2C technology by creating a revolutionary electromagnetic field simulation toolbox. Increasingly sophisticated physical models of wireless interconnects and associated signal processing strategies and new insight into wave modelling in complex environments based on dynamical systems theory and random matrix theory make it possible to envisage wireless communication on a chip level. This opens up completely new pathways for chip design, for carrier frequency ranges as well as for energy efficiency and miniaturisation, which will shape the electronic consumer market in the 21st century.",
+    "totalCost": "3419637,5",
+    "ecMaxContribution": "3419637,25",
+    "coordinator": "THE UNIVERSITY OF NOTTINGHAM",
+    "coordinatorCountry": "UK",
+    "participants": "INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L'ESPACE;TECHNISCHE UNIVERSITAET MUENCHEN;NXP SEMICONDUCTORS FRANCE SAS;IMST GMBH;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR;DE",
+    "projectParticipants": {
+        "999796849": {
+            "orgId": "999796849",
+            "orgName": "IMST GMBH",
+            "ecContrib": 606250
+        },
+        "994873808": {
+            "orgId": "994873808",
+            "orgName": "NXP SEMICONDUCTORS FRANCE SAS",
+            "ecContrib": 393910
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 851425
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 590314
+        },
+        "999892491": {
+            "orgId": "999892491",
+            "orgName": "INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L'ESPACE",
+            "ecContrib": 156722
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 821016
+        }
+    },
+    "calculatedTotalContribution": 3419637
+}

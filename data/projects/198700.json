@@ -1,0 +1,28 @@
+{
+    "rcn": "198700",
+    "acronym": "Con Espressione",
+    "topics": "ERC-ADG-2014",
+    "title": "Getting at the Heart of Things: Towards Expressivity-aware Computer Systems in Music",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "What makes music so important, what can make a performance so special and stirring? It is the things the music expresses, the emotions it induces, the associations it evokes, the drama and characters it portrays. The sources of this expressivity are manifold: the music itself, its structure, orchestration, personal associations, social settings, but also ñ and very importantly ñ the act of performance, the interpretation and expressive intentions made explicit by the musicians through nuances in timing, dynamics etc.\nThanks to research in fields like Music Information Research (MIR), computers can do many useful things with music, from beat and rhythm detection to song identification and tracking. However, they are still far from grasping the essence of music: they cannot tell whether a performance expresses playfulness or ennui, solemnity or gaiety, determination or uncertainty; they cannot produce music with a desired expressive quality; they cannot interact with human musicians in a truly musical way, recognising and responding to the expressive intentions implied in their playing.\nThe project is about developing machines that are aware of certain dimensions of expressivity, specifically in the domain of (classical) music, where expressivity is both essential and ñ at least as far as it relates to the act of performance ñ can be traced back to well-defined and measurable parametric dimensions (such as timing, dynamics, articulation). We will develop systems that can recognise, characterise, search music by expressive aspects, generate, modify, and react to expressive qualities in music. To do so, we will (1) bring together the fields of AI, Machine Learning, MIR and Music Performance Research; (2) integrate theories from Musicology to build more well-founded models of music understanding; (3) support model learning and validation with massive musical corpora of a size and quality unprecedented in computational music research.",
+    "totalCost": "2318750",
+    "ecMaxContribution": "2318750",
+    "coordinator": "UNIVERSITAT LINZ",
+    "coordinatorCountry": "AT",
+    "participants": "OSTERREICHISCHE STUDIENGESELLSCHAFTFUR KYBERNETIK VEREIN",
+    "participantCountries": "AT",
+    "projectParticipants": {
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 1605375
+        },
+        "998335835": {
+            "orgId": "998335835",
+            "orgName": "OSTERREICHISCHE STUDIENGESELLSCHAFTFUR KYBERNETIK VEREIN",
+            "ecContrib": 713375
+        }
+    },
+    "calculatedTotalContribution": 2318750
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "212201",
+    "acronym": "WFNQMC",
+    "topics": "ERC-2017-STG",
+    "title": "Development of a Novel Computational Toolbox for Stochastic Electronic Structure in Chemistry and Condensed Matter",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Atomistic computational modelling is increasingly an integral component of almost all areas of chemistry, physics and materials science, especially as its predictive ability improves. However, not all systems are equal when it comes to the predictive capabilities of current methods, and many systems are too large or many-body effects too complex to be routinely tractable. The result is that the promise of ëmaterials by designí, deduction of reaction pathways or routine simulation on a par with experimental accuracy has not in general come to fruition. This ambitious proposal aims to address this, with development of a suite of novel approaches to stochastically sample the wavefunction. Recent work by the PI has already made huge strides in this direction, with an emerging approach in quantum chemical space having remarkable success for accurate solutions of small problems. Here, we first propose a number of novel developments to order to extend this approach from a tool for small systems to a widespread disruptive technology, with application to a variety of challenging problems. This involves development of the scope, scaling, accuracy and capabilities of this sampling, including admitting time-dependent, spectral and relativistic extensions. Next, we aim to take the successful philosophy of this sampling and exploit its powerful approach in order to reformulate a number of well-established electronic structure tools. Allowing stochasticity has the potential to yield low-scaling formulations of these methods, able to naturally exploit inherent sparsity, and have a revolutionary impact on their use and success. This proposal is highly interdisciplinary, spanning a range of applications and techniques in quantum chemistry, condensed matter and materials science, brought together under the banner of exploiting inherent sparsity by establishing a new paradigm of stochastic tools for correlated electrons, with the opportunity for tremendous impact in a number of fields.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "KING'S COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999981052": {
+            "orgId": "999981052",
+            "orgName": "KING'S COLLEGE LONDON",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

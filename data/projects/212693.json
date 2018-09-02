@@ -1,0 +1,58 @@
+{
+    "rcn": "212693",
+    "acronym": "LIMA",
+    "topics": "SC1-PM-02-2017",
+    "title": "Liquid biopsies and Imaging for improved cancer care",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "LIMAís overall objective is to develop and validate technologies and tools to include liquid biopsies in the clinical workflow, aiming at introducing a more precise and dynamic genetic characterization of tumor at the diagnosis and during treatment phases. This will be done by combining molecular information from liquid biopsies and direct in-vivo tumor characterization from advanced MR imaging, taking into account the current clinical workflow.\nThe LIMA project will be based on following 5 conceptual pillars:\n1. A robust method to measure and genomically analyze ct-DNA for tumor-driving mutations, which can be measured in a quantitative manner allowing therapy response prediction and monitoring.\n2. A workflow for Circulating Tumor Cell isolation and computational model-based quantitative signal pathway analysis on single CTC mRNA expression levels. This allows for assessment of tumor heterogeneity in pathway activity (to relate back to tumor heterogeneity), targeted therapy response prediction and monitoring\n3. Correlation of computational, model-based cancer pathway activity assessment from cancer tissue samples before and after neoadjuvant treatment and from liquid biopsies with MR imaging features.\n4. Advance in MR imaging to better probe and image the cancer lesion and its microenvironment \n5. Clinical analysis, correlating liquid biopsy/imaging ñbased results to clinical outcome, that is the response to (targeted drug) neoadjuvant therapy in selected breast cancer and rectal cancer patients.\nThese 5 pillars will be investigated in longitudinal observational studies that will follow patients undergoing neoadjuvant treatment (either chemotherapy or targeted therapy or the combination) for primary rectal and breast cancer. LIMA will demonstrate that prediction of drug therapy response, monitoring of response and detection of resistance can be improved over the current state of the art.",
+    "totalCost": "6292873,75",
+    "ecMaxContribution": "6292873,75",
+    "coordinator": "PHILIPS ELECTRONICS NEDERLAND B.V.",
+    "coordinatorCountry": "NL",
+    "participants": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE;ALS AUTOMATED LAB SOLUTIONS GMBH;UNIVERSITAIR MEDISCH CENTRUM UTRECHT;ANGLE EUROPE LIMITED;AGENA BIOSCIENCE GMBH;STILLA TECHNOLOGIES;Philips GmbH",
+    "participantCountries": "FR;DE;NL;UK",
+    "projectParticipants": {
+        "999915189": {
+            "orgId": "999915189",
+            "orgName": "UNIVERSITAIR MEDISCH CENTRUM UTRECHT",
+            "ecContrib": 1613630
+        },
+        "941495387": {
+            "orgId": "941495387",
+            "orgName": "ANGLE EUROPE LIMITED",
+            "ecContrib": 471679
+        },
+        "999991625": {
+            "orgId": "999991625",
+            "orgName": "PHILIPS ELECTRONICS NEDERLAND B.V.",
+            "ecContrib": 788250
+        },
+        "951359220": {
+            "orgId": "951359220",
+            "orgName": "ALS AUTOMATED LAB SOLUTIONS GMBH",
+            "ecContrib": 549625
+        },
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 1596875
+        },
+        "919990487": {
+            "orgId": "919990487",
+            "orgName": "AGENA BIOSCIENCE GMBH",
+            "ecContrib": 520090
+        },
+        "936940752": {
+            "orgId": "936940752",
+            "orgName": "Philips GmbH",
+            "ecContrib": 267000
+        },
+        "921020530": {
+            "orgId": "921020530",
+            "orgName": "STILLA TECHNOLOGIES",
+            "ecContrib": 485725
+        }
+    },
+    "calculatedTotalContribution": 6292874
+}

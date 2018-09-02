@@ -1,0 +1,48 @@
+{
+    "rcn": "213148",
+    "acronym": "3D-MUSE",
+    "topics": "ICT-31-2017",
+    "title": "3D Multi-Process Sequential Integration for Smart Sensor Interfaces",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "The IoT is composed of connected devices that are characterized by their interaction with the environment via a plethora of sensors and actuators. The trend goes to ever more complex interactions and thus an increase in the number of different sensors integrated in the same product, which in turn requires the processing capability to handle all of those sensors.\n \nAt the same time those systems are expected to still perform on an ever lower power budget, preferably so low as to be able to operate purely on power scavenging. And of course the cost needs to be moderate too. The electronics at the heart of such a system needs to be mixed-signal electronics that interfaces to the analog sensors and actuators, but can also provide the necessary digital processing power.  \n\n3D-MUSE wants to spearhead   the progression from what we shall refer to as 'systems-in-stack' to true 'systems-in-cube' that monolithic/sequential 3D integration will enable. We define the former as a 3D system that is characterized by locating functional blocks within a single plain in the (typically parallel/wafer-bonding) 3D integration stack, while the latter makes use of the full emancipation of the interconnect density in the third dimension of sequential 3D integration and rather implements functional blocks in a volume comprising multiple tiers. We shall demonstrate this concept by conceiving novel architectures for micro circuits in a volume in a two tier 3D sequential integration process. In particular, we have identified mixed-signal circuits as, on one hand, a major bottleneck for functional performance scaling of sensor nodes and smart sensors in the IoT and cyberphysical systems, and on the other hand, excellent candidates for beneficial trade-offs when implemented as circuits in a volume with using two specialize tiers, one for analog device options and another for optimal digital designs. We shall refer to such a technology as 'multi-process' sequential 3D integration.",
+    "totalCost": "3846157,5",
+    "ecMaxContribution": "3846157,5",
+    "coordinator": "UNIVERSITETET I OSLO",
+    "coordinatorCountry": "NO",
+    "participants": "INSTITUT POLYTECHNIQUE DE GRENOBLE;STMICROELECTRONICS CROLLES 2 SAS;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INTEGRATED DETECTOR ELECTRONICS AS;LUNDS UNIVERSITET",
+    "participantCountries": "FR;NO;SE",
+    "projectParticipants": {
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 590891
+        },
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 393528
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1607729
+        },
+        "999750580": {
+            "orgId": "999750580",
+            "orgName": "STMICROELECTRONICS CROLLES 2 SAS",
+            "ecContrib": 350885
+        },
+        "999875225": {
+            "orgId": "999875225",
+            "orgName": "INSTITUT POLYTECHNIQUE DE GRENOBLE",
+            "ecContrib": 150000
+        },
+        "938053730": {
+            "orgId": "938053730",
+            "orgName": "INTEGRATED DETECTOR ELECTRONICS AS",
+            "ecContrib": 753125
+        }
+    },
+    "calculatedTotalContribution": 3846158
+}

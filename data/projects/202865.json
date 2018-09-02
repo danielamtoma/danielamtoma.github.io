@@ -1,0 +1,23 @@
+{
+    "rcn": "202865",
+    "acronym": "InfTy",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Infinitary Rewriting for Type Systems",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2018",
+    "objective": "Infinite objects are ubiquitous in computer science, e.g., an interactive program may be modelled as taking for input a stream (an infinite list) of requests and producing a stream of responses. In theoretical computer science infinite objects play an important role e.g. in automata theory and exact real number arithmetic. Representing and reasoning about infinite computations is crucial in designing safe software systems.\n\nThe objective of InfTy is to devise mathematical methods for reasoning about programs manipulating infinite objects, developing compositional typed formalisms and integrating them with infinitary rewriting techniques. Our methods will be compositional and applicable to higher-order programs, while still adopting the operational perspective of rewriting, thus opening up a new viewpoint on higher-order typed formalisms for corecursion. We will extend Pure Type Systems with coinductive types, providing a general yet simple theory for type systems with infinite objects and unifying previous type-based and rewriting-based work on productivity. By establishing infinitary normalisation and infinitary confluence for typable terms, we will construct Bˆhm models for type systems with corecursion.\n\nRecently, a coinductive approach to infinitary rewriting has been proposed by Endrullis et al., and coinductive proofs for some results in infinitary rewriting have been developed by the fellow. The coinductive approach simplifies investigations in infinitary rewriting and thus it is our chosen methodology. This approach, which we will further develop, is by itself of high interest to the rewriting community, but our work will also be relevant to the typed lambda calculus and programming languages communities. The supervisor has strong expertise in rewriting, particularly infinitary rewriting. He developed much of the theory of Infinitary Combinatory Reduction Systems crucial for the present proposal.",
+    "totalCost": "200194,8",
+    "ecMaxContribution": "200194,8",
+    "coordinator": "KOBENHAVNS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 200195
+        }
+    },
+    "calculatedTotalContribution": 200195
+}

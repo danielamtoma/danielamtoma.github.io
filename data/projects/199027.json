@@ -1,0 +1,58 @@
+{
+    "rcn": "199027",
+    "acronym": "SUPERTWIN",
+    "topics": "FETOPEN-1-2014",
+    "title": "All Solid-State Super-Twinning Photon Microscope",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2019",
+    "objective": "The goal of the project is to develop the technology foundation for an advanced optical microscope imaging at a resolution beyond the Rayleigh limit, which is set by the photon wavelength. The proposed microscope technique is based on super-twinning photon states (N-partite entangled states) with the de Broglie wavelength equal to a fraction of the photon wavelength. Such microscopy technique will comprise building blocks for object illumination, capturing of scattered twinning photons and data processing. Based on advanced group-III nitride and III-V alloy epitaxial growths and wafer processing techniques we will build the first solid-state emitter of highly entangled photon states, utilizing the cooperative effect of Dicke superradiance (super-fluorescence) emission. Single-photon avalanche detector arrays with data pre-processing capabilities sufficient for capturing high-order field correlation functions of scattered twinning photons will be developed. A dedicated data processing algorithm for extracting the image of an illuminated object from the statistics of scattered twinning photons will complement the hardware. The project goal is to demonstrate imaging at 42 nm spatial resolution using 5-partite entangled photons at 420 nm wavelength.  This quantum imaging technology will open the way for compact, portable, super-resolution microscope techniques, with no moving parts and no requirements to the optical properties of the sample.",
+    "totalCost": "3939516,25",
+    "ecMaxContribution": "3925921,75",
+    "coordinator": "FONDAZIONE BRUNO KESSLER",
+    "coordinatorCountry": "IT",
+    "participants": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;UNIVERSITAET BERN;LFOUNDRY SRL;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;SINGLE QUANTUM BV;B.I. Stepanov Institute of Physics of the National Academy of Sciences of Belarus;III-V LAB;A.P.E. RESEARCH SRL",
+    "participantCountries": "CH;IT;NL;BY;FR",
+    "projectParticipants": {
+        "952944491": {
+            "orgId": "952944491",
+            "orgName": "SINGLE QUANTUM BV",
+            "ecContrib": 218750
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 554750
+        },
+        "998354362": {
+            "orgId": "998354362",
+            "orgName": "A.P.E. RESEARCH SRL",
+            "ecContrib": 297656
+        },
+        "965904273": {
+            "orgId": "965904273",
+            "orgName": "LFOUNDRY SRL",
+            "ecContrib": 434375
+        },
+        "999971546": {
+            "orgId": "999971546",
+            "orgName": "III-V LAB",
+            "ecContrib": 552046
+        },
+        "993674015": {
+            "orgId": "993674015",
+            "orgName": "B.I. Stepanov Institute of Physics of the National Academy of Sciences of Belarus",
+            "ecContrib": 222500
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 468719
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 703025
+        }
+    },
+    "calculatedTotalContribution": 3451821
+}

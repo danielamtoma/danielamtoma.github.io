@@ -1,0 +1,48 @@
+{
+    "rcn": "194934",
+    "acronym": "SoNDe",
+    "topics": "INFRADEV-1-2014",
+    "title": "Solid-State Neutron Detector - A new Neutron Detector for High-Flux Applications",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2019",
+    "objective": "The Solid-State Neutron Detector ñ SoNDe ñ project aims to develop a high-resolution neutron detector technique that will enable the construction of position-sensitive neutron detectors for high-flux sources, such as the upcoming European Spallation Source (ESS). Moreover, by avoiding the use of 3He in this detector the 3He-shortage, which might otherwise impede the construction of such large-scale facilities, can be alleviated. The main features of the envisioned detector technique are:\n\nï High-flux capacity, capable of handling the peak-flux of up-to-date spallation sources.\nï High-resolution down to 3 mm by direct imaging technique, higher resolutions available by interpolation.\nï No beam stop necessary, thus enabling investigations with direct beam intensity.\nï Independence of 3He.\nï Modularity, improving maintenance characteristics of todayís neutron detectors.\n\nDetectors of these kind will be capable of usage in a wide array of neutron instruments at facilities which use neutrons to conduct there research, among them the Institute Laue-Langevin (ILL) in France, the Maier-Leibnitz-Zentrum (MLZ, former FRMII) in Germany, Laboratoire Leon Brillion (LLB) in France and ISIS in the United Kingdom which are in operation at the moment and the upcoming ESS. At these facilities neutrons are used as a probe in a wide array of fields, ranging from material science to develop new and smart materials, chemical and biological science to develop new drugs for improved treatment of a wide range of medical conditions, magnetic studies for the development of future information storage technology to archeology, probing historical artifacts without physically destroying them. All these fields nowadays rely heavily on neutrons scattering facilities in their research and thus are in need of a reliable, high-quality neutron detection technique, which will be able to perform well at the new high-flux facilities such as ESS and simultaneously avoid the problem of 3He shortage.",
+    "totalCost": "3800932,5",
+    "ecMaxContribution": "3800932,5",
+    "coordinator": "FORSCHUNGSZENTRUM JULICH GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INTEGRATED DETECTOR ELECTRONICS AS;LUNDS UNIVERSITET;EUROPEAN SPALLATION SOURCE ERIC;EUROPEAN SPALLATION SOURCE ESS AB",
+    "participantCountries": "FR;NO;SE",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 75469
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 160696
+        },
+        "973478130": {
+            "orgId": "973478130",
+            "orgName": "EUROPEAN SPALLATION SOURCE ESS AB",
+            "ecContrib": 0
+        },
+        "938053730": {
+            "orgId": "938053730",
+            "orgName": "INTEGRATED DETECTOR ELECTRONICS AS",
+            "ecContrib": 397188
+        },
+        "919998053": {
+            "orgId": "919998053",
+            "orgName": "EUROPEAN SPALLATION SOURCE ERIC",
+            "ecContrib": 201250
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 2966330
+        }
+    },
+    "calculatedTotalContribution": 3800933
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "196301",
+    "acronym": "OP3C",
+    "topics": "Space-SME-2014-1",
+    "title": "On board Processing for Compression and Clouds Classification in hyperspectral data",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2015",
+    "objective": "The objective of the overall innovation project is to industrialize a Field Programmable Gate Array (FPGA), which will be installed, on board of satellites carrying hyperspectral sensors and will be capable of\na) Compressing the acquisitions with a 12-22 ratio and\nb) Classifying the cloud cover of these acquisitions \nThe result of the proposed FPGA will be the compressed acquisitions, the cloud coverage mask and a compression structure for direct processing without decompression. The FPGA will provide this way to the operator of the satellite hyperspectral sensor, the ability to optimize the down streaming procedure, on one hand by selecting the proper images to download (in terms of cloud cover) and on the other hand by downloading 12-22 times less data (as a result of the compression elaboration). The above will lead to significant gains in efficiency such as i) lower volume of transmitted images (only the useful ones, in terms of cloud cover),  ii.) less need for storage on-board and flexible acquisition planning, iii.) reduced hardware requirements.\nThe main users are Space Agencies, Satellite Operating Centers, Satellite manufacturers, Hyperspectral sensor manufacturers and Consulting companies for satellite mission planning. \nThe OP3C project aims to study the feasibility of the above mentioned concept in a niche market where there is hardly any completion. The goal of the OP3C project is to study the technologic (user constraints/needs, time needed to have the product ready) and economic viability (market analysis, human resources, capital, infrastructure cost, etc) of the proposed concept to the corresponding industries. The target is to examine how the product can reach TRL9 from the TRL6, which is currently at. Compiling a successful feasibility study, the OP3C project intends to submit for the phase 2 funding in order to implement the derived business plan.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "PLANETEK HELLAS ETAIREIA PERIORISMENIS EFTHYNIS YPIRESIES CHARTOGRAFISIS MESO DORYFOROU",
+    "coordinatorCountry": "EL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998526343": {
+            "orgId": "998526343",
+            "orgName": "PLANETEK HELLAS ETAIREIA PERIORISMENIS EFTHYNIS YPIRESIES CHARTOGRAFISIS MESO DORYFOROU",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

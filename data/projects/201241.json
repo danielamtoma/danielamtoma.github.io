@@ -1,0 +1,23 @@
+{
+    "rcn": "201241",
+    "acronym": "FPGA Accelerators",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Energy Efficient FPGA Accelerators for Graph Analytics Applications",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "It is reported that data centers today consume up to 3 percent of the global electricity usage. This is expected to increase in the upcoming years as the amount of data processed in the cloud increases substantially. An effective way for data centers to achieve better performance and energy efficiency is to perform computation on specialized processing elements. Field programmable gate arrays (FPGAs) enable customization of logic after manufacturing to achieve better energy efficiency compared to general purpose processors. Today, prominent hardware and software companies are investing in data center solutions that integrate FPGAs with CPUs, and significant energy consumption and performance improvements have been demonstrated for several data center applications. However, the main barrier for wide spread adoption of FGPAs in data centers is the cost of programming, which typically requires months of development time by hardware designers. This makes it unaffordable for small-to-medium software companies to effectively utilize the available FPGAs. The purpose of this project is to lower this barrier for emerging graph analytics applications for knowledge discovery and machine learning. The basic idea is to use an abstract interface that allows a domain expert to describe an application as a set of serial functions defined per vertex and/or edge. We propose a customizable implementation template that automatically maps the abstract user functions to massively parallel FPGA implementations. The proposed template will hide from users many low level implementation details such as parallelization, pipelining, synchronization, memory access optimization, race and deadlock avoidance, etc. This will help bridge the gap between high level application descriptions and costly hardware implementations. Our preliminary architecture simulations have shown that the proposed graph processors can achieve significantly better energy efficiency than general purpose processors.",
+    "totalCost": "145845,6",
+    "ecMaxContribution": "145845,6",
+    "coordinator": "Bilkent ‹niversitesi",
+    "coordinatorCountry": "TR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999923628": {
+            "orgId": "999923628",
+            "orgName": "BILKENT UNIVERSITESI VAKIF",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

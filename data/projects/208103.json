@@ -1,0 +1,23 @@
+{
+    "rcn": "208103",
+    "acronym": "DIFFINCL",
+    "topics": "ERC-2016-COG",
+    "title": "Differential Inclusions and Fluid Mechanics",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2022",
+    "objective": "Important problems in science often involve structures on several distinct length scales. Two typical examples are fine phase mixtures in solid-solid phase transitions and the complex mixing patterns in turbulent or multiphase flows. The microstructures in such situations influence in a crucial way the macroscopic behavior of the system, and understanding the formation, interaction and overall effect of these structures is a great scientific challenge. Although there is a large variety of models and descriptions for such phenomena, a recurring issue in the mathematical analysis is that one has to deal with very complex and highly non-smooth structures in solutions of the associated partial differential equations. \n\nA common ground is provided by the analysis of differential inclusions, a theory whose development was strongly influenced by the influx of ideas from the work of Gromov on partial differential relations, building on celebrated constructions of Nash for isometric immersions, and the work of Tartar in the study of oscillation phenomena in nonlinear partial differential equations. A recent success of this approach is provided by my work on the h-principle in fluid mechanics and Onsager's conjecture. Against this background my aim in this project is to go significantly beyond the state of the art, both in terms of the methods and in terms of applications of differential inclusions. One part of the project is to continue my work on fluid mechanics with the ultimate goal to address important challenges in the field: providing an analytic foundation for the K41 statistical theory of turbulence and for the behavior of turbulent flows near instabilities and boundaries. A further aim is to explore rigidity phenomena and to attack several outstanding open problems in the context of differential inclusions, most prominently Morrey's conjecture on quasiconvexity and rank-one convexity.",
+    "totalCost": "1860875",
+    "ecMaxContribution": "1860875",
+    "coordinator": "UNIVERSITAET LEIPZIG",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999854564": {
+            "orgId": "999854564",
+            "orgName": "UNIVERSITAET LEIPZIG",
+            "ecContrib": 1860875
+        }
+    },
+    "calculatedTotalContribution": 1860875
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "193629",
+    "acronym": "GEM",
+    "topics": "ERC-StG-2014",
+    "title": "From Geometry to Motion: inverse modeling of complex mechanical structures",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "With the considerable advance of automatic image-based capture in Computer Vision and Computer Graphics these latest years, it becomes now affordable to acquire quickly and precisely the full 3D geometry of many mechanical objects featuring intricate shapes. Yet, while more and more geometrical data get collected and shared among the communities, there is currently very little study about how to infer the underlying mechanical properties of the captured objects merely from their geometrical configurations.\n\nThe GEM challenge consists in developing a non-invasive method for inferring the mechanical properties of complex objects from a minimal set of geometrical poses, in order to predict their dynamics. In contrast to classical inverse reconstruction methods, my proposal is built upon the claim that 1/ the mere geometrical shape of physical objects reveals a lot about their underlying mechanical properties and 2/ this property can be fully leveraged for a wide range of objects featuring rich geometrical configurations, such as slender structures subject to frictional contact (e.g., folded cloth or twined filaments).\n\nTo achieve this goal, we shall develop an original inverse modeling strategy based upon a/ the design of reduced and high-order discrete models for slender mechanical structures including rods, plates and shells, b/ a compact and well-posed mathematical formulation of our nonsmooth inverse problems, both in the static and dynamic cases, c/ the design of robust and efficient numerical tools for solving such complex problems, and d/ a thorough experimental validation of our methods relying on the most recent capturing tools.\n\nIn addition to significant advances in fast image-based measurement of diverse mechanical materials stemming from physics, biology, or manufacturing, this research is expected in the long run to ease considerably the design of physically realistic virtual worlds, as well as to boost the creation of dynamic human doubles.",
+    "totalCost": "1498570",
+    "ecMaxContribution": "1498570",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 1498570
+        }
+    },
+    "calculatedTotalContribution": 1498570
+}

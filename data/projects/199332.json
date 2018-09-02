@@ -1,0 +1,28 @@
+{
+    "rcn": "199332",
+    "acronym": "HScan",
+    "topics": "JTI-CS2-2014-CFP01-LPA-02-02",
+    "title": "Inspection Sensor and Evaluation Criteria for Assessing the Inner Surface Quality of Holes in CFRP Parts",
+    "startDate": "01/01/2016",
+    "endDate": "31/03/2018",
+    "objective": "The extended use of CFRP parts in aircraft construction (e.g. Airbus A350) requires improved process technologies for the drilling of holes in carbon fibre composites. For the assembly of hull components than 10.000 holes need to be drilled. This project aims at the development of a machine-vision-based inspection tool for the inspection of the inner surface of bores and at the definition of the related quality criteria. The concept is based on a combination of an endoscopic inspection system with photometric stereo. This enables the robust distinction of different characteristic properties in the bores and has a good chance for later automation of the inspection process. Quality criteria will be defined using expert knowledge from previous projects, standards and literature. This knowledge will be extended with experimental data extracted from test parts by using machine learning methods. An evaluation of the inspection tool in an industrial environment will conclude the project. The main result will be a prototype of the inspection tool and a set of quality criteria and rules that are proposed for the quality assessment of the inner surface bores.\nThe developments will be done in such a way that the automation of the inspection process, e.g. by combining it with coordinate measurement systems is possible. This will have impact on the efficiency of drilling methods, specifically of drilling of mixed material stacks such as carbon fibre and titanium. The automatic documentation of surface quality will enable an increase in the efficiency of drilling processes.",
+    "totalCost": "425950",
+    "ecMaxContribution": "370637,88",
+    "coordinator": "PROFACTOR GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "FISCHER ADVANCED COMPOSITE COMPONENTS AG*FACC AG",
+    "participantCountries": "AT",
+    "projectParticipants": {
+        "999771241": {
+            "orgId": "999771241",
+            "orgName": "FISCHER ADVANCED COMPOSITE COMPONENTS AG*FACC AG",
+            "ecContrib": 129062
+        },
+        "999610221": {
+            "orgId": "999610221",
+            "orgName": "PROFACTOR GMBH",
+            "ecContrib": 241576
+        }
+    },
+    "calculatedTotalContribution": 370638
+}

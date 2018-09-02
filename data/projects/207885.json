@@ -1,0 +1,23 @@
+{
+    "rcn": "207885",
+    "acronym": "STRUGGLE",
+    "topics": "ERC-2016-COG",
+    "title": "Statistical physics of immune-viral co-evolution",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2022",
+    "objective": "The immune system within each individual host destroys viruses, which manage to escape immunity on the global scale. Recent experiments show population-level responses of both immune repertoires and viruses, and a history dependence of their functional phenotypes. This constrained long-term co-evolution of immune receptor and viral populations is a stochastic many-body problem occurring at many scales, in which the response emerges based on the past states of both the repertoire and viral populations. STRUGGLE infers the details of viral-immune receptor interactions from functional datasets to obtain a predictive statistical model of co-evolution between immune repertoires and viruses.\n\nSTRUGGLE covers the many scales of immune-virus interactions: from the molecular level, analyzing high-throughput mutational screens of libraries of antibodies binding a given antigen, through the population-level response of immune repertoires, analyzing next-generation sequencing of vaccine-stimulated whole repertoires, to the population level, modeling the long term co-evolution of both repertoires and viruses.\n\nSTRUGGLE combines a statistical data analysis approach with cross-scale many-body physics to: \n- build a molecular model for antigen-receptor binding;\n- learn statistical models for repertoire-level response to viral antigen stimulation;\n- validate dynamical models of interactions between antigen and immune receptors;\n- theoretically evaluate the predictive power of the immune system and viruses;\n- and predict virus strains and immune responses based on past infections.\n\nThe outcomes of STRUGGLE include the quantitative characterization of the human T-cell response to flu vaccines, with implications for vaccination strategies, and the trout B-cell response to life-threatening rhabdoviruses, which aids vaccine design for fish, with wide use in agriculture. The statistical properties of the co-evolutionary process are needed for informed development of immunotherapies.",
+    "totalCost": "1909750",
+    "ecMaxContribution": "1909750",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1909750
+        }
+    },
+    "calculatedTotalContribution": 1909750
+}

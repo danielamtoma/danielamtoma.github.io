@@ -1,0 +1,23 @@
+{
+    "rcn": "196256",
+    "acronym": "ADS Project",
+    "topics": "ICT-37-2014-1",
+    "title": "Autonomous Dronistics for Security (ADS): optimized services with fleets of flying robots",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2015",
+    "objective": "Flying drones promise to replace many civilian services currently requiring humans by means of robots performing product delivery, agricultural monitoring, inspections and maintenance, damage assessments. For this vision to be concretized, drones need to be safe, reliable, available on demand and most importantly fully automatic. This revolution is facing three challenges: the design of services that are possible to be executed within the regulations; the development of landing stations that the drones can exploit as docking point to recharge their batteries; the development of a master-control software that deals with coordination and optimization of the flights and operations of the drones performing the service.\nThe project Autonomous Dronistics for Security (ADS) is addressing the key technical challenges that all drone automation companies are facing today and that, if solved, will open the drone services market to existing and new industries. ADS innovation will solve these challenges by the use of a platform managing transparently operations with small multi-copters and a network of landing/recharge stations. The ADS system controls navigation, video feeds from the drones, and the operation strategy in a fault tolerant and law-abiding way. The software is able to program the flight plan best for each individual drone taking into account dynamically its role in the overall mission; The hardware ensures a permanent operation of the drones despite the limited autonomy and range of drones. The development of this innovation will allow for the first time to coordinate and manage in a fully automated way fleets of drones. The feasibility study of ADS focuses on one particular business case: the use of drones for automatic video-surveillance and alarm response.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ARCHON TECHNOLOGIES SRL",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "938175077": {
+            "orgId": "938175077",
+            "orgName": "ARCHON TECHNOLOGIES SRL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

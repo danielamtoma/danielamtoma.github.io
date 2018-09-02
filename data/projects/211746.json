@@ -1,0 +1,23 @@
+{
+    "rcn": "211746",
+    "acronym": "SAHR",
+    "topics": "ERC-2016-ADG",
+    "title": "Skill Acquisition in Humans and Robots",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Society is rapidly opening its doors to robots in our daily life with autonomous vehicles, rehabilitation devices and autonomous appliances. These robots will face unexpected changes in their environment, to which they will have to react immediately and appropriately. Even though robots exceed largely humansí precision and speed of computation, they are far from matching humansí capacity to adapt rapidly to unexpected changes. In the past decades, robotics has made leaps forward in the design of increasingly complex robotic platforms to meet these challenges. In this endeavour, it has benefited from advances in optimization for solving high-dimensional constrained problems and in machine learning (ML) to analyse vast amounts of data. These methods are powerful for planning in slow-paced tasks and when the environment is known. This project addresses a growing need for methods that show fast and on-line reactivity. \nWe design controllers that can plan at run time and adapt to new environmental constraints. We offer a novel approach to robot learning that follows stages of skill acquisition in humans. To inform modelling, we conduct a longitudinal study of the acquisition of dexterous bimanual skills in craftsmanship. We study how humans exploit task uncertainty to overcome their sensory-motor noise, and how humans learn bimanual synergies to reduce the control variables. This study informs the design of novel learning strategies for robots that exploit failures as much as successes. We combine planning and ML to learn feasible control laws, retrievable at run time with no need for further optimization. We exploit properties of dynamical systems (DS), which have received little attention in robot control, and use ML to identify characteristics of DS, in ways that were not explored to date. The approach is assessed in live demonstrations of coordinated adaptation of a multi-arm/hand robotic system engaged in a fast-paced industrial task, in the presence of humans.",
+    "totalCost": "2492036",
+    "ecMaxContribution": "2492036",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 2492036
+        }
+    },
+    "calculatedTotalContribution": 2492036
+}

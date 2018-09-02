@@ -1,0 +1,68 @@
+{
+    "rcn": "194872",
+    "acronym": "PANORAMIX",
+    "topics": "DS-01-2014",
+    "title": "Privacy and Accountability in Networks via Optimized Randomized Mix-nets",
+    "startDate": "01/09/2015",
+    "endDate": "31/01/2019",
+    "objective": "The objective of the PANORAMIX project is the development of a multipurpose infrastructure for privacy-preserving communications based on 'mix-networks' (mix-nets) and its integration into high-value applications that can be exploited by European businesses. Mix-nets protect not only the content of communications from third parties, but also obscure the exact identity of the senders or receivers of messages, through the use of cryptographic relays. Mix-nets are absolutely necessary for implementing strong privacy-preserving systems and protocols. This project directly aims to realize, integrate and demonstrate the use of a European infrastructure for mix-nets in the context of three diverse high-value applications that have clear, measurable, realistic, and achievable objectives. Our objectives are as follows. (Objective 1): Building a Mix-Net Infrastructure for Europe, by creating a European mix-network open-source codebase and infrastructure, (Objective 2): apply our infrastructure to private electronic voting protocols, where anonymity is necessary to guarantee ballot secrecy, and verifiability is needed for holding fair, transparent and trustworthy elections; (Objective 3): apply our infrastructure to privacy-aware cloud data-handling, in the context of privacy-friendly surveying, statistics and big data gathering protocols, where protecting the identity of the surveyed users is necessary to elicit truthful answers and incentivize participation; (Objective 4): apply our infrastructure to privacy-preserving messaging, where two or more users may communicate privately without third parties being able to track what is said or who-is-talking-to-whom. PANORAMIX facilitates a genuine collaboration between academia, civil society and industry bringing together a team of researchers from academia with a proven track record on privacy technologies and industry in domains where privacy technologies can have a very high impact.",
+    "totalCost": "4459711,43",
+    "ecMaxContribution": "3796625",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "GREENHOST;TARTU ULIKOOL;ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON;ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE;SAP SE;VIKINGCO;CENTER FOR THE CULTIVATION OF TECHNOLOGY GEMEINNUTZIGE GMBH;UNIVERSITY COLLEGE LONDON;KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "participantCountries": "NL;EE;EL;DE;BE;UK",
+    "projectParticipants": {
+        "937031350": {
+            "orgId": "937031350",
+            "orgName": "GREENHOST",
+            "ecContrib": 502950
+        },
+        "999895013": {
+            "orgId": "999895013",
+            "orgName": "TARTU ULIKOOL",
+            "ecContrib": 392175
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 202000
+        },
+        "916469193": {
+            "orgId": "916469193",
+            "orgName": "CENTER FOR THE CULTIVATION OF TECHNOLOGY GEMEINNUTZIGE GMBH",
+            "ecContrib": 307250
+        },
+        "955162493": {
+            "orgId": "955162493",
+            "orgName": "VIKINGCO",
+            "ecContrib": 53127
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 513948
+        },
+        "999911212": {
+            "orgId": "999911212",
+            "orgName": "SAP SE",
+            "ecContrib": 389200
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 519862
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 450000
+        },
+        "999937887": {
+            "orgId": "999937887",
+            "orgName": "ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE",
+            "ecContrib": 466112
+        }
+    },
+    "calculatedTotalContribution": 3796624
+}

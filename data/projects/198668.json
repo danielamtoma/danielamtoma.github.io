@@ -1,0 +1,123 @@
+{
+    "rcn": "198668",
+    "acronym": "FASTNET",
+    "topics": "NFRP-02-2014",
+    "title": "FAST Nuclear Emergency Tools (FASTNET)",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2019",
+    "objective": "When dealing with emergency, two issues with fully different time requirements and operational objectives, and thus different methods and tools, have to be considered: emergency preparedness and emergency response. This project will address both issues by combining the efforts of organizations active in these two areas to make already identified deterministic reference tools and methods a decisive step toward. In particular capabilities of these methods and tools will be extended to tackle main categories of accident scenarios in main types of operating or foreseen water-cooled NPPs in Europe, including Spent Fuel Pools. A first task will be the identification of these categories of scenario, the proposition of a methodology for their description and the development of a database of scenarios. Building this database will constitute a first important step in the harmonisation goal defended in this project. Promising probabilistic approaches based on Bayesian Belief Networks (BBN) are currently developed to complement operational deterministic methodologies and tools by contributing to diagnosis accidental situations. The development of the methodologies will be pursued in this project with the extension of the existing deterministic ones to European reactors. Both approaches will be assessed against the above mentioned database of scenarios. Finally a comprehensive set of emergency exercises will be developed and proposed to be run by a large set of partners. A first series of exercises will address source term evaluations that will be compared to the reference source terms from the scenarios database. Then a second series of exercises will be proposed on the same scenarios that will be used for the first series but accounting for the main emergency objective : to protect the populations. Progresses made by the methods and tools developed within this project will be notably assessed by comparing the results obtained in these two series of exercises.",
+    "totalCost": "4684632,14",
+    "ecMaxContribution": "2831910",
+    "coordinator": "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE",
+    "coordinatorCountry": "FR",
+    "participants": "U.S. Nuclear Regulatory Commission;PETER CARNY;LLOYD'S REGISTER CONSULTING - ENERGY AB;BEL V;ELECTRICITE DE FRANCE;SATEILYTURVAKESKUS;SCIENTIFIC AND ENGINEERING CENTRE FOR NUCLEAR AND RADIATION SAFETY;NORWEGIAN RADIATION PROTECTION AUTHORITY;CENTRO DE INVESTIGACIONES ENERGETICAS, MEDIOAMBIENTALES Y TECNOLOGICAS-CIEMAT;AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE;BEREDSKABSSTYRELSEN;KARLSRUHER INSTITUT FUER TECHNOLOGIE;CANADIAN NUCLEAR SAFETY COMMISSION;UNIVERSITAET FUER BODENKULTUR WIEN;STRALSAKERHETSMYNDIGHETEN;UNIVERSITAET STUTTGART;REGIA AUTONOMA TEHNOLOGII PENTRU ENERGIA NUCLEARA - RATEN;LIETUVOS ENERGETIKOS INSTITUTAS;UJV REZ, a. s.;JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+    "participantCountries": "US;SK;SE;BE;FR;FI;RU;NO;ES;IT;DK;DE;CA;AT;RO;LT;CZ",
+    "projectParticipants": {
+        "999618854": {
+            "orgId": "999618854",
+            "orgName": "BEREDSKABSSTYRELSEN",
+            "ecContrib": 94687
+        },
+        "999988521": {
+            "orgId": "999988521",
+            "orgName": "AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE",
+            "ecContrib": 149939
+        },
+        "998120689": {
+            "orgId": "998120689",
+            "orgName": "U.S. Nuclear Regulatory Commission",
+            "ecContrib": 0
+        },
+        "999480726": {
+            "orgId": "999480726",
+            "orgName": "INSTITUT DE RADIOPROTECTION ET DE SURETE NUCLEAIRE",
+            "ecContrib": 837351
+        },
+        "999992304": {
+            "orgId": "999992304",
+            "orgName": "JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+            "ecContrib": 267031
+        },
+        "998081501": {
+            "orgId": "998081501",
+            "orgName": "NORWEGIAN RADIATION PROTECTION AUTHORITY",
+            "ecContrib": 0
+        },
+        "999517683": {
+            "orgId": "999517683",
+            "orgName": "LIETUVOS ENERGETIKOS INSTITUTAS",
+            "ecContrib": 77344
+        },
+        "999735642": {
+            "orgId": "999735642",
+            "orgName": "LLOYD'S REGISTER CONSULTING - ENERGY AB",
+            "ecContrib": 353318
+        },
+        "999926829": {
+            "orgId": "999926829",
+            "orgName": "ELECTRICITE DE FRANCE",
+            "ecContrib": 92625
+        },
+        "966094490": {
+            "orgId": "966094490",
+            "orgName": "CANADIAN NUCLEAR SAFETY COMMISSION",
+            "ecContrib": 0
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 0
+        },
+        "999477428": {
+            "orgId": "999477428",
+            "orgName": "UJV REZ, a. s.",
+            "ecContrib": 69732
+        },
+        "999614877": {
+            "orgId": "999614877",
+            "orgName": "CENTRO DE INVESTIGACIONES ENERGETICAS, MEDIOAMBIENTALES Y TECNOLOGICAS-CIEMAT",
+            "ecContrib": 136322
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 234844
+        },
+        "937583377": {
+            "orgId": "937583377",
+            "orgName": "PETER CARNY",
+            "ecContrib": 125859
+        },
+        "999460744": {
+            "orgId": "999460744",
+            "orgName": "SATEILYTURVAKESKUS",
+            "ecContrib": 59900
+        },
+        "936507550": {
+            "orgId": "936507550",
+            "orgName": "SCIENTIFIC AND ENGINEERING CENTRE FOR NUCLEAR AND RADIATION SAFETY",
+            "ecContrib": 0
+        },
+        "999987357": {
+            "orgId": "999987357",
+            "orgName": "UNIVERSITAET FUER BODENKULTUR WIEN",
+            "ecContrib": 85178
+        },
+        "949436777": {
+            "orgId": "949436777",
+            "orgName": "REGIA AUTONOMA TEHNOLOGII PENTRU ENERGIA NUCLEARA - RATEN",
+            "ecContrib": 59062
+        },
+        "993882080": {
+            "orgId": "993882080",
+            "orgName": "STRALSAKERHETSMYNDIGHETEN",
+            "ecContrib": 64031
+        },
+        "967746400": {
+            "orgId": "967746400",
+            "orgName": "BEL V",
+            "ecContrib": 124687
+        }
+    },
+    "calculatedTotalContribution": 2831910
+}

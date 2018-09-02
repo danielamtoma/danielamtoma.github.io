@@ -1,0 +1,28 @@
+{
+    "rcn": "207856",
+    "acronym": "THz-FRaScan-ESR",
+    "topics": "ERC-2016-STG",
+    "title": "THz Frequency Rapid Scan ñ Electron Spin Resonance spectroscopy for spin dynamics investigations of bulk and surface materials (THz-FRaScan-ESR)",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Current high frequency electron spin resonance (HFESR) instruments suffer from the disadvantages of being limited to a single frequency and to tiny sample volumes. The study of spin dynamics at frequencies beyond a few hundred gigahertz is currently prohibitively difficult. These limitations are now preventing progress in dynamic nuclear polarization (DNP) and preclude the implementation of zero-field quantum computing. In order to revolutionize sensitivity in nuclear magnetic resonance (NMR) and magnetic resonance imaging (MRI) by means of DNP techniques allowing to watch in real time molecular interactions or even to monitor how sophisticated systems (ribosomes) work, the HFESR methods have to be substantially improved. I will develop a novel and worldwide unique technique called broadband terahertz frequency rapid scan (FRaScan) ESR. I intend to implement this method into a working prototype, which will seamlessly span the entire frequency range from 100 GHz to 1 THz, and allow spin dynamics investigation of large samples. This revolutionary new concept based on rapid frequency sweeps will remove all the restrictions and limitations of conventional HFESR methods used nowadays. It will enable for the first time multi-frequency studies of quantum coherence also in zero magnetic field. It will lead to substantial increases in sensitivity and concurrent decrease of measurement time, thus allowing more efficient use of resources. Finally, the method will allow identification of novel DNP signal enhancement agents, ultimately leading to a step change improvement of the MRI method. It will drastically shorten MRI scan times in hospitals, greatly enhancing patient comfort together with significantly better and precise diagnoses. The method will lead to zero field quantum computers with computation power which will be never reached with conventional technology. In summary it will lead to impacts far beyond the scientific community.",
+    "totalCost": "1999874",
+    "ecMaxContribution": "1999874",
+    "coordinator": "VYSOKE UCENI TECHNICKE V BRNE",
+    "coordinatorCountry": "CZ",
+    "participants": "UNIVERSITAET STUTTGART",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 0
+        },
+        "999873091": {
+            "orgId": "999873091",
+            "orgName": "VYSOKE UCENI TECHNICKE V BRNE",
+            "ecContrib": 1999874
+        }
+    },
+    "calculatedTotalContribution": 1999874
+}

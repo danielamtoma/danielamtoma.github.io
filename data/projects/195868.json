@@ -1,0 +1,23 @@
+{
+    "rcn": "195868",
+    "acronym": "STABLE_FABRY",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Calibration of Astronomical Spectrographs with Stabilized Fabry-Perot Etalons",
+    "startDate": "15/04/2016",
+    "endDate": "14/04/2018",
+    "objective": "The ìholy grailî of exoplanet research today is the detection of an Earth-like planet in the habitable zone of a Sun-like star. Doppler spectroscopy is an indispensable tool for finding and characterizing extrasolar planets; however, detecting an Earth twin by measuring the radial velocity (RV) perturbation it imposes on the parent star requires nearly one order of magnitude better RV precision than the best current spectrographs provide. A key component in addressing the limitations of existing instruments is the development of extremely precise calibration light sources that can be used to track drifts and imperfections of the spectrograph, removing them from the science data. A stable, reliable, and relatively inexpensive calibrator solves a ìchicken and eggî problem in the field ñ motivating the building of more stable spectrographs, secure in the knowledge that they will be able to perform to their potential. Project STABLE_FABRY consists of developing a novel calibration technique that can be applied to a wide range of high resolution spectrographs. This technique uses a broadband Fabry-Perot etalon to provide the calibration spectrum; the etalon is stabilized by referencing it to an atomic transition using standard laser spectroscopy methods. Our preliminary work already indicates that a stability of 3 cm/s can be reached with this method, making it precise enough for detection of Earth-like planets. The only other currently available calibration technology with demonstrated precision at that level is the laser frequency comb, which is an order of magnitude more complex and significantly more expensive. Our technique can easily be adapted to different echelle spectrographs in the visible and near infrared by simply using an etalon optimized for that particular spectrograph. Developing this concept into an observatory-ready system will present a major breakthrough for high precision spectrographs, enabling detections of Earth twins with Doppler spectroscopy.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999987648": {
+            "orgId": "999987648",
+            "orgName": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

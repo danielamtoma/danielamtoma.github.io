@@ -1,0 +1,17 @@
+{
+    "rcn": "214362",
+    "acronym": "Browsec",
+    "topics": "ERC-2017-COG",
+    "title": "Foundations and Tools for Client-Side Web Security",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2023",
+    "objective": "The constantly increasing number of attacks on web applications shows how their rapid development has not been accompanied by adequate security foundations and demonstrates the lack of solid security enforcement tools.  Indeed, web applications expose a gigantic attack surface, which hinders a rigorous understanding and enforcement of security properties.  Hence, despite the worthwhile efforts to design secure web applications, users for a while will be confronted with vulnerable, or maliciously crafted, code.  Unfortunately, end users have no way at present to reliably protect themselves from malicious applications. \n\nBROWSEC will develop a holistic approach to client-side web security, laying its theoretical foundations and developing innovative security enforcement technologies.  In particular, BROWSEC will deliver the first client-side tool to secure web applications that is practical, in that it is implemented as an extension and can thus be easily deployed at large, and also provably sound, i.e., backed up by machine-checked proofs that the tool provides end users with the required security guarantees.  At the core of the proposal lies a novel monitoring technique, which treats the browser as a blackbox and intercepts its inputs and outputs in order to prevent dangerous information flows.  With this lightweight monitoring approach, we aim at enforcing strong security properties without requiring any expensive and, given the dynamic nature of web applications, statically infeasible program analysis.\n\nBROWSEC is thus a multidisciplinary research effort, promising practical impact and delivering breakthrough advancements in various disciplines, such as web security, JavaScript semantics, software engineering, and program verification.",
+    "totalCost": "1990000",
+    "ecMaxContribution": "1990000",
+    "coordinator": "TECHNISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

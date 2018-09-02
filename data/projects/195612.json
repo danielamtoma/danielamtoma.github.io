@@ -1,0 +1,28 @@
+{
+    "rcn": "195612",
+    "acronym": "SpikeControl",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Cerebellar Spiking Model For Real-time Closed-loop Sensorimotor Control",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2017",
+    "objective": "Understanding how the brain processes and represents information is at the core of experimental studies of the Central Nervous System (CNS). A network of brain subsystems mediates information processing through distributed neural computation and dynamic patterns of neural activity. Over the last decades, studying how these patterns are elicited in the CNS under specific behavioural tasks has become a break through research topic in integrative neuroscience. These specific tasks are related to the concept of embodied cognition, according to which the primary goal of the CNS is to solve and facilitate the body-environment interaction. \nThis project focuses on the cerebellum, a brain region that plays a crucial role in body-environment interaction, with a primary function related to adaptive motor control and coordination. The functional characteristics of the cerebellum make it a perfect candidate to start modelling and building an embodied nervous system. The cerebellar capability of performing adaptive information processing mediating sensorimotor control will be evaluated in specific tasks. Additionally, the emergence of cognitive-like representations will be studied by focusing on how models of the environment/tools can be acquired through a closed-loop sensorimotor interaction. \nThis project sets forth a multidisciplinary methodology combining neuromimetic models and embodied neurorobotics. Simulated neural models and robotic experiments will guarantee full access to the system properties, which will be assessed through both qualitative and quantitative performance indicators to facilitate a constructive cross-validation against neurophysiological data. This approach will also allow us to predict new functional roles of specific cell/network/topology properties. \nThe goal of this project lies on moving forward the knowledge frontiers in integrative neuroscience and biological control, thus boosting the candidate position at the cutting-edge of these fields.",
+    "totalCost": "173076",
+    "ecMaxContribution": "173076",
+    "coordinator": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 173076
+        }
+    },
+    "calculatedTotalContribution": 173076
+}

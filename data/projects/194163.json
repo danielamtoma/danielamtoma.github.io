@@ -1,0 +1,58 @@
+{
+    "rcn": "194163",
+    "acronym": "IOSTACK",
+    "topics": "ICT-07-2014",
+    "title": "Software Defined Storage for Big Data",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The main objective is to create IOStack: a Software Defined Storage toolkit for Big Data on top of the OpenStack platform. IOStack will enable efficient execution of virtualized analytics applications over virtualized storage resources thanks to flexible, automated, and low cost data management models based on software defined storage (SDS). Major challenges are:\n\n1) Storage and compute disaggregation and virtualization. \nVirtualizing data analytics to reduce costs implies disaggregation of existing hardware resources. \nThis requires the creation a virtual model for compute, storage and networking that allows orchestration\ntools to manage resources in an efficient manner.  We will provide policy-based provisioning tools so that the provisioning of virtual components for the analytics platform is made according to the set of QoS policies.\n\n2) SDS Services for Analytics.  \nThe objective is to define, design, and build a stack of SDS data services enabling virtualized analytics services with improved performance and usability. Among these services we include native object store analytics that will allow running analytics close to the data without taxing initial migration, data reduction services, specialized persistent caching mechanisms, advanced prefetching, and data placement.\n\n3) Orchestration and deployment of big data analytics services. \nThe objective is to design and build efficient deployment strategies for virtualized analytic-as-a-service instances (both ephemeral and permanent). In particular, the focus of this work is on data-intensive systems such as Apache Hadoop and Apache Spark, which enable users to define both batch and latency-sensitive analytics. This objective includes the design of scalable algorithms that strive at optimizing a service-wide objective function (e.g., optimize performance, minimize cost) under different workloads.\n\nFinally, we will create a SDS toolkit for Big Data on top of the OpenStack projects Sahara, Cinder, Nova and Swift.",
+    "totalCost": "3318624",
+    "ecMaxContribution": "3318624",
+    "coordinator": "UNIVERSITAT ROVIRA I VIRGILI",
+    "coordinatorCountry": "ES",
+    "participants": "MPSTOR Limited;ARCTUR RACUNALNISKI INZENIRING DOO;GRIDPOCKET SAS;IDIADA AUTOMOTIVE TECHNOLOGY SA;EURECOM;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "IE;SI;FR;ES;IL",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 397250
+        },
+        "984492383": {
+            "orgId": "984492383",
+            "orgName": "GRIDPOCKET SAS",
+            "ecContrib": 205750
+        },
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 496848
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 788352
+        },
+        "940901068": {
+            "orgId": "940901068",
+            "orgName": "MPSTOR Limited",
+            "ecContrib": 620625
+        },
+        "999880560": {
+            "orgId": "999880560",
+            "orgName": "UNIVERSITAT ROVIRA I VIRGILI",
+            "ecContrib": 551125
+        },
+        "999788313": {
+            "orgId": "999788313",
+            "orgName": "IDIADA AUTOMOTIVE TECHNOLOGY SA",
+            "ecContrib": 113300
+        },
+        "991568048": {
+            "orgId": "991568048",
+            "orgName": "ARCTUR RACUNALNISKI INZENIRING DOO",
+            "ecContrib": 145375
+        }
+    },
+    "calculatedTotalContribution": 3318625
+}

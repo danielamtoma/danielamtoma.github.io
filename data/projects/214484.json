@@ -1,0 +1,17 @@
+{
+    "rcn": "214484",
+    "acronym": "DAMA",
+    "topics": "MSCA-IF-2017",
+    "title": "Extreme-Scale Data Management",
+    "startDate": "01/11/2018",
+    "endDate": "31/10/2020",
+    "objective": "This project is concerned with the I/O challenges that arise from the convergence between high performance computing (HPC) and big data, two very different paradigms. This convergence is an important topic for the scientific community today, and extreme-scale machines are expected to observe a heterogeneous workload composed of traditional scientific applications and data analytics tasks. \nThe goal of this action is to provide data management for extreme-scale computing environments for the convergence scenario, to benefit both types of workload. The methodology will be an experimental one, and the instrument will be the development of an I/O middleware, the data manager. The data manager will combine storage capacity available in the supercomputer, including NVRAM devices, transparently. Its activities will be optimized by minimizing data movement and applying coordination to avoid performance interference due to concurrency. The most important characteristic of this project among the state-of-the-art is the intelligence to learn and predict applications needs, so storage capacity and data can be available at a close location before the user needs them.\nThe action will benefit from the researcher's experience on parallel I/O for HPC, allied to the host laboratory expertise in in-situ processing, big data, and machine learning. Through this two-year fellowship, the researcher will have the opportunity to expand her knowledge while conducting highly innovative research, what will improve her perspectives for future employment.",
+    "totalCost": "185076",
+    "ecMaxContribution": "185076",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

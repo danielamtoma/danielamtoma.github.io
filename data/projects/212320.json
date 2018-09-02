@@ -1,0 +1,23 @@
+{
+    "rcn": "212320",
+    "acronym": "QUSCO",
+    "topics": "ERC-2017-STG",
+    "title": "Quantum superiority with coherent states",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "The unique features of quantum mechanics enable communication and computation tasks impossible to achieve by classical means. This opens a tremendous potential for enhancing the power, efficiency and security of everyday interactions in our information-based society. The quest of the demonstration in physical systems of quantum superiority has led to milestone implementations, most notably of the distribution of secret keys with unconditional security or of elementary computations such as the efficient sampling of bosonic distributions. \n\nIn this project, we propose to develop and experimentally demonstrate a framework where quantum resources can be used to outperform their classical counterparts for a much larger range of problems than key distribution or boson sampling, with applications in algorithms, cryptography, communications, scheduling, routing, data mining, process monitoring and control or DNA sequencing. The theoretical basis of our framework is decomposed in three well defined elements-circuits, of increasing complexity, which can individually be used for specific quantum enhanced applications and together lead to the demonstration of the holy grail of quantum information science ñ quantum superiority for hard computation algorithms. The implementation of all the elements will be based on a photonic experimental platform exploiting a mapping of quantum information protocols involving multiple quantum bits of information to protocols based on coherent states of light in a superposition of optical modes. This is extremely appealing from a practical point of view and will be fully explored, in particular using silicon photonic technologies that allow for scalable devices involving fast switching operations, compact delay lines, and reconfigurable couplers, the main components of our circuits.\n\nOur project sets a highly ambitious target, providing on the way powerful and readily accessible applications of quantum technologies.",
+    "totalCost": "1494738",
+    "ecMaxContribution": "1494738",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1494738
+        }
+    },
+    "calculatedTotalContribution": 1494738
+}

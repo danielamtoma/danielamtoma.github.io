@@ -1,0 +1,23 @@
+{
+    "rcn": "202577",
+    "acronym": "MOPSA",
+    "topics": "ERC-CoG-2015",
+    "title": "Modular Open Platform for Static Analysis",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "The Mopsa project aims at creating methods and tools to make computer software more reliable.\nProgramming errors are pervasive with results ranging from user frustration to huge economical or human losses. Traditional test-based methods are insufficient to eliminate all errors. The project will develop static analyses able to detect at compile-time whole classes of program defects, leveraging the theory of abstract interpretation to design analyses that are approximate (to scale up to large programs) and sound (no defect is missed). Static analysis has enjoyed recent successes: AstrÈe, an industrial analyzer I have coauthored, was able to prove the absence of run-time error in Airbus software. But such results are limited to the specific, well-controlled context of critical embedded systems. I wish to bring static analysis to the next level: target larger, more complex and heterogeneous software, and make it usable by engineers to improve general-purpose software.\nWe focus on analyzing open-source software which are readily available, complex, widespread, and important from an economical standpoint (they are used in many infrastructures and companies) but also societal and educational ones (promoting the development of verified software for and by citizens). A major target we consider is the set of technologies at the core on Internet on which static analysis could be applied to ensure a safer Internet. The scientific challenges we must overcome include designing scalable analyses producing relevant information, supporting novel popular languages (such as Python), analyzing properties more adapted to the continuous development of software common in open-source. At the core of the project is the construction of an open-source static analysis platform. It will serve not only to implement and evaluate the results of the project, but also create a momentum encouraging the research in static analysis and hasten its adoption in open-source development communities.",
+    "totalCost": "1773750",
+    "ecMaxContribution": "1773750",
+    "coordinator": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 1773750
+        }
+    },
+    "calculatedTotalContribution": 1773750
+}

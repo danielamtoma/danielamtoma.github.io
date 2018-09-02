@@ -1,0 +1,23 @@
+{
+    "rcn": "207115",
+    "acronym": "ADIBAS",
+    "topics": "SMEInst-06-2016-2017",
+    "title": "Auotmatic Digital Biometry Analysis System for musculoskeletal disorders rehabilitation",
+    "startDate": "01/01/2017",
+    "endDate": "30/06/2017",
+    "objective": "Musculoskeletal disorders affect more than 80% of the world population and are one of the most important causes of disability in elders (e.g. rheumatoid arthritis or osteoporosis). Currently, these anomalies are evaluated by Physiotherapists (PT) that use traditional physical examinations to establish suitable rehabilitation plans. Several support tools have been developed recently to obtain faster and more reliable results. However, these tools are either too expensive and voluminous (i.e. multiple cameras) or insufficiently accurate to perform the necessary body measurements (i.e. wearable sensors). PhysicalTech is a technological company specialized in using computer vision techniques for the analysis of body postures.It has designed and developed ADiBAS, an affordable, compact, fast and flexible system that will get rid of the current systems limitations. ADiBAS uses Microsoft KinectTM to obtain the position of specific body markers in a 3D space, which are then analyzed and presented to the PT through proprietary software.\n\nCurrent prototype is already able to perform a static analysis of a patient's posture and has been validated by several therapists in Spain and France. These early adopters have also asked for some improvements, which will be incorporated in the frame of this project: (i) include dynamic postural analysis, (ii) implement medical protocols to monitor patients over time and (iii) define specific patterns for specific disorders.\n\nWith ADiBAS, PhysicalTech wants to achieve the following objectives by 2020:\n\nï Implement a market strategy to reach new EU and international markets\nï Obtain 1,24MÄ in revenues by selling 150 units and 220 licenses in at least 3 countries (Spain, France and Germany)\nï Improve the companyís team capabilities by incorporating 6 persons with complementary profiles (technical, business, commercial)",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "PHYSICALTECH",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "920208058": {
+            "orgId": "920208058",
+            "orgName": "PHYSICALTECH",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

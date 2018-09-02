@@ -1,0 +1,58 @@
+{
+    "rcn": "212889",
+    "acronym": "Net2DG",
+    "topics": "LCE-01-2016-2017",
+    "title": "Leveraging Networked Data for the Digital electricity Grid",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2021",
+    "objective": "Reliable and efficient electricity supply to geographically distributed customers is the main task of the Distribution System Operators (DSOs). An increasing number of grid-related data sources is in principle accessible to DSOs, but this information is in most cases not yet utilized for grid operation. Leveraging measurements and ICT reachability of Smart Meters and grid connected systems (such as Intelligent Electronic Devices) for digital distribution grid operation  is challenging as it requires resilient and secure data collection, and data-quality aware processing and distribution system control solutions.\nThe Net2DG project will develop a proof-of-concept solution based on off-the-shelf computing hardware that uses existing communication technologies to leverage measurement capabilities of Smart Meters and DER inverters deployed in low-voltage (LV) grids. The solution will correlate this data with information from existing DSO subsystems in order to provide novel LV grid observability applications for voltage quality, grid operation efficiency and LV grid outage diagnosis. The resulting observability is subsequently used by specifically developed robust control and coordination approaches, which utilize existing actuation capabilities for voltage quality enhancement and loss minimization in the LV grid.\nThe use of off-the shelf components, the system level resilience and security solution,  and the offered customizability of the Net2DG approach specifically address the needs of small and medium-sized DSOs (less than 100.000 clients). Therefore, the Net2DG solution will make small and medium-sized DSOs early adopters of digital technologies for LV outage diagnosis, grid operation efficiency and voltage quality.  \nThe Net2DG solutions will be developed by a consortium including two small and medium-sized DSOs from two different European countries, academic partners, SME and startup technology companies, as well as Smart Meter and inverter vendors.",
+    "totalCost": "3591872",
+    "ecMaxContribution": "3591872",
+    "coordinator": "AALBORG UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "RESILTECH SRL;TECHNISCHE UNIVERSITAET WIEN;THY-MORS ENERGI SERVICE A/S;KAMSTRUP AS;SCHWEFEL HANS-PETER CHRISTIAN;FRONIUS INTERNATIONAL GMBH;STADT LANDAU A.D. ISAR",
+    "participantCountries": "IT;AT;DK;DE",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 299750
+        },
+        "917698959": {
+            "orgId": "917698959",
+            "orgName": "SCHWEFEL HANS-PETER CHRISTIAN",
+            "ecContrib": 700625
+        },
+        "916257539": {
+            "orgId": "916257539",
+            "orgName": "STADT LANDAU A.D. ISAR",
+            "ecContrib": 87125
+        },
+        "951882632": {
+            "orgId": "951882632",
+            "orgName": "KAMSTRUP AS",
+            "ecContrib": 489062
+        },
+        "995970975": {
+            "orgId": "995970975",
+            "orgName": "FRONIUS INTERNATIONAL GMBH",
+            "ecContrib": 263188
+        },
+        "999669973": {
+            "orgId": "999669973",
+            "orgName": "RESILTECH SRL",
+            "ecContrib": 389250
+        },
+        "940561665": {
+            "orgId": "940561665",
+            "orgName": "THY-MORS ENERGI SERVICE A/S",
+            "ecContrib": 161184
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 1201688
+        }
+    },
+    "calculatedTotalContribution": 3591872
+}

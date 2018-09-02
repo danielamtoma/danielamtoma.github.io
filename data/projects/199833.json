@@ -1,0 +1,73 @@
+{
+    "rcn": "199833",
+    "acronym": "VEGAS",
+    "topics": "COMPET-01-2015",
+    "title": "Validation of European high capacity rad-hard FPGA and software tools",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "VEGAS proposes to address the key challenge of European non-dependence and competitivness regarding rad-hard FPGA for space applications. VEGAS will evaluate (following ESCC rules) and validate the first rad-hard FPGA in 65nm to directly compete with the US offering and reach TRL 7. \nThe VEGAS project sets clear and measurable main objectives to reach a TRL 7 from TRL 5 (end of BRAVE project) as follows:\n1. Validation by end users of rad-hard FPGA developped under the BRAVE project ñ TRL 6 achieved\n2. Space evaluation of the first rad-hard FPGA developped under the BRAVE project ñ TRL 7 achieved\n3. Software CAD tools improvement by including timing and SEE mitigation tools\n\nVEGAS will complement the ongoing ESA funded BRAVE project. BRAVE covers all hardware and software development to reach a first prototype of NG-FPGA-MEDIUM (30k LUTs) and NG-FPGA-LARGE (130k LUTs) . VEGAS will cover all required steps to ESCC evaluate / validate the BRAVE NG-FPGA-MEDIUM and NG-FPGA-LARGE prototype and add additional software tools to reach a competitive software offering.",
+    "totalCost": "3976861,25",
+    "ecMaxContribution": "3975311,25",
+    "coordinator": "NANOXPLORE",
+    "coordinatorCountry": "FR",
+    "participants": "STMICROELECTRONICS S.A.;COMPUTADORAS  REDES E INGENIERIA SA;AIRBUS DEFENCE AND SPACE GMBH;AIRBUS DEFENCE AND SPACE SAS;POLITECNICO DI TORINO;AIRBUS DS GMBH;THALES ALENIA SPACE ESPANA, SA;THALES ALENIA SPACE FRANCE;STMICROELECTRONICS GRENOBLE 2 SAS;UNIVERSIDAD DE SEVILLA",
+    "participantCountries": "FR;ES;DE;IT",
+    "projectParticipants": {
+        "972356422": {
+            "orgId": "972356422",
+            "orgName": "COMPUTADORAS  REDES E INGENIERIA SA",
+            "ecContrib": 239496
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 348750
+        },
+        "941002918": {
+            "orgId": "941002918",
+            "orgName": "NANOXPLORE",
+            "ecContrib": 859834
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 255334
+        },
+        "999991819": {
+            "orgId": "999991819",
+            "orgName": "AIRBUS DEFENCE AND SPACE GMBH",
+            "ecContrib": 225000
+        },
+        "999436494": {
+            "orgId": "999436494",
+            "orgName": "AIRBUS DS GMBH",
+            "ecContrib": 0
+        },
+        "997962094": {
+            "orgId": "997962094",
+            "orgName": "STMICROELECTRONICS GRENOBLE 2 SAS",
+            "ecContrib": 1277548
+        },
+        "999809265": {
+            "orgId": "999809265",
+            "orgName": "AIRBUS DEFENCE AND SPACE SAS",
+            "ecContrib": 125000
+        },
+        "999862518": {
+            "orgId": "999862518",
+            "orgName": "UNIVERSIDAD DE SEVILLA",
+            "ecContrib": 290950
+        },
+        "999701595": {
+            "orgId": "999701595",
+            "orgName": "THALES ALENIA SPACE ESPANA, SA",
+            "ecContrib": 353400
+        },
+        "999909175": {
+            "orgId": "999909175",
+            "orgName": "STMICROELECTRONICS S.A.",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3975312
+}

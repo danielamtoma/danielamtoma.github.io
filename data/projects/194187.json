@@ -1,0 +1,48 @@
+{
+    "rcn": "194187",
+    "acronym": "SWEEPER",
+    "topics": "ICT-23-2014",
+    "title": "Sweet Pepper Harvesting Robot",
+    "startDate": "01/02/2015",
+    "endDate": "31/10/2018",
+    "objective": "In modern greenhouses there is a high demand to automate labour. The availability of a skilled workforce that accepts repetitive tasks in harsh greenhouse climate conditions is decreasing rapidly. The resulting increase in labour costs and reduced capacity puts major pressure on the competitiveness of the European greenhouse sector. Present robotization of  this labour has entered an high level of technological readiness. However, a gap remains which halts the transition from science to economic and societal impact; the so called ëTechnological Innovation Gapí. In the EU-FP7-project CROPS extensive research has been performed on agricultural robotics. One of the applications was a sweet pepper harvesting robot. It was shown that such a robot is economically and technically viable. The proven hardware and software modules (TRL:6) developed in CROPS will be used as the groundwork. The successful CROPS software modules based on the Robotic-Operating-System (ROS) will be maintained and expanded in SWEEPER. Also the gripper end-effector will be retained. This patent pending module is able to grasp the sweet pepper without the need of an accurate measurement of the position and orientation of the fruit. From the CROPS project, also gained knowledge will directly be put to benefit. In several experiments, it turned out that different growers use different cropping systems ranging in crop density. In SWEEPER, the cropping system itself will be optimized to facilitate robotic harvesting. In CROPS it was concluded that instead of a 9DOF, a 4DOF robot arm is sufficient , greatly reducing costs. To improve the level of robotic cognitive abilities, plant models will be applied to approximate  location of sweet peppers. This ìmodel-based visionî will increase and speed up fruit detection. Based on the insights of CROPS, sensors will be placed onto the gripper only. Also a LightField sensor will be introduced which is able to record both colour and 3D information simultaneously.",
+    "totalCost": "4345912,49",
+    "ecMaxContribution": "4028311,5",
+    "coordinator": "STICHTING WAGENINGEN RESEARCH",
+    "coordinatorCountry": "NL",
+    "participants": "PROEFSTATION VOOR DE GROENTETEELT;DE TUINDERSHOEK BV;BEN-GURION UNIVERSITY OF THE NEGEV;B&A AUTOMATION BVBA;UMEA UNIVERSITET;IRMATO INDUSTRIAL SOLUTIONS VEGHEL B.V.",
+    "participantCountries": "BE;NL;IL;SE",
+    "projectParticipants": {
+        "945943128": {
+            "orgId": "945943128",
+            "orgName": "PROEFSTATION VOOR DE GROENTETEELT",
+            "ecContrib": 558387
+        },
+        "941574733": {
+            "orgId": "941574733",
+            "orgName": "IRMATO INDUSTRIAL SOLUTIONS VEGHEL B.V.",
+            "ecContrib": 372502
+        },
+        "999547365": {
+            "orgId": "999547365",
+            "orgName": "STICHTING WAGENINGEN RESEARCH",
+            "ecContrib": 1287284
+        },
+        "999881821": {
+            "orgId": "999881821",
+            "orgName": "UMEA UNIVERSITET",
+            "ecContrib": 876375
+        },
+        "935365278": {
+            "orgId": "935365278",
+            "orgName": "DE TUINDERSHOEK BV",
+            "ecContrib": 105192
+        },
+        "999846222": {
+            "orgId": "999846222",
+            "orgName": "BEN-GURION UNIVERSITY OF THE NEGEV",
+            "ecContrib": 565196
+        }
+    },
+    "calculatedTotalContribution": 3764936
+}

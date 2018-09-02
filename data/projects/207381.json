@@ -1,0 +1,23 @@
+{
+    "rcn": "207381",
+    "acronym": "RACCOON",
+    "topics": "ERC-2016-STG",
+    "title": "A Rigorous Approach to Consistency in Cloud Databases",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "Modern Internet services store data in novel cloud databases, which partition and replicate the data across a large number of machines and a wide geographical span. To achieve high availability and scalability, cloud databases need to maximise the parallelism of data processing. Unfortunately, this leads them to weaken the guarantees they provide about data consistency to applications. The resulting programming models are very challenging to use correctly, and we currently do not have advanced methods and tools that would help programmers in this task.\n\nThe goal of the project is to develop a synergy of novel reasoning methods, static analysis tools and database implementation techniques that maximally exploit parallelism inside cloud databases, while enabling application programmers to ensure correctness. We intend to achieve this by first developing methods for reasoning formally about how weakening the consistency guarantees provided by cloud databases affects application correctness and the parallelism allowed inside the databases. This will build on techniques from the areas of programming languages and software verification. The resulting theory will then serve as a basis for practical implementation techniques and tools that harness database parallelism, but only to the extent such that its side effects do not compromise application correctness.\n\nThe proposed project is high-risk, because it aims not only to develop a rigorous theory of consistency in cloud databases, but also to apply it to practical systems design. The project is also high-gain, since it will push the envelope in availability, scalability and cost-effectiveness of cloud databases.",
+    "totalCost": "1498312",
+    "ecMaxContribution": "1498312",
+    "coordinator": "FUNDACION IMDEA SOFTWARE",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998520426": {
+            "orgId": "998520426",
+            "orgName": "FUNDACION IMDEA SOFTWARE",
+            "ecContrib": 1498312
+        }
+    },
+    "calculatedTotalContribution": 1498312
+}

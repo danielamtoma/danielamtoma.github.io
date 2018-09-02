@@ -1,0 +1,23 @@
+{
+    "rcn": "200140",
+    "acronym": "FURADO",
+    "topics": "JTI-CS2-2014-CFP01-FRC-02-02",
+    "title": "Full Fairing Rotor Head Aerodynamic Design Optimization",
+    "startDate": "01/03/2016",
+    "endDate": "29/02/2020",
+    "objective": "The project is aimed on the numerical design optimization and flow analysis of a semi-watertight full fairing rotor head with respect to drag reduction of a compound helicopter configuration, namely the Low Impact, Fast and Efficient Rotorcraft (LifeRCraft) demonstrator. It has been shown that fully fairing the structural components of the rotor head as a whole provides significant drag reduction potential. The project first phase concentrates on the method development for all consecutive steps. This includes enhancing the existing CFD and optimizer software to be able to automatically optimize the fairing geometries. The software functionality is demonstrated by performing computations of the rotor head blade sleeve fairings, the full-fairing beanie and the pylon fairing for a series of simplified flow conditions. The second phase of the project is dedicated to pre-development of potential rotor head full fairing configurations. A special focus is on preliminary optimisations of the blade sleeves, beanie and hub fairing for forward flight conditions with a non-spinning rotor head. The following development phase addresses two tasks. The first task comprises a refined aerodynamic optimization of promising full fairing configurations under the effect of rotor rotation. Flow conditions inside the fairing are also thermically analyzed to avoid any overheating of components. The second task is on wake flow analysis of the drag-reducing full fairing geometries performing high precision aerodynamic simulations. Strong unsteady airloads on the empennage due to the rotor head wake must be avoided to ensure proper flight dynamics and structural integrity. Consequently, the project results in a seamless integration of the developed software tools into the topic leaders work flow. The complex, CPU-intensive CFD simulations establish a sound data base for full fairing rotor head design and analysis which is not available today.",
+    "totalCost": "399000",
+    "ecMaxContribution": "399000",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 399000
+        }
+    },
+    "calculatedTotalContribution": 399000
+}

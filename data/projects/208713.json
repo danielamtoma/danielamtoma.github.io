@@ -1,0 +1,23 @@
+{
+    "rcn": "208713",
+    "acronym": "FASTR 3D SIM",
+    "topics": "MSCA-IF-2016",
+    "title": "Focus on Advancing Spatial and Temporal Resolution of 3D Structured Illumination Microscopy",
+    "startDate": "06/11/2017",
+    "endDate": "05/11/2019",
+    "objective": "FASTR 3D SIM: Focus on Advancing the Spatial and Temporal Resolution of 3D Structured Illumination Microscopy\n\nSuper-resolved structured illumination microscopy (SR-SIM) is an important method to surpass the resolution limit in fluorescence microscopy. SR-SIM is compatible with many fluorescent labels and ensures low photo-damage, making it an ideal candidate for live-cell imaging. However, to be truly applicable, very fast 3D imaging has to be realized, as the cellular structuring is 3D in nature and fast dynamics have to be captured. In addition, many biological processes occur at length scales below 100nm, beyond SR-SIMs two-fold resolution improvement.\n\nI will develop an advanced 3D SR-SIM microscope able to capture 3D images at video rate, i.e., 25 3D images per second, 10 times quicker  than the fastest currently available systems. The extreme speed-up is achieved by a unique multi-focal optics approach available at the host institute, and will also reduce the photo-toxicity to the sample. My  SIM reconstruction code (www.fairsim.org) will be extended to 3D imaging, and include new algorithms tackling low light levels and strong out-of-focus light.\n\nI will also develop a revolutionary combination of SIM with super-resolution optical fluctuation imaging (SOFI), a specialty of the Dedecker lab. SOFI is employed to create non-linear effects, allowing SIM to surpass its 2x resolution enhancement. This enables rapid and repeatable 3D imaging of cells with a spatial resolution approx. 60 nm in x,y and 150 nm in z.\n\nI will apply the tools to an acute biological question, the dynamics of mitochondrial and ER interactions, used by the cell as signaling scaffolding points. Here both the temporal and spatial resolution of the proposed system is required to observe the very fast dynamics.",
+    "totalCost": "160800",
+    "ecMaxContribution": "160800",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 160800
+        }
+    },
+    "calculatedTotalContribution": 160800
+}

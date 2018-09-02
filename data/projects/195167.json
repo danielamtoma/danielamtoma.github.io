@@ -1,0 +1,23 @@
+{
+    "rcn": "195167",
+    "acronym": "HQSTS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "High-Quality voice model for STatistical parametric speech Synthesis",
+    "startDate": "01/10/2015",
+    "endDate": "31/12/2017",
+    "objective": "A speech analysis/synthesis method aims at representing a speech waveform, produced by a person speaking, as a time sequence of parameters. Based on this time sequence, the speech waveform can be resynthesized. The analysis/synthesis methods are cornerstones for many speech technologies (e.g. text-to-speech, telecommunications, voice restoration). For the majority of applications, these methods need to have two key properties: (i) a high perceived quality of the speech sound, and, (ii) a statistical characterization of the parameters' sequence necessary for statistical approaches, which have attracted great interest during the last decades in speech technologies. The current analysis/synthesis methods that provide a statistical characterization exhibit however a lack of perceived quality. This issue does not pose a problem in applications designed for noisy environments (e.g. navigation devices, smart-phone applications, announcements in train stations). On the contrary, it prohibits the use of statistical approaches in quiet environments, e.g. in the music, cinema and video game industries, where the listener is fully aware of all the details of the sound. This problem is mainly due to the lack of an accurate representation of the phase information and its correlation with the amplitude information. Indeed, recent phase processing tools allowed the description of the phase spectrum properties in a way that shows the drawbacks and limits of current analysis/synthesis methods. Additionally, these same tools are also promising means for modeling the phase information, which is paramount for good quality. The primary goal of the HQSTS project is to create a high-quality analysis/synthesis method that will broaden the applications of statistical approaches of speech technologies in quiet environments, where a high-quality is an absolute necessity.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "209037",
+    "acronym": "BROS",
+    "topics": "MSCA-IF-2016",
+    "title": "Blockchain: a new framework for swarm RObotic Systems",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "Swarms of robots will revolutionize many industrial applications, from targeted material delivery to precision farming. However, the characteristics that make them ideal for certain future applications órobot autonomy, decentralized control, collective emergent behavior, etc.ó can also be an obstacle when transferring this technology from academic institutions to real-world problems. Blockchain, an emerging technology originating in the Bitcoin field, demonstrates that by combining peer-to-peer networks with cryptographic algorithms a group of agents can reach an agreement on a particular state of affairs without the need for a controlling authority. Using a novel combination of blockchain technology and swarm robotics systems, BROS will generate new models to address three fundamental issues by using the robots as nodes in a network and encapsulating their transactions in blocks: First, new security models and methods can be implemented in order to give data confidentiality and entity validation to robot swarms, therefore making them suitable for trust-sensitive applications. Second, distributed decision-making and collaborative missions can be easily designed, implemented, and carried out by using special transactions in the blockchain, which enable robotic agents to vote and reach agreements. Third, robots may be able to function in diverse and changing environments without any change in their control algorithm, if their operation corresponds to different blockchains that use different parameters. In the initial stage, blockchain technology will be used as a main control plane in combination with novel large-scale robot simulation tools such as ARGoS. Finally, the feasibility of the models obtained under the previous objective will be validated in real-robot swarms, outputting a prototypical system that can serve as initial step towards transferring the proposed techniques from the academia into the industry.",
+    "totalCost": "258530,4",
+    "ecMaxContribution": "258530,4",
+    "coordinator": "UNIVERSITE LIBRE DE BRUXELLES",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986290": {
+            "orgId": "999986290",
+            "orgName": "UNIVERSITE LIBRE DE BRUXELLES",
+            "ecContrib": 258530
+        },
+        "998096827": {
+            "orgId": "998096827",
+            "orgName": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 258530
+}

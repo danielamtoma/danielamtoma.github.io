@@ -1,0 +1,23 @@
+{
+    "rcn": "198231",
+    "acronym": "switchlet",
+    "topics": "ERC-ADG-2014",
+    "title": "A multi-resolution theory for systems and control across scales",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "The multi-resolution approach to science and engineering is key to tackle the complexity of systems that span across many temporal and spatial scales. This approach has revolutionized signal processing over the last two decades, most notably through wavelet theory, which builds upon the elementary concept of zooming in and out a mother signal localized in time and frequency. A similar revolution is needed in systems and control to address the most pressing engineering challenges of the 21st century, particularly in the field of medical neuroscience.\n\nOur proposal is to lay the mathematical foundations of a multi-resolution behavioral theory. Multi-resolution behaviors are behaviors that can be modeled, analyzed, controlled, and designed at different resolutions. Our approach is based on the core novel idea that an elementary feedback principle regulates localization. Analogously to the wavelet in signal processing, we introduce the switchlet as an elementary nonlinear feedback system statically localized in range, dynamically localized in space and time. Analogously to filter banks in signal processing, our proposed interconnection theory of switchlets provides specific zooming in and out principles relying on synchronization principles. \n\nThe theory of our proposal is entirely inspired, steered, and benchmarked by the specific application of understanding the  robustness and modulation principles of neuronal behaviors, in collaboration with experimental neuroscientists.  We propose that the multi-resolution organizing principles that we have learned by studying neuronal behaviors provide entirely novel design principles for the control of natural and artificial behaviors across scales. The objective of our proposal is to demonstrate the potential impact of such principles in the emerging age of distributed sensing and actuating technology.",
+    "totalCost": "2497111,25",
+    "ecMaxContribution": "2497111,25",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

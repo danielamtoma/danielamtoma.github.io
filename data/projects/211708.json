@@ -1,0 +1,113 @@
+{
+    "rcn": "211708",
+    "acronym": "OBELICS",
+    "topics": "GV-07-2017",
+    "title": "Optimization of scalaBle rEaltime modeLs and functIonal testing for e-drive ConceptS",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2020",
+    "objective": "As the impact of global warming becomes increasingly clear, the environmental impact of conventional fossil-fueled vehicles is undergoing close scrutiny by authorities and the public; correspondingly electric vehicles and electrified transportation are emerging as the only sustainable alternative to preserving the environment and guaranteeing the mobility needs of the future. Although the switch from conventional to EV represents a major challenge for the automotive industry, with significant obstacles still to be overcome, it also represents a major market and employment opportunity for all the supply chain. Specifically, before their mass deployment can become a reality, it is crucial to guarantee that the real operational performance, safety, reliability, durability and affordability of EVs attain at least the same level as conventional vehicles. Current, state-of-the-art EVs do not reach these targets due to limited technical maturity of key components (eg batteries) and limited available know-how and tools, also in the area of testing and simulation. Today industrial R&D must focus on bringing new, improved mass-production compliant vehicles to the market rapidly, implementing advanced components and architectures for higher operational efficiency: In this context, the OBELICS project address the urgent need for new tools to enable the multi-level modelling and testing of EV and their components in order to deliver more efficient vehicle designs faster while supporting modularity to enable mass production and hence improved affordability. OBELICS aims for a step change in the performance (target: \\ 20%, i.e. from 100 Wh/kg to 120 Wh/kg), efficiency (target: \\ 20%), safety (target: \\ factor 10) and lifetime (target: \\ 30%, i.e. from 100,000 km/8 years to 130,000 km years/11 years) of e-drivetrains and the development time (target: - 40%, i.e. from 5 years to 3 years) and efforts (target: -50%, i.e. from 100 fte and 30 million euro to 50 fte and 15 million euro).",
+    "totalCost": "9077497,5",
+    "ecMaxContribution": "9077497,5",
+    "coordinator": "AVL LIST GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "ROBERT BOSCH GMBH;CENTRO RICERCHE FIAT SCPA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;UNIVERSITA DEGLI STUDI DI FIRENZE;VRIJE UNIVERSITEIT BRUSSEL;SIEMENS INDUSTRY SOFTWARE SAS;KEMIJSKI INSTITUT;Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH;SIEMENS INDUSTRY SOFTWARE NV;UNIRESEARCH BV;FH JOANNEUM GESELLSCHAFT MBH;FORD OTOMOTIV SANAYI ANONIM SIRKETI;AVL SOFTWARE AND FUNCTIONS GMBH;UNIVERSITY OF SURREY;VALEO EQUIPEMENTS ELECTRIQUES MOTEUR SAS;UNIVERZA V LJUBLJANI;RENAULT TRUCKS SAS",
+    "participantCountries": "DE;IT;FR;BE;SI;AT;NL;TR;UK",
+    "projectParticipants": {
+        "999732150": {
+            "orgId": "999732150",
+            "orgName": "VALEO EQUIPEMENTS ELECTRIQUES MOTEUR SAS",
+            "ecContrib": 661625
+        },
+        "999770950": {
+            "orgId": "999770950",
+            "orgName": "SIEMENS INDUSTRY SOFTWARE NV",
+            "ecContrib": 770438
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 870562
+        },
+        "996072437": {
+            "orgId": "996072437",
+            "orgName": "SIEMENS INDUSTRY SOFTWARE SAS",
+            "ecContrib": 720375
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 369519
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 378009
+        },
+        "996042076": {
+            "orgId": "996042076",
+            "orgName": "RENAULT TRUCKS SAS",
+            "ecContrib": 575781
+        },
+        "999895789": {
+            "orgId": "999895789",
+            "orgName": "UNIVERSITA DEGLI STUDI DI FIRENZE",
+            "ecContrib": 355125
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 480750
+        },
+        "998756718": {
+            "orgId": "998756718",
+            "orgName": "KEMIJSKI INSTITUT",
+            "ecContrib": 218360
+        },
+        "997885852": {
+            "orgId": "997885852",
+            "orgName": "Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH",
+            "ecContrib": 338800
+        },
+        "937035230": {
+            "orgId": "937035230",
+            "orgName": "FORD OTOMOTIV SANAYI ANONIM SIRKETI",
+            "ecContrib": 417625
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 378969
+        },
+        "999923240": {
+            "orgId": "999923240",
+            "orgName": "UNIVERZA V LJUBLJANI",
+            "ecContrib": 418188
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 462675
+        },
+        "999489456": {
+            "orgId": "999489456",
+            "orgName": "FH JOANNEUM GESELLSCHAFT MBH",
+            "ecContrib": 392545
+        },
+        "988038024": {
+            "orgId": "988038024",
+            "orgName": "AVL SOFTWARE AND FUNCTIONS GMBH",
+            "ecContrib": 534515
+        },
+        "999902094": {
+            "orgId": "999902094",
+            "orgName": "VRIJE UNIVERSITEIT BRUSSEL",
+            "ecContrib": 557075
+        },
+        "999734963": {
+            "orgId": "999734963",
+            "orgName": "UNIRESEARCH BV",
+            "ecContrib": 176562
+        }
+    },
+    "calculatedTotalContribution": 9077498
+}

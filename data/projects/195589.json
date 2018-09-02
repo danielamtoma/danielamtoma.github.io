@@ -1,0 +1,23 @@
+{
+    "rcn": "195589",
+    "acronym": "WFL",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Morphology beyond inflection. Building a wordformation based dictionary for Latin",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2017",
+    "objective": "The proposed project aims at the compilation of a derivational morphological dictionary of the Latin language, which connects lexical elements on the basis of wordformation rules, through the use of computational linguistic methods. \nThe final resource will be both a standalone tool accessible through its own website, and interconnected with the Index Thomisticus Treebank (IT-TB), a syntactically annotated corpus of texts of Thomas Aquinas, currently based at the Centro Interdisciplinare di Ricerche per la Computerizzazione dei Segni dellíEspressione (CIRCSE), at the Universitaí Cattolica del Sacro Cuore in Milan. \nThe integration with the IT-TB will be operated through the embedding of the dictionary data within the morphological layer of annotation of the treebank, using TEI (Text Encoding Initiative) P5 conformant XML encoding which will ensure easy sharing and linking of the data across a variety of potentially related projects, and will make sure, through the use of an internationally recognised standard for the encoding of textual data, such data will be re-usable and expandable in the future.",
+    "totalCost": "180277,2",
+    "ecMaxContribution": "180277,2",
+    "coordinator": "UNIVERSITA CATTOLICA DEL SACRO CUORE",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999915771": {
+            "orgId": "999915771",
+            "orgName": "UNIVERSITA CATTOLICA DEL SACRO CUORE",
+            "ecContrib": 180277
+        }
+    },
+    "calculatedTotalContribution": 180277
+}

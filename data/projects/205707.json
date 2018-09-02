@@ -1,0 +1,78 @@
+{
+    "rcn": "205707",
+    "acronym": "MPC-. GT",
+    "topics": "EE-04-2016-2017",
+    "title": "Model Predictive Control and Innovative System Integration of GEOTABS;-) in Hybrid Low Grade Thermal Energy Systems - Hybrid MPC GEOTABS",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2020",
+    "objective": "The MPC-: GT project brought together a transdisciplinary team of SMEs, large industry and research institutes, experienced in research and application of design and control systems in the combined building and energy world. Based on prior research, supported by (joint) EU and national projects, and practical experience the bottlenecks where identified that prevent at this moment a real breakthrough of geothermal heat pumps (GEO-HP) combined with thermally activated building systems (TABS) - GEOTABS. Solutions, which need to be implemented in an integrated way, were identified and sufficient proof of concept was gathered to join forces in a RIA.\nThe innovative concepts aim at increasing the share of low valued (low-grade) energy sources by means of using low exergy systems on the one hand and aim at upgrading low/moderate temperature resources on the other hand.\nThe overall solution consists of an optimal integration of GEOTABS and secondary supply and emission systems.\nTo allow for an optimal use of both the GEOTABS and the secondary system, a split will be made between a so-called ìbase loadî that will be provided by the GEOTABS and the remaining energy needs that should be supplied by the secondary system. A generic rule, eliminating case-by-case simulation work, will be developed.\nThe second part of the proposed solution aims at a white box approach for Model Predictive Control (MPC)  to generate a controller model with precomputed model inputs such as disturbances and HVAC thermal power to avoid case by case development. Research is needed to assess the overall performance and robustness of such an approach towards uncertainties.\nAs such, the MPC-: GT consortium believes to have identified an integrated solution that will provide a near optimal design strategy for the MPC GEOTABS concept using optimal control integrated design. The solution will support the industry, especially the SME members, to expand their activities  and strengthen their competitiveness.",
+    "totalCost": "4263701,25",
+    "ecMaxContribution": "3989951,25",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "ENERGOKLASTR;LEMON CONSULT AG;UNIVERSITEIT MAASTRICHT;STUDIEBUREAU BOYDENS RAYMOND;CLIMATE FUTURES LIMITED;UPONOR OYJ;GEOTHERMAL ENERGY SL;DANMARKS TEKNISKE UNIVERSITET;VIESSMANN WERKE GMBH & CO KG;KATHOLIEKE UNIVERSITEIT LEUVEN;FEDERATIE VAN VERENIGINGEN VOOR VERWARMING EN LUCHTBEHANDELING IN EUROPA VERENIGING",
+    "participantCountries": "CZ;CH;NL;BE;UK;FI;ES;DK;DE",
+    "projectParticipants": {
+        "922899808": {
+            "orgId": "922899808",
+            "orgName": "ENERGOKLASTR",
+            "ecContrib": 422000
+        },
+        "960546478": {
+            "orgId": "960546478",
+            "orgName": "CLIMATE FUTURES LIMITED",
+            "ecContrib": 276375
+        },
+        "999975911": {
+            "orgId": "999975911",
+            "orgName": "UNIVERSITEIT MAASTRICHT",
+            "ecContrib": 148281
+        },
+        "939843768": {
+            "orgId": "939843768",
+            "orgName": "STUDIEBUREAU BOYDENS RAYMOND",
+            "ecContrib": 687080
+        },
+        "937653120": {
+            "orgId": "937653120",
+            "orgName": "VIESSMANN WERKE GMBH & CO KG",
+            "ecContrib": 86250
+        },
+        "938099223": {
+            "orgId": "938099223",
+            "orgName": "GEOTHERMAL ENERGY SL",
+            "ecContrib": 171358
+        },
+        "923192651": {
+            "orgId": "923192651",
+            "orgName": "LEMON CONSULT AG",
+            "ecContrib": 0
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 773750
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 378781
+        },
+        "994346031": {
+            "orgId": "994346031",
+            "orgName": "FEDERATIE VAN VERENIGINGEN VOOR VERWARMING EN LUCHTBEHANDELING IN EUROPA VERENIGING",
+            "ecContrib": 91750
+        },
+        "998626738": {
+            "orgId": "998626738",
+            "orgName": "UPONOR OYJ",
+            "ecContrib": 198750
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 755576
+        }
+    },
+    "calculatedTotalContribution": 3989951
+}

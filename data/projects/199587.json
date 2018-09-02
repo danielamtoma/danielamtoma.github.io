@@ -1,0 +1,88 @@
+{
+    "rcn": "199587",
+    "acronym": "INTER-IoT",
+    "topics": "ICT-30-2015",
+    "title": "Interoperability of Heterogeneous IoT Platforms",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "INTER-IoT project is aiming at the design, implementation and experimentation of an open cross-layer framework and associated methodology to provide voluntary interoperability among heterogeneous Internet of Things (IoT) platforms. The proposal will allow developing effectively and efficiently smart IoT applications, atop different heterogeneous IoT platforms, spanning single and/or multiple application domains. \n\nThe overall goal of the INTER-IoT project is to provide a interoperable framework architecture for seamless integration of different IoT architectures present in different application domains. Interoperability will be provided at different levels: device, network, middleware, services and data.\n\nThe two application domains and use cases addressed in the project and in which the IoT framework will be applied are m-health and port transportation and logistics. The project outcome may optimize different operations (e.g. increasing efficiency in transportation time; reducing CO2 emission in a port environment; improving access control and safety; improving remote patient attendance and increase the number of subject that surgery units can assist using the mobile devices with the same resources; reducing time spent in hospitals premises or reduce the time dedicated to the assistance activities carried out directly at the surgery with advantage for subjects in charge and also benefits those waiting, i.e. reduction of the waiting list) in the two addresses domains, but it may be extended to other application domains in which there is a need to interconnect different IoT architectures already deployed. The project may deal with interoperability at different layers.",
+    "totalCost": "7329850",
+    "ecMaxContribution": "7329850",
+    "coordinator": "UNIVERSITAT POLITECNICA DE VALENCIA",
+    "coordinatorCountry": "ES",
+    "participants": "ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANSLES TRANSPORTS;XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO;PRODEVELOP;RINICOM LIMITED;NEWAYS TECHNOLOGIES BV;Alessandro Bassi Consulting SARL;FUNDACION DE LA COMUNIDAD VALENCIANA PARA LA INVESTIGACION, PROMOCION Y ESTUDIOS COMERCIALES DE VALENCIAPORT;TECHNISCHE UNIVERSITEIT EINDHOVEN;SYSTEMS RESEARCH INSTITUTE OF THE POLISH ACADEMY OF SCIENCES IBS PAN;TELECOM ITALIA SPA;ASL TO5;UNIVERSITA DELLA CALABRIA;NOATUM PORTS VALENCIANA, S.A.U.",
+    "participantCountries": "FR;SI;ES;UK;NL;PL;IT",
+    "projectParticipants": {
+        "999773375": {
+            "orgId": "999773375",
+            "orgName": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO",
+            "ecContrib": 333500
+        },
+        "959042493": {
+            "orgId": "959042493",
+            "orgName": "NEWAYS TECHNOLOGIES BV",
+            "ecContrib": 563750
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 346250
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 102788
+        },
+        "964538319": {
+            "orgId": "964538319",
+            "orgName": "Alessandro Bassi Consulting SARL",
+            "ecContrib": 513750
+        },
+        "999721189": {
+            "orgId": "999721189",
+            "orgName": "RINICOM LIMITED",
+            "ecContrib": 476250
+        },
+        "972921738": {
+            "orgId": "972921738",
+            "orgName": "ASSOCIATION POUR LE DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE DANSLES TRANSPORTS",
+            "ecContrib": 393875
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 1719516
+        },
+        "998709188": {
+            "orgId": "998709188",
+            "orgName": "FUNDACION DE LA COMUNIDAD VALENCIANA PARA LA INVESTIGACION, PROMOCION Y ESTUDIOS COMERCIALES DE VALENCIAPORT",
+            "ecContrib": 515288
+        },
+        "999863391": {
+            "orgId": "999863391",
+            "orgName": "UNIVERSITA DELLA CALABRIA",
+            "ecContrib": 510875
+        },
+        "996323279": {
+            "orgId": "996323279",
+            "orgName": "SYSTEMS RESEARCH INSTITUTE OF THE POLISH ACADEMY OF SCIENCES IBS PAN",
+            "ecContrib": 420321
+        },
+        "929905439": {
+            "orgId": "929905439",
+            "orgName": "NOATUM PORTS VALENCIANA, S.A.U.",
+            "ecContrib": 507500
+        },
+        "929306949": {
+            "orgId": "929306949",
+            "orgName": "ASL TO5",
+            "ecContrib": 415938
+        },
+        "996571696": {
+            "orgId": "996571696",
+            "orgName": "PRODEVELOP",
+            "ecContrib": 510250
+        }
+    },
+    "calculatedTotalContribution": 7329851
+}

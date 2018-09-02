@@ -1,0 +1,23 @@
+{
+    "rcn": "211404",
+    "acronym": "ARS",
+    "topics": "ERC-2016-ADG",
+    "title": "Autonomous Robotic Surgery",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "The goal of the ARS project is the derivation of a unified framework for the autonomous execution of robotic tasks in challenging environments in which accurate performance and safety are of paramount importance. We have chosen surgery as the research scenario because of its importance, its intrinsic challenges, and the presence of three factors that make this project feasible and timely. In fact, we have recently concluded the I-SUR project demonstrating the feasibility of autonomous surgical actions, we have access to the first big data made available to researchers of clinical robotic surgeries, and we will be able to demonstrate the project results on the high performance surgical robot ìda Vinci Research Kitî. The impact of autonomous robots on the workforce is a current subject of discussion, but surgical autonomy will be welcome by the medical personnel, e.g. to carry out simple intervention steps, react faster to unexpected events, or monitor the insurgence of fatigue. The framework for autonomous robotic surgery will include five main research objectives. The first will address the analysis of robotic surgery data set to extract action and knowledge models of the intervention. The second objective will focus on planning, which will consist of instantiating the intervention models to a patient specific anatomy. The third objective will address the design of the hybrid controllers for the discrete and continuous parts of the intervention. The fourth research objective will focus on real time reasoning to assess the intervention state and the overall surgical situation. Finally, the last research objective will address the verification, validation and benchmark of the autonomous surgical robotic capabilities. The research results to be achieved by ARS will contribute to paving the way towards enhancing autonomy and operational capabilities of service robots, with the ambitious goal of bridging the gap between robotic and human task execution capability.",
+    "totalCost": "2750000",
+    "ecMaxContribution": "2750000",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI VERONA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999838074": {
+            "orgId": "999838074",
+            "orgName": "UNIVERSITA DEGLI STUDI DI VERONA",
+            "ecContrib": 2750000
+        }
+    },
+    "calculatedTotalContribution": 2750000
+}

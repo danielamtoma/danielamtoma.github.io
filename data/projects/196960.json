@@ -1,0 +1,53 @@
+{
+    "rcn": "196960",
+    "acronym": "MRG-GRammar",
+    "topics": "FETOPEN-1-2014",
+    "title": "Massive Reverse Genomics to Decipher Gene Regulatory Grammar",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2018",
+    "objective": "MRG-GRammar aims to devise an entirely new strategy for deciphering the regulatory rules of gene regulation. We will leverage Synthetic Biology with cutting-edge DNA synthesis technologies and high-throughput analysis to generate new types of biological datasets that systematically explore all possible regulatory landscapes rather than just the naturally occurring regulatory sequences.\n The extensive and unbiased nature of these unique datasets will allow us to build new models explaining different aspects of regulatory activity, which will be tested in second-generation libraries, designed based on model predictions. Consequently, through such an iterative process, we expect to make a significant breakthrough in deciphering, and evolving, the regulatory code. Our strategy synergizes four orthogonal objectives that will form a new knowledge base from which the regulatory algorithm can be derived. We will employ our strategy on diverse model organisms from the tree of life, from single cell to whole organism: bacteria, yeast, mouse ex-vivo cells, human cell-lines and finally, whole D. melanogaster and mouse embryos.\n We expect this multidisciplinary synthetic biology approach to generate a major technological advance, which will provide the community with algorithms that will not only decipher extant natural regulatory code, but also interpret variations leading to a profoundly deeper understanding of the origins of many diseases. We expect our models to also serve as a reference in designing and implementing accurate and more controllable synthetic biology devices, with applications in fuel production, healthcare and other industrial fields. Thus, our ultimate goal is to substantially accelerate the advance of technologies and knowledge related to generating systematic and personal therapeutic solutions based on the analysis of each individual's natural genomic variations.",
+    "totalCost": "3999661",
+    "ecMaxContribution": "3999661",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "IMPASARA LIMITED;Genome Research Limited;WEIZMANN INSTITUTE OF SCIENCE;EUROPEAN MOLECULAR BIOLOGY LABORATORY;KAROLINSKA INSTITUTET;AGILENT TECHNOLOGIES LDA ISRAEL LTD",
+    "participantCountries": "UK;IL;DE;SE",
+    "projectParticipants": {
+        "999981343": {
+            "orgId": "999981343",
+            "orgName": "GENOME RESEARCH LIMITED",
+            "ecContrib": 0
+        },
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 721273
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 850849
+        },
+        "999978530": {
+            "orgId": "999978530",
+            "orgName": "KAROLINSKA INSTITUTET",
+            "ecContrib": 716138
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 902000
+        },
+        "989201830": {
+            "orgId": "989201830",
+            "orgName": "IMPASARA LIMITED",
+            "ecContrib": 189000
+        },
+        "930164720": {
+            "orgId": "930164720",
+            "orgName": "AGILENT TECHNOLOGIES LDA ISRAEL LTD",
+            "ecContrib": 38750
+        }
+    },
+    "calculatedTotalContribution": 3418010
+}

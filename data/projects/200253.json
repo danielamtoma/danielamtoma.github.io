@@ -1,0 +1,68 @@
+{
+    "rcn": "200253",
+    "acronym": "TOREADOR",
+    "topics": "ICT-16-2015",
+    "title": "TrustwOrthy model-awaRE Analytics Data platfORm",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "The TOREADOR project is aimed at overcoming some major hurdles that until now have prevented many European companies from reaping the full benefits of Big Data analytics (BDA). Companies and organisations in Europe have become aware of the potential competitive advantage they could get by timely and accurate Big Data analytics, but lack the IT expertise and budget to fully exploit BDA.  \nTo overcome this hurdle, TOREADOR takes a model-based BDA-as-a-service (MBDAaaS) approach, providing models of the entire Big Data analysis process and of its artefacts. TOREADOR open, suitable-for-standardisation models will support substantial automation and commoditisation of Big Data analytics, while enabling it to be easily tailored to domain-specific customer requirements. \nBesides models for representing BDA, TOREADOR will deliver an architectural framework and a set of components for model-driven set-up and management of Big Data analytics processes. Once TOREADOR MBDAaaS will become widespread, price competition on Big Data services will ensue, driving costs of Big Data analytics well within reach of EU organizations (including SMEs) that do not have either in-house Big Data expertise or budget for expensive data consultancy.\nActivities supported and automatised by TOREADOR will include (i) planning Big Data sources preparation (ii) negotiating machine-readable Service Level Agreements for BDA detailing privacy, timing, and accuracy needs (iii) choosing data management and algorithm parallelisation strategies (iv) ensuring auditing and assessment of legal compliance (for example, to privacy regulations) of BDA enactment.\nTOREADOR framework will address automatically all major problems of on-demand data preparation, including handling Big Data opacity, diversity, security, and privacy compliance, and will support abstract modelling of the BDA life cycle from distributed data acquisition/storage to the design and parallel deployment of analytics and presentation of results.",
+    "totalCost": "6311218,75",
+    "ecMaxContribution": "6311218,75",
+    "coordinator": "CONSORZIO INTERUNIVERSITARIO NAZIONALE PER L'INFORMATICA",
+    "coordinatorCountry": "IT",
+    "participants": "Lightsource Renewable Energy Holdings Limited;TAIGER SPAIN SL;SAP SE;ATOS SPAIN SA;CITY UNIVERSITY OF LONDON;DISTRETTO TECNOLOGICO AEROSPAZIALE S.C. A R.L.;BIRD & BIRD LLP;ENGINEERING - INGEGNERIA INFORMATICA SPA;JOT INTERNET MEDIA ESPA—A SL",
+    "participantCountries": "UK;ES;DE;IT",
+    "projectParticipants": {
+        "999842730": {
+            "orgId": "999842730",
+            "orgName": "CITY UNIVERSITY OF LONDON",
+            "ecContrib": 499438
+        },
+        "930573478": {
+            "orgId": "930573478",
+            "orgName": "JOT INTERNET MEDIA ESPAÑA SL",
+            "ecContrib": 363750
+        },
+        "999661437": {
+            "orgId": "999661437",
+            "orgName": "CONSORZIO INTERUNIVERSITARIO NAZIONALE PER L'INFORMATICA",
+            "ecContrib": 1160250
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 488750
+        },
+        "951374546": {
+            "orgId": "951374546",
+            "orgName": "BIRD & BIRD LLP",
+            "ecContrib": 706750
+        },
+        "960192428": {
+            "orgId": "960192428",
+            "orgName": "TAIGER SPAIN SL",
+            "ecContrib": 452656
+        },
+        "999911212": {
+            "orgId": "999911212",
+            "orgName": "SAP SE",
+            "ecContrib": 975875
+        },
+        "933826179": {
+            "orgId": "933826179",
+            "orgName": "Lightsource Renewable Energy Holdings Limited",
+            "ecContrib": 471250
+        },
+        "983016237": {
+            "orgId": "983016237",
+            "orgName": "DISTRETTO TECNOLOGICO AEROSPAZIALE S.C. A R.L.",
+            "ecContrib": 398750
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 793750
+        }
+    },
+    "calculatedTotalContribution": 6311219
+}

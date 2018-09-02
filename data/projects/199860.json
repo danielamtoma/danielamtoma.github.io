@@ -1,0 +1,68 @@
+{
+    "rcn": "199860",
+    "acronym": "PLASMOfab",
+    "topics": "ICT-27-2015",
+    "title": "A generic CMOS-compatible platform for co-integrated plasmonics/photonics/electronics PICs towards volume manufacturing of low energy, small size and high performance photonic devices",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "PLASMOfab aims to address the ever increasing needs for low energy, small size, high complexity and high performance mass manufactured PICs by developing a revolutionary  yet CMOS-compatible fabrication platform for seamless co-integration of active plasmonics with photonic and supporting electronic. The CMOS-compatible metals Aluminum, Titanium Nitride and Copper, will be thoroughly investigated towards establishing a pool of meaningful elementary plasmonic waveguides on co-planar photonic (Si, SiO2 and SiN) platforms along with the associated photonic-plasmonic interfaces. The functional advantages of PLASMOfab technology will be practically demonstrated by developing two novel functional prototypes with outstanding performances: \n1) a compact, plasmonic bio-sensor for label-free inflammation markers detection with multichannel capabilities and record-high sensitivity by combining plasmonic sensors with electrical contacts, Si3N4 photonics, high-speed biofunctionalization techniques and microfluidics \n2) a 100 Gb/s NRZ transmitter for datacom applications by consolidating low energy and low footprint plasmonic modulator and ultra high-speed SiGe driving electronics in a single monolithic chip. \nThe new integration technology will be verified through wafer-scale fabrication of the prototypes at commercial CMOS fabs, demonstrating volume manufacturing and cost reduction capabilities. PLASMOfab technology will be supported by an EDA software design kit library paving the way for a standardized, fabless plasmonic/photonic IC eco-system.",
+    "totalCost": "4150246,25",
+    "ecMaxContribution": "3580691,25",
+    "coordinator": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+    "coordinatorCountry": "EL",
+    "participants": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;UNIVERSITE DIJON BOURGOGNE;AMS AG;GESELLSCHAFT FUR ANGEWANDTE MIKRO UND OPTOELEKTRONIK MIT BESCHRANKTERHAFTUNG AMO GMBH;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;MELLANOX TECHNOLOGIES LTD - MLNX;MICRAM MICROELECTRONIC GMBH;PHOENIX BV;UNIVERSITAT DES SAARLANDES",
+    "participantCountries": "AT;FR;DE;CH;IL;NL",
+    "projectParticipants": {
+        "986557707": {
+            "orgId": "986557707",
+            "orgName": "MICRAM MICROELECTRONIC GMBH",
+            "ecContrib": 281265
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 612500
+        },
+        "999929545": {
+            "orgId": "999929545",
+            "orgName": "UNIVERSITAT DES SAARLANDES",
+            "ecContrib": 225000
+        },
+        "990560024": {
+            "orgId": "990560024",
+            "orgName": "MELLANOX TECHNOLOGIES LTD - MLNX",
+            "ecContrib": 355000
+        },
+        "999636120": {
+            "orgId": "999636120",
+            "orgName": "PHOENIX BV",
+            "ecContrib": 244189
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 499844
+        },
+        "999796558": {
+            "orgId": "999796558",
+            "orgName": "GESELLSCHAFT FUR ANGEWANDTE MIKRO UND OPTOELEKTRONIK MIT BESCHRANKTERHAFTUNG AMO GMBH",
+            "ecContrib": 429860
+        },
+        "999839820": {
+            "orgId": "999839820",
+            "orgName": "UNIVERSITE DIJON BOURGOGNE",
+            "ecContrib": 430200
+        },
+        "999809459": {
+            "orgId": "999809459",
+            "orgName": "AMS AG",
+            "ecContrib": 502834
+        }
+    },
+    "calculatedTotalContribution": 3580692
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "211822",
+    "acronym": "SENTIENT",
+    "topics": "ERC-2017-STG",
+    "title": "SCHEDULING OF EVENT-TRIGGERED CONTROL TASKS",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "The advances in electronic communication and computation have enabled the ubiquity of Cyber-Physical Systems (CPS): digital systems that regulate and control all sorts of physical processes, such as chemical reactors, water distribution and power networks. These systems require the timely communication of sensor measurements and control actions to provide their prescribed functionalities. Event-triggered control (ETC) techniques, which communicate only when needed to enforce performance, have attracted attention as a mean to reduce the communication traffic and save energy on (wireless) networked control systems (NCS). However, despite ETCís great communication reductions, the scheduling of the aperiodic and largely unpredictable traffic that ETC generates remains widely unaddressed ñ hindering its true potential for energy and bandwidth savings.\n\nTo address this problem, I will take up the following scientific challenges: (1) the construction of models for ETCís communication traffic; (2) the design of schedulers based on such models guaranteeing prescribed performance levels. To reach these goals, I will employ scientific methods at the cross-roads between theoretical computer science, control systems and communications engineering. I propose to follow a two step approach that I have recently demonstrated: \n(i) modeling as timed-priced-game-automata (TPGA) the timing of communications of event-triggered control systems; and (ii) solving games over TPGAs to prevent data communication collisions and ensure prescribed performances for the control tasks.\n\nI will produce algorithms facilitating the efficient implementation of control loops over shared communication resources and increasing the energy efficiency of wireless NCS by orders of magnitude. The advances will be demonstrated on automotive and wireless water-distribution control applications, showcasing the potential economic impact from the reduction of implementation and maintenance costs on CPSs.",
+    "totalCost": "1499941",
+    "ecMaxContribution": "1499941",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1499941
+        }
+    },
+    "calculatedTotalContribution": 1499941
+}

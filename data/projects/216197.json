@@ -1,0 +1,17 @@
+{
+    "rcn": "216197",
+    "acronym": "E-DUALITY",
+    "topics": "ERC-2017-ADG",
+    "title": "Exploring Duality for Future Data-driven Modelling",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2023",
+    "objective": "Future data-driven modelling is increasingly challenging for many systems due to higher complexity levels, such as in energy systems, environmental and climate modelling, traffic and transport, industrial processes, health, safety, and others. This requires powerful concepts and frameworks that enable the design of high quality predictive models. In this proposal E-DUALITY we will explore and engineer the potential of duality principles for future data-driven modelling. An existing example illustrating the important role of duality in this context is support vector machines, which possess primal and dual model representations, in terms of feature maps and kernels, respectively. Within this project, besides using existing notions of duality that are relevant for data-driven modelling (e.g. Lagrange duality, Legendre-Fenchel duality, Monge-Kantorovich duality), we will also explore new ones. Duality principles will be employed for obtaining a generically applicable framework with unifying insights, handling different system complexity levels, optimal model representations and designing efficient algorithms. This will require taking an integrative approach across different research fields. The new framework should be able to include e.g. multi-view and multiple function learning, multiplex and multilayer networks, tensor models, multi-scale and deep architectures as particular instances and to combine several of such characteristics, in addition to simple basic schemes. It will include both parametric and kernel-based approaches for tasks as regression, classification, clustering, dimensionality reduction, outlier detection and dynamical systems modelling. Higher risk elements are the search for new standard forms in modelling systems with different complexity levels, matching models and representations to system characteristics, and developing algorithms for large scale applications within this powerful new framework.",
+    "totalCost": "2492500",
+    "ecMaxContribution": "2492500",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

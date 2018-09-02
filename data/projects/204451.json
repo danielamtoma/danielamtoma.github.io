@@ -1,0 +1,28 @@
+{
+    "rcn": "204451",
+    "acronym": "FricLess",
+    "topics": "ERC-CoG-2015",
+    "title": "A seamless multi-scale model for contact, friction, and solid lubrication",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "Friction and wear are liable for enormous losses in terms of energy and  resources in modern society. Costs related to unwanted friction in industrialised countries are estimated to be about 3% of the gross domestic product. Urgency is even greater nowadays as friction between micro-components has become the bottleneck of several applications for which miniaturisation is critical.\n\nLubrication is a commonly adopted solution to reduce friction. Graphite is a broadly used solid lubricant for large scale applications, while the lubricating properties of a few-layers graphene hold great promise especially for smaller scale applications. At present, our knowledge of the friction and lubrication of rough surfaces is essentially phenomenological. This is because friction is only deceivingly a simple mechanisms, which instead requires understanding of physical phenomena simultaneously acting at different length scales. The change in contact size, which controls the friction stress, depends on nano-scale phenomena such as atomic de-adhesion, sliding, dislocation nucleation in metals, but also on micro- and macro-scale phenomena as (size-dependent) plastic deformation.\n\nThe objective of this proposal is to reach an unprecedented understanding of metal friction and lubrication by accounting, for the first time, for all relevant phenomena occurring from the atomic to the macro-scale, and their interplay. To this end, a seamless concurrent multi-scale model will be developed. The power of this new model lies in its capability of describing three-dimensional bodies with realistic roughness in sliding lubricated contact, with the accuracy of an atomistic simulation.\n\nThis research builds towards a complete picture of metal friction and lubrication. The materials chosen for the proposed research are copper and  multi-layer graphene. However, the model that will be developed is general and can be used to study different materials, lubricants and environmental conditions.",
+    "totalCost": "1999985",
+    "ecMaxContribution": "1999985",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI PADOVA",
+    "coordinatorCountry": "IT",
+    "participants": "TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999995602": {
+            "orgId": "999995602",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PADOVA",
+            "ecContrib": 1819985
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 180000
+        }
+    },
+    "calculatedTotalContribution": 1999985
+}

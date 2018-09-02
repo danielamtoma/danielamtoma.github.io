@@ -1,0 +1,17 @@
+{
+    "rcn": "216069",
+    "acronym": "AIDA",
+    "topics": "COMPET-4-2017",
+    "title": "Artificial Intelligence Data Analysis",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2021",
+    "objective": "AIDA brings a transformational innovation to the analysis of heliophysics data in four steps. \n\nFirst, AIDA will develop a new open source software called AIDApp written in Python (a free language) and capable of collecting, combining and correlating data from different space missions. AIDApp wants to replace mission-specific tools written for costly languages (such as IDL) that exclude many scientists, students and amateur space enthusiasts from exploring the data, with a much-needed single platform where methods are shared and continuously improved by the whole community. \n\nSecond, AIDA will introduce modern data assimilation, statistical methods and machine learning (ML) to heliophysics data processing. Unlike traditional methods based on human expertise, these methods rely on statistics and information theory to extract features that are hidden in the data. \n\nThird, AIDA will combine real data from space missions with synthetic data from simulations developing a virtual satellite component for AIDApp. This feature will be demonstrated in the comparison with existing mission data and in the planning of new missions (e.g. ESAís THOR).\n\nFourth, AIDA will deploy in AIDApp methods of Artificial Intelligence (AI) to analyse data flows from heliophysics missions. This task requires bridging together competences in computer science and in heliophysics and pushes well beyond the current state of the art in space data analysis, connecting space researchers with AI, one of the fastest growing trends in modern science and industrial development. \n\nAIDA will use the new AIDApp in selecting key heliophysics problems to produce a database (AIDAdb) of new high-level data products that include catalogs of features and events detected by ML and AI algorithms. Moreover, many of the AI methods developed in AIDA will themselves represent higher-level data products, for instance in the form of trained neural networks that can be stored and reused as a database of coefficients.",
+    "totalCost": "1499690",
+    "ecMaxContribution": "1499690",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "SYSTHMATA YPOLOGISTIKIS ORASHS IRIDA LABS AE;UNIVERSITA DI PISA;SPACE CONSULTING INTERNATIONAL LLC;CINECA CONSORZIO INTERUNIVERSITARIO;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN;UNIVERSITA DELLA CALABRIA",
+    "participantCountries": "EL;IT;US;FR;NL",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "206988",
+    "acronym": "BeyondBlackbox",
+    "topics": "ERC-2016-STG",
+    "title": "Data-Driven Methods for Modelling and Optimizing the Empirical Performance of Deep Neural Networks",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "Deep neural networks (DNNs) have led to dramatic improvements of the state-of-the-art for many important classification problems, such as object recognition from images or speech recognition from audio data. However, DNNs are also notoriously dependent on the tuning of their hyperparameters. Since their manual tuning is time-consuming and requires expert knowledge, recent years have seen the rise of Bayesian optimization methods for automating this task. While these methods have had substantial successes, their treatment of DNN performance as a black box poses fundamental limitations, allowing manual tuning to be more effective for large and computationally expensive data sets: humans can (1) exploit prior knowledge and extrapolate performance from data subsets, (2) monitor the DNN's internal weight optimization by stochastic gradient descent over time, and (3) reactively change hyperparameters at runtime. We therefore propose to model DNN performance beyond a blackbox level and to use these models to develop for the first time:\n\n1. Next-generation Bayesian optimization methods that exploit data-driven priors to optimize performance orders of magnitude faster than currently possible;\n2. Graybox Bayesian optimization methods that have access to -- and exploit -- performance and state information of algorithm runs over time; and\n3. Hyperparameter control strategies that learn across different datasets to adapt hyperparameters reactively to the characteristics of any given situation.\n\nDNNs play into our project in two ways. First, in all our methods we will use (Bayesian) DNNs to model and exploit the large amounts of performance data we will collect on various datasets. Second, our application goal is to optimize and control DNN hyperparameters far better than human experts and to obtain:\n\n4. Computationally inexpensive auto-tuned deep neural networks, even for large datasets, enabling the widespread use of deep learning by non-experts.",
+    "totalCost": "1495000",
+    "ecMaxContribution": "1495000",
+    "coordinator": "ALBERT-LUDWIGS-UNIVERSITAET FREIBURG",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999841760": {
+            "orgId": "999841760",
+            "orgName": "ALBERT-LUDWIGS-UNIVERSITAET FREIBURG",
+            "ecContrib": 1495000
+        }
+    },
+    "calculatedTotalContribution": 1495000
+}

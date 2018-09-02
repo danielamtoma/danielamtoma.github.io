@@ -1,0 +1,63 @@
+{
+    "rcn": "199173",
+    "acronym": "GREAT",
+    "topics": "ICT-25-2015",
+    "title": "heteroGeneous integRated magnetic tEchnology using multifunctional standardized sTack (MSS)",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "The interest for developing smart systems based on interconnected objects is growing fast (50 billion objects connected in 2020). The main components of ìInternet of Thingsî (IoT) devices are autonomous battery-operated smart embedded systems comprising communication circuits, sensors, computing/processing devices and storage. The key requirements are ultra-low power, high processing capabilities, fast/dense storage, wireless communication, heterogeneous integration, and autonomy. The different functions are so far implemented in separate chips/technologies, which is a bottleneck in terms of costs and miniaturization. To tackle the key issues of monolithic heterogeneous integration, fast yet low power processing, high integration density, fast yet low power storage, the goal of the GREAT STREP project is to co-integrate multiple functions like sensors (ìSensingî), RF receivers (ìCommunicatingî) and logic/memory (ìProcessing/Storingî) together within CMOS by adapting the STT-MTJs (Magnetic devices) to a single baseline technology. This lead to a unique STT-MTJ cell technology called Multifunctional Standardized (MTJ) Stack (MSS), paving the way to 2.5D self-integrated heterogeneous architectures . The major outputs of GREAT are the technology and the architecture platform for IoT SoCs which provides better integration of embedded & mobile communication systems and a significant decrease of their power consumption. Based on the STT unique set of performances (non-volatility, high speed, infinite endurance and moderate read/write power), GREAT will achieve the same goal as heterogeneous integration of devices but in a much simpler way. The project final objectives are: fabrication of an advanced MSS technology test chip jointly with a system-level simulation and design of a representative M2M IoT platform integrating MSS. The consortium is composed of 9 EU partners led by CEA and of an Advisory Board comprising leaders in IP solutions, IoT, and mobile technologies.",
+    "totalCost": "4539001,25",
+    "ecMaxContribution": "4539001,25",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "Singulus Technologies AG;EVADERIS;KARLSRUHER INSTITUT FUER TECHNOLOGIE;TOWER SEMICONDUCTOR LTD;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;UNIVERSITATEA TRANSILVANIA DIN BRASOV;TOPLINK INNOVATION;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "DE;FR;IL;RO",
+    "projectParticipants": {
+        "998799010": {
+            "orgId": "998799010",
+            "orgName": "TOPLINK INNOVATION",
+            "ecContrib": 110000
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 893982
+        },
+        "933913964": {
+            "orgId": "933913964",
+            "orgName": "EVADERIS",
+            "ecContrib": 194250
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 746700
+        },
+        "964846488": {
+            "orgId": "964846488",
+            "orgName": "TOWER SEMICONDUCTOR LTD",
+            "ecContrib": 994808
+        },
+        "999904131": {
+            "orgId": "999904131",
+            "orgName": "UNIVERSITATEA TRANSILVANIA DIN BRASOV",
+            "ecContrib": 236562
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 708375
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 318750
+        },
+        "985822350": {
+            "orgId": "985822350",
+            "orgName": "Singulus Technologies AG",
+            "ecContrib": 335574
+        }
+    },
+    "calculatedTotalContribution": 4539001
+}

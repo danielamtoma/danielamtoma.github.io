@@ -1,0 +1,78 @@
+{
+    "rcn": "193462",
+    "acronym": "MAShES",
+    "topics": "FoF-01-2014",
+    "title": "Multimodal spectrAl control of laSer processing with cognitivE abilities",
+    "startDate": "01/12/2014",
+    "endDate": "30/11/2017",
+    "objective": "MAShES proposes a breakthrough approach to image-based laser processing closed-loop control. \n\nFirstly, a compact, snapshot, and multispectral imaging system in the VIS/MWIR spectral range will be developed. This approach will enable a multimodal process observation that combines different imaging modalities. Moreover, it will enable an accurate estimation of temperature spatially resolved and independent on emissivity values, even for non-grey bodies and dissimilar materials. Secondly, a fully embedded approach to real time (RT) control will be adopted for efficient processing of acquired data and high speed -multiple inputs/ multiple outputs- closed-loop control. Thirdly, a cognitive control system based on the use of machine learning techniques applied to process quality diagnosis and self-adjustment of the RT control will be developed. \n\nAs a result, a unified and compact embedded solution for RT-control and high speed monitoring will be developed that brings into play:\n- The accurate measurement of temperature distribution. \n- The 3D seam profile and 2D melt pool geometry. \n- The surface texture dynamics, and process speed.\n\nMAShES control will act simultaneously on multiple process variables, including laser power and modulation, process speed, powder and gas flow, and spot size. \n\nMAShES will deal with usability and interoperability issues for compliance with cyber-physical operation of the system in a networked and cognitive factory. Moreover, standardisation issues will be addressed regarding the processes and the control system and contributions in this regard are envisaged.\n\nMAShES will be designed under a modular approach, easily customizable for different laser processing applications in highly dynamic manufacturing scenarios. Validation and demonstration of prototypes of MAShES system will be done for laser welding and laser metal deposition (LMD) in operational scenarios at representative end-user facilities.",
+    "totalCost": "3673157",
+    "ecMaxContribution": "3673157",
+    "coordinator": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE",
+    "coordinatorCountry": "ES",
+    "participants": "Sill Optics GmbH & Co. KG;CENTRO RICERCHE FIAT SCPA;EMO-ORODJARNA DOO;BITADDICT AB;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;PRIMA ELECTRO SPA;NEW INFRARED TECHNOLOGIES SL;OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES;PERMANOVA LASERSYSTEM AKTIEBOLAG;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;PANEPISTIMIO PATRON",
+    "participantCountries": "DE;IT;SI;SE;ES;FR;EL",
+    "projectParticipants": {
+        "958708231": {
+            "orgId": "958708231",
+            "orgName": "PERMANOVA LASERSYSTEM AKTIEBOLAG",
+            "ecContrib": 226063
+        },
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 280406
+        },
+        "950258949": {
+            "orgId": "950258949",
+            "orgName": "PRIMA ELECTRO SPA",
+            "ecContrib": 440875
+        },
+        "985086023": {
+            "orgId": "985086023",
+            "orgName": "Sill Optics GmbH & Co. KG",
+            "ecContrib": 250250
+        },
+        "917365376": {
+            "orgId": "917365376",
+            "orgName": "BITADDICT AB",
+            "ecContrib": 58000
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 476938
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 201000
+        },
+        "998801532": {
+            "orgId": "998801532",
+            "orgName": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE",
+            "ecContrib": 509375
+        },
+        "970556490": {
+            "orgId": "970556490",
+            "orgName": "EMO-ORODJARNA DOO",
+            "ecContrib": 195625
+        },
+        "999894528": {
+            "orgId": "999894528",
+            "orgName": "PANEPISTIMIO PATRON",
+            "ecContrib": 306250
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 490125
+        },
+        "998883885": {
+            "orgId": "998883885",
+            "orgName": "NEW INFRARED TECHNOLOGIES SL",
+            "ecContrib": 238250
+        }
+    },
+    "calculatedTotalContribution": 3673157
+}

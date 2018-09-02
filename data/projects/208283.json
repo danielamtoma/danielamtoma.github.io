@@ -1,0 +1,28 @@
+{
+    "rcn": "208283",
+    "acronym": "So2Sat",
+    "topics": "ERC-2016-STG",
+    "title": "Big Data for 4D Global Urban Mapping ñ 10^16 Bytes from Social Media to EO Satellites",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2022",
+    "objective": "By 2050, around three quarters of the worldís population will live in cities. The new dimension of ongoing global migration into the cities poses fundamental challenges to our societies across the globe. Despite of increasing efforts, global urban mapping still drags behind the geometric, thematic and temporal resolutions of geo-information needed to address these challenges.\n\nNowadays diverse sets of incomplete data exist. For example, Earth observation (EO) satellites reliably provide geodetically accurate large scale geo-information of the cities on a routine basis from space. But the data availability is limited by resolutions and acquisition geometries of the sensors. Complementarily, massive imagery, text messages and GIS data from open sources and social media are temporally quasi-seamless, spatially multi-perspective, but with diversely unknown qualities. \n\nWith So2Sat I will jointly exploit big data from social media and satellite observations for global urban mapping, and aim at breakthroughs in 3D/4D urban modelling, infrastructure occupancy classification, and very high resolution population density mapping on a global scale for revolutionizing urban geographic research. The following methodological and application objectives will be addressed: improving urban-related information retrieval from EO satellite data (MO1), mining urban imagery and text messages from social media data (MO2), information fusion from heterogeneous data sources (MO3), big data processing (MO4), as well as pilot applications in informal settlements classification (AO1) and global population density estimation (AO2).\n\nThe outcome of So2Sat will be the first and unique global and consistent spatial data set on urban morphology (3D/4D) of settlements, and a multidisciplinary application derivate assessing population density. This is seen as a giant leap for urban geography research as well as for formation of opinions for stakeholders based on resilient data.",
+    "totalCost": "1496500",
+    "ecMaxContribution": "1496500",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 1440250
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 56250
+        }
+    },
+    "calculatedTotalContribution": 1496500
+}

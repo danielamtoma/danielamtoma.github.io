@@ -1,0 +1,63 @@
+{
+    "rcn": "213090",
+    "acronym": "SARAS",
+    "topics": "ICT-27-2017",
+    "title": "Smart Autonomous Robotic Assistant Surgeon",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Currently during a laparoscopic operation, several units of medical personnel are requested to stay in the operating room for supporting the main surgeon teleoperating the surgical robot. In particular one assistant is always present for taking care of simple surgical procedures (e.g. aspiration of dead tissue after a cut in laparoscopy, moving organs or tissue to make room for cutting or suturing) that the leading surgeon cannot perform with the laparoscopic tools s/he is teleoperating. It is common that an expert surgeon has to play the role of an assistant during an operation led by another surgeon.\nFurthermore, the assistant is performing critical tasks only for the 30% of the time of the operation and s/he has to stand, waiting, most of the time. Considering the hourly cost of a surgeon, the current practice is very inefficient from an economic point of view but also from a social point of view, leading to unnecessary long waiting lists.\nThe goal of the project is to develop a surgical robotic platform that allows to decrease the number of surgeons necessary for one operation, increasing the social and economic efficiency of a hospital and guaranteeing the same level of safety for the patients. We will focus on laparoscopic surgery, where the surgeon is teleoperating a surgical robot for executing some procedure (e.g. nephrectomy, prostatectomy). The goal of the project is to develop a surgical robotic platform that allows only one surgeon to execute R-MIS operations. SARAS will develop:\n1. Two assistive robotic arms designed to implement the tasks currently done by the assistant surgeon by holding off-the shelf laparoscopic instruments.\n2. A cooperative and cognitive supervisor system able to infer the actual state of the procedure by analysing the information coming from the sensing system and to act accordingly with the surgeonís needs.\nHaving these technologies available we are in a position to develop a solo surgery system.",
+    "totalCost": "4225831,25",
+    "ecMaxContribution": "4225831,25",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI VERONA",
+    "coordinatorCountry": "IT",
+    "participants": "MEDINEERING GMBH;UNIVERSITY OF DUNDEE;UNIVERSITAT POLITECNICA DE CATALUNYA;OSPEDALE SAN RAFFAELE SRL;OXFORD BROOKES UNIVERSITY;ACMIT GMBH;UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA;UNIVERSITA DEGLI STUDI DI FERRARA",
+    "participantCountries": "DE;UK;ES;IT;AT",
+    "projectParticipants": {
+        "919849255": {
+            "orgId": "919849255",
+            "orgName": "MEDINEERING GMBH",
+            "ecContrib": 445000
+        },
+        "999838074": {
+            "orgId": "999838074",
+            "orgName": "UNIVERSITA DEGLI STUDI DI VERONA",
+            "ecContrib": 663419
+        },
+        "984976413": {
+            "orgId": "984976413",
+            "orgName": "ACMIT GMBH",
+            "ecContrib": 348656
+        },
+        "999975523": {
+            "orgId": "999975523",
+            "orgName": "UNIVERSITY OF DUNDEE",
+            "ecContrib": 573454
+        },
+        "999446873": {
+            "orgId": "999446873",
+            "orgName": "OXFORD BROOKES UNIVERSITY",
+            "ecContrib": 569831
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 408721
+        },
+        "999840887": {
+            "orgId": "999840887",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA",
+            "ecContrib": 447500
+        },
+        "999839626": {
+            "orgId": "999839626",
+            "orgName": "UNIVERSITA DEGLI STUDI DI FERRARA",
+            "ecContrib": 336750
+        },
+        "953176030": {
+            "orgId": "953176030",
+            "orgName": "OSPEDALE SAN RAFFAELE SRL",
+            "ecContrib": 432500
+        }
+    },
+    "calculatedTotalContribution": 4225831
+}

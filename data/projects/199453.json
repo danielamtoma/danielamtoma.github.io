@@ -1,0 +1,23 @@
+{
+    "rcn": "199453",
+    "acronym": "COAT",
+    "topics": "ERC-CoG-2014",
+    "title": "Collapse Of Atmospheric Turbulence",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "This project aims to predict the cessation of continuous turbulence in the evening boundary layer. The interaction between the lower atmosphere and the surface is studied in detail, as this plays a crucial role in the dynamics. Present generation forecasting models are incapable to predict whether or not turbulence will survive or collapse under cold conditions. In nature, both situations frequently occur and lead to completely different temperature signatures. As such, significant forecast errors are made, particularly in arctic regions and winter conditions. Therefore, prediction of turbulence collapse is highly relevant for weather and climate prediction.\nKey innovation lies in our hypothesis. The collapse of turbulence is explained from a maximum sustainable heat flux hypothesis which foresees in an enforcing positive feedback between the atmosphere and the underlying surface. A comprehensive theory for the transition between the main two nocturnal regimes would be ground-breaking in meteorological literature.\nWe propose an integrated approach, which combines in-depth theoretical work, simulation with models of various hierarchy (DNS, LES, RANS), and observational analysis. Such comprehensive methodology is new with respect to the problem at hand.  An innovative element is the usage of Direct Numerical Simulation in combination with dynamical surface interactions. This advanced technique fully resolves turbulent motions up to their smallest scale without the need to rely on subgrid closure assumptions. From a 10-year dataset (200m mast at Cabauw, Netherlands) nights are classified according to their turbulence characteristics. Multi-night composites are used as benchmark-cases to guide realistic numerical modelling. In the validation phase, generality of the results with respect to both climate and surface characteristics is assessed by comparison with the FLUXNET data-consortium, which operates on a long-term basis over 240 sites across the globe.",
+    "totalCost": "1659580",
+    "ecMaxContribution": "1659580",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1659580
+        }
+    },
+    "calculatedTotalContribution": 1659580
+}

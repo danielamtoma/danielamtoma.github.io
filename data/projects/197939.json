@@ -1,0 +1,63 @@
+{
+    "rcn": "197939",
+    "acronym": "ECOSCALE",
+    "topics": "FETHPC-1-2014",
+    "title": "Energy-efficient Heterogeneous COmputing at exaSCALE",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "In order to reach exascale performance current HPC servers need to be improved. Simple scaling is not a feasible solution due to the increasing utility costs and power consumption limitations. Apart from improvements in implementation technology, what is needed is to refine the HPC application development as well as the  architecture of the future HPC systems.\n\nECOSCALE tackles this challenge by proposing a scalable programming environment and hardware architecture tailored to the characteristics and trends of current and future HPC applications, reducing significantly the data traffic as well as the energy consumption and delays. We first propose a novel heterogeneous energy-efficient hierarchical architecture and a hybrid MPI\\OpenCL programming environment and runtime system. The proposed architecture, programming model and runtime system follows a hierarchical approach where the system is partitioned into multiple autonomous Workers (i.e. compute nodes). Workers are interconnected in a tree-like structure in order to form larger Partitioned  Global Address Space (PGAS) partitions, which are further hierarchically interconnected via an MPI protocol. \n\nSecondly, to further increase the energy efficiency of the system as well as its resilience, the Workers will employ reconfigurable accelerators that can perform coherent memory accesses in the virtual address space utilizing an IOMMU. The ECOSCALE architecture will support shared partitioned reconfigurable resources accessed by any Worker in a PGAS partition, and, more importantly, automated hardware synthesis of these resources from an OpenCL-based programming model.\n\nWe follow a co-design approach that spans a scalable HPC hardware platform, a middleware layer, a programming and a runtime environment as well as a high-level design environment for mapping applications onto the system. A proof of concept prototype and a simulator will be built in order to run two real-world HPC applications and several benchmarks.",
+    "totalCost": "4237397,5",
+    "ecMaxContribution": "4237397,5",
+    "coordinator": "TELECOMMUNICATION SYSTEMS INSTITUTE",
+    "coordinatorCountry": "EL",
+    "participants": "THE UNIVERSITY OF MANCHESTER;SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;THE QUEEN'S UNIVERSITY OF BELFAST;POLITECNICO DI TORINO;STMICROELECTRONICS GRENOBLE 2 SAS;ACCIONA CONSTRUCCION SA;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "UK;EL;IT;FR;ES;SE",
+    "projectParticipants": {
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 460750
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 570632
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 262717
+        },
+        "999611094": {
+            "orgId": "999611094",
+            "orgName": "TELECOMMUNICATION SYSTEMS INSTITUTE",
+            "ecContrib": 688625
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 517500
+        },
+        "999812854": {
+            "orgId": "999812854",
+            "orgName": "ACCIONA CONSTRUCCION SA",
+            "ecContrib": 380000
+        },
+        "997962094": {
+            "orgId": "997962094",
+            "orgName": "STMICROELECTRONICS GRENOBLE 2 SAS",
+            "ecContrib": 139308
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 507865
+        },
+        "999992013": {
+            "orgId": "999992013",
+            "orgName": "THE QUEEN'S UNIVERSITY OF BELFAST",
+            "ecContrib": 710000
+        }
+    },
+    "calculatedTotalContribution": 4237397
+}

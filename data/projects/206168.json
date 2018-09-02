@@ -1,0 +1,63 @@
+{
+    "rcn": "206168",
+    "acronym": "DECIDE",
+    "topics": "ICT-10-2016",
+    "title": "DEvOps for trusted, portable and interoperable Multi-Cloud applications towards the Digital singlE market",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "Multi-cloud applications refer to applications that dynamically can distribute their components over heterogeneous cloud resources and still hold the functional, business and non-functional properties (NFP) declared in their SLAs. The main objective of the DECIDE action is to provide a new generation of multi-cloud service-based software framework, enabling techniques and mechanisms to design, develop, and dynamically deploy multi-cloud aware applications in an ecosystem of reliable, interoperable, and legal compliant cloud services (DECIDE DevOps Framework).\nDECIDE will provide a set of architectural patterns and the needed tools (DECIDE ARCHITECT) to develop and operate (following the DevOps approach) multi-cloud aware applications that can be dynamically self-adapted to be re-deployed using the best combination of cloud services. DECIDE will also set up an ecosystem of trusted, interoperable and legally compliant cloud services (ACSmI-Advance Cloud Service meta-Intermediator) and the required mechanisms to register, discover, compose, use and assess them. \nOne of the key innovations of the DECIDE solution relies on the development of the OPTIMUS deployment simulation tool capable of evaluating and optimizing the resulting non-functional characteristics from the userís perspective considering a set of given cloud resources alternatives. The OPTIMUS deployment simulation tool, together with the continuous deployment supporting tool (DECIDE ADAPT), will provide the most adequate deployment application topology based on a set of usersí requirements automating the provisioning and selection of deployment scripts for multi-cloud applications. Three use cases will be conducted to validate.\nDECIDE will innovate by tackling with multi-cloud and non-functional aspects and moreover by incorporating a DevOps approach to the whole solution\nDECIDE outcomes, covering the specific needs of different multi-cloud applications for on-line gaming, e-Health and Network management.",
+    "totalCost": "3689846,25",
+    "ecMaxContribution": "3372158,75",
+    "coordinator": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+    "coordinatorCountry": "ES",
+    "participants": "TIME.LEX;INNOVATI SERVICIOS TECNOLOGICOS SL;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;AIMES GRID SERVICES COMMUNITY INTEREST COMPANY;EXPERIS MANPOWERGROUP SL;HEWLETT PACKARD ITALIANA SRL;ARSYS INTERNET S.L.;CLOUDBROKER GMBH",
+    "participantCountries": "BE;ES;DE;UK;IT;CH",
+    "projectParticipants": {
+        "999909951": {
+            "orgId": "999909951",
+            "orgName": "HEWLETT PACKARD ITALIANA SRL",
+            "ecContrib": 587000
+        },
+        "951434104": {
+            "orgId": "951434104",
+            "orgName": "INNOVATI SERVICIOS TECNOLOGICOS SL",
+            "ecContrib": 60250
+        },
+        "956000476": {
+            "orgId": "956000476",
+            "orgName": "AIMES GRID SERVICES COMMUNITY INTEREST COMPANY",
+            "ecContrib": 352433
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 764875
+        },
+        "991228063": {
+            "orgId": "991228063",
+            "orgName": "TIME.LEX",
+            "ecContrib": 246500
+        },
+        "964308429": {
+            "orgId": "964308429",
+            "orgName": "ARSYS INTERNET S.L.",
+            "ecContrib": 355000
+        },
+        "911833175": {
+            "orgId": "911833175",
+            "orgName": "EXPERIS MANPOWERGROUP SL",
+            "ecContrib": 412250
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 593850
+        },
+        "972604354": {
+            "orgId": "972604354",
+            "orgName": "CLOUDBROKER GMBH",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3372158
+}

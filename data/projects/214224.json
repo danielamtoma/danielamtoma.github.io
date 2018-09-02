@@ -1,0 +1,23 @@
+{
+    "rcn": "214224",
+    "acronym": "CAPSICE",
+    "topics": "MSCA-IF-2017",
+    "title": "CAPSizing ICE caps: identifying tipping points through global modelling",
+    "startDate": "03/01/2019",
+    "endDate": "02/01/2021",
+    "objective": "Ice caps have been major contributors to sea-level rise over the past decades and also in the coming century they are projected to further lose a substantial part of their volume, maintaining their position as one of the main sea-level rise contributors. One of the drawbacks of these projections, however, is that they are based on approaches that strongly simplify ice cap processes by relying on volume-area scaling methods or parameterisations derived from observations on mountain glaciers. Consequently, these projections fail to provide insights on feedback processes that can have an important impact on the future evolution of ice caps.\n\nWithin this project, I want to implement GloCAP3D, the first global 3-D ice cap evolution model in which surface mass balance and ice dynamics are explicitly accounted for, in order to improve future projections of ice caps. Firstly, I will focus on calibrating GloCAP3D, which is a crucial step to ensure accurate future ice cap projections. For this, remote sensing products and other increasingly available datasets will be included. Secondly, I will assess the role of tipping points in the future evolution of ice caps and identify potential points-of-no-return, beyond which the loss of individual ice caps is irreversible. Particular focus will be on tipping points related to the surface mass balance - elevation feedback and on tipping points resulting from a potential strong reduction in the refreezing potential. The incorporation of ice dynamics will also allow to further quantify the mass loss through frontal calving, which can regionally be a major annual mass loss driver. Finally, through this novel interdisciplinary approach it will be possible to provide improved estimates on the future sea-level contribution from ice caps. Given projectís unique nature, its outcome is anticipated to be pivotal for a number of future works, including the upcoming Intergovernmental Panel on Climate Change Assessment Report.",
+    "totalCost": "165598,8",
+    "ecMaxContribution": "165598,8",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 165599
+        }
+    },
+    "calculatedTotalContribution": 165599
+}

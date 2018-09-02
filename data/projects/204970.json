@@ -1,0 +1,23 @@
+{
+    "rcn": "204970",
+    "acronym": "MUTX",
+    "topics": "ERC-PoC-2015",
+    "title": "MUTATION++ library, technology transfer from atmospheric entry plasmas to biomass pyrolysis",
+    "startDate": "01/08/2016",
+    "endDate": "31/01/2018",
+    "objective": "One successful outcome of the AEROSPACEPHYS ERC StG, entitled ìMultiphysics models and simulations for reacting and plasma flows applied to the space exploration program,î is the development of a new software library called MUTATION\\\\: MUlticomponent Thermodynamic And Transport properties for IONized gases in C\\\\. The library compiles the state-of-the-art physico-chemical models and algorithms developed by the team into a highly extensible and robust software package to be coupled to simulation tools used by space agencies and industries. The design of the library allows for high-performance integration in material and flow field simulation tools. MUTATION\\\\ is also shipped with several stand-alone tools that provide up-to-date basic data without proper software linking. Such a compromise allows simulation tool users, who do not have access to the source code, to benefit from these models. Taking community development to the next level requires the improvement and enrichment of the software testing framework and database, giving new users development guidelines and technology transfer examples. The MUTX project will allow us to extend the user base of MUTATION\\\\ to the corporate community. This will require the implementation of tests to ensure the preservation of the library functionalities and performance after each new release and on multiple hardware and software platforms. It will also require the addition of databases for real thermal protection materials currently being developed by the space industry in collaboration with the European Space Agency. The demonstration of a transdisciplinary technology transfer will be achieved by implementing a database for biomass pyrolysis simulation. One long-term goal of the MUTX project is to enable the PI and his team to obtain additional funding through participation in research contracts in collaboration with industrial partners using MUTATION\\\\.",
+    "totalCost": "149921",
+    "ecMaxContribution": "149921",
+    "coordinator": "INSTITUT VON KARMAN DE DYNAMIQUE DES FLUIDES",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999698006": {
+            "orgId": "999698006",
+            "orgName": "INSTITUT VON KARMAN DE DYNAMIQUE DES FLUIDES",
+            "ecContrib": 149921
+        }
+    },
+    "calculatedTotalContribution": 149921
+}

@@ -1,0 +1,48 @@
+{
+    "rcn": "193783",
+    "acronym": "QUIC",
+    "topics": "FETPROACT-3-2014",
+    "title": "Quantum simulations of insulators and conductors",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2019",
+    "objective": "It is now accepted that the conducting or insulating nature of matter is based on various separate ingredients (e.g. disorder, interactions, band filling, dimensionality, topology, etc.). However, their complex interplay is still beyond our understanding because experiments are very difficult and numerical calculations are often inefficient, even for supercomputers. In QUIC we want to achieve a breakthrough in the understanding of the fundamental mechanisms governing insulators and conductors by using quantum simulators, i.e. quantum computers of special purpose, based on fully controllable ultracold gases. In an experiment-theory enterprise, we will engineer several different kinds of such synthetic quantum matter, where we can isolate and study quantitatively the quantum phenomena and phases. We will not only study the physics of real systems, such as disordered and strongly-correlated superconductors and superfluids, but we will also create systems that do not exist so far in nature, such as topological phases in graphene-like lattices. QUIC combines for the first time advanced manipulation techniques of ultracold atomic gases, innovative theoretical ideas of condensed-matter physics and quantum-information methods. The immediate goals of our project are to understand quantitatively the subtle interplay of quantum phenomena in insulators and conductors, explore new promising directions for the engineering of transport in real materials, and lay the foundations for the design of the quantum materials of tomorrow.",
+    "totalCost": "2774375",
+    "ecMaxContribution": "2386875",
+    "coordinator": "LABORATORIO EUROPEO DI SPETTROSCOPIE NON LINEARI",
+    "coordinatorCountry": "IT",
+    "participants": "FUNDACIO INSTITUT DE CIENCIES FOTONIQUES;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;UNIWERSYTET JAGIELLONSKI;UNIVERSITA DEGLI STUDI DI TRENTO;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "ES;CH;PL;IT;FR",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "999619436": {
+            "orgId": "999619436",
+            "orgName": "FUNDACIO INSTITUT DE CIENCIES FOTONIQUES",
+            "ecContrib": 536875
+        },
+        "999582479": {
+            "orgId": "999582479",
+            "orgName": "LABORATORIO EUROPEO DI SPETTROSCOPIE NON LINEARI",
+            "ecContrib": 540000
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 560000
+        },
+        "999841954": {
+            "orgId": "999841954",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRENTO",
+            "ecContrib": 530000
+        },
+        "999642716": {
+            "orgId": "999642716",
+            "orgName": "UNIWERSYTET JAGIELLONSKI",
+            "ecContrib": 220000
+        }
+    },
+    "calculatedTotalContribution": 2386875
+}

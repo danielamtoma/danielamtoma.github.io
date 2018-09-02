@@ -1,0 +1,23 @@
+{
+    "rcn": "201629",
+    "acronym": "POMEGRANATE",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Practice-Oriented Security Models and Granular Designs for Future-Proof Authenticated Encryption",
+    "startDate": "01/09/2017",
+    "endDate": "30/08/2020",
+    "objective": "Authenticated-Encryption (AE) algorithms have recently faced an immense increase in popularity as appropriate cryptographic tools for providing data confidentiality and integrity services simultaneously. AE algorithms are ubiquitous in protocols to secure the very fundamentals of the information and communication infrastructure, being adopted into widely-deployed protocols, such as TLS, SSH, IPsec, IEEE 802.11 (Wi-Fi) and ANSI C12.22. A wide range of recently reported security vulnerabilities and exploits, arisen from either using insecure designs to achieve the AE goal or misusing supposedly secure AE schemes, has motivated the cryptographic community to run the CAESAR competition for designing new AE algorithms, boosting research on AE. Yet a critical look at the classical security models for AE, defined over the last decade, that guided the constructions of CAESAR submissions, and a review of practical applications for AE algorithms reveals several inconsistencies and remaining problems that must be carefully investigated before moving towards adoption of next-generation AE schemes for widespread use in governmental, industrial and financial ICT systems. \n\nPOMEGRANATE aims to critically rethink the existing security notions and robustness features for AE schemes and to develop fine-grained security models and modular, future-proof design paradigms that can flexibly capture a widening spectrum of disparate requirements in the emerging streaming media applications such as IPTV as well as in future heterogeneous environments such as Internet of Things and Cloud Computing infrastructures. We aim to proactively identify important ongoing challenges and to bridge the gaps between the theory and practice of AE, looking far beyond the design-centric CAESAR competition. Nevertheless, the results will also impact the evaluation and ranking of the CAESAR finalists, as those schemes should offer a set of envisioned new security and robustness needs for future applications.",
+    "totalCost": "172800",
+    "ecMaxContribution": "172800",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 172800
+        }
+    },
+    "calculatedTotalContribution": 172800
+}

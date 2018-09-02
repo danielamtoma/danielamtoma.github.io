@@ -1,0 +1,78 @@
+{
+    "rcn": "193352",
+    "acronym": "SENSKIN",
+    "topics": "MG-8.1a-2014",
+    "title": "' SENsing SKIN'  for Monitoring-Based Maintenance of the Transport Infrastructure (SENSKIN)",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2019",
+    "objective": "Structural Health Monitoring (SHM) is expected to play a predominant role in the management of the transport infrastructure. Yet, SHM techniques continue to rely on point-based, as opposed to spatial, sensing requiring a dense network of these point-sensors increasing considerably the monitoring cost. Additionally, commercially available, strain sensors cannot measure strains beyond 1% to 2% and, thus, are not able to provide an alarm for an imminent catastrophe.\nSENSKIN aims to:\n(a) develop a dielectric-elastomer and micro-electronics-based skin-like sensing solution for the structural monitoring of the transport infrastructure that will offer spatial sensing of reversible (repeated) strains in the range of 0.012% to more than 10%, that requires little power to operate, is easy to install on an irregular surface, is low cost compared to existing sensors, allows simple signal processing and includes the ability of self-monitoring and self-reporting.\n(b) use the new and emerging technology of Delay Tolerant Network to secure that strain measurements acquired through the 'sensing skin' will reach the base station even under extreme environmental conditions and natural disaster events such as, high winds or an earthquake, where some communication networks could become inoperable. \n(c) develop a Decision-Support-System for proactive condition-based structural intervention under operating loads and intervention after extreme events. It will be based on an accurate structural assessment based on input from the strain sensors in (a) above and will examine the life-cycle economic, social and environmental implications of the feasible rehabilitation options and the resilience of the infrastructure to future changes in traffic demand that these options offer.\n(d) implement the above in the case of bridges and test, refine, evaluate and benchmark  the monitoring system (integrated a and b) and package (integrated a, b and c) on actual bridges.",
+    "totalCost": "3883041,63",
+    "ecMaxContribution": "3883041,63",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "EGNATIA ODOS AE;TRL LIMITED;MISTRAS GROUP HELLAS ANONYMOS BIOMICHANIKI KAI EMPORIKI ETAIREIA;RISA SICHERHEITSANALYSEN GMBH;DEMOCRITUS UNIVERSITY OF THRACE;T.E.C.N.I.C. TECNICHE E CONSULENZENELL'INGEGNERIA CIVILE-CONSULTING ENGINEERS-SPA;FORUM DES LABORATOIRES NATIONAUX EUROPEENS DE RECHERCHE ROUTIERE;UNIVERSITAET POTSDAM;TELETRONIC ROSSENDORF GMBH;KARAYOLLARI GENEL MUDURLUGU;STATE ENTERPRISE STATE ROAD SCIENTIFIC RESEARCH INSTITUTE NAMED AFTER M. P. SHULGIN;UNIVERSITAET STUTTGART;ENVIRONMENTAL RELIABILITY AND RISK ANALYSIS",
+    "participantCountries": "EL;UK;DE;IT;BE;TR;UA",
+    "projectParticipants": {
+        "999512930": {
+            "orgId": "999512930",
+            "orgName": "RISA SICHERHEITSANALYSEN GMBH",
+            "ecContrib": 335625
+        },
+        "951978080": {
+            "orgId": "951978080",
+            "orgName": "TELETRONIC ROSSENDORF GMBH",
+            "ecContrib": 258750
+        },
+        "998770880": {
+            "orgId": "998770880",
+            "orgName": "EGNATIA ODOS AE",
+            "ecContrib": 186000
+        },
+        "999854855": {
+            "orgId": "999854855",
+            "orgName": "UNIVERSITAET POTSDAM",
+            "ecContrib": 569688
+        },
+        "998808419": {
+            "orgId": "998808419",
+            "orgName": "MISTRAS GROUP HELLAS ANONYMOS BIOMICHANIKI KAI EMPORIKI ETAIREIA",
+            "ecContrib": 284969
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 326625
+        },
+        "999496828": {
+            "orgId": "999496828",
+            "orgName": "FORUM DES LABORATOIRES NATIONAUX EUROPEENS DE RECHERCHE ROUTIERE",
+            "ecContrib": 143838
+        },
+        "999475585": {
+            "orgId": "999475585",
+            "orgName": "TRL LIMITED",
+            "ecContrib": 536375
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 592094
+        },
+        "999659109": {
+            "orgId": "999659109",
+            "orgName": "DEMOCRITUS UNIVERSITY OF THRACE",
+            "ecContrib": 75129
+        },
+        "952546306": {
+            "orgId": "952546306",
+            "orgName": "KARAYOLLARI GENEL MUDURLUGU",
+            "ecContrib": 67188
+        },
+        "986547037": {
+            "orgId": "986547037",
+            "orgName": "STATE ENTERPRISE STATE ROAD SCIENTIFIC RESEARCH INSTITUTE NAMED AFTER M. P. SHULGIN",
+            "ecContrib": 45200
+        }
+    },
+    "calculatedTotalContribution": 3421481
+}

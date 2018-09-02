@@ -1,0 +1,23 @@
+{
+    "rcn": "209489",
+    "acronym": "CODE4Vision",
+    "topics": "ERC-2016-COG",
+    "title": "Computational Dissection of Effective Circuitry and Encoding in the Retina for Normal and Restored Vision",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2022",
+    "objective": "Understanding how neural circuits process and encode information is a fundamental goal in neuroscience. For the neural network of the retina, such knowledge is also of concrete importance for the development of vision restoration therapies for patients suffering from degeneration of photoreceptors. Artificial stimulation of retinal neurons through electronic implants or inserted light-sensitive proteins (ìoptogeneticsî) aims at reconstructing natural transmission of visual information to the brain. Recreating natural retinal activity, however, will require a thorough understanding of the complex and diverse neural code of the retina. The challenge lies in deciphering the various nonlinear operations and dynamics in the around 30 parallel signalling streams that emerge from the retina, represented by as many types of ganglion cells, the retinaís output neurons.\n\nThe CODE4Vision project will tackle this challenge by identifying the effective connectivity between the different types of retinal ganglion cells and their excitatory presynaptic partners, bipolar cells, and by determining the features of information processing between these neuronal layers. We will characterize the layout of bipolar cell inputs to large populations of ganglion cells with novel analyses that we derive from computational statistics and machine learning. We will then study the nonlinear and dynamical features of these connections by designing closed-loop experiments that automatically adjust visual stimuli to the identified layout of bipolar cells. These analyses will be supplemented by direct measurements of connections through simultaneous bipolar and ganglion cell recordings. The results will pave the way towards new models of how the retina encodes natural visual stimuli. Finally, we will apply this knowledge to mouse models of optogenetic vision restoration in order to develop stimulation schemes that emulate natural retinal stimulus encoding.",
+    "totalCost": "1991445",
+    "ecMaxContribution": "1991445",
+    "coordinator": "UNIVERSITAETSMEDIZIN GOETTINGEN - GEORG-AUGUST-UNIVERSITAET GOETTINGEN - STIFTUNG OEFFENTLICHEN RECHTS",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999492657": {
+            "orgId": "999492657",
+            "orgName": "UNIVERSITAETSMEDIZIN GOETTINGEN - GEORG-AUGUST-UNIVERSITAET GOETTINGEN - STIFTUNG OEFFENTLICHEN RECHTS",
+            "ecContrib": 1991445
+        }
+    },
+    "calculatedTotalContribution": 1991445
+}

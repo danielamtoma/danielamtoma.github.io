@@ -1,0 +1,58 @@
+{
+    "rcn": "198311",
+    "acronym": "5G-AURA",
+    "topics": "MSCA-ITN-2015-ETN",
+    "title": "Application-aware User-centric Programmable Architectures for 5G Multi-tenant Networks",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2019",
+    "objective": "The vision of future 5G networks encompasses a heterogeneous communication landscape in which existing Radio Access Technologies (RATs) will be integrated with evolving wireless technologies and systems, software-design network architectures and cloud-enabled services. Effectively harnessing the potential of all these innovative and heterogeneous features and providing a programmable multi-tenant network architectural framework will be the key to the success of 5G, and will be the main objective of the 5G-AURA project. Instead of focusing separately on the optimization of the diverse technological and architectural components, our efforts will be concentrated on providing a unifying framework that will sustain the coexistence and coordination of networking, software and cloud technologies, ensure network programmability and efficient resource orchestration, minimize control and signalling overhead, support multi-tenancy and scalability, and promote the development of new business models for emerging services. To efficiently achieve these objectives, 5G-AURA has identified 12 specific research challenges which have been mapped to 14 individual projects that will be carried out by 14 recruited ESRs. The projectís consortium, formed by four academic institutions and four industrial partners, has the necessary expertise and available infrastructures to form a high quality training network across multiple disciplines, sectors and countries. Considering that 5G is currently in an early development state and there are multiple open issues on 5G protocols, network architectures and technologies and standardization efforts, the timing of 5G-AURA is perfect, and the project has a strong potential to have significant impact on academia and industry and enhance the European innovation capacity in terms of technical contributions, intersectoral training of scientists and professional and novel business opportunities.",
+    "totalCost": "3545458,56",
+    "ecMaxContribution": "3545458,56",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "FASMETRICS YPIRESIES KAI PROIONTA ILEKTROMAGNITIKON PEDION ANONYMI ETAIREIA;EDUCATIONAL OTE AE;UNIVERSITY OF YORK;UNIVERSITAT POLITECNICA DE CATALUNYA;TECHNISCHE UNIVERSITAET KAISERSLAUTERN;NEC EUROPE LTD;IQUADRAT INFORMATICA SL",
+    "participantCountries": "EL;UK;ES;DE",
+    "projectParticipants": {
+        "935355966": {
+            "orgId": "935355966",
+            "orgName": "FASMETRICS YPIRESIES KAI PROIONTA ILEKTROMAGNITIKON PEDION ANONYMI ETAIREIA",
+            "ecContrib": 242387
+        },
+        "999885895": {
+            "orgId": "999885895",
+            "orgName": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+            "ecContrib": 498433
+        },
+        "996237822": {
+            "orgId": "996237822",
+            "orgName": "IQUADRAT INFORMATICA SL",
+            "ecContrib": 495746
+        },
+        "949915569": {
+            "orgId": "949915569",
+            "orgName": "EDUCATIONAL OTE AE",
+            "ecContrib": 242387
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 525751
+        },
+        "999978336": {
+            "orgId": "999978336",
+            "orgName": "UNIVERSITY OF YORK",
+            "ecContrib": 546576
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 495746
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 498433
+        }
+    },
+    "calculatedTotalContribution": 3545459
+}

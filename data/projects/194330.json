@@ -1,0 +1,38 @@
+{
+    "rcn": "194330",
+    "acronym": "Film265",
+    "topics": "ICT-18-2014",
+    "title": "Improving European VoD Creative Industry with High Efficiency Video Delivery",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2016",
+    "objective": "Film265 delivers a comprehensive approach to support European small and medium VoD services with the most innovative technology in video delivery. It aims at providing them with the technological edge needed to compete in the international market of film distribution in the internet. The core of Film265 is to adapt a HEVC/H.265 video codec for VoD scenarios, including a decoder integrated into a video player and an encoder integrated into a transcoding application in the cloud. This development will be supported by a comparison of HEVC/H.265 with current solutions that uses H.264/AVC for full length real-life film material.\n\nIn order to assess feedback on the user demands and needs of the resulting video playouts Film265 will develop statistic tools that allow to determine the Quality of Experience by measuring buffering times, performance, delivery rate, the time watched etc. The tool will mainly consist of a plugin and a player that can be used by any VoD service around the globe.\n\nFinally, in order to create a fully market-ready solution, we will create APIs that allow all relevant industry participants to make use of what we have developed.\n\nThe consortium consists of one university: TU Berlin (Germany), and three SMES: Reelport (France/Germany), Cinando (France) and LevelK (Denmark). TU Berlin (AES group) has an extensive experience on efficient implementations of video codecs, Reelport is a VoD provider for film festivals and other film-related projects. Cinando handles the market of the Cannes FIlm Festival, and LevelK is a Danish film distributor using VoD technologies. TU Berlin will provide the new video codec; Reelport its existing PicurePipe solution cloud encoding solution, and the new quality analysis tool; and Cinando and LevelK will integrate the new technologies into their VoD solutions, and will provide feedback about the efficiency and quality obtained by using the new technologies.",
+    "totalCost": "1131934,75",
+    "ecMaxContribution": "908851",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "reelport GmbH;SOCIETE DE GESTION D'OPERATIONS COMMERCIALES POUR LE FESTIVAL INTERNATIONAL DU FILM;LEVELK APS",
+    "participantCountries": "DE;FR;DK",
+    "projectParticipants": {
+        "960164492": {
+            "orgId": "960164492",
+            "orgName": "reelport GmbH",
+            "ecContrib": 361200
+        },
+        "948975251": {
+            "orgId": "948975251",
+            "orgName": "SOCIETE DE GESTION D'OPERATIONS COMMERCIALES POUR LE FESTIVAL INTERNATIONAL DU FILM",
+            "ecContrib": 70604
+        },
+        "940379208": {
+            "orgId": "940379208",
+            "orgName": "LEVELK APS",
+            "ecContrib": 88725
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 388322
+        }
+    },
+    "calculatedTotalContribution": 908851
+}

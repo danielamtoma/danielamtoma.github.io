@@ -1,0 +1,63 @@
+{
+    "rcn": "205506",
+    "acronym": "GO0D MAN",
+    "topics": "FOF-03-2016",
+    "title": "aGent Oriented Zero Defect Multi-stage mANufacturing",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "Multi-stage manufacturing, which is typical in important industrial sectors such as automotive, house hold appliance and semiconductor manufacturing just to name few, is inherently complex. The main idea of GO0D MAN project is to integrate and combine process and quality control for a multi ñstage manufacturing production into a distributed system architecture built on agent-based Cyber-Physical Systems (CPS) and smart inspection tools designed to support Zero-Defect Manufacturing (ZDM) strategies. Data analytics tools provide a mean for knowledge build-up, system control and ZDM management. Real time and early identification of deviations and trends, performed at local level, allow to prevent the generation of defects at single stage and their propagation to down-stream processes, enabling the global system to be predictive (early detection of process faults) and proactive (self-adaptation to different conditions).\nThe GO0D MAN project is based on the results of previous successful EU projects and integrates them to realize and deploy a Zero Defect Manufacturing framework for multi-stage production lines, in collaboration with industry partners, a system integrator, two technology providers and three end users. The use cases are representative of key European industrial sectors and have different types of multi-stage production systems: the first use case concerns highly automated serial mass production of automotive components, the second use case is about batch production of high precision mechanical components for automotive electro valves, the third use case produces professional customized products such as ovens for restaurants. Successful completion of this project will provide a replicable system architecture for ZDM. The results will be broadly applicable in a variety of industries to improve the overall quality and productivity of production systems.",
+    "totalCost": "5027625",
+    "ecMaxContribution": "4012462",
+    "coordinator": "AEA s.r.l.",
+    "coordinatorCountry": "IT",
+    "participants": "ELECTROLUX PROFESSIONAL SPA;UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO;VOLKSWAGEN AUTOEUROPA, Lda;ZANNINI POLAND SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA;Instituto PolitÈcnico de BraganÁa;UNIVERSITA POLITECNICA DELLE MARCHE;BOC ASSET MANAGEMENT GMBH;PRIVREDNO DRUSTVO ZA PRUZANJE USLUGA ISTRAZIVANJE I RAZVOJ NISSATECH INNOVATION CENTRE DOO",
+    "participantCountries": "IT;PT;PL;AT;RS",
+    "projectParticipants": {
+        "999786179": {
+            "orgId": "999786179",
+            "orgName": "BOC ASSET MANAGEMENT GMBH",
+            "ecContrib": 581875
+        },
+        "951719187": {
+            "orgId": "951719187",
+            "orgName": "ELECTROLUX PROFESSIONAL SPA",
+            "ecContrib": 302225
+        },
+        "999633889": {
+            "orgId": "999633889",
+            "orgName": "UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO",
+            "ecContrib": 563750
+        },
+        "998110795": {
+            "orgId": "998110795",
+            "orgName": "VOLKSWAGEN AUTOEUROPA, Lda",
+            "ecContrib": 219275
+        },
+        "923633225": {
+            "orgId": "923633225",
+            "orgName": "ZANNINI POLAND SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+            "ecContrib": 283062
+        },
+        "991209924": {
+            "orgId": "991209924",
+            "orgName": "AEA s.r.l.",
+            "ecContrib": 568400
+        },
+        "965052225": {
+            "orgId": "965052225",
+            "orgName": "PRIVREDNO DRUSTVO ZA PRUZANJE USLUGA ISTRAZIVANJE I RAZVOJ NISSATECH INNOVATION CENTRE DOO",
+            "ecContrib": 413875
+        },
+        "998482208": {
+            "orgId": "998482208",
+            "orgName": "Instituto Politécnico de Bragança",
+            "ecContrib": 495000
+        },
+        "999866689": {
+            "orgId": "999866689",
+            "orgName": "UNIVERSITA POLITECNICA DELLE MARCHE",
+            "ecContrib": 585000
+        }
+    },
+    "calculatedTotalContribution": 4012462
+}

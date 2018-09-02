@@ -1,0 +1,23 @@
+{
+    "rcn": "212108",
+    "acronym": "EXPROTEA",
+    "topics": "ERC-2017-STG",
+    "title": "Exploring Relations in Structured Data with Functional Maps",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "We propose to lay the theoretical foundations and design efficient computational methods for analyzing, quantifying and exploring relations and variability in structured data sets, such as collections of geometric shapes, point clouds, and large networks or graphs, among others. Unlike existing methods that are tied and often limited to the underlying data representation, our goal is to design a unified framework in which variability can be processed in a way that is largely agnostic to the underlying data type. \nIn particular, we propose to depart from the standard representations of objects as collections of primitives, such as points or triangles, and instead to treat them as functional spaces that can be easily manipulated and analyzed. Since real-valued functions can be defined on a wide variety of data representations and as they enjoy a rich algebraic structure, such an approach can provide a completely novel unified framework for representing and processing different types of data. Key to our study will be the exploration of relations and variability between objects, which can be expressed as operators acting on functions and thus treated and analyzed as objects in their own right using the vast number of tools from functional analysis in theory and numerical linear algebra in practice. \nSuch a unified computational framework of variability will enable entirely novel applications including accurate shape matching, efficiently tracking and highlighting most relevant changes in evolving systems, such as dynamic graphs, and analysis of shape collections. Thus, it will permit not only to compare or cluster objects, but also to reveal where and how they are different and what makes instances unique, which can be especially useful in medical imaging applications. Ultimately, we expect our study to create to a new rigorous, unified paradigm for computational variability, providing a common language and sets of tools applicable across diverse underlying domains.",
+    "totalCost": "1499845",
+    "ecMaxContribution": "1499845",
+    "coordinator": "Ecole Polytechnique of Paris",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999864264": {
+            "orgId": "999864264",
+            "orgName": "ECOLE POLYTECHNIQUE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

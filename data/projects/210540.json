@@ -1,0 +1,23 @@
+{
+    "rcn": "210540",
+    "acronym": "NonSequeToR",
+    "topics": "ERC-2016-ADG",
+    "title": "Non-sequence models for tokenization replacement",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Natural language processing (NLP) is concerned with\ncomputer-based processing of natural language, with\napplications such as human-machine interfaces and\ninformation access.  The capabilities of NLP are currently\nseverely limited compared to humans. NLP has high error\nrates for languages that differ from English (e.g.,\nlanguages with higher morphological complexity like Czech)\nand for text genres that are not well edited (or noisy) and\nthat are of high economic importance, e.g., social media\ntext.\n\nNLP is based on machine learning, which requires as basis a\nrepresentation that reflects the underlying structure of the\ndomain, in this case the structure of language.  But\nrepresentations currently used are symbol-based: text is\nbroken into surface forms by sequence models that implement\ntokenization heuristics and treat each surface form as a\nsymbol or represent it as an embedding (a vector\nrepresentation) of that symbol.  These heuristics are\narbitrary and error-prone, especially for non-English and\nnoisy text, resulting in poor performance.\n\n\nAdvances in deep learning now make it possible to take the\nembedding idea and liberate it from the limitations of\nsymbolic tokenization.  I have the interdisciplinary\nexpertise in computational linguistics, computer science and\ndeep learning required for this project and am thus in the\nunique position to design a radically new robust and\npowerful non-symbolic text representation that captures all\naspects of form and meaning that NLP needs for successful\nprocessing.\n\nBy creating a text representation for NLP that is not\nimpeded by the limitations of symbol-based tokenization, the\nfoundations are laid to take NLP applications like\nhuman-machine interaction, human-human communication\nsupported by machine translation and information access to\nthe next level.",
+    "totalCost": "2500000",
+    "ecMaxContribution": "2500000",
+    "coordinator": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 2500000
+        }
+    },
+    "calculatedTotalContribution": 2500000
+}

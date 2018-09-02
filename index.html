@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>HORIZON 2020</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+
+  <link rel="stylesheet" type="text/css" href="assets/css/leaflet.css" />
+  <link rel="stylesheet" type="text/css" href="assets/css/MarkerCluster.css" />
+  <link rel="stylesheet" type="text/css" href="assets/css/MarkerCluster.Default.css" />
+  <link rel="stylesheet" type="text/css" href="assets/css/keen-dashboards.css" />
+  <link rel="stylesheet" type="text/css" href="assets/css/normalize.css" />
+  <link rel="stylesheet" type="text/css" href="assets/css/ion.rangeSlider.css" />
+  <link rel="stylesheet" type="text/css" href="assets/css/ion.rangeSlider.skinFlat.css" />
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <script type='text/javascript' src='assets/js/jquery.min.js'></script>
+  <script type='text/javascript' src='assets/js/leaflet.js'></script>
+  <script type='text/javascript' src='assets/js/leaflet.markercluster.js'></script>
+  <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="assets/js/ion.rangeSlider.js"></script>
+  <script type="text/javascript" src="assets/js/d3.v3.min.js"></script>
+  <script type="text/javascript" src="data/maps/cordis.min.js"></script>
+
+  <style>
+  .node {
+     cursor: pointer;
+   }
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+  }
+
+  .node text {
+    font-size:10px;
+    font-family:sans-serif;
+  }
+
+  .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
+  }
+
+  .templink {
+   fill: none;
+   stroke: red;
+   stroke-width: 3px;
+  }
+  .ghostCircle.show{
+    display:block;
+  }
+  .ghostCircle, .activeDrag .ghostCircle{
+    display: none;
+  }
+  .widget {
+    margin: 0 auto;
+    width:350px;
+    margin-top:50px;
+    background-color: #222D3A;
+    border-radius: 5px;
+    box-shadow: 0px 0px 1px 0px #06060d;
+  }
+  .header{
+    background-color: #29384D;
+    height:40px;
+    color:#929DAF;
+    text-align: center;
+    line-height: 40px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    font-weight: 400;
+    font-size: 1.5em;
+    text-shadow: 1px 1px #06060d;
+  }
+  .chart-container{
+    padding:25px;
+  }
+  .shadow {
+    -webkit-filter: drop-shadow( 0px 3px 3px rgba(0,0,0,.5) );
+    filter: drop-shadow( 0px 3px 3px rgba(0,0,0,.5) );
+  }
+  .link line {
+    stroke: #696969;
+  }
+  .link line.separator {
+    stroke: #fff;
+    stroke-width: 2px;
+  }
+  .node text {
+    font: 10px sans-serif;
+    pointer-events: none;
+  }
+  #range-label {
+      text-align: center;
+  }
+  #container{
+    width: 100%;
+    height: 30px;
+  }
+  #selecteur {
+    width: 100%;
+    height: 100%;
+    min-height: 600px;
+  }
+  .tab-content{
+    border: 1px solid #e2e2e2;
+  }
+  .nav-tabs{
+    border-bottom: 0px;
+  }
+  .nav-tabs li a {
+     outline:none;
+  }
+  .data-content-wrapper{
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+  }
+  .data-content-d3{
+    width: 100%;
+    height: 100%;
+    min-height: 600px;
+  }
+  .data-title{
+    margin-top: 10px;
+  }
+  .data-content-header{
+    min-height: 1.1em;
+    text-align: center;
+    position:relative;
+    white-space: nowrap;
+    outline: 0 !important;
+    background-color: #e9e9e9;
+    border-color: #ddd;
+    color: #333;
+    text-shadow: 0 1px 0 #eee;
+    font-weight: 700;
+    border-top: 2px solid #CCC;
+    border-bottom: 1px solid #CCC;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -15px;
+  }
+  .text-description {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  .chart-title{
+    font-weight: bold;
+  }
+  .font-links-company-project{
+    color: #5dade2;
+    font-weight: normal;
+  }
+  .font-links-company-project:hover{
+    color: #48c9b0;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .font-links-company-project::after {
+    display: block;
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+  }
+  #map {
+    width: 100%;
+    height: 100%;
+    min-height: 600px;
+  }
+  .bar{
+    fill:  #5dade2;
+    stroke: grey;
+  }
+  .axis {
+    font: 10px sans-serif;
+  }
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  .checkbox {
+    font-weight:normal;
+  }
+  path.color0 {
+      fill: #48c9b0;
+  }
+  path.color1 {
+      fill: #5dade2;
+  }
+  .tooltip {
+    position: absolute;
+    text-align: center;
+    width: 120px;
+    height: 45px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: #03263d;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+  }
+  #pie-chart {
+    background-color: #ffffff;
+    font: 10px sans-serif;
+    height: 400px;
+    text-shadow: none;
+    width: 650px;
+    margin-left: auto;
+    margin-right:auto;
+  }
+  #pie-chart .total{
+    font-size: 18px;
+    font-weight: bold;
+  }
+  #pie-chart .units{
+    fill: gray;
+    font-size: 12px;
+  }
+  #pie-chart .label{
+    fill: #CCC;
+    font-size: 12px;
+  }
+  #pie-chart .value{
+    font-size: 14px;
+  }
+
+  #slider label {
+      position: absolute;
+      width: 20px;
+      margin-left: -20px;
+      text-align: center;
+      margin-top: 30px;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  .empty-selection {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    min-height: 800px;
+    color: #c6c6c6;
+    text-shadow: 0 1px 0 #eee;
+    font-weight: 700;
+  }
+  .empty-selection-text {
+    padding-top: 20px;
+    font-size: 48px;
+    min-height: 750px;
+  }
+  .graph-description{
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+
+</head>
+<body class="keen-dashboard" style="padding-top: 80px;">
+
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="./index.html">HORIZON 2020 - European Union Funding for Research & Innovation</a>
+      </div>
+      <div class="navbar-collapse collapse">
+      </div>
+    </div>
+  </div>
+  <div id="companyId" style="display: none;"></div>
+  <div id="projectId" style="display: none;"></div>
+  <div id="sectorSelector" style="display: none;">REC,HES</div>
+  <div class="container-fluid">
+
+    <div class="row">
+      <div class="col-sm-8" id="maps">
+        <div class="chart-wrapper">
+          <div class="chart-title">
+            Géolocalisation
+          </div>
+          <div class="chart-stage">
+            <div id="grid-1-1">
+              <div id="map"></div>
+              <script type='text/javascript' src='assets/custom_js/horizon2020.js'></script>
+            </div>
+          </div>
+          <div class="chart-notes">
+            Sélectionnez une compagnie
+          </div>
+        </div>
+      </div>
+      <!-- DEBUT SELECTEURS -->
+      <div class="col-sm-4">
+        <div class="chart-wrapper">
+          <div class="chart-title" id="mySelectorTitle">
+          Sélecteurs
+          </div>
+          <div class="chart-stage">
+            <div id="selecteur">
+
+              <!-- Début Search form -->
+              <div style="padding:10px;">
+                <input id="search-form" class="form-control" type="text" placeholder="Search" autocomplete="off" aria-label="Search">
+              </div>
+              <script type="text/javascript">
+                $(document).ready(function() {
+                  var timeoutID = null;
+                  function findMember(str) {
+                    mapSearchField(str);
+                  }
+                  $('#search-form').keyup(function(e) {
+                    clearTimeout(timeoutID);
+                    timeoutID = setTimeout(findMember.bind(undefined, e.target.value), 500);
+                  });
+                });
+              </script>
+              <!-- Fin Search form -->
+              <!-- Début slider -->
+              <div class="section" style="padding:10px;">
+
+                  <p>Contribution EU in €:</p>
+
+                  <input type="text" id="rangeSlider" value="" name="rangeSlider" />
+
+                  <script type="text/javascript">
+                    var timeoutSlider = null;
+                    function findSlider(min, max) {
+                      clearTimeout(timeoutSlider);
+                      timeoutID = setTimeout(mapSlider.bind(undefined, min, max), 500);
+                    }
+                    $(function () {
+                        $("#rangeSlider").ionRangeSlider({
+                            hide_min_max: true,
+                            min: 0,
+                            max: 1000000000,
+                            from: 2,
+                            to: 5,
+                            type: 'double',
+                            values: [0, 500000, 1000000, 1000000, 50000000, 100000000, 1000000000],
+                            prefix: "€ ",
+                            grid: true,
+                            onStart: function (data) {
+                                mapSlider(data.from, data.to);
+                            },
+                            onFinish: function (data) {
+                                $('#spinner').show();
+                                findSlider(data.from, data.to);
+                            },
+                        });
+                      });
+                  </script>
+                  <div style="height: 40px">
+                    <div id="spinner" align="center" style="padding:10px;"><i class="fa fa-spinner fa-spin fa-lg fa-fw" style="font-size:24px"></i></div>
+                  </div>
+
+              </div>
+
+              <!--OTH, Others
+                  HES, Higher or secondary education
+                  PRC, Private for profit (excl. education)
+                  REC, Research organisations
+                  PUB, Public body (excl. research and education) -->
+
+              <div style="padding-left: 40px" id="barchart_selector">
+                <form>
+                  <label class="checkbox">
+                    <input type="checkbox" value="PRC" onchange="checkSector(this)" autocomplete="off">(PRC) Private for profit (excl. education)
+                  </label>
+                  <label class="checkbox">
+                    <input type="checkbox" value="REC" onchange="checkSector(this)" autocomplete="off" checked>(REC) Research organisations
+                  </label>
+                  <label class="checkbox">
+                    <input type="checkbox" value="HES" onchange="checkSector(this)" autocomplete="off" checked>(HES) Higher or secondary education
+                  </label>
+                  <label class="checkbox">
+                    <input type="checkbox" value="PUB" onchange="checkSector(this)" autocomplete="off">(PUB) Public body (excl. research and education)
+                  </label>
+                  <label class="checkbox">
+                    <input type="checkbox" value="OTH" onchange="checkSector(this)" autocomplete="off">(OTH) Others
+                  </label>
+                </form>
+              </div>
+              <script type="text/javascript">
+
+              $(document).ready(function() {
+                $('#spinner').show();
+                findSector();
+              });
+
+              var timeoutSlider = null;
+              function findSector() {
+                clearTimeout(timeoutSlider);
+                timeoutID = setTimeout(sectorSel.bind(undefined), 500);
+              }
+
+              var clickedSectors = ["REC", "HES"];
+
+              function checkSector(sector) {
+                sectorName = '#'+sector.value;
+                var found = clickedSectors.includes(sector.value);
+                if (found == false){
+                    clickedSectors.push(sector.value);
+                    $(sectorName).css("fill", "#48c9b0");
+                }
+                else {
+                    clickedSectors.splice(clickedSectors.indexOf(sector.value), 1 );
+                    $(sectorName).css("fill", "#5dade2");
+                }
+                $("#sectorSelector").html(clickedSectors.toString());
+                $('#spinner').show();
+                findSector();
+              }
+
+              </script>
+              <!-- Fin slider -->
+              <!-- Début barchart -->
+              <div align="center" id="barchart_selector">
+                  <p><div id="barChartSelector"></div><p>
+              </div>
+              <!-- Fin barchart -->
+
+            </div>
+          </div>
+          <div class="chart-notes">
+            Notes about this chart
+          </div>
+        </div>
+      </div>
+      <!-- FIN SELECTEURS -->
+    </div>
+
+    <!-- DEBUT COMPAGNIES -->
+    <div class="row">
+      <div class="col-sm-8 col-md-6" id="companies">
+        <div class="chart-wrapper">
+          <div class="chart-title" id="myCompanyTitle"><img src="assets/img/company24.png" alt="Company" />Compagnie</div>
+          <div class="chart-stage">
+            <!-- DEBUT MENU -->
+            <div class="menu">
+              <ul class="nav nav-tabs" id="myTab">
+                <li class="active">
+                  <a data-toggle="tab" href="#company_1">Informations</a>
+                </li>
+                <li>
+                  <a data-toggle="tab" href="#company_2" onclick='companyRelations()'>Relations</a>
+                </li>
+                <li>
+                  <a data-toggle="tab" href="#company_3" onclick='companyContribution();companyContributionProportion()'>Coûts</a>
+                </li>
+                <li>
+                  <a data-toggle="tab" href="#company_4" onclick='companyRelationProjects()'>Projets</a>
+                </li>
+              </ul>
+            <!-- FIN MENU -->
+            <!-- DEBUT TAB COMPAGNIES -->
+              <div class="tab-content" id="myTabContent">
+
+                <div id="company_1" class="tab-pane fade in active">
+                  <div class="data-content-wrapper">
+                    <div class="data-content-header"><h3 class="data-title">Informations générales</h3></div>
+                    <p><div class="graph-description" id="myCompanyGraph_1_description"></div></p>
+                    <p><div class="data-content-d3" id="myCompanyGraph_1"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/company48.png" alt="Company" /></br>Sélectionnez</br>une compagnie</div></div></div><p>
+                  </div>
+                </div>
+
+                <div id="company_2" class="tab-pane fade">
+                  <div class="data-content-wrapper">
+                    <div class="data-content-header"><h3 class="data-title">Relations</h3></div>
+                    <p><div class="graph-description" id="myCompanyGraph_2_description"></div></p>
+                    <p><div class="data-content-d3" id="myCompanyGraph_2"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/company48.png" alt="Company" /></br>Sélectionnez</br>une compagnie</div></div></div><p>
+                  </div>
+                </div>
+
+                <div id="company_3" class="tab-pane fade">
+                  <div class="data-content-wrapper">
+                    <div class="data-content-header"><h3 class="data-title">Coûts</h3></div>
+                    <p><div class="graph-description" id="myCompanyGraph_3_description"></div></p>
+                    <p><div class="data-content-d3" id="myCompanyGraph_3">
+                      <div class="graph-description" id="myCompanyGraph_3_1_description"></div>
+                      <div id="myCompanyGraph_3_1" style="position: relative;">
+                        <div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/company48.png" alt="Company" /></br>Sélectionnez</br>une compagnie</div></div>
+                      </div>
+                      <div class="graph-description" id="myCompanyGraph_3_2_description"></div>
+                      <div id="myCompanyGraph_3_2" style="position: relative;"></div>
+                    </div><p>
+                  </div>
+                </div>
+
+                <div id="company_4" class="tab-pane fade">
+                  <div class="data-content-wrapper">
+                    <div class="data-content-header"><h3 class="data-title">Projets</h3></div>
+                    <p><div class="graph-description" id="myCompanyGraph_4_description"></div></p>
+                    <p><div class="data-content-d3" id="myCompanyGraph_4"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/company48.png" alt="Company" /></br>Sélectionnez</br>une compagnie</div></div></div><p>
+                  </div>
+                </div>
+
+              </div>
+              <!-- FIN TAB COMPAGNIES -->
+            </div>
+          </div>
+          <div class="chart-notes">
+            Notes about this chart
+          </div>
+        </div>
+      </div>
+      <!-- FIN COMPAGNIES -->
+
+      <!-- DEBUT PROJETS -->
+      <div class="col-sm-8 col-md-6" id="projects">
+        <div class="chart-wrapper">
+          <div class="chart-title" id="myProjectTitle"><img src="assets/img/project24.png" alt="Projet" />Projet</div>
+          <div class="chart-stage">
+              <!-- DEBUT MENU -->
+            <div class="menu">
+              <ul class="nav nav-tabs" id="myTab">
+                <li class="active">
+                  <a data-toggle="tab" href="#project_1" onclick='projectInformation()'>Informations</a>
+                </li>
+                <li>
+                  <a data-toggle="tab" href="#project_2" onclick='projectRelationCompanies()'>Compagnies</a>
+                </li>
+                <li>
+                  <a data-toggle="tab" href="#project_3" onclick='projectContribution();projectContributionProportion()'>Coûts</a>
+                </li>
+                <li>
+                  <a data-toggle="tab" href="#project_4" onclick='projectTableau()'>Tableau</a>
+                </li>
+              </ul>
+              <!-- FIN MENU -->
+              <!-- DEBUT TAB PROJECT -->
+              <div class="tab-content" id="myTabContent">
+
+                <div id="project_1" class="tab-pane fade in active">
+                  <div class="data-content-wrapper">
+                    <div class="data-content-header"><h3 class="data-title">Informations générales</h3></div>
+                    <p><div class="graph-description" id="myProjectGraph_1_description"></div></p>
+                    <p>
+                      <div class="data-content-d3" id="myProjectGraph_1">
+                        <div id="myProjectGraph_1_1" style="position: relative;"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/project48.png" alt="Projet" /></br>Sélectionnez</br>un projet</div></div></div>
+                        <div id="myProjectGraph_1_2" style="position: relative;"></div>
+                      </div>
+                    </p>
+                  </div>
+                </div>
+
+                <div id="project_2" class="tab-pane fade">
+                  <div class="data-content-wrapper">
+                    <div class="data-content-header"><h3 class="data-title">Relations</h3></div>
+                    <p><div class="graph-description" id="myProjectGraph_2_description"></div></p>
+                    <p><div class="data-content-d3" id="myProjectGraph_2"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/project48.png" alt="Projet" /></br>Sélectionnez</br>un projet</div></div></div></p>
+                  </div>
+                </div>
+
+                <div id="project_3" class="tab-pane fade">
+                  <div class="data-content-wrapper">
+                    <div class="data-content-header"><h3 class="data-title">Coûts</h3></div>
+                    <p><div class="graph-description" id="myProjectGraph_3_description"></div></p>
+                    <p><div class="data-content-d3" id="myProjectGraph_3">
+                    <div class="graph-description" id="myProjectGraph_3_1_description"></div>
+                    <div id="myProjectGraph_3_1" style="position: relative;">
+                      <div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/project48.png" alt="Projet" /></br>Sélectionnez</br>un projet</div></div>
+                    </div>
+                    <div class="graph-description" id="myProjectGraph_3_2_description"></div>
+                    <div id="myProjectGraph_3_2" style="position: relative;"></div>
+                  </div><p>
+                  </div>
+                </div>
+
+                <div id="project_4" class="tab-pane fade">
+                  <div class="data-content-wrapper">
+                    <div class="data-content-header"><h3 class="data-title">Contributions</h3></div>
+                    <p><div class="graph-description" id="myProjectGraph_4_description"></div></p>
+                    <p><div class="data-content-d3" id="myProjectGraph_4"><div class="empty-selection"><div class="empty-selection-text"><img src="assets/img/project48.png" alt="Projet" /></br>Sélectionnez</br>un projet</div></div></div></p>
+                  </div>
+                </div>
+              </div>
+              <!-- FIN TAB PROJECT -->
+
+            </div>
+          </div>
+          <div class="chart-notes">
+            Notes about this chart
+          </div>
+        </div>
+      </div>
+      <!-- FIN PROJETS -->
+    </div>
+
+  <div class="container-fluid">
+    <p class="small text-muted">Visualisations de données 2018 - Daniela-Maria Toma</p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+{
+    "rcn": "206347",
+    "acronym": "UNICORN",
+    "topics": "ICT-06-2016",
+    "title": "A NOVEL FRAMEWORK FOR MULTI-CLOUD SERVICES DEVELOPMENT, ORCHESTRATION, DEPLOYMENT AND CONTINUOUS MANAGEMENT FOSTERING CLOUD TECHNOLOGIES UPTAKE FROM DIGITAL SMES AND STARTUPS",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Unicorn aims to simplify the design, deployment and management of secure and elastic ñby design- multi-cloud services. This will be achieved by a) development and design libraries that will provide security enforcement mechanisms, data privacy restrictions, monitoring metric collection and resource management; b) enabling continuous orchestration and automatic optimization of portable and dynamic cloud services running on virtual instances or micro-execution containers for increased security, data protection privacy and vast resource (de)-allocation. Towards this end, and building upon this umbrella concept, the Unicorn vision can be considered two-fold: to enable software developers to design and develop secure and elastic applications and to increase the awareness of all stakeholders, in particular SMEs and Startups.                                \nUnicorn will reduce software release time and provide a powerful tool for SMEs  to improve software design and continuous productivity enhancement. The innovation activities in the Unicorn project will be based upon existing solutions and developments to the largest possible extent, and build upon the S&T results of European RIA projects including CELAR, PaaSport, PaaSword and ARCADIA.",
+    "totalCost": "4173850",
+    "ecMaxContribution": "3415487",
+    "coordinator": "CAS SOFTWARE AG",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSIDAD POLITECNICA DE CARTAGENA;EUROPEAN DIGITAL SME ALLIANCE;GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;DIN DEUTSCHES INSTITUT FUER NORMUNG E.V.;MAGGIOLI SPA;REDIKOD AB;STEINBEIS BERATUNGSZENTREN GMBH;UNIVERSITY OF CYPRUS;SUITE5 LTD",
+    "participantCountries": "ES;BE;EL;DE;IT;SE;CY;UK",
+    "projectParticipants": {
+        "999835843": {
+            "orgId": "999835843",
+            "orgName": "UNIVERSITY OF CYPRUS",
+            "ecContrib": 674375
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 324375
+        },
+        "952747678": {
+            "orgId": "952747678",
+            "orgName": "SUITE5 LTD",
+            "ecContrib": 320512
+        },
+        "999797334": {
+            "orgId": "999797334",
+            "orgName": "CAS SOFTWARE AG",
+            "ecContrib": 406438
+        },
+        "999548917": {
+            "orgId": "999548917",
+            "orgName": "DIN DEUTSCHES INSTITUT FUER NORMUNG E.V.",
+            "ecContrib": 147225
+        },
+        "999828859": {
+            "orgId": "999828859",
+            "orgName": "UNIVERSIDAD POLITECNICA DE CARTAGENA",
+            "ecContrib": 258125
+        },
+        "985034419": {
+            "orgId": "985034419",
+            "orgName": "GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",
+            "ecContrib": 252875
+        },
+        "991656609": {
+            "orgId": "991656609",
+            "orgName": "EUROPEAN DIGITAL SME ALLIANCE",
+            "ecContrib": 241875
+        },
+        "950078238": {
+            "orgId": "950078238",
+            "orgName": "STEINBEIS BERATUNGSZENTREN GMBH",
+            "ecContrib": 176312
+        },
+        "996621457": {
+            "orgId": "996621457",
+            "orgName": "MAGGIOLI SPA",
+            "ecContrib": 381938
+        },
+        "968260112": {
+            "orgId": "968260112",
+            "orgName": "REDIKOD AB",
+            "ecContrib": 231438
+        }
+    },
+    "calculatedTotalContribution": 3415488
+}

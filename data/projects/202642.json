@@ -1,0 +1,178 @@
+{
+    "rcn": "202642",
+    "acronym": "AMASS",
+    "topics": "ECSEL-07-2015",
+    "title": "Architecture-driven, Multi-concern and Seamless Assurance and Certification of Cyber-Physical Systems",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2019",
+    "objective": "Embedded systems have significantly increased in technical complexity towards open, interconnected systems. This has exacerbated the problem of ensuring dependability in the presence of human, environmental and technological risks. The rise of complex Cyber-Physical Systems (CPS) has led to many initiatives to promote reuse and automation of labor-intensive activities. Two large-scale projects are OPENCOSS and SafeCer, which dealt with assurance and certification of software-intensive critical systems using incremental and model-based approaches. OPENCOSS defined a Common Certification Language (CCL), unifying concepts from different industries to build a harmonized approach to reduce time and cost overheads, via facilitating the reuse of certification assets. SafeCer developed safety-oriented process lines, a component model, contract-based verification techniques, and process/product-based model-driven safety certification for compositional development and certification of CPSs.\nAMASS will create and consolidate a de-facto European-wide assurance and certification open tool platform, ecosystem and self-sustainable community spanning the largest CPS vertical markets. We will start by combining and evolving the OPENCOSS and SafeCer technological solutions towards end-user validated tools, and will enhance and perform further research into new areas not covered by those projects. The ultimate aim is to lower certification costs in face of rapidly changing product features and market needs. This will be achieved by establishing a novel holistic and reuse-oriented approach for architecture-driven assurance (fully compatible with standards e.g. AUTOSAR and IMA), multi-concern assurance (compliance demonstration, impact analyses, and compositional assurance of security and safety aspects), and for seamless interoperability between assurance/certification and engineering activities along with third-party activities (external assessments, supplier assurance).",
+    "totalCost": "20274885,08",
+    "ecMaxContribution": "6178242,9",
+    "coordinator": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+    "coordinatorCountry": "ES",
+    "participants": "CENTRO DE INNOVACION Y SOLUCIONES EMPRESARIALES Y TECNOLOGICAS SL;INTECS SPA;ECLIPSE FOUNDATION EUROPE GMBH;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;Masarykova univerzita;ALTEN SVERIGE AKTIEBOLAG;ANSYS MEDINI TECHNOLOGIES AG;ALLIANCE POUR LES TECHNOLOGIES DE L'INFORMATIQUE;HONEYWELL INTERNATIONAL SRO;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;THALES ITALIA SPA;INFINEON TECHNOLOGIES AG;TELVENT ENERGIA SA;RISE RESEARCH INSTITUTES OF SWEDEN AB;KNOWLEDGE CENTRIC SOLUTIONS SL;Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH;ASSYSTEM GERMANY GMBH;SCHNEIDER ELECTRIC ESPANA SA;OHB SWEDEN AB;FONDAZIONE BRUNO KESSLER;LANGE RESEARCH AIRCRAFT GMBH;AVL LIST GMBH;RINA SERVICES SPA;CLEARSY SAS;THALES ALENIA SPACE ESPANA, SA;MAELARDALENS HOEGSKOLA;Comentor AB;RAPITA SYSTEMS LIMITED;ALSTOM TRANSPORT SA;UNIVERSIDAD CARLOS III DE MADRID;GMV AEROSPACE AND DEFENCE SA",
+    "participantCountries": "ES;IT;DE;AT;CZ;SE;FR;UK",
+    "projectParticipants": {
+        "999978918": {
+            "orgId": "999978918",
+            "orgName": "INFINEON TECHNOLOGIES AG",
+            "ecContrib": 380550
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 10886
+        },
+        "995925967": {
+            "orgId": "995925967",
+            "orgName": "THALES ITALIA SPA",
+            "ecContrib": 231934
+        },
+        "990822021": {
+            "orgId": "990822021",
+            "orgName": "RINA SERVICES SPA",
+            "ecContrib": 15625
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 201088
+        },
+        "999905004": {
+            "orgId": "999905004",
+            "orgName": "GMV AEROSPACE AND DEFENCE SA",
+            "ecContrib": 83281
+        },
+        "999736612": {
+            "orgId": "999736612",
+            "orgName": "RAPITA SYSTEMS LIMITED",
+            "ecContrib": 167578
+        },
+        "999916062": {
+            "orgId": "999916062",
+            "orgName": "CLEARSY SAS",
+            "ecContrib": 173504
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 321436
+        },
+        "999804900": {
+            "orgId": "999804900",
+            "orgName": "ALSTOM TRANSPORT SA",
+            "ecContrib": 205706
+        },
+        "996326092": {
+            "orgId": "996326092",
+            "orgName": "ANSYS MEDINI TECHNOLOGIES AG",
+            "ecContrib": 215623
+        },
+        "951649444": {
+            "orgId": "951649444",
+            "orgName": "INTECS SPA",
+            "ecContrib": 141875
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 577269
+        },
+        "997885852": {
+            "orgId": "997885852",
+            "orgName": "Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH",
+            "ecContrib": 217100
+        },
+        "949777732": {
+            "orgId": "949777732",
+            "orgName": "LANGE RESEARCH AIRCRAFT GMBH",
+            "ecContrib": 163482
+        },
+        "944758564": {
+            "orgId": "944758564",
+            "orgName": "ECLIPSE FOUNDATION EUROPE GMBH",
+            "ecContrib": 71250
+        },
+        "983154462": {
+            "orgId": "983154462",
+            "orgName": "TELVENT ENERGIA SA",
+            "ecContrib": 0
+        },
+        "969100423": {
+            "orgId": "969100423",
+            "orgName": "ALLIANCE POUR LES TECHNOLOGIES DE L'INFORMATIQUE",
+            "ecContrib": 187875
+        },
+        "999880657": {
+            "orgId": "999880657",
+            "orgName": "Masarykova univerzita",
+            "ecContrib": 96000
+        },
+        "999613422": {
+            "orgId": "999613422",
+            "orgName": "RISE RESEARCH INSTITUTES OF SWEDEN AB",
+            "ecContrib": 74917
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 321395
+        },
+        "996103671": {
+            "orgId": "996103671",
+            "orgName": "ALTEN SVERIGE AKTIEBOLAG",
+            "ecContrib": 243466
+        },
+        "953013943": {
+            "orgId": "953013943",
+            "orgName": "CENTRO DE INNOVACION Y SOLUCIONES EMPRESARIALES Y TECNOLOGICAS SL",
+            "ecContrib": 8088
+        },
+        "962314400": {
+            "orgId": "962314400",
+            "orgName": "OHB SWEDEN AB",
+            "ecContrib": 89062
+        },
+        "999881530": {
+            "orgId": "999881530",
+            "orgName": "MAELARDALENS HOEGSKOLA",
+            "ecContrib": 498598
+        },
+        "918244002": {
+            "orgId": "918244002",
+            "orgName": "KNOWLEDGE CENTRIC SOLUTIONS SL",
+            "ecContrib": 237040
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 252048
+        },
+        "997834830": {
+            "orgId": "997834830",
+            "orgName": "HONEYWELL INTERNATIONAL SRO",
+            "ecContrib": 183362
+        },
+        "927957582": {
+            "orgId": "927957582",
+            "orgName": "Comentor AB",
+            "ecContrib": 56226
+        },
+        "951742079": {
+            "orgId": "951742079",
+            "orgName": "SCHNEIDER ELECTRIC ESPANA SA",
+            "ecContrib": 199844
+        },
+        "999701595": {
+            "orgId": "999701595",
+            "orgName": "THALES ALENIA SPACE ESPANA, SA",
+            "ecContrib": 239250
+        },
+        "996373428": {
+            "orgId": "996373428",
+            "orgName": "ASSYSTEM GERMANY GMBH",
+            "ecContrib": 312884
+        }
+    },
+    "calculatedTotalContribution": 6178242
+}

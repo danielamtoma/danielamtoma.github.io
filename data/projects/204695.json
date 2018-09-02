@@ -1,0 +1,23 @@
+{
+    "rcn": "204695",
+    "acronym": "BUNGEE-TOOLS",
+    "topics": "ERC-StG-2015",
+    "title": "Building Next-Generation Computational Tools for High Resolution Neuroimaging Studies",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Recent advances in magnetic resonance (MR) acquisition technology are providing us with images of the human brain of increasing detail and resolution. While these images hold promise to greatly increase our understanding of such a complex organ, the neuroimaging community relies on tools (e.g. SPM, FSL, FreeSurfer) which, being over a decade old, were designed to work at much lower resolutions. These tools do not consider brain substructures that are visible in present-day scans, and this inability to capitalize on the vast improvement of MR is hampering progress in the neuroimaging field.\n\nIn this ambitious project, which lies at the nexus of medical histology, neuroscience, biomedical imaging, computer vision and statistics, we propose to build a set of next-generation computational tools that will enable neuroimaging studies to take full advantage of the increased resolution of modern MR technology. The core of the tools will be an ultra-high resolution probabilistic atlas of the human brain, built upon multimodal data combining from histology and ex vivo MR. The resulting atlas will be used to analyze in vivo brain MR scans, which will require the development of Bayesian segmentation methods beyond the state of the art.\n\nThe developed tools, which will be made freely available to the scientific community, will enable the analysis of MR data at a superior level of structural detail, opening completely new opportunities of research in neuroscience. Therefore, we expect the tools to have a tremendous impact on the quest to understand the human brain (in health and in disease), and ultimately on public health and the economy.",
+    "totalCost": "1450075",
+    "ecMaxContribution": "1450075",
+    "coordinator": "University College London",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

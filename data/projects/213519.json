@@ -1,0 +1,53 @@
+{
+    "rcn": "213519",
+    "acronym": "SARA",
+    "topics": "GALILEO-3-2017",
+    "title": "Search And Rescue Aid and Surveillance using High EGNSS Accuracy",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2020",
+    "objective": "SARA: Search and Rescue Aid using High Accuracy EGNSS\n\nThe purpose of the SARA project is to engineer and to start to commercialise a dedicated solution, based on an already existing prototype, to be used for Search and Rescue (SAR) and Surveillance purposes (primary market).\nThe need for such a solution comes in particular from the institutional market (but it is not limited to) requesting a technological support to manage migration flux aspects, with particular attention to crisis in the Mediterranean Sea: Europe needs to balances efforts to assist people in need with efforts to secure its borders.\nOn the basis of the above scenario, the industrial composition of the SARA consortium has been contacted by Italian Coast Guard two years ago in order to provide a technological contribution supporting vessels to detect people lost in the sea, especially during the hours of darkness.\n\nAccording to the above request, SARA solution is conceived to build up a semi-automatic system using Earth Observation data to preliminary detect suspect pontoonsí trajectories (Surveillance) and supporting SAR operations based upon a deployable RPAS (Remotely Piloted Aircraft System) which is tightly coupled with a ship architecture through a cable (tethered flight): as soon as its function is needed, the aircraft flies from its home (a dedicated hangar on the top of the ship), and becomes a ìvirtual pylonî which elevates a VIS-TIR sensor (Visual Spectrum and Thermal Infrared); captured images are processed in real time by a local computer. Both RPAS and hangar are equipped with 2 high accuracy EGNSS receivers (i.e. Galileo ready) in order to provide the relative positioning between the hangar and the RPAS hovering on the target. \n\nOn this context, EGNSS represents an essential technology ensuring autonomous operations in a reliable manner guaranteeing provision of distance and bearing from ship to survivors and the protection of the extensible cable against mechanical stress.",
+    "totalCost": "1942327,5",
+    "ecMaxContribution": "1455583,13",
+    "coordinator": "SISTEMATICA SPA",
+    "coordinatorCountry": "IT",
+    "participants": "AARHUS UNIVERSITET;TOPVIEW SRL START UP INNOVATIVA;BUSINESS INTEGRATION PARTNERS BELGIUM;UNIVERSITA DEGLI STUDI DI FIRENZE;EURODEV BV;AKADEMIA MORSKA W SZCZECINIE AM",
+    "participantCountries": "DK;IT;BE;NL;PL",
+    "projectParticipants": {
+        "999895789": {
+            "orgId": "999895789",
+            "orgName": "UNIVERSITA DEGLI STUDI DI FIRENZE",
+            "ecContrib": 101162
+        },
+        "938215526": {
+            "orgId": "938215526",
+            "orgName": "TOPVIEW SRL START UP INNOVATIVA",
+            "ecContrib": 382703
+        },
+        "972636267": {
+            "orgId": "972636267",
+            "orgName": "AKADEMIA MORSKA W SZCZECINIE AM",
+            "ecContrib": 129050
+        },
+        "914701562": {
+            "orgId": "914701562",
+            "orgName": "BUSINESS INTEGRATION PARTNERS BELGIUM",
+            "ecContrib": 160650
+        },
+        "998506652": {
+            "orgId": "998506652",
+            "orgName": "SISTEMATICA SPA",
+            "ecContrib": 411346
+        },
+        "917156632": {
+            "orgId": "917156632",
+            "orgName": "EURODEV BV",
+            "ecContrib": 181038
+        },
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 89634
+        }
+    },
+    "calculatedTotalContribution": 1455583
+}

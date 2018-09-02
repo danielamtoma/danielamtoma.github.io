@@ -1,0 +1,23 @@
+{
+    "rcn": "197092",
+    "acronym": "NOVCARBFIX",
+    "topics": "ERC-CoG-2014",
+    "title": "Analysis, Design and Experimental Evolution of Novel Carbon Fixation Pathways",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "Carbon fixation is a prerequisite for accumulating biomass and storing energy in most of the living world. As such, it supplies our food and dominates land and water usage by humanity. In agriculture, where water and nutrients are abundant, the rate of carbon fixation often limits growth rate. Therefore increasing the rate of carbon fixation is of global importance towards agricultural and energetic sustainability.\nWhat are the limits on the possible rate of carbon fixation? Attempts to improve RuBisCO, the key enzyme in the Calvin-Benson cycle, have achieved only limited results. My lab focuses on trying to overcome this global challenge by building synthetic pathways for carbon fixation. We create a computational framework that designs and scores pathways and creates step-wise selection strategies for in-vivo experimental implementation. Our most promising synthetic carbon fixation pathways are found to utilize the highly effective carboxylating enzyme, PEP carboxylase. We experimentally test these pathways in the most genetically tractable context by constructing an E.coli strain that depends on atmospheric CO2 fixation. We will gradually incorporate the pathways, initially as essential reaction steps for biomass production, and finally with CO2 as sole carbon input of the cell.\nAs a stepping-stone towards this challenging goal, we will construct an autotrophic E.coli strain that uses the Calvin-Benson cycle. We systematically convert this synthetic biology grand challenge into a gradual evolutionary ladder with independently selectable steps. We recently achieved key steps in the ladder, such as semi-autotrophic growth, serving as powerful proofs of concept.\nThe proposed research will advance our basic-science understanding of evolutionary plasticity of metabolic pathways. It also paves the way for a hybrid rational-design/experimental-evolution approach to revisit and advance the capacity of metabolism for agricultural productivity and renewable energy storage.",
+    "totalCost": "1999843",
+    "ecMaxContribution": "1999843",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 1999843
+        }
+    },
+    "calculatedTotalContribution": 1999843
+}

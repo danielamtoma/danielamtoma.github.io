@@ -1,0 +1,118 @@
+{
+    "rcn": "205812",
+    "acronym": "EUNADICS-AV",
+    "topics": "MG-3.1-2016",
+    "title": "European  Natural  Airborne  Disaster  Information and Coordination System for Aviation",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "Aviation is one of the most critical infrastructures of the 21st century. Even comparably short interruptions can cause economic damage summing up to the Billion-Euro range. As evident from the past, aviation shows certain vulnerability with regard to natural hazards. The proposal EUNADICS-AV addresses airborne hazards (environmental emergency scenarios), including volcano eruptions, nuclear accidents and emergencies and other scenarios where aerosols and certain trace gases are injected into the atmosphere. Such events are considered rare, but may have an extremely high impact, as demonstrated during the European Volcanic Ash Crisis in 2010. \nBefore the 1990s, insufficient monitoring as well as limited data analysis capabilities made it difficult to react to and to prepare for certain rare, high-impact events. Meanwhile, there are many data available during crisis situations, and the data analysis technology has improved significantly. However, there is still a significant gap in the Europe-wide availability of real time hazard measurement and monitoring information for airborne hazards describing ìwhat, where, how muchî in 3 dimensions, combined with a near-real-time European data analysis and assimilation system. The main objective of EUNADICS-AV is to close this gap in data and information availability, enabling all stakeholders in the aviation system to obtain fast, coherent and consistent information. This would allow a seamless response on a European scale, including ATM, ATC, airline flight dispatching and individual flight planning. \n\nIn the SESAR 2020 Programme Execution Framework, EUNADICS-AV is a SESAR Enabling project (project delivering SESAR Technological Solutions). The project aims at passing a SESAR maturity level V2, which includes respective service validation activities, including validation exercises. Work will be also done to prepare a full V3 validation.",
+    "totalCost": "7509318,75",
+    "ecMaxContribution": "7441813,75",
+    "coordinator": "ZENTRALANSTALT FUR METEOROLOGIE UNDGEODYNAMIK",
+    "coordinatorCountry": "AT",
+    "participants": "BUNDESMINISTERIUM FUER LANDESVERTEIDIGUNG UND SPORT;FLIGHTKEYS GMBH;AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH;VEDURSTOFA ISLANDS;SATEILYTURVAKESKUS;INSTITUT ROYAL METEOROLOGIQUE DE BELGIQUE;PARIS-LODRON-UNIVERSITAT SALZBURG;BRIMATECH SERVICES GMBH;UNIVERSITE LIBRE DE BRUXELLES;SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;CONSIGLIO NAZIONALE DELLE RICERCHE;UNIVERSITAT POLITECNICA DE CATALUNYA;KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;METEO-FRANCE;EIDGENOESSISCHES DEPARTEMENT DES INNERN;ILMATIETEEN LAITOS;INSTITUT ROYAL D'AERONOMIE SPATIALEDE BELGIQUE;ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA",
+    "participantCountries": "AT;IS;FI;BE;SE;DE;IT;ES;NL;UK;FR;CH",
+    "projectParticipants": {
+        "999518944": {
+            "orgId": "999518944",
+            "orgName": "KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI",
+            "ecContrib": 979575
+        },
+        "996699154": {
+            "orgId": "996699154",
+            "orgName": "INSTITUT ROYAL METEOROLOGIQUE DE BELGIQUE",
+            "ecContrib": 79250
+        },
+        "999472675": {
+            "orgId": "999472675",
+            "orgName": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA",
+            "ecContrib": 168750
+        },
+        "999528062": {
+            "orgId": "999528062",
+            "orgName": "BUNDESMINISTERIUM FUER LANDESVERTEIDIGUNG UND SPORT",
+            "ecContrib": 132845
+        },
+        "997168343": {
+            "orgId": "997168343",
+            "orgName": "VEDURSTOFA ISLANDS",
+            "ecContrib": 143750
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 327500
+        },
+        "999868047": {
+            "orgId": "999868047",
+            "orgName": "PARIS-LODRON-UNIVERSITAT SALZBURG",
+            "ecContrib": 393500
+        },
+        "999591306": {
+            "orgId": "999591306",
+            "orgName": "ILMATIETEEN LAITOS",
+            "ecContrib": 920080
+        },
+        "999986290": {
+            "orgId": "999986290",
+            "orgName": "UNIVERSITE LIBRE DE BRUXELLES",
+            "ecContrib": 134500
+        },
+        "998956635": {
+            "orgId": "998956635",
+            "orgName": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH",
+            "ecContrib": 165728
+        },
+        "999578890": {
+            "orgId": "999578890",
+            "orgName": "METEO-FRANCE",
+            "ecContrib": 305088
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 556250
+        },
+        "990186089": {
+            "orgId": "990186089",
+            "orgName": "EIDGENOESSISCHES DEPARTEMENT DES INNERN",
+            "ecContrib": 0
+        },
+        "999460744": {
+            "orgId": "999460744",
+            "orgName": "SATEILYTURVAKESKUS",
+            "ecContrib": 45000
+        },
+        "999507983": {
+            "orgId": "999507983",
+            "orgName": "SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT",
+            "ecContrib": 262000
+        },
+        "972690490": {
+            "orgId": "972690490",
+            "orgName": "ZENTRALANSTALT FUR METEOROLOGIE UNDGEODYNAMIK",
+            "ecContrib": 1042694
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 82579
+        },
+        "927485289": {
+            "orgId": "927485289",
+            "orgName": "FLIGHTKEYS GMBH",
+            "ecContrib": 163750
+        },
+        "997751992": {
+            "orgId": "997751992",
+            "orgName": "BRIMATECH SERVICES GMBH",
+            "ecContrib": 413750
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 629914
+        }
+    },
+    "calculatedTotalContribution": 6946503
+}

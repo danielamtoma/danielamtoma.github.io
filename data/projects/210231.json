@@ -1,0 +1,108 @@
+{
+    "rcn": "210231",
+    "acronym": "DEFENDER",
+    "topics": "CIP-01-2016-2017",
+    "title": "Defending the European Energy Infrastructures",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "Critical Energy infrastructures (CEI) protection and security are becoming of utmost importance in our everyday life. However, cyber and system-theoretic approaches fail to provide appropriate security levels to CEIs, since they are often used in isolation and build on incomplete attack models, resulting in silos-like security management fragmented operational policies. To face these challenges, DEFENDER will (i) model CEIs as distributed Cyber-Physical Systems for managing the potential reciprocal effects of cyber and physical threats (ii) deploy a novel security governance model, which leverages on lifecycle assessment for cost-effective security management over the time (iii) bring people at centre stage by empowering them as virtual sensors for threat detection, as first level emergency responders to attacks, or by considering workforce as potential threats. DEFENDER will adapt, integrate, upscale and validate a number of TRL 4-5 technologies and deploy them within a TRL7 integrated yet adaptable framework for CEI security, resilience and self-healing ìby designî, with a view to address, detect, and mitigate cyber-physical threats. To this aim DEFENDER framework will combine a range of devices/technologies for situational awareness (fixed sensors like PMUs, mobile devices like drones and advanced video surveillance) (ii) intelligent processing for cyber-physical threat detection with (iii) a toolbox for incident mitigation and emergency response and (iv) Human-In-The-Loop for managing people interaction with CEI, while leveraging on blockchain technology for peer-to-peer trustworthiness. The effectiveness of DEFENDER will be extensively validated on a CEI lab emulator (RWTH, Germany) and on 4 real life demonstrators (in Belgium, Italy and Slovenia) fully covering the overall energy value chain, ranging from a nuclear generation plant (ENGIE), to a decentralized RES generation one(BFP), a TSO HV network (ELES), to a DSO network (ASM) and a business prosumer.",
+    "totalCost": "8859937,5",
+    "ecMaxContribution": "6790837,5",
+    "coordinator": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+    "coordinatorCountry": "IT",
+    "participants": "INSTITUT JOZEF STEFAN;MINISTERO DELL'INTERNO;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;SIEMENS SRL;INEO ENERGY AND SYSTEMS;VENAKA MEDIA LIMITED;STUDIO TECNICO BFP SOCIETA A RESPONSABILITA LIMITATA;INSTITUT ZA KORPORATIVNE VARNOSTNE STUDIJE LJUBLJANA;DR FRUCHT SYSTEMS LTD;UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO;TECHNOLOGIKO EKPEDEFTIKO IDRIMA STEREAS ELLADAS;SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS;POWER OPERATIONS LIMITED;THALES SA;ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA;E-LEX - STUDIO LEGALE;ASM TERNI SPA",
+    "participantCountries": "SI;IT;DE;RO;FR;UK;IL;PT;EL",
+    "projectParticipants": {
+        "953556755": {
+            "orgId": "953556755",
+            "orgName": "SIEMENS SRL",
+            "ecContrib": 312200
+        },
+        "999816540": {
+            "orgId": "999816540",
+            "orgName": "MINISTERO DELL'INTERNO",
+            "ecContrib": 306250
+        },
+        "920867464": {
+            "orgId": "920867464",
+            "orgName": "E-LEX - STUDIO LEGALE",
+            "ecContrib": 149450
+        },
+        "924736309": {
+            "orgId": "924736309",
+            "orgName": "POWER OPERATIONS LIMITED",
+            "ecContrib": 291462
+        },
+        "999751938": {
+            "orgId": "999751938",
+            "orgName": "THALES SA",
+            "ecContrib": 580419
+        },
+        "998079755": {
+            "orgId": "998079755",
+            "orgName": "ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA",
+            "ecContrib": 241850
+        },
+        "999633889": {
+            "orgId": "999633889",
+            "orgName": "UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO",
+            "ecContrib": 242875
+        },
+        "950096959": {
+            "orgId": "950096959",
+            "orgName": "TECHNOLOGIKO EKPEDEFTIKO IDRIMA STEREAS ELLADAS",
+            "ecContrib": 292500
+        },
+        "929256994": {
+            "orgId": "929256994",
+            "orgName": "INSTITUT ZA KORPORATIVNE VARNOSTNE STUDIJE LJUBLJANA",
+            "ecContrib": 306250
+        },
+        "952604700": {
+            "orgId": "952604700",
+            "orgName": "ASM TERNI SPA",
+            "ecContrib": 280564
+        },
+        "926269782": {
+            "orgId": "926269782",
+            "orgName": "DR FRUCHT SYSTEMS LTD",
+            "ecContrib": 580125
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 418000
+        },
+        "954748303": {
+            "orgId": "954748303",
+            "orgName": "VENAKA MEDIA LIMITED",
+            "ecContrib": 254625
+        },
+        "952089921": {
+            "orgId": "952089921",
+            "orgName": "INEO ENERGY AND SYSTEMS",
+            "ecContrib": 512312
+        },
+        "983282308": {
+            "orgId": "983282308",
+            "orgName": "SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS",
+            "ecContrib": 407925
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 397062
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 945718
+        },
+        "927169748": {
+            "orgId": "927169748",
+            "orgName": "STUDIO TECNICO BFP SOCIETA A RESPONSABILITA LIMITATA",
+            "ecContrib": 271250
+        }
+    },
+    "calculatedTotalContribution": 6790837
+}

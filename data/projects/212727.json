@@ -1,0 +1,23 @@
+{
+    "rcn": "212727",
+    "acronym": "ATMO",
+    "topics": "ERC-2017-STG",
+    "title": "Atmospheres across the Universe",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Which molecules are present in the atmosphere of exoplanets? What are their mass, radius and age? Do they have clouds, convection (atmospheric turbulence), fingering convection, or a circulation induced by irradiation? These questions are fundamental in exoplanetology in order to study issues such as planet formation and exoplanet habitability.\n\nYet, the impact of fingering convection and circulation induced by irradiation remain poorly understood:\n - Fingering convection (triggered by gradients of mean-molecular-weight) has already been suggested to happen in stars (accumulation of heavy elements) and in brown dwarfs and exoplanets (chemical transition e.g. CO/CH4). A large-scale efficient turbulent transport of energy through the fingering instability can reduce the temperature gradient in the atmosphere and explain many observed spectral properties of brown dwarfs and exoplanets. Nonetheless, this large-scale efficiency is not yet characterized and standard approximations (Boussinesq) cannot be used to achieve this goal. \n- The interaction between atmospheric circulation and the fingering instability is an open question in the case of irradiated exoplanets. Fingering convection can change the location and magnitude of the hot spot induced by irradiation, whereas the hot deep atmosphere induced by irradiation can change the location of the chemical transitions that trigger the fingering instability. \n\nThis project will characterize the impact of fingering convection in the atmosphere of stars, brown dwarfs, and exoplanets and its interaction with the circulation in the case of irradiated planets. By developing innovative numerical models, we will characterize the reduction of the temperature gradient of the atmosphere induced by the instability and study the impact of the circulation. We will then predict and interpret the mass, radius, and chemical composition of exoplanets that will be observed with future missions such as the James Webb Space Telescope (JWST).",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

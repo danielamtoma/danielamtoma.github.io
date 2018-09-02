@@ -1,0 +1,78 @@
+{
+    "rcn": "194228",
+    "acronym": "AutoMat",
+    "topics": "ICT-15-2014",
+    "title": "Automotive Big Data Marketplace for Innovative Cross-sectorial Vehicle Data Services",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2018",
+    "objective": "Inside today's vehicles ~4000 CAN-Bus signals/sec are processed in comparison to very few signals in smart phones and alike. This large amount of continuously gathered vehicle data represents major big data business potentials, not only for the automotive industry but in particular for cross-sectorial industries with interdisciplinary applications. With today's proprietary approaches focusing on bringing services into vehicles and the applied ignorance of customer privacy concerns, this major business potential is still locked because the automotive industry was not yet able to establish an open service ecosystem equivalent to the ones in the smart phone industry.\nThe core intention of the AutoMat project is to innovate an open ecosystem for Vehicle Big Data, materializing in the form of a cross-border Vehicle Big Data Marketplace that leverages currently unused information gathered from connected vehicles. The interface to the marketplace is derived from a Common Vehicle Information Model that makes mined and anonymous vehicle data from various OEMs accessible to cross-sectorial service providers. With the huge amount of volatile data from vehicles, the AutoMat ecosystem heavily builds upon current trends in Big Data. Exemplary service scenarios, driven by service providers dedicated to generate concrete businesses from the AutoMat ecosystem, are developed in the context of meteorological data based hyper local and extended innovative enterprise service domains.\nBy defining an open value chain, the proposed AutoMat ecosystem enables and stimulates parties from different sectors to focus on their core businesses and to excel collaboration with other partners. AutoMat therefore may serve as incubator for new business opportunities strengthening Europe's position as provider of innovative cross-sectorial and cross-border Big Data services. The latter aspect is actively stimulated during the project by an Open Service Contest based upon the AutoMat Big Data ecosystem.",
+    "totalCost": "5751785,5",
+    "ecMaxContribution": "4460269",
+    "coordinator": "VOLKSWAGEN AG",
+    "coordinatorCountry": "DE",
+    "participants": "INSTITUT F‹R ANGEWANDTE SYSTEMTECHNIK BREMEN GMBH;METEOLOGIX AG;RENAULT SAS;CENTRO RICERCHE FIAT SCPA;ATOS SPAIN SA;ERPC EUROPEAN RESEARCH PROGRAMME CONSULTING GMBH;TECHNISCHE UNIVERSITAT DORTMUND;INSTITUT MINES-TELECOM;TRIALOG;METEOGROUP NEDERLAND BV;HERE GLOBAL B.V.",
+    "participantCountries": "DE;CH;FR;IT;ES;NL",
+    "projectParticipants": {
+        "999425533": {
+            "orgId": "999425533",
+            "orgName": "RENAULT SAS",
+            "ecContrib": 481274
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 461562
+        },
+        "999634374": {
+            "orgId": "999634374",
+            "orgName": "INSTITUT FÜR ANGEWANDTE SYSTEMTECHNIK BREMEN GMBH",
+            "ecContrib": 460675
+        },
+        "999617884": {
+            "orgId": "999617884",
+            "orgName": "TRIALOG",
+            "ecContrib": 63612
+        },
+        "939903326": {
+            "orgId": "939903326",
+            "orgName": "METEOGROUP NEDERLAND BV",
+            "ecContrib": 37491
+        },
+        "999926732": {
+            "orgId": "999926732",
+            "orgName": "HERE GLOBAL B.V.",
+            "ecContrib": 344312
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 379500
+        },
+        "999848453": {
+            "orgId": "999848453",
+            "orgName": "TECHNISCHE UNIVERSITAT DORTMUND",
+            "ecContrib": 430000
+        },
+        "913645426": {
+            "orgId": "913645426",
+            "orgName": "METEOLOGIX AG",
+            "ecContrib": 365009
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 176556
+        },
+        "998893876": {
+            "orgId": "998893876",
+            "orgName": "ERPC EUROPEAN RESEARCH PROGRAMME CONSULTING GMBH",
+            "ecContrib": 340375
+        },
+        "999939924": {
+            "orgId": "999939924",
+            "orgName": "VOLKSWAGEN AG",
+            "ecContrib": 919902
+        }
+    },
+    "calculatedTotalContribution": 4460268
+}

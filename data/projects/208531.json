@@ -1,0 +1,23 @@
+{
+    "rcn": "208531",
+    "acronym": "ROCHI",
+    "topics": "INNOSUP-02-2016",
+    "title": "ROCHI - RObotics Coverage Hiring Innovation",
+    "startDate": "29/09/2017",
+    "endDate": "28/09/2018",
+    "objective": "Inspection robots are more and more frequently used in industry for quality control of parts with complex shape. The main concept is to move a sensor over the surface of the part so that all relevant areas are inspected. The problem, known as coverage planning, requires generic solutions for key challenges like collision avoidance, motion planning and calibration and synchronization of robot motion and real-time measurement data acquisition. The deployment of such inspection robots is currently done manually or with semi-automatic motion-planning/calibration technologies. These inspection processes have been proved to be difficult, time-consuming and ñ consequently ñ expensive.\nIT\\Robotics objective is to develop a generic framework that solves the coverage and path planning problem for inspection tasks with constraints like: inspecting sensor needs to move continuously over the part, the part is handled by limited multi-axis handling system (e.g. 6 axes or Cartesian robot).\nRobotic inspection systems are needed (1) wherever parts of complex shape need to be inspected, mainly in aerospace and automotive industry; (2) wherever a flexible and easy to use solution needs to deal with small batches of products with different shapes (particularly for SMEs). Moreover, the product can reach all the markets related to those industrial processes that need the full coverage of the product. The results will be also applied to other industrial processes requiring full coverage of the product, such as paint or shot peening robots.\nSince there is a huge potential in both robotics inspection and application, IT\\Robotics would like to recruit an Innovation Associate with two objectives. The former is support the development of a generic framework for ITR products related to full coverage applications. The latter is to improve the continuous innovation process inside the company.",
+    "totalCost": "115625",
+    "ecMaxContribution": "115625",
+    "coordinator": "IT+ROBOTICS SRL",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "985284485": {
+            "orgId": "985284485",
+            "orgName": "IT+ROBOTICS SRL",
+            "ecContrib": 115625
+        }
+    },
+    "calculatedTotalContribution": 115625
+}

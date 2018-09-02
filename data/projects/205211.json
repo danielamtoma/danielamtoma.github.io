@@ -1,0 +1,28 @@
+{
+    "rcn": "205211",
+    "acronym": "DALI",
+    "topics": "ERC-ADG-2015",
+    "title": "Disagreements and Language Interpretation",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Natural language expressions are supposed to be unambiguous in context. Yet more and more examples of use of expressions that are ambiguous in context, yet felicitous and rhetorically unmarked, are emerging. In my own work, I demonstrated that ambiguity in anaphoric reference is ubiquitous, through the study of disagreements in annotation, that I pioneered in CL. Since then, additional cases of ambiguous anaphoric reference have been found; and similar findings have been made for other aspects of language interpretation, including wordsense disambiguation, and even part-of-speech tagging. Using the Phrase Detectives Game-With-A-Purpose to collect massive amounts of judgments online, we found that up to 30% of anaphoric expressions in our data are ambiguous. These findings raise a serious challenge for computational linguistics (CL), as assumptions about the existence of a single interpretation in context are built in the dominant methodology, that depends on a reliably annotated gold standard. \nThe goal of the proposed project is to tackle this fundamental issue of disagreements in interpretation by using computational methods for collecting and analysing such disagreements, some of which already exist but have never before been applied in linguistics on a large scale, some we will develop from scratch. Specifically, I propose to develop more advanced games-with-a-purpose to collect massive amounts of data about anaphora from people playing a game. I propose to use Bayesian models of annotation, widely used in epidemiology but not in linguistics, to analyse such data and identify genuine ambiguities; doing this for anaphora will require novel methods. Third, I propose to use these data to revisit current theories about anaphoric expressions that do not seem to cause infelicitousness when ambiguous. Finally, I propose to develop the first supervised approach to anaphora resolution that does not require a gold standard as a blueprint for other areas.",
+    "totalCost": "2499471",
+    "ecMaxContribution": "2499471",
+    "coordinator": "QUEEN MARY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITY OF ESSEX",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999856989": {
+            "orgId": "999856989",
+            "orgName": "UNIVERSITY OF ESSEX",
+            "ecContrib": 302304
+        },
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 2197167
+        }
+    },
+    "calculatedTotalContribution": 2499471
+}

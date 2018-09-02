@@ -1,0 +1,73 @@
+{
+    "rcn": "213087",
+    "acronym": "TeamPlay",
+    "topics": "ICT-05-2017",
+    "title": "Time, Energy and security Analysis for Multi/Many-core heterogenous PLAtforms",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "The TeamPlay project aims to develop new, formally-motivated, techniques that will allow execution time, energy usage, security, and other important non-functional properties of parallel software to be treated effectively, and as first- class citizens. We will build this into a toolbox for developing highly parallel software for low-energy systems, as required by the internet of things, cyber-physical systems etc. The TeamPlay approach will allow programs to reflect directly on their own time, energy consumption, security, etc., as well as enabling the developer to reason about both the functional and the non-functional properties of their software at the source code level.\nOur success will ensure significant progress on a pressing problem of major industrial importance: how to effectively manage energy consumption for parallel systems while maintaining the right balance with other important software metrics, including time, security etc. The project brings together leading industrial and academic experts in paral- lelism, energy modeling/transparency, worst-case execution time analysis, non-functional property analysis, compi- lation, security, and task coordination. Results will be evaluated using industrial use cases taken from the computer vision, satellites, flying drones, medical and cybersecurity domains.",
+    "totalCost": "5415551,26",
+    "ecMaxContribution": "5415551,24",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "SECURE-IC SAS;SKY-WATCH A/S;SYSTHMATA YPOLOGISTIKIS ORASHS IRIDA LABS AE;TECHNISCHE UNIVERSITAT HAMBURG-HARBURG;THE UNIVERSITY COURT OF THE UNIVERSITY OF ST ANDREWS;SYDDANSK UNIVERSITET;ABSINT ANGEWANDTE INFORMATIK GMBH;UNIVERSITY OF BRISTOL;THALES ALENIA SPACE ESPANA, SA;UNIVERSITEIT VAN AMSTERDAM",
+    "participantCountries": "FR;DK;EL;DE;UK;ES;NL",
+    "projectParticipants": {
+        "952144726": {
+            "orgId": "952144726",
+            "orgName": "SECURE-IC SAS",
+            "ecContrib": 483754
+        },
+        "999904616": {
+            "orgId": "999904616",
+            "orgName": "SYDDANSK UNIVERSITET",
+            "ecContrib": 407399
+        },
+        "941522256": {
+            "orgId": "941522256",
+            "orgName": "SKY-WATCH A/S",
+            "ecContrib": 465375
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 579064
+        },
+        "986393389": {
+            "orgId": "986393389",
+            "orgName": "SYSTHMATA YPOLOGISTIKIS ORASHS IRIDA LABS AE",
+            "ecContrib": 430625
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 621250
+        },
+        "999734769": {
+            "orgId": "999734769",
+            "orgName": "ABSINT ANGEWANDTE INFORMATIK GMBH",
+            "ecContrib": 394305
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 509150
+        },
+        "999984253": {
+            "orgId": "999984253",
+            "orgName": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ST ANDREWS",
+            "ecContrib": 545630
+        },
+        "999838753": {
+            "orgId": "999838753",
+            "orgName": "TECHNISCHE UNIVERSITAT HAMBURG-HARBURG",
+            "ecContrib": 656250
+        },
+        "999701595": {
+            "orgId": "999701595",
+            "orgName": "THALES ALENIA SPACE ESPANA, SA",
+            "ecContrib": 322750
+        }
+    },
+    "calculatedTotalContribution": 5415552
+}

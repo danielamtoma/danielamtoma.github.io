@@ -1,0 +1,43 @@
+{
+    "rcn": "211045",
+    "acronym": "FASE-LAG",
+    "topics": "JTI-CS2-2016-CFP04-SYS-03-08",
+    "title": "FAil-Safe Electro-mechanical actuation for LAnding Gear",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2020",
+    "objective": "The adoption of electrical equipment for flight-critical applications in future aircrafts is motivated by a number of economic and environmental considerations. Also thank to several research programs, EMA systems are now viewed as the best candidate for the aircraft of the future because they are: less complex because of the absence of a hydraulic system; better suited to long term storage since there is no leak potential; more energy efficient compared with hydraulic systems; easier to install and maintain (no filtration, no bleeding); less complex to control from a power-distribution and power-management perspective (power is transmitted without mass transfer). \nThe aim of the FASE-LAG project is the development of an electromechanical actuation system (EMAS) for extension-retraction of main and nose landing gears for future SMALL A/C. The EMAS will be characterized by reduced spatial envelope and weight, improved reliability, increased safety margins and testability of the redundant components. In particular, the proposed solution will include key enabling innovative technologies such as: 1) optimized  electromechanical actuator (EMA) fail-safe architectures; 2) advanced and reliable electronics; 3) advanced health monitoring system that do not require adding new sensors in the EMA; 4) highly reliable electrical machine with an intrinsic reliable architecture, high performance materials and a fault tolerant design; 5) advanced control algorithms focused on efficiency optimization. The achievement of the targeted TRL5 (technology validated in relevant simulated environment) will be verified at the end of the project according to a validation plan.",
+    "totalCost": "997273,75",
+    "ecMaxContribution": "997273,75",
+    "coordinator": "UMBRAGROUP SPA",
+    "coordinatorCountry": "IT",
+    "participants": "FUNDACION TECNALIA RESEARCH & INNOVATION;MAGNAGHI AERONAUTICA SPA;ITALSYSTEM S.R.L;VGA srl",
+    "participantCountries": "ES;IT",
+    "projectParticipants": {
+        "972978192": {
+            "orgId": "972978192",
+            "orgName": "UMBRAGROUP SPA",
+            "ecContrib": 401250
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 249995
+        },
+        "984574154": {
+            "orgId": "984574154",
+            "orgName": "ITALSYSTEM S.R.L",
+            "ecContrib": 170250
+        },
+        "959258415": {
+            "orgId": "959258415",
+            "orgName": "MAGNAGHI AERONAUTICA SPA",
+            "ecContrib": 80029
+        },
+        "954340224": {
+            "orgId": "954340224",
+            "orgName": "VGA srl",
+            "ecContrib": 95750
+        }
+    },
+    "calculatedTotalContribution": 997274
+}

@@ -1,0 +1,68 @@
+{
+    "rcn": "193696",
+    "acronym": "BACI",
+    "topics": "EO-1-2014",
+    "title": "Detecting changes in essential ecosystem and biodiversity properties ñ towards a Biosphere Atmosphere Change Index: BACI",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2019",
+    "objective": "The alarming rate of biodiversity loss and ecosystem transitions make it clear that new strategies are required to sustain functioning of the coupled ecological-societal system. Existing space data archives and data streams from the ESA Sentinels, offer unprecedented opportunities to provide rapid, high quality indicators necessary for informed management of key ecosystem services. Yet, it remains largely unclear how space and ground-based observations can be optimally integrated to generate products required by end user communities (Secretariat of the Convention on Biological Diversity, 2014). By fusing extensive expertise on optical and radar remote sensing, ground data on ecosystem state and function, ìbig dataî scientists, and active participation of user groups, BACI will advance this integration. BACI will translate space data to new variables (not directly observable from space) that encode ecosystem functional properties and status metrics. This will empower concepts of ìessential biodiversity variablesî. Advanced machine learning methods will be employed to reveal new and fundamental relationships between space observations and ecosystem status. BACI will incorporate a wide range of original data and downstream data products specifically targeting needs for early-warning systems, including a novel ìBiosphere-Atmosphere Change Indexî. We will prioritize selected key European and African regions now undergoing massive societal-ecological transformations, offering perspective towards operational assessments. A formal attribution framework will disentangle climate-induced ecosystem changes and socioeconomic/ecological transformation processes. Overall, BACI will advance usage of European space data to monitor relevant vegetation traits, status, and ecosystem functioning. By capitalizing on existing datasets, we will prototype new algorithms to rapidly implement these metrics and thus space-to-ground integration of the new ESA Sentinels.",
+    "totalCost": "3322858,75",
+    "ecMaxContribution": "2997858,75",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "AARHUS UNIVERSITET;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;Friedrich Schiller University Jena;REZATEC LIMITED;EIDGENOESSISCHE FORSCHUNGSANSTALT WSL;UNIVERSITAET KLAGENFURT;WAGENINGEN UNIVERSITY;UNIVERSITY COLLEGE LONDON;UNIVERSITA DEGLI STUDI DELLA TUSCIA",
+    "participantCountries": "DK;UK;DE;CH;AT;NL;IT",
+    "projectParticipants": {
+        "999896371": {
+            "orgId": "999896371",
+            "orgName": "UNIVERSITA DEGLI STUDI DELLA TUSCIA",
+            "ecContrib": 290000
+        },
+        "999836813": {
+            "orgId": "999836813",
+            "orgName": "UNIVERSITAET KLAGENFURT",
+            "ecContrib": 287554
+        },
+        "942666856": {
+            "orgId": "942666856",
+            "orgName": "REZATEC LIMITED",
+            "ecContrib": 175625
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 717000
+        },
+        "999981634": {
+            "orgId": "999981634",
+            "orgName": "WAGENINGEN UNIVERSITY",
+            "ecContrib": 350750
+        },
+        "999698782": {
+            "orgId": "999698782",
+            "orgName": "EIDGENOESSISCHE FORSCHUNGSANSTALT WSL",
+            "ecContrib": 0
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 31688
+        },
+        "999868726": {
+            "orgId": "999868726",
+            "orgName": "FRIEDRICH-SCHILLER-UNIVERSITAT JENA",
+            "ecContrib": 0
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 246368
+        },
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 310000
+        }
+    },
+    "calculatedTotalContribution": 2408985
+}

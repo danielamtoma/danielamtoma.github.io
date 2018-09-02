@@ -1,0 +1,23 @@
+{
+    "rcn": "210681",
+    "acronym": "PACS",
+    "topics": "SMEInst-10-2016-2017",
+    "title": "Pantograph Active Control System for e-Highways",
+    "startDate": "01/06/2017",
+    "endDate": "30/09/2017",
+    "objective": "Electro-mobility offers a variety of benefits. However, the electrification of road freight transport is not viable by using on-board storage of electricity. The electric roads can solve this problem by providing electrical power to the truck as it is driving through overhead electrical cables.\nHowever, the critical problem of electric roads is how to connect the truck, through the pantograph, to the power source. At speeds of 90 km/h, trucks must know the position of the cables 100-150m ahead in order to adjust the pantographís position in time to ensure that it correctly engages with the electrical cables.\nWhen using current solutions such as Radar, Lidar or Cameras trucks cannot travel at more than 30km/h and even so, often disengage from the cables. This is inefficient, dangerous and can significantly damage the cables. Today there is no technology that can detect and guide a pantograph at high speed and with the accuracy required to effectively charge the truck.\nAt Qamcom Research and Technology AB, we have designed and tested an innovative solution named the Pantograph Active Control System (PACS) that enables fast communication between the energy source and trucks.\nPACS is composed of two elements:\n- Communicating devices located on every pole that transmits its position as well the position of the upcoming pole to approaching trucks\n- A high frequency radar located on top of the truckís cabin that detects the transponder signals\nAnd exhibits the following characteristics:\n- Modulation of radar signals\n- Short reading times enabling high speed data transmission\n- Detection of the geographical position of the data sources\nPACS has been tested within the e-highway context on an e-highway test strip in Sweden and has shown excellent results. We now what to use the SME instrument to develop the solution alongside truck OEMs and bring PACS to the market. Market estimates predict that by 2024 there will be over 100,000 electric trucks with over 40,000 Km of e-roads",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "Qamcom Research and Technology AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "957254007": {
+            "orgId": "957254007",
+            "orgName": "Qamcom Research and Technology AB",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

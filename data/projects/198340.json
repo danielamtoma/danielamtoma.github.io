@@ -1,0 +1,78 @@
+{
+    "rcn": "198340",
+    "acronym": "MaX",
+    "topics": "EINFRA-5-2015",
+    "title": "Materials design at the eXascale",
+    "startDate": "01/09/2015",
+    "endDate": "28/02/2018",
+    "objective": "Materials are crucial to scientific and technological advances and industrial competitiveness, and to tackle key societal challenges - from energy and environment to health care, information and communications, manufacturing, safety and transportation.\n\nThe current accuracy and predictive power of materials' simulations allow a paradigm shift for computational design and discovery, in which massive computing efforts can be launched to identify novel materials with improved properties and performance; behaviour of ever-increasing complexity can be addressed; sharing of data and work-flows accelerates synergies and empowers the science of big-data; and services can be provided in the form of data, codes, expertise, turnkey solutions, and a liquid market of computational resources.\n\nEurope has the human resources, track record and infrastructure to be worldwide leader in this field, and we want to create a CoE in materials' modelling, simulations, and design to endow our researchers and innovators with powerful new instruments to address the key scientific, industrial and societal challenges that require novel materials.\n\nThis CoE will be a user-focused, thematic effort supporting the needs and the vision of all our core communities: domain scientists, software scientists and vendors, end-users in industry and in academic research, and high-performance computing centres.\n\nThe proposal is structured along two core actions: (1)  Community codes, their capabilities and reliability; provenance, preservation and sharing of data and work-flows; the ecosystem that integrates capabilities; and hardware support and transition to exascale architectures. (2) Integrating, training, and providing services to our core communities, while developing and implementing a model for sustainability, with the core benefit of propelling materials simulations in the practice of scientific research and industrial innovation.",
+    "totalCost": "4068863,75",
+    "ecMaxContribution": "4068863,75",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "KUNGLIGA TEKNISKA HOEGSKOLAN;FORSCHUNGSZENTRUM JULICH GMBH;UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION -UNESCO;FUNDACIO INSTITUT CATALA DE NANOCIENCIA I NANOTECNOLOGIA;SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI DI TRIESTE;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;E4 COMPUTER ENGINEERING SPA;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;CLOUDWEAVERS LTD;CINECA CONSORZIO INTERUNIVERSITARIO;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "SE;DE;FR;ES;IT;CH;UK",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 212650
+        },
+        "951445065": {
+            "orgId": "951445065",
+            "orgName": "CLOUDWEAVERS LTD",
+            "ecContrib": 149750
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 260250
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 133125
+        },
+        "999850878": {
+            "orgId": "999850878",
+            "orgName": "SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI DI TRIESTE",
+            "ecContrib": 560000
+        },
+        "999454245": {
+            "orgId": "999454245",
+            "orgName": "UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION -UNESCO",
+            "ecContrib": 142000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 830400
+        },
+        "968741911": {
+            "orgId": "968741911",
+            "orgName": "E4 COMPUTER ENGINEERING SPA",
+            "ecContrib": 70000
+        },
+        "999606923": {
+            "orgId": "999606923",
+            "orgName": "FUNDACIO INSTITUT CATALA DE NANOCIENCIA I NANOTECNOLOGIA",
+            "ecContrib": 540600
+        },
+        "999843409": {
+            "orgId": "999843409",
+            "orgName": "CINECA CONSORZIO INTERUNIVERSITARIO",
+            "ecContrib": 271250
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 511250
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 387589
+        }
+    },
+    "calculatedTotalContribution": 4068864
+}

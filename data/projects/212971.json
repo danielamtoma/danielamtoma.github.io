@@ -1,0 +1,43 @@
+{
+    "rcn": "212971",
+    "acronym": "FunFiCO",
+    "topics": "MSCA-RISE-2017",
+    "title": "Fundamental fields and compact objects: theory and astrophysical phenomenology",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2021",
+    "objective": "'Epoch-making observational, theoretical and computational developments make this an exceptional time for the\nunderstanding of gravity in the strong field regime. The recent detection of gravitational waves (GWs), together with other\nongoing experiments; the discovery of unexpected compact objects in General Relativity (GR); and the breakthroughs in the\nfield of Numerical Relativity (NR), make strong gravity a central player in the scientific scene. Exploring different scenarios in\nthis context is timely and synergies are mandatory, for such an endeavor.\n\nThis project focuses on the construction, theory, phenomenology and dynamics of new families of black holes (BHs) and\ncompact objects that are being discovered in GR in the presence of fundamental fields and alternative theories of gravity. Particular focus will be given to astrophysical phenomenology, including GW signals. The research proposed is split into three main items, which, however, are mutually connected:\n\n(a) Construction and physical properties of 'hairy' BHs and other compact objects, both in GR and other theories of gravity.\nUsing numerical methods for solving elliptic coupled PDEs, in different models, we shall construct solutions, and organize\nthem into publicly available libraries, of new types of compact objects, also addressing their physical and mathematical\nproperties.\n\n(b) Astrophysical phenomenology I. We shall perform test-fields studies to address phenomenological properties of these\nsolutions, including shadows and lensing of light, accretion disks and X-ray spectrum, trajectories of stars, Quasi periodic oscillations, scattering of different fields. Using linear perturbation theory, linear stability of these objects and response to perturbations (such as ringdowns) will be studied.\n\n(c) Astrophysical phenomenology II. Fully non-linear numerical evolutions will be performed, to study non-linear stability of these new objects and the GW signals of binaries, to be compared with observations.'",
+    "totalCost": "220500",
+    "ecMaxContribution": "220500",
+    "coordinator": "UNIVERSIDADE DE AVEIRO",
+    "coordinatorCountry": "PT",
+    "participants": "THE UNIVERSITY OF SHEFFIELD;UNIVERSITAT DE VALENCIA",
+    "participantCountries": "UK;ES",
+    "projectParticipants": {
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 58500
+        },
+        "999865816": {
+            "orgId": "999865816",
+            "orgName": "UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO",
+            "ecContrib": 0
+        },
+        "992692084": {
+            "orgId": "992692084",
+            "orgName": "Universidade Federal do Pará",
+            "ecContrib": 0
+        },
+        "999953019": {
+            "orgId": "999953019",
+            "orgName": "UNIVERSITAT DE VALENCIA",
+            "ecContrib": 85500
+        },
+        "999865331": {
+            "orgId": "999865331",
+            "orgName": "UNIVERSIDADE DE AVEIRO",
+            "ecContrib": 76500
+        }
+    },
+    "calculatedTotalContribution": 220500
+}

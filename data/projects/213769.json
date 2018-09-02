@@ -1,0 +1,23 @@
+{
+    "rcn": "213769",
+    "acronym": "QRES",
+    "topics": "ERC-2017-COG",
+    "title": "Transforming the limits of resolution by utilizing quantum information",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "Quantum sensing(QS) and metrology exploit physical laws governing individual quantum systems, and correlations between systems, to measure a physical quantity. Recently, an appreciation of the vast potential for a variety of applications, including magnetic and electric fields, pressure and temperature sensors, and imaging at the nanoscale, has positioned QS at the centre of quantum science and technology. QS is a rapidly growing field, with the most common platforms being spin qubits, trapped ions and flux qubits. The main resource for quantum sensing is coherence, the definite phase relation between different states. This phase can only survive until the coherence time, which limits the sensitivity of quantum sensing. For quantum sensing the decay time T1 is believed to be the ultimate limit.\n\nQS targets a broad spectrum of physical quantities, of both static and time-dependent types. While \nthe most important characteristic for static quantities is sensitivity, for time-dependent signals it is the resolution, i.e. the ability to resolve two different frequencies. This is the central subject of the proposed research.\n\nQuantum computing has been shown to be feasible thanks to the realization that error correction can be applied to quantum operations in a fault-tolerant way. This opens up the possibility to realize quantum operations at very precise levels of accuracy and resolution.\n\nIn my planned research I will address the issue of whether this extraordinary accuracy, when combined with robust time keeping methods, can be exploited to enhance quantum sensing in general - and resolution in particular. For this purpose, I will design protocols that far surpass the state-of-the-art, with the final goal being to overcome the T1 limit. Besides the insights gained for quantum theory, the research will result in detailed proposals for experiments to be realized by experimental groups investigating Nitrogen-Vacancy color centers in diamond and trapped-ion quantum logic.",
+    "totalCost": "1820475",
+    "ecMaxContribution": "1820475",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1820475
+        }
+    },
+    "calculatedTotalContribution": 1820475
+}

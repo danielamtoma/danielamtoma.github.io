@@ -1,0 +1,43 @@
+{
+    "rcn": "193695",
+    "acronym": "PHySIS",
+    "topics": "COMPET-06-2014",
+    "title": "Sparse Signal Processing Technologies for HyperSpectral Imaging Systems",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2017",
+    "objective": "Recent advances in the fields of electronics and optics technology have permitted the design and development of sophisticated hyperspectral imaging sensors, which are able to capture the naturally occurring imaging spectra at a very high spatial resolution forming three-dimensional data cubes. In addition, it is envisaged that the next generation hyperspectral video cameras will have the ability to capture several hyperspectral data cubes per second, at almost video rates.  Hyperspectral video sequences possessing high temporal, spatial, and spectral resolution will combine the advantages of both video and hyperspectral imagery. This unprecedented wealth of information poses a major challenge and necessitates the development of highly sophisticated signal processing systems. Addressing simultaneously the explosive growth of data dimensionality and the need to accurately determine the type and nature of the objects being imaged is a task that is not sufficiently treated currently by conventional statistical data analysis methods. \n\nThe objective of this project is to develop, test, and evaluate novel signal processing technologies for real-time processing of hyperspectral data cubes. Although hyperspectral sensors capture massive amounts of high-dimensional data, relevant information usually lies in a low-dimensional space. Our aim is to extend recent theoretical and algorithmic developments in the field of sparsity-enforcing recovery, compressive sensing, and matrix completion, in order to build and exploit sparse representations adapted to the hyperspectral signals of interest. It is envisaged that all three, temporal, spatial and spectral domains of hyperspectral data will be explored for sparse representations. Thus, sparsity in the data will be used not only to improve estimation performance, but also to mitigate the enormous computational burden needed to analyze hyperspectral data and leverage the development of real-time hyperspectral processing systems.",
+    "totalCost": "1028000",
+    "ecMaxContribution": "1028000",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "PLANETEK ITALIA SRL;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;NATIONAL OBSERVATORY OF ATHENS",
+    "participantCountries": "IT;FR;BE;EL",
+    "projectParticipants": {
+        "998881363": {
+            "orgId": "998881363",
+            "orgName": "PLANETEK ITALIA SRL",
+            "ecContrib": 185000
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 240000
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 203125
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 209875
+        },
+        "999653677": {
+            "orgId": "999653677",
+            "orgName": "NATIONAL OBSERVATORY OF ATHENS",
+            "ecContrib": 190000
+        }
+    },
+    "calculatedTotalContribution": 1028000
+}

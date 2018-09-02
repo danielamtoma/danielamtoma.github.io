@@ -1,0 +1,23 @@
+{
+    "rcn": "195650",
+    "acronym": "DISC",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Distributed storage based on sparse-graph codes",
+    "startDate": "01/05/2015",
+    "endDate": "20/07/2017",
+    "objective": "The recent years have witnessed the explosion of services and applications such as email, cloud computing, social\nand media networks, and video sharing. The grand challenge is to store, process and transfer this massive amount\nof data. According to recent estimates, the data to be stored grows at a rate of 45% per year, a factor of 40 by\n2024. Data centers typically employ a collection of cheap devices/nodes, which are connected forming a so-called\ndistributed storage (DS) system, where a central server keeps track of where each file is stored and performs all\nnetwork operations. Every day, knowingly or unknowingly people connect to various private and public DS systems.\nIt is nowadays accepted that current DS systems cannot face the unabated growing of digital data volume. Nextgeneration\nstorage systems desperately need new technologies to improve their robustness to node failures, storage\nefficiency, complexity, and cost efficiency, in order to sustain the information revolution of modern societies.\nThis project addresses the challenges above using modern coding theory and optimization theory. Our focus is\non the application of sparse-graph erasure correcting codes to large DS networks. The proposed project falls into the\ncategory of fundamental research, but it is driven by practical concerns, and we expect our findings to give new and\nrelevant insights for the design of practical coding schemes for next-generation DS systems.",
+    "totalCost": "185857,2",
+    "ecMaxContribution": "185857,2",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 185857
+        }
+    },
+    "calculatedTotalContribution": 185857
+}

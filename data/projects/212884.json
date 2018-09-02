@@ -1,0 +1,23 @@
+{
+    "rcn": "212884",
+    "acronym": "NOISE",
+    "topics": "ERC-2017-COG",
+    "title": "Noise-Sensitivity Everywhere",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Noise-sensitivity of a Boolean function with iid random input bits means that resampling a tiny proportion of the input makes the output unpredictable. This notion arises naturally in computer science, but perhaps the most striking example comes from statistical physics, in large part due to the PI: the macroscopic geometry of planar percolation is very sensitive to noise. This can be recast in terms of Fourier analysis on the hypercube: a function is noise sensitive iff most of its Fourier weight is on 'high energy' eigenfunctions of the random walk operator.\n\nWe propose to use noise sensitivity ideas in three main directions:\n\n(A) Address some outstanding questions in the classical case of iid inputs: universality in critical planar percolation; the Friedgut-Kalai conjecture on Fourier Entropy vs Influence; noise in First Passage Percolation.\n\n(B) In statistical physics, a key example is the critical planar FK-Ising model, with noise being Glauber dynamics. One task is to prove noise sensitivity of the macroscopic structure. A key obstacle is that hypercontractivity of the critical dynamics is not known.\n\n(C) Babaiís conjecture says that random walk on any finite simple group, with any generating set, mixes in time poly-logarithmic in the volume. Two key open cases are the alternating groups and the linear groups SL(n,F2). We will approach these questions by first proving fast mixing for certain macroscopic structures. For permutation groups, this is the cycle structure, and it is related to a conjecture of TÛth on the interchange process, motivated by a phase transition question in quantum mechanics.\n\nWe will apply ideas of statistical physics to group theory in other novel ways: using near-critical FK-percolation models to prove a conjecture of Gaboriau connecting the first ell2-Betti number of a group to its cost, and using random walk in random environment to prove the amenability of the interval exchange transformation group, refuting a conjecture of Katok.",
+    "totalCost": "1386363,52",
+    "ecMaxContribution": "1386363,52",
+    "coordinator": "MAGYAR TUDOMANYOS AKADEMIA RENYI ALFRED MATEMATIKAI KUTATOINTEZET",
+    "coordinatorCountry": "HU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998078979": {
+            "orgId": "998078979",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA RENYI ALFRED MATEMATIKAI KUTATOINTEZET",
+            "ecContrib": 1386364
+        }
+    },
+    "calculatedTotalContribution": 1386364
+}

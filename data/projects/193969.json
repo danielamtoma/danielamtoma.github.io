@@ -1,0 +1,68 @@
+{
+    "rcn": "193969",
+    "acronym": "IODA",
+    "topics": "MSCA-ITN-2014-ETN",
+    "title": "Industrial optimal design using adjoint CFD",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "Adjoint-based methods have become the most interesting approach in numerical optimisation using Computational Fluid Dynamics (CFD) due to their low computational cost compared to other approaches.  The development of adjoint solvers has seen significant research interest, and a number of EC projects have been funded on adjoint-based optimisation. In particular, partners of this proposal are members of the EC FP7 projects FlowHead and AboutFlow which develops complete adjoint-based design methods for steady-state and unsteady flows in industrial design.\n\nTwo related bottlenecks of applying goal-based optimisation in CFD are addressed here a) the efficient but flexible and automatic parametrisation of arbitrary shapes, and b) the imposition of design constraints. \n\nParametrisation is at the core of optimisation, it defines the design space that the optimising algorithm is exploring. A range of parametrisations will be developed in the project, ranging from simple CAD-free methods with rich design spaces to CAD-based methods that return the optimised shape in CAD form.  \nIntegration of the currently available shape and topology modification approaches with the gradient-based optimisation approach will be addressed, in particular development of interfaces to return optimised CAD-free shapes into CAD for further design and analysis, an aspect that currently requires manual interpretation by an expert user.\n\nConstraints are at the core of industrial design, e.g. an optimised climate ducts for a vehicle needs to fit into the available build space. The project will develop efficient ways to extract constraints specified in the CAD model and apply them to CAD-free parametrisations. Methods will be developed to quantify how much the limited design space impairs the optimum and then to adaptively refine it.\n\nThe results of the project will be applied to realistic mid-size and large-scale industrial optimisation problems supplied by the industrial project partners ranging from",
+    "totalCost": "3854909,52",
+    "ecMaxContribution": "3854909,52",
+    "coordinator": "QUEEN MARY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "ROLLS-ROYCE DEUTSCHLAND LTD & CO KG;NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA;ENGYS SRL;OPEN CASCADE;ESI SOFTWARE GERMANY GMBH;THE QUEEN'S UNIVERSITY OF BELFAST;INSTITUT VON KARMAN DE DYNAMIQUE DES FLUIDES;VOLKSWAGEN AG;UNIVERSITAET PADERBORN",
+    "participantCountries": "DE;EL;IT;FR;UK;BE",
+    "projectParticipants": {
+        "953915752": {
+            "orgId": "953915752",
+            "orgName": "ENGYS SRL",
+            "ecContrib": 516123
+        },
+        "942422416": {
+            "orgId": "942422416",
+            "orgName": "OPEN CASCADE",
+            "ecContrib": 262876
+        },
+        "999698006": {
+            "orgId": "999698006",
+            "orgName": "INSTITUT VON KARMAN DE DYNAMIQUE DES FLUIDES",
+            "ecContrib": 501120
+        },
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 484774
+        },
+        "999939924": {
+            "orgId": "999939924",
+            "orgName": "VOLKSWAGEN AG",
+            "ecContrib": 249216
+        },
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 819864
+        },
+        "951980990": {
+            "orgId": "951980990",
+            "orgName": "ESI SOFTWARE GERMANY GMBH",
+            "ecContrib": 249216
+        },
+        "999837492": {
+            "orgId": "999837492",
+            "orgName": "UNIVERSITAET PADERBORN",
+            "ecContrib": 249216
+        },
+        "999992013": {
+            "orgId": "999992013",
+            "orgName": "THE QUEEN'S UNIVERSITY OF BELFAST",
+            "ecContrib": 273288
+        },
+        "999919554": {
+            "orgId": "999919554",
+            "orgName": "ROLLS-ROYCE DEUTSCHLAND LTD & CO KG",
+            "ecContrib": 249216
+        }
+    },
+    "calculatedTotalContribution": 3854909
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "203285",
+    "acronym": "TUNE",
+    "topics": "ERC-ADG-2015",
+    "title": "Testing the Untestable: Model Testing of Complex Software-Intensive Systems",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Software-intensive systems pervade modern society and industry. These systems often play critical roles from an economic, safety or security standpoint, thus making their dependability indispensible. Software Verification and Validation (V&V) is core to ensuring software dependability. The most prevalent V&V technique is testing, that is the automated, systematic, and controlled execution of a system to detect faults or to show compliance with requirements. Increasingly, we are faced with systems that are untestable, meaning that traditional testing methods are highly expensive, time-consuming or infeasible to apply due to factors such as the systemsí continuous interactions with the environment and the deep intertwining of software with hardware.\nTUNE will enable testing of untestable systems by revolutionising how we think about test automation. Our key idea is to frame testing on models rather than operational systems. We refer to such testing as model testing. The models that underlie model testing are executable representations of the relevant aspects of a system and its environment, alongside the risks of system failures. Such models inevitably have uncertainties due to complex, dynamic environment behaviours and the unknowns about the system. This necessitates that model testing be uncertainty-aware.\nWe propose to develop scalable, practical and uncertainty-aware techniques for test automation, leveraging our expertise on model-driven engineering and automated testing. Our solutions will synergistically combine metaheuristic search with system and risk models to drive the search for critical faults that entail the most risk. TUNE is the first initiative with the specific goal of raising the level of abstraction of testing from operational systems to models. The project will bring early and cost-effective automation to the testing of many critical systems that defy existing automation techniques, thus significantly improving the dependability of such systems.",
+    "totalCost": "2307932",
+    "ecMaxContribution": "2307932",
+    "coordinator": "UNIVERSITE DU LUXEMBOURG",
+    "coordinatorCountry": "LU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 2307932
+        }
+    },
+    "calculatedTotalContribution": 2307932
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "213343",
+    "acronym": "OPNT",
+    "topics": "SMEInst-04-2016-2017",
+    "title": "Enhanced Time as a Service: transforming telecom networks into a 'SuperGPS' system",
+    "startDate": "01/12/2017",
+    "endDate": "31/03/2018",
+    "objective": "Many technologies used daily to work, communicate or travel are based on networks of synchronized devices that require a timing source to operate. GNSS is the usual clock source for them but it is an insecure system with no backup. Moreover, the accuracy of GNSS clocks are not enough for the groundbreaking technologies as 5G or those related with space research.\nThe GNSS market, with Ä120B revenue and expected to grow to Ä195B by 2025, comprises services as road navigation, location based services, automated driving, smart cities and IoT. Future 5G will also be part of it as depending on accurate timing for a correct performance.\nOPNT aims to relocate timing and positioning services, currently provided by satellites, as a ëTiming as a serviceí (eTaaS) available for the telecom network.\neTaaS, developed at CERN, consists of a set of devices that, installed on an optic fiber network, connects a grandmaster clock with any element of the network that needs synchronization. It can offer more accuracy than GNSS and enable clock synchronization over 1000 km, thanks to the hardware and software developed by OPNT from the idea of the calibration of the off-set between two light beams of distinct colour traveling through an optic fiber circuit.\nOPNTís technology, will offer to MNOs an alternative to GNSS timing in the form of low-cost devices that can be connected next to their existing base stations so the mobile network can be upgraded to 4G or 5G with no need of big investments. Thus MNOs can increase their wireless capacity and enable new business models based on time provisioning and accurate localization services.\nTiming (and later also location) as a Service will be offered at first stage with the hardware sale and at second stage with the provision of the service without the need of any hardware (just operate a fiber optic network). The project will be profitable with ROI=72 and cumulated revenue of Ä96.7M after 5 years of commercialization of eTaaS.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "OPNT BV",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "911475536": {
+            "orgId": "911475536",
+            "orgName": "OPNT BV",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

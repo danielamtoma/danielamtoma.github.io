@@ -1,0 +1,23 @@
+{
+    "rcn": "208454",
+    "acronym": "NEUTRINO",
+    "topics": "ERC-2016-STG",
+    "title": "Nonlinear Fourier Transforms in Action",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "Nonlinear effects are ubiquitous in many modern technology fields such as photonics and hydromechanical engineering. The standard method to deal with nonlinear effects is to use linear approximations because they are simple to work with. Engineers typically consider nonlinear effects a nuisance that cannot be dealt with in exact terms. This intuition is deeply engrained in the collective subconscious, but it is not always correct -- not all nonlinearities are equally bad. Many practically important nonlinear systems can be approached using so-called nonlinear Fourier transforms, which offer simple closed-form descriptions for nonlinear phenomena that are difficult to work with in the conventional time- or frequency-domain, similar to how the conventional Fourier transform simplifies the analysis of linear systems. Today, almost fifty years after the discovery of the first nonlinear Fourier transform by Gardner et al., nonlinear Fourier transforms have been studied intensively in mathematics and physics. However, despite many potential applications, they have not yet found widespread use in engineering. The lack of efficient numerical algorithms for the computation of nonlinear Fourier transforms similar to the celebrated fast Fourier transform is the major roadblock. I have recently been able to present the first ìfast nonlinear Fourier transformsî, but most of this work so far was concerned with signals that obey vanishing boundary conditions. This is the simplest, but not the practically most relevant case. Periodic and Dirichlet boundary conditions occur frequently in practical applications, but their treatment is much more difficult. I aim to push nonlinear Fourier transform into engineering practice by developing fast nonlinear Fourier transforms for two prototypical applications, fiber-optic communications and water-wave data analysis.",
+    "totalCost": "1337907",
+    "ecMaxContribution": "1337907",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1337907
+        }
+    },
+    "calculatedTotalContribution": 1337907
+}

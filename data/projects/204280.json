@@ -1,0 +1,53 @@
+{
+    "rcn": "204280",
+    "acronym": "Giantleap",
+    "topics": "FCH-01.2-2015",
+    "title": "Giantleap Improves Automation of Non-polluting Transportation with Lifetime Extension of Automotive PEM fuel cells",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2019",
+    "objective": "Fuel-Cell Electric Buses (FCEBs) have been deployed in multiple demonstrations in Europe, Canada and the USA, but they still suffer from high costs and low availability.\nOddly enough, the low availability has almost always been due to control issues and hybridisation strategies rather than problems in the fuel cells themselves.\n\nGiantleap aims to increase the availability and reduce the total cost of ownership of FCEBs by increasing the lifetime and reliability of the fuel cell system; this will be achieved with advanced online diagnostics of the fuel cells and the balance-of-plant components of the system, coupled with prognostics methods to calculate the system's residual useful life, and advanced control algorithms able to exploit this information to maximise the system's life.\nThe same control system will also be engineered for robustness, in order to increase availability to the level of diesel buses or better.\n\nGiantleap will improve the understanding of degradation in fuel-cell systems with extensive experimentation and analysis; diagnostic and prognostic methods will focus on exploitation of current sensors to make the novel control approach cost-effective.\nGiantleap includes the demonstration of a prototype in relevant environment, allowing the project to reach technology readiness level 6.\n\nThe prototype will be a trailer-mounted fuel-cell based range extender meant for battery city buses. The ability to swap out the range extender in case of malfunctions greatly increases the availability of the bus, while the large battery capacity allows the bus to complete its route should malfunctions occur during usage.\nFurthermore, the large battery capacity will give the control system ample opportunity to optimise fuel-cell usage via hybridisation management strategies.",
+    "totalCost": "3260297,5",
+    "ecMaxContribution": "3260297,5",
+    "coordinator": "SINTEF AS",
+    "coordinatorCountry": "NO",
+    "participants": "SVEUCILISTE U SPLITU, FAKULTET ELEKTROTEHNIKE, STROJARSTVA I BRODOGRADNJE;STIFTELSEN SINTEF;UNIVERSITE DE FRANCHE-COMTE;BOSCH ENGINEERING GMBH;VDL BUS & COACH BV;VDL ENABLING TRANSPORT SOLUTIONS BV;ELRINGKLINGER AG",
+    "participantCountries": "HR;NO;FR;DE;NL",
+    "projectParticipants": {
+        "996558116": {
+            "orgId": "996558116",
+            "orgName": "SVEUCILISTE U SPLITU, FAKULTET ELEKTROTEHNIKE, STROJARSTVA I BRODOGRADNJE",
+            "ecContrib": 296250
+        },
+        "918007807": {
+            "orgId": "918007807",
+            "orgName": "VDL ENABLING TRANSPORT SOLUTIONS BV",
+            "ecContrib": 481125
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 239635
+        },
+        "996421443": {
+            "orgId": "996421443",
+            "orgName": "BOSCH ENGINEERING GMBH",
+            "ecContrib": 821400
+        },
+        "999863100": {
+            "orgId": "999863100",
+            "orgName": "UNIVERSITE DE FRANCHE-COMTE",
+            "ecContrib": 378062
+        },
+        "952493441": {
+            "orgId": "952493441",
+            "orgName": "VDL BUS & COACH BV",
+            "ecContrib": 0
+        },
+        "970566481": {
+            "orgId": "970566481",
+            "orgName": "ELRINGKLINGER AG",
+            "ecContrib": 668225
+        }
+    },
+    "calculatedTotalContribution": 2884697
+}

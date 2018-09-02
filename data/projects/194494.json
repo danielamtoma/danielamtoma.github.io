@@ -1,0 +1,23 @@
+{
+    "rcn": "194494",
+    "acronym": "SYMBIOSYS",
+    "topics": "ERC-CoG-2014",
+    "title": "Symbolic Analysis of Temporal and Functional Behavior of Networked Systems",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2020",
+    "objective": "The goal of SYMBIOSYS is to assure the reliability and interoperability of networked (software) systems, a crucial requirement in todayís networked information society. To this end, we devise a software and systems analysis methodology that ñ for the first time ñ considers the vital influence factors that determine the behavior of networked systems, especially including input and temporal uncertainty of network interactions. With SYMBIOSYS, we will be able to automatically and effciently explore and analyze the vast amount of distributed execution paths in networked systems in a highly structured manner inspired by Symbolic Execution (SE).\n\nThe combination of the benefits of model checking (rigorous exploration) and of dynamic software testing (analyzing real systemsí code) represents a quantum leap in the field of network analysis. Orthogonal to and complementing formal model-based approaches, which target the design of reliable systems on an abstract (model-) level, we also address system- and implementation-level aspects of (typically heterogeneous) implementations that interact via unpredictable networks. To achieve this, we introduce the fundamentally new approaches Symbolic Distributed Execution (SDE), Symbolic Temporal Execution (STE) and their symbiosis (SDTE). This is a breakthrough in the symbolic analysis of real systems and significantly widens the scope of SE to new analysis domains.\n\nOur novel approach raises the issue of complexity and path explosion. Yet, our experience from early work on SDE strongly suggests that the use of domain-specific knowledge and further general optimization strategies allow to significantly reduce this complexity and enable an efficient analysis. SYMBIOSYS also enables and fosters the design of new methods and tools to ensure reliability, interoperability, and other vital properties of networked systems. We demonstrate our new methodology through examples from Cyber-Physical Systems and low-latency communication.",
+    "totalCost": "1988750",
+    "ecMaxContribution": "1988750",
+    "coordinator": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 1988750
+        }
+    },
+    "calculatedTotalContribution": 1988750
+}

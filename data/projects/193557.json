@@ -1,0 +1,23 @@
+{
+    "rcn": "193557",
+    "acronym": "FOC",
+    "topics": "ERC-StG-2014",
+    "title": "Foundations of Cryptographic Hardness",
+    "startDate": "01/03/2015",
+    "endDate": "29/02/2020",
+    "objective": "A fundamental research challenge in modern cryptography is understanding the necessary hardness assumptions required to build different cryptographic primitives. Attempts to answer this question have gained tremendous success in the last 20-30 years. Most notably, it was shown that many highly complicated primitives can be based on the mere existence of one-way functions (i.e., easy to compute and hard to invert), while other primitives cannot be based on such functions. This research has yielded fundamental tools and concepts such as randomness extractors and computational notions of entropy. Yet many of the most fundamental questions remain unanswered. \nOur first goal is to answer the fundamental question of whether cryptography can be based on the assumption that P not equal NP. Our second and third goals are to build a more efficient symmetric-key cryptographic primitives from one-way functions, and to establish effective methods for security amplification of cryptographic primitives. Succeeding in the second and last goals is likely to have great bearing on the way that we construct the very basic cryptographic primitives. A positive answer for the first question will be considered a dramatic result in the cryptography and computational complexity communities.\nTo address these goals, it is very useful to understand the relationship between different types and quantities of cryptographic hardness. Such understanding typically involves defining and manipulating different types of computational entropy, and comprehending the power of security reductions. We believe that this research will yield new concepts and techniques, with ramification beyond the realm of foundational cryptography.",
+    "totalCost": "1239838",
+    "ecMaxContribution": "1239838",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1239838
+        }
+    },
+    "calculatedTotalContribution": 1239838
+}

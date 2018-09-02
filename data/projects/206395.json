@@ -1,0 +1,48 @@
+{
+    "rcn": "206395",
+    "acronym": "ROSIN",
+    "topics": "ICT-26-2016",
+    "title": "ROS-Industrial quality-assured robot software components",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "ROSIN will create a step change in the availability of high-quality intelligent robot software components for the European\nindustry. This is achieved by building on the existing open-source ìRobot Operating Systemî (ROS) framework and\nleveraging its worldwide community. ROS and its subsidiary ROS-Industrial (European side led by TU Delft and\nFraunhofer) is well-known, but its European industrial potential is underestimated. The two main critiques are (1) is the\nquality on par with industry, and (2) is there enough European industrial interest to justify investing in it? Partially, the\nanswer is ìyes and yesî; ample industrial installations are already operational. Partially however, the two questions hold\neach other in deadlock, because further quality improvement requires industrial investment and vice versa. ROSIN will\nresolve the deadlock and put Europe in a leading position.\nFor software quality, ROSIN introduces a breakthrough innovation in automated code quality testing led by IT University\nCopenhagen, complemented with a full palette of quality assurance measures including novel model-in-the-loop continuous\nintegration testing with ABB robots. Simultaneously, more ROS-Industrial tools and components will be created by making\n50% of the ROSIN budget available to collaborating European industrial users and developers for so-called Focused\nTechnical Projects. ROSIN maximizes budget efficacy by alleviating yet another deadlock; experience shows that industry\nwill fund ROS-Industrial developments, but only after successful delivery. ROSIN provides pre-financing for developers\nwhich will be recovered into a future revolving fund to perpetuate the mechanism.\nTogether with broad education activities (open for any EU party) led by Fachhochshule Aachen and community-building\nactivities led by Fraunhofer, ROSIN will let ROS-Industrial reach critical mass with further self-propelled growth resulting\nin a widely adopted, high-quality, open-source industrial standard.",
+    "totalCost": "7651236,25",
+    "ecMaxContribution": "7504236,25",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "ABB AB;IT-UNIVERSITETET I KOBENHAVN;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;FUNDACION TECNALIA RESEARCH & INNOVATION;FACHHOCHSCHULE AACHEN",
+    "participantCountries": "SE;DK;DE;ES",
+    "projectParticipants": {
+        "998509853": {
+            "orgId": "998509853",
+            "orgName": "ABB AB",
+            "ecContrib": 343000
+        },
+        "996033928": {
+            "orgId": "996033928",
+            "orgName": "FACHHOCHSCHULE AACHEN",
+            "ecContrib": 694045
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 4695832
+        },
+        "998273464": {
+            "orgId": "998273464",
+            "orgName": "IT-UNIVERSITETET I KOBENHAVN",
+            "ecContrib": 698534
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 381200
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 691625
+        }
+    },
+    "calculatedTotalContribution": 7504236
+}

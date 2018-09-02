@@ -1,0 +1,38 @@
+{
+    "rcn": "197543",
+    "acronym": "greenFLASH",
+    "topics": "FETHPC-1-2014",
+    "title": "Green Flash, energy efficient high performance computing for real-time science",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "The main goal of Green Flash is to design and build a prototype for a Real-Time Controller (RTC) targeting the European Extremely Large Telescope (E-ELT) Adaptive Optics (AO) instrumentation. The E-ELT is a 39m diameter telescope to see first light in the early 2020s. To build this critical component of the telescope operations, the astronomical community is facing technical challenges, emerging from the combination of high data transfer bandwidth, low latency and high throughput requirements, similar to the identified critical barriers on the road to Exascale. With Green Flash, we will propose technical solutions, assess these enabling technologies through prototyping and assemble a full scale demonstrator to be validated with a simulator and tested on sky. With this R&D program we aim at feeding the E-ELT AO systems preliminary design studies, led by the selected first-light instruments consortia, with technological validations supporting the designs of their RTC modules. Our strategy is based on a strong interaction between academic and industrial partners. Components specifications and system requirements are derived from the AO application. Industrial partners lead the development of enabling technologies aiming at innovative tailored solutions with potential wide application range. The academic partners provide the missing links in the ecosystem, targeting their application with mainstream solutions. This increases both the value and market opportunities of the developed products. A prototype harboring all the features is used to assess the performance. It also provides the proof of concept for a resilient modular solution to equip a large scale European scientific facility, while containing the development cost by providing opportunities for return on investment.",
+    "totalCost": "3760793,75",
+    "ecMaxContribution": "3760793,75",
+    "coordinator": "OBSERVATOIRE DE PARIS",
+    "coordinatorCountry": "FR",
+    "participants": "MICROGATE SRL;PLDA SAS;UNIVERSITY OF DURHAM",
+    "participantCountries": "IT;FR;UK",
+    "projectParticipants": {
+        "957632404": {
+            "orgId": "957632404",
+            "orgName": "MICROGATE SRL",
+            "ecContrib": 980919
+        },
+        "935468195": {
+            "orgId": "935468195",
+            "orgName": "PLDA SAS",
+            "ecContrib": 762500
+        },
+        "999866010": {
+            "orgId": "999866010",
+            "orgName": "UNIVERSITY OF DURHAM",
+            "ecContrib": 964875
+        },
+        "999623122": {
+            "orgId": "999623122",
+            "orgName": "OBSERVATOIRE DE PARIS",
+            "ecContrib": 1052500
+        }
+    },
+    "calculatedTotalContribution": 3760794
+}

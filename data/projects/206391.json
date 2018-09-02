@@ -1,0 +1,38 @@
+{
+    "rcn": "206391",
+    "acronym": "SONNET",
+    "topics": "MSCA-RISE-2016",
+    "title": "Self-OrganizatioN towards reduced cost and eNergy per bit for future Emerging radio Technologies",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "A revelation in today¥s mobile is networks is SON (Self-Organizing technology) technology, which is seen as a playing pivotal role towards reducing the management costs of networks. In legacy networks, still many network elements and associated parameters are manually configured. The associated operations costs are significant. Specialized expertise must be maintained to tune these network parameters, and the existing manual process is time-consuming and potentially error-prone. In addition, this manual tuning process inherently results in comparatively long delays in updating values in response to the often rapidly changing network topologies and operating conditions, resulting in sub-optimal network performance. SON is capable of collecting information from the network, so as to perform self-configuration, self-optimization, self-healing and etc, so as to reduce the operation cost through less human involvement, and to optimize the service quality through robust and prompt network optimization.   \n\nIn this proposal, we aim to drive further cost savings in the way networks are managed today by amplifying further the coverage zone of SON within the network. We believe that key technologies such as network sharing and Coordinated Multipoint (CoMP) can benefit from SON technology solutions. We will consider a complex context-aware heterogeneous network that is slowly becoming a 5G reality, and investigate the notion of SON CoMP and SO network sharing, as key technologies to reduce cost and energy per bit in legacy and future emerging mobile technologies.",
+    "totalCost": "886500",
+    "ecMaxContribution": "886500",
+    "coordinator": "GREENSPHERE UNIPESSOAL LDA",
+    "coordinatorCountry": "PT",
+    "participants": "SIGINT SOLUTIONS LTD;LONDON SOUTH BANK UNIVERSITY LBG;PANEPISTIMIO PATRON",
+    "participantCountries": "CY;UK;EL",
+    "projectParticipants": {
+        "999742141": {
+            "orgId": "999742141",
+            "orgName": "SIGINT SOLUTIONS LTD",
+            "ecContrib": 207000
+        },
+        "999911309": {
+            "orgId": "999911309",
+            "orgName": "LONDON SOUTH BANK UNIVERSITY LBG",
+            "ecContrib": 243000
+        },
+        "950930577": {
+            "orgId": "950930577",
+            "orgName": "GREENSPHERE UNIPESSOAL LDA",
+            "ecContrib": 220500
+        },
+        "999894528": {
+            "orgId": "999894528",
+            "orgName": "PANEPISTIMIO PATRON",
+            "ecContrib": 216000
+        }
+    },
+    "calculatedTotalContribution": 886500
+}

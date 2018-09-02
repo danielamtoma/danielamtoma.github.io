@@ -1,0 +1,23 @@
+{
+    "rcn": "209843",
+    "acronym": "protonCBCT",
+    "topics": "MSCA-IF-2016",
+    "title": "Proton CT reconstruction with a Cone Beam CT prior",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2019",
+    "objective": "'Proton therapy has become a superioralternative to conventional radiotherapy for certain clinical indications. It potentially allows to deliver high dose to the tumor while sparing healthy surrounding tissue. However, a reduction of treatment uncertainties is required to fully exploit this advantage and precise knowledge of the relative stopping power (RSP) of the patient tissues on the day of treatment is needed to correctly predict the proton range in the treatment planning system (TPS). Modern imaging technology plays a key role here. \n\nDeveloping novel methods to produce volumetric images of the patient while positioned on the treatment couch lies at the heart of this proposal. More specifically, I propose to explore strategies to merge proton computed tomography (pCT) and cone beam CT (CBCT) acquired directly in the treatment room based on which accurate dose-of-the-day calculations can be performed. The idea arises from the  complementary advantages of proton and X-ray imaging: The former potentially provides a highly accurate volumetric RSP map while the latter produces images of high spatial resolution. \n\nI will develop and implement a 'protonCBCT' reconstruction algorithm which uses the CBCT data as prior, compensates for image noise through dedicated regularization methods, and builds the pCT image using state-of-the-art reconstruction techniques. I emphasize the clinical applicability of the project: I will A) consider pCT and CBCT data acquired with clinically available imaging technology, B) propose a treatment work flow to incorporate the new protonCBCT imaging, and C) validate our methods using clinically proven treatment planning software.  \n\nTo my knowledge, a combined pCT/CBCT imaging modality in a clinical context has not been studied yet. It has the potential of providing volumetric images with excellent quality acquired in situ directly prior to a treatment session and could eventually lead to higher treatment quality in proton therapy.'",
+    "totalCost": "185076",
+    "ecMaxContribution": "185076",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 185076
+        }
+    },
+    "calculatedTotalContribution": 185076
+}

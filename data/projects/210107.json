@@ -1,0 +1,23 @@
+{
+    "rcn": "210107",
+    "acronym": "DATATRANS",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "PROVENTA Smart Database Transformation Framework",
+    "startDate": "01/05/2017",
+    "endDate": "31/08/2017",
+    "objective": "The execution of database migrations traditionally involves costs and risks that are difficult to evaluate previously. 40% of all migrations fail or exceed their budget and schedules. This prevents many organizations from implementing necessary changes to integrate better technologies, resulting in an extremely negative effect on their competitiveness in the long term.\n\nMajor database vendors offer database migration tools to facilitate the adoption of their newest products, however, these tools focus only on database transformations to the vendorís products and are only commercialized attached to the vendor package, which reinforces the vendor lock-in. Furthermore, migration tools focus on minimizing the impact of the migration process, without taking appropriate actions to avoid post-migration operational risks.\n\nAt Proventa, we have gradually developed a series of custom utilities, based on commercial Open Source software, specifically for the purpose of database transformations. These tools have been progressively bundled into one single standalone package, called Datatrans. Datatrans constitutes a revolutionary standalone framework that drastically facilitates the transformation process for all the major database management systems.\n\nBy releasing Datatrans as a commercial product, we will minimize migration project risks and encourage database transformations towards state-of-the art Open Source across all industries. This will result in a reduction of license costs, an improvement of general productivity and cost-efficiency. Additionally, this will also contribute to the general sustainability of Open Source database management software.\nFor Proventa, on top of boosting our product revenues, it will also attract new customers and complement our current offer of consulting services. We estimate that Datatrans will allow us to double our revenue to almost Ä40 million by 2024, requiring us to hire at least 40 additional full time professionals.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "PROVENTA AG",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "986273594": {
+            "orgId": "986273594",
+            "orgName": "PROVENTA AG",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

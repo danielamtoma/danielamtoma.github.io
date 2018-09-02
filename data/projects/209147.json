@@ -1,0 +1,23 @@
+{
+    "rcn": "209147",
+    "acronym": "EyeCode",
+    "topics": "ERC-2016-COG",
+    "title": "Perceptual encoding of high fidelity light fields",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "One of the grand challenges of computer graphics has been to generate images indistinguishable from photographs for a naÔve observer. As this challenge is mostly completed and computer generated imagery starts to replace photographs (product catalogues, special effects in cinema), the next grand challenge is to produce imagery that is indistinguishable from the real-world.\n\nTremendous progress in capture, manipulation and display technologies opens the potential to achieve this new challenge (at the research stage) in the next 5-10 years. Electronic displays offer sufficient resolution, frame rate, dynamic range, colour gamut and, in some configurations, can produce binocular and focal depth cues. However, most of the work done in this area ignores or does not sufficiently address one of the key aspects of this problem - the performance and limitations of the human visual system.\n\nThe objective of this project is to characterise and model the performance and limitations of the human visual system when observing complex dynamic 3D scenes. The scene will span a high dynamic range (HDR) of luminance and provide binocular and focal depth cues. In technical terms, the project aims to create a visual model and difference metric for high dynamic range light fields (HDR-LFs). The visual metric will replace tedious subjective testing and provide the first automated method that can optimize encoding and processing of HDR-LF data. \n\nPerceptually realistic video will impose enormous storage and processing requirements compared to traditional video. The bandwidth of such rich visual content will be the main bottleneck for new imaging and display technologies. Therefore, the final objective of this project is to use the new visual metric to derive an efficient and approximately perceptually uniform encoding of HDR-LFs. Such encoding will radically reduce storage and bandwidth requirements and will pave the way for future highly realistic image and video content.",
+    "totalCost": "1868855",
+    "ecMaxContribution": "1868855",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

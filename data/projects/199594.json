@@ -1,0 +1,38 @@
+{
+    "rcn": "199594",
+    "acronym": "BIRDS",
+    "topics": "MSCA-RISE-2015",
+    "title": "Bioinformatics and Information Retrieval Data Structures Analysis and Design",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "Nowadays computers are used to process huge amounts of information, for example a major search engine processes tens of thousands of searches per second. Still the future of the information age is at risk. Computer architectures will not be resilient enough for the next information challenges. It is not only a matter of word size or clock cycles. New DNA sequencing technologies are evolving much faster than Moore's law, this means that they are evolving faster than the amount of transistors that go into CPUs and GPUs. Moreover computer disks are, by far, the slowest part of the architecture and are evolving even slower, therefore widening the relative time that information takes to reach the processor.\nProcessing the amount of information, that will make personalized medicine a reality, requires a new approach. A new class of data structures has recently been developed to address the new challenges in storing, processing, indexing, searching and navigating biological data. Similar tasks have been also tackled by researchers in the information retrieval community: such as designing algorithms for sequence analysis, networks representation or compressing and indexing repetitive data. Synergies of researchers from both fields can lead to new efficient approaches to improve the technology used for analysis of genome-scale data.\nThe overall goal of BIRDS is to establish a long term international network involving leading researchers in bioinformatics and information retrieval from four different continents, to strengthen the partnership through the exchange of knowledge and expertise, and to develop integrated approaches to improve current approaches in both fields. It will be implemented through staff exchanges, in addition to summer schools, workshops and conferences to facilitate knowledge sharing between members of the partnership. We will also bring research results to market, thanks to cooperation with an innovative SME software development company based in Europe.",
+    "totalCost": "648000",
+    "ecMaxContribution": "648000",
+    "coordinator": "UNIVERSIDADE DA CORUNA",
+    "coordinatorCountry": "ES",
+    "participants": "HELSINGIN YLIOPISTO;ENXENIO SL;INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA",
+    "participantCountries": "FI;ES;PT",
+    "projectParticipants": {
+        "940066480": {
+            "orgId": "940066480",
+            "orgName": "ENXENIO SL",
+            "ecContrib": 58500
+        },
+        "999629718": {
+            "orgId": "999629718",
+            "orgName": "UNIVERSIDADE DA CORUNA",
+            "ecContrib": 265500
+        },
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 189000
+        },
+        "999613325": {
+            "orgId": "999613325",
+            "orgName": "INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA",
+            "ecContrib": 135000
+        }
+    },
+    "calculatedTotalContribution": 648000
+}

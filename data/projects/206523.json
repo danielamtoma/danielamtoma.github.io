@@ -1,0 +1,23 @@
+{
+    "rcn": "206523",
+    "acronym": "WRAM",
+    "topics": "ERC-PoC-2016",
+    "title": "Wave-based Room Acoustics Modeling",
+    "startDate": "01/12/2016",
+    "endDate": "31/05/2018",
+    "objective": "Virtual acoustics is the complete simulation of the listenerís experience in an acoustic space. The applications are many: building acoustics, concert hall design, and virtual reality, including immersive game audio. Conventional audio rendering approaches are based on geometric or ray-based approximations. Though conceptually simple, such methods neglect many audible features of room acoustics, and in particular are not valid at low audible frequencies, or capable of rendering diffraction or shadowing effects around corners or obstructions. Wave-based methods address the shortcomings of ray-based methods, yielding a complete description of the acoustic field within an enclosure. The NESS project (ERC-2011-StG-279068-NESS) has taken wave-based methods from theory to the practical setting of real-world room acoustics, resulting in many key innovations, including the modelling of arbitrary geometries, variable and frequency-dependent wall conditions, and viscothermal effects in air. Building on these innovations, the aim of the proposed ERC PoC project WRAM (Wave-based Room Acoustics Modeling) is to introduce a new generation of sophisticated virtual acoustics rendering tools to the wide market of architectural acoustics, and immersive and game audio practitioners. The main activities under WRAM will be the development of a prototype system for wave-based high-quality room acoustics renderings, to operate ultimately as an on-demand cloud-based service. The development of the WRAM system will be informed by extensive consultation with a wide variety of industrial sectors, with regard to the design of several benchmarking problems, which will be tested against industry-standard ray-based platforms, and compared against measurement. From our interaction with industrial partners, we will build a business case based on a detailed market analysis and investigate possibilities of further investment by potential commercial partners and the strengthening of our IP position.",
+    "totalCost": "149138",
+    "ecMaxContribution": "149138",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 149138
+        }
+    },
+    "calculatedTotalContribution": 149138
+}

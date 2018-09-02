@@ -1,0 +1,58 @@
+{
+    "rcn": "194133",
+    "acronym": "SUPERSEDE",
+    "topics": "ICT-09-2014",
+    "title": "SUpporting evolution and adaptation of PERsonalized Software by Exploiting contextual Data and End-user feedback",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "The number of available software applications in the form of web services, mobile apps, etc., is dramatically increasing over the years. This software exploits data collected through various sensors, and online data sources. Its users can access it through a variety of devices, mostly based on mobile technology. \nSoftware providers can hardly predict the acceptance of the applications they deliver. The great diversity in execution contexts and user preferences makes it difficult to personalize the software to fit all usersí needs. The complexity of those systems and the data involved turn out to be a solution to the problem and offer new opportunities for software engineers. \nThe SUPERSEDE project proposes a feedback-driven approach for software life cycle management, with the ultimate purpose of improving usersí quality of experience. Decisions on software evolution and runtime adaptation will be made upon analysis of end-user feedback and large amount of data monitored from the context. An integrated platform will articulate the methods and tools produced in the project.\nThe project will provide advancements in several research areas however, the major contribution will be in integrating methods and tools from the mentioned areas, thus providing a new solution framework for software evolution and adaptation for data-intensive applications.\nThree use cases have been identified to provide a solution, which is based on the needs of different companies. They are representative for different data-intensive application domains (i.e. energy consumption, sport event webcasting). This diversity also allows a validation of the methods and tools produced to ultimately provide evidence of potential for productivity gains.\nCONSORTIUM: 8 partners with large scientific, dissemination and exploitation expertise on the topics of the project. Balanced consortium from different perspectives: geographical (5 countries) and profile (4 academic partners \\ 4 companies, 2 large and 2 SMEs).",
+    "totalCost": "3852362,5",
+    "ecMaxContribution": "3246675",
+    "coordinator": "FONDAZIONE BRUNO KESSLER",
+    "coordinatorCountry": "IT",
+    "participants": "DELTA INFORMATICA SPA;FACHHOCHSCHULE NORDWESTSCHWEIZ;SIEMENS AKTIENGESELLSCHAFT OESTERREICH;ATOS SPAIN SA;UNIVERSITAT ZURICH;UNIVERSITAT POLITECNICA DE CATALUNYA;SEnerCon GmbH",
+    "participantCountries": "IT;CH;AT;ES;DE",
+    "projectParticipants": {
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 643000
+        },
+        "952918204": {
+            "orgId": "952918204",
+            "orgName": "SEnerCon GmbH",
+            "ecContrib": 340992
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 502375
+        },
+        "999856310": {
+            "orgId": "999856310",
+            "orgName": "FACHHOCHSCHULE NORDWESTSCHWEIZ",
+            "ecContrib": 0
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 659633
+        },
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 0
+        },
+        "955676205": {
+            "orgId": "955676205",
+            "orgName": "DELTA INFORMATICA SPA",
+            "ecContrib": 436000
+        },
+        "999953601": {
+            "orgId": "999953601",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT OESTERREICH",
+            "ecContrib": 664675
+        }
+    },
+    "calculatedTotalContribution": 3246675
+}

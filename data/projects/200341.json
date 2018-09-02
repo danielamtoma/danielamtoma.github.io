@@ -1,0 +1,23 @@
+{
+    "rcn": "200341",
+    "acronym": "Jam",
+    "topics": "IT-1-2015-1",
+    "title": "Enhancing fuel efficiency and reducing vehicle maintenance and downtime costs, using real-time data from vehicle sensors (IoT) and a machine learning algorithm for big data analysis.",
+    "startDate": "01/02/2016",
+    "endDate": "31/05/2016",
+    "objective": "Jam is an IoT solution (hardware & software), aiming to improve the efficiency of businesses operating medium/heavy-duty vehicle (e.g. passenger and distribution fleets) and industrial fleets (e.g. mining trucks and agriculture vehicles), targeting key needs:\n- Fuel efficiency: fuel represented, in 2011, 32% of the total cost of fleet operation\n- Compliance with environmental regulations and reduction of GHG emissions\n- Vehicle off-road (VOR) time and maintenance costs: Many operators put the cost of having a single VOR as being in the hundreds, if not thousands, euros/day\n\nAccording to Frost & Sullivan, the OBD market is expected to reach 117.8 million subscribers in 2019 and to become a billion-dollar industry by 2020. Although there are already solutions on the market for ECU interpretation on light-duty vehicles, the amount of new protocols, physical interfaces and differences in details in the way industrial vehicles operate constitute a barrier, not yet surpassed.\nBusiness and industrial fleets need an agnostic solution that allows optimizing the fleet management by reducing the maintenance costs and VOR time. Jam brings an innovative approach and focus on prevention and constant analysis of real-time vehicle data through a machine-learning algorithm allowing companies to save money on fuel costs, vehicle parts and hours of labour due to a more efficient management of fleet resources. \n\nCompetitive advantages: \n- Designed for medium/heavy-duty and industrial vehicles \n- Agnostic system\n- Machine-learning algorithm that compares the ECU sensor data with historical data, predicting critical events\n- New eco-driving approach\n- Troubleshooting and scheduled repairs approach focused on prevention and constant analysis of real-time vehicle data\nThe solution will be implemented at a global scale, starting in European markets: Portugal for early market uptake and testing; and then the biggest EU markets (Germany, UK, France, Poland, Italy and Spain).",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "STRA LDA",
+    "coordinatorCountry": "PT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "924784227": {
+            "orgId": "924784227",
+            "orgName": "STRA LDA",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "207502",
+    "acronym": "AddMan",
+    "topics": "JTI-CS2-2016-CFP03-AIR-01-16",
+    "title": "Innovative Re-Design and Validation of Complex Airframe Structural Components Formed by Additive Manufacturing for Weight and Cost Reduction",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Additive manufacturing (AM) is a technology by which physical objects can be built directly from 3D Computer Aided Design (CAD) data, and is widely acknowledged as an enabler for revolutionizing the manufacturing landscape. It replaces traditional production methods like casting and machining, and enables essentially arbitrary geometric shapes to be produced. Although significant progress has been made on AM hardware development, there is a lack of efforts regarding material characterization, design tools and methods to efficiently bring AM to practical use in the aeronautical area. In particular, Topology Optimization (TO) ñ a finite element based design method ñ is an unusually evident and potentially fruitful technique for designing AM structures. However, the mechanical properties of AM components differ substantially from the properties of the same components produced by conventional methods, and AM components can have complex shapes, such as grid-like structures, that cannot be achieved by using conventional production methods. Therefore, the AddMan project deals with:\nï Material characterization by establishing fatigue properties and geometry dependent material behavior as well as AM specific build requirements\nï Development of novel TO methods, as well as CAE methods for metal AM which make use of the material properties generated in AddMan\nï Development of Design for AM-guidelines that are implemented in an automated knowledge based engineering framework including connection between TO and flexible parametric CAD models, to enable holistic product optimization and\nï Development of a cost effective post-processing strategy for AM components in order to increase fatigue performance.\nThese developments build towards the overall aim of enabling aerospace industry to efficiently redesign and manufacture optimal system components for reduced weight and costs while meeting the prevailing stress and fatigue requirements and regulations.",
+    "totalCost": "852728,75",
+    "ecMaxContribution": "852728,75",
+    "coordinator": "LINKOPINGS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "THE MANUFACTURING TECHNOLOGY CENTRE LIMITED LBG",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "888897696": {
+            "orgId": "888897696",
+            "orgName": "LINKOPINGS UNIVERSITET",
+            "ecContrib": 575166
+        },
+        "959490342": {
+            "orgId": "959490342",
+            "orgName": "THE MANUFACTURING TECHNOLOGY CENTRE LIMITED LBG",
+            "ecContrib": 277562
+        }
+    },
+    "calculatedTotalContribution": 852728
+}

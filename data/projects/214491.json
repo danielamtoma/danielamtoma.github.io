@@ -1,0 +1,17 @@
+{
+    "rcn": "214491",
+    "acronym": "DCI",
+    "topics": "MSCA-IF-2017",
+    "title": "A new method for theoretical spectroscopy of strongly correlated materials - dynamical configuration interaction",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2020",
+    "objective": "As researchers continue to search for new technological materials, they are increasingly exploring the regime of strongly correlated molecules and solids.  Strongly correlated materials are those with strongly interacting electrons that cannot be accurately described by simple mean-field methods in physics.  Theoretical spectroscopy for strongly correlated materials gives the ability to predict their excited states important for applications - their spectra - by numerical calculations instead of synthesizing and measuring them in the laboratory.  However, accurate theoretical spectroscopy for strongly correlated systems is a considerable theoretical challenge.  We present a new quantum embedding theory for strong correlation that embeds quantum chemistry inside of many-body perturbation theory (MBPT).  In our theory, strongly correlated electrons are treated with configuration interaction (CI) using the exact ab-initio Hamiltonian.  Weakly correlated states are treated with less expensive approximations in many-body perturbation theory (GW/BSE).  The coupling between the two spaces gives a dynamical correction to the normal CI Hamiltonian, a method that we call dynamical configuration interaction (DCI).  The method naturally includes non-local correlation, is systematically improvable by expanding the CI basis, and eliminates the need for frequency dependent quantities common in Green's function embedding.  Our goal is to develop an efficient, scalable implementation of DCI and benchmark it against other methods in many-body physics and quantum chemistry.  Eventually, we will apply our DCI implementation to porphyrin and phthalocyanine molecules.  These molecules host strongly correlated d-electrons at their center and are heavily researched for their potential technological applications.  DCI could give a new level of predictive accuracy to the theoretical spectroscopy of strongly correlated systems and unlock their potential for new optoelectronic applications.",
+    "totalCost": "173857,2",
+    "ecMaxContribution": "173857,2",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

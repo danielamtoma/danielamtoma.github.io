@@ -1,0 +1,73 @@
+{
+    "rcn": "213757",
+    "acronym": "EASY-RES",
+    "topics": "LCE-07-2016-2017",
+    "title": "Enable Ancillary Services bY Renewable Energy Sources",
+    "startDate": "01/03/2018",
+    "endDate": "30/06/2021",
+    "objective": "The stability and security of the traditional electrical power systems is largely based on the inherent properties of synchronous generators (SGs). Such properties are: the grid-forming capability, the inertia, the damping of transients, and the provision of large currents during faults. The growing penetration of converter-interfaced (thus inertia-less) Distributed Renewable Energy Sources (DRES) will eventually replace dispatchable SGs and increase power volatility, causing large frequency deviations and voltage regulation problems. The increase of SG spinning reserves, the grid reinforcement and the use of central electric energy storage systems are some solutions proposed to tackle this problem. However, due to their centralized approach and high cost, these actions can be undertaken only centrally by TSOs and DSOs. \nBy adopting a unified bottom-up approach, EASY-RES will develop novel control algorithms for all converter-interfaced DRES, to enable them to operate similarly to conventional SGs, providing to the grid inertia, damping of transients, reactive power, fault ride through and fault-clearing capabilities, and adaptable response to primary and secondary frequency control. These new functionalities will be transparent to all grid voltage levels.\nThe EASY-RES approach is based on the distribution network segmentation into small Individual Control Areas, where the DRES and properly sized storage systems will be optimally coordinated via suitably designed ICT infrastructure to provide Ancillary Services (AS) such as inertial response, reactive power support, power smoothing, and contribution to fault-clearing in a bottom-up approach: prosumers and independent RES producers to DSOs, and DSOs to TSOs.  By evaluating the costs and benefits of the developed functionalities, viable business models will be developed for the aforementioned stakeholders. Finally, modifications to the existing grid codes will be suggested for the implementation of the developed AS.",
+    "totalCost": "4562357,5",
+    "ecMaxContribution": "4562357,5",
+    "coordinator": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+    "coordinatorCountry": "EL",
+    "participants": "ELEKTRO GORENJSKA PODJETJE ZA DISTRIBUCIJO ELEKTRICNE ENERGIJE DD;FENECON GMBH;STADTWERK HASSFURT GMBH;GESHAFTSSTELLE ZENTRUM DIGITALISIERUNG BAYERN;LANCASTER UNIVERSITY;STADT LANDAU A.D. ISAR;UNIVERSITAT PASSAU;INDEPENDENT POWER TRANSMISSION OPERATOR SA;TECHNISCHE UNIVERSITEIT DELFT;UNIVERSIDAD DE SEVILLA",
+    "participantCountries": "SI;DE;UK;EL;NL;ES",
+    "projectParticipants": {
+        "916565320": {
+            "orgId": "916565320",
+            "orgName": "FENECON GMBH",
+            "ecContrib": 302128
+        },
+        "999878523": {
+            "orgId": "999878523",
+            "orgName": "UNIVERSITAT PASSAU",
+            "ecContrib": 749762
+        },
+        "916257539": {
+            "orgId": "916257539",
+            "orgName": "STADT LANDAU A.D. ISAR",
+            "ecContrib": 136250
+        },
+        "927559300": {
+            "orgId": "927559300",
+            "orgName": "STADTWERK HASSFURT GMBH",
+            "ecContrib": 176375
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 1058375
+        },
+        "953977056": {
+            "orgId": "953977056",
+            "orgName": "INDEPENDENT POWER TRANSMISSION OPERATOR SA",
+            "ecContrib": 152750
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 456500
+        },
+        "922136127": {
+            "orgId": "922136127",
+            "orgName": "GESHAFTSSTELLE ZENTRUM DIGITALISIERUNG BAYERN",
+            "ecContrib": 222262
+        },
+        "999840984": {
+            "orgId": "999840984",
+            "orgName": "LANCASTER UNIVERSITY",
+            "ecContrib": 443268
+        },
+        "996273809": {
+            "orgId": "996273809",
+            "orgName": "ELEKTRO GORENJSKA PODJETJE ZA DISTRIBUCIJO ELEKTRICNE ENERGIJE DD",
+            "ecContrib": 179250
+        },
+        "999862518": {
+            "orgId": "999862518",
+            "orgName": "UNIVERSIDAD DE SEVILLA",
+            "ecContrib": 685438
+        }
+    },
+    "calculatedTotalContribution": 4562358
+}

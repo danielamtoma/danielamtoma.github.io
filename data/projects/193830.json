@@ -1,0 +1,43 @@
+{
+    "rcn": "193830",
+    "acronym": "ELAASTIC",
+    "topics": "GALILEO-1-2014",
+    "title": "European Location As A Service Targeting International Commerce",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2016",
+    "objective": "The success of Galileo will largely depend on its penetration in LBS and M2M markets. While the LBS market is largely dominated by Google and Apple, it is high time to create for the M2M market a comprehensive, EU-based location platform that will bring together all of the location enablers (Galileo, EGNOS, other GNSS, Wi-Fi, Cell-ID), and also win back LBS market shares.\nDeveloping applications only, will NOT preserve EGNSS interests, unless first developing the proper location enablers, combining location technologies and taking due account of EGNSS added values.\nELAASTIC (European Location As A Service Targeting International Commerce) addresses these needs by developing a European based location service worldwide to ensure EGNOS and Galileo penetration.\nELAASTIC will provide:\n1. A ìLocation As A Serviceî platform focused on delivering reliable location technologies with innovative features based on EGNOS and Galileo signal specificities.\n2. An optimized End to End set of location services with full consistency between the Galileo signals, the chipsetís capabilities and additional location infrastructure.\n3. Compliance with industry standards for location (e.g. OMA SUPL 2.0), with willingness to contribute to their extension.\n4. A service opening for applications developers to rapidly take benefit of Galileo within H2020 first steps.\n5. A true commitment to operate a commercial location service as developed during the course of the project.\n6. An Ecosystem to ease the deployment of value added services such as eCall and E112.\nThis service will be provided by European (independent of US corporations) companies with a focus on supporting the development of downstream European companies working in the sector. The ELAASTIC proposal has been built through collaboration of five global leaders in location technology: Telespazio France, ST-microelectronics, Thales Alenia Space France, Rx Networks, and Novero, three of them listed as major actors in Berg Insight 2013 LB.",
+    "totalCost": "2484982",
+    "ecMaxContribution": "1739487,41",
+    "coordinator": "TELESPAZIO FRANCE SAS",
+    "coordinatorCountry": "FR",
+    "participants": "NOVERO GMBH;RX NETWORKS INC.;THALES ALENIA SPACE FRANCE;STMICROELECTRONICS SRL",
+    "participantCountries": "DE;CA;FR;IT",
+    "projectParticipants": {
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 336875
+        },
+        "997899044": {
+            "orgId": "997899044",
+            "orgName": "TELESPAZIO FRANCE SAS",
+            "ecContrib": 588872
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 236240
+        },
+        "964268465": {
+            "orgId": "964268465",
+            "orgName": "NOVERO GMBH",
+            "ecContrib": 211750
+        },
+        "944164342": {
+            "orgId": "944164342",
+            "orgName": "RX NETWORKS INC.",
+            "ecContrib": 365750
+        }
+    },
+    "calculatedTotalContribution": 1739487
+}

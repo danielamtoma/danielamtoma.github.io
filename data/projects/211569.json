@@ -1,0 +1,68 @@
+{
+    "rcn": "211569",
+    "acronym": "B-Q MINDED",
+    "topics": "MSCA-ITN-2017",
+    "title": "Breakthroughs in Quantitative Magnetic resonance ImagiNg for improved DEtection of brainDiseases",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "Magnetic resonance imaging (MRI) is one of the most useful and rapidly growing neuroimaging tools. Unfortunately, signal intensities in conventional MRI images are expressed in relative units that depend on scanner hardware and acquisition protocols. While this does not hinder visual inspection of anatomy, it hampers quantitative comparison of tissue properties within a scan, between successive scans, and between subjects. In contrast, advanced quantitative MRI (Q-MRI) methods like MR relaxometry or diffusion MRI do enable absolute quantification of biophysical tissue characteristics. Evidence is growing that Q-MRI techniques detect subtle microscopic damage, enabling more accurate and early diagnosis of neurodegenerative diseases. However, due to the long scan time required for Q-MRI, causing discomfort for patients and limiting the throughput, Q-MRI methods have not entered clinical practice yet. \n\nB-Q MINDED aims to overcome the current barriers by developing widely-applicable post-processing breakthroughs for accelerating Q-MRI. The originality of B-Q MINDED lies in its ambition to replace the conventional rigid multi-step processing pipeline with an integrated single-step parameter estimation framework. This approach will unlock a wealth of options for optimization of Q-MRI. To accomplish this goal, B-Q MINDED proposes a collaborative cross-disciplinary approach (from basic MR physics to clinical applications) with strong involvement of industry (2 MRI vendors and 3 MRI-software SMEs). \n\nB-Q MINDED proposes a unique training platform that enables young European researchers to develop a holistic view on Q-MRI research and development. The fellows enrolled in B-Q MINDED will have access to a variety of network-wide training events and will gain essential transferable skills that will positively affect their employability in academia and industry. By combining research, innovation, and education, B-Q MINDED will pave the way for introducing Q-MRI into the clinic.",
+    "totalCost": "3861067,32",
+    "ecMaxContribution": "3861067,32",
+    "coordinator": "UNIVERSITEIT ANTWERPEN",
+    "coordinatorCountry": "BE",
+    "participants": "ICOMETRIX NV;SYNTHETIC MR AB (PUBL);THE UNIVERSITY OF SHEFFIELD;FORSCHUNGSZENTRUM JULICH GMBH;QUANTIB BV;SIEMENS HEALTHCARE;UNIVERSITAIR ZIEKENHUIS ANTWERPEN;MRR SYSTEMS LIMITED;ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+    "participantCountries": "BE;SE;UK;DE;NL",
+    "projectParticipants": {
+        "952690836": {
+            "orgId": "952690836",
+            "orgName": "SYNTHETIC MR AB (PUBL)",
+            "ecContrib": 0
+        },
+        "999988424": {
+            "orgId": "999988424",
+            "orgName": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+            "ecContrib": 510749
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 546576
+        },
+        "923031728": {
+            "orgId": "923031728",
+            "orgName": "SIEMENS HEALTHCARE",
+            "ecContrib": 250560
+        },
+        "923682113": {
+            "orgId": "923682113",
+            "orgName": "MRR SYSTEMS LIMITED",
+            "ecContrib": 546576
+        },
+        "996727866": {
+            "orgId": "996727866",
+            "orgName": "UNIVERSITAIR ZIEKENHUIS ANTWERPEN",
+            "ecContrib": 250560
+        },
+        "999902870": {
+            "orgId": "999902870",
+            "orgName": "UNIVERSITEIT ANTWERPEN",
+            "ecContrib": 501120
+        },
+        "963936434": {
+            "orgId": "963936434",
+            "orgName": "ICOMETRIX NV",
+            "ecContrib": 501120
+        },
+        "934987463": {
+            "orgId": "934987463",
+            "orgName": "QUANTIB BV",
+            "ecContrib": 255374
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 498433
+        }
+    },
+    "calculatedTotalContribution": 3861068
+}

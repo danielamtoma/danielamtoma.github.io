@@ -1,0 +1,23 @@
+{
+    "rcn": "198948",
+    "acronym": "LEAF LINE",
+    "topics": "Space-SME-2015-1",
+    "title": "The first ground stations network enabling real-time, cost-effective, and easy access to micro/nanosatellite data",
+    "startDate": "01/09/2015",
+    "endDate": "29/02/2016",
+    "objective": "The objective of the LEAF LINE project is to capture the value of the blossoming nano/microsatellites Space market, offering a complete service pack for telecommunication able to maximise the connection time/data transmission rate with satellites. \nNano/microsatellites are opening up a range of new opportunities in the Earth Observation industry: they can perform many operations that, until few years ago, were carried only by large satellites, but at a fraction of the cost. Lots of new satellite operators (e.g. insurance companies, geologists, food companies, environmental agencies, research centers, etc.), are all asking for reliable, cheap, up-to-date and frequent data from Space. However, most of the telecommunications between microsatellites and the Earth are performed by point-to-point link with a single ground station (GS) and the standard connection is limited to around 10-50 minutes per day. This results in a poor usage of the GS, which remains inactive for most of the day. The LEAF LINE project aims to set-up a network of ground stations for managing satellite data, with substantial increase of connection time (up to 7 times for each satellite) and optimized usage of each GS (up to 12 hours a day). The service will be based on the following components: \n1. A multi-protocol ground station network, which implements both the low-performance frequencies, VHF-UHF, and S-band and X-band, allowing an easy switching to the band needed for communicating with all the satellites in orbit. \n2. An on-board device optimized for the LEAF LINE network, ensuring the best connection performance in line with the customer needs.\n3. The overall software infrastructure that coordinates the network of GSs by Leaf Space, ensuring proper tracking of the satellites, and the handshake between several GSs serving the same satellite. The software allows coordinating the GSs with the satellite constellation, thus increasing the overall transmission time for each GS up to 12 hours a day.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "LEAF SPACE SRL",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "931281481": {
+            "orgId": "931281481",
+            "orgName": "LEAF SPACE SRL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

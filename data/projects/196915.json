@@ -1,0 +1,48 @@
+{
+    "rcn": "196915",
+    "acronym": "NanoSmell",
+    "topics": "FETOPEN-1-2014",
+    "title": "NanoSmells: Artificial remote-controlled odorants",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2019",
+    "objective": "'Despite years of promise, an odor-emitting component in devices such as televisions, phones, computers and more has yet to be developed. Two major obstacles in the way of such development are poor understanding of the olfactory code (the link between odorant structure, neural activity, and odor perception), and technical inability to emit odors in a reversible manner. Here we propose a novel multidisciplinary path to solving this basic scientific question (the code), and in doing so generate a solution to the technical limitation (controlled odor emission). The Bachelet lab will design DNA strands that assume a 3D structure that will specifically bind to a single type of olfactory receptor and induce signal transduction. These DNA-based 'artificial odorants' will be tagged with a nanoparticle that changes their conformation in response to an external electromagnetic field. Thus, we will have in hand an artificial odorant that is remotely switchable. The Hansson lab will use tissue culture cells expressing insect olfactory receptors, functional imaging, and behavioral tests to validate the function and selectivity of these switchable odorants in insects. The Carleton lab will use imaging in order to investigate the patterns of neural activity induced by these artificial odorants in rodents. The Sobel lab will apply these artificial odorants to the human olfactory system, and measure perception and neural activity following switching the artificial smell on and off. Finally, given a potential role for olfactory receptors in skin, the Del Rio lab will test the efficacy of these artificial odorants in promoting wound healing. At the basic science level, this approach may allow solving the combinatorial code of olfaction. At the technology level, beyond novel pharmacology, we will provide proof-of-concept for countless novel applications ranging from insect pest-control to odor-controlled environments and odor-emitting devices such as televisions, phones, and computers.'",
+    "totalCost": "3979069",
+    "ecMaxContribution": "3979069",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "UNIVERSITE DE GENEVE;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;BAR ILAN UNIVERSITY;AUGMANITY NANO LTD;UNIVERSIDAD CARLOS III DE MADRID",
+    "participantCountries": "CH;DE;IL;ES",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 844610
+        },
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 1019156
+        },
+        "999886574": {
+            "orgId": "999886574",
+            "orgName": "BAR ILAN UNIVERSITY",
+            "ecContrib": 0
+        },
+        "925433642": {
+            "orgId": "925433642",
+            "orgName": "AUGMANITY NANO LTD",
+            "ecContrib": 892219
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 509560
+        },
+        "999974650": {
+            "orgId": "999974650",
+            "orgName": "UNIVERSITE DE GENEVE",
+            "ecContrib": 713524
+        }
+    },
+    "calculatedTotalContribution": 3979069
+}

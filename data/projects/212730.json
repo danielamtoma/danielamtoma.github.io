@@ -1,0 +1,23 @@
+{
+    "rcn": "212730",
+    "acronym": "SOTUF",
+    "topics": "ERC-2017-STG",
+    "title": "SOot in TUrbulent Flames: a new look at soot production processes in turbulent flames leading to novel models for predictive large eddy simulations",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2023",
+    "objective": "Many practical systems emit soot into the atmosphere as a result of incomplete combustion of hydrocarbons. This pollutant emission is characterized by a distribution of solid carbon particles with different sizes and shapes, which have negative effects on human health and environment. Controlling such emission represents a societal issue and an industrial challenge that require a deep understanding of the intricate processes underlying soot production in the turbulent flames that generally characterize practical systems. In this context, progress in numerical simulations is essential to the successful design of low-emission combustion systems. Unfortunately, the Large-Eddy Simultations (LES) approach, which has successfully demonstrated its capacity to represent gaseous turbulent combustion processes, is far from being predictive for soot emission. Indeed, soot production in turbulent flames is a complex process which is not easy to be represented with the classical LES strategy: the long time scales and the broad range of length scales place soot processes outside the usual scale ranges of LES subgrid models. In this context, the goal of the present project is to provide new insights on the processes governing soot production in turbulent flames to develop novel LES models, encompassing the state-of-art and allowing reliable predictions of soot in turbulent flames. These objectives will be achieved by: (1) characterizing the turbulence-flame-soot coupling from novel well-controlled experiments employing advanced space and time resolved optical diagnostics; (2) developing new subgrid models based on information extracted from experiments and high-fidelity simulations; (3) validating and applying the developed LES modeling strategy on complex systems. The research results are expected to drastically improve the prediction of soot production in industrial configurations, helping to design new low-emission systems with notably reduced soot levels.",
+    "totalCost": "1436330",
+    "ecMaxContribution": "1436330",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1436330
+        }
+    },
+    "calculatedTotalContribution": 1436330
+}

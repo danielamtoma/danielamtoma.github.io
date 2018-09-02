@@ -1,0 +1,63 @@
+{
+    "rcn": "199168",
+    "acronym": "NeuRAM3",
+    "topics": "ICT-25-2015",
+    "title": "NEUral computing aRchitectures in Advanced Monolithic 3D-VLSI nano-technologies",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "We propose to fabricate a chip implementing a neuromorphic architecture that supports state-of-the-art machine learning algorithms and spike-based learning mechanisms. With respect to its physical architecture this chip will feature an ultra low power, scalable and highly configurable neural architecture that will deliver a gain of a factor 50x in power consumption on selected applications compared to conventional digital solutions; and a monolithically integrated 3D technology in Fully-Depleted Silicon on Insulator (FDSOI) at 28nm design rules with integrated Resistive Random Access Memory (RRAM) synaptic elements;\nWe will complete this vision and develop complementary technologies that will allow to address the full spectrum of applications from mobile/autonomous objects to high performance computing coprocessing, by realising (1) a technology to implement on-chip learning, using native adaptive characteristics of electronic synaptic elements; and (2) a scalable platform to interconnect multiple neuromorphic processor chips to build large neural processing systems.\nThe neuromorphic computing system will be developed jointly with advanced neural algorithms and computational architectures for online adaptation, learning, and high-throughput on-line signal processing, delivering:\n1. An ultra-low power massively parallel non von Neumann computing platform with non-volatile nano-scale devices that support on-line learning mechanisms;\n2. A programming toolbox of algorithms and data structures tailored to the specific constraints and opportunities of the physical architecture;\n3. An array of fundamental application demonstrations instantiating the basic classes of signal processing tasks.\nThe neural chip will validate the concept and be a first step to develop a  European  technology platform  addressing from  ultra-low power data processing in autonomous systems (Internet of Things) to energy efficient large data processing in servers and networks.",
+    "totalCost": "4181015",
+    "ecMaxContribution": "3216150",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "STMICROELECTRONICS S.A.;STICHTING IMEC NEDERLAND;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;IBM RESEARCH GMBH;JACOBS UNIVERSITY BREMEN GGMBH;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;UNIVERSITAT ZURICH;CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "participantCountries": "FR;NL;BE;CH;DE;ES;IT",
+    "projectParticipants": {
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 251579
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1112074
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 483220
+        },
+        "999897147": {
+            "orgId": "999897147",
+            "orgName": "JACOBS UNIVERSITY BREMEN GGMBH",
+            "ecContrib": 303688
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 400590
+        },
+        "999577144": {
+            "orgId": "999577144",
+            "orgName": "STICHTING IMEC NEDERLAND",
+            "ecContrib": 155000
+        },
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 0
+        },
+        "999909175": {
+            "orgId": "999909175",
+            "orgName": "STMICROELECTRONICS S.A.",
+            "ecContrib": 510000
+        }
+    },
+    "calculatedTotalContribution": 3216151
+}

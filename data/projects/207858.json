@@ -1,0 +1,23 @@
+{
+    "rcn": "207858",
+    "acronym": "CUTACOMBS",
+    "topics": "ERC-2016-STG",
+    "title": "Cuts and decompositions: algorithms and combinatorial properties",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "In this proposal we plan to extend mathematical foundations of algorithms for various variants of the minimum cut problem within theoretical computer science.\nRecent advances in understanding the structure of small cuts and tractability of cut problems resulted in a mature algorithmic toolbox for undirected graphs under the paradigm of parameterized complexity. In this position, we now aim at a full understanding of the tractability of cut problems in the more challenging case of directed graphs, and see opportunities to apply the aforementioned successful structural approach to advance on major open problems in other paradigms in theoretical computer science.\nThe specific goals of the project are grouped in the following three themes.\n\nDirected graphs. Chart the parameterized complexity of graph separation problems in directed graphs and provide a fixed-parameter tractability toolbox, equally deep as the one in undirected graphs. Provide tractability foundations for routing problems in directed graphs, such as the disjoint paths problem with symmetric demands.\n\nPlanar graphs. Resolve main open problems with respect to network design and graph separation problems in planar graphs under the following three paradigms: parameterized complexity, approximation schemes, and cut/flow/distance sparsifiers. Recently discovered connections uncover significant potential in synergy between these three algorithmic approaches.\n\nTree decompositions. Show improved tractability of graph isomorphism testing in sparse graph classes. Combine the algorithmic toolbox of parameterized complexity with the theory of minimal triangulations to advance our knowledge in structural graph theory, both pure (focused on the Erdos-Hajnal conjecture) and algorithmic (focused on the tractability of Maximum Independent Set and 3-Coloring).",
+    "totalCost": "1228250",
+    "ecMaxContribution": "1228250",
+    "coordinator": "UNIWERSYTET WARSZAWSKI",
+    "coordinatorCountry": "PL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999572294": {
+            "orgId": "999572294",
+            "orgName": "UNIWERSYTET WARSZAWSKI",
+            "ecContrib": 1228250
+        }
+    },
+    "calculatedTotalContribution": 1228250
+}

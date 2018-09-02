@@ -1,0 +1,23 @@
+{
+    "rcn": "204184",
+    "acronym": "MAGTOOLS",
+    "topics": "ERC-PoC-2015",
+    "title": "Software tools for fast, reliable analysis of magnetic materials in the electron microscope",
+    "startDate": "01/06/2016",
+    "endDate": "30/11/2017",
+    "objective": "This proof-of-concept project aims at developing a software tool to be integrated in commercial electron microscope control platforms dedicated to the development of novel magnetic materials. Magnetic materials have applications in different areas such as data storage, sensors, biomedical applications or spintronic devices. Future technological developments will come hand-in-hand with new materials based on novel atomic arrangements, and electron microscopy is a unique technique to analyze nature in an atom-by-atom fashion. Recent improvements in microscope performance ensuing from the correction of optical aberrations are already commercially available. However, a successful transfer of specific, advanced tools into a wider technology development context needs of user-friendly interfaces that can help non-specialist researchers and engineers fully exploit these techniques. This is a particularly pressing need for the magnetic material industry, since a number of techniques sensitive to magnetic quantities have been demonstrated in the electron microscope in the last few years. But the field development is incomplete because they are hampered by time-consuming data acquisition and analysis procedures. No tools exist that are capable of fast optimization, acquisition and analysis of data at the flick of a switch. Here, we propose to fill this gap and develop an optimal software tool ready to be marketed by specialized technical companies. It will consist of an interface that will control and modify the excitations of magnetic lenses, the detectors in charge of data acquisition and, also analyze datasets and calculate parameters relevant to the magnetic behavior of samples of interest. These tools will provide the means to give a new spin to research into the magnetic materials of the future.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999874546": {
+            "orgId": "999874546",
+            "orgName": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

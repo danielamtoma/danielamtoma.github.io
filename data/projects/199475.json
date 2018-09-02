@@ -1,0 +1,58 @@
+{
+    "rcn": "199475",
+    "acronym": "AURORA",
+    "topics": "EO-2-2015",
+    "title": "Advanced Ultraviolet Radiation and Ozone Retrieval for Applications",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "The S-5P, S-4 and S-5 instruments aboard the Copernicus atmospheric Sentinel missions can be exploited to monitor the profile of ozone concentration in the Earthís atmosphere with unprecedented accuracy and timeliness. As the most important radiatively active gas in the stratosphere and short-lived climate forcer, oxidizing agent and pollutant in the troposphere, ozone shall be vertically retrieved from the surface to the mesosphere. This cannot be done by a single instrument due to the limited capability of remote sounding in an assigned spectral region and observation geometry. It can be achieved by merging information of multiple measurements of the same target.\nThe AURORA project demonstrates that the synergistic use of geostationary (GEO) and low Earth orbit (LEO) satellite sensor data in different frequency ranges is a viable strategy for full, vertical ozone profiling. A novel approach, based on the assimilation of GEO and LEO fused products by application of an innovative algorithm to S-4 and S-5 synthetic data, is adopted to assess quality of the unique ozone vertical profile obtained in a context simulating the operational environment. The vertical ozone distributions are then used to calculate tropospheric columns and UV surface radiation, thus focusing on lower atmosphere layers.\nA technological infrastructure, exploiting virtual machines and cloud data sharing, is created to implement the data processing chain, including a geo-database and web-services for data access. The infrastructure represents a best practice that plays a key role in ensuring wider use of Copernicus Sentinel data for academia and industry. It is the basis for a market analysis of pre-market applications and uptake in commercial communities. Strategic dissemination and exploitation is targeted at both European (academia, CAMS, GEOSS, thanks to existing, strategic contacts) and international level (TEMPO and GEMS, in USA and ASIA, who investigate synergy and data exchange).",
+    "totalCost": "2993146,25",
+    "ecMaxContribution": "2993146,25",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "SCIENCE AND TECHNOLOGY BV;EPSILON INTERNASIONAL ANONYMI ETAIREIA MELETON KAI SYMVOULON (EPSILON INTERNATIONAL SA);KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;ILMATIETEEN LAITOS;INSTITUT ROYAL D'AERONOMIE SPATIALEDE BELGIQUE;FLYBY SRL;VERBERNE KOEN",
+    "participantCountries": "NL;EL;UK;FI;BE;IT",
+    "projectParticipants": {
+        "929053585": {
+            "orgId": "929053585",
+            "orgName": "VERBERNE KOEN",
+            "ecContrib": 144500
+        },
+        "999518944": {
+            "orgId": "999518944",
+            "orgName": "KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI",
+            "ecContrib": 244802
+        },
+        "998685714": {
+            "orgId": "998685714",
+            "orgName": "FLYBY SRL",
+            "ecContrib": 321438
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 587119
+        },
+        "991818017": {
+            "orgId": "991818017",
+            "orgName": "EPSILON INTERNASIONAL ANONYMI ETAIREIA MELETON KAI SYMVOULON (EPSILON INTERNATIONAL SA)",
+            "ecContrib": 337650
+        },
+        "999591306": {
+            "orgId": "999591306",
+            "orgName": "ILMATIETEEN LAITOS",
+            "ecContrib": 277962
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 636250
+        },
+        "990406085": {
+            "orgId": "990406085",
+            "orgName": "SCIENCE AND TECHNOLOGY BV",
+            "ecContrib": 177338
+        }
+    },
+    "calculatedTotalContribution": 2727059
+}

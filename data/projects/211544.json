@@ -1,0 +1,53 @@
+{
+    "rcn": "211544",
+    "acronym": "WAVECOMBE",
+    "topics": "MSCA-ITN-2017",
+    "title": "mmWave Communications in the Built Environments",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2021",
+    "objective": "The foreseen exponential growth of mobile data traffic will not be uniform across geographical areas, but is mainly concentrated in hot spots that are usually located in the built environments (BEs) such as central business districts, stations, airports, stadiums, dense urban environments, etc. This poses considerable challenges that we believe can be solved by ultra dense deployment of millimetre-wave (mmW) small-cells (SCs) in conjunction with massive multiple-input multipleoutput (MIMO) in 5G and beyond 5G (B5G) wireless networks. However, there are a number of research challenges that need to be addressed for a successful deployment of 5G/B5G wireless networks: even if the theoretical background of massive MIMO is by now rather complete, the actual performance characterization and measurements of mmW antenna arrays has not yet been fully addressed at either the component or system level; mmW radio channel measurements have\nbeen performed but with limited time delay resolution, single antennas and over single radio links; and mmW bands have been considered for mobile communications, but the level of detail and diversity of BEs necessary for meaningful mmW SC deployment has not been fully exploited. Therefore, we propose here a research approach that combines the three disruptive key enabling technologies for 5G/B5G with the aim to answer fundamental questions that are still not well understood. \n\nHence, the research objectives of the project are as follows: \nï Develop and test mmW MIMO and massive MIMO antennas.\nï Characterize and model radio propagation channel at mmW bands for typical BEs (offices, homes, stations, airports).\nï Theoretically analyse and optimise massive MIMO mmW SC performance in the BEs.\nï Integrate massive MIMO mmW SC networks with their operating environments.\nï Develop methods to retrofit existing buildings and to design new buildings for efficient high-capacity wireless communications in the BEs.",
+    "totalCost": "2864425,32",
+    "ecMaxContribution": "2864425,32",
+    "coordinator": "UNIVERSITAT POLITECNICA DE VALENCIA",
+    "coordinatorCountry": "ES",
+    "participants": "THE UNIVERSITY OF SHEFFIELD;RANPLAN WIRELESS NETWORK DESIGN LTD;UNIVERSITY OF DURHAM;UNIVERSITEIT TWENTE;TELEVIC CONFERENCE;GAPWAVES AB;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "UK;NL;BE;SE",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 0
+        },
+        "936560803": {
+            "orgId": "936560803",
+            "orgName": "TELEVIC CONFERENCE",
+            "ecContrib": 501120
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 546576
+        },
+        "999866010": {
+            "orgId": "999866010",
+            "orgName": "UNIVERSITY OF DURHAM",
+            "ecContrib": 273288
+        },
+        "999481017": {
+            "orgId": "999481017",
+            "orgName": "RANPLAN WIRELESS NETWORK DESIGN LTD",
+            "ecContrib": 273288
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 495746
+        },
+        "933882730": {
+            "orgId": "933882730",
+            "orgName": "GAPWAVES AB",
+            "ecContrib": 263659
+        }
+    },
+    "calculatedTotalContribution": 2353677
+}

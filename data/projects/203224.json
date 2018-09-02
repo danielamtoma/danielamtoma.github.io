@@ -1,0 +1,23 @@
+{
+    "rcn": "203224",
+    "acronym": "EpigenomeProgramming",
+    "topics": "ERC-StG-2015",
+    "title": "An experimental and bioinformatic toolbox for functional epigenomics and its application to epigenetically making and breaking a cancer cell",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2021",
+    "objective": "Epigenetic alterations can be detected in all cancers and in essentially every patient. Despite their prevalence, the concrete functional roles of these alterations are not well understood, for two reasons: First, cancer samples tend to carry many correlated epigenetic alterations, making it difficult to statistically distinguish relevant driver events from those that co-occur for other reasons. Second, we lack tools for targeted epigenome editing that could be used to validate biological function in perturbation and rescue experiments.\n\nThe proposed project strives to overcome these limitations through experimental and bioinformatic methods development, with the ambition of making and breaking cancer cells in vitro by introducing defined sets of epigenetic alterations. We will focus on leukemia as our ìmodel cancerî (given its low mutation rate, frequent defects in epigenetic regulators, and availability of excellent functional assays), but the concepts and methods are general. In Aim 1, we will generate epigenome profiles for a human knockout cell collection comprising 100 epigenetic regulators and use the data to functionally annotate thousands of epigenetic alterations observed in large cancer datasets. In Aim 2, we will develop an experimental toolbox for epigenome programming using epigenetic drugs, CRISPR-assisted recruitment of epigenetic modifiers for locus-specific editing, and cell-derived guide RNA libraries for epigenome copying. Finally, in Aim 3 we will explore epigenome programming (methods from Aim 2) of candidate driver events (predictions from Aim 1) with the ultimate goal of converting cancer cells into non-cancer cells and vice versa. \n\nIn summary, this project will establish a broadly applicable methodology and toolbox for dissecting the functional roles of epigenetic alterations in cancer. Moreover, successful creation of a cancer that is driven purely by epigenetic alterations could challenge our understanding of cancer as a genetic disease.",
+    "totalCost": "1281205",
+    "ecMaxContribution": "1281205",
+    "coordinator": "CEMM - FORSCHUNGSZENTRUM FUER MOLEKULARE MEDIZIN GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999530293": {
+            "orgId": "999530293",
+            "orgName": "CEMM - FORSCHUNGSZENTRUM FUER MOLEKULARE MEDIZIN GMBH",
+            "ecContrib": 1281205
+        }
+    },
+    "calculatedTotalContribution": 1281205
+}

@@ -1,0 +1,98 @@
+{
+    "rcn": "198278",
+    "acronym": "ESiWACE",
+    "topics": "EINFRA-5-2015",
+    "title": "Excellence in SImulation of Weather and Climate in Europe",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2019",
+    "objective": "ESiWACE will substantially improve efficiency and productivity of numerical weather and climate simulation on high-performance computing platforms by supporting the end-to-end workflow of global Earth system modelling in HPC environment. This will be obtained by improving and supporting (1) scalability of models, tools and data management on state-of-the-art supercomputer systems (2) Usability of models and tools throughout the European HPC eco-system, and (3) the Exploitability of the huge amount of resulting data.\nWe will develop solutions for cross-cutting HPC challenges particular to the weather and climate domain. This will range from the development of specific software products to the deployment of user facing services for both, computing and storage.\nESiWACE leverages two established European networks, namely (1) the European Network for Earth System modelling, representing the European climate modelling community and (2) the world leading European Centre for Medium-Range Weather Forecasts. The governance structure that defines the services to be provided will be driven by the European weather and climate science community.\nWeather and climate computing have always been one of the key drivers for HPC development, with domain specific scientific and technical requirements that stretch the capability and capacity of existing software and hardware to the limits. By developing solutions for Europe and at European scale, ESiWACE will directly impact on the competitiveness of the European HPC industry by engendering new products, providing opportunities for exploitation beyond the project itself, and by enhancing the skills base of staff in both industry and academia.\nESiWACE will be at once thematic, as it focuses on the HPC application domain of climate and weather modeling, transversal, as it covers several aspects of computational science, and challenge-driven, as climate and weather predictability represents a major societal issue.",
+    "totalCost": "4951048,75",
+    "ecMaxContribution": "4951048,75",
+    "coordinator": "DEUTSCHES KLIMARECHENZENTRUM GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "NATIONAL UNIVERSITY OF IRELAND GALWAY;THE UNIVERSITY OF READING;SEAGATE SYSTEMS UK LIMITED;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;DEUTSCHER WETTERDIENST;MET OFFICE;SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;ARM LIMITED;BULL SAS;FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;ALLINEA SOFTWARE LIMITED;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "IE;UK;DE;SE;FR;IT;ES",
+    "projectParticipants": {
+        "998692310": {
+            "orgId": "998692310",
+            "orgName": "DEUTSCHES KLIMARECHENZENTRUM GMBH",
+            "ecContrib": 1100250
+        },
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 269750
+        },
+        "969276478": {
+            "orgId": "969276478",
+            "orgName": "ALLINEA SOFTWARE LIMITED",
+            "ecContrib": 9382
+        },
+        "999419422": {
+            "orgId": "999419422",
+            "orgName": "FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI",
+            "ecContrib": 290125
+        },
+        "999984156": {
+            "orgId": "999984156",
+            "orgName": "THE UNIVERSITY OF READING",
+            "ecContrib": 112820
+        },
+        "999892685": {
+            "orgId": "999892685",
+            "orgName": "MET OFFICE",
+            "ecContrib": 391112
+        },
+        "998059094": {
+            "orgId": "998059094",
+            "orgName": "DEUTSCHER WETTERDIENST",
+            "ecContrib": 20625
+        },
+        "999728076": {
+            "orgId": "999728076",
+            "orgName": "SEAGATE SYSTEMS UK LIMITED",
+            "ecContrib": 186805
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 276750
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 735180
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 475789
+        },
+        "999940118": {
+            "orgId": "999940118",
+            "orgName": "CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE",
+            "ecContrib": 258750
+        },
+        "999978045": {
+            "orgId": "999978045",
+            "orgName": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+            "ecContrib": 57548
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 289145
+        },
+        "999507983": {
+            "orgId": "999507983",
+            "orgName": "SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT",
+            "ecContrib": 194625
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 233650
+        }
+    },
+    "calculatedTotalContribution": 4902306
+}

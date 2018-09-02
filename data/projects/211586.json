@@ -1,0 +1,58 @@
+{
+    "rcn": "211586",
+    "acronym": "COSINE",
+    "topics": "MSCA-ITN-2017",
+    "title": "Training network for COmputational Spectroscopy In Natural sciences and Engineering",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "During the last two decades, ab-initio Quantum Chemistry has become an important scientific pillar in chemical research. For electronic ground states, well established theoretical research tools exist, that can be applied by scientists in order to guide experimental interpretation and synthesis design. For optical properties and excited electronic states, dominated by electron correlation, computational tools are lagging behind and are currently missing the accuracy needed in order to have predictive power. However, such tools are urgently required for the fundamental understanding of natural photo-initiated processes as well as organic optical devices.\nThe COSINE ETN will, on one hand, devise novel theoretical tools and computational codes rooted in Electronic Structure Theory for the investigation of organic photochemistry with the aim of enabling accurate simulation of spectroscopic experiments on the computer. To this end a complementary series of tools, rooted in Coupled Cluster, Algebraic Diagrammatic Construction, Density Functional Theory, as well as selected multi-reference methods, \nwill be developed, also accounting for the effects of external environments.\nOn the other hand, COSINE will train the next generation of computational chemists in the most modern state-of-the-art high performance computing techniques for these purposes. The complementary expertise of all participating scientists/institutions, covering all fields required, from Molecular Mechanics to Response Theory, single- and multi-reference methods as well as time-dependent Schrˆdinger equation, will be exploited and will assure the feasibility and the success of the proposed training. The research which is proposed within COSINE is a quintessential prerequisite for genuine progress in the field of computational spectroscopy on molecules relevant in nature and/or engineering, and in particular for rationally designing new photo-active materials.",
+    "totalCost": "3745978,92",
+    "ecMaxContribution": "3745978,92",
+    "coordinator": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+    "coordinatorCountry": "DE",
+    "participants": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN;KUNGLIGA TEKNISKA HOEGSKOLAN;SCUOLA NORMALE SUPERIORE;SYDDANSK UNIVERSITET;DANMARKS TEKNISKE UNIVERSITET;ECOLE NATIONALE SUPERIEURE DE CHIMIE DE PARIS;NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+    "participantCountries": "DE;SE;IT;DK;FR;NO",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 527319
+        },
+        "999904616": {
+            "orgId": "999904616",
+            "orgName": "SYDDANSK UNIVERSITET",
+            "ecContrib": 290082
+        },
+        "997732592": {
+            "orgId": "997732592",
+            "orgName": "ECOLE NATIONALE SUPERIEURE DE CHIMIE DE PARIS",
+            "ecContrib": 262876
+        },
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 498433
+        },
+        "999886962": {
+            "orgId": "999886962",
+            "orgName": "SCUOLA NORMALE SUPERIORE",
+            "ecContrib": 516123
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 580164
+        },
+        "999987648": {
+            "orgId": "999987648",
+            "orgName": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+            "ecContrib": 498433
+        },
+        "999977851": {
+            "orgId": "999977851",
+            "orgName": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+            "ecContrib": 572550
+        }
+    },
+    "calculatedTotalContribution": 3745980
+}

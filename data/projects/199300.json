@@ -1,0 +1,43 @@
+{
+    "rcn": "199300",
+    "acronym": "MOBNET",
+    "topics": "GALILEO-2-2015",
+    "title": "MOBile NETwork for people's location in natural and man-made disasters",
+    "startDate": "01/01/2016",
+    "endDate": "28/02/2018",
+    "objective": "Unmanned vehicles (UVs) now play an increasing role in Public Protection and Disaster Relief (PPDR) missions such as border surveillance, cropping monitoring or local law enforcement. However, fast location of isolated people in the case of natural or man-made disasters still continues to be a crucial and arduous task.\nMOBNET will design a Search and Rescue (SAR) system for the location of isolated victims in the case of natural or man-made disasters such as earthquakes, hurricanes or large snow storms. It will also help first responder services to find fugitives or smugglers hidden within buildings. To that end, the use of European Global Navigation Satellite (EGNSS) systems (both Galileo early services and EGNOS) and Digital Cellular Technologies (DCT) will play the key role in these situations in which it is difficult, dangerous or even impossible to access the affected areas. \nThe EGNSS and DCT technologies will be tightly synchronised to provide accurate positioning. However, this demanding synchronisation exceeds the current capabilities of most GNSS and cellular equipment. In order to achieve the required performance, novel EGNSS and DCT methods will be applied. Furthermore, an effective and reliable communication link between Unmanned Aerial Vehicles (UAVs) and the ground station will be designed. This datalink will ensure uninterrupted command and control communication among devices and the integrity of communication signals. Thus, the UAVs will always operate as intended.  \nResearch will be driven by the end-user and industrial partners to ensure that it addresses the needs of the PPDR services. The potential for a fast and reliable SAR system will be illustrated by a prototype that will work at long distances. The developed SAR system will take advantage of the Galileo and EGNOS capabilities and will strengthen the position of European Industry in the field of security services. It will greatly facilitate their missions and the rescue of isolated victims",
+    "totalCost": "1242533,75",
+    "ecMaxContribution": "986272,25",
+    "coordinator": "ORBITAL SISTEMAS AEROESPACIALES SL",
+    "coordinatorCountry": "ES",
+    "participants": "NAVPOS SYSTEMS GMBH;THE MAIN SCHOOL OF FIRE SERVICE;Delft Dynamics B.V.;ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+    "participantCountries": "DE;PL;NL;ES",
+    "projectParticipants": {
+        "938649213": {
+            "orgId": "938649213",
+            "orgName": "NAVPOS SYSTEMS GMBH",
+            "ecContrib": 198244
+        },
+        "999475682": {
+            "orgId": "999475682",
+            "orgName": "THE MAIN SCHOOL OF FIRE SERVICE",
+            "ecContrib": 107625
+        },
+        "953570917": {
+            "orgId": "953570917",
+            "orgName": "Delft Dynamics B.V.",
+            "ecContrib": 129500
+        },
+        "999605662": {
+            "orgId": "999605662",
+            "orgName": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+            "ecContrib": 280704
+        },
+        "952987850": {
+            "orgId": "952987850",
+            "orgName": "ORBITAL SISTEMAS AEROESPACIALES SL",
+            "ecContrib": 270200
+        }
+    },
+    "calculatedTotalContribution": 986273
+}

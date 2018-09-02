@@ -1,0 +1,28 @@
+{
+    "rcn": "212205",
+    "acronym": "MuDiLingo",
+    "topics": "ERC-2017-STG",
+    "title": "A Multiscale Dislocation Language for Data-Driven Materials Science",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2022",
+    "objective": "Crystalline defects in metals and semiconductors are responsible for a wide range of mechanical, optical and electronic properties. Controlling the evolution of dislocations, i.e. line-like defects and the carrier of plastic deformation, interacting both among themselves and with other microstructure elements allows tailoring material behaviors on the micro and nanoscale. This is essential for rational design approaches towards next generation materials with superior mechanical properties.\n\nFor nearly a century, materials scientists have been seeking to understand how dislocation systems evolve. In-situ microscopy now reveals complex dislocation networks in great detail. However, without a sufficiently versatile and general methodology for extracting, assembling and compressing dislocation-related information the analysis of such data often stays at the level of ìlooking at imagesî to identify mechanisms or structures. Simulations are increasingly capable of predicting the evolution of dislocations in full detail. Yet, direct comparison, automated analysis or even data transfer between small scale plasticity experiments and simulations is impossible, and a large amount of data cannot be reused.\n\nThe vision of MuDiLingo is to develop and establish for the first time a Unifying Multiscale Language of Dislocation Microstructures. Bearing analogy to audio data conversion into MP3, this description of dislocations uses statistical methods to determine data compression while preserving the relevant physics. It allows for a completely new type of high-throughput data mining and analysis, tailored to the specifics of dislocation systems. This revolutionary data-driven approach links models and experiments on different length scales thereby guaranteeing true interoperability of simulation and experiment. The application to technologically relevant materials will answer fundamental scientific questions and guide towards design of superior structural and functional materials.",
+    "totalCost": "1499145",
+    "ecMaxContribution": "1499145",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERGAKADEMIE FREIBERG",
+    "coordinatorCountry": "DE",
+    "participants": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 142500
+        },
+        "999583934": {
+            "orgId": "999583934",
+            "orgName": "TECHNISCHE UNIVERSITAET BERGAKADEMIE FREIBERG",
+            "ecContrib": 1356645
+        }
+    },
+    "calculatedTotalContribution": 1499145
+}

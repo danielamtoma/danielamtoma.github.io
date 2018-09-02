@@ -1,0 +1,138 @@
+{
+    "rcn": "199590",
+    "acronym": "MIGRATE",
+    "topics": "LCE-06-2015",
+    "title": "Massive InteGRATion of power Electronic devices",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "By 2020, several areas of the HVAC pan-European transmission system will be operated with extremely high penetrations of Power Electronics(PE)-interfaced generators, thus becoming the only generating units for some periods of the day or of the year ñ due to renewable (wind, solar) electricity. This will result in i) growing dynamic stability issues for the power system (possibly a new major barrier against future renewable penetration), ii) the necessity to upgrade existing protection schemes and iii) measures to mitigate the resulting degradation of power quality due to harmonics propagation. European TSOs from Estonia, Finland, France, Germany, Iceland, Ireland, Italy, Netherlands, Slovenia, Spain and UK have joined to address such challenges with manufacturers (Alstom, Enercon, Schneider Electric) and universities/research centres. They propose innovative solutions to progressively adjust the HVAC system operations. Firstly, a replicable methodology is developed for appraising the distance of any EU 28 control zone to instability due to PE proliferation and for monitoring it in real time, along with a portfolio of incremental improvements of existing technologies (the tuning of controllers, a pilot test of wide-area control techniques and the upgrading of protection devices with impacts on the present grid codes). Next, innovative power system control laws are designed to cope with the lack of synchronous machines. Numerical simulations and laboratory tests deliver promising control solutions together with recommendations for new PE grid connection rules and the development of a novel protection technology and mitigation of the foreseen power quality disturbances. Technology and economic impacts of such innovations are quantified together with barriers to be overcome in order to recommend future deployment scenarios. Dissemination activities support the deployment schemes of the project outputs based on knowledge sharing among targeted stakeholders at EC level.",
+    "totalCost": "17855205",
+    "ecMaxContribution": "16733998,75",
+    "coordinator": "TENNET TSO GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "FUNDACION CIRCE CENTRO DE INVESTIGACION DE RECURSOS Y CONSUMOS ENERGETICOS;ECOLE NATIONALE SUPERIEURE D'ARTS ET METIERS;UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN;THE UNIVERSITY OF MANCHESTER;SCHNEIDER ELECTRIC INDUSTRIES SAS;CONSORZIO INTERUNIVERSITARIO NAZIONALE PER ENERGIA E SISTEMI ELETTRICI;FINGRID OYJ;SCOTTISH POWER ENERGY NETWORKS HOLDINGS LIMITED;RED ELECTRICA DE ESPANA S.A.U.;AMPRION GMBH;TECHNISCHE UNIVERSITAET BERLIN;TERNA RETE ITALIA SPA;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;ELERING AS;RTE RESEAU DE TRANSPORT D ELECTRICITE SA;DOWEL MANAGEMENT;ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA;LANDSNET HF;TALLINNA TEHNIKAULIKOOL;EIRGRID PLC;TECHNISCHE UNIVERSITEIT DELFT;UNIVERZA V LJUBLJANI;Elektroinstitut Milan Vidmar;GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+    "participantCountries": "ES;FR;IE;UK;IT;FI;DE;CH;EE;SI;IS;NL",
+    "projectParticipants": {
+        "999954183": {
+            "orgId": "999954183",
+            "orgName": "RTE RESEAU DE TRANSPORT D ELECTRICITE SA",
+            "ecContrib": 1145188
+        },
+        "999842536": {
+            "orgId": "999842536",
+            "orgName": "TALLINNA TEHNIKAULIKOOL",
+            "ecContrib": 229875
+        },
+        "958668364": {
+            "orgId": "958668364",
+            "orgName": "CONSORZIO INTERUNIVERSITARIO NAZIONALE PER ENERGIA E SISTEMI ELETTRICI",
+            "ecContrib": 98800
+        },
+        "998079755": {
+            "orgId": "998079755",
+            "orgName": "ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA",
+            "ecContrib": 294106
+        },
+        "951444968": {
+            "orgId": "951444968",
+            "orgName": "TERNA RETE ITALIA SPA",
+            "ecContrib": 185225
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "999981828": {
+            "orgId": "999981828",
+            "orgName": "GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+            "ecContrib": 361812
+        },
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 492050
+        },
+        "938196902": {
+            "orgId": "938196902",
+            "orgName": "Elektroinstitut Milan Vidmar",
+            "ecContrib": 138612
+        },
+        "969081993": {
+            "orgId": "969081993",
+            "orgName": "AMPRION GMBH",
+            "ecContrib": 209583
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1864216
+        },
+        "999444448": {
+            "orgId": "999444448",
+            "orgName": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
+            "ecContrib": 1007938
+        },
+        "932047878": {
+            "orgId": "932047878",
+            "orgName": "SCOTTISH POWER ENERGY NETWORKS HOLDINGS LIMITED",
+            "ecContrib": 1699932
+        },
+        "952346389": {
+            "orgId": "952346389",
+            "orgName": "LANDSNET HF",
+            "ecContrib": 397776
+        },
+        "999923240": {
+            "orgId": "999923240",
+            "orgName": "UNIVERZA V LJUBLJANI",
+            "ecContrib": 246238
+        },
+        "999919748": {
+            "orgId": "999919748",
+            "orgName": "EIRGRID PLC",
+            "ecContrib": 306148
+        },
+        "989214052": {
+            "orgId": "989214052",
+            "orgName": "TENNET TSO GMBH",
+            "ecContrib": 3174832
+        },
+        "990567978": {
+            "orgId": "990567978",
+            "orgName": "RED ELECTRICA DE ESPANA S.A.U.",
+            "ecContrib": 714040
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 1250928
+        },
+        "930955658": {
+            "orgId": "930955658",
+            "orgName": "ELERING AS",
+            "ecContrib": 326875
+        },
+        "986311327": {
+            "orgId": "986311327",
+            "orgName": "FINGRID OYJ",
+            "ecContrib": 107762
+        },
+        "999516907": {
+            "orgId": "999516907",
+            "orgName": "FUNDACION CIRCE CENTRO DE INVESTIGACION DE RECURSOS Y CONSUMOS ENERGETICOS",
+            "ecContrib": 921338
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 450562
+        },
+        "990741802": {
+            "orgId": "990741802",
+            "orgName": "ECOLE NATIONALE SUPERIEURE D'ARTS ET METIERS",
+            "ecContrib": 651328
+        }
+    },
+    "calculatedTotalContribution": 16275164
+}

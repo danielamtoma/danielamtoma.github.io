@@ -1,0 +1,73 @@
+{
+    "rcn": "199488",
+    "acronym": "eWINE",
+    "topics": "ICT-12-2015",
+    "title": "elastic WIreless Networking Experimentation",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2017",
+    "objective": "The elastic Wireless Networking Experimentation (eWINE) research project will realize elastic networks that can scale to a high number of users in a short timespan through the use of an agile infrastructure (intelligent software and flexible hardware), enabling: (1) dynamic on-demand end-to-end wireless connectivity service provisioning, (2) elastic resource sharing in dense heterogeneous and small cell networks (HetSNets), and (3) intelligent and informed configuration of the physical layer. \n\neWINE will develop and validate algorithms for advanced Cognitive Networking (context determination & sensing, optimization & negotiation techniques, and online learning algorithms) through experimentally-driven research on top of existing FIRE/FIRE\\ facilities (CREW, WiSHFUL, FLEX). Several partners are involved in these facility projects.\nThe consortium includes both academic researchers and industrial developers (3 SMEs \\ 1 multinational company). The uptake of the project results will be promoted by making openly available the Intelligence Toolbox and organizing the eWINE Grand Challenge; through Open Calls of WiSHFUL; and by educating the wireless community via FORGE, VideoLectures.net and YouTube.\n\nTo cope with the increasing density of wireless devices, eWINE will primarily address the EUís need for intelligent solutions to mitigate the spectrum scarcity and network configuration problems and strengthen the competitiveness of European companies (reducing development costs, speeding product validation and shortening time-to-market) in developing innovative products able to increase wireless capacity and energy efficiency, and lower electromagnetic exposure. The project results will lead to improved European innovation in several domains (secured & robust communication, IoT, 5G, etc.). eWINE will leverage research to exploit the full potential of the coordinated use of heterogeneous wireless networks, and as such will contribute significantly to regulatory policies and standardization.",
+    "totalCost": "2714297,5",
+    "ecMaxContribution": "2352546",
+    "coordinator": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+    "coordinatorCountry": "BE",
+    "participants": "PIETRZYK SLAWOMIR;THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN;INSTITUT JOZEF STEFAN;THALES COMMUNICATIONS & SECURITY SAS;SPACETIME NETWORKS OY;TECHNISCHE UNIVERSITAET BERLIN;SIGFOX WIRELESS SA;MARTEL GMBH;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "PL;IE;SI;FR;FI;DE;CH",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 561875
+        },
+        "999695387": {
+            "orgId": "999695387",
+            "orgName": "MARTEL GMBH",
+            "ecContrib": 0
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 300933
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "928910704": {
+            "orgId": "928910704",
+            "orgName": "SPACETIME NETWORKS OY",
+            "ecContrib": 99900
+        },
+        "999845446": {
+            "orgId": "999845446",
+            "orgName": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+            "ecContrib": 288670
+        },
+        "959732454": {
+            "orgId": "959732454",
+            "orgName": "SIGFOX WIRELESS SA",
+            "ecContrib": 102043
+        },
+        "955040467": {
+            "orgId": "955040467",
+            "orgName": "PIETRZYK SLAWOMIR",
+            "ecContrib": 99375
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 310000
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 274250
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 315500
+        }
+    },
+    "calculatedTotalContribution": 2352546
+}

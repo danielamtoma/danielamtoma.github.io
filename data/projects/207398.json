@@ -1,0 +1,23 @@
+{
+    "rcn": "207398",
+    "acronym": "NANOINFER",
+    "topics": "ERC-2016-STG",
+    "title": "Intelligent Memories that Perform Inference with the Physics of Nanodevices",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "Cognitive tasks are increasingly necessary in modern electronics. The energy efficiency of associated algorithms, which rely on abundant stored parameters, is severely limited by the separation of computation and memory elements in conventional computers. In NANOINFER, I will directly address this challenge by developing intelligent memory chips that natively perform both memory and computing functions, using CMOS and emerging nanodevices. These chips will perform modern Bayesian inference algorithms, which allow cognitive-type reasoning. The project includes theoretical investigations as well as intelligent memory chip designs, which will be supported by proof-of-concept experimental demonstrations. The proposed architectures, based on spintronic and memristive memories, will maximize energy efficiency by leveraging the complex physics of these emerging devices for inference operations and the storage of model parameters, and by minimizing exchanges between computation units and memory. Inference will be performed using sampling algorithms that allow tackling difficult problems and are robust to nanodevice imperfections. The inference circuits will be composed of digital CMOS logic as well as spiking neurons circuits. Two standard Bayesian approaches will be employed to enable learning, permitting highly adaptive systems. Preliminary results on a system that performs naÔve Bayesian inference have validated this concept and its use with novel memory technologies. NANOINFER will resolve critical interdisciplinary challenges to permit intelligent memories to perform non-naÔve tasks, ensuring a correspondence between device physics and Bayesian concepts while maintaining a fusion between computation and memory. This project will deepen our understanding of novel memory technologies and develop a toolbox for creating intelligent memory chips. These will allow smart devices to perform cognitive/sensory-motor tasks at low energy without requiring large computing machines.",
+    "totalCost": "1499609",
+    "ecMaxContribution": "1499609",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1499609
+        }
+    },
+    "calculatedTotalContribution": 1499609
+}

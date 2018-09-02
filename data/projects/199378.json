@@ -1,0 +1,23 @@
+{
+    "rcn": "199378",
+    "acronym": "TheoryDL",
+    "topics": "ERC-StG-2015",
+    "title": "Practically Relevant Theory of Deep Learning",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2021",
+    "objective": "One of the most significant recent developments in applied machine learning has been the resurgence of 'deep learning', usually in the form of artificial neural networks. The empirical success of deep learning is stunning, and deep learning based systems have already led to breakthroughs in computer vision and speech recognition. In contrast, from the theoretical point of view, by and large, we do not understand why deep learning is at all possible, since most state of the art theoretical results show that deep learning is computationally hard.\n\nBridging this gap is a great challenge since it involves proficiency in  several theoretic fields (algorithms, complexity, and statistics) and at the same time requires a good understanding of real world practical problems and the ability to conduct applied research. We believe that a good theory must lead to better practical algorithms. It should also broaden the applicability of learning in general, and deep learning in particular, to new domains. Such a practically relevant theory may also lead to a fundamental paradigm shift in the way we currently analyze the complexity of algorithms.\n\nPrevious works by the PI and his colleagues and students have provided novel ways to analyze the computational complexity of learning algorithms and understand the tradeoffs between data and computational time. In this proposal, in order to bridge the gap between theory and practice, I suggest a departure from worst-case analyses and the development of a more optimistic, data dependent, theory with 'grey' components.  Success will lead to a breakthrough in our understanding of learning at large with significant potential for impact on the field of machine learning and its applications.",
+    "totalCost": "1342500",
+    "ecMaxContribution": "1342500",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1342500
+        }
+    },
+    "calculatedTotalContribution": 1342500
+}

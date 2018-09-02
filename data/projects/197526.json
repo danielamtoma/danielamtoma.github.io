@@ -1,0 +1,178 @@
+{
+    "rcn": "197526",
+    "acronym": "WAYTOGO FAST",
+    "topics": "ECSEL-02-2014",
+    "title": "Which Architecture Yields Two Other Generations Of Fully depleted Advanced Substrate and Technologies",
+    "startDate": "01/05/2015",
+    "endDate": "31/12/2017",
+    "objective": "The proposed pilot line project WAYTOGO FAST objective is to leverage Europe leadership in Fully Depleted Silicon on Insulator technology (FDSOI) so as to compete in leading edge technology at node 14nm and beyond preparing as well the following node transistor architecture. Europe is at the root of this breakthrough technology in More Moore law. The project aims at establishing a distributed pilot line between 2 companies: \n- Soitec for the fabrication of advanced engineered substrates (UTBB: Ultra Thin Body and BOx (buried oxide)) without and with strained silicon top film.  \n- STMicroelectronics for the development and industrialization of state of the art FDSOI technology platform at 14nm and beyond with an industry competitive Power-Performance-Area-Cost (PPAC) trade-off. \nThe project represents the first phase of a 2 phase program aiming at establishing a 10nm FDSOI technology for 2018-19. \nA strong added value network is created across this project to enhance a competitive European value chain on a European breakthrough and prepare next big wave of electronic devices. The consortium gathers a large group of partners: academics/institutes, equipment and substrate providers, semiconductor companies, a foundry, EDA providers, IP providers, fabless design houses, and a system manufacturer. E&M will contribute to the objective of installing a pilot line capable of manufacturing both advanced SOI substrates and FDSOI CMOS integrated circuits at 14nm and beyond. Design houses and electronics system manufacturer will provide demonstrator and enabling IP,  to spread the FDSOI technology and establish it as a  standard in term of leading edge energy efficient CMOS technology for a wide range of applications battery operated (consumer , healthcare, Internet of things) or not.  Close collaboration between the design activities and the technology definition will tailor the PPAC trade-off of the next generation of technology to the applications needs.",
+    "totalCost": "99399264,13",
+    "ecMaxContribution": "25796579,34",
+    "coordinator": "STMICROELECTRONICS CROLLES 2 SAS",
+    "coordinatorCountry": "FR",
+    "participants": "PICOSUN OY;STMICROELECTRONICS S.A.;GLOBALFOUNDRIES Dresden Module One LLC & Co. KG;PRODRIVE TECHNOLOGIES BV;GLOBAL TCAD SOLUTIONS GMBH;DAINIPPON SCREEN DEUTSCHLAND GMBH;INSTITUT POLYTECHNIQUE DE GRENOBLE;EV GROUP E. THALLNER GMBH;TOKYO ELECTRON EUROPE LIMITED;LAM RESEARCH AG;SILTRONIC AG;SONY DEUTSCHLAND GMBH;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;UNIVERSIDAD DE GRANADA;HSEB DRESDEN GMBH;APPLIED MATERIALS FRANCE;UNIVERSITE CATHOLIQUE DE LOUVAIN;LAM RESEARCH SAS;BRUKER AXS GMBH;Gold Standard Simulations ltd;INTEGRATED SYSTEMS DEVELOPMENT S.A.;NOVA MEASURING INSTRUMENTS LTD;ALCATEL-LUCENT DEUTSCHLAND AG;MUNEDA GmbH;SOITEC SA;FEI ELECTRON OPTICS BV;STMICROELECTRONICS GRENOBLE 2 SAS;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;HQ-Dielectrics GmbH;SOCIONEXT EUROPE GMBH",
+    "participantCountries": "FI;FR;DE;NL;AT;UK;ES;BE;EL;IL",
+    "projectParticipants": {
+        "956060228": {
+            "orgId": "956060228",
+            "orgName": "NOVA MEASURING INSTRUMENTS LTD",
+            "ecContrib": 247812
+        },
+        "984534481": {
+            "orgId": "984534481",
+            "orgName": "Gold Standard Simulations ltd",
+            "ecContrib": 105300
+        },
+        "936688552": {
+            "orgId": "936688552",
+            "orgName": "TOKYO ELECTRON EUROPE LIMITED",
+            "ecContrib": 0
+        },
+        "997607656": {
+            "orgId": "997607656",
+            "orgName": "INTEGRATED SYSTEMS DEVELOPMENT S.A.",
+            "ecContrib": 132234
+        },
+        "984770385": {
+            "orgId": "984770385",
+            "orgName": "SONY DEUTSCHLAND GMBH",
+            "ecContrib": 129200
+        },
+        "999611676": {
+            "orgId": "999611676",
+            "orgName": "EV GROUP E. THALLNER GMBH",
+            "ecContrib": 534464
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 13831514
+        },
+        "985772395": {
+            "orgId": "985772395",
+            "orgName": "HQ-Dielectrics GmbH",
+            "ecContrib": 98628
+        },
+        "975512123": {
+            "orgId": "975512123",
+            "orgName": "BRUKER AXS GMBH",
+            "ecContrib": 694160
+        },
+        "999750580": {
+            "orgId": "999750580",
+            "orgName": "STMICROELECTRONICS CROLLES 2 SAS",
+            "ecContrib": 1515366
+        },
+        "950335094": {
+            "orgId": "950335094",
+            "orgName": "HSEB DRESDEN GMBH",
+            "ecContrib": 145131
+        },
+        "952438151": {
+            "orgId": "952438151",
+            "orgName": "GLOBAL TCAD SOLUTIONS GMBH",
+            "ecContrib": 98820
+        },
+        "999912376": {
+            "orgId": "999912376",
+            "orgName": "ALCATEL-LUCENT DEUTSCHLAND AG",
+            "ecContrib": 66375
+        },
+        "937308382": {
+            "orgId": "937308382",
+            "orgName": "DAINIPPON SCREEN DEUTSCHLAND GMBH",
+            "ecContrib": 75585
+        },
+        "990648003": {
+            "orgId": "990648003",
+            "orgName": "SILTRONIC AG",
+            "ecContrib": 168565
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 594996
+        },
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 84906
+        },
+        "983632478": {
+            "orgId": "983632478",
+            "orgName": "PRODRIVE TECHNOLOGIES BV",
+            "ecContrib": 113750
+        },
+        "997962094": {
+            "orgId": "997962094",
+            "orgName": "STMICROELECTRONICS GRENOBLE 2 SAS",
+            "ecContrib": 0
+        },
+        "999882015": {
+            "orgId": "999882015",
+            "orgName": "UNIVERSIDAD DE GRANADA",
+            "ecContrib": 48750
+        },
+        "936391538": {
+            "orgId": "936391538",
+            "orgName": "APPLIED MATERIALS FRANCE",
+            "ecContrib": 60519
+        },
+        "996850183": {
+            "orgId": "996850183",
+            "orgName": "MUNEDA GmbH",
+            "ecContrib": 113442
+        },
+        "999503812": {
+            "orgId": "999503812",
+            "orgName": "PICOSUN OY",
+            "ecContrib": 72971
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 1289579
+        },
+        "985480037": {
+            "orgId": "985480037",
+            "orgName": "FEI ELECTRON OPTICS BV",
+            "ecContrib": 259899
+        },
+        "936873240": {
+            "orgId": "936873240",
+            "orgName": "LAM RESEARCH SAS",
+            "ecContrib": 99010
+        },
+        "999875225": {
+            "orgId": "999875225",
+            "orgName": "INSTITUT POLYTECHNIQUE DE GRENOBLE",
+            "ecContrib": 200000
+        },
+        "990341968": {
+            "orgId": "990341968",
+            "orgName": "GLOBALFOUNDRIES Dresden Module One LLC & Co. KG",
+            "ecContrib": 244805
+        },
+        "930300811": {
+            "orgId": "930300811",
+            "orgName": "SOCIONEXT EUROPE GMBH",
+            "ecContrib": 284754
+        },
+        "999762511": {
+            "orgId": "999762511",
+            "orgName": "LAM RESEARCH AG",
+            "ecContrib": 0
+        },
+        "999909175": {
+            "orgId": "999909175",
+            "orgName": "STMICROELECTRONICS S.A.",
+            "ecContrib": 708502
+        },
+        "990360010": {
+            "orgId": "990360010",
+            "orgName": "SOITEC SA",
+            "ecContrib": 3777541
+        }
+    },
+    "calculatedTotalContribution": 25796578
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "200247",
+    "acronym": "SOPHIA",
+    "topics": "ERC-CoG-2015",
+    "title": "Securing Software against Physical Attacks",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "More than 15 years ago, several seminal publications showed that cryptographic keys can be revealed by analysing the power consumption or by inducing faults to devices like smart cards. The publication of these so-called physical attacks sparked off research on all kinds of attack techniques and countermeasures to secure implementations of cryptographic schemes. \n\nHowever, a system can still be attacked easily if only the execution of cryptographic schemes is secured. An attacker can for example induce a fault to bypass an authentication or to jump to a privileged function directly. The system might also leak the key before the execution of a cryptographic scheme starts.\n\nToday, there is almost no research on securing systems and software execution against physical attacks. Products like smart cards rely on proprietary best-practice countermeasures. Also countless devices of the Internet of Things are exposed to physical attacks and lack protection. \n\nOur goal is to close this fundamental gap in system security and to establish the scientific foundation for executing software securely and efficiently in the presence of physical attacks. We aim to address research questions that range from the modelling of the attacks at the hardware level up to system-level questions like how changing properties of programming languages can support achieving protection against physical attacks. \n\nThis project brings together research on physical attacks, cryptography, system architectures, fault tolerant design as well as formal methods. Combining the fields, we pursue novel approaches to securing the control flow, CPU computations and memories. We in particular aim to find efficient methods in hardware and software that allow building systems where critical parts of the overall software can be secured against physical attacks without affecting or trusting the rest of the system. Our research also includes automated generation and verification techniques for the secured software.",
+    "totalCost": "1964750",
+    "ecMaxContribution": "1964750",
+    "coordinator": "TECHNISCHE UNIVERSITAET GRAZ",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 1964750
+        }
+    },
+    "calculatedTotalContribution": 1964750
+}

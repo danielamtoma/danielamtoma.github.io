@@ -1,0 +1,58 @@
+{
+    "rcn": "194104",
+    "acronym": "openMedicine",
+    "topics": "PHC-34-2014",
+    "title": "openMedicine",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2016",
+    "objective": "The CSA will enhance the safety of cross-border healthcare through interoperable ePrescriptions. epSOS solved the message transfer problem, but encountered 2 serious ìdeliveryî problems: the univocal identification of medicinal products (MPs) dispensed abroad, and substitution challenges.\nGlobal SDOs (WHO, HL7, IHTSDO, ISO/CEN, GS1), EU regulatory agencies (EMA), MS Competent Authorities, major stakeholders (industry, health professionals, patients) harmonise their related efforts to deliver\nï common data models - expanding upon epSOS and existing standards (ISO/IDMP) - for prescribed MPs\nï a common meta-vocabulary for unambiguous definition, description, and identification of MPs\nï rules to harmonise practices of therapeutic and economic substitution\nï a roadmap for post-project actions and implementations\nï policy recommendations for the EU-USA road mapping process (MoU)\nWork will link to related research & innovation activities of SDOs, epSOS, policy and regulatory processes (eHealth Network), the three other PHC34 projects.\nWP1 develops a concise conceptual framework, including use case scenarios where the identification of a MP is an issue, including pharmacological and pharmacokinetic attributes, clinical indications and risks. WPs 2 address the identification and description of the pharmaceutical products, considering implementability as essential. WP3 investigates the situation in MSs with respect to substitution, and explores options for substitution. Each track develops a set of concrete solutions and road map recommendations, validated by experts in F2F meetings and workshops in WP4. Fostering exploitation by MS regulatory agencies and communication of results is the duty of WP5.\nThe project involves national competent authorities, SDOs and stakeholders not part of the core team at an early stage to assure the practicability, acceptance and trust in the solutions developed.\nThe CSA lasts 2 years involving 8 beneficiaries and about 25 expert organisations.",
+    "totalCost": "997938",
+    "ecMaxContribution": "997938",
+    "coordinator": "EMPIRICA GESELLSCHAFT FUER KOMMUNIKATIONS- UND TECHNOLOGIE FORSCHUNG MBH",
+    "coordinatorCountry": "DE",
+    "participants": "INSTYTUT LOGISTYKI I MAGAZYNOWANIA;Agencia EspaÒola de Medicamentos y Productos Sanitarios;HL7 INTERNATIONAL FONDATION;STICHTING NEDERLANDS NORMALISATIE - INSTITUUT;REGIONE LOMBARDIA;HEALTH PRODUCTS REGULATORY AUTHORITY;Custodix NV",
+    "participantCountries": "PL;ES;BE;NL;IT;IE",
+    "projectParticipants": {
+        "999563952": {
+            "orgId": "999563952",
+            "orgName": "Agencia Española de Medicamentos y Productos Sanitarios",
+            "ecContrib": 74375
+        },
+        "999663183": {
+            "orgId": "999663183",
+            "orgName": "INSTYTUT LOGISTYKI I MAGAZYNOWANIA",
+            "ecContrib": 87625
+        },
+        "974224448": {
+            "orgId": "974224448",
+            "orgName": "HL7 INTERNATIONAL FONDATION",
+            "ecContrib": 90313
+        },
+        "999654065": {
+            "orgId": "999654065",
+            "orgName": "REGIONE LOMBARDIA",
+            "ecContrib": 80625
+        },
+        "999801990": {
+            "orgId": "999801990",
+            "orgName": "EMPIRICA GESELLSCHAFT FUER KOMMUNIKATIONS- UND TECHNOLOGIE FORSCHUNG MBH",
+            "ecContrib": 191875
+        },
+        "941456684": {
+            "orgId": "941456684",
+            "orgName": "HEALTH PRODUCTS REGULATORY AUTHORITY",
+            "ecContrib": 110625
+        },
+        "999631755": {
+            "orgId": "999631755",
+            "orgName": "STICHTING NEDERLANDS NORMALISATIE - INSTITUUT",
+            "ecContrib": 62875
+        },
+        "999697812": {
+            "orgId": "999697812",
+            "orgName": "Custodix NV",
+            "ecContrib": 299625
+        }
+    },
+    "calculatedTotalContribution": 997938
+}

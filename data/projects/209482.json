@@ -1,0 +1,43 @@
+{
+    "rcn": "209482",
+    "acronym": "INCEPTION",
+    "topics": "MG-1-4-2016-2017",
+    "title": "Incremental Nonlinear flight Control supplemented with Envelope ProtecTION techniques",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2020",
+    "objective": "Recent developments in the areas of nonlinear control theory and sensor technology paved the way to the derivation of flight control laws that are significantly less dependent on nominal aircraft model data. In addition, novel and complex methods which make use of advanced fault detection and online identification algorithms to estimate the aircraftís achievable flight envelope and to provide protection in case of adverse conditions, such as system failures or damages are arising.\n\nProject INCEPTION proposes to develop and combine the abovementioned research topics, exploring the INCEPTION of an innovative approach to the design of automatic flight control systems, supported by sensor-based (almost model-independent) control laws with the ability of online reconfiguration following failure scenarios.\n\nBy employing self-reconfigurable mechanisms and control laws that are less sensitive to model mismatch INCEPTION aims to provide an enhanced level of safety for future aircraft. The objective is to predict and adapt to safe flight regimes of operation, even in the presence of unprecedented and unknown failures, and to enable the development of generic flight control systems, applicable to different aerial platforms. These motivations are completely aligned with the European vision for aviation safety portrayed in the ACARE Flightpath 2050 Report, which envisages the prediction and mitigation of technical and operational issues through advanced on-board systems.\n\nProject INCEPTION focuses on researching and developing the best approach to achieve the proposed targets, to implement it into a coherent system and to test its performance in Unmanned Aircraft and evaluate its future applicability to General and Commercial Aviation. To accomplish these tasks, the INCEPTION Consortium includes renowned universities within the domains addressed by the project, a company that develops advanced inertial sensors and an SME that engineers and operates its own UAV fleet.",
+    "totalCost": "2386456,25",
+    "ecMaxContribution": "2386455,75",
+    "coordinator": "TEKEVER ASDS",
+    "coordinatorCountry": "PT",
+    "participants": "TECHNISCHE UNIVERSITAET MUENCHEN;MEGGITT (SENSOREX) SAS;CRANFIELD UNIVERSITY;INSTITUTO SUPERIOR TECNICO",
+    "participantCountries": "DE;FR;UK;PT",
+    "projectParticipants": {
+        "958942292": {
+            "orgId": "958942292",
+            "orgName": "TEKEVER ASDS",
+            "ecContrib": 625625
+        },
+        "999992983": {
+            "orgId": "999992983",
+            "orgName": "INSTITUTO SUPERIOR TECNICO",
+            "ecContrib": 447064
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 494042
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 582350
+        },
+        "972722015": {
+            "orgId": "972722015",
+            "orgName": "MEGGITT (SENSOREX) SAS",
+            "ecContrib": 237375
+        }
+    },
+    "calculatedTotalContribution": 2386456
+}

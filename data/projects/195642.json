@@ -1,0 +1,23 @@
+{
+    "rcn": "195642",
+    "acronym": "NEW4NEW",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "New methods for new materials",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "Computational modelling of molecules and materials has had a great impact on understanding experimental observations and suggesting new routes for development. A prominent example are chemical reactions where modelling allows one to follow the motion of atoms and to obtain a detailed insight into the process.\nTo model chemical reactions, quantum mechanics for electrons is needed and currently the most widely used method for this task is Kohn-Sham density functional theory (DFT). DFT is exact in principle, but in practice, different approximations are made. These approximations affect the accuracy of description of both strong intramolecular forces (chemical bonds) and weaker intermolecular interactions (e.g., van der Waals forces). If the errors are significant, one can obtain misleading results.\n\nSystems where an accurate description of both strong and weak forces is crucial are molecules in porous materials, such as zeolites.\nZeolites are important industrial catalysts and also perspective materials for gas separation. During the catalytic process, molecules interact first weakly with the zeolite before chemical reaction takes place.\nTherefore, if we want to further improve the function of porous materials or develop new ones with desired chemical activity, we need to be able to model reliably both strong and weak forces.\n\nIt is the goal of this project to develop new reliable methods that will enable the development of new materials. This goal will be accomplished by combining state-of-the-art DFT approximations for modelling strong and weak interactions and implementing promising schemes recently proposed.\nUsing the expertise of the host group, we will use data available for zeolites and molecules in zeolites to validate the methods and understand their accuracy.\nThe ability to model reliably processes in porous materials will have a large impact on the development of materials in a range of fields, including materials for solving future energy needs.",
+    "totalCost": "154720,8",
+    "ecMaxContribution": "154720,8",
+    "coordinator": "USTAV FYZIKALNI CHEMIE J. HEYROVSKEHO AV CR, v. v. i.",
+    "coordinatorCountry": "CZ",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999511863": {
+            "orgId": "999511863",
+            "orgName": "USTAV FYZIKALNI CHEMIE J. HEYROVSKEHO AV CR, v. v. i.",
+            "ecContrib": 154721
+        }
+    },
+    "calculatedTotalContribution": 154721
+}

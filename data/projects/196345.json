@@ -1,0 +1,23 @@
+{
+    "rcn": "196345",
+    "acronym": "NETEEG",
+    "topics": "ERC-PoC-2014",
+    "title": "Spatial super-resolution of electrophysiological measurements",
+    "startDate": "01/04/2015",
+    "endDate": "30/09/2016",
+    "objective": "Electroencephalography (EEG) is the non-invasive recording of electrical brain activity, and is an indispensable diagnostic and research tool. A significant advantage of EEG compared to other brain imaging modalities is its high temporal resolution. The downside of EEG is, however, its poor spatial resolution, which is one of the reasons for its gradual replacement by costlier alternatives. It results mainly from the sharp discontinuity in the electric conductivity of the skull bones acting as a strong low-pass filter and limiting the amount meaningful information that can be extracted from EEG signals. \n\nWe propose a novel concept of EEG measurement hardware which, in combination with signal processing techniques, will increase the spatial resolution of EEG by as much as an order of magnitude. Our idea is based on the observation that by connecting a dynamic network of controllable impedances between pairs of measurement electrodes, one can alter the shape of the spatial filter constituted by the skull. Since EEG is a relatively narrow-band signal (about 100Hz, limited by the time constants of basics units of neural activity), we expect to be able to measure tens or hundreds of different configurations of the network, either directly or by using a compressed sampling scheme, without compromising the temporal resolution. This will introduce many independent equations to the EEG inverse problem and improve source estimation, having critical impact on the diagnostic capabilities of EEG as well as on its use in emerging applications such as neuro-feedback and brain-computer interface (BCI).",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

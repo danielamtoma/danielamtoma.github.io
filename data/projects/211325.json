@@ -1,0 +1,23 @@
+{
+    "rcn": "211325",
+    "acronym": "scAssembly",
+    "topics": "ERC-2016-COG",
+    "title": "Algorithms and experimental tools for integrating very large-scale single cell genomics data",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2022",
+    "objective": "Robust and flexible tissue- and cell-type specific gene regulation is a definitive prerequisite for complex function in any multi-cellular organism. Modern genomics and epigenomics provide us with catalogues of gene regulatory elements and maps illustrating their activity in different tissues. Nevertheless, we are far from being able to explain emergence and maintenance of cellular states from such data, partly because we so far lacked characterization of individual molecular states and genome control mechanisms at their native resolution - the single cell. Recently, new approaches developed by the single cell genomics community, with several contributions from our group, allow massive acquisition of data on the transcriptional, epigenomic and chromosomal conformation states in large cohorts of single cells. In this research program, we aim to move forward rapidly to bridge a major gap between these experimental breakthroughs and models of genome regulation in complex tissues. We will develop algorithms and models for representing data the transcriptional profiles, DNA methylation landscapes and Hi-C maps of literally millions of cells. Our tools will be designed specifically to leverage on new single cell RNA-seq, single cell Hi-C, single cell capture-pBat and higher order 4C-seq that we will continue to develop experimentally. Furthermore, we shall enhance and optimize our interdisciplinary framework hand in hand with a working model aiming at unprecedentedly comprehensive single cell analysis of E8-E10 mouse embryos. This will provide us with hundreds of worked-out cases of tissue specific gene regulation. The techniques and insights from these studies will then be used to characterize cell type aberrations and epigenetic reprogramming in tumors. The open algorithms, techniques and methodology we shall develop can accelerate research in multiple groups that will utilize single cell genomics to study numerous questions on gene regulation in the coming years.",
+    "totalCost": "2437500",
+    "ecMaxContribution": "2437500",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 2437500
+        }
+    },
+    "calculatedTotalContribution": 2437500
+}

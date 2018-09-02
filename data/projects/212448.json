@@ -1,0 +1,53 @@
+{
+    "rcn": "212448",
+    "acronym": "AIOSAT",
+    "topics": "GALILEO-3-2017",
+    "title": "Autonomous Indoor  Outdoor SafetyTracking system",
+    "startDate": "01/12/2017",
+    "endDate": "31/05/2020",
+    "objective": "The Europe population experiences yearly about 2 million to 2.5 million fires with 20 to 25 thousand deaths and 250 to 500 thousand reported injuries. Moreover, EUFireAcademy states European countries suffered 558 fatalities per million inhabitants due to fire hazards during the year 2010.\nEven though satellite-based positioning technology allows rescue workers to already operate efficiently, GPS availability, reliability, and accuracy are often poor during fire operations, for example due to thick smoke, dense forests, rough terrain and inside buildings. \nIn this context, the objective of AIOSAT (Autonomous Indoor & Outdoor Safety Tracking System) is to progress beyond the state of the art by defining the AIOSAT concept that aims to overcome aforementioned limitations of GNSS usage in rescue interventions. For this purpose, GNSS positions are enhanced with EGNOS and fused with position information inferred from IMU and RF.\nThe main paths to the goal will be to define 1) the end-user requirements for the AIOSAT system, 2) the Advanced Positioning Subsystem 3) the Communications Subsystem 4) the tracking and alerting (TA) application and, 5) build an integrated prototype system validated during field tests. \nThe dissemination and use of the project outcomes are the ultimate objective. Therefore, in order to use and spread the knowledge acquired, a set of concrete, quantitative and customized activities is planned. \nThe main strengths of the AIOSAT consortium are threefold.1) It is composed of world class organizations with extensive and successful prior experience in the research topics related to the technologies employed. 2) The consortium involves two end-users, a technology provider, a university, a university-level military academy and two SMEs aiming at exploiting the project results as subsystem integrators, software and service providers. And 3), last but not least, the small consortium size avoids inefficiencies and work overhead typical for larger projects.",
+    "totalCost": "2032650",
+    "ecMaxContribution": "1764262,5",
+    "coordinator": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+    "coordinatorCountry": "ES",
+    "participants": "Inertia Technology B.V.;STICHTING SAXION;ECOLE ROYALE MILITAIRE - KONINKLIJKE MILITAIRE SCHOOL;INTEGRASYS SA;VEILIGHEIDSREGIO TWENTE;HULPVERLENINGSZONE CENTRUM (OOST-VLAANDEREN)",
+    "participantCountries": "NL;BE;ES",
+    "projectParticipants": {
+        "970382278": {
+            "orgId": "970382278",
+            "orgName": "STICHTING SAXION",
+            "ecContrib": 273188
+        },
+        "926501030": {
+            "orgId": "926501030",
+            "orgName": "HULPVERLENINGSZONE CENTRUM (OOST-VLAANDEREN)",
+            "ecContrib": 57835
+        },
+        "999831575": {
+            "orgId": "999831575",
+            "orgName": "ECOLE ROYALE MILITAIRE - KONINKLIJKE MILITAIRE SCHOOL",
+            "ecContrib": 344688
+        },
+        "997636853": {
+            "orgId": "997636853",
+            "orgName": "INTEGRASYS SA",
+            "ecContrib": 326375
+        },
+        "990037873": {
+            "orgId": "990037873",
+            "orgName": "Inertia Technology B.V.",
+            "ecContrib": 299862
+        },
+        "938021817": {
+            "orgId": "938021817",
+            "orgName": "VEILIGHEIDSREGIO TWENTE",
+            "ecContrib": 35625
+        },
+        "999605662": {
+            "orgId": "999605662",
+            "orgName": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+            "ecContrib": 426690
+        }
+    },
+    "calculatedTotalContribution": 1764263
+}

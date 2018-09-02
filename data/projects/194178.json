@@ -1,0 +1,53 @@
+{
+    "rcn": "194178",
+    "acronym": "MEDILIGHT",
+    "topics": "ICT-02-2014",
+    "title": "Miniaturized smart system for light stimulation and monitoring of wound healing",
+    "startDate": "01/02/2015",
+    "endDate": "31/07/2018",
+    "objective": "Chronic wounds represent a significant burden to patients, health care professionals, and health care systems, affecting over 40 million patients and creating costs of approximately 40 billion Ä annually. Goal of the project is the fabrication of a medical device for professional wound care. The device will use recently proven therapeutic effects of visible light to enhance the self-healing process and monitor the status and history of the wound during therapy. Light exposure in the red part of the spectrum (620-750nm) induces growth of keratinocytes and fibroblasts in deeper layers of the skin. The blue part of the spectrum (450ñ495nm) is known to have antibacterial effects predominantly at the surface layers of the skin. In order to be compliant with hygiene requirements the system will consist of two parts: 1. a disposable wound dressing with embedded optical waveguides and integrated sensors for the delivery of light and monitoring (temperature and blood oxygen) of the wound. 2. a soft and compliant electronic module for multiple use containing LEDs, a photodiode, a controller, analog data acquisition, a rechargeable battery, and a data transmission unit. Both parts of the device will be interconnected by a mechanically robust plug, enabling a low loss coupling of light into the waveguide structures and electrical interconnection to the sensors. The status of the wound will be monitored with temporal and low level spatial resolution. The electronic module will be optimized for functionality and user comfort, combining leading edge heterogeneous integration technologies (PCB embedding) and stretchable electronics approaches. The detailed effects of light-exposure schemes will be explored and backed by in-vitro and in-vivo animal studies. Results will be used to develop smart algorithms and implement it into respective programs and feedback loops of the device.",
+    "totalCost": "2988034",
+    "ecMaxContribution": "2475310,75",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;URGO RECHERCHE INNOVATION ET DEVELOPPEMENT;RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG;MICROSEMI SEMICONDUCTOR LIMITED;SIGNALGENERIX LIMITED;LABORATOIRES URGO;AMIRES SRO",
+    "participantCountries": "CH;FR;DE;UK;CY;CZ",
+    "projectParticipants": {
+        "922585431": {
+            "orgId": "922585431",
+            "orgName": "URGO RECHERCHE INNOVATION ET DEVELOPPEMENT",
+            "ecContrib": 504308
+        },
+        "956723805": {
+            "orgId": "956723805",
+            "orgName": "AMIRES SRO",
+            "ecContrib": 151750
+        },
+        "999586844": {
+            "orgId": "999586844",
+            "orgName": "MICROSEMI SEMICONDUCTOR LIMITED",
+            "ecContrib": 410000
+        },
+        "999987648": {
+            "orgId": "999987648",
+            "orgName": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+            "ecContrib": 401219
+        },
+        "940919110": {
+            "orgId": "940919110",
+            "orgName": "LABORATOIRES URGO",
+            "ecContrib": 96159
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 587500
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 2150936
+}

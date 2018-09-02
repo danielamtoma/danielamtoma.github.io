@@ -1,0 +1,23 @@
+{
+    "rcn": "209659",
+    "acronym": "ACTICIPATE",
+    "topics": "MSCA-IF-2016",
+    "title": "Action understanding in human and robot dyadic interaction",
+    "startDate": "01/06/2017",
+    "endDate": "31/08/2018",
+    "objective": "Humans have fascinating skills for grasping and manipulation of objects, even in complex, dynamic environments, and execute coordinated movements of the head, eyes, arms, and hands, in order to accomplish everyday tasks. When working on a shared space, during dyadic interaction tasks, humans engage in non-verbal communication, by understanding and anticipating the actions of working partners, and coupling their actions in a meaningful way. \nThe key to this mind-boggling performance is two-fold: (i) a capacity to adapt and plan the motion according to unexpected events in the environment, (ii) and the use of a common motor repertoire and action model, to understand and anticipate the actions and intentions of others as if they were our own. Despite decades of progress, robots are still far from the level of performance that would enable them to work with humans in routine activities.\nACTICIPATE addresses the challenge of designing robots that can share workspaces and co-work with humans. We rely on human experiments to learn a model/controller that allows a humanoid to generate and adapt its upper body motion, in dynamic environments, during reaching and manipulation tasks, and to understand, predict and anticipate the actions of a human co-worker, as needed in manufacturing, assistive and service robotics, and domestic applications.\nThese application scenarios call for three main capabilities that will be tackled in ACTICIPATE: a motion generation mechanism (primitives), with a built-in capacity for instant reaction to changes in dynamic environments; a framework to combine primitives and execute coordinated movements of head, eyes, arm and hand, in a way similar (thus predictable) to human movements, and model the action/movement coupling between co-workers in dyadic interaction tasks; and the ability to understand and anticipate human actions, based on a common motor system/model that is also used to synthesize the robotís goal-directed actions in a natural way.",
+    "totalCost": "100397,25",
+    "ecMaxContribution": "100397,25",
+    "coordinator": "INSTITUTO SUPERIOR TECNICO",
+    "coordinatorCountry": "PT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992983": {
+            "orgId": "999992983",
+            "orgName": "INSTITUTO SUPERIOR TECNICO",
+            "ecContrib": 100397
+        }
+    },
+    "calculatedTotalContribution": 100397
+}

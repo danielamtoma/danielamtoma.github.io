@@ -1,0 +1,23 @@
+{
+    "rcn": "193658",
+    "acronym": "aSCEND",
+    "topics": "ERC-StG-2014",
+    "title": "Secure Computation on Encrypted Data",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2020",
+    "objective": "Recent trends in computing have prompted users and organizations to store an increasingly large amount of sensitive data at third party locations in the cloud outside of their direct control. Storing data remotely poses an acute security threat as these data are outside our control and could potentially be accessed by untrusted parties. Indeed, the reality of these threats have been borne out by the Snowden leaks and hundreds of data breaches each year. In order to protect our data, we will need to encrypt it.\n\nFunctional encryption is a novel paradigm for public-key encryption that enables both fine-grained access control and selective computation on encrypted data, as is necessary to protect big, complex data in the cloud. Functional encryption also enables searches on encrypted travel records and surveillance video as well as medical studies on encrypted medical records in a privacy-preserving manner; we can give out restricted secret keys that reveal only the outcome of specific searches and tests. These mechanisms allow us to maintain public safety without compromising on civil liberties, and to facilitate medical break-throughs without compromising on individual privacy.\n\nThe goals of the aSCEND project are (i) to design pairing and lattice-based functional encryption that are more efficient and ultimately viable in practice; and (ii) to obtain a richer understanding of expressive functional encryption schemes and to push the boundaries from encrypting data to encrypting software. My long-term vision is the ubiquitous use of functional encryption to secure our data and our computation, just as public-key encryption is widely used today to secure our communication. Realizing this vision requires new advances in the foundations of functional encryption, which is the target of this project.",
+    "totalCost": "1253892,5",
+    "ecMaxContribution": "1253892,5",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1253892
+        }
+    },
+    "calculatedTotalContribution": 1253892
+}

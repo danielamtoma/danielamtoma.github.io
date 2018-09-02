@@ -1,0 +1,23 @@
+{
+    "rcn": "200180",
+    "acronym": "BIAF",
+    "topics": "ERC-StG-2015",
+    "title": "Bird Inspired Autonomous Flight",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "The agile and efficient flight of birds shows what flight performance is physically possible, and in theory could be achieved by unmanned air vehicles (UAVs) of the same size. The overall aim of this project is to enhance the performance of small scale UAVs by developing novel technologies inspired by understanding how birds are adapted to interact with airflows. Small UAVs have the potential to dramatically change current practices in many areas such as, search and rescue, surveillance, and environmental monitoring. Currently the utility of these systems is limited by their operational endurance and their inability to operate in strong turbulent winds, especially those that often occur in urban environments. Birds are adapted to be able to fly in these conditions and actually use them to their advantage to minimise their energy output.\n\nThis project is composed of three tracks which contain elements of technology development, as well as scientific investigation looking at bird flight behaviour and aerodynamics. The first track looks at developing path planning algorithms for UAVs in urban environments based on how birds fly in these areas, by using GPS tracking and computational fluid dynamics alongside trajectory optimization. The second track aims to develop artificial wings with improved gust tolerance inspired by the features of feathered wings. Here, high speed video measurements of birds flying through gusts will be used alongside wind tunnel testing of artificial wings to discover what features of a birdís wing help to alleviate gusts. The third track develops novel force and flow sensor arrays for autonomous flight control based on the sensor arrays found in flying animals. These arrays will be used to make UAVs with increased agility and robustness. This unique bird inspired approach uses biology to show what is possible, and engineering to find the features that enable this performance and develop them into functional technologies.",
+    "totalCost": "1998546",
+    "ecMaxContribution": "1998546",
+    "coordinator": "UNIVERSITY OF BRISTOL",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 1998546
+        }
+    },
+    "calculatedTotalContribution": 1998546
+}

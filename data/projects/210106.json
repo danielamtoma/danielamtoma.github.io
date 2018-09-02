@@ -1,0 +1,23 @@
+{
+    "rcn": "210106",
+    "acronym": "UBIGNSS",
+    "topics": "SMEInst-04-2016-2017",
+    "title": "GNSS for mass-market Internet-of-Things tracking applications",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2017",
+    "objective": "Our project intends to foster Internet-of-Things tracking applications by delivering a breakthrough GNSS-based sensing technology that is low-power and low-cost.\nGNSS are historically designed for autonomous positioning, such as car navigation systems and imply high battery needs for the receivers. Observing that tracking applications do not require the asset to know its own position, but rather the application itself, our innovation introduces a new system approach for small battery-powered electronic devices using low-power wireless connectivity. With our solution, they can only sense the GNSS signals, and the position is computed in a cloud-based server, whereby power consumption is not an issue.\nBy offering a 10X decrease in power consumption compared to state-of-the-art technologies and matching with IoT networks constraints, our technology meets the crucial requirements in terms of power consumption, costs, and services in order to address the most significant opportunities in the assets (pallets, trailers, livestockÖ) and personal (people, belongings, pets...) tracking markets.\nDelivered as geolocation cloud services, the solution under development will enable the tracking system providers to tackle mass-markets needs on top of which:\n-\tFor professional use-cases: Insuring Return-on-Investment by achieving a cost-effective tracker that lasts as long as the object without replacing cells.\n-\tFor consumer use-cases: Managing end-user acceptance by reaching a compact design while showcasing sufficient autonomy.\nThe feasibility assessment will focus on the economic viability and on the necessary steps for a successful go-to-market strategy. While this project covers world-wide challenges in different verticals (logistics, manufacturing, agriculture, consumers), Europe is at the heart of our developments because:\n1)\tEurope is currently the de facto cradle of IoT wireless networks\n2)\tIt will contribute to make Galileo the default option for IoT tracking applications",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "UBISCALE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "914530260": {
+            "orgId": "914530260",
+            "orgName": "UBISCALE",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "213441",
+    "acronym": "ULTRA",
+    "topics": "ERC-2017-COG",
+    "title": "Increasing the Spatial Correlation of Logical Units of Data to Enable an Ultra-Low Latency Internet",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2023",
+    "objective": "The cloud computing infrastructure that logically centralizes data storage and computation for many different actors is a prime example of a key societal system. A number of time-critical applications deployed in the cloud infrastructure have to provide high reliability and throughput, along with guaranteed low latency for delivering data. This low latency guarantee is sorely lacking today, with the so-called tail-latency of slowest responses in popular cloud services being several orders of magnitude longer than the median response times. Unfortunately, simply using a network with ample bandwidth does not guarantee low latency because of problems with congestion at the intra-and inter-data center levels and server overloads. All of these problems currently render the existing cloud infrastructures unsuitable for time-critical societal applications. The reasons for unpredictable delays across the Internet and within the cloud infrastructure are numerous, but some of the key culprits are: 1) slow memory subsystems limit server effectiveness, and 2) excess buffering in the Internet further limits correlation of data requests.\n\nThe aim of this project is to dramatically change the way data flows across the Internet, such that it is more highly correlated when it is to be processed at the servers. The overarching goal is to enforce a large degree of correlation in the data requests (logical units of data), both temporally (across time) and spatially (as server work units require correlation to achieve high cache hit rates). The result is that the logical units of data will be processed at almost the maximum processing speed of the cloud servers. By doing so, we will achieve an ultra-low latency Internet. This project will produce the tools and knowledge that will be key to dramatically reducing the latency of key societal services; these include cloud services used by a large number of users on a daily basis.",
+    "totalCost": "2000000",
+    "ecMaxContribution": "2000000",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 2000000
+        }
+    },
+    "calculatedTotalContribution": 2000000
+}

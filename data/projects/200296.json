@@ -1,0 +1,58 @@
+{
+    "rcn": "200296",
+    "acronym": "LOGIMATIC",
+    "topics": "GALILEO-1-2015",
+    "title": "Tight integration of EGNSS and on-board sensors for port vehicle automation",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2019",
+    "objective": "Annual volume at global container terminals will rise by a 5.6% rate during the next 5 years and reach 840 million TEU by 2018.The usual way for ports to deal with the increasing demand of sea transport and compete against competitors is to expand the port in the original site. There is scarcity of land available for port expansion in densely populated urban areas where most of European ports are situated. This fact is causing that many container terminals are coping with congestion and capacity problems. Therefore, port managers are searching for more efficient and cost-effective means in the handling of containers while still trying to introduce innovative technical solutions. Container handling equipment automation is an innovative technological solution that contributes not only to improve the utilization rate of equipment and reduce operating costs, but also greatly improve efficiency of terminals.\nLOGIMATIC proposes an ad-hoc advanced location and navigation solution to enable the automation of existing port vehicles with a significantly lower cost which will allow short-medium term investments until the whole port fleet is renewed with totally autonomous vehicles in the long term. The project will develop and demonstrate an innovative location and navigation solution for the automation of the operations of straddle carriers in container terminals.\nObjectives:\n? To develop an advanced automated navigation solution based on the integration of Global Navigation Satellite Systems (GNSS) and sensors onboard the SC vehicles.\n? To implement a GIS-based control module compatible with existing Terminal Operating Systems (TOS) for optimized global (yard level) route planning and fleet management.\n? To implement security mechanism in order to detect and avoid spoofing and/or jamming attacks\n? To assess the impact of application of such automated approach at large scale through simulation\n? To integrate, validate and demonstrate the proposed solution in a real port yard.",
+    "totalCost": "2386925",
+    "ecMaxContribution": "2002910",
+    "coordinator": "FUNDACIO EURECAT",
+    "coordinatorCountry": "ES",
+    "participants": "ASOCIACION ESPANOLA DE NORMALIZACION;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;RINA CONSULTING SPA;Thessaloniki Port Authority SA;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;DIEVROPAIKI ETAIRIA SYMBOULON METAFORON ANAPTIXIS KAI PLIROFORIKIS AE;EMERSON INDUSTRIAL AUTOMATION IBERIA SA",
+    "participantCountries": "ES;EL;IT",
+    "projectParticipants": {
+        "999951467": {
+            "orgId": "999951467",
+            "orgName": "RINA CONSULTING SPA",
+            "ecContrib": 309750
+        },
+        "984232326": {
+            "orgId": "984232326",
+            "orgName": "ASOCIACION ESPANOLA DE NORMALIZACION",
+            "ecContrib": 59375
+        },
+        "923884940": {
+            "orgId": "923884940",
+            "orgName": "EMERSON INDUSTRIAL AUTOMATION IBERIA SA",
+            "ecContrib": 225138
+        },
+        "999736418": {
+            "orgId": "999736418",
+            "orgName": "DIEVROPAIKI ETAIRIA SYMBOULON METAFORON ANAPTIXIS KAI PLIROFORIKIS AE",
+            "ecContrib": 273210
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 328750
+        },
+        "998798040": {
+            "orgId": "998798040",
+            "orgName": "Thessaloniki Port Authority SA",
+            "ecContrib": 87938
+        },
+        "928030235": {
+            "orgId": "928030235",
+            "orgName": "FUNDACIO EURECAT",
+            "ecContrib": 494375
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 224375
+        }
+    },
+    "calculatedTotalContribution": 2002911
+}

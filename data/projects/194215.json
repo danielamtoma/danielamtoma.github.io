@@ -1,0 +1,78 @@
+{
+    "rcn": "194215",
+    "acronym": "iCIRRUS",
+    "topics": "ICT-06-2014",
+    "title": "intelligent Converged network consolIdating Radio and optical access aRound USer equipment.",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "To meet the high throughput demands envisaged for 5G networks, with increased user densification and bandwidth-hungry applications, while at the same time reducing energy consumption, iCIRRUS proposes an intelligent Cloud-Radio Access Network (C-RAN) that brings together optical fibre technology, low-cost but highly flexible Ethernet networking, wireless resource management for device-to-device (D2D) communication (incl. the use of mm-wave spectrum) and the use of virtual mobiles in the cloud. The iCIRRUS C-RAN introduces the use of Ethernet in the fronthaul/midhaul (for radio signal transport), to minimise cost and make available pluggable and in-device monitoring, and intelligent processing to enable self-optimizing network functions which maximise both network resource utilisation and energy efficiency. To exemplify the attractiveness of the proposition, iCIRRUS focusses on D2D communication in the wireless domain, an important work area in current standardisation, where low latency is known to be a significant factor. The latency and jitter in the iCIRRUS Ethernet-based C-RAN will be an important focus of the research work in the project, with current 5G performance targets in mind; for D2D communications, the task will be to minimise control latency and overhead. A major obstacle for C-RANs is the bit-rate of the digitised radio signals that would be required for 5G ñ of the order of 100 Gb/s and iCIRRUS will examine the architectural and technological questions surrounding this requirement. Wireless resource management will be investigated, together with mobile device caching and mm-wave D2D mesh networks, to reduce latency as well as load on the infrastructure. Finally, the intelligent network functions in ICIRRUS can interact with mobile cloud processing, and further offloads of infrastructure communications can be realised through virtualising mobiles in the cloud as clones, and performing communication tasks between clones.",
+    "totalCost": "3832196,25",
+    "ecMaxContribution": "3832195",
+    "coordinator": "UNIVERSITY OF KENT",
+    "coordinatorCountry": "UK",
+    "participants": "ORANGE SA;TELEKOM SLOVENIJE DD;ADVA OPTICAL NETWORKING LIMITED;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;VIAVI SOLUTIONS UK LIMITED;PRIMETEL PLC;INTERDIGITAL EUROPE LTD;UNIVERSITY OF ESSEX;WELLNESS TELECOM SL;ADVA OPTICAL NETWORKING SE;IAF INSTITUT FUER ANGEWANDTE FUNKSYSTEMTECHNIK GmbH",
+    "participantCountries": "FR;SI;UK;DE;CY;ES",
+    "projectParticipants": {
+        "999670361": {
+            "orgId": "999670361",
+            "orgName": "PRIMETEL PLC",
+            "ecContrib": 296625
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 232750
+        },
+        "999841275": {
+            "orgId": "999841275",
+            "orgName": "UNIVERSITY OF KENT",
+            "ecContrib": 488440
+        },
+        "950635891": {
+            "orgId": "950635891",
+            "orgName": "INTERDIGITAL EUROPE LTD",
+            "ecContrib": 0
+        },
+        "999811787": {
+            "orgId": "999811787",
+            "orgName": "ADVA OPTICAL NETWORKING SE",
+            "ecContrib": 413660
+        },
+        "991160066": {
+            "orgId": "991160066",
+            "orgName": "WELLNESS TELECOM SL",
+            "ecContrib": 185250
+        },
+        "999856989": {
+            "orgId": "999856989",
+            "orgName": "UNIVERSITY OF ESSEX",
+            "ecContrib": 458638
+        },
+        "941216027": {
+            "orgId": "941216027",
+            "orgName": "IAF INSTITUT FUER ANGEWANDTE FUNKSYSTEMTECHNIK GmbH",
+            "ecContrib": 419145
+        },
+        "954758488": {
+            "orgId": "954758488",
+            "orgName": "ADVA OPTICAL NETWORKING LIMITED",
+            "ecContrib": 78702
+        },
+        "957062432": {
+            "orgId": "957062432",
+            "orgName": "TELEKOM SLOVENIJE DD",
+            "ecContrib": 288250
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 549215
+        },
+        "945047818": {
+            "orgId": "945047818",
+            "orgName": "VIAVI SOLUTIONS UK LIMITED",
+            "ecContrib": 421520
+        }
+    },
+    "calculatedTotalContribution": 3832195
+}

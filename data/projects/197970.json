@@ -1,0 +1,28 @@
+{
+    "rcn": "197970",
+    "acronym": "SMS",
+    "topics": "DRS-17-2014-1",
+    "title": "SMS - Safety Micro Sensor",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2015",
+    "objective": "Objective of the Safety MicroSensor (SMS) project is to leverage on an innovative and versatile microelectronics platform (codenamed SENSIPLUS) in development at Sensichips, currently at its 3rd iteration, that enables integration of sensors with CMOS microelectronics into a single miniature CBRN-E sensor chip of only 3x3mm. SENSIPLUS is currently being customized for the detection of hazardous chemicals by combining with the chip nanomaterials sensitive to a number Toxic Industrial Chemicals (TIC) and deadly Chemical Warfare Agents (CWA) such Sarin and Tabun. One chip can host up to 12 different sensors and it can connect to up 4 external sensing elements or detectors. The same chip will be interfaced to an external solid state Radiation Detector (i.e. a CZT or CdTe) for the concurrent monitoring of illicit radiation sources. The resulting device, the most miniaturized, low power and low cost yet on the market, will be configured into Smart Cables.\nThe single chip CBRNE microsensor, when instantiated into smart cables, is the basis to build easy to install and to operate continuous monitoring of critical infrastructures or scanning portals of high passage area and for use at occasional crowds gatherings. The same chip has also been designed to be included into smartphones and most other wearable devices for which it is already been demonstrated.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ARESCOSMO S.P.A.",
+    "coordinatorCountry": "IT",
+    "participants": "SENSICHIPS Srl",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "998607144": {
+            "orgId": "998607144",
+            "orgName": "ARESCOSMO S.P.A.",
+            "ecContrib": 50000
+        },
+        "938969701": {
+            "orgId": "938969701",
+            "orgName": "SENSICHIPS Srl",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

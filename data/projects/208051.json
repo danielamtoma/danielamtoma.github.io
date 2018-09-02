@@ -1,0 +1,43 @@
+{
+    "rcn": "208051",
+    "acronym": "EMA4FLIGHT",
+    "topics": "JTI-CS2-2016-CFP03-SYS-02-14",
+    "title": "Development of Electromechanical Actuators and Electronic control Units for Flight Control Systems",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2019",
+    "objective": "Nowadays, there is a trend towards the More-Electric Aircraft (MEA) concept. MEA would replace the secondary aircraft power systems (electric, hydraulic and pneumatic) with a globally optimized electrical system. However, the architecture of the electric system must be carefully selected to optimize the whole aircraft. Actual research in MEA technology is focused on new advances in power electronics, fault-tolerant electric machines, digital control, electro-mechanical actuators and communications. Modern technologies involved in MEA are being taken in two different paths: i) elimination of bleed-air systems and hydraulic engines with further improvements in electrical power generation capability. It requires changes in both electrical generation and distribution network, and ii) replacement of hydraulics actuators with electro-mechanical actuators with the same level of safety and reliability, reducing weight, fuel usage, maintenance and production costs.\nSeveral studies have been recently carried out emphasizing the interest on the replacement of the traditional electro-hydrostatic actuators used in flight control surfaces by electro-mechanical actuators (EMAs). The reasons for such a choice are: weight and maintenance reduction, elimination of pipes vibration problems, increase of reliability, increase of the system performance and pressure losses thanks to the absence of valves.\nThe EMA4FLIGHT project will design, manufacture and tune innovative electro-mechanical actuator sub-systems for aileron/spoiler and winglet/flap-tab flight control surfaces, with clearance for flight. The designed sub-systems will be improved by electric motor and ballscrew innovative architecture, advanced control strategies and smart safety, diagnostic and maintenance functions.",
+    "totalCost": "1698689,38",
+    "ecMaxContribution": "1698126,25",
+    "coordinator": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+    "coordinatorCountry": "ES",
+    "participants": "UMBRAGROUP SPA;RAMEM SA;SKYLIFE ENGINEERING SL;GMV AEROSPACE AND DEFENCE SA",
+    "participantCountries": "IT;ES",
+    "projectParticipants": {
+        "972978192": {
+            "orgId": "972978192",
+            "orgName": "UMBRAGROUP SPA",
+            "ecContrib": 450000
+        },
+        "999905004": {
+            "orgId": "999905004",
+            "orgName": "GMV AEROSPACE AND DEFENCE SA",
+            "ecContrib": 269695
+        },
+        "998869529": {
+            "orgId": "998869529",
+            "orgName": "RAMEM SA",
+            "ecContrib": 299162
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 397150
+        },
+        "952538061": {
+            "orgId": "952538061",
+            "orgName": "SKYLIFE ENGINEERING SL",
+            "ecContrib": 282119
+        }
+    },
+    "calculatedTotalContribution": 1698126
+}

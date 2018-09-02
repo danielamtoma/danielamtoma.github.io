@@ -1,0 +1,28 @@
+{
+    "rcn": "212719",
+    "acronym": "FODEX",
+    "topics": "ERC-2017-STG",
+    "title": "Tropical Forest Degradation Experiment",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "We know how to map tropical forest biomass using an array of satellite and aircraft sensors with reasonable accuracy (±15-40 %). However, we do not know how to map biomass change. Simply differencing existing biomass maps produces noisy and biased results, with confidence intervals unknowable using existing static field plots. Thus the potential for using plentiful free satellite data for biomass change mapping is being wasted.\n\nTo solve this I propose setting up the first experimental arrays of biomass change plots. In total 52 large plots will be located in logging concessions in Gabon and Peru, where biomass will be assessed before and after logging, and during recovery. In addition to traditional field inventory, terrestrial laser scanning (TLS) data will give the precise 3D shape of thousands of trees before and after disturbance, allowing biomass change to be estimated without bias. The projectís unmanned aerial vehicle (UAV) will collect LiDAR data 4 times over each concession over 4 years, scaling up the field data to give thousands of hectares of biomass change data. In tandem, data from all potentially useful satellites (17\\) flying over the field sites over the study period will be ordered and processed.  \n\nThese data will enable the development of new methods for mapping carbon stock changes, with known uncertainty, which I will scale up across the Amazon basin and west/central Africa. For the first time we will have the methods to assess the balance of regrowth and anthropogenic disturbance across tropical forests, informing us about the status and resilience of the land surface carbon sink. As well as of scientific interest, these results are urgently needed for forest conservation: the Paris Agreement relies on paying countries to reduce losses and enhance gains in forest carbon stocks, but we do not currently have the tools to map forest carbon stock changes. Without accurate monitoring it is not possible to target resources nor assess success.",
+    "totalCost": "1942471",
+    "ecMaxContribution": "1942471",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITY COLLEGE LONDON",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1698255
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 244216
+        }
+    },
+    "calculatedTotalContribution": 1942471
+}

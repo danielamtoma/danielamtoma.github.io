@@ -1,0 +1,78 @@
+{
+    "rcn": "206182",
+    "acronym": "CROSSMINER",
+    "topics": "ICT-10-2016",
+    "title": "Developer-Centric Knowledge Mining from Large Open-Source Software Repositories",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Recent reports state that the adoption of open-source software (OSS) helps, resulting in savings of about $60 billion per year to consumers. However, the use of OSS also comes at enormous cost: choosing among OSS projects and maintaining dependence on continuously changing software requires a large investment. Deciding if an OSS project meets the required standards for adoption is hard, and keeping up-to-date with an evolving project is even harder. It involves analysing code, documentation, online discussions, and issue trackers. There is too much information to process manually and it is common that uninformed decisions have to be made with detrimental effects.\n\nCROSSMINER remedies this by automatically extracting the required knowledge and injecting it into the IDE of the developers, at the time they need it to make their design decisions. This allows them to reduce their effort in knowledge acquisition and to increase the quality of their code. CROSSMINER uniquely combines advanced software project analyses with online monitoring in the IDE. The developer will be monitored to infer which information is timely, based on readily available knowledge stored earlier by a set of advanced offline deep analyses of related OSS projects. \n\nTo achieve this timely and ambitious goal, CROSSMINER combines six end-user partners (in the domains of IoT, multi-sector IT services, API co-evolution, software analytics, software quality assurance, and OSS forges), along with R&D partners that have a long track-record in conducting cutting-edge research on large-scale software analytics, natural language processing, reverse engineering of software components, model-driven engineering, and delivering results in the form of widely-used, sustainable and industrial-strength OSS. The development of the CROSSMINER platform is guided by an advisory board of world-class experts and the dissemination of the project will be led by The Open Group.",
+    "totalCost": "4519007,5",
+    "ecMaxContribution": "4519007,5",
+    "coordinator": "X/OPEN COMPANY LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "ECLIPSE FOUNDATION EUROPE GMBH;UNPARALLEL INNOVATION LDA;STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA;SOFTEAM;BITERGIUM SLL;EDGE HILL UNIVERSITY;OW2 CONSORTIUM ASSOCIATION;UNIVERSITY OF YORK;UNIVERSITA DEGLI STUDI DELL'AQUILA;ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER;FRONTENDART SZOFTVER KFT",
+    "participantCountries": "DE;PT;NL;FR;ES;UK;IT;EL;HU",
+    "projectParticipants": {
+        "999653968": {
+            "orgId": "999653968",
+            "orgName": "STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA",
+            "ecContrib": 458386
+        },
+        "953318426": {
+            "orgId": "953318426",
+            "orgName": "UNPARALLEL INNOVATION LDA",
+            "ecContrib": 290910
+        },
+        "950666931": {
+            "orgId": "950666931",
+            "orgName": "BITERGIUM SLL",
+            "ecContrib": 210684
+        },
+        "999859511": {
+            "orgId": "999859511",
+            "orgName": "UNIVERSITA DEGLI STUDI DELL'AQUILA",
+            "ecContrib": 380922
+        },
+        "999615362": {
+            "orgId": "999615362",
+            "orgName": "FRONTENDART SZOFTVER KFT",
+            "ecContrib": 362869
+        },
+        "999789283": {
+            "orgId": "999789283",
+            "orgName": "X/OPEN COMPANY LIMITED",
+            "ecContrib": 351800
+        },
+        "944758564": {
+            "orgId": "944758564",
+            "orgName": "ECLIPSE FOUNDATION EUROPE GMBH",
+            "ecContrib": 422154
+        },
+        "989865892": {
+            "orgId": "989865892",
+            "orgName": "OW2 CONSORTIUM ASSOCIATION",
+            "ecContrib": 272395
+        },
+        "999978336": {
+            "orgId": "999978336",
+            "orgName": "UNIVERSITY OF YORK",
+            "ecContrib": 578895
+        },
+        "999779001": {
+            "orgId": "999779001",
+            "orgName": "SOFTEAM",
+            "ecContrib": 405736
+        },
+        "951860613": {
+            "orgId": "951860613",
+            "orgName": "EDGE HILL UNIVERSITY",
+            "ecContrib": 462831
+        },
+        "999896856": {
+            "orgId": "999896856",
+            "orgName": "ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",
+            "ecContrib": 321425
+        }
+    },
+    "calculatedTotalContribution": 4519007
+}

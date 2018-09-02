@@ -1,0 +1,38 @@
+{
+    "rcn": "199775",
+    "acronym": "NVS",
+    "topics": "ERC-ADG-2014",
+    "title": "Nano Voltage Sensors",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "To understand how the brain works, tools need to be developed that will allow neuroscientists to investigate how interactions between individual neurons lead to emergent networks. Towards this goal, we will develop targetable voltage sensing nanorods that self-insert into the cell membrane and optically and non-invasively record action potentials at the single particle and nanoscale level, at multiple sites and across a large field-of-view. In semiconductors, absorption and emission band edges are modulated by an external electric field, even more so when optically excited electron-hole pairs are confined, giving rise to the quantum confined Stark effect. The physical origin of this effect is in the separation of photoexcited charges, creating a dipole that opposes the external field. The proposed sensors will optically record action potential with unique advantages not offered by other methods: much larger voltage sensitivity, high brightness, and hence single-particle voltage sensitivity, large spectral shift (affording noise-immune ratiometric measurements), fast temporal \nresponse, minimal photobleaching, large Stokes shifts, large two-photon excitation cross sections, excellent performance in the NIR, and compatibility with lifetime imaging. The proposed sensors could afford, for example, the recording of pre- and post-synaptic membrane potentials, sub-threshold events, ultrafast spiking, individual ion channel activity, or a release of ions from single Ca\\2 stores. In addition, deep tissue imaging could be afforded by two photon microscopy and far-field non-linear temporal focusing combined with lifetime imaging. Here we seek to optimize all aspects of the sensorsí synthesis, functionalization, delivery, targeting and detection, in order to provide neuroscientists and physiologists a viable and user-friendly technology that will be generally useful for the study of action potential signals in the brain and in healthy \nor diseased heart and muscle tissues.",
+    "totalCost": "3497553",
+    "ecMaxContribution": "3497553",
+    "coordinator": "BAR ILAN UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE;WEIZMANN INSTITUTE OF SCIENCE;GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS;THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+    "participantCountries": "FR;IL;DE;US",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 175000
+        },
+        "999886574": {
+            "orgId": "999886574",
+            "orgName": "BAR ILAN UNIVERSITY",
+            "ecContrib": 2772553
+        },
+        "999845640": {
+            "orgId": "999845640",
+            "orgName": "GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS",
+            "ecContrib": 175000
+        },
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 225000
+        }
+    },
+    "calculatedTotalContribution": 3347553
+}

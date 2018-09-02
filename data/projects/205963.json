@@ -1,0 +1,68 @@
+{
+    "rcn": "205963",
+    "acronym": "MSO4SC",
+    "topics": "EINFRA-22-2016",
+    "title": "Mathematical Modelling, Simulation and Optimization for Societal Challenges with Scientific Computing",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2018",
+    "objective": "The challenges of society show rising complexity and their solution process increasingly requires a holistic approach. It is necessary to provide decision makers with tools that allow long-term risk analysis, improvements or even optimization and control. \nOne of the key technologies in this process is the use of mathematical Modelling, Simulation and Optimisation (MSO) methods, which have proven effective tools for solving many problems, e.g. realistic prediction of wind fields, solar radiation, air pollution and forest fires, prediction of climate change, improving the filtration process for drinking water treatment and optimization methods for intensity-modulated radiation therapy. \nThese methods are highly complex and are typically processed via the most modern tools of ICT including high performance computing and access to big data bases and usually need support of skilled experts, which often are not available, in particular in small and medium enterprises. \nTo improve this situation, the pan-European network EU-MATHS-IN (European Service Network of Mathematics for Industry and Innovation) has been founded from national networks containing leading research centres of Europe with high excellence of MSO and ICT. \nThe major objective of this proposal is to construct an e-infrastructure that provides, in a user-driven, integrative way, tailored access to the necessary services, resources and even tools for the fast prototyping, providing the service producers with the mathematical frameworks as well.\nThe e-infrastructure consists of an integrated MSO application catalogue containing models, software, validation and benchmark and the MSOcloud: a user friendly cloud infrastructure for  selected  MSO applications and developing frameworks from the catalogue. \nThis will reduce the ëtime-to-marketí for consultants working in the above-mentioned societal challenges.",
+    "totalCost": "2435064,5",
+    "ecMaxContribution": "2435064,5",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "FUNDACION PUBLICA GALLEGA CENTRO TECNOLOGICO DE SUPERCOMPUTACION DE GALICIA;KUNGLIGA TEKNISKA HOEGSKOLAN;STIFTELSEN SINTEF;STICHTING EUROPEAN SERVICE NETWORK OF MATHEMATICS FOR INDUSTRY AND INNOVATION;UNIVERSITE DE STRASBOURG;Konrad-Zuse-Zentrum f¸r Informationstechnik Berlin;TECHNISCHE UNIVERSITAET BERLIN;BCAM - BASQUE CENTER FOR APPLIED MATHEMATICS;SZECHENYI ISTVAN UNIVERSITY",
+    "participantCountries": "ES;SE;NO;NL;FR;DE;HU",
+    "projectParticipants": {
+        "999879590": {
+            "orgId": "999879590",
+            "orgName": "SZECHENYI ISTVAN UNIVERSITY",
+            "ecContrib": 189375
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 251250
+        },
+        "998156579": {
+            "orgId": "998156579",
+            "orgName": "BCAM - BASQUE CENTER FOR APPLIED MATHEMATICS",
+            "ecContrib": 245288
+        },
+        "996569950": {
+            "orgId": "996569950",
+            "orgName": "UNIVERSITE DE STRASBOURG",
+            "ecContrib": 339527
+        },
+        "999794521": {
+            "orgId": "999794521",
+            "orgName": "FUNDACION PUBLICA GALLEGA CENTRO TECNOLOGICO DE SUPERCOMPUTACION DE GALICIA",
+            "ecContrib": 322500
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 448125
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 292000
+        },
+        "993316085": {
+            "orgId": "993316085",
+            "orgName": "Konrad-Zuse-Zentrum für Informationstechnik Berlin",
+            "ecContrib": 125500
+        },
+        "935109392": {
+            "orgId": "935109392",
+            "orgName": "STICHTING EUROPEAN SERVICE NETWORK OF MATHEMATICS FOR INDUSTRY AND INNOVATION",
+            "ecContrib": 96000
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 125500
+        }
+    },
+    "calculatedTotalContribution": 2435065
+}

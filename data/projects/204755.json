@@ -1,0 +1,23 @@
+{
+    "rcn": "204755",
+    "acronym": "MOLEQULE",
+    "topics": "ERC-CoG-2015",
+    "title": "Unraveling molecular quantum dynamics with accelerated ab initio algorithms",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Many physical and chemical processes in nature as well as an increasing number of man-made devices exploit the quantum properties of electrons, nuclei, and the quantum signatures of the coupling between nuclear and electronic motions. To optimize the design of novel devices and to correctly interpret physical processes studied, e.g., by experiments probing the molecular dynamics induced by interactions with ultrafast laser pulses, quantitative simulations are required. Although ninety years have passed since the discovery of Schrˆdingerís equation, these simulations remain extremely difficult for systems with more than a few degrees of freedom.  While some physicists are satisfied with a theoretical model that describes the system qualitatively, in chemistry the promising term ``ab initio quantum molecular dynamics' is frequently misused for methods treating nuclear motion classically and using quantum mechanics only for electrons. The first goal of this project is, therefore, to bridge these two philosophies and combine accurate ab initio electronic structure calculations with accurate quantum or semiclassical treatment of the nuclear dynamics.  Since the exact solution of time-dependent Schrˆdingerís equation scales exponentially with the number of atoms, accelerating computers even by orders of magnitude will not break the exponential barrier to simulating molecular quantum dynamics. The second goal of this project is, therefore, developing and implementing both exact and approximate computationally efficient quantum dynamics methods applicable to polyatomic molecules. The last goal of the project is developing systematic methods for interpreting spectra of complex systems in terms of the underlying nuclear and electronic dynamics. To summarize in simple terms, the ultimate objective is developing theoretical methods that will allow replacing the popular classical molecular dynamics movies by their quantum analogs.",
+    "totalCost": "1998638",
+    "ecMaxContribution": "1998638",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 1998638
+        }
+    },
+    "calculatedTotalContribution": 1998638
+}

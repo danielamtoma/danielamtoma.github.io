@@ -1,0 +1,58 @@
+{
+    "rcn": "194240",
+    "acronym": "SAFEcrypto",
+    "topics": "ICT-32-2014",
+    "title": "Secure Architectures of Future Emerging Cryptography",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "SAFEcrypto will provide a new generation of practical, robust and physically secure post quantum cryptographic solutions that ensure long-term security for future ICT systems, services and applications. Novel public-key cryptographic schemes (digital signatures, authentication, public-key encryption, identity-based encryption) will be developed using lattice problems as the source of computational hardness. \n\nThe project will involve algorithmic and design optimisations, and implementations of the lattice-based cryptographic schemes addressing the cost, energy consumption, performance and physical robustness needs of resource-constrained applications, such as mobile, battery-operated devices, and of real-time applications such as network security, satellite communications and cloud. \n\nCurrently a significant threat to cryptographic applications is that the devices on which they are implemented on leak  information, which can be used to mount attacks to recover secret information. In SAFEcrypto the first analysis and development of physical-attack resistant methodologies for lattice-based cryptographic implementations will be undertaken.\n\nEffective models for the management, storage and distribution of the keys utilised in the proposed schemes (key sizes may be in the order of kilobytes or megabytes) will also be provided.\n\nThis project will deliver proof-of-concept demonstrators of the novel lattice-based public-key cryptographic schemes for three practical real-word case studies with real-time performance and low power consumption requirements. In comparison to current state-of-the-art implementations of conventional public-key cryptosystems (RSA and Elliptic Curve Cryptography (ECC)), SAFEcryptoís objective is to achieve a range of lattice-based architectures that provide comparable area costs, a 10-fold speed-up in throughput for real-time application scenarios, and a 5-fold reduction in energy consumption for low-power and embedded and mobile applications.",
+    "totalCost": "4081827,25",
+    "ecMaxContribution": "3266927,25",
+    "coordinator": "THE QUEEN'S UNIVERSITY OF BELFAST",
+    "coordinatorCountry": "UK",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;IBM RESEARCH GMBH;THALES UK LIMITED;UNIVERSITA DELLA SVIZZERA ITALIANA;RUHR-UNIVERSITAET BOCHUM;EMC INFORMATION SYSTEMS INTERNATIONAL;H W COMMUNICATIONS LIMITED",
+    "participantCountries": "FR;CH;UK;DE;IE",
+    "projectParticipants": {
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "959978349": {
+            "orgId": "959978349",
+            "orgName": "EMC INFORMATION SYSTEMS INTERNATIONAL",
+            "ecContrib": 399125
+        },
+        "940761388": {
+            "orgId": "940761388",
+            "orgName": "THALES UK LIMITED",
+            "ecContrib": 591300
+        },
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 494850
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 341997
+        },
+        "999585874": {
+            "orgId": "999585874",
+            "orgName": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+            "ecContrib": 0
+        },
+        "998305765": {
+            "orgId": "998305765",
+            "orgName": "H W COMMUNICATIONS LIMITED",
+            "ecContrib": 403250
+        },
+        "999992013": {
+            "orgId": "999992013",
+            "orgName": "THE QUEEN'S UNIVERSITY OF BELFAST",
+            "ecContrib": 1036405
+        }
+    },
+    "calculatedTotalContribution": 3266927
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "200194",
+    "acronym": "INDIGO",
+    "topics": "EE-13-2015",
+    "title": "New generation of Intelligent Efficient District Cooling systems",
+    "startDate": "01/03/2016",
+    "endDate": "31/08/2019",
+    "objective": "In Europe, different prognosis show an increase in cooling demand of almost 60% in 2030 with respect to nowadays. District cooling (DC) can play a part in satisfying this demand in a sustainable way (since can offer 5 to 10 times higher efficiency solutions than on?site stand?alone distributed systems). Even if DC captures only minor portion of the prospective market, this will translate into a dramatic increase in the size of the global DC sector.\nINDIGO aims to develop a more efficient, intelligent and cheaper generation of DC systems by improving system planning, control and management, anticipating the aforementioned scenario. This target will be achieved through the following specific objectives:\nï Contribute to the wider use of DC systems and motivate the competiveness of European DC market by the development of two open-source tools:\no A planning tool for DC systems with the aim of supporting their optimal design\no A library with thermo-fluid dynamic models of DC System components which will provide the designers detailed information about their physical behaviour\nï Primary energy reduction over 45% addressed by a ground breaking DC system management strategy focused mainly on energy efficiency maximization but also on energy cost minimization. Its main characteristics is the predictive management but it also will address other challenges such as:\no Integration of Renewable Energy Sources\no Dealing with different types of cooling sources \no Suitable coupling between generation, storage and demand\nAll this, with the help of intelligent and innovative component controllers (Predictive Controllers) to be developed at all DC system levels. Some of them include embedded self-learning algorithms, allowing components to respond appropriately to the set-points established.\nDevelopments carried out within INDIGO will be validated in a real District Heating and Cooling installation with appropriate conditions for testing the new functionalities.",
+    "totalCost": "2960852,5",
+    "ecMaxContribution": "2229321,25",
+    "coordinator": "FUNDACION TEKNIKER",
+    "coordinatorCountry": "ES",
+    "participants": "NATIONAL UNIVERSITY OF IRELAND GALWAY;CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;Teknologian tutkimuskeskus VTT Oy;MASDAR INSTITUTE OF SCIENCE AND TECHNOLOGY NON PROFIT INSTITUTION;R2M SOLUTION SRL;GIROA SOCIEDAD ANONIMA",
+    "participantCountries": "IE;CH;FI;AE;IT;ES",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 482500
+        },
+        "952850110": {
+            "orgId": "952850110",
+            "orgName": "R2M SOLUTION SRL",
+            "ecContrib": 231250
+        },
+        "951720836": {
+            "orgId": "951720836",
+            "orgName": "MASDAR INSTITUTE OF SCIENCE AND TECHNOLOGY NON PROFIT INSTITUTION",
+            "ecContrib": 0
+        },
+        "997485242": {
+            "orgId": "997485242",
+            "orgName": "GIROA SOCIEDAD ANONIMA",
+            "ecContrib": 671156
+        },
+        "999959227": {
+            "orgId": "999959227",
+            "orgName": "FUNDACION TEKNIKER",
+            "ecContrib": 635040
+        },
+        "999978045": {
+            "orgId": "999978045",
+            "orgName": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+            "ecContrib": 209375
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 2229321
+}

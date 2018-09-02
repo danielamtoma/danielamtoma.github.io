@@ -1,0 +1,88 @@
+{
+    "rcn": "202704",
+    "acronym": "CITADEL",
+    "topics": "DS-03-2015",
+    "title": "Critical Infrastructure Protection using Adaptive MILS",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2019",
+    "objective": "Critical infrastructures (CI) rely on complex safety- and security-critical ICT systems placed into unpredictable environments and forced to cope with unexpected events and threats while exhibiting safe adaptive behavior. Recent security trends stress continuous adaptation to increase attacker work factor and to confound reverse-engineering. Critical CI systems must undergo extensive and costly scrutiny under diverse certification regimes. Improved, effective and affordable development and certification methods are essential.\n\nCITADEL will provide innovative platform technology, methodology and tools for development, deployment, and certification of adaptive MILS systems for CI, to be demonstrated in three industrial CI use cases. The solution enables robust and resilient CI through monitoring and adaptive self-healing mechanisms that respond to natural and malicious occurrences by intelligently reconfiguring hosts, functions, and networks, while maintaining essential functions and defences.\n\nCITADEL is based on MILS, an approach featuring modular construction and compositional assurance, reducing the time and cost for development, certification, and maintenance of dependable systems. The MILS platform, based on a separation kernel, manages physical resources while establishing and enforcing a verified application architecture.\n\nLeveraging advances from the D-MILS and EURO-MILS projects, CITADEL will extend the MILS approach by adding dynamic reconfiguration to the MILS platform, and Monitoring and Adaptation Systems enabling resilience to adversity while preserving vital system properties.\n\nCITADEL supports certification of Adaptive MILS systems by analyzing configuration change mechanisms, adaptation system, configuration properties, and configuration change policies with automated verification tools, and by providing an innovative runtime evidence management agent to automatically generate up-to-date certification assurance artifacts as the system adapts.",
+    "totalCost": "6065267,25",
+    "ecMaxContribution": "4842819,47",
+    "coordinator": "X/OPEN COMPANY LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "INSTITUT F‹R ANGEWANDTE SYSTEMTECHNIK BREMEN GMBH;KASPERSKY LAB UK LTD;ATSEC INFORMATION SECURITY AB;SYSGO AG;FREQUENTIS AG;J.W. OSTENDORF GMBH & CO. KG;FONDAZIONE BRUNO KESSLER;UNIVERSITE GRENOBLE ALPES;TTTECH COMPUTERTECHNIK AG;UNICONTROLS A.S.;OAS AKTIENGESELLSCHAFT;TECHNISCHE UNIVERSITEIT EINDHOVEN;IKERLAN S COOP",
+    "participantCountries": "DE;UK;SE;AT;IT;FR;CZ;NL;ES",
+    "projectParticipants": {
+        "925864322": {
+            "orgId": "925864322",
+            "orgName": "ATSEC INFORMATION SECURITY AB",
+            "ecContrib": 151569
+        },
+        "999581315": {
+            "orgId": "999581315",
+            "orgName": "IKERLAN S COOP",
+            "ecContrib": 453379
+        },
+        "928892371": {
+            "orgId": "928892371",
+            "orgName": "KASPERSKY LAB UK LTD",
+            "ecContrib": 162112
+        },
+        "973232332": {
+            "orgId": "973232332",
+            "orgName": "UNICONTROLS A.S.",
+            "ecContrib": 285523
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 293140
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 437085
+        },
+        "999723323": {
+            "orgId": "999723323",
+            "orgName": "SYSGO AG",
+            "ecContrib": 599967
+        },
+        "999634374": {
+            "orgId": "999634374",
+            "orgName": "INSTITUT FÜR ANGEWANDTE SYSTEMTECHNIK BREMEN GMBH",
+            "ecContrib": 436334
+        },
+        "999789283": {
+            "orgId": "999789283",
+            "orgName": "X/OPEN COMPANY LIMITED",
+            "ecContrib": 578540
+        },
+        "998307317": {
+            "orgId": "998307317",
+            "orgName": "FREQUENTIS AG",
+            "ecContrib": 214349
+        },
+        "964468479": {
+            "orgId": "964468479",
+            "orgName": "J.W. OSTENDORF GMBH & CO. KG",
+            "ecContrib": 159688
+        },
+        "999690246": {
+            "orgId": "999690246",
+            "orgName": "OAS AKTIENGESELLSCHAFT",
+            "ecContrib": 171356
+        },
+        "999791029": {
+            "orgId": "999791029",
+            "orgName": "TTTECH COMPUTERTECHNIK AG",
+            "ecContrib": 529274
+        },
+        "924833212": {
+            "orgId": "924833212",
+            "orgName": "UNIVERSITE GRENOBLE ALPES",
+            "ecContrib": 370504
+        }
+    },
+    "calculatedTotalContribution": 4842820
+}

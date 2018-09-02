@@ -1,0 +1,23 @@
+{
+    "rcn": "201474",
+    "acronym": "BMC Rendering",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Bayesian Monte Carlo for Global Illumination",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2018",
+    "objective": "One of the most challenging problems in computer graphics (CG) is to  synthesize physically-based realistic images given an accurate model of a virtual scene. Rendering a photo-realistic image requires solving the illumination integral which describes the light transport on a scene, and whose value is in general computed by resorting to numerical approximations such as those based on Monte Carlo (MC) methods. \n\nThe quality of the approximation of those methods is strongly dependent on the samples placement and weighting. Therefore several works have focused on improving the purely random sampling used in classic MC techniques. In particular, a recent and innovative approach called Bayesian Monte Carlo (BMC) has been proven to greatly outperform classic MC methods due to its ability to incorporate prior knowledge which is then used for careful samples weighting and placement. This method was successfully applied in rendering by Brouillat et al. (2009) but only for diffuse materials. Recently, Marques et al. (2013) have generalized the application of BMC to non-diffuse materials.\n\nThese works have confirmed the potential of BMC for efficiently solving the rendering integral, making it a new trend in computer graphics. Nevertheless, the use of BMC in CG is still in an incipient phase and its application to more evolved and widely used rendering algorithms remains cumbersome.\n\nWe propose a research plan with a double objective: first, to develop an adaptive sampling strategy for BMC integration, where a new set of samples is used to further improve the approximation of the previous integral estimate. Second, to apply BMC to higher dimension problems such as path tracing, where the integration over all possible ray paths turns the approximation into a high-dimension integration problem, hence addressing the holy grail of the integration in light transport simulation: the curse of dimensionality.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "UNIVERSIDAD POMPEU FABRA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

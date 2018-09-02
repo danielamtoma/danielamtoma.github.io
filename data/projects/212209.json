@@ -1,0 +1,23 @@
+{
+    "rcn": "212209",
+    "acronym": "SPOCkS MS",
+    "topics": "ERC-2017-STG",
+    "title": "Sampling Protein cOmplex Conformational Space with native top down Mass Spectrometry",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "The main question to be addressed by SPOCkíS MS is how protein complex conformation adapts to local changes, such as processing of polyproteins, protein phosphorylation or conversion of substrates. While labelling strategies combined with mass spectrometry (MS), such as hydrogen deuterium exchange and hydroxyl footprinting, are very versatile in studying protein structure, these techniques are employed on bulk samples averaging over all species present. SPOCkíS MS will remedy these by studying the footprinting and therefore exposed surface area on conformation and mass selected species. Labelling still happens in solution avoiding gas phase associated artefacts. The labelling positions are then read out using newly developed top-down MS technology. Ultra-violet and free-electron lasers will be employed to fragment the protein complexes in the gas phase. In order to achieve the highest possible sequence and thus structural coverage, lasers will be complemented by additional dissociation and separation stages to allow MS^N. SPOCkíS MS will allow sampling conformational space of proteins and protein complexes and especially report about the transient nature of protein interfaces. Constraints derived in MS will be fed into a dedicated software pipeline to derive atomistic models. SPOCkíS MS will be used to study intracellular viral protein complexes, especially coronaviral replication/transcription complexes, which are highly flexible and often resist crystallisation and are barely accessible by conventional structural biology techniques.\nObjectives:\n- Integrate labelling with complex species selective native MS for time-resolved structural studies\n- Combine fragmentation techniques to maximise information content from MS\n- Develop software suite to analyse data and model protein complex structures based on MS constraints\n- Apply SPOCkíS MS to protein complexes of human pathogenic viruses",
+    "totalCost": "1999000",
+    "ecMaxContribution": "1999000",
+    "coordinator": "HEINRICH-PETTE INSTITUT LEIBNIZ INSTITUT FUER EXPERIMENTELLE VIROLOGIE",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "991028049": {
+            "orgId": "991028049",
+            "orgName": "HEINRICH-PETTE INSTITUT LEIBNIZ INSTITUT FUER EXPERIMENTELLE VIROLOGIE",
+            "ecContrib": 1999000
+        }
+    },
+    "calculatedTotalContribution": 1999000
+}

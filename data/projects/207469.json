@@ -1,0 +1,58 @@
+{
+    "rcn": "207469",
+    "acronym": "MIR-BOSE",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "Mid- and far-IR optoelectronic devices based on Bose-Einstein condensation",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "Optoelectronic devices typically operate in the weak coupling regime between light and matter, for example in conventional lasers relying on population inversion to achieve optical gain. Recently there has been a surge of interest in quantum systems operating instead in the strong coupling regime, when the coupling strength of the light-matter interaction is so strong that new states ñ cavity polaritons ñ are created, that are partially light, partially material excitation. In semiconductors, exciton-polaritons have been the most widely studied type of strongly coupled system. Recently a new phenomenon has been realized exploiting intersubband transitions. The resulting excitations are called intersubband polaritons, and they have two remarkable properties: (i) a bosonic character that is maintained up to high carrier densities since they are not restricted by the Mott transition limit; (ii) large Rabi splittings. Although the scientific community has explored the basic science of intersubband polaritons, their potential for future and innovative optoelectronic devices has been entirely untapped.\nThe MIR-BOSE project will realize this potential, and demonstrate disruptive optoelectronic devices operating in the strong coupling regime between light and matter. We will demonstrate the first bosonic lasers operating in the mid-IR and THz ranges of the electromagnetic spectrum. Laser action here does not rely on population inversion, so we will achieve temperature independent operation and high powers. We will demonstrate a new concept of inverse-Q-switching leading to the generation of high power pulses in the mid-IR, overcoming severe bottlenecks in current technology. Finally, we will demonstrate non-classical/quantum light sources and devices, generating squeezed states of light in the mid-IR/THz spectral range for quantum optics. These new sources will have a major impact on several technologies and applications, being advantageous compared to current solutions.",
+    "totalCost": "3786160",
+    "ecMaxContribution": "3786160",
+    "coordinator": "UNIVERSITE PARIS-SUD",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITAET REGENSBURG;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;UNIVERSITY OF LEEDS;UNIVERSITA DI PISA;CONSIGLIO NAZIONALE DELLE RICERCHE;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;TEMATYS",
+    "participantCountries": "DE;EL;UK;IT;FR",
+    "projectParticipants": {
+        "999975426": {
+            "orgId": "999975426",
+            "orgName": "UNIVERSITY OF LEEDS",
+            "ecContrib": 617196
+        },
+        "951707353": {
+            "orgId": "951707353",
+            "orgName": "TEMATYS",
+            "ecContrib": 117500
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 453750
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 589058
+        },
+        "999907235": {
+            "orgId": "999907235",
+            "orgName": "UNIVERSITE PARIS-SUD",
+            "ecContrib": 466562
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 849316
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 303375
+        },
+        "999868629": {
+            "orgId": "999868629",
+            "orgName": "UNIVERSITAET REGENSBURG",
+            "ecContrib": 389402
+        }
+    },
+    "calculatedTotalContribution": 3786159
+}

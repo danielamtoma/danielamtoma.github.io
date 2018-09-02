@@ -1,0 +1,23 @@
+{
+    "rcn": "211182",
+    "acronym": "MAGYCO",
+    "topics": "SMEInst-10-2016-2017",
+    "title": "Mems based Appliance for GYro Compassing in general aviation and unmanned aircraft applications",
+    "startDate": "01/07/2017",
+    "endDate": "31/10/2017",
+    "objective": "In the future the demand for air traffic services will increase and will shift towards more unscheduled operations for air taxi, charter, fractional ownership, and on-demand small low-cost aircraft (A/C). Many players of the aviation community are planning to make significant investments in the specific Communication, Navigation and Surveillance (CNS) systems improvements over the next years, in order to enhance efficiency, safety, capacity and security.\nInertial Systems, core component of CNS systems, are used to measure the attitude of an A/C with respect to local reference frame (heading, pitch, roll angles) and are composed by a set of inertial sensors called gyros and accelerometers. The existing commercial solutions perform aiding through non-inertial sensors, usually magnetometers, which can suffer from external interference that produce non-nominal performance in terms of accuracy. \nFor pitch and roll angles self-initialization can be effectively realized by exploiting accelerometer measurement. Regarding the heading term, it can be estimated by sensing the local horizontal component of Earth Rate using gyros. This self-initialization technique is called ìgyrocompassingî or ìnorthfindingî, since the function of the compass is performed by gyros. Earth Rate is in the order of 15∞/hour. As a consequence, very accurate gyros must be adopted. Recently, the development of miniaturized vibratory gyros, such as Micro Electro Mechanical Sensors (MEMS), allowed to attain a bias instability levels better than 1∞/hour. However, this limit does not ensure that initial heading is determined with accuracy in the range 1∞-0.1∞ (1?). MAGYCO project aims at the development of an innovative aerospace grade Inertial Unit based on miniaturized vibratory gyros with autonomous northfinding capabilities that can be used to improve the overall navigation capabilities of General Aviation (GA) aircraft and Unmanned Aircraft Vehicles (UAV) at affordable costs for the manufacturers.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "GMA GENERALE MECCATRONICA APPLICATA SRL",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "926360671": {
+            "orgId": "926360671",
+            "orgName": "GMA GENERALE MECCATRONICA APPLICATA SRL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

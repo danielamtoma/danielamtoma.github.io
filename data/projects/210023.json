@@ -1,0 +1,28 @@
+{
+    "rcn": "210023",
+    "acronym": "REINVENT",
+    "topics": "ERC-2016-STG",
+    "title": "REsummation-Improved moNtecarlo eVEnt geNeraTor",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2022",
+    "objective": "With the start of the second run of the Large Hadron Collider and the discovery of a particle compatible with the Standard Model Higgs boson, the high-energy particle physics community faces the task to carry out precise measurements of the properties of this new particle, in order to establish its nature. At the same time, it will be equally important to keep looking for the yet elusive signs of New Physics. Both tasks rely on the ability to accurately predict the expected signals and to disentangle them from the known backgrounds. At  hadronic colliders like the LHC, accurate modeling of the strong interactions is crucial to interpret the experimental outcomes.\n\nThe goal of this project is to push forward the frontier of precision QCD for event simulations.  The key idea is to combine the three possible theoretical description (fixed-order perturbative expansion, resummed calculations and parton showers) into the same theoretical framework, in order to benefit from the advantages of each. The innovative approach proposed here improves over past efforts thanks to the inclusion of higher-logarithmic resummation, which bridges the gap between the perturbative description of hard radiation and the shower domain.  This brings together three important advantages: the ability to use the best theoretical  description in each region, the sizable reduction of the theoretical uncertainties gained by replacing the shower evolution with the higher-logarithmic resummation, and the ability to  produce hadron-level events that can be directly interfaced to detector simulations.\n\nBy going beyond the state-of-the-art,  REINVENT will obtain the most precise theoretical predictions for  the LHC in an event generator form that allows for direct comparison to data, producing tools that will be used by both experimentalists and theorists. The technology developed for this  project will also have important applications for precision studies at future lepton colliders.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITAT ZURICH",
+    "participantCountries": "CH",
+    "projectParticipants": {
+        "999923531": {
+            "orgId": "999923531",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+            "ecContrib": 1500000
+        },
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

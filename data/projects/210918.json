@@ -1,0 +1,53 @@
+{
+    "rcn": "210918",
+    "acronym": "TransAID",
+    "topics": "ART-05-2016",
+    "title": "Transition Areas for Infrastructure-Assisted Driving",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "As the introduction of automated vehicles becomes feasible, even in urban areas, it will be necessary to investigate their impacts on traffic safety and efficiency. This is particularly true during the early stages of market introduction, where automated vehicles of all SAE levels, connected vehicles (able to communicate via V2X) and conventional vehicles will share the same roads with varying penetration rates. There will be zones and situations on the roads where high automation can be granted, and others where it is not allowed or not possible due to missing sensor inputs, high complexity situations, etc. In the areas where those zones merge many automated vehicles will change their activated level of automation. Therefore, we refer to these areas as ìTransition Areasî. TransAID will develop and demonstrate traffic management procedures and protocols to enable smooth coexistence of automated, connected and conventional vehicles especially at Transition Areas. A hierarchical approach will be followed where control actions will be implemented at different layers including centralised traffic management, infrastructure and vehicles. First, simulations will be performed to find optimal infrastructure-assisted management solutions to control connected, automated and conventional vehicles at Transition Areas, taking into account traffic safety and efficiency metrics. Then, communication protocols for the cooperation between connected/automated vehicles and the road infrastructure are developed. Measures to detect and inform conventional vehicles will also be addressed. The most promising solutions will be implemented as real world prototypes and demonstrated under real urban conditions. Finally, guidelines for advanced infrastructure-assisted driving will be formulated. The guidelines will also include a roadmap defining activities and needed upgrades of road infrastructure in the upcoming 15 years in order to guarantee a smooth coexistence of conventional, connected and automated vehicles.",
+    "totalCost": "3836353,75",
+    "ecMaxContribution": "3836353,75",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "TRANSPORT & MOBILITY LEUVEN NV;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;HYUNDAI MOTOR EUROPE TECHNICAL CENTER GMBH;DYNNIQ UK LTD;MAP TRAFFIC MANAGEMENT BV;UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE",
+    "participantCountries": "BE;EL;DE;UK;NL;ES",
+    "projectParticipants": {
+        "925957054": {
+            "orgId": "925957054",
+            "orgName": "HYUNDAI MOTOR EUROPE TECHNICAL CENTER GMBH",
+            "ecContrib": 178438
+        },
+        "936827165": {
+            "orgId": "936827165",
+            "orgName": "MAP TRAFFIC MANAGEMENT BV",
+            "ecContrib": 316812
+        },
+        "998616262": {
+            "orgId": "998616262",
+            "orgName": "TRANSPORT & MOBILITY LEUVEN NV",
+            "ecContrib": 530344
+        },
+        "999851363": {
+            "orgId": "999851363",
+            "orgName": "UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE",
+            "ecContrib": 444596
+        },
+        "917608846": {
+            "orgId": "917608846",
+            "orgName": "DYNNIQ UK LTD",
+            "ecContrib": 783438
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 367438
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 1215289
+        }
+    },
+    "calculatedTotalContribution": 3836355
+}

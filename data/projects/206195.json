@@ -1,0 +1,63 @@
+{
+    "rcn": "206195",
+    "acronym": "ULPEC",
+    "topics": "ICT-03-2016",
+    "title": "Ultra-Low Power Event-Based Camera",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "The long term goal of ULPEC is to develop advanced vision applications with ultra-low power requirements and ultra-low latency. \nThe output of the ULPEC project is a demonstrator connecting a neuromorphic event-based camera to a high speed ultra-low power consumption asynchronous visual data processing system (Spiking Neural Network with memristive synapses). Although ULPEC device aims to reach TRL 4, it is a highly application-oriented project:  prospective use cases will be studied and an application roadmap will be developed, by considering interoperability for an integration in ìsystems of systempsî as well as the definition of upper power consumption limits depending on future application. The project consortium therefore includes an industrial end-user (Bosch), which will more particularly investigate autonomous and computer assisted driving. Autonomous and computer assisted driving are indeed a major disruption in the transport and car manufacturing sector. Vision and recognition of traffic event must be computed with very low latency (to improve security) and low power (to accommodate the power limited environment in a car, such as power budget and heat dissipation).\nSubstantial impact on innovation capacity and creation of market opportunities is expected under the ULPEC project: four enterprises (two SMEs) participate to the project. The ULPEC project is an opportunity for European companies such as TSST to increase the competitiveness and increase the global market share in manufacturing tools for complex oxide thin film synthesis. Besides, a compact, low-power vision system based on the technology intended to be developed in this project would generate a distinct competitive advantage over conventional solutions and would clearly boost Chronocamís market potential. ULPEC is also an opportunity for SMEs to develop stronger collaboration with the industrial leaders involved in the project, such as IBM and Bosch.",
+    "totalCost": "4862256,25",
+    "ecMaxContribution": "3876396",
+    "coordinator": "UNIVERSITE DE BORDEAUX",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;CHRONOCAM SAS;ROBERT BOSCH GMBH;IBM RESEARCH GMBH;UNIVERSITEIT TWENTE;Twente solid state technology B.V.;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;SORBONNE UNIVERSITE",
+    "participantCountries": "FR;DE;CH;NL",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "940507636": {
+            "orgId": "940507636",
+            "orgName": "CHRONOCAM SAS",
+            "ecContrib": 798541
+        },
+        "996539589": {
+            "orgId": "996539589",
+            "orgName": "Twente solid state technology B.V.",
+            "ecContrib": 345000
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 423319
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 414081
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 934606
+        },
+        "999900833": {
+            "orgId": "999900833",
+            "orgName": "UNIVERSITEIT TWENTE",
+            "ecContrib": 372500
+        },
+        "949735440": {
+            "orgId": "949735440",
+            "orgName": "UNIVERSITE DE BORDEAUX",
+            "ecContrib": 588349
+        }
+    },
+    "calculatedTotalContribution": 3876396
+}

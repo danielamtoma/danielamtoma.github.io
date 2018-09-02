@@ -1,0 +1,23 @@
+{
+    "rcn": "197335",
+    "acronym": "DuaLL",
+    "topics": "ERC-ADG-2014",
+    "title": "Duality in Formal Languages and Logic - a unifying approach to complexity and semantics",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Dualities between algebraic and topological structure are pervasive in mathematics, and toggling back and forth between them has often been associated with important breakthroughs. The main objective of this project is to bring this important tool to bear on a number of subjects in theoretical computer science thereby advancing, systematising, and unifying them.\n\nOne subject of focus is the search for robust extensions of the theory of regular languages. A powerful technical tool for classifying regular languages and proving decidability results is  Eilenberg-Reiterman theory, which assigns classes of finite monoids or single profinite algebras to classes of languages. Recent results by the PI and her co-authors show that the theory may be seen as a special case of Stone duality for Boolean algebras with operators. We want to:\n- Develop an Eilenberg-Reiterman theory beyond regular languages with the goal of obtaining new tools and separation results for Boolean circuit classes, an active area in the search for lower bounds in complexity theory.\n-Systematise and advance the search for robust generalisations of regularity to other structures such as infinite words, finite and infinite trees, cost functions, and words with data.\n\nThe second subject of focus is the development of duality theoretic methods for logics with categorical semantics. We want to approach the problem incrementally:\n-  View duality for categorical semantics through a spectrum of intermediate cases going from regular languages over varying alphabets, Ghilardi-Zawadowski duality for finitely presented Heyting algebras, and the Bodirsky-Pinsker topological Birkhoff theorem to Makkai's, Awodey and Forssell's, and Coumans' recent work on first-order logic duality, thus unifying topics in semantics and formal languages.\n\nOur main tools come from Stone duality in various forms including the Jonsson-Tarski canonical extensions and profinite algebra, and from universal algebra and category theory.",
+    "totalCost": "2348938",
+    "ecMaxContribution": "2348938",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 2348938
+        }
+    },
+    "calculatedTotalContribution": 2348938
+}

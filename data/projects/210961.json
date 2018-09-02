@@ -1,0 +1,23 @@
+{
+    "rcn": "210961",
+    "acronym": "NoiseRobustEvo",
+    "topics": "ERC-2016-ADG",
+    "title": "Noise and robustness in the evolution of novel protein phenotypes",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Living cells are constantly barraged by perturbations that originate within themselves. Especially abundant ñ far more than DNA mutations ñ are two kinds of such perturbations. The first is gene expression noise, pervasive stochastic variation of transcript and protein levels. The second is mistranslation noise, the misincorporation of amino acids by ribosomes during protein synthesis. Organisms and protein molecules can evolve robustness ñ the persistence of well-adapted phenotypes ñ to both kinds of noise. Theory predicts that noise and robustness can affect the adaptive evolution of new proteins, but we do not know whether they help or hinder adaptive evolution. We hypothesize that noise and robustness can accelerate protein evolution both separately and jointly. To validate this hypothesis, we will evolve light-emitting fluorescent proteins towards new color phenotypes via directed laboratory evolution in E.coli. During evolution, we will manipulate expression noise by driving FP expression from noisy or quiet promoters, and we will manipulate mistranslation via host strains with low and high mistranslation rates. We will manipulate protein robustness in three biologically important ways, chaperone overexpression, gene duplication, and stabilizing selection. We will study how fast FPs evolve new colors, and analyze protein evolutionary dynamics through a combination of high-throughput sequencing, engineering of selected adaptive mutations, and data-driven modeling. Our project will show how a ubiquitous but poorly understood source of phenotypic variation affects protein innovation. It will also help engineers discover new protein functions. Moreover, our work will help establish FPs as a major platform to study protein evolutionary dynamics. By revealing noise as a new and crucial factor in protein evolution, our observations have the potential to revolutionize molecular evolution research, much like earlier studies of noise have revolutionized cell biology.",
+    "totalCost": "2383444",
+    "ecMaxContribution": "2383444",
+    "coordinator": "UNIVERSITAT ZURICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 2383444
+        }
+    },
+    "calculatedTotalContribution": 2383444
+}

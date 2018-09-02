@@ -1,0 +1,68 @@
+{
+    "rcn": "194192",
+    "acronym": "TraMOOC",
+    "topics": "ICT-17-2014",
+    "title": "Translation for Massive Open Online Courses",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "Massive Open Online Courses have been growing rapidly in size and impact. Yet the language barrier constitutes a major growth impediment in reaching out to all peoples and educating all citizens. TraMOOC aims at tackling this impediment by developing high-quality translation of all types of text genre included in MOOCs (e.g. assignments, tests, presentations, lecture subtitles, blog text) from English into eleven European and BRIC languages (DE, IT, PT, EL, DU, CS, BG, CR, PL, RU, ZH) that constitute strong use cases, are hard to translate into and have weak MT support, thus complying with the call objectives. Phrase-based and syntax-based statistical machine translation models will be developed for addressing language diversity and supporting the language-independent nature of the methodology. For a high quality, automatic translation approach and for adding value to existing infrastructure, extensive advanced bootstrapping of new resources will be performed. An innovative multi-modal automatic and human evaluation schema will further ensure translation quality. For human evaluation, an innovative, strict-access control, time- and cost-efficient crowdsourcing setup will be used. Translation experts, domain experts and end users will also be involved.  Separate task mining applications will be employed for implicit translation evaluation: (i) topic detection will be applied to source and translated texts and the resulting entity lists will be compared, leading to further qualitative and quantitative translation evaluation results; (ii) sentiment analysis performed on MOOC usersí blog posts will reveal end user opinion/evaluation regarding translation quality. Results will be combined into a feedback vector and used to refine parallel data and retrain translation models towards a more accurate second-phase translation output. The project results will be showcased and tested on the Iversity MOOC platform and on the VideoLectures.NET digital video lecture library.",
+    "totalCost": "3270710",
+    "ecMaxContribution": "3081147,5",
+    "coordinator": "HUMBOLDT-UNIVERSITAET ZU BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "DUBLIN CITY UNIVERSITY;STICHTING KATHOLIEKE UNIVERSITEIT;DELUXE MEDIA EUROPE LTD;EASN Technology Innovation Services BVBA;KNOWLEDGE 4 ALL FOUNDATION LBG;STICHTING KATHOLIEKE UNIVERSITEIT BRABANT;IONIAN UNIVERSITY;IVERSITY GMBH;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "IE;NL;UK;BE;EL;DE",
+    "projectParticipants": {
+        "999850781": {
+            "orgId": "999850781",
+            "orgName": "HUMBOLDT-UNIVERSITAET ZU BERLIN",
+            "ecContrib": 627190
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 463310
+        },
+        "999992110": {
+            "orgId": "999992110",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT",
+            "ecContrib": 319550
+        },
+        "984454068": {
+            "orgId": "984454068",
+            "orgName": "EASN Technology Innovation Services BVBA",
+            "ecContrib": 42000
+        },
+        "951543229": {
+            "orgId": "951543229",
+            "orgName": "IVERSITY GMBH",
+            "ecContrib": 165375
+        },
+        "999892588": {
+            "orgId": "999892588",
+            "orgName": "DUBLIN CITY UNIVERSITY",
+            "ecContrib": 434815
+        },
+        "969032426": {
+            "orgId": "969032426",
+            "orgName": "KNOWLEDGE 4 ALL FOUNDATION LBG",
+            "ecContrib": 231250
+        },
+        "998243394": {
+            "orgId": "998243394",
+            "orgName": "IONIAN UNIVERSITY",
+            "ecContrib": 418190
+        },
+        "999899475": {
+            "orgId": "999899475",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT BRABANT",
+            "ecContrib": 144530
+        },
+        "949957182": {
+            "orgId": "949957182",
+            "orgName": "DELUXE MEDIA EUROPE LTD",
+            "ecContrib": 234938
+        }
+    },
+    "calculatedTotalContribution": 3081148
+}

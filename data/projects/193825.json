@@ -1,0 +1,58 @@
+{
+    "rcn": "193825",
+    "acronym": "GALENA",
+    "topics": "GALILEO-2-2014",
+    "title": "Galileo-based solutions for urban freight transport",
+    "startDate": "01/01/2015",
+    "endDate": "31/03/2017",
+    "objective": "Urban Freight Transport action relates to find solutions to better manage and monitor freight transport flows and ensure efficient last-mile delivery, while maximizing the economic efficiency of urban distribution, and minimizing the environmental and social impacts. GALENA develops the hardware equipment as well as the information system and the supervision platform needed for the cross supply chain orchestration of a community of shippers involved in urban freight pooling particularly for the last-mile delivery. GALENA relies on the development of a robust and GNSS-based liability binding application, enabling the different carrier operators to join a Mutualized Transportation Community to timestamp, geo-locate and formalize (as a real authentication) their trip as well as any events occurring during the shipping. An innovative, accurate and affordable hybrid system (Galileo/RTLS) will be developed for this purpose ensuring a seamless, robust and continuous handover indoor/outdoor localization and continuous, real-time, reliable, accurate and available Position, Velocity and Time (PVT) of carriers and high value parcels. An already existing logistics information systems will be adapted to exchange and store shipment authenticated data between all stakeholders, ensuring the traceability of goods, management of status changes while drawing up an objective review of the sharing of added value between the various stakeholders of a shared supply chain. A web service application will be set up for continuously supervising transactions and support to the orchestration decision making process. A truly interdisciplinary collaboration between GNSS, wireless sensors, logistics information systems, urban logistics and freight transport experts is set up to meet the objectives. The consortium gathers 8 EU partners committed within 2-year project to disseminate results towards potential customers and confirm the conditions for a successful larger scale deployment.",
+    "totalCost": "1267238,75",
+    "ecMaxContribution": "954932,75",
+    "coordinator": "TRI-VIZOR NV",
+    "coordinatorCountry": "BE",
+    "participants": "CYBERENS TECHNOLOGIES AND SERVICES;IIDRE;ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON;INSTYTUT GEODEZJI I KARTOGRAFII;HELILEO SA;NEBUSENS, S.L.;MARSEILLE GYPTIS INTERNATIONAL",
+    "participantCountries": "FR;EL;PL;ES",
+    "projectParticipants": {
+        "986372825": {
+            "orgId": "986372825",
+            "orgName": "MARSEILLE GYPTIS INTERNATIONAL",
+            "ecContrib": 60375
+        },
+        "972457011": {
+            "orgId": "972457011",
+            "orgName": "TRI-VIZOR NV",
+            "ecContrib": 141172
+        },
+        "941885618": {
+            "orgId": "941885618",
+            "orgName": "CYBERENS TECHNOLOGIES AND SERVICES",
+            "ecContrib": 84612
+        },
+        "951695228": {
+            "orgId": "951695228",
+            "orgName": "NEBUSENS, S.L.",
+            "ecContrib": 55781
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 98125
+        },
+        "951638871": {
+            "orgId": "951638871",
+            "orgName": "IIDRE",
+            "ecContrib": 105262
+        },
+        "960360335": {
+            "orgId": "960360335",
+            "orgName": "HELILEO SA",
+            "ecContrib": 281510
+        },
+        "999503424": {
+            "orgId": "999503424",
+            "orgName": "INSTYTUT GEODEZJI I KARTOGRAFII",
+            "ecContrib": 128094
+        }
+    },
+    "calculatedTotalContribution": 954931
+}

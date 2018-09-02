@@ -1,0 +1,53 @@
+{
+    "rcn": "193483",
+    "acronym": "HESPERIA",
+    "topics": "PROTEC-1-2014",
+    "title": "High Energy Solar Particle Events foRecastIng and Analysis",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2017",
+    "objective": "HESPERIA will produce two novel operational forecasting tools based upon proven concepts (UMASEP, REleASE). At the same time it will advance our understanding of the physical mechanisms that result into high-energy solar particle events (SEPs) exploiting novel datasets (FERMI/LAT/GBM; PAMELA; AMS) and it will explore the possibility to incorporate the derived results into future innovative space weather services. \nIn order to achieve these goals HESPERIA will exploit already available large datasets stored into databases such as the neutron monitor database (NMDB) and SEPServer that have been developed under FP7 projects from 2008 to 2013.\nThe objectives of HESPERIA are:\n1) To develop two novel SEP forecasting systems based upon proven concepts.\n2) To develop SEP forecasting tools searching for electromagnetic proxies of the gamma-ray emission in order to predict large SEP events.\n3) To perform systematic exploitation of the novel high-energy gamma-ray observations of the FERMI mission together with in situ SEP measurements near 1 AU.\n4) To provide for the first time publicly available software to invert neutron monitor observations of relativistic SEPs to physical parameters that can be compared with the space-borne measurements at lower energies.\n5) To perform examination of currently unexploited tools (radio emission).\n6) To design recommendations for future SEP forecasting systems.\nThe results will be openly accessible to the public through the dedicated web interface of HESPERIA and will further be posted in related servers such as NMDB and SEPServer. The HESPERIA consortium consists of 9 partners with complementary expertise covering all aspects of the project.  HESPERIA will also collaborate with a number of institutes and individuals from US and Russia, ensuring both the in depth analysis of the novel datasets to be utilized within the project and the efficient dissemination of the results to the whole space physics/space weather community.",
+    "totalCost": "1208956,25",
+    "ecMaxContribution": "1101456,25",
+    "coordinator": "NATIONAL OBSERVATORY OF ATHENS",
+    "coordinatorCountry": "EL",
+    "participants": "UNIVERSITAET BERN;CHRISTIAN-ALBRECHTS-UNIVERSITAET  ZU KIEL;UNIVERSITAT DE BARCELONA;UNIVERSIDAD DE MALAGA;INSTITUT ROYAL D'AERONOMIE SPATIALEDE BELGIQUE;ISNET;OBSERVATOIRE DE PARIS;TURUN YLIOPISTO",
+    "participantCountries": "CH;DE;ES;BE;EL;FR;FI",
+    "projectParticipants": {
+        "999839529": {
+            "orgId": "999839529",
+            "orgName": "CHRISTIAN-ALBRECHTS-UNIVERSITAET  ZU KIEL",
+            "ecContrib": 148169
+        },
+        "999898311": {
+            "orgId": "999898311",
+            "orgName": "UNIVERSIDAD DE MALAGA",
+            "ecContrib": 132500
+        },
+        "946911285": {
+            "orgId": "946911285",
+            "orgName": "ISNET",
+            "ecContrib": 115000
+        },
+        "999653677": {
+            "orgId": "999653677",
+            "orgName": "NATIONAL OBSERVATORY OF ATHENS",
+            "ecContrib": 215625
+        },
+        "999986387": {
+            "orgId": "999986387",
+            "orgName": "UNIVERSITAT DE BARCELONA",
+            "ecContrib": 126249
+        },
+        "999623122": {
+            "orgId": "999623122",
+            "orgName": "OBSERVATOIRE DE PARIS",
+            "ecContrib": 156250
+        },
+        "999903064": {
+            "orgId": "999903064",
+            "orgName": "TURUN YLIOPISTO",
+            "ecContrib": 145164
+        }
+    },
+    "calculatedTotalContribution": 1038957
+}

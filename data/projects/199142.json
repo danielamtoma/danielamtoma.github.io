@@ -1,0 +1,58 @@
+{
+    "rcn": "199142",
+    "acronym": "HPC4E",
+    "topics": "EUB-2-2015",
+    "title": "HPC for Energy",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2017",
+    "objective": "This project aims to apply the new exascale HPC techniques to energy industry simulations, customizing them, and going beyond the state-of-the-art in the required HPC exascale simulations for different energy sources: wind energy production and design, efficient combustion systems for biomass-derived fuels (biogas), and exploration geophysics for hydrocarbon reservoirs.\nFor wind energy industry HPC is a must. The competitiveness of wind farms can be guaranteed only with accurate wind resource assessment, farm design and short-term micro-scale wind simulations to forecast the daily power production. The use of CFD LES models to analyse atmospheric flow in a wind farm capturing turbine wakes and array effects requires exascale HPC systems. \nBiogas, i.e. biomass-derived fuels by anaerobic digestion of organic wastes, is attractive because of its wide availability, renewability and reduction of CO2 emissions, contribution to diversification of energy supply, rural development, and it does not compete with feed and food feedstock. However, its use in practical systems is still limited since the complex fuel composition might lead to unpredictable combustion performance and instabilities in industrial combustors. The next generation of exascale HPC systems will be able to run combustion simulations in parameter regimes relevant to industrial applications using alternative fuels, which is required to design efficient furnaces, engines, clean burning vehicles and power plants. \nOne of the main HPC consumers is the oil & gas (O&G) industry. The computational requirements arising from full wave-form modelling and inversion of seismic and electromagnetic data is ensuring that the O&G industry will be an early adopter of exascale computing technologies. By taking into account the complete physics of waves in the subsurface, imaging tools are able to reveal information about the Earthís interior with unprecedented quality.",
+    "totalCost": "1998176,25",
+    "ecMaxContribution": "1998176,25",
+    "coordinator": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;TOTAL S.A.;CENTRO DE INVESTIGACIONES ENERGETICAS, MEDIOAMBIENTALES Y TECNOLOGICAS-CIEMAT;REPSOL;IBERDROLA RENOVABLES ENERGIA SA;LANCASTER UNIVERSITY;QUEEN MARY UNIVERSITY OF LONDON",
+    "participantCountries": "FR;ES;UK",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 493562
+        },
+        "953093774": {
+            "orgId": "953093774",
+            "orgName": "IBERDROLA RENOVABLES ENERGIA SA",
+            "ecContrib": 198600
+        },
+        "999768913": {
+            "orgId": "999768913",
+            "orgName": "REPSOL SA",
+            "ecContrib": 0
+        },
+        "999614877": {
+            "orgId": "999614877",
+            "orgName": "CENTRO DE INVESTIGACIONES ENERGETICAS, MEDIOAMBIENTALES Y TECNOLOGICAS-CIEMAT",
+            "ecContrib": 246800
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 449479
+        },
+        "999840984": {
+            "orgId": "999840984",
+            "orgName": "LANCASTER UNIVERSITY",
+            "ecContrib": 77323
+        },
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 137787
+        },
+        "997172126": {
+            "orgId": "997172126",
+            "orgName": "TOTAL S.A.",
+            "ecContrib": 199312
+        }
+    },
+    "calculatedTotalContribution": 1802863
+}

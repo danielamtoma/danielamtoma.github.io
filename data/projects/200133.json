@@ -1,0 +1,38 @@
+{
+    "rcn": "200133",
+    "acronym": "AGENT",
+    "topics": "Sesar-01-2015",
+    "title": "Adaptive self-Governed aerial Ecosystem by Negotiated Traffic",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2018",
+    "objective": "Present traffic alert and collision avoidance system, TCAS II, was designed to operate in traffic densities of up to 0.3 aircraft per square nautical mile (NM), providing an excellent performance in pairwise encounters but with some shortages due to induced collision scenarios that could emerge in certain surrounding traffic scenarios. Therefore, this project proposal seeks to implement a new framework extending the functionalities of TCAS to act at pre?operational (i.e. tactical) and at operational level as a robust collision avoidance system for different context scenarios in which human behaviour and automatism interdependencies will be considered with realistic aircraft performances.\nThe project proposes the development of an Adaptive self-Governed aerial Ecosystem by Negotiated Traffic that provides mechanisms and tools for induced collision avoidance while dynamically creating virtual Ecosystems of aircrafts as soon as a conflict is forecasted (considering uncertainties) providing different negotiation based resolutions both at the conflict resolution and collision avoidance levels accounting for safety, security, capacity and cost-efficiency aspects. \nBased on machine-to-machine communication, this approach will prevent from TCAS failure scenarios due to multithread and induced collisions by a dynamic state space analysis and monitoring of surrounding traffic enhancing the TCAS range",
+    "totalCost": "598750",
+    "ecMaxContribution": "598750",
+    "coordinator": "UNIVERSITAT AUTONOMA DE BARCELONA",
+    "coordinatorCountry": "ES",
+    "participants": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;ASLOGIC 2011, S.L.;CRANFIELD UNIVERSITY",
+    "participantCountries": "DE;ES;UK",
+    "projectParticipants": {
+        "999986484": {
+            "orgId": "999986484",
+            "orgName": "UNIVERSITAT AUTONOMA DE BARCELONA",
+            "ecContrib": 183750
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 135000
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 146250
+        },
+        "937648755": {
+            "orgId": "937648755",
+            "orgName": "ASLOGIC 2011, S.L.",
+            "ecContrib": 133750
+        }
+    },
+    "calculatedTotalContribution": 598750
+}

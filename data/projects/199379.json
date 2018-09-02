@@ -1,0 +1,23 @@
+{
+    "rcn": "199379",
+    "acronym": "TENSORNETSIM",
+    "topics": "ERC-StG-2015",
+    "title": "Accurate simulations of strongly correlated systems with tensor network methods",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "This project aims to achieve ground-breaking advances in the biggest challenge in computational condensed matter physics: the accurate simulation of strongly correlated systems (SCS), which give rise to fascinating phenomena such as high-Tc superconductivity (HTSC), quantum spin liquids with topological order, and other exotic phases of matter. While for one-dimensional (1D) systems tremendous progress has been made thanks to the famous density-matrix renormalization group (DMRG) method, in higher dimensions accurate methods have been lacking for many years. Recently, I achieved several major breakthroughs with tensor network methods, which can be seen as an extension of DMRG to higher dimensions. I was able to show that these methods outperform previous state-of-the-art approaches for several challenging models, making it clear that these methods will play a pivotal role in understanding SCS in 2D, in the same way as DMRG has revolutionized the study of 1D systems.\n\nThe goal of this project is to build upon these breakthroughs and to develop the next generation of tensor network methods to simulate relevant open problems in SCS with an unprecedented accuracy, in order to make substantial progress in understanding the physics of these systems. \n\nMilestones of this project include:\n- Development and improvement of 2D tensor network methods for finite temperature simulations, the computation of excitation spectra, and the classification of topological states, and pioneering work with tensor networks for 3D systems.\n- Accurate simulation of the 2D Hubbard model to answer the longstanding question if it captures the essential features of HTSC. \n- Study of extended Hubbard models to understand which ingredients are really essential for HTSC.\n- Prediction of novel phases of matter in SU(N) systems, relevant for experiments on ultra-cold atoms in optical lattices. \n- Cutting-edge simulations for the quantitative understanding of 2D and 3D frustrated materials.",
+    "totalCost": "1499909",
+    "ecMaxContribution": "1499909",
+    "coordinator": "UNIVERSITEIT VAN AMSTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 1499909
+        }
+    },
+    "calculatedTotalContribution": 1499909
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "194276",
+    "acronym": "SANSA",
+    "topics": "ICT-06-2014",
+    "title": "Shared Access Terrestrial-Satellite Backhaul Network enabled by Smart Antennas",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "The aim of SANSA project is to boost the performance of mobile wireless backhaul networks in terms of capacity and resilience while assuring an efficient use of the spectrum. Recently, a global mobile traffic increase of 11-fold between 2013 and 2018 was predicted, so novel solutions are required to avoid backhaul becoming the bottle neck of future mobile networks.  The solution envisaged in SANSA is a spectrum efficient self-reconfigurable hybrid terrestrial-satellite backhaul network based on three key principles: (i) a seamless integration of the satellite segment into terrestrial backhaul networks; (ii) a terrestrial wireless network capable of reconfiguring its topology according to traffic demands; (iii) a shared spectrum between satellite and terrestrial segments. This combination will result in a flexible solution capable of efficiently routing the mobile traffic in terms of capacity and energy efficiency, while providing resilience against link failures or congestion and easy deployment in rural areas. Therefore, we will develop novel smart antennas, dynamic radio resource management and data-based shared access techniques for enabling the spectrum sharing among both segments, as well as efficient management and routing solutions for the hybrid network. These studies will yield to the implementation and demonstration of the two key components proof of concepts:  (i) low-cost smart antennas (to be deployed in terrestrial nodes) with beam and null-steering capabilities for interference mitigation between satellite and terrestrial transceivers and network topology reconfiguration; (ii) hybrid network manager capable of controlling the resources of the hybrid network. Besides indirectly allowing the traffic increase to the mobile users, the SANSA project will set the path for a win-win collaboration between satellite and terrestrial operators that will strengthen both European sectors and also their related industries such as equipment manufacturers.",
+    "totalCost": "3557680",
+    "ecMaxContribution": "2983930",
+    "coordinator": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES;HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE);UNIVERSITE DU LUXEMBOURG;VIASAT ANTENNA SYSTEMS SA;AVANTI COMMUNICATIONS LTD;THALES ALENIA SPACE ESPANA, SA",
+    "participantCountries": "DE;EL;LU;CH;UK;ES",
+    "projectParticipants": {
+        "999582382": {
+            "orgId": "999582382",
+            "orgName": "RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES",
+            "ecContrib": 385000
+        },
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 550335
+        },
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 543875
+        },
+        "989367991": {
+            "orgId": "989367991",
+            "orgName": "AVANTI COMMUNICATIONS LTD",
+            "ecContrib": 440000
+        },
+        "999792581": {
+            "orgId": "999792581",
+            "orgName": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+            "ecContrib": 200338
+        },
+        "996390985": {
+            "orgId": "996390985",
+            "orgName": "VIASAT ANTENNA SYSTEMS SA",
+            "ecContrib": 0
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 484002
+        },
+        "999701595": {
+            "orgId": "999701595",
+            "orgName": "THALES ALENIA SPACE ESPANA, SA",
+            "ecContrib": 380380
+        }
+    },
+    "calculatedTotalContribution": 2983930
+}

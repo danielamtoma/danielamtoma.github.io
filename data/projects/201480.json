@@ -1,0 +1,23 @@
+{
+    "rcn": "201480",
+    "acronym": "FasTER",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Development of Fast Timing tools for Event Reconstruction at the high luminosity frontier",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2018",
+    "objective": "High luminosities at future particles colliders, such as the High Luminosity Large Hadron Collider (HL-LHC), will come at the price of a dramatic increase in the number of concurrent interactions of beam particles (referred to as pileup) per crossing in the experiments, implying serious challenges to the reconstruction of events. Due to the spread of the proton bunches along the beamline, collisions vertices at the HL-LHC are spread out over about 5 cm along the beam direction and about 160 ps in time. At the vertex densities foreseen at the HL-LHC, some vertices and the associated particles are so close to be merged by the track reconstruction forming fake jets of high transverse momentum. Moreover, the random overlap of energy deposits from neutral particles (mainly photons), that cannot be tied via a track to any vertex, will deteriorate the calorimeter performance in terms of energy measurement and particle identification, as particles appear to be less isolated. A promising tool advocated to mitigate the effects of pileup consists in complementing the high transverse (spatial) granularity of the detectors with extreme time resolution (of the order of 10 ps), that would allow energy deposits coming from different interaction vertices to be resolved in time.\nThe goal of this project is the definition of a viable way to exploit precision timing in event reconstruction at HL-LHC and integrate and/or complement the calorimeter system of the Compact Muon Solenoid (CMS) with ultimate timing capabilities. The project will address both software aspects, with the development of innovative and dedicated algorithms for event reconstruction in 5 dimensions (space-time and energy), and hardware aspects, with the study of microchannel plates as candidate sensitive detector for a dedicated fast timing layer, eventually embedded in a preshower, to assist the calorimeters in single particle and photon timing.",
+    "totalCost": "180277,2",
+    "ecMaxContribution": "180277,2",
+    "coordinator": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999923531": {
+            "orgId": "999923531",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+            "ecContrib": 180277
+        }
+    },
+    "calculatedTotalContribution": 180277
+}

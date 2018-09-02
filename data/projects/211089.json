@@ -1,0 +1,48 @@
+{
+    "rcn": "211089",
+    "acronym": "Content4All",
+    "topics": "ICT-19-2017",
+    "title": "Personalised Content Creation for the Deaf Community in a Connected Digital Single Market",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "Improving the accessibility of content for the Deaf community is an important goal for both EU governments and broadcast industry regulators. Although legislation is being used to coerce content producers and broadcasters to do so, the cost of producing sign-language content and the negative impact of having a sign-interpreter appearing on the content for hearing individuals has relegated sign-language programming to late nights or a small number of sign-presented programs. A low-cost solution for personalized sign-interpreted content creation can address both of these problems, leading to greater accessibility to media content for Deaf users. \n\nCONTENT4ALL proposes such a solution to the problem in the short-term, which is also commericalizable, and proposes innovations to technologies that can lead to automated sign-translation capabilities in long-term. To this end, it builds upon the technologies demonstrated by the consortium partners in previous EU projects. \n\nAs a first development a remote signing apparatus (located off-premises of the broadcaster) will be produced to capture a human sign-interpreterís signs, pose and facial expressions and to parameterize this information. Then, it will be rendered photo-realistically as a 3D representation of the human sign-interpreter at the broadcaster for production of the personalized stream for Deaf users. \nWhile this solution can be used commercially, resulting datasets will provide a vast source of information for learning how to parameterize sign information for translation purposes. \n\nThe second development of CONTENT4ALL will focus on advancing the algorithms/models used to do so, with the intent to create an open dataset for further research into automated signing. \n\nFinally, CONTENT4ALL will demonstrate automated sign-translation applied to a real-world TV broadcasting scenario, which is envisaged to lead to new approaches and innovations in the area in the long-run.",
+    "totalCost": "4173127,5",
+    "ecMaxContribution": "3499856,63",
+    "coordinator": "FINCONS GROUP AG",
+    "coordinatorCountry": "CH",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;DE VLAAMSE RADIO EN TELEVISIEOMROEPORGANISATIE NV;HFC HUMAN-FACTORS-CONSULT GMBH;UNIVERSITY OF SURREY;SWISS TXT AG",
+    "participantCountries": "DE;BE;UK;CH",
+    "projectParticipants": {
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 983750
+        },
+        "955578429": {
+            "orgId": "955578429",
+            "orgName": "SWISS TXT AG",
+            "ecContrib": 574788
+        },
+        "947956072": {
+            "orgId": "947956072",
+            "orgName": "FINCONS GROUP AG",
+            "ecContrib": 659312
+        },
+        "996432016": {
+            "orgId": "996432016",
+            "orgName": "DE VLAAMSE RADIO EN TELEVISIEOMROEPORGANISATIE NV",
+            "ecContrib": 336629
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 651378
+        },
+        "998506749": {
+            "orgId": "998506749",
+            "orgName": "HFC HUMAN-FACTORS-CONSULT GMBH",
+            "ecContrib": 294000
+        }
+    },
+    "calculatedTotalContribution": 3499857
+}

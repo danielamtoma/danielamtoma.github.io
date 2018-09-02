@@ -1,0 +1,63 @@
+{
+    "rcn": "194136",
+    "acronym": "CLARUS",
+    "topics": "ICT-07-2014",
+    "title": "A FRAMEWORK FOR USER CENTRED PRIVACY AND SECURITY IN THE CLOUD",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Although cloud computing offers many benefits, security issues such as confidentiality and privacy are still major concerns to those intending to migrate to the cloud. Traditional cloud security has been based on assurance to customers that cloud providers follow sound security practices. As a result, current security mechanisms are commonly located within the cloud platform, hence compelling customers to trust cloud providers. However, customers might be reluctant to outsource sensitive data due to lack of control over data storage and management. To reach its full potential, cloud computing needs solid security mechanisms that enhance trust in cloud computing by allowing cloud customers to have a greater control over the security and privacy of their data. Moreover, it is also necessary to consider countermeasures to ensure that vulnerabilities or attacks do not have a negative impact on cloud security and that applications continue to operate and provide a good level of service even during an attack.\n\nThe main objective of CLARUS is to enhance trust in cloud computing services by developing a secure framework for the storage and processing of data outsourced to the cloud that allows end users to monitor, audit and retain control of the stored data without impairing the functionality and cost-saving benefits of cloud services. The CLARUS solution will provide the end user with a dedicated proxy located in a trusted domain implementing security and privacy features towards the cloud provider. The proxy is intended to be deployed within the client computer, in a server within the userís domain, in an edge device (e.g. a router), or in any other location trusted by the user. CLARUS will also provide a set of security auditing services enabling the user to supervise the security operations performed by the CLARUS framework as well as other trust-enhancing features.",
+    "totalCost": "4193548",
+    "ecMaxContribution": "4193548",
+    "coordinator": "UNIVERSITAT ROVIRA I VIRGILI",
+    "coordinatorCountry": "ES",
+    "participants": "AKKA INFORMATIQUE ET SYSTEMES;THALES SERVICES SAS;MONTIMAGE EURL;OFFIS EV;FUNDACIO CLINIC PER A LA RECERCA BIOMEDICA;TRUST-IT SERVICES LIMITED;EURECOM;KATHOLIEKE UNIVERSITEIT LEUVEN;ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",
+    "participantCountries": "FR;DE;ES;UK;BE",
+    "projectParticipants": {
+        "999687724": {
+            "orgId": "999687724",
+            "orgName": "TRUST-IT SERVICES LIMITED",
+            "ecContrib": 309062
+        },
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 480946
+        },
+        "985944279": {
+            "orgId": "985944279",
+            "orgName": "AKKA INFORMATIQUE ET SYSTEMES",
+            "ecContrib": 601562
+        },
+        "999880560": {
+            "orgId": "999880560",
+            "orgName": "UNIVERSITAT ROVIRA I VIRGILI",
+            "ecContrib": 603751
+        },
+        "999594313": {
+            "orgId": "999594313",
+            "orgName": "OFFIS EV",
+            "ecContrib": 395312
+        },
+        "999861451": {
+            "orgId": "999861451",
+            "orgName": "ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",
+            "ecContrib": 316969
+        },
+        "999716242": {
+            "orgId": "999716242",
+            "orgName": "MONTIMAGE EURL",
+            "ecContrib": 535250
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 288250
+        },
+        "999744469": {
+            "orgId": "999744469",
+            "orgName": "THALES SERVICES SAS",
+            "ecContrib": 542758
+        }
+    },
+    "calculatedTotalContribution": 4073860
+}

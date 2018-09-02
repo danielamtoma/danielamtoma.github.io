@@ -1,0 +1,73 @@
+{
+    "rcn": "205539",
+    "acronym": "SPOTLIGHT",
+    "topics": "MSCA-ITN-2016",
+    "title": "Single Point Of aTtachment communications empowered by cLoud computing and bIG data analytics running on-top of massively distributed and loosely-coupled Heterogeneous mobile data neTworks",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "To handle the unprecedented demand for mobile data traffic, different vendors, operators and research programmes have aimed to develop radio access technologies (RATs) that boost physical-layer link capacity, utilize millimeter wave radio, or further densify network topology. Notable steps have also been made towards shifting baseband processing from the (currently) ultra dense network edge to a central location where coordinated resource management will be performed. Nonetheless, the todayís mobile network ecosystem includes vastly heterogeneous, evidently overlapping (in coverage) and fully isolated (in operation) attachment points that still handle most of the functions necessary for mobile data communications independently. Aiming to meet and surpass the requirements set for the 5G-and-Beyond mobile data network, in SPOTLIGHT we will create a fully-integrated and multi-disciplinary network of Early Stage Researchers (ESRs) that will analyze, design, and optimize the performance of a disruptive new mobile network architecture: the SPOTLIGHT architecture. This architecture promises to break performance limitations present to the currently loosely inter-connected, resource-fragmented and isolated in operation mobile network ecosystem, by transforming the currently loosely-coupled multitude of heterogeneous and multi-layered RATs to a flat coalition of massively distributed antenna sub-systems that are optimally orchestrated by a cloud-empowered network core. Our primary aim will be to support for the first time self-including yet ultra-reliable radio communications at the edge network. To further reduce response time and enhance network resilience, all functions necessary for mobile communications will be subject of i) massive parallelization in cloud platforms at the network core and ii) big data analysis running on-top of a virtual pool of shared energy, radio, computing and storage resources at the network.",
+    "totalCost": "3813484,32",
+    "ecMaxContribution": "3813484,32",
+    "coordinator": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+    "coordinatorCountry": "EL",
+    "participants": "FUNDACIO PER A LA UNIVERSITAT OBERTA DE CATALUNYA;MTN CYPRUS LIMITED;NESSOS AE OLOKLIROMENON LISEON KAI SISTIMATON PLIROFORIKIS;UNIVERSITY OF YORK;ERICSSON AB;NEC LABORATORIES EUROPE GMBH;POLITECNICO DI MILANO;EURECOM;NEC EUROPE LTD;IQUADRAT INFORMATICA SL",
+    "participantCountries": "ES;CY;EL;UK;SE;DE;IT;FR",
+    "projectParticipants": {
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 525751
+        },
+        "947239533": {
+            "orgId": "947239533",
+            "orgName": "NESSOS AE OLOKLIROMENON LISEON KAI SISTIMATON PLIROFORIKIS",
+            "ecContrib": 242387
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 484774
+        },
+        "999813921": {
+            "orgId": "999813921",
+            "orgName": "MTN CYPRUS LIMITED",
+            "ecContrib": 241379
+        },
+        "996237822": {
+            "orgId": "996237822",
+            "orgName": "IQUADRAT INFORMATICA SL",
+            "ecContrib": 247873
+        },
+        "999910921": {
+            "orgId": "999910921",
+            "orgName": "ERICSSON AB",
+            "ecContrib": 263659
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 516123
+        },
+        "910561893": {
+            "orgId": "910561893",
+            "orgName": "NEC LABORATORIES EUROPE GMBH",
+            "ecContrib": 249216
+        },
+        "999978336": {
+            "orgId": "999978336",
+            "orgName": "UNIVERSITY OF YORK",
+            "ecContrib": 546576
+        },
+        "995992024": {
+            "orgId": "995992024",
+            "orgName": "FUNDACIO PER A LA UNIVERSITAT OBERTA DE CATALUNYA",
+            "ecContrib": 495746
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3813484
+}

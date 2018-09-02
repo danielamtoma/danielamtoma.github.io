@@ -1,0 +1,63 @@
+{
+    "rcn": "198385",
+    "acronym": "ReCaM",
+    "topics": "FoF-11-2015",
+    "title": "Rapid Reconfiguration of Flexible Production Systems through Capability-based Adaptation, Auto-configuration and Integrated tools for Production Planning",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2018",
+    "objective": "The requirements on production systems are continuously being shifted towards higher flexibility and adaptability. The ReCaM-project will demonstrate at TRL 7 a set of integrated tools for the rapid and autonomous reconfiguration of agile production systems, both at operational as well as managerial levels, integrated with the existing production planning and scheduling tools (MES). This approach is based on intelligent plug-and-produce capable self-describing mechatronic objects, which are able to auto-program and self-adjust to the required task by utilizing parametric capabilities. These next generation flexible production systems and the proposed set of enabling ICT tools will allow a rapid and cost-efficient reaction to dynamic market changes, also in small-lot production contexts, reducing the efforts needed to switch between product types and production quantities. ReCaM-solutions are expected to allow increasing the amount of variants and decreasing the lot sizes by 50% in an economically feasible way. Also, at least 30% reduction in set-up and changeover times and costs are expected. The integrated planning tool will take into consideration the energy consumption of the specific resources and try to minimize it by smart production scheduling, utilization of integrated operating-point switching of mechatronic objects, and reconfiguration. Thus, at least 5% reduction in energy consumption is anticipated. The project will ground on existing de-facto standards and specifications regarding reconfigurable system architectures, resource data models, control architectures and interfaces, and will provide and supplement new specifications for the missing aspects. The ReCaM consortium sees strong involvement of SMEís to RTD and demonstration activities and two end-users from major EU sectors, thus enabling proper exploitation of the demonstrated results worldwide.",
+    "totalCost": "6804728,75",
+    "ecMaxContribution": "5302860",
+    "coordinator": "ROBERT BOSCH GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "COMPANIA ESPANOLA DE SISTEMAS AERONAUTICOS SA;TTY-SAATIO;FUNDACION TECNALIA RESEARCH & INNOVATION;NXTCONTROL GMBH;ENGINSOFT SPA;POLITECNICO DI MILANO;COSBERG SPA;DGH ROBOTICA, AUTOMATIZACION Y MANTENIMIENTO INDUSTRIAL SA",
+    "participantCountries": "ES;FI;AT;IT",
+    "projectParticipants": {
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 577250
+        },
+        "996456751": {
+            "orgId": "996456751",
+            "orgName": "COMPANIA ESPANOLA DE SISTEMAS AERONAUTICOS SA",
+            "ecContrib": 504525
+        },
+        "999706445": {
+            "orgId": "999706445",
+            "orgName": "ENGINSOFT SPA",
+            "ecContrib": 338188
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 609375
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 1027585
+        },
+        "990343811": {
+            "orgId": "990343811",
+            "orgName": "TTY-SAATIO",
+            "ecContrib": 611875
+        },
+        "949608079": {
+            "orgId": "949608079",
+            "orgName": "DGH ROBOTICA, AUTOMATIZACION Y MANTENIMIENTO INDUSTRIAL SA",
+            "ecContrib": 515112
+        },
+        "986163014": {
+            "orgId": "986163014",
+            "orgName": "NXTCONTROL GMBH",
+            "ecContrib": 537950
+        },
+        "952179258": {
+            "orgId": "952179258",
+            "orgName": "COSBERG SPA",
+            "ecContrib": 581000
+        }
+    },
+    "calculatedTotalContribution": 5302860
+}

@@ -1,0 +1,73 @@
+{
+    "rcn": "199489",
+    "acronym": "HOBBIT",
+    "topics": "ICT-16-2015",
+    "title": "Holistic Benchmarking of Big Linked Data",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "Linked Data has gained significant momentum over the last years. It is now used at industrial scale in many sectors in which an increasingly large amount of rapidly changing data needs to be processed. HOBBIT is an ambitious project that aims to push the development of Big Linked Data (BLD) processing solutions by providing a family of industry-relevant benchmarks for the BLD value chain through a generic evaluation platform. \nWe aim to make open deterministic benchmarks available to test the performance of existing systems and push the development of innovative industry-relevant solutions. The underlying data will mimic real industrial data assembled during the course of the project. At the beginning of the project, HOBBIT will work on roughly 1PB of real industry-relevant data from 4 different domains. The data will be extended through collaborations during the project. \nTo push the use of the benchmarks, we will organize or join challenges that aim to measure the performance of technologies for the different steps of the BLD lifecycle. In contrast to existing benchmarks, we will provide modular and easily extensible benchmarks for all industry-relevant BLD processing steps that allow to assess whole suites of software that cover more than one step.\nThe infrastructure necessary to run the evaluation campaigns will be made available. Our architecture will rely on web interfaces and cloud infrastructures to ensure scalability. The open HOBBIT platform will make human- and machine-readable, public periodic reports available. As exit strategy, the project will create an association after the second project year that will be sustained by the means of subscriptions from industry and academia and associated with existing benchmarking associations. The clear portfolio of added value for the members will be defined in the early project stages and disseminated throughout the evaluation campaigns.",
+    "totalCost": "3798453,75",
+    "ecMaxContribution": "3718250",
+    "coordinator": "INSTITUT FUR ANGEWANDTE INFORMATIK (INFAI) EV",
+    "coordinatorCountry": "DE",
+    "participants": "OpenLink Group Ltd;ONTOS AG;USU Software AG;TOMTOM POLSKA SP ZOO;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";AGT GROUP (R&D) GMBH;IMINDS",
+    "participantCountries": "UK;CH;DE;PL;BE;EL",
+    "projectParticipants": {
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 354250
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 378125
+        },
+        "965173960": {
+            "orgId": "965173960",
+            "orgName": "ONTOS AG",
+            "ecContrib": 0
+        },
+        "954597856": {
+            "orgId": "954597856",
+            "orgName": "AGT GROUP (R&D) GMBH",
+            "ecContrib": 400250
+        },
+        "998372404": {
+            "orgId": "998372404",
+            "orgName": "OpenLink Group Ltd",
+            "ecContrib": 353562
+        },
+        "950368753": {
+            "orgId": "950368753",
+            "orgName": "USU Software AG",
+            "ecContrib": 376250
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 370062
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 529375
+        },
+        "998797652": {
+            "orgId": "998797652",
+            "orgName": "INSTITUT FUR ANGEWANDTE INFORMATIK (INFAI) EV",
+            "ecContrib": 782000
+        },
+        "999644462": {
+            "orgId": "999644462",
+            "orgName": "TOMTOM POLSKA SP ZOO",
+            "ecContrib": 174375
+        }
+    },
+    "calculatedTotalContribution": 3718249
+}

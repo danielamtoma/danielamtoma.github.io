@@ -1,0 +1,78 @@
+{
+    "rcn": "197934",
+    "acronym": "ExaNeSt",
+    "topics": "FETHPC-1-2014",
+    "title": "European Exascale System Interconnect and Storage",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "ExaNeSt will develop, evaluate, and prototype the physical platform and architectural solution for a unified Communication and Storage Interconnect and the physical rack and environmental structures required to deliver European Exascale Systems. The consortium brings technology, skills, and knowledge across the entire value chain from computing IP to packaging and system deployment; and from operating systems, storage, and communication to HPC with big data management, algorithms, applications, and frameworks. Building on a decade of advanced R&D, ExaNeSt will deliver the solution that can support exascale deployment in the follow-up industrial commercialization phases. Using direction from the ETP4HPC roadmap and soon-available high density and efficiency compute, we will model, simulate, and validate through prototype, a system with:\n1. High throughput, low latency connectivity, suitable for exascale-level compute, their storage, and I/O, with congestion mitigation, QoS guarantees, and resilience.\n2. Support for distributed storage located with the compute elements providing low latency that non-volatile memories require, while reducing energy, complexity, and costs.\n3. Support for task-to-data sw locality models to ensure minimum data communication energy overheads and property maintenance in databases.\n4. Hyper-density system integration scheme that will develop a modular, commercial, European-sourced advanced cooling system for exascale in ~200 racks while maintaining reliability and cost of ownership.\n5. The platform management scheme for big-data I/O to this resilient, unified distributed storage compute architecture.\n6. Demonstrate the applicability of the platform for the complete spectrum of Big Data applications, e.g. from HPC simulations to Business Intelligence support.\nAll aspects will be steered and validated with the first-hand experience of HPC applications and experts, through kernel turning and subsequent data management and application analysis.",
+    "totalCost": "8442547,5",
+    "ecMaxContribution": "8442547,5",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "THE UNIVERSITY OF MANCHESTER;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;EXACT LAB SRL;VIRTUAL OPEN SYSTEMS;ISTITUTO NAZIONALE DI ASTROFISICA;ICEOTOPE RESEARCH & DEVELOPMENT LTD;ENGINSOFT SPA;MONETDB SOLUTIONS B.V.;UNIVERSITAT POLITECNICA DE VALENCIA;ALLINEA SOFTWARE LIMITED;ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "participantCountries": "UK;DE;IT;FR;NL;ES",
+    "projectParticipants": {
+        "969276478": {
+            "orgId": "969276478",
+            "orgName": "ALLINEA SOFTWARE LIMITED",
+            "ecContrib": 400000
+        },
+        "968966466": {
+            "orgId": "968966466",
+            "orgName": "VIRTUAL OPEN SYSTEMS",
+            "ecContrib": 450000
+        },
+        "955674459": {
+            "orgId": "955674459",
+            "orgName": "EXACT LAB SRL",
+            "ecContrib": 220000
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 2120000
+        },
+        "949731657": {
+            "orgId": "949731657",
+            "orgName": "MONETDB SOLUTIONS B.V.",
+            "ecContrib": 651000
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 769375
+        },
+        "935183694": {
+            "orgId": "935183694",
+            "orgName": "ICEOTOPE RESEARCH & DEVELOPMENT LTD",
+            "ecContrib": 1230000
+        },
+        "999706445": {
+            "orgId": "999706445",
+            "orgName": "ENGINSOFT SPA",
+            "ecContrib": 480000
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 426500
+        },
+        "999868920": {
+            "orgId": "999868920",
+            "orgName": "ISTITUTO NAZIONALE DI ASTROFISICA",
+            "ecContrib": 600000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 376250
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 719422
+        }
+    },
+    "calculatedTotalContribution": 8442547
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "203379",
+    "acronym": "bioSPINspired",
+    "topics": "ERC-CoG-2015",
+    "title": "Bio-inspired Spin-Torque Computing Architectures",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "In the bioSPINspired project, I propose to use my experience and skills in spintronics, non-linear dynamics and neuromorphic nanodevices to realize bio-inspired spin torque computing architectures. I will develop a bottom-up approach to build spintronic data processing systems that perform low power ëcognitiveí tasks on-chip and could ultimately complement our traditional microprocessors. I will start by showing that spin torque nanodevices, which are multi-functional and tunable nonlinear dynamical nano-components, are capable of emulating both neurons and synapses. Then I will assemble these spin-torque nano-synapses and nano-neurons into modules that implement brain-inspired algorithms in hardware. The brain displays many features typical of non-linear dynamical networks, such as synchronization or chaotic behaviour. These observations have inspired a whole class of models that harness the power of complex non-linear dynamical networks for computing. Following such schemes, I will interconnect the spin torque nanodevices by electrical and magnetic interactions so that they can couple to each other, synchronize and display complex dynamics. Then I will demonstrate that when perturbed by external inputs, these spin torque networks can perform recognition tasks by converging to an attractor state, or use the separation properties at the edge of chaos to classify data. In the process, I will revisit these brain-inspired abstract models to adapt them to the constraints of hardware implementations. Finally I will investigate how the spin torque modules can be efficiently connected together with CMOS buffers to perform higher level computing tasks. The table-top prototypes, hardware-adapted computing models and large-scale simulations developed in bioSPINspired will lay the foundations of spin torque bio-inspired computing and open the path to the fabrication of fully integrated, ultra-dense and efficient CMOS/spin-torque nanodevice chips.",
+    "totalCost": "1907767",
+    "ecMaxContribution": "1907767",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1907767
+        }
+    },
+    "calculatedTotalContribution": 1907767
+}

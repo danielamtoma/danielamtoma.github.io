@@ -1,0 +1,73 @@
+{
+    "rcn": "194230",
+    "acronym": "SUNFISH",
+    "topics": "ICT-07-2014",
+    "title": "SecUre iNFormation SHaring in federated heterogeneous private clouds",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Today the European Public Sector Players lack the necessary infrastructure and technology to allow them to integrate their computing clouds. Furthermore, legislative barriers often make it difficult to use available commercial technological solutions. The SUNFISH project aims to provide a specific and new solution to face these issues. SUNFISH will enable the secure federation of private clouds based on the Public Sector needs: federated private clouds belonging to different Public Sector Entities will be able to share data and services transparently, while maintaining required security levels.\nThe SUNFISH project will develop and integrate software enabling secure cloud federation as required by European Public Sector bodies. The project will achieve this by meeting firstly the specific challenges faced by the Maltese and Italian Ministries of Finance, as well as by the UK Regional Cyber Crime Units, the three SUNFISH selected use cases. Solutions will be developed to be usable by other European Public Organisations, and potentially also by private sector players.\nSUNFISH will improve security in federated ìcross-borderî clouds, boosting the development of a cloud computing market in sectors where privacy and control of information propagation are essential (e.g., e-government, e-health etc.) while encouraging a better resource utilisation of Public Administration cloud infrastructure.\nThe secure system for federated private clouds developed through the project will guarantee a high level of safety, a continuous monitoring of inter-cloud communications, and the ability to roll out services cheaply, in a fast, flexible and secure way even between different private clouds. \nThe SUNFISH project aims to reduce the management cost of private clouds owned by Public Administrations, and - beyond pure costs savings ñ to accelerate the transition to 21st century interoperable and scalable public services, boosting enforcement of the European Digital Single Market.",
+    "totalCost": "4520047,5",
+    "ecMaxContribution": "4520029",
+    "coordinator": "MINISTERO DELL'ECONOMIA E DELLE FINANZE",
+    "coordinatorCountry": "IT",
+    "participants": "POLICE AND CRIME COMMISSIONER FOR THAMES VALLEY;TECHNISCHE UNIVERSITAET GRAZ;CYBERNETICA AS;MALTA INFORMATION TECHNOLOGY AGENCY;ZENTRUM FUR SICHERE INFORMATIONSTECHNOLOGIE - AUSTRIA;MINISTRY FOR FINANCE;UNIVERSITY OF SOUTHAMPTON;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA;PRICEWATERHOUSECOOPERS ADVISORY SPA",
+    "participantCountries": "UK;AT;EE;MT;IL;IT",
+    "projectParticipants": {
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 524938
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 819000
+        },
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 416125
+        },
+        "991511206": {
+            "orgId": "991511206",
+            "orgName": "MALTA INFORMATION TECHNOLOGY AGENCY",
+            "ecContrib": 216688
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 671699
+        },
+        "942727093": {
+            "orgId": "942727093",
+            "orgName": "PRICEWATERHOUSECOOPERS ADVISORY SPA",
+            "ecContrib": 318312
+        },
+        "975458482": {
+            "orgId": "975458482",
+            "orgName": "ZENTRUM FUR SICHERE INFORMATIONSTECHNOLOGIE - AUSTRIA",
+            "ecContrib": 147405
+        },
+        "999442023": {
+            "orgId": "999442023",
+            "orgName": "MINISTERO DELL'ECONOMIA E DELLE FINANZE",
+            "ecContrib": 888760
+        },
+        "941146478": {
+            "orgId": "941146478",
+            "orgName": "POLICE AND CRIME COMMISSIONER FOR THAMES VALLEY",
+            "ecContrib": 128602
+        },
+        "999754363": {
+            "orgId": "999754363",
+            "orgName": "CYBERNETICA AS",
+            "ecContrib": 324250
+        },
+        "941255409": {
+            "orgId": "941255409",
+            "orgName": "MINISTRY FOR FINANCE",
+            "ecContrib": 64250
+        }
+    },
+    "calculatedTotalContribution": 4520029
+}

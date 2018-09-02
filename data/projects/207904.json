@@ -1,0 +1,23 @@
+{
+    "rcn": "207904",
+    "acronym": "SYSTEMATICGRAPH",
+    "topics": "ERC-2016-COG",
+    "title": "Systematic mapping of the complexity landscape of hard algorithmic graph problems",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "Graph-theoretical models are natural tools for the description of road networks, circuits, communication networks, and abstract relations between objects, hence algorithmic graph problems appear in a wide range of computer science applications. As most of these problems are computationally hard in their full generality, research in graph algorithms, approximability, and parameterized complexity usually aims at identifying restricted variants and special cases, which are at the same time sufficiently general to be of practical relevance and sufficiently restricted to admit efficient algorithmic solutions. The goal of the project is to put the search for tractable algorithmic graph problems into a systematic and methodological framework: instead of focusing on specific sporadic problems, we intend to obtain a unified algorithmic understanding by mapping the entire complexity landscape of a particular problem domain.\n\nCompletely classifying the complexity of each and every algorithmic problem appearing in a given formal framework would necessarily reveal every possible algorithmic insight relevant to the formal setting, with the potential of discovering novel algorithmic techniques of practical interest. This approach has been enormously successful in the complexity classifications of Constraint Satisfaction Problems (CSPs), but comparatively very little work has been done in the context of graphs. The systematic investigation of hard algorithmic graph problems deserves the same level of attention as the dichotomy program of CSPs, and graph problems have similarly rich complexity landscapes and unification results waiting to be discovered. The project will demonstrate that such a complete classification is feasible for a wide range of graph problems coming from areas such as finding patterns, routing, and survivable network design, and novel algorithmic results and new levels of algorithmic understanding can be achieved even for classic and well-studied problems.",
+    "totalCost": "1532000",
+    "ecMaxContribution": "1532000",
+    "coordinator": "MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET",
+    "coordinatorCountry": "HU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999651252": {
+            "orgId": "999651252",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET",
+            "ecContrib": 1532000
+        }
+    },
+    "calculatedTotalContribution": 1532000
+}

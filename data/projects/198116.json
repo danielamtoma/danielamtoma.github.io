@@ -1,0 +1,23 @@
+{
+    "rcn": "198116",
+    "acronym": "Synchronverter",
+    "topics": "SIE-01-2015-1",
+    "title": "Smart Synchronous inverter for gridís stability",
+    "startDate": "01/06/2015",
+    "endDate": "30/09/2015",
+    "objective": "The integration of Renewable Energy Sources (RES) and Distributed Energy Resources (DERs) plays a fundamental role in the development of Smart Grids. Nowadays, RES (solar, wind, etc.) and DERs (energy storage, EV, etc.) are connected to the grid via DC/AC converters (inverters). Now, these inverters do not provide ancillary services (power-frequency control, voltage control, etc.) like the synchronous generators (generators normally used in conventional power plants) do, which is required to avoid grid voltage and frequency fluctuations and faults. Since the amount of RES and DERs installations are drastically increasing in the world, there is an urgent need to implement smart inverters with these functionalities included. The Synchronverter facilitates the connection of RES and DERs to the grid causing a conventional inverter to mimic a synchronous generator, consequently, these power sources can actively participate in the grid stabilization in harmony with other generators. The Synchronverter has been developed by Synvertec an Israeli company seed-funded by Horizon Green Tech Ventures an investment alliance formed by Alstom S.A, Rotem Industries Ltd (Isralei company specialized in the commercialisation of advanced technologies) and Gefen Investmens ( a business incubator company). Synvertec is also participated by Israel Electric Corporation (IEC - Israeli Grid Operator) and the Office of the CHief Scientist (Israeli goverrmental R&D fostering office). Only the inverterís market for renewable energy accounts for more than $11 billion in 2014. Synvertec aims to make a gradual approach by initially addressing inverters for PV and DES accounting for more than $7 billion in 2014 (out of which $3 billion in Europe). The benefits that this technology will bring to the market will make the proposed project profitable with an IRR of 18.56% over 8 years and a payback period of 5.5 years.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "SYNVERTEC LTD",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "930257064": {
+            "orgId": "930257064",
+            "orgName": "SYNVERTEC LTD",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

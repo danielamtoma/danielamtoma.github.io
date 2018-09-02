@@ -1,0 +1,23 @@
+{
+    "rcn": "208490",
+    "acronym": "ARTIV1",
+    "topics": "ERC-PoC-2016",
+    "title": "An Artificial Visual Cortex for Image Processing",
+    "startDate": "01/04/2017",
+    "endDate": "30/09/2018",
+    "objective": "The ERC starting grant GECOMETHODS, on which this POC is based, tackled problems of diffusion equations via geometric control methods. One of the most striking achievements of the project has been the development of an algorithm of image reconstruction based mainly on non-isotropic diffusion. This algorithm is bio-mimetic in the sense that it replicates the way in which the primary visual cortex V1 of mammals processes the signals arriving from the eyes. It has performances that are at the state of the art in image processing. These results together with others obtained in the ERC project show that image processing algorithms based on the functional architecture of V1 can go very far. However, the exceptional performances of the primary visual cortex V1  rely not only on the particular algorithm used, but also on the fact that such algorithm ìrunsî on a dedicated hardware having the following features: 1. an exceptional level of parallelism; 2. connections  that are well adapted to transmit information in a non-isotropic way as it is required by the algorithms of image reconstruction and recognition. \nThe idea of this POC is to create a dedicated hardware (called ARTIV1) emulating the functional architecture of V1 and hence having on one hand a huge degree of parallelism and on the other hand connections among the CPUs  that reflect the non-isotropic structure of the visual cortex V1. Such a hardware that we plan to build as an integrated circuit with an industrial partner will be a veritable artificial visual cortex. It will be fully programmable and it will be able to perform many biomimetic image processing tasks that we expect to be exceptionally performant.\nARTIV1 will come to the marked accompanied by some dedicated software for image reconstruction and image recognition. However we expect that other applications will be developed by customers, as for instance softwares for optical flow estimation or for sound processing.",
+    "totalCost": "149937",
+    "ecMaxContribution": "149937",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 149937
+        }
+    },
+    "calculatedTotalContribution": 149937
+}

@@ -1,0 +1,88 @@
+{
+    "rcn": "202703",
+    "acronym": "iBorderCtrl",
+    "topics": "BES-05-2015",
+    "title": "Intelligent Portable Border Control System",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2019",
+    "objective": "iBorderCtrl envisages to enable faster thorough border control for third country nationals crossing the borders of EU, with technologies that adopt the future development of the Schengen Border Management. The project will present an optimal mixture of an enhanced, voluntary form of a Registered Traveller Programme and an auxiliary solution for the Entry/Exit System based on involving bona fide travellers. iBorderCtrl designs and implements a system that adopts mobility concepts and consists of a two-stage procedure, designed to reduce cost/time spent per traveller at the crossing station. It leverages software and hardware technologies ranging from portable readers/scanners, various emerging and novel subsystems for automatic controls, wireless networking for mobile controls, and secure backend storage and processing. The two-stage procedure includes: (A) the registration before the travel to gather initial personal, travel document and vehicle data, perform a short, automated, non-invasive interview with an avatar, subject to lie detection and link the traveller to any pre-existing authority data. Utilizing multifactor analytics and risk-based approach, the data registered is processed and correlated with publicly open data or external systems such as the SIS II. Processing will need the travellers consent as set in EU legislation and national law. (B) the actual control at the border that complements pre-registered information with results of security controls that are performed with a portable, wireless connected iBorderCtrl unit that can be used inside buses/trains or any point. Multiple technologies check validity and authenticity of parameters (e.g. travel documents, visa, face recognition of traveller using passport picture, real-time automated non-invasive lie detection in interview by officer, etc.). The data collected are encrypted, securely transferred and analysed in real time, providing an automated decision support system for the border control officers.",
+    "totalCost": "4501877,5",
+    "ecMaxContribution": "4501877,5",
+    "coordinator": "EUROPEAN DYNAMICS LUXEMBOURG SA",
+    "coordinatorCountry": "LU",
+    "participants": "EVERIS AEROESPACIAL Y DEFENSA SL;THE MANCHESTER METROPOLITAN UNIVERSITY;BIOSEC GROUP KORLATOLT FELELOSSEGU TARSASAG;TRAINOSE METAFORES-METAFORIKES YPIRESIES EPIVATON KAI FORTIOU AE;LATVIAN STATE BORDER GUARD;KENTRO MELETON ASFALEIAS;KOMENDA GLOWNA STRAZY GRANICZNEJ;ITTI SP ZOO;JAS TECHNOLOGIE SP ZOO;STREMBLE VENTURES LTD;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;ORSZAGOS RENDOR - FOKAPITANYSAG;GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+    "participantCountries": "ES;UK;HU;EL;LV;PL;CY;DE",
+    "projectParticipants": {
+        "972052036": {
+            "orgId": "972052036",
+            "orgName": "TRAINOSE METAFORES-METAFORIKES YPIRESIES EPIVATON KAI FORTIOU AE",
+            "ecContrib": 165000
+        },
+        "942993261": {
+            "orgId": "942993261",
+            "orgName": "KOMENDA GLOWNA STRAZY GRANICZNEJ",
+            "ecContrib": 0
+        },
+        "928175832": {
+            "orgId": "928175832",
+            "orgName": "BIOSEC GROUP KORLATOLT FELELOSSEGU TARSASAG",
+            "ecContrib": 226250
+        },
+        "999827307": {
+            "orgId": "999827307",
+            "orgName": "KENTRO MELETON ASFALEIAS",
+            "ecContrib": 96750
+        },
+        "999981828": {
+            "orgId": "999981828",
+            "orgName": "GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+            "ecContrib": 346640
+        },
+        "928014715": {
+            "orgId": "928014715",
+            "orgName": "JAS TECHNOLOGIE SP ZOO",
+            "ecContrib": 512250
+        },
+        "945958260": {
+            "orgId": "945958260",
+            "orgName": "ORSZAGOS RENDOR - FOKAPITANYSAG",
+            "ecContrib": 146250
+        },
+        "999847580": {
+            "orgId": "999847580",
+            "orgName": "THE MANCHESTER METROPOLITAN UNIVERSITY",
+            "ecContrib": 387988
+        },
+        "947337891": {
+            "orgId": "947337891",
+            "orgName": "EUROPEAN DYNAMICS LUXEMBOURG SA",
+            "ecContrib": 863000
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 600000
+        },
+        "999969509": {
+            "orgId": "999969509",
+            "orgName": "ITTI SP ZOO",
+            "ecContrib": 276750
+        },
+        "943032352": {
+            "orgId": "943032352",
+            "orgName": "LATVIAN STATE BORDER GUARD",
+            "ecContrib": 99000
+        },
+        "950910304": {
+            "orgId": "950910304",
+            "orgName": "EVERIS AEROESPACIAL Y DEFENSA SL",
+            "ecContrib": 437000
+        },
+        "954021676": {
+            "orgId": "954021676",
+            "orgName": "STREMBLE VENTURES LTD",
+            "ecContrib": 345000
+        }
+    },
+    "calculatedTotalContribution": 4501878
+}

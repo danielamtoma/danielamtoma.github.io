@@ -1,0 +1,53 @@
+{
+    "rcn": "194335",
+    "acronym": "SoMa",
+    "topics": "ICT-23-2014",
+    "title": "Soft-bodied intelligence for  Manipulation",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2019",
+    "objective": "The main obstacle to a wide-spread adoption of advanced manipulation systems in industry is their complexity, fragility, lack of strength, and difficulty of use. This project describes a path of disruptive innovation for the development of simple, compliant, yet strong, robust, and easy-to-program manipulation systems. The idea is: Soft Manipulation (SoMa).\n\nSoMa explores a new avenue of robotic manipulation with the environment, as opposed to manipulation of or in the environment. In our approach, the physical constraints imposed by objects in the environment and the manipulandum itself are not regarded as obstacles, but rather as opportunities to guide functional hand pre-shaping, adaptive grasping, and affordance-guided manipulation of objects. The exploitation of these opportunities, which we refer to as environmental constraints (EC), enables robust grasping and manipulation in dynamic, open, and highly variable environments.\n\nThe key ingredient for the exploitation of EC is softness of hands, i.e. their embodied ability to comply and adapt to features of the environment. The traditional paradigm for robotic manipulation is in complete disarray in front of this shift of focus: state-of-the-art grasp planners are targeted towards rigid hands and objects, and attempt to find algorithmic solutions to inherently complex, often ill-posed problems. Further complicating matters, the requirement of planning for soft, uncertain interactions between hand and environment is entirely beyond the state of the art. However, this is how humans most often use their hands, and how we plan to change robotic manipulation.",
+    "totalCost": "7131091,25",
+    "ecMaxContribution": "6321278,75",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "Institute of Science and Technology Austria;OCADO INNOVATION LIMITED;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;UNIVERSITA DI PISA;FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA;THE WALT DISNEY COMPANY (SWITZERLAND) GMBH",
+    "participantCountries": "AT;UK;DE;IT;CH",
+    "projectParticipants": {
+        "996479740": {
+            "orgId": "996479740",
+            "orgName": "Institute of Science and Technology Austria",
+            "ecContrib": 260619
+        },
+        "992654060": {
+            "orgId": "992654060",
+            "orgName": "THE WALT DISNEY COMPANY (SWITZERLAND) GMBH",
+            "ecContrib": 0
+        },
+        "999596447": {
+            "orgId": "999596447",
+            "orgName": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+            "ecContrib": 1165250
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 1617250
+        },
+        "935517083": {
+            "orgId": "935517083",
+            "orgName": "OCADO INNOVATION LIMITED",
+            "ecContrib": 782000
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 1687732
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 808428
+        }
+    },
+    "calculatedTotalContribution": 6321279
+}

@@ -1,0 +1,83 @@
+{
+    "rcn": "194297",
+    "acronym": "RAWFIE",
+    "topics": "ICT-11-2014",
+    "title": "Road-, Air- and Water-based Future Internet Experimentation",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "The purpose of the RAWFIE initiative is to create a federation of different network testbeds that will work together to make their resources available under a common framework. Specifically, it aims at delivering a unique, mixed experimentation environment across the space and technology dimensions. RAWFIE will integrate numerous testbeds for experimenting in vehicular (road), aerial and maritime environments. A Vehicular Testbed (VT) will deal with Unmanned Ground Vehicles (UGVs) while an Aerial Testbed (AT) and a Maritime Testbed (MT) will deal with Unmanned Aerial Vehicles (UAVs) and Unmanned Surface Vehicles (USVs) respectively. The RAWFIE consortium includes all the possible actors of this highly challenging experimentation domain, from technology creators to integrators and facility owners. The basic idea behind the RAWFIE effort is the automated, remote operation of a large number of robotic devices (UGVs, UAVs, USVs) for the purpose of assessing the performance of different technologies in the networking, sensing and mobile/autonomic application domains. RAWFIE will feature a significant number of UxV nodes for exposing to the experimenter a vast test infrastructure. All these items will be managed by a central controlling entity which will be programmed per case and fully overview/drive the operation of the respective mechanisms (e.g., auto-pilots, remote controlled ground vehicles). Internet connectivity will be extended to the mobile units to enable the remote programming (over-the-air), control and data collection. Support software for experiment management, data collection and post-analysis will be virtualized to enable experimentation from everywhere in the world. The vision of Experimentation-as-a-Service (EaaS) will be promoted through RAWFIE. The IoT paradigm will be fully adopted and further refined for support of highly dynamic node architectures.",
+    "totalCost": "8319384",
+    "ecMaxContribution": "6995729",
+    "coordinator": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+    "coordinatorCountry": "EL",
+    "participants": "HELLENIC AEROSPACE INDUSTRY SA;ABERON OOD;ROBOTNIK AUTOMATION SLL;CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;AVIONTEK GMBH;OCEANSCAN - MARINE SYSTEMS & TECHNOLOGY LDA;INTELLIGENCE FOR ENVIRONMENT AND SECURITY SRL IES SOLUTIONS SRL;HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE;MINISTRY OF NATIONAL DEFENCE, GREECE;ASSOCIATION PEGASE",
+    "participantCountries": "EL;BG;ES;CH;DE;PT;IT;FR",
+    "projectParticipants": {
+        "998018645": {
+            "orgId": "998018645",
+            "orgName": "ROBOTNIK AUTOMATION SLL",
+            "ecContrib": 284687
+        },
+        "999479659": {
+            "orgId": "999479659",
+            "orgName": "HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE",
+            "ecContrib": 0
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 4154500
+        },
+        "999583255": {
+            "orgId": "999583255",
+            "orgName": "INTELLIGENCE FOR ENVIRONMENT AND SECURITY SRL IES SOLUTIONS SRL",
+            "ecContrib": 380000
+        },
+        "999975232": {
+            "orgId": "999975232",
+            "orgName": "HELLENIC AEROSPACE INDUSTRY SA",
+            "ecContrib": 269000
+        },
+        "940396862": {
+            "orgId": "940396862",
+            "orgName": "ABERON OOD",
+            "ecContrib": 177812
+        },
+        "999580830": {
+            "orgId": "999580830",
+            "orgName": "OCEANSCAN - MARINE SYSTEMS & TECHNOLOGY LDA",
+            "ecContrib": 274718
+        },
+        "999611385": {
+            "orgId": "999611385",
+            "orgName": "MINISTRY OF NATIONAL DEFENCE, GREECE",
+            "ecContrib": 270000
+        },
+        "960414461": {
+            "orgId": "960414461",
+            "orgName": "ASSOCIATION PEGASE",
+            "ecContrib": 176887
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 702500
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 205000
+        },
+        "958360486": {
+            "orgId": "958360486",
+            "orgName": "AVIONTEK GMBH",
+            "ecContrib": 100625
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 6995729
+}

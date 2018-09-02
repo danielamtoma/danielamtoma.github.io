@@ -1,0 +1,38 @@
+{
+    "rcn": "212224",
+    "acronym": "5GRANGE",
+    "topics": "EUB-03-2017",
+    "title": "Remote area Access Network for 5th GEneration",
+    "startDate": "01/11/2017",
+    "endDate": "30/04/2020",
+    "objective": "5G is considered the next revolution in communication. Several researches focus efforts in tackling challenges for enhancing data rate, reducing latency, improving connectivity and reducing consumption. However there is one relevant mode that has not been strongly supported by the research efforts, which is Internet access for remote areas. As of today, we estimate 1.4 billion of unconnected people live in areas where mobile broadband coverage is not available, showing the immense impact of a network that can deliver high quality Internet access in remote areas. It is clear that a sustainable rural service will not be available unless network deployments and business strategies are specifically tailored to this scenario. Integrating state-of-the-art in mobile communication with business concepts of sharing economy would allow any local entrepreneur to become a profitable mobile rural infrastructure operator with extremely capillary commercialization and operating capabilities. The goal of 5G-RANGE is surpass the limitations of current technologies, making the coverage of low populate areas a feasible business. We aim for a cell radius above 50 km with at least 100 Mbps at the edge, employing both licensed and unlicensed frequencies, while cognitive radio techniques will be used to protect incumbents. Clearly, this new 5G mode needs to be flexible to comply with different applications and services. The current standards cannot use spectral wholes and have limited spectrum mobility. A new waveform needs to be considered and the mechanisms in the MAC and Network layers must take advantage of the features of this waveform in order to provide the desirable dynamic and fragmented spectrum allocation. The combination of an innovative PHY and a cognitive MAC will result in a 5G mode able to reach the unconnected people, not only in Brazil, but worldwide. This network will also trigger new agribusiness services, bringing new revenues for different sectors of our society.",
+    "totalCost": "999906,25",
+    "ecMaxContribution": "999906,25",
+    "coordinator": "UNIVERSIDAD CARLOS III DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "OULUN YLIOPISTO;TELEFONICA INVESTIGACION Y DESARROLLO SA;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "FI;ES;DE",
+    "projectParticipants": {
+        "999844670": {
+            "orgId": "999844670",
+            "orgName": "OULUN YLIOPISTO",
+            "ecContrib": 221031
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 248188
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 223438
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 307250
+        }
+    },
+    "calculatedTotalContribution": 999907
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "212909",
+    "acronym": "GRIMASSE",
+    "topics": "GALILEO-1-2017",
+    "title": "General aviation Rescue capacity IMprovement for the worldwide Adoption of a Safe Solution based on European GNSS",
+    "startDate": "01/11/2017",
+    "endDate": "31/07/2019",
+    "objective": "Based on the observations that:\n- Most of the aeronautical accidents involve General Aviation (GA) aircrafts, particularly the ones with a significant survival rate.\n- Most of the GA aircraft are not equipped with costly ELT but only not adapted PLB.\n- GA accidents generate the majority of the workload of RCC and the operations where the response delay is the most critical to save lives.\nConsidering also that:\n- ICAO and C/S are doing significant standardization efforts to improve the in-flight transmission capability and performance for commercial aviation.\n- There is now a new requirement for each flight to carry on-board an installed ELT or a PLB.\n- The ICAO projects to evaluate the feasibility of an ADT adapted to other aircrafts than commercial ones (see GADSS ADT007 ñ Assess extending applicability to other aircraft operations).\nGA SAR issue appears to be critical. GRIMASSE proposes to develop operational concepts based on anchoring the Galileo SAR service in the SWIM information sharing concept implemented all around the world and in Europe in particular as SESAR. The main objectives of the projects are:\n- To improve the SAR detection and response to GA aircrafts and helicopters distress.\n- To optimize the responsiveness of RCCs.\n- To adapt the MCCs and MEOLUT to the data distribution of ELT-DT SAR alerts.\nThe project intends to develop 3 products:\n- SWIM applications to optimize the exchange of SAR information by RCCs and MCCs.\n- MCC ELT-DT implementing functions to distribute ELT-DT messages.\n- A cost-effective ELT-DT for GA including the ADT functionalities, easy to plug into the aircraft and with minor or no alterations to the aircraft.\nThe project is structured in 4 phases:\n∑ Collection of the needs (RCC, pilot, aero-club, MCC).\n∑ Definition and development of the system.\n∑ Experimentations and demonstrations phase.\n∑ Dissemination.\nGRIMASSE will promote Galileo as the main actor of worldwide aviation safety.",
+    "totalCost": "2678162,5",
+    "ecMaxContribution": "1925713,75",
+    "coordinator": "THALES ALENIA SPACE FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "THE BRITISH LIGHT AVIATION CENTRE LIMITED;ELTA;AGENCE POUR LA SECURITE DE LA NAVIGATION AERIENNE EN AFRIQUE ET A MADAGASCAR;PILDO CONSULTING SL;AERO CLUB BARCELONA SABADELL;STMICROELECTRONICS SRL",
+    "participantCountries": "UK;FR;SN;ES;IT",
+    "projectParticipants": {
+        "996729127": {
+            "orgId": "996729127",
+            "orgName": "AERO CLUB BARCELONA SABADELL",
+            "ecContrib": 29988
+        },
+        "950012763": {
+            "orgId": "950012763",
+            "orgName": "ELTA",
+            "ecContrib": 475788
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 82075
+        },
+        "930029502": {
+            "orgId": "930029502",
+            "orgName": "THE BRITISH LIGHT AVIATION CENTRE LIMITED",
+            "ecContrib": 120000
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 752500
+        },
+        "953609135": {
+            "orgId": "953609135",
+            "orgName": "AGENCE POUR LA SECURITE DE LA NAVIGATION AERIENNE EN AFRIQUE ET A MADAGASCAR",
+            "ecContrib": 50000
+        },
+        "998162690": {
+            "orgId": "998162690",
+            "orgName": "PILDO CONSULTING SL",
+            "ecContrib": 415362
+        }
+    },
+    "calculatedTotalContribution": 1925713
+}

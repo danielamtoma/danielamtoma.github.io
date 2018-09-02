@@ -1,0 +1,28 @@
+{
+    "rcn": "199578",
+    "acronym": "PROPTER",
+    "topics": "JTI-CS2-2014-CFP01-FRC-02-03",
+    "title": "Support to aerodynamic analysis and design of propellers of a compound helicopter",
+    "startDate": "01/12/2015",
+    "endDate": "31/03/2019",
+    "objective": "PROPTER addresses the analysis and design of propellers operating in the complex flow field around a compound helicopter where a strong interaction with airframe and lifting rotor occurs. The objectives are well-thought out to ensure (i) sound understanding of the physics of the interactional flow, (ii) appropriate advancement and deployment of high-fidelity CFD methods for obtaining high confidence results, and (iii) smooth integration of the generated knowledge into the industrial environment. These objectives are referenced throughout the proposal giving a coherent chain from concept to implementation formulated to achieve the main project goal: propeller design optimized for implementation in a compound helicopter.\n\nPROPTER encompasses an analysis and design process with a wide range of physical complexity and method fidelity, from a rather simple configuration (isolated propeller) but challenging task (propeller design for multiple flight cases), to a complex configuration (propeller-rotor-airframe) involving a complex unsteady interactional flow. It deploys the best of two worlds of CFD software: (i) ENFLOW, a research code developed at NLR in various European and national research programmes, and (ii) ANSYS-FLUENT, a commercial code used at the topic leader. A code-to-code comparison, both for analysis results and design results, will give a sound understanding of the modelling and best practices applied. This forms the basis to achieve high confidence for the numerical results and their integration in the industrial environment.\n\nPROPTER consortium, National Aerospace Laboratory (NLR) and Delft University of Technology (TUD), provides complementary expertise, skill and infrastructure vital to the projectís success. To be executed in good coordination with the topic leader, PROPTER is essential to the success of the LifeRCraft project in opening up new mobility roles that neither conventional helicopters nor fixed wing aircraft can currently cover.",
+    "totalCost": "409252,5",
+    "ecMaxContribution": "409252,5",
+    "coordinator": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+    "coordinatorCountry": "NL",
+    "participants": "TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 163858
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 245395
+        }
+    },
+    "calculatedTotalContribution": 409253
+}

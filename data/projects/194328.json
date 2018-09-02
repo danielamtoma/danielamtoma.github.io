@@ -1,0 +1,53 @@
+{
+    "rcn": "194328",
+    "acronym": "AXIOM",
+    "topics": "ICT-01-2014",
+    "title": "Agile, eXtensible, fast I/O Module for the cyber-physical era",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "We are entering the Cyber-Physical age, in which both objects and people will become nodes of the same digital network for exchanging information. Therefore, in our imaginary, the general expectation is that ìthingsî or systems will become somewhat smart as people, allowing rapid and close interactions not only system-system, but also human-system, system-human. More scientifically, we expect that such Cyber-Physical Systems (CPSs) will at least react in real-time, have enough computational power for the assigned tasks, consume the least possible energy for such task (energy efficiency), scale up through modularity, allow for an easy programmability across performance scaling and exploit at best existing standards at minimal costs. The whole set of these expectations impose scientific and technological challenges that need to be properly addressed.\nThe AXIOM project (Agile, eXtensible, fast I/O Module) aims at researching new software/hardware architectures for CPSs to meet the above expectations. The technical approach aims at solving fundamental problems to enable easy programmability of multi-core multi-board systems through the open-source OmpSs programming model, leveraging Distributed Shared Memory (DSM) inspired concepts across the modules. The OmpSs will allow accelerating functions through an FPGA (Agility). In particular, to the best of our knowledge, this is the first time that DSM will be effectively demonstrated on an embedded modular system (eXtensibility). Modular scalability will be possible thanks to a fast interconnect that will enrich the module. To this aim, an innovative modular ARM-based board with enhanced capabilities for interfacing with the physical world will be designed and demonstrated in key scenarios such as Smart Video-Surveillance and Smart Living/Home (Domotic).",
+    "totalCost": "3945937,5",
+    "ecMaxContribution": "3945937,5",
+    "coordinator": "Universit‡ degli Studi di Siena",
+    "coordinatorCountry": "IT",
+    "participants": "EVIDENCE SRL;HERTA SECURITY SL;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;VIMAR SPA;SECO SRL;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "IT;ES;EL",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 663000
+        },
+        "950352748": {
+            "orgId": "950352748",
+            "orgName": "VIMAR SPA",
+            "ecContrib": 317500
+        },
+        "951529843": {
+            "orgId": "951529843",
+            "orgName": "HERTA SECURITY SL",
+            "ecContrib": 318125
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 320000
+        },
+        "999737194": {
+            "orgId": "999737194",
+            "orgName": "EVIDENCE SRL",
+            "ecContrib": 596000
+        },
+        "999898020": {
+            "orgId": "999898020",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI SIENA",
+            "ecContrib": 0
+        },
+        "941693170": {
+            "orgId": "941693170",
+            "orgName": "SECO SRL",
+            "ecContrib": 745938
+        }
+    },
+    "calculatedTotalContribution": 2960563
+}

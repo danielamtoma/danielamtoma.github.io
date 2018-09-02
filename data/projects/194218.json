@@ -1,0 +1,58 @@
+{
+    "rcn": "194218",
+    "acronym": "ESCUDO-CLOUD",
+    "topics": "ICT-07-2014",
+    "title": "Enforceable Security in the Cloud to Uphold Data Ownership",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Cloud computing is increasingly a necessary strategical ICT infrastructure component for European companies to successfully compete in the world-wide economy. The advantages of renting ICT infrastructures, platforms, and services, with easy access to scalability and elasticity, are driving an ever accelerating transfer toward the cloud of data and applications. Unfortunately, such a convenience comes at the price of the data owners losing control over their own data and any consequent misuse or security threats on them, which often limit the owner's adoption of the cloud's potential capabilities. On one hand, cloud providers can be assumed to employ basic security mechanisms for protecting data in storage, processing, and communication, devoting resources to ensure security that many medium and small companies may not be able to afford. On the other hand, data owners, when relying on the cloud, lose control over data and their processing, hence leaving them potentially exposed. Today data owners have to choose between having security but limited functionality or fully enjoying functionality but compromising on security and privacy guarantees. This situation has a strong detrimental impact on the adoption and acceptability of cloud services. Data owners may refrain from relying on the cloud for certain data, which they consider more sensitive or critical, or they use the cloud but remain exposed to the consequences of improper protection and control. The goal of ESCUDO is to empower data owners as first class citizens of the cloud. ESCUDO provides effective and deployable solutions allowing data owners to maintain control over their data when relying on Cloud Service Providers (CSPs) for data storage, processing, and management, without sacrificing on functionality. ESCUDO consortium sees the participation of major industry players in the cloud area, and of an innovative SME, contributing real-world use cases, and providing strong exploitation and impact.",
+    "totalCost": "4822750",
+    "ecMaxContribution": "3827000",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITA' DEGLI STUDI DI BERGAMO;IBM RESEARCH GMBH;SAP SE;WELLNESS TELECOM SL;EMC INFORMATION SYSTEMS INTERNATIONAL;BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY;TECHNISCHE UNIVERSITAT DARMSTADT",
+    "participantCountries": "IT;CH;DE;ES;IE;UK",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 599750
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999595380": {
+            "orgId": "999595380",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI BERGAMO",
+            "ecContrib": 597000
+        },
+        "959978349": {
+            "orgId": "959978349",
+            "orgName": "EMC INFORMATION SYSTEMS INTERNATIONAL",
+            "ecContrib": 303125
+        },
+        "991160066": {
+            "orgId": "991160066",
+            "orgName": "WELLNESS TELECOM SL",
+            "ecContrib": 235750
+        },
+        "999911212": {
+            "orgId": "999911212",
+            "orgName": "SAP SE",
+            "ecContrib": 611250
+        },
+        "999908593": {
+            "orgId": "999908593",
+            "orgName": "BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+            "ecContrib": 630625
+        },
+        "999995796": {
+            "orgId": "999995796",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MILANO",
+            "ecContrib": 849500
+        }
+    },
+    "calculatedTotalContribution": 3827000
+}

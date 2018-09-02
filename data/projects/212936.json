@@ -1,0 +1,68 @@
+{
+    "rcn": "212936",
+    "acronym": "MELOA",
+    "topics": "SC5-18-2017",
+    "title": "Multi-purpose/Multi-sensor Extra Light Oceanography Apparatus",
+    "startDate": "01/12/2017",
+    "endDate": "28/02/2021",
+    "objective": "The MELOA project proposes to develop a low-cost, easy-to-handle, wave resilient, multi-purpose, multi-sensor, extra light surface drifter for use in all water environments, ranging from deep-sea to inland waters, including coastal areas, river plumes and surf zones. The device will be developed as an upgrade to the WAVY drifter conceived by the Faculty of Engineering of the University of Porto, which was used to measure the surface circulation forced by wave breaking, including detailed structure of rifts and the littoral drift current (Jorge da Silva et al, 2016).\nThe philosophy of the WAVY drifter will essentially be respected:\na small-size sphere with just enough room to accommodate power source, GPS-receiver, communications modules, antennae, sensors and data processor;\noptimised buoyancy to prevent the drifter trajectory responding to the wind instead of the current, while providing just enough exposure of the antennae to ensure acquisition of the GPS signal at the required rate and reliable near real-time communications.\nGiven the low influence of wind upon the driftersí displacements, MELOA will provide a cheap effective way to monitor surface currents and surface dynamic features anywhere in the World Ocean. Through equipping the drifters with thermistors at two different levels, the possibility is open for monitoring ìnear-skin temperatureî and near-surface vertical temperature gradients, which will be invaluable for calibration/validation of satellite derived SST fields.",
+    "totalCost": "4694844,75",
+    "ecMaxContribution": "4694844,75",
+    "coordinator": "DEIMOS SPACE SOCIEDAD LIMITADA UNIPERSONAL",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUTO HIDROGRAFICO;INSTITUTO DE SISTEMAS E ROBOTICA-ASSOCIACAO;DEIMOS ENGENHARIA S.A.;INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA;COMPOSITE SOLUTIONS LDA;SMARTBAY IRELAND;OCEANSCAN - MARINE SYSTEMS & TECHNOLOGY LDA;UNIVERSITAT POLITECNICA DE CATALUNYA;COLLECTE LOCALISATION SATELLITES SA",
+    "participantCountries": "PT;IE;ES;FR",
+    "projectParticipants": {
+        "998150953": {
+            "orgId": "998150953",
+            "orgName": "INSTITUTO HIDROGRAFICO",
+            "ecContrib": 487000
+        },
+        "998142126": {
+            "orgId": "998142126",
+            "orgName": "COLLECTE LOCALISATION SATELLITES SA",
+            "ecContrib": 862500
+        },
+        "952690448": {
+            "orgId": "952690448",
+            "orgName": "SMARTBAY IRELAND",
+            "ecContrib": 234614
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 524125
+        },
+        "919790764": {
+            "orgId": "919790764",
+            "orgName": "COMPOSITE SOLUTIONS LDA",
+            "ecContrib": 485145
+        },
+        "999623219": {
+            "orgId": "999623219",
+            "orgName": "DEIMOS ENGENHARIA S.A.",
+            "ecContrib": 240625
+        },
+        "999580830": {
+            "orgId": "999580830",
+            "orgName": "OCEANSCAN - MARINE SYSTEMS & TECHNOLOGY LDA",
+            "ecContrib": 668125
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 421750
+        },
+        "999619824": {
+            "orgId": "999619824",
+            "orgName": "DEIMOS SPACE SOCIEDAD LIMITADA UNIPERSONAL",
+            "ecContrib": 294855
+        },
+        "996405632": {
+            "orgId": "996405632",
+            "orgName": "INSTITUTO DE SISTEMAS E ROBOTICA-ASSOCIACAO",
+            "ecContrib": 476106
+        }
+    },
+    "calculatedTotalContribution": 4694845
+}

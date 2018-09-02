@@ -1,0 +1,23 @@
+{
+    "rcn": "201577",
+    "acronym": "ULKCOND",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Zero damage Ultra-Low-K etch using the precursor CONDensation technique",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "Since the beginning of the electronic evolution, size of transistor never stops to decrease accordingly to Mooreís law. This scaling applies also to the interconnects, composed by conductor and insulating materials, leading to an overall increase of the resistivity of the conductor and the dielectricís capacitance, ultimately causing delayed signal transmission (so-called RC delay). In order to decrease the resistivity, Al was replaced by Cu as a conductor.  The circuitís capacitance can be lowered by using materials with lower dielectric permittivity, named low-kís. Nowadays, the most successful low-k dielectrics are porous organo-silicate glasses, with porosity up to 50%, pore size around 1.5-2 nm and k-values down to 1.8 (k=4.2 for bulk SiO2). Interconnects are nowadays built by the Damascene technique, where the dielectric is first deposited, then locally etched away, followed by metal deposition in the patterned structure and polishing for metal excess removal. Due to their intrinsic porosity, most of processing steps cause low-k damage, amongst which plasma etching is the most damaging. The present proposal aims at understanding and optimizing zero-damage cryogenic etching of low-k materials, compatible with the micro-electronics industry (at temperature above -60∞C). Besides the improvement of the etching process and the better understanding of reactions damaging the low-k materials during plasma etching, this work will investigate the phenomenon of micro-capillary condensation into porous materials, which is not widely explored and can lead to other applications in micro-electronics and in other nanotechnology domains. This research project will contribute to enable the so-called 5nm node in future CMOS manufacturing, and as a consequence it will have a wide economic impact. Finally, this research will allow the applicant to extend his technical and project management skills, strengthening his profile for a future career in the semiconductor industry or R&D.",
+    "totalCost": "160800",
+    "ecMaxContribution": "160800",
+    "coordinator": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 160800
+        }
+    },
+    "calculatedTotalContribution": 160800
+}

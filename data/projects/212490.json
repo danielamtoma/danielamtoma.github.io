@@ -1,0 +1,73 @@
+{
+    "rcn": "212490",
+    "acronym": "CHARIOT",
+    "topics": "IoT-03-2017",
+    "title": "Cognitive Heterogeneous Architecture for Industrial IoT",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "CHARIOT will provide a design method and cognitive computing platform supporting a unified approach towards Privacy, Security and Safety (PSS) of IoT Systems including the following innovations: \n\nï A Privacy and security protection method building on state of the art Public Key Infrastructure (PKI) technologies to enable the coupling of a pre-programmed private key deployed to IoT devices with a corresponding private key on Blockchain system.\nï A Blockchain ledger in which categories of IoT physical, operational and functional changes are both recorded and affirmed/approved by a combination of a cognitive engine and private key hashing between the cognitive engine and IoT devices to authorise change and, likewise, invalidating any and all other changes be they malicious or otherwise.  \nï A fog-based decentralised infrastructure for Firmware Security integrity checking that leverages a Blockchain ledger to enhance physical, operational and functional security of IoT systems, including actuation and deactivation. \nï An accompanying IoT Safety Supervision Engine providing a novel solution to the challenges of securing IoT data, devices and functionality in new and existing industry-specific safety critical systems.  \nï A Cognitive System and Method with accompanying supervision, analytics and prediction models enabling high security and integrity of Industrials IoT.\nï New methods and tools for static code analysis of IoT devices, resulting in more efficient secure and safer IoT software development and V&V.\n\nThree Living Labs will demonstrate realistic and compelling heterogeneous solutions through industry reference implementations at representative scale, with the underlying goal of demonstrating that Secure, Privacy Mediated and Safety IoT imperatives are collectively met, in turn delivering a key stepping stone to the EUís roadmap for the next generation IoT platforms and services.",
+    "totalCost": "4928562,5",
+    "ecMaxContribution": "4928562,5",
+    "coordinator": "INLECOM SYSTEMS LTD",
+    "coordinatorCountry": "UK",
+    "participants": "INFORMATION SHARING COMPANY SRL;ATHENS INTERNATIONAL AIRPORT S.A.;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;TRENITALIA SPA;IBM IRELAND LIMITED;ASPISEC SRL;EBOS TECHNOLOGIES LIMITED;BUSINESS-E SPA;TELCOSERV SCHEDIASMOS YLOPOIHSH & BELTIOPOIHSH THLEPIKOINONIAKON DIKTION-EGKATASTASIS THLEPIKOINONIAKOU EKSOPLISMOU DIATAKSEON-KATASKEVASTIK;VLTN GCV;ZORGIOS IOANNIS",
+    "participantCountries": "IT;EL;FR;IE;CY;BE",
+    "projectParticipants": {
+        "999949624": {
+            "orgId": "999949624",
+            "orgName": "TRENITALIA SPA",
+            "ecContrib": 282500
+        },
+        "953745711": {
+            "orgId": "953745711",
+            "orgName": "BUSINESS-E SPA",
+            "ecContrib": 0
+        },
+        "997831726": {
+            "orgId": "997831726",
+            "orgName": "INLECOM SYSTEMS LTD",
+            "ecContrib": 823750
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 449312
+        },
+        "912180047": {
+            "orgId": "912180047",
+            "orgName": "TELCOSERV SCHEDIASMOS YLOPOIHSH & BELTIOPOIHSH THLEPIKOINONIAKON DIKTION-EGKATASTASIS THLEPIKOINONIAKOU EKSOPLISMOU DIATAKSEON-KATASKEVASTIK",
+            "ecContrib": 349688
+        },
+        "917796735": {
+            "orgId": "917796735",
+            "orgName": "ZORGIOS IOANNIS",
+            "ecContrib": 502375
+        },
+        "952279944": {
+            "orgId": "952279944",
+            "orgName": "VLTN GCV",
+            "ecContrib": 397500
+        },
+        "917799936": {
+            "orgId": "917799936",
+            "orgName": "ASPISEC SRL",
+            "ecContrib": 349375
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 550312
+        },
+        "997848022": {
+            "orgId": "997848022",
+            "orgName": "EBOS TECHNOLOGIES LIMITED",
+            "ecContrib": 553750
+        },
+        "999484994": {
+            "orgId": "999484994",
+            "orgName": "ATHENS INTERNATIONAL AIRPORT S.A.",
+            "ecContrib": 271250
+        }
+    },
+    "calculatedTotalContribution": 4529812
+}

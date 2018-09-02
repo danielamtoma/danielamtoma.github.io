@@ -1,0 +1,23 @@
+{
+    "rcn": "200763",
+    "acronym": "QUESS",
+    "topics": "ERC-CoG-2015",
+    "title": "Quantum Environment Engineering for Steered Systems",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "The superconducting quantum computer has very recently reached the theoretical thresholds for fault-tolerant universal quantum computing and a quantum annealer based on superconducting quantum bits, qubits, is already commercially available. However, several fundamental questions on the way to efficient large-scale quantum computing have to be answered: qubit initialization, extreme gate accuracy, and quantum-level power consumption.\n\nThis project, QUESS, aims for a breakthrough in the realization and control of dissipative environments for quantum devices. Based on novel concepts for normal-metal components integrated with superconducting quantum nanoelectronics, we experimentally realize in-situ-tunable low-temperature environments for superconducting qubits. These environments can be used to precisely reset qubits at will, thus providing an ideal initialization scheme for the quantum computer. The environment can also be well decoupled from the qubit to allow for coherent quantum computing. Utilizing this base technology, we find fundamental quantum-mechanical limitations to the accuracy and power consumption in quantum control, and realize optimal strategies to achieve these limits in practice. Finally, we build a concept of a universal quantum simulator for non-Markovian open quantum systems and experimentally realize its basic building blocks.\n\nThis proposal provides key missing ingredients in realizing efficient large-scale quantum computers ultimately leading to a quantum technological revolution, with envisioned practical applications in materials and drug design, energy harvesting, artificial intelligence, telecommunications, and internet of things. Furthermore, this project opens fruitful horizons for tunable environments in quantum technology beyond the superconducting quantum computer, for applications of quantum-limited control, for quantum annealing, and for simulators of non-Markovian open quantum systems.",
+    "totalCost": "1949570",
+    "ecMaxContribution": "1949570",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

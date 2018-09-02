@@ -1,0 +1,23 @@
+{
+    "rcn": "204217",
+    "acronym": "DADIYSO COMP",
+    "topics": "JTI-CS2-2015-CFP02-AIR-02-15",
+    "title": "DESIGN AGAINST DISTORTION WITH LAYUP AND SHAPE OPTIMIZATION OF CARBON-EPOXY AEROSPACE COMPOSITES",
+    "startDate": "01/09/2016",
+    "endDate": "28/02/2019",
+    "objective": "In the ìDADIYSO COMPî project Swerea SICOMP covers the entire topic and will be the only partner. Swerea SICOMP will develop an FE-based simulation tool for rapid predictions of cure induced part distortions including sub models for cure kinetics, glass transition, and constitutive relations among other aspects. A balance between accuracy, complexity, and simulation time will be achieved which will enable the tool to be used for optimization purposes. Carbon-epoxy distortion calibration coupons and small demonstrator parts will be manufactured and measured to validate the simulation tool for rapid cure distortion predictions. \n\nThe final simulation tool for cure distortions will be included in an optimisation framework to allow for shape and layup optimisation to account for cure induced part distortions. The optimization framework will evaluate which areas within the part have the most significant contribution to global distortion, and then adjust the tool/part shape and material layup in these areas to minimize the effects of distortion. \n\nAlso an efficient part data (CAD \\ ply-book) to CAE interfacing method will be developed to import a part design into the optimisation environment, as well as the reverse process. Emphasis will be on creating tools that are accurate and robust, while maintaining a level of complexity that would not be overwhelming for a non-expert engineer in either cure distortion or optimization. \n\nFinally the entire package will be demonstrated on one or more use cases together with the topic manager. The final result of DADIYSO COMP will help designers to predict and prevent distortion in a reliable manner as well as give ideas on how to improve the design for manufacturing",
+    "totalCost": "343996,25",
+    "ecMaxContribution": "343996",
+    "coordinator": "SWEREA SICOMP AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999762414": {
+            "orgId": "999762414",
+            "orgName": "SWEREA SICOMP AB",
+            "ecContrib": 343996
+        }
+    },
+    "calculatedTotalContribution": 343996
+}

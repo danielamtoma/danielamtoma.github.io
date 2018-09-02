@@ -1,0 +1,23 @@
+{
+    "rcn": "208699",
+    "acronym": "ThReDS",
+    "topics": "MSCA-IF-2016",
+    "title": "A Theory of Reference for Distributional Semantics",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2019",
+    "objective": "One of the most fundamental human faculties is 'reference': the capacity to 'talk about things'. This extraordinary ability is at the core of many forms of human exchange, from asking for the salt at the dinner table to collaboratively building a solar probe. It involves using linguistic signs to identify things in the world and bring them to the mind of another. Reference is poorly understood: in particular, we do not know how humans build a shared linguistic representation of their environment, which they use to link words and world. My goal is to build a computational model of the way people acquire world knowledge from language and translate knowledge back into language. My overall framework includes three steps: 1) creating a representation of the way people 'talk about things', using distributional semantics (DS: a computational approach to modelling word usage); 2) automatically mapping the distributional model onto a partial set-theoretic model (a formal knowledge representation expressing shared beliefs about the world); 3) using the set-theoretic model to generate unobserved linguistic expressions which refer. The pipeline will be evaluated via an online game where a computer has to produce references to well-known concepts and individuals for a human tester. This work will significantly advance the state-of-the-art in linguistics: while DS has enjoyed considerable success in modelling lexical phenomena, it is currently showing its limits in explaining referential aspects of meaning. Conversely, referential semantics is still far from fully explaining the cognitive aspects of concept acquisition and reuse. The proposed investigation requires a very novel integration of computational semantics (my area of expertise) and formal linguistics (in which my host is an internationally recognised expert). The collaboration will give us the chance to lead a burgeoning area of research aiming at integrating reference into DS.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "UNIVERSIDAD POMPEU FABRA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

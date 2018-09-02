@@ -1,0 +1,28 @@
+{
+    "rcn": "198019",
+    "acronym": "OCLOC",
+    "topics": "ERC-ADG-2014",
+    "title": "From Open to Closed Loop Optimal Control of PDEs",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "The proposal addresses some of the most pressing topics in optimal control of partial differential equations (PDEs): Non-smooth, non-convex optimal control and computational techniques for feedback control. These two topics will be applied to the large scale optimal control problems for the bidomain equations, which are the established model to describe the electrical activity of the heart. Due to their rich dynamical systems behavior these systems are particularly challenging.\n\nThe use of non-smooth functionals is of great practical relevance in many diverse situations. They promote sparsity, and provide a perfect formulation for switching and multi-bang controls, and for the optimal actuator location problem. For inverse problems the case $L^{p}$ with $p\\in (0,1)$ is of special statistical importance, and $L^0$ can be the basis of a new formulation for topology optimization problems. But lack of Lipschitz continuity and of convexity are significant obstacles which can only be overcome by the development of new analytical and numerical concepts. The new algorithmic concepts will also be applicable to important non-smooth problems in continuum mechanics, as for instance the quasi-static evolution of fractures.\n\nClosed loop control is of paramount importance due to its {\\bf robustness} against system perturbations. Nevertheless, numerical realization of optimal feedback strategies for nonlinear PDEs has barely been touched since the curse of dimensionality makes direct numerical treatment of the Hamilton-Jacobi-Bellman equation unfeasible. We shall therefore develop and analyze suboptimal strategies based on model reduction and interpolation techniques, and on model-predictive control. The availability of boundary and near-to-the boundary measurements together with dynamic observer techniques will allow to test the proposed methods to obtain suboptimal feedback controls for the bidomain equations.",
+    "totalCost": "1678325,01",
+    "ecMaxContribution": "1678325,01",
+    "coordinator": "UNIVERSITAET GRAZ",
+    "coordinatorCountry": "AT",
+    "participants": "OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+    "participantCountries": "AT",
+    "projectParticipants": {
+        "999823912": {
+            "orgId": "999823912",
+            "orgName": "OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+            "ecContrib": 686264
+        },
+        "999873188": {
+            "orgId": "999873188",
+            "orgName": "UNIVERSITAET GRAZ",
+            "ecContrib": 992061
+        }
+    },
+    "calculatedTotalContribution": 1678325
+}

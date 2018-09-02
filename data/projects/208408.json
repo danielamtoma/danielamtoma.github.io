@@ -1,0 +1,23 @@
+{
+    "rcn": "208408",
+    "acronym": "EnzVolNet",
+    "topics": "MSCA-IF-2016",
+    "title": "COMPUTATIONAL EVOLUTION OF ENZYME VARIANTS THROUGH CONFORMATIONAL NETWORKS",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "Natural enzymes have evolved to perform their functions under complex selective pressures, being capable of accelerating reactions by several orders of magnitude. In particular, heteromeric enzyme complexes catalyze an enormous array of useful reactions that are often allosterically regulated by different protein partners. Unfortunately, the underlying physical principles of this regulation are still under debate, which makes the alteration of enzyme structure towards useful isolated subunits a tremendous challenge for modern chemical biology. Exploitation of isolated enzyme subunits, however, is advantageous for biosynthetic applications as it reduces the metabolic stress on the host cell and greatly simplifies efforts to engineer specific properties of the enzyme. Current approaches to alter natural enzyme complexes are based on the evaluation of thousands of variants, which make them economically unviable and the resulting catalytic efficiencies lag far behind their natural counterparts. The revolutionary nature of EnzVolNet relies on the application of conformational network models (e.g Markov State Models) to extract the essential functional protein dynamics and key conformational states, reducing the complexity of the enzyme design paradigm and completely reformulating previous computational design approaches. Initial mutations are extracted from costly random mutagenesis experiments and chemoinformatic tools are used to identify beneficial mutations leading to more proficient enzymes. This new strategy will be applied to develop stand-alone enzymes from heteromeric protein complexes, with advantageous biosynthetic properties and improve activity and substrate scope. Experimental evaluation of our computational predictions will finally elucidate the potential of the present approach for mimicking Natureís rules of evolution.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "UNIVERSITAT DE GIRONA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999895983": {
+            "orgId": "999895983",
+            "orgName": "UNIVERSITAT DE GIRONA",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

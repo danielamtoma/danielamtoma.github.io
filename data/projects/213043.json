@@ -1,0 +1,68 @@
+{
+    "rcn": "213043",
+    "acronym": "SERENA",
+    "topics": "ICT-31-2017",
+    "title": "gan-on-Silicon Efficient mm-wave euRopean systEm iNtegration plAtform",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Millimetre-wave (mm-wave) frequencies are currently being exploited for a wide range of applications such as radars, wireless communication, and imaging. There is a strong industry pull to substantially reduce the cost of mm-wave systems for future key markets such as 5G wireless communications and autonomous vehicles (automotive radar sensors). These systems will increasingly rely on active antenna arrays and electronic beam-steering. A fundamental challenge is to bring into production high performance mm-wave active antenna systems, at a viable price-point and low energy consumption.\nThe objective of SERENA is to scale the functional performance of mm-wave beam-steering systems in terms of improved output power and efficiency (2x), reduced form factor (4x), increased data rate (up to 100x), and increased affordability (10x). To reach these goals, SERENA will provide an optimized hybrid analog/digital mm-wave beam-steering system architecture. A proof-of-concept prototype will be built using state-of-the-art GaN-on-Silicon technology, SiGe/CMOS integrated circuits and a novel heterogeneous 3D integration approach to reach low-cost with beyond state-of-the-art performance (high output power and efficiency).\nThe SERENA project will contribute to doubling the economic value of semiconductor component production in Europe within the next 10 years by a two-pronged approach. First, the SERENA consortium spans the whole electronics manufacturing and supply chain (from wafers to system providers) and world class academic institutions. Hence, SERENA considerably strengthens the design ecosystem for key semiconductors (GaN-on-Si, SiGe/CMOS) and advanced 3D packaging.  Second, the SERENA integration platform will enable ìmass customizationî of advanced mm-wave systems, where the front-end circuitry can be adapted for specific market needs.",
+    "totalCost": "3910185",
+    "ecMaxContribution": "3910185",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "TOTALFORSVARETS FORSKNINGSINSTITUT;INFINEON TECHNOLOGIES AUSTRIA  AG;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;OMMIC SAS;TECHNISCHE UNIVERSITAET BERLIN;ERICSSON AB;EPIGAN NV;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "SE;AT;DE;FR;BE;EL",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 197450
+        },
+        "999910921": {
+            "orgId": "999910921",
+            "orgName": "ERICSSON AB",
+            "ecContrib": 553992
+        },
+        "999612452": {
+            "orgId": "999612452",
+            "orgName": "OMMIC SAS",
+            "ecContrib": 619000
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 0
+        },
+        "999627875": {
+            "orgId": "999627875",
+            "orgName": "TOTALFORSVARETS FORSKNINGSINSTITUT",
+            "ecContrib": 408600
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 603812
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 312000
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 199611
+        },
+        "954412586": {
+            "orgId": "954412586",
+            "orgName": "EPIGAN NV",
+            "ecContrib": 327594
+        },
+        "999705087": {
+            "orgId": "999705087",
+            "orgName": "INFINEON TECHNOLOGIES AUSTRIA  AG",
+            "ecContrib": 688125
+        }
+    },
+    "calculatedTotalContribution": 3910184
+}

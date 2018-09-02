@@ -1,0 +1,28 @@
+{
+    "rcn": "194946",
+    "acronym": "HNSKMAP",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "High-order Numerical Schemes for Kinetic Models with Applications in Plasma Physics",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2018",
+    "objective": "In the proposed research, we will devote to the mathematical and numerical analysis of kinetic models. Kinetic theory has wide applications in physical and social sciences, such as plasma physics, semi-conductors, polymers, traffic networking etc.\n \nOn the one hand, we want to propose and analyse systematic numerical methods for nonlinear kinetic models which have some challenging difficulties such as physical conservations, asymptotic regimes and stiffness. On the other hand, applications to plasma physics will be investigated, which are mainly high dimensional problems with multi-scale and complex geometries. Moreover collisions between particles for large time scale simulation need to be taken into account. \nWe would like to develop a class of less dissipative high order Hermite methods together with weighted essentially non-oscillatory (WENO) reconstructions to control spurious numerical oscillations, and high order asymptotic preserving (AP) discontinuous Galerkin (DG) schemes with implicit-explicit (IMEX) time discretizations for multi-scale stiff problems under unresolved meshes. More importantly, these developed numerical methods would satisfy the positivity preserving (PP) principle, such as positive density distribution functions for kinetic descriptions, which is often violated by high order numerical methods with physical meaningless values. \n\nThis project will combine the expertise of the Experienced Researcher Dr. Tao Xiong in high order PP flux limiters and high order AP DG-IMEX schemes, and the Host Dr. Francis Filbet in mathematical modellings and numerical tools for kinetic equations. The developed approaches will be translated to the study of turbulent plasma physics such as 4D drift kinetic, 5D gyro-kinetic and 6D kinetic models etc.",
+    "totalCost": "185076",
+    "ecMaxContribution": "185076",
+    "coordinator": "UNIVERSITE PAUL SABATIER TOULOUSE III",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITE LYON 1 CLAUDE BERNARD",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999902579": {
+            "orgId": "999902579",
+            "orgName": "UNIVERSITE LYON 1 CLAUDE BERNARD",
+            "ecContrib": 0
+        },
+        "999851169": {
+            "orgId": "999851169",
+            "orgName": "UNIVERSITE PAUL SABATIER TOULOUSE III",
+            "ecContrib": 185076
+        }
+    },
+    "calculatedTotalContribution": 185076
+}

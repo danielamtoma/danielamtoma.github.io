@@ -1,0 +1,38 @@
+{
+    "rcn": "199104",
+    "acronym": "SYNERGY",
+    "topics": "H2020-TWINN-2015",
+    "title": "Synergy for Smart Multi-Objective Optimisation",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "Many real-world application areas, such as advanced manufacturing, involve optimisation of several, often time-consuming and conflicting objectives. For example, they require the maximisation of the product quality while minimising the production cost, and rely on demanding numerical simulations in order to assess the objectives. These, so-called multi-objective optimisation problems can be solved more efficiently if parallelisation is used to execute the simulations simultaneously and if the simulations are partly replaced by accurate surrogate models.\nThe overall goal of the SYNERGY project is to overcome the limitations of the current initial-stage research in multi-objective optimization at the Joûef Stefan Institute (JSI), Ljubljana, Slovenia, where efficiency measures have only been explored at a very small scale and with no collaboration with other partners. To that end, JSI initiates this project with two high-profile research institutions with complementary expertise, UniversitÈ des sciences et technologies de Lille (USTL), France, and Cologne University of Applied Sciences (CUAS), Germany. While USTL is a leading partner in parallelisation on large-scale heterogeneous architectures, CUAS provides expertise in surrogate modelling and its deployment in optimisation problems.\nThe project addresses three core objectives: (1) improve JSI excellence and unleash its research and innovation potential through training in parallelisation and surrogate modelling, and aiding organisation of workshops that will foster discovery of new ways of combining the two methods; (2) raise the research profile of JSI staff and broaden its recognition through networking that will result in knowledge transfer, joint publications and future research projects; and (3) increase the overall research and innovation potential of Slovenia by disseminating the acquired knowledge to other Slovenian research organisations, and deploying it in future applied projects.",
+    "totalCost": "1016890",
+    "ecMaxContribution": "1016890",
+    "coordinator": "INSTITUT JOZEF STEFAN",
+    "coordinatorCountry": "SI",
+    "participants": "UNIVERSITE DE LILLE;TECHNISCHE HOCHSCHULE KOLN;UNIVERSITE DES SCIENCES ET TECHNOLOGIES DE LILLE - LILLE I",
+    "participantCountries": "FR;DE",
+    "projectParticipants": {
+        "999899378": {
+            "orgId": "999899378",
+            "orgName": "UNIVERSITE DES SCIENCES ET TECHNOLOGIES DE LILLE - LILLE I",
+            "ecContrib": 0
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 489875
+        },
+        "998122629": {
+            "orgId": "998122629",
+            "orgName": "TECHNISCHE HOCHSCHULE KOLN",
+            "ecContrib": 266412
+        },
+        "910186018": {
+            "orgId": "910186018",
+            "orgName": "UNIVERSITE DE LILLE",
+            "ecContrib": 260602
+        }
+    },
+    "calculatedTotalContribution": 1016889
+}

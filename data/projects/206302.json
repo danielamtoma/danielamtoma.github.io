@@ -1,0 +1,23 @@
+{
+    "rcn": "206302",
+    "acronym": "GRANITE",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "GRAvitational waves from Neutron stars: Investigating Transient Emission",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2018",
+    "objective": "In this research project we will perform the first search for a promising new type of gravitational-wave signal from neutron stars: medium-duration transients (MDTs). We will use data of unprecedented sensitivity from the new detectors Advanced LIGO and Advanced Virgo. A successful detection will provide a novel test of gravity and unique insights into the structure of neutron stars.\nGravitational waves (GWs) were predicted by Einstein a century ago, but are extremely hard to detect. Their first direct observation will herald the start of a new era in astronomy but requires specialised searches to extract the full astrophysical information about each source. Much effort already goes into the search for continuous waves (CWs) emitted by rotating neutron stars (NSs) with non-axisymmetric deformations, which should be observable over many years. Only very weak CWs are expected, but NSs can also emit relatively strong transient GWs on much shorter timescales. In this fellowship we will develop and implement the first practical search for signals spanning these extremes, bridging the gap between continuous and transient phenomena.\nBased on an explicit CW-like signal model, limited in duration, and on a Bayesian model selection approach, we will first construct an optimal detection method for medium-duration transient (MDT) signals taking into account astrophysical priors on transient GW emission from rotating NSs. Second, we will use synergies with established CW data-analysis methods to guarantee an efficient implementation and build on previous experience to account for complex detector noise properties. We will then apply these newly-developed methods to the best advanced-detector data available. This novel CW-based transient search will be the first to provide the ability to detect NSs as MDT sources, to estimate their astrophysical parameters with high precision, and to infer their internal properties which are inaccessible through other observational methods.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "UNIVERSITY OF GLASGOW",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

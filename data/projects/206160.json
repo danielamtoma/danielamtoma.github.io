@@ -1,0 +1,68 @@
+{
+    "rcn": "206160",
+    "acronym": "I3DS",
+    "topics": "COMPET-4-2016",
+    "title": "Integrated 3D Sensors suite",
+    "startDate": "01/11/2016",
+    "endDate": "31/01/2019",
+    "objective": "The I3DS platform (Integrated 3D sensors) is a generic and modular system answering the needs of near-future space exploration missions in terms of exteroceptive and proprioceptive sensors with integrated pre-processing and data concentration functions. It consists in state-of-the art sensors and illumination devices integrated in a coherent architecture as inter-changeable building blocks and targeting a vast range of missions such as interplanetary missions, formation flying missions, non-cooperative target capture such as debris removal missions, cooperative rendezvous: servicing & spacetugs, landers, rovers, etc... \n\nThe architecture of I3DS enables pushing the vision sensors as part of future exploration satellite platforms standard GNC units. It enables computing navigation solutions with on-board computers to be available for post-2020 missions autonomously from Ground. To do so, the data throughput provided by the sensors is pre-processed (filtering, compression, correction of distortions) by dedicated boards within I3DS. I3DS provides also an abstraction of the many electrical interfaces of the sensors by centralising the data flux using dedicated communication nodes. The mechanical interface is also simplified through the integration of the different sensors and boards in an integrated module.\n\nThe I3DS design enables easy and low-cost configurations and reconfigurations of a robotic platform for any mission using the modular sensors. The I3DS project intends to develop autonomous robotic platforms to achieve a large scope of spatial mission. Ultimately, three demonstrators will be tested in laboratory, thanks to appropriate tests benches and infrastructures in order to demonstrate the INSES concept modularity and performances.\n-",
+    "totalCost": "3393663,75",
+    "ecMaxContribution": "3393663,75",
+    "coordinator": "THALES ALENIA SPACE FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "COSINE RESEARCH BV;STIFTELSEN SINTEF;HERTZ SYSTEMS LTD SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA;THALES ALENIA SPACE UK LTD;THALES ALENIA SPACE ITALIA SPA;PRZEMYSLOWY INSTYTUT AUTOMATYKI I POMIAROW PIAP;TERMA A/S;THALES ALENIA SPACE ESPANA, SA;CRANFIELD UNIVERSITY",
+    "participantCountries": "NL;NO;PL;UK;IT;DK;ES",
+    "projectParticipants": {
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 555841
+        },
+        "999488195": {
+            "orgId": "999488195",
+            "orgName": "THALES ALENIA SPACE ITALIA SPA",
+            "ecContrib": 144600
+        },
+        "999549984": {
+            "orgId": "999549984",
+            "orgName": "PRZEMYSLOWY INSTYTUT AUTOMATYKI I POMIAROW PIAP",
+            "ecContrib": 198700
+        },
+        "998214585": {
+            "orgId": "998214585",
+            "orgName": "COSINE RESEARCH BV",
+            "ecContrib": 200125
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 330291
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 276531
+        },
+        "936556147": {
+            "orgId": "936556147",
+            "orgName": "THALES ALENIA SPACE UK LTD",
+            "ecContrib": 604999
+        },
+        "999958936": {
+            "orgId": "999958936",
+            "orgName": "TERMA A/S",
+            "ecContrib": 319895
+        },
+        "999701595": {
+            "orgId": "999701595",
+            "orgName": "THALES ALENIA SPACE ESPANA, SA",
+            "ecContrib": 405212
+        },
+        "924150914": {
+            "orgId": "924150914",
+            "orgName": "HERTZ SYSTEMS LTD SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+            "ecContrib": 357469
+        }
+    },
+    "calculatedTotalContribution": 3393663
+}

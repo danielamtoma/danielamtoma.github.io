@@ -1,0 +1,23 @@
+{
+    "rcn": "200702",
+    "acronym": "TOTAL",
+    "topics": "ERC-StG-2015",
+    "title": "Technology transfer between modern algorithmic paradigms",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "The two most recognized algorithmic paradigms of dealing with NP-hard problems in theoretical computer science nowadays are approximation algorithms and fixed parameter tractability (FPT). Despite the fact that both fields are by now developed, they have grown mostly on their own. In our opinion the two fields have critical mass allowing for synergy effects to appear when using techniques from one area to obtain results in the other, which is the main theme of the project.\nFurthermore, practical effectiveness of randomized local search heuristics is a not yet understood phenomenon. We believe that substantial increase of our understanding of superpolynomial running times in recent years should allow for rigorous proofs of parameterized and approximation results obtained by those methods.\nBased on our experience with parameterized complexity and approximation algorithms we propose three research directions with potential of solving major long-standing open problems in both areas with the following objectives.\n(a) Transfer from Approximation to FPT: use the PCP theorem to prove lower bounds for exact parameterized algorithms under the Exponential Time Hypothesis and take advantage of extended formulations in FPT branching algorithms.\n(b) Transfer from FPT to Approximation: utilize parameterized algorithms tools in local-search-based approximation algorithms and explore the potential of proving new inapproximability results based on the Exponential Time Hypothesis.\n(c) Rigorous Analysis of Practical Heuristics: unravel the practical effectiveness of randomized local search heuristics by proving their parameterized and approximation properties, when given subexponential or even moderately exponential running time.\nOur objectives lie in the frontier of fixed parameter tractability and approximation areas. Complete resolution of our goals would dramatically change our understanding of both areas, with further consequences in other disciplines within computer science.",
+    "totalCost": "1417625",
+    "ecMaxContribution": "1417625",
+    "coordinator": "UNIWERSYTET WARSZAWSKI",
+    "coordinatorCountry": "PL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999572294": {
+            "orgId": "999572294",
+            "orgName": "UNIWERSYTET WARSZAWSKI",
+            "ecContrib": 1417625
+        }
+    },
+    "calculatedTotalContribution": 1417625
+}

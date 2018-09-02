@@ -1,0 +1,17 @@
+{
+    "rcn": "216191",
+    "acronym": "OCAL",
+    "topics": "ERC-2017-ADG",
+    "title": "Optimal Control at Large",
+    "startDate": "01/11/2018",
+    "endDate": "31/10/2023",
+    "objective": "Despite wide ranging progress on both the theory and applications of optimal control for more than half a century, considerable challenges remain when it comes to applying the resulting methods to large scale systems. The difficulties become even greater when one moves outside the classical realm of model based optimal control to address problems where models are replaced by data, or macroscopic behaviours emerge out of microscopic interactions of large populations of agents. To address these challenges, we propose here to develop a framework for approximating optimal control problems using randomised optimisation. The starting point will be formulations of optimal control problems as infinite dimensional linear programs. Our recent work suggests that randomised methods on the one hand can serve as a basis for algorithms to approximate such infinite programs and on the other enjoy close connections to statistical learning theory, providing a direct link to data driven approaches. Turning these intuitions into an approximation framework for optimal control that rests on solid theoretical foundations and provides explicit accuracy guarantees will be the methodological contribution of the proposed research. The resulting methods can find a range of applications in engineering and beyond; here we will investigate two such applications. One is motivated by our work on energy management in buildings and districts. The challenge here is the dimensionality of the system, especially if one would like to include weather and other forecast information and the corresponding uncertainty. The second application will be to so-called population systems, that involve the interaction of many agents with local decision-making capabilities coupled through the use of common resources. Here the main challenges are defining suitable 'features' to abstract the individual states and the integration of uncertainty due to the presence of non-participating agents.",
+    "totalCost": "2497058",
+    "ecMaxContribution": "2497058",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

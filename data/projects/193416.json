@@ -1,0 +1,23 @@
+{
+    "rcn": "193416",
+    "acronym": "JSPEC",
+    "topics": "ERC-StG-2014",
+    "title": "Josephson Junction Spectroscopy of Mesoscopic Systems",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2020",
+    "objective": "Spectroscopy is a powerful tool to probe matter.  By measuring the spectrum of elementary excitations, one reveals the symmetries and interactions inherent in a physical system.  Mesoscopic devices, which preserve quantum coherence over lengths larger than the atomic scale, offer a unique possibility to both engineer and investigate excitations at the single quanta level.  Unfortunately, conventional spectroscopy techniques are inadequate for coupling radiation to mesoscopic systems and detecting their small absorption signals.  I propose an on-chip, Josephson-junction based spectrometer which surpasses state-of-the-art instruments and is ideally suited for probing elementary excitations in mesoscopic systems.  It has an original design providing uniform wideband coupling from 2-2000 GHz, low background noise, high sensitivity, and narrow linewidth.\n\nI describe the operating principle and design of the spectrometer, show preliminary results demonstrating proof-of-concept, and outline three experiments which exploit the spectrometer to address important issues in condensed matter physics.  The experiments are: measuring the lifetime of single quasiparticle and excited Cooper pair states in superconductors, a topic relevant for quantum information processing; determining whether graphene has a bandgap, a fundamental yet unresolved question; and recording a clear spectroscopic signature of Majorana bound states in topological superconductor weak links.\n\nVarious applications of the superconducting circuits developed for the spectrometer include a Josephson vector network analyzer, a cryogenic mixer, a THz camera, a detector for radioastronomy, and a scanning microwave impedance microscope.  In itself the proposed JJ spectrometer is a general purpose tool that will benefit researchers studying mesoscopic systems.  Ultimately, Josephson junction spectroscopy should not only be useful to detect existing elementary excitations but also to discover new ones.",
+    "totalCost": "1997497,5",
+    "ecMaxContribution": "1997497,5",
+    "coordinator": "COLLEGE DE FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999877650": {
+            "orgId": "999877650",
+            "orgName": "COLLEGE DE FRANCE",
+            "ecContrib": 1997498
+        }
+    },
+    "calculatedTotalContribution": 1997498
+}

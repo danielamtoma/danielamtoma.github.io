@@ -1,0 +1,163 @@
+{
+    "rcn": "203404",
+    "acronym": "SafeCOP",
+    "topics": "ECSEL-08-2015",
+    "title": "Safe Cooperating Cyber-Physical Systems using Wireless Communication",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2019",
+    "objective": "SafeCOP (Safe Cooperating Cyber-Physical Systems using Wireless Communication) will establish a safety assurance approach, a platform architecture, and tools for cost-efficient and practical certification of cooperating cyber-physical systems (CO-CPS).\n\nSafeCOP targets safety-related CO-CPS characterized by use of wireless communication, multiple stakeholders, dynamic system definitions, and unpredictable operating environments. In this scenario, no single stakeholder has the overall responsibility over the resulted system-of-systems; safe cooperation relies on the wireless communication; and security and privacy are important concerns. Although such CO-CPS can successfully address several societal challenges, and can lead to new applications and new markets, their certification and development is not adequately addressed by existing practices.\n\nSafeCOP will provide an approach to the safety assurance of CO-CPS, enabling thus their certification and development. The project will define a platform architecture and will develop methods and tools, which will be used to produce safety assurance evidence needed to certify cooperative functions. SafeCOP will extend current wireless technologies to ensure safe and secure cooperation. SafeCOP will also contribute to new standards and regulations, by providing certification authorities and standardization committees with the scientifically validated solutions needed to craft effective standards extended to also address cooperation and system-of-systems issues.\n\nSafeCOP brings clear benefits in terms of cross-domain certification practice and implementations of cooperating systems in all addressed areas: automotive, maritime, healthcare and robotics. The advantages include lower certification costs, increased trustworthiness of wireless communication, better management of increasing complexity, reduced effort for verification and validation, lower total system costs, shorter time to market and increased market share.",
+    "totalCost": "11513398,19",
+    "ecMaxContribution": "3777298",
+    "coordinator": "ALTEN SVERIGE AKTIEBOLAG",
+    "coordinatorCountry": "SE",
+    "participants": "Qamcom Research and Technology AB;INTECS SPA;GMVIS SKYSOFT SA;KUNGLIGA TEKNISKA HOEGSKOLAN;ALTE VISETEC OY;STIFTELSEN SINTEF;THALES ITALIA SPA;TEKNOLOGISK INSTITUT;AITEK SOCIETA' PER AZIONI;ODENSE UNIVERSITETSHOSPITAL;VODAFONE AUTOMOTIVE ITALIA S.P.A.;INSTITUTO SUPERIOR DE ENGENHARIA DO PORTO;DNV GL AS;TEKEVER II AUTONOMOUS SYSTEMS LDA;UNIVERSITA DEGLI STUDI DELL'AQUILA;CONSIGLIO NAZIONALE DELLE RICERCHE;RISE SICS VASTERAS AB;RO TECHNOLOGY SRL;INTELLIGENCE BEHIND THINGS SOLUTIONS SRL;DANMARKS TEKNISKE UNIVERSITET;POLITECNICO DI MILANO;ILMATIETEEN LAITOS;IMPARA SRL;MAELARDALENS HOEGSKOLA;Safety Integrity AB;SITO OY;TECHNICON APS;MARITIME ROBOTICS AS",
+    "participantCountries": "SE;IT;PT;FI;NO;DK",
+    "projectParticipants": {
+        "999782008": {
+            "orgId": "999782008",
+            "orgName": "AITEK SOCIETA' PER AZIONI",
+            "ecContrib": 167717
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 316177
+        },
+        "995925967": {
+            "orgId": "995925967",
+            "orgName": "THALES ITALIA SPA",
+            "ecContrib": 0
+        },
+        "955314492": {
+            "orgId": "955314492",
+            "orgName": "MARITIME ROBOTICS AS",
+            "ecContrib": 194724
+        },
+        "917151879": {
+            "orgId": "917151879",
+            "orgName": "VODAFONE AUTOMOTIVE ITALIA S.P.A.",
+            "ecContrib": 161484
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 165000
+        },
+        "999460356": {
+            "orgId": "999460356",
+            "orgName": "TEKNOLOGISK INSTITUT",
+            "ecContrib": 190500
+        },
+        "999489553": {
+            "orgId": "999489553",
+            "orgName": "ODENSE UNIVERSITETSHOSPITAL",
+            "ecContrib": 22500
+        },
+        "999929060": {
+            "orgId": "999929060",
+            "orgName": "DNV GL AS",
+            "ecContrib": 152812
+        },
+        "999591306": {
+            "orgId": "999591306",
+            "orgName": "ILMATIETEEN LAITOS",
+            "ecContrib": 97300
+        },
+        "956952240": {
+            "orgId": "956952240",
+            "orgName": "RO TECHNOLOGY SRL",
+            "ecContrib": 63000
+        },
+        "919379775": {
+            "orgId": "919379775",
+            "orgName": "SITO OY",
+            "ecContrib": 61719
+        },
+        "999642813": {
+            "orgId": "999642813",
+            "orgName": "INSTITUTO SUPERIOR DE ENGENHARIA DO PORTO",
+            "ecContrib": 120000
+        },
+        "951649444": {
+            "orgId": "951649444",
+            "orgName": "INTECS SPA",
+            "ecContrib": 120000
+        },
+        "999859511": {
+            "orgId": "999859511",
+            "orgName": "UNIVERSITA DEGLI STUDI DELL'AQUILA",
+            "ecContrib": 169391
+        },
+        "933554870": {
+            "orgId": "933554870",
+            "orgName": "RISE SICS VASTERAS AB",
+            "ecContrib": 54800
+        },
+        "928496126": {
+            "orgId": "928496126",
+            "orgName": "Safety Integrity AB",
+            "ecContrib": 114836
+        },
+        "941677262": {
+            "orgId": "941677262",
+            "orgName": "INTELLIGENCE BEHIND THINGS SOLUTIONS SRL",
+            "ecContrib": 69000
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 147000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 125000
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 142050
+        },
+        "958744412": {
+            "orgId": "958744412",
+            "orgName": "TEKEVER II AUTONOMOUS SYSTEMS LDA",
+            "ecContrib": 179588
+        },
+        "996103671": {
+            "orgId": "996103671",
+            "orgName": "ALTEN SVERIGE AKTIEBOLAG",
+            "ecContrib": 214186
+        },
+        "925409586": {
+            "orgId": "925409586",
+            "orgName": "ALTE VISETEC OY",
+            "ecContrib": 62550
+        },
+        "999881530": {
+            "orgId": "999881530",
+            "orgName": "MAELARDALENS HOEGSKOLA",
+            "ecContrib": 421560
+        },
+        "999924986": {
+            "orgId": "999924986",
+            "orgName": "GMVIS SKYSOFT SA",
+            "ecContrib": 74951
+        },
+        "944855758": {
+            "orgId": "944855758",
+            "orgName": "TECHNICON APS",
+            "ecContrib": 31875
+        },
+        "957254007": {
+            "orgId": "957254007",
+            "orgName": "Qamcom Research and Technology AB",
+            "ecContrib": 104578
+        },
+        "952531562": {
+            "orgId": "952531562",
+            "orgName": "IMPARA SRL",
+            "ecContrib": 33000
+        }
+    },
+    "calculatedTotalContribution": 3777298
+}

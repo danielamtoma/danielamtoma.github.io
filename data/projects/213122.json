@@ -1,0 +1,63 @@
+{
+    "rcn": "213122",
+    "acronym": "E2DATA",
+    "topics": "ICT-16-2017",
+    "title": "European Extreme Performing Big Data Stacks",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Imagine a Big Data application with the following characteristics: (i) it has to process large amounts of complex streaming data, \n(ii) the application logic that processes the incoming data must execute and complete within a strict time limit, \nand (iii) there is a limited budget for infrastructure resources.\n\nIn todayís world, the data would be streamed from the local network or edge devices to a cloud provider which is rented by a customer to perform the data execution. The Big Data software stack, in an application and hardware agnostic manner, will split the execution stream into multiple tasks and send them for processing on the nodes the customer has paid for. If the outcome does not match the strict three second business requirement, then the customer has two options: \n1) scale-up (by upgrading processors at node level), \n2) scale-out (by adding nodes to their clusters), or 3) manually implement code optimizations specific to the underlying hardware.\n\nE2Data proposes an end-to-end solution for Big Data deployments that will fully exploit and advance the state-of-the-art in infrastructure services by delivering a performance increase of up to 10x while utilizing up to 50% less cloud resources.\nE2Data will provide a new Big Data paradigm, by combining state-of-the-art software components, in order to achieve maximum resource utilization for heterogeneous cloud deployments without affecting current programming norms (i.e. no code changes in the original source).\nThe E2Data innovations will be driven by the requirements of four resource demanding applications from the finance, health, green buildings, and security domains.\nFinally, the evaluation will be conducted on both high-performing x86 and low-power ARM cluster architectures representing realistic execution scenarios of real-world deployments.",
+    "totalCost": "4676250",
+    "ecMaxContribution": "4676250",
+    "coordinator": "EXUS SOFTWARE LTD",
+    "coordinatorCountry": "UK",
+    "participants": "KALEAO LIMITED;IPROOV LIMITED;THE UNIVERSITY OF MANCHESTER;SPARK WORKS ITC;NEUROCOM LUXEMBOURG SA;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;INSTITOUTO TECHNOLOGIAS YPOLOGISTONKAI EKDOSEON DIOFANTOS",
+    "participantCountries": "UK;LU;DE;EL",
+    "projectParticipants": {
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 720750
+        },
+        "951463592": {
+            "orgId": "951463592",
+            "orgName": "NEUROCOM LUXEMBOURG SA",
+            "ecContrib": 505625
+        },
+        "952567840": {
+            "orgId": "952567840",
+            "orgName": "EXUS SOFTWARE LTD",
+            "ecContrib": 503125
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 590750
+        },
+        "948439617": {
+            "orgId": "948439617",
+            "orgName": "SPARK WORKS ITC",
+            "ecContrib": 315375
+        },
+        "925782939": {
+            "orgId": "925782939",
+            "orgName": "IPROOV LIMITED",
+            "ecContrib": 483625
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 658750
+        },
+        "923198471": {
+            "orgId": "923198471",
+            "orgName": "KALEAO LIMITED",
+            "ecContrib": 610750
+        },
+        "999643783": {
+            "orgId": "999643783",
+            "orgName": "INSTITOUTO TECHNOLOGIAS YPOLOGISTONKAI EKDOSEON DIOFANTOS",
+            "ecContrib": 287500
+        }
+    },
+    "calculatedTotalContribution": 4676250
+}

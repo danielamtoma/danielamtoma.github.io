@@ -1,0 +1,38 @@
+{
+    "rcn": "199792",
+    "acronym": "COIN",
+    "topics": "MSCA-ITN-2015-EID",
+    "title": "Coding for Optical communications In the Nonlinear regime",
+    "startDate": "01/03/2016",
+    "endDate": "29/02/2020",
+    "objective": "The rapid increase in data traffic in the past years and traffic forecasts will lead to capacity exhaust in the optical fibre communications infrastructure which carries over 95% of all data services. The optical fibre channel is nonlinear, that is, its properties, namely its refractive index, is dependent on optical intensity, and at high power densities, the combination of nonlinear effects and dispersion leads to nonlinear distortion, limiting both achievable capacities, spectral efficiencies and distances. A key research area requiring investigation is nonlinear coding and detection, tailored to the nonlinear channel to dramatically improve the data throughput of future optical networks. New R&D is critically needed not only for finding new native nonlinear communication techniques but also transferring them into practical, error-resilient systems. The COIN objective is, thus, the development of a new area of nonlinear communications including forward error correction, essential for reliable communication. Specifically, COIN will investigate the application of nonlinear Fourier transforms and nonlinearity-tailored coding and detection by effectively integrating the scientific expertise of the key academic research groups in information theory, coding, coherent optical communication and high-speed transmission with the industrial know-how of the consortium. The COIN R&D goals will be to focus on the development of new, native communication schemes and waveforms alongside with the development of coding schemes for these and existing non-linear Fourier transform based transceivers. The R&D tasks will be carried out along with researcher training in the leading scientific centres in Europe. The PhD training programme is designed to maximize the unique synergy between the collaborators to promote career opportunities of the COIN researchers in ICT, generating new types of key expertise and and human capital for the European Research Area.",
+    "totalCost": "1073894,4",
+    "ecMaxContribution": "1073894,4",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG;ALCATEL-LUCENT DEUTSCHLAND AG;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "DE;SE",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 527319
+        },
+        "999912376": {
+            "orgId": "999912376",
+            "orgName": "ALCATEL-LUCENT DEUTSCHLAND AG",
+            "ecContrib": 0
+        },
+        "999940603": {
+            "orgId": "999940603",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG",
+            "ecContrib": 0
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 546576
+        }
+    },
+    "calculatedTotalContribution": 1073895
+}

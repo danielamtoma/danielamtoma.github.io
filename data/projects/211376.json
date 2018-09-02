@@ -1,0 +1,33 @@
+{
+    "rcn": "211376",
+    "acronym": "WTM-RECYCLE",
+    "topics": "JTI-CS2-2016-CFP04-REG-01-05",
+    "title": "Large scale wind tunnel turboprop aircraft model integrating morphing devices for aerodynamic experimental assessment",
+    "startDate": "01/09/2017",
+    "endDate": "28/02/2019",
+    "objective": "WTM-RECYCLE addresses the call JTI-CS2-2016-CFP04-REG-01-05 and will in total re-design an existing WT-model (designed and manufacturing in the JTI-CS-project LOSITA), manufacture the new parts and implement them in into the model and finally perform a WT-tests focused on delivering aerodynamic data. The results will be post-processed and implemented into an aerodynamic database supported by CFD.\n\nThe model updates to be performed focus on changes that can be roughly summarized in two groups:\n\na.)    At first model updates reflecting a new design state are implemented (e.g. fuselage geometry, fuselage length).\n\nb.)    Solutions developed within the REG-ITD which shall be tested and assessed in the WT. This specifically involves the morphing LE, TE and winglet, which shall be used as High-Lift devices.\n\nThe project addressing this task is organized straight-forward using a consortium of three partners that have proven their competence in WT-model design, aerodynamic analysis and assessment as well as manufacturing in recent R&D projects. WT-test activities are subcontracted to the RUAG-WT, which is the obvious choice for test including this model. In total the project strongly benefits from the experience with the initial model of two of the partners (IBK and EUROTECH) obtained in the LOSITA-project, since they will also support the WTM-RECYCLE project.\n\nFinally an aerodynamic assessment and an extrapolation towards full-scale will be performed under the responsibility of KTH in order to display the benefits of the new High-Lift-devices.",
+    "totalCost": "1534250",
+    "ecMaxContribution": "1295875",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "IBK-INNOVATION GMBH & CO. KG;EUROTECH DI MARIO AMOROSO SAS",
+    "participantCountries": "DE;IT",
+    "projectParticipants": {
+        "991776016": {
+            "orgId": "991776016",
+            "orgName": "IBK-INNOVATION GMBH & CO. KG",
+            "ecContrib": 248500
+        },
+        "974000378": {
+            "orgId": "974000378",
+            "orgName": "EUROTECH DI MARIO AMOROSO SAS",
+            "ecContrib": 301875
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 745500
+        }
+    },
+    "calculatedTotalContribution": 1295875
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "194344",
+    "acronym": "REC",
+    "topics": "MSCA-RISE-2014",
+    "title": "Root zone soil moisture Estimates at the daily and agricultural parcel scales for Crop irrigation management and water use impact ñ a multi-sensor remote sensing approach",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2019",
+    "objective": "Sustainable water use is a growing concern in Europe. Nowadays, agriculture is an important pressure on water resources especially in Mediterranean countries where irrigation can represent up to 80% of the consumptive uses of water. Increasing water use efficiency in agriculture has been thus identified as one of the key themes relating to water scarcity and drought (EEA Report No 1/2012). It now becomes necessary to improve on-farm irrigation management by adjusting irrigation to crop water requirements along the growing season.\n\nModern irrigation agencies rely on in situ root zone soil moisture measurements to detect the onset of crop water stress and to trigger irrigation. However, in situ point measurements are generally not available over extended areas and may not be representative at the field scale. If remote sensing provides cost-effective techniques for monitoring broad areas, there is currently no algorithm dedicated to root zone soil moisture monitoring at the parcel scale.\n\nREC proposes a solution to the need of root-zone soil moisture at the crop scale for irrigation management. It is based on an innovative operational algorithm that will allow for the first time to: 1) to map root zone soil moisture on a daily basis at the field scale and 2) to quantitatively evaluate the different components of the water budget at the field scale from readily available remote sensing data.\n\nThe methodology relies on the coupling between a surface model representing the water fluxes at the land surface atmosphere interface (infiltration, evaporation, transpiration) and in the soil (drainage), and remote sensing data composed of land surface temperature, and near-surface soil moisture retrieved from microwave radiometers and radars.\n\nThese estimates will be integrated in an irrigation management system that will be used to trigger irrigation. In addition, these estimates will allow making an impact assessment of the consumptive use of water and water footprint.",
+    "totalCost": "895500",
+    "ecMaxContribution": "895500",
+    "coordinator": "ISARDSAT SL",
+    "coordinatorCountry": "ES",
+    "participants": "CENTRO DE ASESORIA DOCTOR FERRER SL;UNIVERSITE PAUL SABATIER TOULOUSE III;INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT",
+    "participantCountries": "ES;FR",
+    "projectParticipants": {
+        "960882486": {
+            "orgId": "960882486",
+            "orgName": "CENTRO DE ASESORIA DOCTOR FERRER SL",
+            "ecContrib": 180000
+        },
+        "997054077": {
+            "orgId": "997054077",
+            "orgName": "ISARDSAT SL",
+            "ecContrib": 387000
+        },
+        "998639930": {
+            "orgId": "998639930",
+            "orgName": "UNIVERSITE CADI AYYAD",
+            "ecContrib": 0
+        },
+        "999851169": {
+            "orgId": "999851169",
+            "orgName": "UNIVERSITE PAUL SABATIER TOULOUSE III",
+            "ecContrib": 274500
+        },
+        "999513803": {
+            "orgId": "999513803",
+            "orgName": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT",
+            "ecContrib": 54000
+        }
+    },
+    "calculatedTotalContribution": 895500
+}

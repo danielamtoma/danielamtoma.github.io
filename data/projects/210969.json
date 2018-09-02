@@ -1,0 +1,28 @@
+{
+    "rcn": "210969",
+    "acronym": "ALGSTRONGCRYPTO",
+    "topics": "ERC-2016-ADG",
+    "title": "Algebraic Methods for Stronger Crypto",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Our field is cryptology. Our overarching objective is to advance  significantly the frontiers in\ndesign and analysis of high-security cryptography for the future generation.\n Particularly, we wish to enhance the efficiency, functionality, and, last-but-not-least, fundamental understanding of cryptographic security against very powerful adversaries.\nOur approach here is to develop completely novel methods by\n deepening, strengthening and broadening the\n algebraic foundations of the field.\nConcretely, our lens builds on\nthe arithmetic codex. This is a  general, abstract cryptographic primitive whose basic theory we recently developed and whose asymptotic part, which  relies on algebraic geometry, enjoys crucial applications in surprising foundational results on constant communication-rate two-party cryptography. A codex is a linear (error correcting) code that, when endowing its ambient vector space just with  coordinate-wise multiplication, can be viewed as simulating, up to some  degree, richer arithmetical structures such as finite fields  (or  products thereof), or generally, finite-dimensional algebras over  finite fields. Besides this degree, coordinate-localities for which simulation holds and for which it does not at all are also captured.\nOur method is based on novel perspectives on codices  which significantly\n widen their scope and strengthen their utility.  Particularly, we bring\n symmetries, computational- and complexity theoretic aspects, and connections with algebraic number theory, -geometry, and -combinatorics into play in novel ways. Our applications range from public-key cryptography to secure multi-party computation.\nOur proposal is subdivided into 3 interconnected modules:\n\n\n(1) Algebraic- and Number Theoretical Cryptanalysis\n(2) Construction of Algebraic Crypto Primitives\n(3) Advanced Theory of Arithmetic Codices",
+    "totalCost": "2447439",
+    "ecMaxContribution": "2447439",
+    "coordinator": "STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999653968": {
+            "orgId": "999653968",
+            "orgName": "STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA",
+            "ecContrib": 0
+        },
+        "999624092": {
+            "orgId": "999624092",
+            "orgName": "STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN",
+            "ecContrib": 2447439
+        }
+    },
+    "calculatedTotalContribution": 2447439
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "211630",
+    "acronym": "FORA",
+    "topics": "MSCA-ITN-2017",
+    "title": "Fog Computing for Robotics and Industrial Automation",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2021",
+    "objective": "We are at the beginning of a new industrial revolution (Industry 4.0): disruptive technologies such as cyber-physical systems, machine-to-machine communication, Big Data and machine learning, and human-robot collaboration will transform the manufacturing and industrial automation sectors. However, Industry 4.0 will only become a reality through the convergence of Operational and Information Technologies (OT & IT). The European Parliament, says that ìa very wide range of skills is required for [Industry 4.0] implementation. [Ö] the convergence of IT, manufacturing, automation technology and software requires the development of a fundamentally new approach to training IT experts.î The FORA interdisciplinary, international, intersectoral network will train the next generation of researchers to lead this convergence and cross the IT-OT gap. The convergence will be achieved through the new concept of Fog Computing, which is a logical extension from Cloud Computing towards the edge of the network (where machines are located), enabling applications that demand guarantees in safety, security, and real-time behavior. Research objectives focus on: a reference system architecture for Fog Computing; resource management mechanisms and middleware for deploying mixed-criticality applications in the Fog; safety and security assurance; service-oriented application modeling and real-time machine learning. Our ambitious objectives require individuals with a unique combination of interdisciplinary and intersectoral skills. Thus, FORAís 15 ESRs will receive integrated training across key areas (computer science, electrical engineering, control engineering, industrial automation, applied mathematics and data science) necessary to fully realize the potential of Fog Computing for Industry 4.0 and will move between academic and industrial environments to promote interdisciplinary and intersectoral learning.",
+    "totalCost": "4000793,4",
+    "ecMaxContribution": "4000793,4",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "TECHNISCHE UNIVERSITAET WIEN;ABB AB;SYSGO AG;TECHNISCHE UNIVERSITAET KAISERSLAUTERN;TTTECH COMPUTERTECHNIK AG;MAELARDALENS HOEGSKOLA",
+    "participantCountries": "AT;SE;DE",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 767802
+        },
+        "998509853": {
+            "orgId": "998509853",
+            "orgName": "ABB AB",
+            "ecContrib": 263659
+        },
+        "999723323": {
+            "orgId": "999723323",
+            "orgName": "SYSGO AG",
+            "ecContrib": 249216
+        },
+        "999885895": {
+            "orgId": "999885895",
+            "orgName": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+            "ecContrib": 249216
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 1160328
+        },
+        "999881530": {
+            "orgId": "999881530",
+            "orgName": "MAELARDALENS HOEGSKOLA",
+            "ecContrib": 1054637
+        },
+        "999791029": {
+            "orgId": "999791029",
+            "orgName": "TTTECH COMPUTERTECHNIK AG",
+            "ecContrib": 255934
+        }
+    },
+    "calculatedTotalContribution": 4000792
+}

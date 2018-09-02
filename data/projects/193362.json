@@ -1,0 +1,73 @@
+{
+    "rcn": "193362",
+    "acronym": "TILDA",
+    "topics": "MG-1.1-2014",
+    "title": "Towards Industrial LES/DNS in Aeronautics ñ Paving the Way for Future Accurate CFD",
+    "startDate": "01/05/2015",
+    "endDate": "31/12/2018",
+    "objective": "The ability to simulate aerodynamic flows using CFD methods has progressed rapidly over the last decades and has given rise to a change in design processes in aeronautics already. But more improvement is necessary to overcome the (still) existing lack in confidence in CFD usage, based on turbulence modelling. The TILDA project will offer methods and approaches combining advanced and efficient high-order numerical schemes (HOMs) with innovative approaches for LES and DNS in order to resolve all relevant flow features on tens of thousands of processors in order to get close to a full LES/DNS solution for 1billion degrees-of-freedom (DOF) not exceeding turn-around times of a few days. \nThe TILDA project will provide both an improved physical knowledge and more accurate predictions of non-linear, unsteady flows ñ near borders of the flight envelope - which will directly contribute to an enhanced reliability. The main highly innovative objectives, targeting at industrial needs read: \nï Advance methods to accelerate HOM for unsteady turbulence simulations on unstructured grids. \nï Advance methods to accelerate LES and future DNS methodology by multilevel, adaptive, fractal and similar approaches on unstructured grids.\nï Use existent large scale HPC networks to enable industrial applications of LES/DNS close(r) to daily practice. Compact high-order methods offer a very high ratio between computational work per DOF combined to a low data dependency stencil, making these methods extremely well adapted for shared-memory parallel processors, and allow for efficient redistribution over an increased number of processors.\nï Provide grid generation methods for HOM on unstructured grids with emphasis on valid curvilinear meshes for complex geometries, and accounting for mesh and solution quality. \nï Provide suitable I/O and interactive co- and post-processing tools for large datasets.\nï Demonstration of multi-disciplinary capabilities of HOM for LES in the area of aero-acoustics.",
+    "totalCost": "3048742,5",
+    "ecMaxContribution": "2706241,75",
+    "coordinator": "NUMERICAL MECHANICS APPLICATIONS INTERNATIONAL SA",
+    "coordinatorCountry": "BE",
+    "participants": "UNIVERSITA' DEGLI STUDI DI BERGAMO;IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;SAFRAN SA;UNIVERSITE CATHOLIQUE DE LOUVAIN;OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE;DASSAULT AVIATION;FEDERAL STATE UNITARY ENTERPRISE THE CENTRAL AEROHYDRODYNAMIC INSTITUTE NAMED AFTER PROF. N.E. ZHUKOVSKY;CENTRE DE RECHERCHE EN AERONAUTIQUE ASBL - CENAERO",
+    "participantCountries": "IT;UK;FR;BE;DE;RU",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 231629
+        },
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 316256
+        },
+        "999595380": {
+            "orgId": "999595380",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI BERGAMO",
+            "ecContrib": 250000
+        },
+        "999964659": {
+            "orgId": "999964659",
+            "orgName": "SAFRAN SA",
+            "ecContrib": 199062
+        },
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 262906
+        },
+        "999940118": {
+            "orgId": "999940118",
+            "orgName": "CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE",
+            "ecContrib": 240000
+        },
+        "999957675": {
+            "orgId": "999957675",
+            "orgName": "DASSAULT AVIATION",
+            "ecContrib": 288175
+        },
+        "998755942": {
+            "orgId": "998755942",
+            "orgName": "NUMERICAL MECHANICS APPLICATIONS INTERNATIONAL SA",
+            "ecContrib": 445000
+        },
+        "999534173": {
+            "orgId": "999534173",
+            "orgName": "FEDERAL STATE UNITARY ENTERPRISE THE CENTRAL AEROHYDRODYNAMIC INSTITUTE NAMED AFTER PROF. N.E. ZHUKOVSKY",
+            "ecContrib": 0
+        },
+        "999814018": {
+            "orgId": "999814018",
+            "orgName": "CENTRE DE RECHERCHE EN AERONAUTIQUE ASBL - CENAERO",
+            "ecContrib": 239952
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 233261
+        }
+    },
+    "calculatedTotalContribution": 2706241
+}

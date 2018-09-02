@@ -1,0 +1,68 @@
+{
+    "rcn": "213113",
+    "acronym": "NEXIS",
+    "topics": "ICT-30-2017",
+    "title": "Next generation X-ray imaging system",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "A photonics driven breakthrough in image quality and functionality of an interventional X-ray system will allow to perform stroke diagnosis directly in the treatment suite and have a huge impact: enhanced work flow, reduced diagnosis & treatment time (up to 50% time reduction) which will save peopleís life and reduce healthcare costs.\nNEXIS will establish enhanced contrast Cone Beam CT imaging while keeping high spatial resolution for 2D image guidance by an innovative spectral X-ray detector and related image processing (including deep learning). Two new key photonic components will be developed: 1) A thin foil based image sensor which has a (semi-) transparent TFT backplane, so that the photodiode array can receive light from both the top and the bottom side. This (semi-) transparency will be optimised, so that the image sensor can collect light effectively from top and bottom scintillator layers at the same time. 2) A 3D printed pixelated CT-like scintillator with high spatial and temporal resolution to enable fast Cone Beam CT imaging without image artefacts. The usability and applicability of the new spectral NEXIS X-ray system for stroke imaging will be clinically validated in a European top hospital. The project brings together a multidisciplinary consortium, involving the full value chain (photonics R&D, medical system integrator, application owner, supply chain and equipment manufacturing). It will allow key players in the European medical photonics industry to generate sales and stay competitive by providing new X-ray imaging modalities and EU based manufacturing. NEXIS will strengthen European competitiveness by developing a spectral Detector-on-Foil technology that meets the needs of the European and global X-ray image detectors market. NEXIS initiate the transition of standard (black&white) to spectral (colour) X-ray detectors, which will improve performance and functionality of X-ray imaging systems.",
+    "totalCost": "9456082,5",
+    "ecMaxContribution": "7712152,88",
+    "coordinator": "PHILIPS MEDICAL SYSTEMS NEDERLAND BV",
+    "coordinatorCountry": "NL",
+    "participants": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;3DCERAM;PHILIPS AKTIEBOLAG;PHILIPS ELECTRONICS NEDERLAND B.V.;TRIXELL;STOCKHOLMS LANS LANDSTING;TECHNISCHE UNIVERSITEIT EINDHOVEN;KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "participantCountries": "NL;BE;FR;SE",
+    "projectParticipants": {
+        "936564489": {
+            "orgId": "936564489",
+            "orgName": "PHILIPS AKTIEBOLAG",
+            "ecContrib": 136938
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 527894
+        },
+        "999608766": {
+            "orgId": "999608766",
+            "orgName": "PHILIPS MEDICAL SYSTEMS NEDERLAND BV",
+            "ecContrib": 1163244
+        },
+        "941118445": {
+            "orgId": "941118445",
+            "orgName": "3DCERAM",
+            "ecContrib": 244481
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 611680
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 1181392
+        },
+        "999522921": {
+            "orgId": "999522921",
+            "orgName": "STOCKHOLMS LANS LANDSTING",
+            "ecContrib": 552768
+        },
+        "999991625": {
+            "orgId": "999991625",
+            "orgName": "PHILIPS ELECTRONICS NEDERLAND B.V.",
+            "ecContrib": 1018806
+        },
+        "947653432": {
+            "orgId": "947653432",
+            "orgName": "TRIXELL",
+            "ecContrib": 1505700
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 769250
+        }
+    },
+    "calculatedTotalContribution": 7712153
+}

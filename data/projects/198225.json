@@ -1,0 +1,23 @@
+{
+    "rcn": "198225",
+    "acronym": "1stProposal",
+    "topics": "ERC-ADG-2014",
+    "title": "An alternative development of analytic number theory and applications",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2020",
+    "objective": "The traditional (Riemann) approach to analytic number theory uses the zeros of zeta functions. This requires the associated multiplicative function, say f(n), to have special enough properties that the associated Dirichlet series may be analytically continued.  In this proposal we continue to develop an approach which requires less of the multiplicative function, linking the original question with the mean value of f.  Such techniques have been around for a long time but have generally been regarded as ìad hocî. In this project we aim to show that one can develop a coherent approach to the whole subject, not only reproving all of the old results, but also many new ones that appear  inaccessible to traditional methods.\n\nOur first goal is to complete a monograph yielding a reworking of all the classical theory using these new methods and then to push forward in new directions.  The most important is to extend these techniques to GL(n) L-functions, which we hope will now be feasible having found the correct framework in which to proceed.  Since we rarely know how to analytically continue such L-functions this could be of great benefit to the subject. \n\nWe are developing the large sieve so that it can be used for individual moduli, and will determine a strong form of that. Also a new method to give asymptotics for mean values, when they are not too small.\n\nWe wish to incorporate techniques of analytic number theory into our theory, for example recent advances on mean values of Dirichlet polynomials.  Also the recent breakthroughs on the sieve suggest strong links  that need further exploration.\n\nAdditive combinatorics yields important results in many areas. There are strong analogies between its results, and those for multiplicative functions, especially in large value spectrum theory, and its applications. We hope to develop these further.\n                   Much of this is joint work with K Soundararajan of Stanford University.",
+    "totalCost": "2011742",
+    "ecMaxContribution": "2011742",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 2011742
+        }
+    },
+    "calculatedTotalContribution": 2011742
+}

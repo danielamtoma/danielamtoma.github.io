@@ -1,0 +1,23 @@
+{
+    "rcn": "197105",
+    "acronym": "GATIPOR",
+    "topics": "ERC-CoG-2014",
+    "title": "Guaranteed fully adaptive algorithms with tailored inexact solvers for complex porous media flows",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Efficient use of computational resources with a reliable outcome is a definite target in numerical simulations of partial differential equations (PDEs). Although this has been an important subject of numerical analysis and scientific computing for decades, still, surprisingly, often more than 90% of the CPU time in numerical simulations is literally wasted and the accuracy of the final outcome is not guaranteed. The reason is that addressing this complex issue rigorously is extremely challenging, as it stems from linking several rather disconnected domains like modeling, analysis of PDEs, numerical analysis, numerical linear algebra, and scientific computing. The goal of this project is to design novel inexact algebraic and linearization solvers, with each step being adaptively steered by optimal (guaranteed and robust) a posteriori error estimates, thus online interconnecting all parts of the numerical simulation of complex environmental porous media flows. The key novel ingredients will be multilevel algebraic solvers, tailored to porous media simulations, with problem- and discretization-dependent restriction, prolongation, and smoothing, yielding mass balance on all grid levels, accompanied by local adaptive stopping criteria. We shall theoretically prove the convergence of the new algorithms and justify their optimality, with in particular guaranteed (without any unknown constant) error reduction and overall computational load. Implementation into established numerical simulation codes and assessment on renowned academic and industrial benchmarks will consolidate the theoretical results. As a final outcome, the total simulation error will be certified and current computational burden cut by orders of magnitude. This would represent a cardinal technological advance both theoretically as well as practically in urgent environmental applications, namely the nuclear waste storage and the geological sequestration of CO2.",
+    "totalCost": "1283087,5",
+    "ecMaxContribution": "1283087,5",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 1283088
+        }
+    },
+    "calculatedTotalContribution": 1283088
+}

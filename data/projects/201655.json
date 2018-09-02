@@ -1,0 +1,23 @@
+{
+    "rcn": "201655",
+    "acronym": "LoGIcInMAS",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Logics and Games for Imperfect Information in Multi-Agent Systems",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "This project aims at developing formal methods based on logics and game theory to model, specify and analyse multi-agent systems (MAS).\n\nSuch systems, in which autonomous agents interact and strategize to achieve private and/or common objectives, are central in many endeavours of high potential societal impact, such as the development of smart cities or robotic rescue teams for nuclear accidents. Because of the criticality of many application areas, there has been over the recent years an important and rising effort to  bring together the formal methods community and the MAS community in order to develop theoretical paradigms and practical tools to help design provably correct multi-agent systems. The logical approach has until now been particularly successful. The most recent and promising proposal was made by Chatterjee, Henzinger and Piterman, who in 2010 introduced Strategy Logic, a logic tailored to reason about rich game-theoretic notions in multi-agent systems. This logic enjoys very interesting properties and has been well studied, but much remains to be done.\n\nIn most real-life applications, agents only have imperfect information about their environment. Typically, rescue robots each have only a local, partial view of their environment. Their sensors may even get damaged during the mission, due to radiations for example. Considering imperfect information deeply impacts the strategizing process, and it also calls for a modelling of agents' uncertainty. In this project we propose to extend Strategy Logic to account for imperfect information and to allow for reasoning about agents' knowledge.",
+    "totalCost": "168277,2",
+    "ecMaxContribution": "168277,2",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976590": {
+            "orgId": "999976590",
+            "orgName": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+            "ecContrib": 168277
+        }
+    },
+    "calculatedTotalContribution": 168277
+}

@@ -1,0 +1,17 @@
+{
+    "rcn": "216225",
+    "acronym": "CALCULUS",
+    "topics": "ERC-2017-ADG",
+    "title": "Commonsense and Anticipation enriched Learning of Continuous representations sUpporting Language UnderStanding",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2023",
+    "objective": "Natural language understanding (NLU) by the machine is of large scientific, economic and social value. Humans perform the NLU task in an efficient way by relying on their capability to imagine or anticipate situations. They engage commonsense and world knowledge that is often acquired through perceptual experiences to make explicit what is left implicit in language. Inspired by these characteristics CALCULUS will design, implement and evaluate innovative paradigms supporting NLU, where it will combine old but powerful ideas for language understanding from the early days of artificial intelligence with new approaches from machine learning. The project focuses on the effective learning of anticipatory, continuous, non-symbolic representations of event frames and narrative structures of events that are trained on language and visual data. The grammatical structure of language is grounded in the geometric structure of visual data while embodying aspects of commonsense and world knowledge. The reusable representations are evaluated in a selection of NLU tasks requiring efficient real-time retrieval of the representations and parsing of the targeted written texts. Finally, we will evaluate the inference potential of the anticipatory representations in situations not seen in the training data and when inferring spatial and temporal information in metric real world spaces that is not mentioned in the processed language. The machine learning methods focus on learning latent variable models relying on Bayesian probabilistic models and neural networks and focus on settings with limited training data that are manually annotated. The best models will be integrated in a demonstrator that translates the language of stories to events happening in a 3-D virtual world. The PI has interdisciplinary expertise in natural language processing, joint processing of language and visual data, information retrieval and machine learning needed for the successful realization of the project.",
+    "totalCost": "2227500",
+    "ecMaxContribution": "2227500",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

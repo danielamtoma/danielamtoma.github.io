@@ -1,0 +1,23 @@
+{
+    "rcn": "195254",
+    "acronym": "IPBMNES",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Integrated Pedestrian Behavior Modeling under Normal and Evacuation Situations",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2018",
+    "objective": "In order to understand the nature of complex and collective dynamics of pedestrians during normal and evacuation situations, mathematical models and simulation tools are essential. Compared to vehicular flows, pedestrian movements show a more complex behavior, mainly because they are essentially two-dimensional and not limited to specific lanes. Moreover, in pedestrian dynamics, collective dynamics will be formed from individual human nonlinear interactions. Specifically, pedestrian behavior is the result of a series of interdependent decisions which are based on a specific plan. The plan is a latent (unobserved) variable resulting in a series of (observed) actions.  However, in state-of-the-art pedestrian flow models, the latent plans and some observed actions are ignored.  When it is implemented in simulation software, this leads to an unrealistic representation of individual pedestrian movements and collective crowd dynamics. In order to overcome this issue, a framework for integrated pedestrian behavior modeling based on the concepts of a short-term plan and action, is proposed. This framework integrates the following sub-models: Target Destination Choice Model, Pedestrian Route Choice Model, Pedestrian Pace State Model, and a Pedestrian Movement Model. It captures pedestrians' planning capabilities and interdependent decisions. The parameters of all the components of the framework are estimated jointly by observed pedestrian trajectories using maximum-likelihood theory. Finally, the above behavioral models will be incorporated in the traffic simulator, MovSim (Multi-model open-source vehicular-traffic Simulator developed by Technical University Dresden -TUD) to simulate the normal and evacuation pedestrian environment. This tool will be useful to develop guidelines for local authorities and organizers of mass events in larger cities of Europe and for designing the pedestrian facilities.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "TECHNISCHE UNIVERSITAET DRESDEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

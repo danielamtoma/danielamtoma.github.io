@@ -1,0 +1,73 @@
+{
+    "rcn": "197345",
+    "acronym": "CogNet",
+    "topics": "ICT-14-2014",
+    "title": "Building an Intelligent System of Insights and Action for 5G Network Management",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2017",
+    "objective": "5G will realise a true Internet of Things, a network capable of supporting potentially trillions of wireless connected devices and with overall bandwidth one thousand times higher that todayís wireless networks. Current 4G technology is approaching the limits of what is possible with this generation of radio technology and to address this, one of the key requirements of 5G will be to create a network that is highly optimised to make maximum use of available radio spectrum and bandwidth for QoS, and because of the network size and number of devices connected, it will be necessary for it to largely manage itself and deal with organisation, configuration, security, and optimisation issues. Virtualisation will also play an important role as the network will need to provision itself dynamically to meet changing demands for resources and Network Function Virtualisation (NFV), the virtualising of network nodes functions and links, will be the key technology for this.\n\nWe believe that Autonomic Network Management based on Machine Learning will be a key technology enabling an (almost) self administering and self managing network. Network software will be capable of forecasting resource demand requirements through usage prediction, recognising error conditions, security conditions, outlier events such as fraud, and responding and taking corrective actions. Energy efficiency will also be a key requirement with the possibility to reconfigure the NFV to for example avail of cheaper or greener energy when it is available and suitable. Again this is directly related to usage prediction both at a macro level, across an entire network, and at a micro level within specific cells.\n\nThe Cognet proposal will focus on applying Machine Learning research to these domains to enable  the level of Network Management technology required to fulfil the 5G vision.",
+    "totalCost": "5972820",
+    "ecMaxContribution": "5972819,75",
+    "coordinator": "WATERFORD INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IE",
+    "participants": "ORANGE SA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;IBM IRELAND LIMITED;TECHNISCHE UNIVERSITAET BERLIN;FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH;TELEFONICA INVESTIGACION Y DESARROLLO SA;INTEROUTE S.P.A.;UNIVERSITA DEGLI STUDI DI TRENTO;ALCATEL-LUCENT ISRAEL LTD;UNIVERSIDAD POLITECNICA DE MADRID",
+    "participantCountries": "FR;DE;IE;ES;IT;IL",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 457500
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 448225
+        },
+        "992420096": {
+            "orgId": "992420096",
+            "orgName": "INTEROUTE S.P.A.",
+            "ecContrib": 427500
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 450418
+        },
+        "935159056": {
+            "orgId": "935159056",
+            "orgName": "ALCATEL-LUCENT ISRAEL LTD",
+            "ecContrib": 686062
+        },
+        "955552336": {
+            "orgId": "955552336",
+            "orgName": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+            "ecContrib": 568150
+        },
+        "999841954": {
+            "orgId": "999841954",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRENTO",
+            "ecContrib": 546750
+        },
+        "999618660": {
+            "orgId": "999618660",
+            "orgName": "WATERFORD INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 1027125
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 341309
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 652031
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 367750
+        }
+    },
+    "calculatedTotalContribution": 5972820
+}

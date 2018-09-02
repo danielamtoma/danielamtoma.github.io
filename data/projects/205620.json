@@ -1,0 +1,28 @@
+{
+    "rcn": "205620",
+    "acronym": "ROSSINI",
+    "topics": "JTI-CS2-2015-CFP02-SYS-02-10",
+    "title": "Radial cOmpresSor Surge INception Investigation",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2020",
+    "objective": "Centrifugal compressor stages using vaneless diffusers are known to have a wide operating range. However, when operated outside of this range, instabilities have been reported to commonly develop in the impeller (rotor) or diffuser or both. The unsteady flow phenomena are believed to start from a localized flow separation (stall) that frequently will orbit within the stage at sub-harmonic rotational speeds (rotating stall). If not damped sufficiently the stall cells will eventually develop into more hazardous self-excited pressure oscillations within the entire compressor stage leading to surge phenomena that can induce high aero-elastic loads on the rotor itself leading to premature aging (fatigue) or ultimate failure of the stage. Predicting of the onset of the instabilities is a prerequisite to maintain compressor operating within safe operating margins. Nonetheless the physical understanding and associated modeling of the stall and surge inception is rather limited and mostly restricted to cause-and-effect investigations. With improved computational models being available nowadays more in-depth investigations of the underlying flow physics have become possible, but relies on high quality experimental data for validation.\nFollowing the statement of work put forth in the call for proposal, the first objective of the proposed project is to determine a surge inception scenario for a given academic as well as industrial reference case of centrifugal compressor using vaneless diffuser. Within the proposed project the off-design behavior of each compressor configuration will be investigated both numerically and experimentally, involving time-resolved Kulite array and PIV measurements. Based on this data and on existing theoretical analysis procedures, the second major effort of the present study is devoted to define low-order methodologies that ideally predict the onset of instabilities.",
+    "totalCost": "1102458,75",
+    "ecMaxContribution": "1102458,75",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 355084
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 747375
+        }
+    },
+    "calculatedTotalContribution": 1102459
+}

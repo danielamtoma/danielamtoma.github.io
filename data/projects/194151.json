@@ -1,0 +1,58 @@
+{
+    "rcn": "194151",
+    "acronym": "ECOMODE",
+    "topics": "ICT-22-2014",
+    "title": "Event-Driven Compressive Vision for Multimodal Interaction with Mobile Devices",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "The visually impaired and the elderly, often suffering from mild speech and/or motor disabilities, are experiencing a significant and increasing barrier in accessing ICT technology and services. Yet, in order to be able to participate in a modern, interconnected society that relies on ICT technologies for handling everyday issues, there is clear need also for these user groups to have access to ICT, in particular to mobile platforms such as tablet computers or smart-phones. \nThe proposed project aims at developing and exploiting the recently matured and quickly advancing biologically-inspired technology of event-driven, compressive sensing (EDC) of audio-visual information, to realize a new generation of low-power multi-modal human-computer interface for mobile devices. \nThe project is based on two main technology pillars: (A) an air gesture control set, and (B) a vision-assisted speech recognition set. (A) exploits EDC vision for low and high level hand and finger gesture recognition and subsequent command execution; (B) combines temporal dynamics from lip and chin motion acquired using EDC vision sensors with the auditory sensor input to gain robustness and background noise immunity of spoken command recognition and speech-to-text input. \nIn contrast to state-of-the-art technologies, both proposed human-computer communication channels will be designed to work reliably under uncontrolled conditions. Particularly, mobile devices equipped with the proposed interface technology will facilitate unrestricted outdoor use under uncontrolled lighting and background noise conditions. Furthermore, due to the sparse nature of information encoding, EDC excels conventional approaches in energy efficiency, yielding an ideal solution for mobile, battery-powered devices.\nECOMODE is committed to pave the way for industrialization of commercial products by demonstrating the availability of the required hardware and software components and their integrability into a mobile platform.",
+    "totalCost": "3798206,5",
+    "ecMaxContribution": "3798206,5",
+    "coordinator": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+    "coordinatorCountry": "FR",
+    "participants": "FONDATION DE COOPERATION SCIENTIFIQUE VOIR ET ENTENDRE;CHRONOCAM SAS;Streetlab;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA;FONDAZIONE BRUNO KESSLER;INNOVATI NETWORKS SL",
+    "participantCountries": "FR;ES;IT",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 758125
+        },
+        "995316031": {
+            "orgId": "995316031",
+            "orgName": "FONDATION DE COOPERATION SCIENTIFIQUE VOIR ET ENTENDRE",
+            "ecContrib": 257500
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 488429
+        },
+        "940507636": {
+            "orgId": "940507636",
+            "orgName": "CHRONOCAM SAS",
+            "ecContrib": 286250
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 556279
+        },
+        "951433910": {
+            "orgId": "951433910",
+            "orgName": "INNOVATI NETWORKS SL",
+            "ecContrib": 409250
+        },
+        "999596447": {
+            "orgId": "999596447",
+            "orgName": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+            "ecContrib": 592709
+        },
+        "951851592": {
+            "orgId": "951851592",
+            "orgName": "Streetlab",
+            "ecContrib": 449665
+        }
+    },
+    "calculatedTotalContribution": 3798207
+}

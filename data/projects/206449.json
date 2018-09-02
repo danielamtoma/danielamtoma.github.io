@@ -1,0 +1,23 @@
+{
+    "rcn": "206449",
+    "acronym": "MassLOC",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Massive MIMO Localization for 5G Networks",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "Next-generation 5G wireless data networks promise significant gains in terms of offering the ability to accommodate more users at higher data rates with better reliability while consuming less power. To meet such a challenge, massive MIMO systems have been proposed to allow for orders of magnitude improvement in spectral and energy efficiency using relatively simple processing. The basic idea is equipping cellular base stations with rectangular arrays, each of them is consisted of very large number of antennas. The extra antennas help focusing energy into ever smaller regions of space to bring huge improvements in throughput and radiated energy efficiency. Other benefits include reduced latency, simplification of the media access control layer, and robustness against intentional jamming. \n\nAn unexplored and unintentional side-effect of using a very large number of antennas combined with high carrier frequencies, is the ability to pinpoint the location of the user with high accuracy. This project aims to develop several analytical tools in order to model, design, and analyze massive MIMO-OFDM systems from the localization point of view, and ascertain their validity via experimental datasets. Ultimately, our broad goal is to conceptualize an engineering research idea, and then transition it into innovative applications that can be replicated for real-world cellular networks operated by established service providers and mobile manufacturers. In parallel, the project will allow the fellow to achieve several knowledge transfer objectives and increase prominence in his research field.",
+    "totalCost": "185857,2",
+    "ecMaxContribution": "185857,2",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 185857
+        }
+    },
+    "calculatedTotalContribution": 185857
+}

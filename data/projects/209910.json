@@ -1,0 +1,68 @@
+{
+    "rcn": "209910",
+    "acronym": "ASuMED",
+    "topics": "MG-1-4-2016-2017",
+    "title": "Advanced Superconducting Motor Experimental Demonstrator",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "Air traffic is projected to grow worldwide by 5% per year resulting in increasing fossil fuel consumption and emissions. Previous studies have shown that hybrid-electric distributed propulsion (DP) in civilian aircraft offers a route to achieve the massive reductions in fuel consumption and emission targeted by Flightpath 2050. These studies identify the necessity of potential superconducting solutions to achieve the required power densities and efficiencies. However, no suitable superconductive motor is available to realize DP in large aircraft and no prototypes have been constructed with this aim. The purpose of the project is to demonstrate the benefits of a new fully superconducting motor with a power density of 20kW/kg. In particular, the ASuMED project will: design an appropriate motor topology, develop a high-temperature superconducting (HTS) stator with an electric loading of >450kA/m, develop a rotor using HTS stacks operating like permanent magnets providing an average magnetic loading of >2.5 T, integrate a magnetization system into the stator area, implement a light, highly efficient cryostat for the motor combined with an integrated cryogenic cooling system and associated power converter. \nThe above technologies will be demonstrated in a prototype with approximately 1 MW power at 10.000rpm and a thermal loss <0.1%, showing scalability to higher power values. In addition to the motor development, new active cooling designs will be investigated and novel numerical methods will be developed for 2D modelling of superconducting motors at the level of individual turns in the windings and for 3D modelling of motor components. Moreover, an innovative modular inverter topology with enhanced failure protection will be designed, to realize the highly dynamic and robust control of superconducting machines. After assembly of the overall motor, final tests will evaluate the technology¥s benefits and allow its integration into designs for future aircraft.",
+    "totalCost": "4776226,25",
+    "ecMaxContribution": "4007476,25",
+    "coordinator": "OSWALD ELEKTROMOTOREN GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;CLOSE JOINT-STOCK COMPANY SUPEROX;K & S GMBH PROJEKTMANAGEMENT;DEMACO HOLLAND BV;KARLSRUHER INSTITUT FUER TECHNOLOGIE;AIR LIQUIDE ADVANCED TECHNOLOGIES SA;Institute of Electrical Engineering, Slovak Academy of Sciences;ROLLS-ROYCE PLC;HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN ASCHAFFENBURG",
+    "participantCountries": "UK;RU;DE;NL;FR;SK",
+    "projectParticipants": {
+        "999945356": {
+            "orgId": "999945356",
+            "orgName": "ROLLS-ROYCE PLC",
+            "ecContrib": 151594
+        },
+        "915237972": {
+            "orgId": "915237972",
+            "orgName": "CLOSE JOINT-STOCK COMPANY SUPEROX",
+            "ecContrib": 0
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "923744775": {
+            "orgId": "923744775",
+            "orgName": "DEMACO HOLLAND BV",
+            "ecContrib": 602031
+        },
+        "997974607": {
+            "orgId": "997974607",
+            "orgName": "Institute of Electrical Engineering, Slovak Academy of Sciences",
+            "ecContrib": 286210
+        },
+        "963282363": {
+            "orgId": "963282363",
+            "orgName": "AIR LIQUIDE ADVANCED TECHNOLOGIES SA",
+            "ecContrib": 620000
+        },
+        "997186288": {
+            "orgId": "997186288",
+            "orgName": "HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN ASCHAFFENBURG",
+            "ecContrib": 480000
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 364635
+        },
+        "985994040": {
+            "orgId": "985994040",
+            "orgName": "K & S GMBH PROJEKTMANAGEMENT",
+            "ecContrib": 109531
+        },
+        "930100409": {
+            "orgId": "930100409",
+            "orgName": "OSWALD ELEKTROMOTOREN GMBH",
+            "ecContrib": 774250
+        }
+    },
+    "calculatedTotalContribution": 3388251
+}

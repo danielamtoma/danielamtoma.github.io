@@ -1,0 +1,23 @@
+{
+    "rcn": "202662",
+    "acronym": "ESTIA",
+    "topics": "ERC-ADG-2015",
+    "title": "Exponential sums, translation invariance, and applications",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Title: Exponential Sums, Translation Invariance, and Applications. \n\nShort Summary: Exponential sums are fundamental throughout (analytic)  number theory, and are key to the robustness of applications in theoretical computer science, cryptography, and so on. They are the primary tool for testing equidistribution (apparent ìrandomnessî) of number theoretic sequences. For a century, bounds for such sums of degree 3 or more have fallen far short of those conjectured to hold.\n\nThe landscape for exponential sums changed decisively in late 2010, when the proposer devised the ìefficient congruencingî method. As a result, mean value estimates associated with translation invariant systems are now within a whisker of the main conjectures. Very significant progress has resulted in such Diophantine applications as Waring's problem, the validity of the Hasse principle for systems of diagonal equations, and equidistribution of polynomial sequences mod 1.\n\nIt is little understood in the wider community that efficient congruencing offers a fundamentally new approach to estimating moments of Fourier coefficients of wide generality, with hitherto inaccessible applications. We propose:\n\n(i) To generalise efficient congruencing to approximately translation invariant systems, and explore consequent applications to Diophantine problems such as Waring's problem, restriction problems from discrete Fourier analysis, and bounds for the Riemann zeta function within the critical strip;\n\n(ii) To extend the method to the multidimensional setting relevant to the investigation of local-global principles for spaces of rational morphisms from rational curves to diagonal hypersurfaces;\n\n(iii) To explore the application of efficient congruencing over function fields where the ground field is a finite field, in particular as a vehicle for establishing estimates of use in randomness extractors;\n\n(iv) To investigate the potential use of higher degree translation invariance in generalising Gowers norms.",
+    "totalCost": "1873483",
+    "ecMaxContribution": "1873483",
+    "coordinator": "UNIVERSITY OF BRISTOL",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 1873483
+        }
+    },
+    "calculatedTotalContribution": 1873483
+}

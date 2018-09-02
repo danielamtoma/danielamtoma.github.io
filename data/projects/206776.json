@@ -1,0 +1,43 @@
+{
+    "rcn": "206776",
+    "acronym": "SMOOTH",
+    "topics": "MSCA-RISE-2016",
+    "title": "SMart rObOTs for fire-figHting",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2021",
+    "objective": "Over the years, changes in modern infrastructure have introduced new challenges to firefighting practices. Training and research programs have been developed to manage these challenges but there are still significant losses from fires each year. In 2013 alone, the fire departments in the USA responded to over 1.2 million fires which resulted in about 3,420 civilian fatalities, 15,925 injuries and property losses of about $12.4 billion dollars. In the UK, 192,600 fires responses, approximately 350 civilian fatalities, 10,300 injuries. The firefighting and rescue functions of the existing equipment and apparatus and their dexterity are limited, particularly in the harsh firefighting environments. The SMOOTH project aims to propose a novel robot-assisted decision making system in smart firefighting to perform searching and rescuing practice in the fire ground, and to facilitate the decision makings with higher efficiency. \n\nIn the proposed system, a dexterous group of autonomous robots will be ingested, including an Octopus robot developed by SJTU with dexterous robotic upper body developed (with functions of high payload, forcible entry, excavation, obstacle avoidance and sweeping), a group of jumping robots invented by BU and YSU (with functions of obstacle avoidance) and a swarm of capsule systems invented by BU (with functions of precise positioning, narrow openings maneuveration and manipulation). A bunch of novel wearable and environmental sensors will be assembled and equipped on the robots and firefighterís protection suits to facilitate the real-time machine-to-machine communications. A 3-D human-robot interactions infrastructure will be created to facilitate efficient interactions between human adaptive mechatronics and adaptive networked control. Based on these concepts, the consortium will investigate the needs and key technologies such as hybrid autonomous and miniaturized robotic modules, wireless sensor technologies, advanced decision support algorithms,",
+    "totalCost": "909000",
+    "ecMaxContribution": "513000",
+    "coordinator": "BOURNEMOUTH UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "STIMPEX SA;ROBOTNIK AUTOMATION SLL;CEDRAT TECHNOLOGIES SA;INSTITUTUL DE MECANICA SOLIDELOR",
+    "participantCountries": "RO;ES;FR",
+    "projectParticipants": {
+        "954674195": {
+            "orgId": "954674195",
+            "orgName": "INSTITUTUL DE MECANICA SOLIDELOR",
+            "ecContrib": 189000
+        },
+        "999429122": {
+            "orgId": "999429122",
+            "orgName": "CEDRAT TECHNOLOGIES SA",
+            "ecContrib": 45000
+        },
+        "998018645": {
+            "orgId": "998018645",
+            "orgName": "ROBOTNIK AUTOMATION SLL",
+            "ecContrib": 45000
+        },
+        "999862906": {
+            "orgId": "999862906",
+            "orgName": "BOURNEMOUTH UNIVERSITY",
+            "ecContrib": 189000
+        },
+        "940734131": {
+            "orgId": "940734131",
+            "orgName": "STIMPEX SA",
+            "ecContrib": 45000
+        }
+    },
+    "calculatedTotalContribution": 513000
+}

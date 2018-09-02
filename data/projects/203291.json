@@ -1,0 +1,38 @@
+{
+    "rcn": "203291",
+    "acronym": "APACHE",
+    "topics": "Sesar-11-2015",
+    "title": "Assessment of Performance in current ATM operations and of new Concepts of operations for its Holistic Enhancement",
+    "startDate": "09/05/2016",
+    "endDate": "08/05/2018",
+    "objective": "The APACHE project proposes a new framework to assess European ATM performance based on simulation, optimization and performance assessment tools that will be able to capture complex interdependencies between KPAs at different modelling scales (micro, meso and macro).In this context, the purpose of APACHE is threefold: \n- to evolve the Performance Scheme towards new methodologies and metrics capable of capturing with proportional detail the performance drivers of ATM to foster a progressive and performance-driven introduction of new operational and technical ATM concepts in line with SESAR; \n- to make an (initial) impact assessment of long-term ATM concepts with the new APACHE Performance Scheme, to measure the impact on ATM KPAs under different assumptions in line with the SESAR ConOps 2020\\; and\n- to analyse the interdependencies between the different KPAs at the Pareto-frontier of the ATM performance, by finding the theoretical optimal limits for each KPA and assessing how the promotion of one KPA may actually reduce the performance of the other KPAs\nAn initial performance assessment of new concepts of operations will be required, covering the new concepts t: free-routing in 2D (2DFR) and in 3D (3DFR) for airline operators; dynamic airspace configuration (DAC) for air navigation service providers (ANSPs); and dynamic demand and capacity balance (dDCB) for the Network Manager (NM). All these concepts will be analysed at EU-wide and/or functional airspace block (FAB) level combined under different scenarios and case studies.\nThe optimization tools will be used to model  the ATM performance drivers underpinning each of the the stakeholderís business models, in particular regarding the optimization of processes for aircraft trajectory planning, sectorization planning and network safety planning. Assessment tools will be used to measure the level of KPA performances in the simulations. Tools will be provided by partners and initial versions are already available.",
+    "totalCost": "783837,5",
+    "ecMaxContribution": "783837,5",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "Univerzitet u Beogradu - Saobracajni fakultet;ECOLE NATIONALE DE L AVIATION CIVILE;ADVANCED LOGISTICS GROUP SAU",
+    "participantCountries": "RS;FR;ES",
+    "projectParticipants": {
+        "997736181": {
+            "orgId": "997736181",
+            "orgName": "Univerzitet u Beogradu - Saobracajni fakultet",
+            "ecContrib": 178838
+        },
+        "997239832": {
+            "orgId": "997239832",
+            "orgName": "ADVANCED LOGISTICS GROUP SAU",
+            "ecContrib": 130125
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 282375
+        },
+        "996375756": {
+            "orgId": "996375756",
+            "orgName": "ECOLE NATIONALE DE L AVIATION CIVILE",
+            "ecContrib": 192500
+        }
+    },
+    "calculatedTotalContribution": 783838
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "197537",
+    "acronym": "ExaFLOW",
+    "topics": "FETHPC-1-2014",
+    "title": "Enabling Exascale Fluid Dynamics Simulations",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "We are surrounded by moving fluids (gases and liquids), be it during breathing or the blood flowing in arteries; the flow around cars, ships, and airplanes; the changes in cloud formations or the plankton transport in oceans; even the formation of stars and galaxies are closely modeled as phenomena in fluid dynamics. Fluid Dynamics (FD) simulations provide a powerful tool for the analysis of such fluid flows and are an essential element of many industrial and academic problems.\n\nThe complexities and nature of fluid flows, often combined with problems set in open domains, implies that the resources needed to computationally model problems of industrial and academic relevance is virtually unbounded. FD simulations therefore are a natural driver for exascale computing and have the potential for substantial societal impact, like reduced energy consumption, alternative sources of energy, improved health care, and improved climate models. \n\nThe main goal of this project is to address algorithmic challenges to enable the use of accurate simulation models in exascale environments. Driven by problems of practical engineering interest we focus on important simulation aspects including:\nï error control and adaptive mesh refinement in complex computational domains,\nï resilience and fault tolerance in complex simulations\nï heterogeneous modeling \nï evaluation of energy efficiency in solver design\nï parallel input/output and in-situ compression for extreme data.\n\nThe algorithms developed by the project will be prototyped in major open-source simulation packages in a co-design fashion, exploiting software engineering techniques for exascale. We are building directly on the results of previous exascale projects (CRESTA, EPiGRAM, etc.) and will exploit advanced and novel parallelism features required for emerging exascale architectures. The results will be validated in a number of pilot applications of concrete practical importance in close collaboration with industrial partners.",
+    "totalCost": "3312235",
+    "ecMaxContribution": "3312235",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;AUTOMOTIVE SIMULATION CENTER STUTTGART EV;MCLAREN RACING LIMITED;UNIVERSITY OF SOUTHAMPTON;UNIVERSITAET STUTTGART;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "UK;CH;DE",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 346125
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 326625
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 1066375
+        },
+        "953394183": {
+            "orgId": "953394183",
+            "orgName": "AUTOMOTIVE SIMULATION CENTER STUTTGART EV",
+            "ecContrib": 161250
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 336298
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 650312
+        },
+        "952034728": {
+            "orgId": "952034728",
+            "orgName": "MCLAREN RACING LIMITED",
+            "ecContrib": 213750
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 211500
+        }
+    },
+    "calculatedTotalContribution": 3312235
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "201476",
+    "acronym": "CENTURION",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Signal proCEssing in optical communication NeTworks Using ReservoIr cOmputiNg",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2018",
+    "objective": "Optical fiber communication technologies substantially support high-speed, long-distance or/and terabit capacity networks all around the globe. Contemporary applications oblige the network operation to respond efficiently and rapidly to any user request. To achieve such demands, optical label switching (OLS) techniques have been developed to support data traffic in fiber networks. The reliable and fast processing of data headers is highly critical for trustworthy transmission flow. All-optical header recognition has been investigated lately through diverse physical implementations that offer competitive advantages; however, these configurations have been proposed as basic processing units with practically small or non-existing intelligence. Reservoir computing (RC) as a method of applying intelligence to physical systems has been lately proposed to exploit the inherent nonlinearities of photonic devices and components that are commercially available towards proficient processing of light. Lately, field programmable gate arrays (FPGA) modules have been engaged to exploit nonlinearities through the fast implementation of algorithms that work towards this direction. CENTURION project aims at joining several multidisciplinary research aspects that belong to the fields of non-linear dynamics, optical communications, FPGA programming and informatics and establish FPGA-assisted and photonic RC as intelligent high-speed methodologies in data traffic management of broadband optical signals. The objective is to train the experienced researcher in FPGA programming and the concepts of reservoir computing, in order to append intelligence to the decision making processes in optical communication networks and to offer sophisticated solutions for routing and switching in telecom applications and to reduce storing requirements in sensing applications.",
+    "totalCost": "170121,6",
+    "ecMaxContribution": "170121,6",
+    "coordinator": "UNIVERSITAT DE LES ILLES BALEARS",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999846707": {
+            "orgId": "999846707",
+            "orgName": "UNIVERSITAT DE LES ILLES BALEARS",
+            "ecContrib": 170122
+        }
+    },
+    "calculatedTotalContribution": 170122
+}

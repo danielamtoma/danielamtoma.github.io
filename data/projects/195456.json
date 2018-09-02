@@ -1,0 +1,23 @@
+{
+    "rcn": "195456",
+    "acronym": "SuSiPOD",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Broadband Superconducting Nanowire Single Photon Detectors",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2017",
+    "objective": "Single-photon detection is an emerging technology, with applications ranging from medical imaging and LIDAR systems to space communication and fundamental quantum optics. Moreover, single-photon detectors are considered an enabling technology for the development of quantum information science, paving the way for the realization of one of the main challenges of the 21st century: the quantum computer. Currently, single-photon detection is carried out using semiconductor-based avalanche photodiodes; however, this technology is limited by large timing jitter, unavoidable dark counts, after pulsing, and limited detection efficiency. A recently proposed alternative relies on a superconducting nanowire biased just below its critical current, so that an impinging photon triggers a transition from the superconducting to the normal state, resulting in a voltage spike at the nanowire leads. The detection efficiency can be boosted close to unity by coupling the superconducting nanowire to the evanescent field propagating in a waveguide. However, the fabrication of high quality, ultra-thin superconducting layers is challenging, and the operation wavelength of such devices is limited by the waveguide band gap. We have identified GaN/AlN as the best suited waveguide material system, approximately lattice matched with NbN, and with a transparent band from 400 to 6000 nm. The target of the SuSiPOD project is the establishment of a technology platform for the fabrication of a new generation of broadband superconducting nanowire single-photon detectors built on III-nitride waveguides, in which photons are coupled laterally with the help of a tapered optical fibre. This new geometry should allow near-unity absorption probability in a wide spectral range, since the substrate is transparent to visible and infrared light. The project success will be proven by the realization of a working prototype which will greatly outperform state-of-the-art single-photon detectors.",
+    "totalCost": "173076",
+    "ecMaxContribution": "173076",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 173076
+        }
+    },
+    "calculatedTotalContribution": 173076
+}

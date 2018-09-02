@@ -1,0 +1,33 @@
+{
+    "rcn": "211000",
+    "acronym": "CAPABLE",
+    "topics": "ERC-2016-ADG",
+    "title": "Composite integrated photonic platform by femtosecond laser micromachining",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "The quantum technology revolution promises a transformational impact on the society and economics worldwide. It will enable breakthrough advancements in such diverse fields as secure communications, computing, metrology, and imaging.  Quantum photonics, which recently received an incredible boost by the use of integrated optical circuits, is an excellent technological platform to enable such revolution, as it already plays a relevant role in many of the above applications. However, some major technical roadblocks needs to be overcome. Currently, the various components required for a complete quantum photonic system are produced on very different materials by dedicated fabrication technologies, as no single material is able to fulfil all the requirements for single-photon generation, manipulation, storage and detection. This project proposes a new hybrid approach for integrated quantum photonic systems based on femtosecond laser microfabrication (FLM), enabling the innovative miniaturization of various components on different materials, but with a single tool and with very favourable integration capabilities. \nThis project will mainly focus on two major breakthroughs: the first one will be increasing the complexity achievable in the photonic platform and demonstrating unprecedented quantum computation capability; the second one will be the integration in the platform of multiple single-photon quantum memories and their interconnection.\nAchievement of these goals will only be possible by taking full advantage of the unique features of FLM, from the possibility to machine very different materials, to the 3D capabilities in waveguide writing and selective material removal.\nThe successful demonstration and functional validation of this hybrid, integrated photonic platform will represent a significant leap for photonic microsystems in quantum computing and quantum communications.",
+    "totalCost": "2381875",
+    "ecMaxContribution": "2381875",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "FUNDACIO INSTITUT DE CIENCIES FOTONIQUES;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "participantCountries": "ES;IT",
+    "projectParticipants": {
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 300000
+        },
+        "999619436": {
+            "orgId": "999619436",
+            "orgName": "FUNDACIO INSTITUT DE CIENCIES FOTONIQUES",
+            "ecContrib": 250000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 1831875
+        }
+    },
+    "calculatedTotalContribution": 2381875
+}

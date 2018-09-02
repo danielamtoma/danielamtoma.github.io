@@ -1,0 +1,23 @@
+{
+    "rcn": "202138",
+    "acronym": "SUCCESS",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "High quality spectral CT using sparse reconstruction methods",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2018",
+    "objective": "The new generations of spectral computed tomography (CT) scanners provide energy-dependent information that could translate into higher contrast and material decomposition capabilities, among other benefits, not only improving conventional CT but opening new possibilities for medical diagnosis. However, fast development of spectral CT technology is not flawless. Narrow energy bins are required to achieve the desired energy resolution, which increases the noise ratio per energy bin. A promising solution is to use sparse CT reconstruction methods (SRM) to improve image quality without increasing radiation dose. To date, several SRMs have been proposed based on simulated or phantom data, but only a few studies have considered preclinical or clinical data. The objective of this proposal is to provide and optimize new algorithms for spectral CT that will be designed and validated on experimental data targeting specific high-impact high-potential applications. To this aim, the project will evaluate previously suggested SRMs and propose new SRMs. In addition, the project will introduce a novel method to validate SRM for spectral CT. On the last stage, the developed SRMs will be validated using experimental data from several spectral CT scanners. This research will contribute to the development of spectral CT, which is foreseen as a new revolution in clinical diagnosis.",
+    "totalCost": "185076",
+    "ecMaxContribution": "185076",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 185076
+        }
+    },
+    "calculatedTotalContribution": 185076
+}

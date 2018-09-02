@@ -1,0 +1,88 @@
+{
+    "rcn": "193407",
+    "acronym": "HIGHTS",
+    "topics": "MG-3.5a-2014",
+    "title": "High precision positioning for cooperative ITS applications",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "Cooperative intelligent transport system (C-ITS) applications rely on knowledge of the geographical positions of vehicles.  Unfortunately, satellite-based positioning systems (e.g., GPS and Galileo) are unable to provide sufficiently accurate position information for many important applications and in certain challenging but common environments (e.g., urban canyons and tunnels).  This project addresses this problem by combining traditional satellite systems with an innovative use of on-board sensing and infrastructure-based wireless communication technologies (e.g., Wi-Fi, ITS-G5, UWB tracking, Zigbee, Bluetooth, LTE...) to produce advanced, highly-accurate positioning technologies for C-ITS. The results will be integrated into the facilities layer of ETSI C-ITS architecture and will thereby become available for all C-ITS applications, including those targeting the challenging use cases Traffic Safety of Vulnerable Users and Autonomous Driving/platooning. The project will therefore go beyond ego- and infra-structure-based positioning by incorporating them as building blocks to develop an enhanced European-wide positioning service platform based on enhanced Local Dynamic Maps and built on open European standards. Proof-of-concept systems developed in the project will combine infrastructure devices, reference vehicles, communication between road users and offline processing, and will be evaluated under real conditions at TASS' test site in Helmond, with the objective of assessing its capabilities to provide high precision positioning to C-ITS applications. When possible, codes and prototypes will be fully open-source and made available to the larger research community as well as to the automotive industry at the end of the project. All achievements will be published in top-tier events further guaranteeing an open-access to all technical publications produced. The project also aims at a strong commitment to bringing the developed solutions to standardization bodies",
+    "totalCost": "5999616,25",
+    "ecMaxContribution": "5999616",
+    "coordinator": "JACOBS UNIVERSITY BREMEN GGMBH",
+    "coordinatorCountry": "DE",
+    "participants": "ZIGPOS GMBH;PAULSCONSULTANCY BV;ROBERT BOSCH GMBH;BE SPOON SAS;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;OBJECTIVE SOFTWARE GMBH;TASS INTERNATIONAL MOBILITY CENTER BV;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;INNOTEC21 GMBH;IBEO AUTOMOTIVE SYSTEMS GMBH;EURECOM;FBCONSULTING SARL;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "DE;NL;FR;LU;SE",
+    "projectParticipants": {
+        "968974226": {
+            "orgId": "968974226",
+            "orgName": "INNOTEC21 GMBH",
+            "ecContrib": 125625
+        },
+        "937592980": {
+            "orgId": "937592980",
+            "orgName": "PAULSCONSULTANCY BV",
+            "ecContrib": 288750
+        },
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 487679
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 403150
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 706175
+        },
+        "954771874": {
+            "orgId": "954771874",
+            "orgName": "IBEO AUTOMOTIVE SYSTEMS GMBH",
+            "ecContrib": 327594
+        },
+        "999897147": {
+            "orgId": "999897147",
+            "orgName": "JACOBS UNIVERSITY BREMEN GGMBH",
+            "ecContrib": 917500
+        },
+        "962842468": {
+            "orgId": "962842468",
+            "orgName": "ZIGPOS GMBH",
+            "ecContrib": 536250
+        },
+        "996623882": {
+            "orgId": "996623882",
+            "orgName": "FBCONSULTING SARL",
+            "ecContrib": 181250
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 231535
+        },
+        "941799385": {
+            "orgId": "941799385",
+            "orgName": "BE SPOON SAS",
+            "ecContrib": 440300
+        },
+        "937223313": {
+            "orgId": "937223313",
+            "orgName": "OBJECTIVE SOFTWARE GMBH",
+            "ecContrib": 542225
+        },
+        "937654090": {
+            "orgId": "937654090",
+            "orgName": "TASS INTERNATIONAL MOBILITY CENTER BV",
+            "ecContrib": 203438
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 608146
+        }
+    },
+    "calculatedTotalContribution": 5999617
+}

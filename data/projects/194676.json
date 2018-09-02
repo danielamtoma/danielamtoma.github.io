@@ -1,0 +1,23 @@
+{
+    "rcn": "194676",
+    "acronym": "MIGOSA",
+    "topics": "ICT-37-2014-1",
+    "title": "Modified Internal Gate image sensor for low light optimised Out-door Security  surveillance Applications",
+    "startDate": "01/11/2014",
+    "endDate": "30/04/2015",
+    "objective": "In todayís cameras the photographic film has been replaced by image sensors, which are silicon chip transforming light into digital images. The image sensors have large amount of pixels measuring locally the amount of light impinging on the pixel and jointly forming the digital image. The image sensors are manufactured like any other silicon chips in foundries having clean rooms and sophisticated silicon processing tools.\n\nSo far there have been two different ways to readout the pixel specific signal, namely, External Gate (EG) configuration utilized e.g. in present Charge Coupled Device (CCD) and Complementary Metal Oxide Semiconductor (CMOS) image sensors as well as Internal Gate (IG) readout configuration that is prone to manufacturing issues and consequently its use is extremely limited. The EG was invented in the sixties and the IG in the seventies. The problem with both of them is that they suffer from non-optimal low light performance.\n\nPixpolar has invented, developed, and patented (more than 20 patents are already granted) a third fundamentally new image sensor pixel readout configuration called the Modified Internal Gate (MIG) that provides superior low light performance when compared to the two other older technologies.\n\nThe MIGOSA project comprises three different tasks. The first one is business plan development work comprising meetings with potential customers in order to ensure that there is sufficient need for the MIG technology and that the development work fulfills customer needs. The second one is an Intellectual Property Right (IPR) study to be performed in order to investigate whether there are any IPR obstacles for MIG image sensor manufacturing. The third one is a manufacturability study performed by the chosen foundry in order to find out whether our pixel design complies with the foundryís manufacturing process.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "PIXPOLAR OY",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "952519243": {
+            "orgId": "952519243",
+            "orgName": "PIXPOLAR OY",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,73 @@
+{
+    "rcn": "205599",
+    "acronym": "ENCOMPASS",
+    "topics": "FOF-13-2016",
+    "title": "ENgineering COMPASS",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "The ENCOMPASS project principally aims to create a fully digital integrated design decision support (IDDS) system to cover the whole manufacturing chain for a laser powder bed fusion (L-PBF) process encompassing all individual processes within in. The ENCOMPASS concept takes a comprehensive view of the L-PBF process chain through synergising and optimising the key stages. The integration at digital level enables numerous synergies between the steps in the process chain and in addition, the steps themselves are being optimised to improve the capability and efficiency of the overall manufacturing chain.\n\nENCOMPASS addresses the three key steps in the process chain: component design, build process, and post-build process steps (post-processing and inspection). The links between these stages are being addressed by the following five interrelations: \n1.\tBetween the design process and both the build and post-build processes in terms of manufacturing constraints / considerations to optimise overall component design \n2.\tBetween the design process and build process component-specific L-PBF scanning strategies and parameters to optimise processing and reduce downstream processing\n3.\tBetween the design process and the build and post-build processes in terms of adding targeted feature quality tracking to the continuous quality monitoring throughout the process chain \n4.\tBetween the build and post-build processes by using build specific processing strategies and adaptation based on actual quality monitoring data (for inspection and post-processing) \n5.\tBetween all stages and the data management system with the integrated design decision support (IDDS) system\n\nBy considering the entire AM process chain, rather than the AM machine in isolation, ENCOMPASS will integrate process decision making tools and produce substantial increases in AM productivity, with clear reductions in change over times and re-design, along with increased ëright-first timeí, leading to overall reductions in production costs, materials wastage, and over-processing. This will lead to higher economic and environmental sustainability of manufacturing, and re-inforce the EUís position in industrial leadership in laser based AM.",
+    "totalCost": "4040371,25",
+    "ecMaxContribution": "4040371,25",
+    "coordinator": "THE MANUFACTURING TECHNOLOGY CENTRE LIMITED LBG",
+    "coordinatorCountry": "UK",
+    "participants": "EUROPEAN FEDERATION FOR WELDING JOINING AND CUTTING;DEPUY (IRELAND) UNLIMITED;CENTRO RICERCHE FIAT SCPA;RENISHAW PLC;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ESI SOFTWARE GERMANY GMBH;ALTAIR ENGINEERING LIMITED;INDUSTRIA DE TURBO PROPULSORES S.A.U.;THE UNIVERSITY OF LIVERPOOL;ROLLS-ROYCE PLC",
+    "participantCountries": "BE;IE;IT;UK;DE;ES",
+    "projectParticipants": {
+        "999945356": {
+            "orgId": "999945356",
+            "orgName": "ROLLS-ROYCE PLC",
+            "ecContrib": 162145
+        },
+        "986498634": {
+            "orgId": "986498634",
+            "orgName": "ALTAIR ENGINEERING LIMITED",
+            "ecContrib": 401788
+        },
+        "993500094": {
+            "orgId": "993500094",
+            "orgName": "DEPUY (IRELAND) UNLIMITED",
+            "ecContrib": 168688
+        },
+        "999791708": {
+            "orgId": "999791708",
+            "orgName": "INDUSTRIA DE TURBO PROPULSORES S.A.U.",
+            "ecContrib": 174100
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 183500
+        },
+        "997334213": {
+            "orgId": "997334213",
+            "orgName": "EUROPEAN FEDERATION FOR WELDING JOINING AND CUTTING",
+            "ecContrib": 201372
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 779222
+        },
+        "951980990": {
+            "orgId": "951980990",
+            "orgName": "ESI SOFTWARE GERMANY GMBH",
+            "ecContrib": 316606
+        },
+        "999980567": {
+            "orgId": "999980567",
+            "orgName": "THE UNIVERSITY OF LIVERPOOL",
+            "ecContrib": 258559
+        },
+        "994274057": {
+            "orgId": "994274057",
+            "orgName": "RENISHAW PLC",
+            "ecContrib": 594384
+        },
+        "959490342": {
+            "orgId": "959490342",
+            "orgName": "THE MANUFACTURING TECHNOLOGY CENTRE LIMITED LBG",
+            "ecContrib": 800008
+        }
+    },
+    "calculatedTotalContribution": 4040372
+}

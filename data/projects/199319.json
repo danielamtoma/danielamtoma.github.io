@@ -1,0 +1,53 @@
+{
+    "rcn": "199319",
+    "acronym": "STREAMS",
+    "topics": "ICT-25-2015",
+    "title": "Smart Technologies for eneRgy Efficient Active cooling in advanced Microelectronic Systems",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "The aim of STREAMS is to bring Europe into the new leading thermal management paradigm and maintain EU position at the forefront of ICT development. With a focused consortium gathering complementary experts, STREAMS will develop a generic active cooling thermal management solution (reaching TRL4), to keep nanoelectronic devices and systems performances at their best, while meeting IC future challenges.\nTo successfully integrate Versatile microfluidic actuation, Anticipating thermal map and Thermal energy harvesting in a Si-based interposer, STREAMS will:\n- Lay-out advanced functionalities for the power efficient cooling control of application use-cases with critical heat load spatial distributions including hotspot areas (150 to 300 W/cm2) and background areas (20W/cm2) and temporal heat load variation in typical sub-second time scale \n- Develop self-adaptive and controlled micro-fluidic actuators to decrease by 25% both the pressure loss and the fluid flow rate, while controlling the temperature distribution within 15% below the acceptable limits of each component for spatial and temporal heat flux variation scenarios\n- Integrate IC compatible passive heat flux sensors (sensitivity up to S=100mV/K) at the interposer level to anticipate thermal map variation (time response~200ms, lateral spatial resolution=500µm)\n- Take advantage of existing thermal gradients to embed high performance nanostructured thermoelectric generator (harvested power up to 10mW) to power local functionalities (microfluidic valves, power management and read-out circuits, control ASIC)\n- Integrate the developed functionalities into a Si based interposer to demonstrate a smart, adaptable and embedded active cooling thermal management solution with reduced footprint (70% thickness reduction) and reduced consumption (-50%)\n- Assess reliability and performances of STREAMS thermal management solution in real future high performance applications in micro-servers (P=50W) and network use cases (P=200W)",
+    "totalCost": "3369513,75",
+    "ecMaxContribution": "3369513,75",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "STMICROELECTRONICS S.A.;STMICROELECTRONICS CROLLES 2 SAS;ALBERT-LUDWIGS-UNIVERSITAET FREIBURG;UNIVERSIDAD DE LLEIDA;HAHN-SCHICKARD-GESELLSCHAFT FUER ANGEWANDTE FORSCHUNG E.v.;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR;DE;ES",
+    "projectParticipants": {
+        "999838559": {
+            "orgId": "999838559",
+            "orgName": "UNIVERSIDAD DE LLEIDA",
+            "ecContrib": 546344
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 835452
+        },
+        "999750580": {
+            "orgId": "999750580",
+            "orgName": "STMICROELECTRONICS CROLLES 2 SAS",
+            "ecContrib": 200184
+        },
+        "999841760": {
+            "orgId": "999841760",
+            "orgName": "ALBERT-LUDWIGS-UNIVERSITAET FREIBURG",
+            "ecContrib": 652950
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 582295
+        },
+        "998872439": {
+            "orgId": "998872439",
+            "orgName": "HAHN-SCHICKARD-GESELLSCHAFT FUER ANGEWANDTE FORSCHUNG E.v.",
+            "ecContrib": 503988
+        },
+        "999909175": {
+            "orgId": "999909175",
+            "orgName": "STMICROELECTRONICS S.A.",
+            "ecContrib": 48301
+        }
+    },
+    "calculatedTotalContribution": 3369514
+}

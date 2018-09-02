@@ -1,0 +1,23 @@
+{
+    "rcn": "211754",
+    "acronym": "SFICAM",
+    "topics": "ERC-2017-PoC",
+    "title": "SFICAM: Ultrafast Fiber-Based Single-Photon Camera for Advanced Microscopy",
+    "startDate": "01/09/2017",
+    "endDate": "28/02/2019",
+    "objective": "Light microscopy is critical to many fields, from biology and medicine to technology development and industry. One important breakthrough that enabled the development of super-resolution microscopy was the development of enhanced cameras capable of recording low light-level images with single-photon sensitivity. However such gain in spatial resolution is compromised by low temporal resolution, since these cameras work at video rate or somewhat faster, while many applications require to characterize dynamics which could be a million times faster. \nWe propose here a proof of concept demonstration of a technique that enhances the resolution of optical microscopy in both space and time by significantly enhancing camera frame rates while still retaining single-photon sensitivity.\nOur approach is to form a single-photon sensitive camera using an array of fibres to guide light into single-photon detectors. In this proof-of-concept of a Single-Photon Fibre-optics Camera (SFICAM), we shall demonstrate a device that could resolve light emitters spatially with nanometric resolution and temporally with nsec precision. We argue that even with\na limited number of elements, and therefore with a small frame size, such cameras could be effective, by combining them with scanning laser microscopy techniques. In the course of this POC project we shall expand the small SFICAM already constructed during the project QUAMI using either individual single photon detectors or monolithic arrays of detectors,  and demonstrate its utility and advantage in several microscope modalities. We shall also pursue IP protection of our device and proactively search for industrial partners that will advance it to market.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

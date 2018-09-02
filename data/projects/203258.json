@@ -1,0 +1,53 @@
+{
+    "rcn": "203258",
+    "acronym": "S3NET",
+    "topics": "EO-3-2015",
+    "title": "Satellite Swarm Sensor NETwork",
+    "startDate": "01/05/2016",
+    "endDate": "31/10/2018",
+    "objective": "The implementation of the S3NET concept as proposed by this consortium, will significantly advance the knowledge and decision-making capabilities for the space community in general and mission planners in particular. Through the enhancement and efficient use of on-board resources (computing power, communications and fuel) the improvements in performance of Earth observations (EO) using fractionated or single sensors aboard ´ swarms ª of satellites will be shown.  \nThe project will develop two benchmarking systems which will result in the TRL3 demonstration of these performance improvements using the most relevant fragmented and distributed EO optic (high-resolution optical and hyperspectral) and radar mission scenarios. Expected impacts of these results include: improved quality of service, mission scalability, increased incremental deployment, cost savings for satellite missions through extended satellite operations/life-time, restructuring of the space imaging value chain and lastly, further independence from ITAR restricted products.\nThe S3NET consortium is comprised of end users and mission planning representatives, satellite formation flying experts and specialists in radar and optical sensor technology,  on-board computing, high-performance processor and hardware design, acceleration of software applications, and satellite telecommunications. The project will last 30 months.",
+    "totalCost": "2563520",
+    "ecMaxContribution": "2563520",
+    "coordinator": "INNOVATIONSGESELLSCHAFT TECHNISCHE UNIVERSITAT BRAUNSCHWEIG MBH",
+    "coordinatorCountry": "DE",
+    "participants": "RAMON CHIPS LTD;CGS SPA COMPAGNIA GENERALE PER LO SPAZIO;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;DSI AEROSPACE TECHNOLOGIE GMBH;ARTTIC;POLITECNICO DI MILANO;TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "participantCountries": "IL;IT;DE;FR",
+    "projectParticipants": {
+        "996501759": {
+            "orgId": "996501759",
+            "orgName": "DSI AEROSPACE TECHNOLOGIE GMBH",
+            "ecContrib": 250000
+        },
+        "999792484": {
+            "orgId": "999792484",
+            "orgName": "ARTTIC",
+            "ecContrib": 106284
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 101875
+        },
+        "972716389": {
+            "orgId": "972716389",
+            "orgName": "RAMON CHIPS LTD",
+            "ecContrib": 476875
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 300000
+        },
+        "955586480": {
+            "orgId": "955586480",
+            "orgName": "INNOVATIONSGESELLSCHAFT TECHNISCHE UNIVERSITAT BRAUNSCHWEIG MBH",
+            "ecContrib": 663591
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 264996
+        }
+    },
+    "calculatedTotalContribution": 2163621
+}

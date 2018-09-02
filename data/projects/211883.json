@@ -1,0 +1,68 @@
+{
+    "rcn": "211883",
+    "acronym": "TRABIT",
+    "topics": "MSCA-ITN-2017",
+    "title": "Translational Brain Imaging Training Network",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2021",
+    "objective": "Brain diseases account for one third of the overall disease burden in Europe, and their already significant cost to society is expected to further escalate as a result of the aging European population. In recent decades, medical imaging techniques such as computed tomography, ultrasound, and especially magnetic resonance imaging have gained a central role in the clinical management of disorders of the brain. A fundamental bottleneck in translating the wealth of information contained in medical images into optimized patient care is the lack of computational tools to reliably and accurately analyze the available images. Combined with the sheer volume of data acquired on a daily basis, the current dearth of computational tools means that most of the relevant information contained in today's clinical brain scans simply remains unused.\n\nIn an interdisciplinary and intersectoral joint effort of computational scientists, clinicians, and the industry in the field of neuroimaging, the 'Translational Brain Imaging Training Network' (TRABIT) aims to provide a new generation of innovative and entrepreneurial early-stage researchers (ESRs) to bring quantitative image computing methods into the clinic, enabling improved healthcare delivery to patients with brain disease. The proposed network brings together internationally leading groups in biomedical image computing; some of Europe's most renowned research hospitals; and important players from the medical imaging industry. Through this network, each of TRABIT's ESRs will have access to the most relevant experts from industry, academia, and hospitals, as well as large collections of clinical neuroimaging data, facilitating the evaluation of the true clinical relevance and impact of the investigated computational methods. A commonly adopted rapid-prototyping software environment will facilitate testing, demonstrating the developed tools in hospital environments, and disseminating the obtained models and methods.",
+    "totalCost": "3938655,6",
+    "ecMaxContribution": "3938655,6",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "MEDIZINISCHE UNIVERSITAET WIEN;ICOMETRIX NV;REGION HOVEDSTADEN;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;TECHNISCHE UNIVERSITAET MUENCHEN;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;UNIVERSITY COLLEGE LONDON;PHILIPS MEDICAL SYSTEMS NEDERLAND BV;TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "participantCountries": "AT;BE;DK;DE;CH;UK;NL",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 255374
+        },
+        "999608766": {
+            "orgId": "999608766",
+            "orgName": "PHILIPS MEDICAL SYSTEMS NEDERLAND BV",
+            "ecContrib": 255374
+        },
+        "963936434": {
+            "orgId": "963936434",
+            "orgName": "ICOMETRIX NV",
+            "ecContrib": 501120
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 580164
+        },
+        "999989976": {
+            "orgId": "999989976",
+            "orgName": "MEDIZINISCHE UNIVERSITAET WIEN",
+            "ecContrib": 255934
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 498433
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 273288
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 498433
+        },
+        "999654744": {
+            "orgId": "999654744",
+            "orgName": "REGION HOVEDSTADEN",
+            "ecContrib": 290082
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 530454
+        }
+    },
+    "calculatedTotalContribution": 3938656
+}

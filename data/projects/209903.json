@@ -1,0 +1,23 @@
+{
+    "rcn": "209903",
+    "acronym": "Pho-T-Lyze",
+    "topics": "ERC-2016-STG",
+    "title": "Photonic Terahertz Signal Analyzers",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2022",
+    "objective": "Spectrum analysis and vector network analysis are enabling technologies for component development throughout the microwave and millimeter wave band. Due to the lack of affordable electronics for frequencies above 100 GHz, vector network analyzers (VNAs) have to use frequency extenders to reach into the THz frequency band (100 GHz-10 THz). The bandwidth of frequency extended electronic systems is restricted to about 50%. Several extender setups have to be used for larger spans, requiring realignment and tedious recalibration. Further, extenders become increasingly expensive the higher the THz frequency and are, therefore, barley used. Electronic spectrum analyzers face similar problems as VNAs. Only a few examples of highly expensive photonic, pulsed frequency comb-based systems have been demonstrated. Affordable, large bandwidth commercial THz metrology tools are missing so far. \nThis proposal aims for the development of photonic THz characterization tools based on telecom-wavelength compatible photomixing technology to satisfy this need:\n1.) Photonic vector network analysers (PVNAs) with extreme frequency coverage will be realized by two approaches:\n   a) A planar, on-chip, and broadband dielectric waveguide topology with integrated photomixers for the realization of a continuous-wave (CW) two-port PVNA, covering at least 100 GHz to 1.1 THz in a single setup.\n   b) A pulsed, free space photonic two-port VNA for frequency extension towards 5 THz.\n2.) CW photonic THz spectrum analyzers (PSAs) with a frequency coverage of at least 50 GHz -1.1 THz and a simple extension towards 2.7 THz. This system will be realized both free space and on-chip by using a photonic sweep oscillator that is mixed with the signal to be investigated and down-converted by a room-temperature operating THz detector. \nThese systems will provide a solid basis for THz component development. The long term goal beyond this proposal is a competence center for THz device engineering.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "TECHNISCHE UNIVERSITAT DARMSTADT",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

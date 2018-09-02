@@ -1,0 +1,28 @@
+{
+    "rcn": "208234",
+    "acronym": "TERA",
+    "topics": "MSCA-IF-2016",
+    "title": "Coding for terabit-per-second fiber-optical communications",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2020",
+    "objective": "The goal of this project is to improve the performance and efficiency of fiber-optic communication systems that operate at terabit-per-second data rates. This goal will be realized by analyzing and optimizing the error-correcting codes used by these systems.\n\nOur first objective is to derive a finite-length scaling law which characterizes the code performance as a function of the code length (in bits). As a major novelty, we consider deterministic codes, which can fulfill the stringent requirements of terabit-per-second systems in terms of target bit error rates and hardware implementation. A scaling law can be used, for example, to rapidly assess the code performance in order to identify trade-offs and optimize system parameters. It thus constitutes a fundamental tool in order to design next-generation systems and to further push the limits of fiber-optic data transport.\n\nOur second objective is to reduce the decoding complexity. Current algorithms waste resources (power) because they do not exploit valuable information that is exposed during the decoding process. We minimize complexity by designing efficient component code selection strategies. We will also theoretically analyze the expected complexity savings, in particular in the regime where the noise level approaches the codeís threshold. The development of low-complexity decoding algorithms plays an important role in the design of energy-efficient fiber-optic systems decoding contributes substantially to the overall energy consumption. Therefore, this work will help to ensure that future data traffic demands can be met in a sustainable way.\n\nOur results are broadly applicable also for Flash memory systems, vehicular communication networks, and the computation of sparse fast Fourier transforms.",
+    "totalCost": "265059",
+    "ecMaxContribution": "265059",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998693959": {
+            "orgId": "998693959",
+            "orgName": "DUKE UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 265059
+        }
+    },
+    "calculatedTotalContribution": 265059
+}

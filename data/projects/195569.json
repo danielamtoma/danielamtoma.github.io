@@ -1,0 +1,23 @@
+{
+    "rcn": "195569",
+    "acronym": "HiCapWDM",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "High Capacity WDM System",
+    "startDate": "01/09/2015",
+    "endDate": "",
+    "objective": "The ever-increasing capacity demand in optical fiber communications is currently being addressed in three ways: a) Increasing the data rate carried by each wavelength channel in wavelength-division multi¨plexed (WDM) systems by using advanced optical modulation formats which offer improved spectral efficiency compared to legacy On-Off Keyed formats, b) reducing the unused bandwidth between channels by precisely controlling the transmitter wavelength and channel spacing, and c) using flexible transmission techniques to tailor the optical channels to the traffic demands in real time.\nA key component that enables all three of these techniques to be addressed is a low-linewidth optical comb source. The low-linewidth allows the high-order modulation formats to be used. The comb line spacing is precisely controlled so that adjacent channels will not ìwanderî independently and interfere with each other. The spacing between the lines can also be controlled to change the channel separation in order to allow different modulation formats and especially different symbol rates for the individual sub-channels. This allows the system to adapt to optimize the bit rate and/or modulation format depending on the available bandwidth and properties (dispersion, noise, loss, etc.) of the transmission link. For this adaptation, enhanced digital signal processing (DSP) algorithms are used. The goal of this project is to investigate high-capacity, cost effective, flexible WDM transmission systems, employing optical frequency combs and enhanced DSP technologies.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

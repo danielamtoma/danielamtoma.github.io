@@ -1,0 +1,43 @@
+{
+    "rcn": "212447",
+    "acronym": "ENSPACE",
+    "topics": "GALILEO-3-2017",
+    "title": "Enhanced Navigation in Space",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2019",
+    "objective": "The use of GNSS in space applications enables the main following applications: (a) navigation in space, (b) timing determination (c) precise orbit determination (d) attitude determination.\nMost of future space missions (LEO, MEO, GEO/IGSO orbits, interplanetary missions and launchers) are considering to adopt GNSS as baseline requirements for orbit determination or vehicle position and time estimation in space. In parallel, cost/size reduction, flexibility and the need to increase security are key requirements to sustain the evolution of the satellite business towards mega constellations and small satellites.\nENSPACE (Enhanced Navigation in Space) captures this needs developing an innovative software application for enhanced space navigation, positioning and time. The aim is to: (a) become a reference product for low cost, secure and flexible space navigation, positioning and time, and (b) enable existing high grade space applications to enhance GNSS security.\nENSPACE has the advantage to be multi application and multi mission, low cost, secure and robust, fully Software. \nThe use of Galileo, and particularly the features of authentication, guarantees highly accurate positioning and robust navigation, not feasible so far with current GNSS. \nENSPACE will be the future concept of space navigation and will test all possibilities of Galileo beyond the limits of the original service design.",
+    "totalCost": "836487,5",
+    "ecMaxContribution": "628456",
+    "coordinator": "QASCOM SRL",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITA DEGLI STUDI DI PADOVA;Spirent Communications plc;ENDUROSAT AD;GEA SPACE SRO;EUROCONSULT SA",
+    "participantCountries": "IT;UK;BG;CZ;FR",
+    "projectParticipants": {
+        "999995602": {
+            "orgId": "999995602",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PADOVA",
+            "ecContrib": 143050
+        },
+        "998738385": {
+            "orgId": "998738385",
+            "orgName": "QASCOM SRL",
+            "ecContrib": 223125
+        },
+        "922504533": {
+            "orgId": "922504533",
+            "orgName": "ENDUROSAT AD",
+            "ecContrib": 61250
+        },
+        "923434181": {
+            "orgId": "923434181",
+            "orgName": "GEA SPACE SRO",
+            "ecContrib": 28000
+        },
+        "965384159": {
+            "orgId": "965384159",
+            "orgName": "EUROCONSULT SA",
+            "ecContrib": 59500
+        }
+    },
+    "calculatedTotalContribution": 514925
+}

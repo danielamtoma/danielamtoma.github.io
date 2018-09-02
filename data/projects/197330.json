@@ -1,0 +1,23 @@
+{
+    "rcn": "197330",
+    "acronym": "MPCPRO",
+    "topics": "ERC-ADG-2014",
+    "title": "Better MPC Protocols in Theory and in Practice",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "Multiparty computation (MPC) is a cryptographic technique allowing us to build distributed computer systems for handling confidential data. We can control exactly what information is released from the system, and privacy of the input data is maintained, even if an adversary breaks into several of the machines in the system. The efficiency of MPC protocols has been significantly improved in recent years. There are countless applications and the techniques are just now entering the commercial domain. However, the theory of the area has in several respects failed to keep up with this development, and we are still very far from being able to apply MPC to large-scale applications. In this project, we propose that state of the art for MPC protocols can be dramatically advanced by \n\n1) Developing a completely new theory for the performance of MPC protocols based on a more detailed model that better reflects what happens when protocols are executed on real platforms.\n2) Use the new theory to guide development and implementation of new MPC protocols that will perform much better in practice. \n3) Explore the limits of what we can achieve by showing new lower bounds for MPC protocols, attacking a number of long-standing open problems. This will enable us to focus our attention to where improvements are possible.",
+    "totalCost": "2421995",
+    "ecMaxContribution": "2421995",
+    "coordinator": "AARHUS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 2421995
+        }
+    },
+    "calculatedTotalContribution": 2421995
+}

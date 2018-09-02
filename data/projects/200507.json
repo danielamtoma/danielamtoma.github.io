@@ -1,0 +1,23 @@
+{
+    "rcn": "200507",
+    "acronym": "WideBrainImaging",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Development of high-speed microscopes to study wide-scale neural activity",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "The dynamic of neural computation is often studied in individual cells using inserted electrodes, or using low-resolution methods such as EEG. Functional fluorescent imaging has recently emerged as a powerful complementary tool that allows single-cell resolution of relatively large networks, opening a new regime to neuroscience. However, complex brains are generally opaque and can only be studied with scanning two-photon microscopes; with the achievable depth limited to ~0.6mm, and the volume limited by the relatively slow scan.\nThis project will develop ultrafast scanning multiphoton microscopes to image neural activity at cellular resolution over large volumes, and at greater depth. Using these we will study patterns of activity in the hippocampus, and particularly attempt to observe the pathways involved in memory retention. To increase speed we will use temporal focusing to controllably sculpt the excitation volume and enlarge the focal spot. This reduces the number of measured pixels and allows faster scanning (or larger volume), at the cost of resolution. This will allow 25x faster imaging in a resonant scanning two-photon microscope; allowing observation of many thousands of cells at once, which could reveal the wide-scale characteristic activity.\nWe will build a second microscope that uses three-photon excitation with temporal focusing. Three-photon imaging relies on longer wavelengths that penetrate deeper into tissue, and also suppresses background fluorescence which could otherwise limit depth. Consequently, this microscope will allow high-speed imaging at depth exceeding 1mm. This allows study of information transfer across multiple layers; or provides access to the hippocampus through the intact cortex. These studies could provide crucial insights to neuroscience that are currently accessible only for a few neurons.\nFollowing completion of this project these microscopes could have an enduring impact as they continue to be used to study neural dynamics.",
+    "totalCost": "178156,8",
+    "ecMaxContribution": "178156,8",
+    "coordinator": "FORSCHUNGSINSTITUT FUR MOLEKULARE PATHOLOGIE GESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999919069": {
+            "orgId": "999919069",
+            "orgName": "FORSCHUNGSINSTITUT FUR MOLEKULARE PATHOLOGIE GESELLSCHAFT MBH",
+            "ecContrib": 178157
+        }
+    },
+    "calculatedTotalContribution": 178157
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "198235",
+    "acronym": "H2REF",
+    "topics": "FCH-01.5-2014",
+    "title": "DEVELOPMENT OF A COST EFFECTIVE AND RELIABLE HYDROGEN FUEL CELL VEHICLE REFUELLING SYSTEM",
+    "startDate": "01/09/2015",
+    "endDate": "31/05/2019",
+    "objective": "H2Ref addresses the compression and buffering function for the refuelling of 70 MPa passenger vehicles and encompasses all the necessary activities for advancing a novel hydraulics-based compression and buffering system that is very cost effective and reliable from TRL 3 (experimentally proven concept) to TRL 6 (technology demonstrated in relevant environment), thereby proving highly improved performance and reliability in accordance with the following targets that have been defined considering the intrinsic characteristics of this new solution:\n- Throughput: 70 MPa dispensing capacity of 6 to 15 vehicles per hour (i.e. 30 to 75 kg/hr) - depending on the inventory level in source storage of the compressed hydrogen - with a 75 kW power supply;\n- Robustness and Reliability: 10 years of operation without significant preventive maintenance requirement, demonstrated through intensive lab test simulating 20 refuellings per day during 10 years, i.e. 72,000 refuellings;\n- CAPEX:  Manufacturing cost of 300 kÄ for the compression and buffering module (CBM) assuming serial production (50 systems/yr). This level of cost for the CBM allows to target a cost of 450 kÄ for the complete HRS (including pre-cooling and dispensing), assuming application of the optimized approaches for pre-cooling and dispensing control being developed in the HyTransfer project, far below the current HRS cost of approximately 900 kÄ;\n- Energy efficiency: average consumption for compression below 1.5 kWh/kg of dispensed hydrogen, i.e. 50% below the energy consumption of current systems, in fuelling stations supplied by trailers, which is and will likely remain the most common form of supply.\nThe knowledge gained will allow subsequent development to focus on optimization of components, of design for manufacturing and maintenance, further demonstration, and the development of a product range for different refuelling station sizes, thus taking this innovation to the market.",
+    "totalCost": "7127941,25",
+    "ecMaxContribution": "5968554",
+    "coordinator": "CENTRE TECHNIQUE DES INDUSTRIES MECANIQUES",
+    "coordinatorCountry": "FR",
+    "participants": "H2NOVA;THE CCS GLOBAL GROUP LIMITED;HASKEL FRANCE;HEXAGON RAUFOSS AS;Ludwig-Boelkow-Systemtechnik GmbH;HASKEL EUROPE LTD",
+    "participantCountries": "FR;UK;NO;DE",
+    "projectParticipants": {
+        "996311833": {
+            "orgId": "996311833",
+            "orgName": "Ludwig-Boelkow-Systemtechnik GmbH",
+            "ecContrib": 58662
+        },
+        "922812605": {
+            "orgId": "922812605",
+            "orgName": "HASKEL EUROPE LTD",
+            "ecContrib": 2324550
+        },
+        "990488050": {
+            "orgId": "990488050",
+            "orgName": "HEXAGON RAUFOSS AS",
+            "ecContrib": 1288934
+        },
+        "949608952": {
+            "orgId": "949608952",
+            "orgName": "H2NOVA",
+            "ecContrib": 309268
+        },
+        "935073793": {
+            "orgId": "935073793",
+            "orgName": "HASKEL FRANCE",
+            "ecContrib": 0
+        },
+        "990709889": {
+            "orgId": "990709889",
+            "orgName": "THE CCS GLOBAL GROUP LIMITED",
+            "ecContrib": 155500
+        },
+        "998836743": {
+            "orgId": "998836743",
+            "orgName": "CENTRE TECHNIQUE DES INDUSTRIES MECANIQUES",
+            "ecContrib": 1831640
+        }
+    },
+    "calculatedTotalContribution": 5968554
+}

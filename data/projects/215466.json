@@ -1,0 +1,17 @@
+{
+    "rcn": "215466",
+    "acronym": "IDPOQ",
+    "topics": "MSCA-IF-2017",
+    "title": "Evaluation and implementation of post-quantum cryptographic schemes",
+    "startDate": "01/04/2018",
+    "endDate": "30/09/2019",
+    "objective": "Quantum computers are devices under development that offer an immense computational capability, outperforming all actual and forthcoming classical computers. If practicable, they would have a dreadful impact on the security of our communications. Indeed, quantum computers will be able to solve mathematical problems that are infeasible today, and all currently used cryptographic schemes (i.e. the tools used to provide confidentiality, authentication, and integrity to our communication channels) rely on the hardness of such problems to ensure their robustness. Such a weakening of the security of our telecommunications would impair many aspects of our society, both in the EU and all around the world, from online shopping and financial transactions to military communications and state secrets. \n\nThis research project aims at evaluating and analysing the robustness of several cryptographic schemes against attacks led with a quantum computer, and once provably secure ones are found, implementing them. At first, it will be focused on a specific family of encryption method, the lattice-based ones, which are among the most promising candidates from the resilience and performance trade-off point of view. A significant part of the proposal is devoted to the implementation of the analysed schemes. These implementations will adopt various forms which aim at different objectives, such as freely-available standardized softwares or hardware integrated within ID Quantique (the beneficiary, a Swiss company providing quantum-safe cryptographic solutions) line of commercialized devices.\n\nOur proposal will take advantage of the post-quantum project initiated by the NIST, an international program which aims at soliciting, evaluating, and standardizing quantum-resistant cryptographic algorithms. It will notably offer us golden opportunities to communicate about obtained results and to deepen our training in the field of post-quantum cryptography.",
+    "totalCost": "131564,7",
+    "ecMaxContribution": "131564,7",
+    "coordinator": "ID QUANTIQUE SA",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

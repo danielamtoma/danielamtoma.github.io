@@ -1,0 +1,23 @@
+{
+    "rcn": "213921",
+    "acronym": "TeraSHAPE",
+    "topics": "ERC-2017-COG",
+    "title": "Terahertz Waveform Synthesis and Analysis Using Hybrid Photonic-Electronic Circuits",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2023",
+    "objective": "Generation, detection, and processing of electromagnetic waveforms is one the most important tech-nical foundations of modern society. Digital signal processing, in particular, has revolutionized many areas of science and engineering. By exploiting massively parallel processing with tens of billions of transistors at comparatively low internal clock speed, CMOS circuits can provide output data rates of hundreds of gigabit per second, corresponding to effective clock rates of several hundred GHz. In contrast to that, the analog bandwidth of electronic circuits is much more difficult to scale due to limited switching speed of semiconductor devices, strongly increased transmission line losses at high frequencies, and the considerable complexity associated with high-speed circuit packaging and as-sembly.\nTeraSHAPE aims at overcoming these limitations by establishing the foundations of novel signal processing concepts at T-wave frequencies between 100 GHz and 1 THz. Capitalizing on cutting-edge results in the fields of photonic integration and optical frequency comb generation, TeraSHAPE will combine massively parallel processing in digital electronic circuits with synthesis and analysis of broadband waveforms in the optical domain. To convert waveforms between optical and T-wave frequencies, TeraSHAPE will explore novel concepts for ultra-fast devices such as silicon-organic hybrid electro-optic modulators and silicon-plasmonic photodetectors with bandwidths of hundreds of GHz. Advances on the device level will be complemented by scalable assembly concepts, where TeraSHAPE will exploit 3D printing on the micro- and nanoscale both for hybrid photonic integration and for realizing sub-mm THz waveguides. The viability of the TeraSHAPE concepts will be experimentally demonstrated in applications of high relevance such as high-speed wireless communications at data rates of up to 1 Tbit/s or signal processing in high-field electron paramagnetic resonance (EPR) spectroscopy.",
+    "totalCost": "2498954",
+    "ecMaxContribution": "2498954",
+    "coordinator": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 2498954
+        }
+    },
+    "calculatedTotalContribution": 2498954
+}

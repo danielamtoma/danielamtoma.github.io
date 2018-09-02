@@ -1,0 +1,28 @@
+{
+    "rcn": "209086",
+    "acronym": "ARTEMIS",
+    "topics": "MSCA-IF-2016",
+    "title": "Assessment of Reserve: Translational Evaluation of Medical Images and Statistics-Prediction models for outcomes of brain health",
+    "startDate": "01/04/2017",
+    "endDate": "31/05/2020",
+    "objective": "Stroke and cognitive decline are among the leading contributors to disease burden and long-term disability worldwide. Despite their prevalence, the contributing disease processes are not fully understood. This is in part due to the lack of (early) prediction models and ways to characterize protective mechanisms, which can help to distinguish between patients and healthy individuals before symptoms manifest. Such prediction models can facilitate prevention strategies for adverse cognitive and functional outcomes, thereby enriching patientsí life quality and reduce the economic burden on society. Advanced neuroimaging techniques, such as MRI, have provided additional insight into the underlying disease biology. One major challenge when using neuroimaging techniques lies in the fact that large amounts of data are required to account for variations in clinical presentation and assessment, necessitating the use of dedicated pipelines for extracting phenotypes. However, most pipelines are developed in research settings and tend to fail when applied to real-life clinical cohorts, leading to a subpar use of rich, available patient datasets.\n\nHere, a fully-automated, translational pipeline for extracting MRI phenotypes from data acquired in clinical and research settings is developed with a particular focus on outlining white matter hyperintensities (WMH). WMH are a common phenotype in aging and across diseases; however, group differences are poorly understood. This makes WMH a prime candidate for extracting additional information, which can be used for outcome prediction. The proposed prediction models utilize newly extracted characteristics, clinical/demographic information and a latent variable construct to predict general cognitive decline and outcome after stroke. In particular, the proposed latent variable has shown promise in acting as a surrogate measure for protective mechanisms in stroke patients, where its biological meaning is assessed as part of this project.",
+    "totalCost": "239860,8",
+    "ecMaxContribution": "239860,8",
+    "coordinator": "DEUTSCHES ZENTRUM FUR NEURODEGENERATIVE ERKRANKUNGEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "996333755": {
+            "orgId": "996333755",
+            "orgName": "THE GENERAL HOSPITAL CORPORATION",
+            "ecContrib": 0
+        },
+        "974626416": {
+            "orgId": "974626416",
+            "orgName": "DEUTSCHES ZENTRUM FUR NEURODEGENERATIVE ERKRANKUNGEN EV",
+            "ecContrib": 239861
+        }
+    },
+    "calculatedTotalContribution": 239861
+}

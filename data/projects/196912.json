@@ -1,0 +1,48 @@
+{
+    "rcn": "196912",
+    "acronym": "sCO2-HeRo",
+    "topics": "NFRP-03-2014",
+    "title": "The supercritical CO2 Heat Removal System",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "'Raising nuclear reactor safety to a higher level - The supercritical CO2 heat removal system - 'sCO2-HeRo'\n\nThe ìsupercritical CO2 heat removal systemî, sCO2-HeRo, safely, reliably and efficiently removes residual heat from nuclear fuel without the requirement of external power sources. This system therefore can be considered as an excellent backup cooling system for the reactor core or the spent fuel storage in the case of a station blackout and loss of ultimate heat sink. sCO2-HeRo is a very innovative reactor safety concept as it improves the safety of both currently operating and future BWRs and PWRs through a self-propellant, self-sustaining and self-launching, highly compact cooling system powered by an integrated Brayton-cycle using supercritical carbon dioxide. Since this system is powered by the decay heat itself, it provides new ways to deal with accidents that are beyond design. \n\nThe sCO2-HeRo provides breakthrough options with scientific and practical maturity, which will be proven by means of numerical tools, like advanced CFD, and small-scale experiments to determine the performance of the components like a compact heat exchanger and a turbo-machine set. A demonstration unit of the sCO2-HeRo system will be installed in a unique glass model in order to demonstrate the maturity of the system. Finally, the potential of this system to deal with a range of different accident scenarios and beyond-design accidents will be shown with the help of the German nuclear code ATHLET.'",
+    "totalCost": "2791561,25",
+    "ecMaxContribution": "2791561,25",
+    "coordinator": "UNIVERSITAET DUISBURG-ESSEN",
+    "coordinatorCountry": "DE",
+    "participants": "CENTRUM VYZKUMU REZ S.R.O.;GFS GESELLSCHAFT FUER SIMULATORSCHULUNG MBH;UNIVERSITAET STUTTGART;UJV REZ, a. s.;TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "CZ;DE;NL",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 409079
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 606841
+        },
+        "999477428": {
+            "orgId": "999477428",
+            "orgName": "UJV REZ, a. s.",
+            "ecContrib": 163080
+        },
+        "999843312": {
+            "orgId": "999843312",
+            "orgName": "UNIVERSITAET DUISBURG-ESSEN",
+            "ecContrib": 886595
+        },
+        "996153820": {
+            "orgId": "996153820",
+            "orgName": "CENTRUM VYZKUMU REZ S.R.O.",
+            "ecContrib": 253201
+        },
+        "936534516": {
+            "orgId": "936534516",
+            "orgName": "GFS GESELLSCHAFT FUER SIMULATORSCHULUNG MBH",
+            "ecContrib": 472765
+        }
+    },
+    "calculatedTotalContribution": 2791561
+}

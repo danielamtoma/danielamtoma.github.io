@@ -1,0 +1,17 @@
+{
+    "rcn": "214659",
+    "acronym": "FoTran",
+    "topics": "ERC-2017-COG",
+    "title": "Found in Translation ñ Natural Language Understanding with Cross-Lingual Grounding",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2023",
+    "objective": "'Natural language understanding is the 'holy grail' of computational linguistics and a long-term goal in research on artificial intelligence. Understanding human communication is difficult due to the various ambiguities in natural languages and the wide range of contextual dependencies required to resolve them.  Discovering the semantics behind language input is necessary for proper interpretation in interactive tools, which requires an abstraction from language-specific forms to language-independent meaning representations.  With this project, I propose a line of research that will focus on the development of novel data-driven models that can learn such meaning representations from indirect supervision provided by human translations covering a substantial proportion of the linguistic diversity in the world. A guiding principle is cross-lingual grounding, the effect of resolving ambiguities through translation. The beauty of that idea is the use of naturally occurring data instead of artificially created resources and costly manual annotations. The framework is based on deep learning and neural machine translation and my hypothesis is that training on increasing amounts of linguistically diverse data improves the abstractions found by the model. Eventually, this will lead to universal sentence-level meaning representations and we will test our ideas with multilingual machine translation and tasks that require semantic reasoning and inference.'",
+    "totalCost": "1817622",
+    "ecMaxContribution": "1817622",
+    "coordinator": "HELSINGIN YLIOPISTO",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

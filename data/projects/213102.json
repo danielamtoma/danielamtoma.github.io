@@ -1,0 +1,93 @@
+{
+    "rcn": "213102",
+    "acronym": "SerIoT",
+    "topics": "IoT-03-2017",
+    "title": "Secure and Safe Internet of Things",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "The IoT is coming upon us faster than we think, catapulting EU industry, homes and society into the huge arena of security risks that accompany an untested yet already universal technology that directly manages our cyber-physical reality on a daily, and indeed second by second, basis. Attacks on content and quality of service of the IoT platforms can have economic, energetic and physical security consequences that go way beyond the traditional Internetís claimed lack of security, and beyond the threats posed by attacks to mobile telephony. The secure SerIoT platform is a key step that can be used to implement secure IoT platforms and networks anywhere and everywhere. The SerIoT project will develop, implement and test a generic IoT framework based on an adaptive smart Software Defined Network with verified software, secure routers, advanced analytics, and user friendly visual analytics. SerIoT will optimize the information security in IoT platforms and networks in a holistic, cross-layered manner (i.e. IoT platforms & devices, honeypots, SDN routers and operatorís controller) that will be based both on dynamic and distributed processing of variable complexity by single network components (i.e. IoT platforms, devices and honeypots will perform lightweighted processes while SDN routers will be shouldered with more heavy processes), as well as on a centrally located server/controller that will have the main control of the network and will collect, aggregate and fuse the relevant information. Large-scale pilots will test SerIoT technology in various use cases including intelligent transport and surveillance, flexible manufacturing within Industrie 4.0 and other emerging domains such as food chain & logistics, m-Health (both at Home & in Hospitals business scenarios) and energy (smart grid).Through these technology developments and test-beds, the project will deliver a unique portable software-based SerIoT network that can spearhead Europeís success in the IoT.",
+    "totalCost": "4999083,75",
+    "ecMaxContribution": "4999083,75",
+    "coordinator": "INSTYTUT INFORMATYKI TEORETYCZNEJ ISTOSOWANEJ POLSKIEJ AKADEMII NAUK",
+    "coordinatorCountry": "PL",
+    "participants": "HIT HYPERTECH INNOVATIONS LTD;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;FUNDACION TECNALIA RESEARCH & INNOVATION;AUSTRIATECH - GESELLSCHAFT DES BUNDES FUR TECHNOLOGIEPOLITISCHE MASSNAHMEN GMBH;TECHNISCHE UNIVERSITAET BERLIN;UNIVERSITY OF ESSEX;ORGANISMOS ASTIKON SYGKOINONION ATHINON AE;ATOS SPAIN SA;GRUPO DE VENTAS HORTOFRUTICOLAS SL GRUVENTA;HISPASEC SISTEMAS S.L.;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;DEUTSCHE TELEKOM AG;HOP UBIQUITOUS SL;JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+    "participantCountries": "CY;EL;ES;AT;DE;UK;BE",
+    "projectParticipants": {
+        "999936335": {
+            "orgId": "999936335",
+            "orgName": "DEUTSCHE TELEKOM AG",
+            "ecContrib": 540000
+        },
+        "999992304": {
+            "orgId": "999992304",
+            "orgName": "JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+            "ecContrib": 260000
+        },
+        "951424501": {
+            "orgId": "951424501",
+            "orgName": "INSTYTUT INFORMATYKI TEORETYCZNEJ ISTOSOWANEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 584625
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 420625
+        },
+        "999642425": {
+            "orgId": "999642425",
+            "orgName": "AUSTRIATECH - GESELLSCHAFT DES BUNDES FUR TECHNOLOGIEPOLITISCHE MASSNAHMEN GMBH",
+            "ecContrib": 303125
+        },
+        "916785413": {
+            "orgId": "916785413",
+            "orgName": "HIT HYPERTECH INNOVATIONS LTD",
+            "ecContrib": 345625
+        },
+        "951910471": {
+            "orgId": "951910471",
+            "orgName": "GRUPO DE VENTAS HORTOFRUTICOLAS SL GRUVENTA",
+            "ecContrib": 133125
+        },
+        "999856989": {
+            "orgId": "999856989",
+            "orgName": "UNIVERSITY OF ESSEX",
+            "ecContrib": 353505
+        },
+        "950942411": {
+            "orgId": "950942411",
+            "orgName": "ORGANISMOS ASTIKON SYGKOINONION ATHINON AE",
+            "ecContrib": 196250
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 240579
+        },
+        "999717406": {
+            "orgId": "999717406",
+            "orgName": "HISPASEC SISTEMAS S.L.",
+            "ecContrib": 259375
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 185125
+        },
+        "949752221": {
+            "orgId": "949752221",
+            "orgName": "HOP UBIQUITOUS SL",
+            "ecContrib": 258125
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 575000
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 344000
+        }
+    },
+    "calculatedTotalContribution": 4999084
+}

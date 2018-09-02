@@ -1,0 +1,23 @@
+{
+    "rcn": "194933",
+    "acronym": "GRENHAS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Green and Smart Communications with Energy Harvesting: A Signal Processing Approach",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2017",
+    "objective": "Efficient usage of energy resources is a growing concern in today's communication systems. Solutions that consider energy harvesting,  where nodes in a communication system utilize  other available energy sources, such as solar, wind power or man made signals, instead of completely relying on a fixed battery or the power from the grid, offer a promising perspective. Such approaches have a wide range of applications including wireless sensor networks, smart homes and  smart cities.\nUnderstanding the information transfer capabilities of communication systems with energy harvesting features have been the attention of a number of recent works. At the moment the main line of research on the subject is typically done in an information theoretic framework with the rate maximization criterion. This line of work is important for understanding  the fundamental limits in energy harvesting systems, yet it falls short in applicability in the context of practical scenarios.\nHere we propose an alternative estimation theoretic perspective where the problem is investigated within a practical signal processing framework. We will focus on efficient transmission and resource allocation strategies. Practical receiver structures with linear filtering, low complexity designs such as linear precoders, power allocation methods will be important ingredients in our work. The resulting solutions will complement the existing information theoretic solutions, and contribute to  creating future green and smart communication systems.",
+    "totalCost": "185857,2",
+    "ecMaxContribution": "185857,2",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 185857
+        }
+    },
+    "calculatedTotalContribution": 185857
+}

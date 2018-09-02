@@ -1,0 +1,63 @@
+{
+    "rcn": "199623",
+    "acronym": "ICT-STREAMS",
+    "topics": "ICT-27-2015",
+    "title": "Silicon Photonics Transceiver and Routing technologies for High-End Multi-Socket Server Blades with Tb/s Throughput interconnect  interfaces",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "The overall objective of STREAMS is to develop the necessary Silicon Photonics Transceiver and Routing technologies towards a new, power efficient, WDM-based, Tb/s, optical on-board interconnection paradigm that enables multiple high bandwidth, point-to-point direct links on the board level, as a step forward to the realization of exa-scale computing systems. Through the migration of successful WDM networking practices to the mid-plane computercom level, STREAMS will develop a distributed routing system based on a passive Si-Pho AWGR routing element to provide simultaneous any-to-any communication between 16 end-points, such as high-end processor sockets.† STREAMS will also develop a novel DWDM, software controlled, Si-Pho embedded optical modules to interface each socket CPU with the WDM routing platform, in order to guarantee successful wavelength routing and interconnection of CPUs by correctly correlating the data to the designated transmission wavelengths. STREAMS optical engine will exhibit 1.6 Tb/s throughput with 50 Gb/s line rate over 32 wavelength channels, enabling a massive any-to-any, buffer-less, collision-less and extremely low latency routing platform with 25.6Tb/s aggregate throughput. The proposed STREAMS distributed routing system allows maximum granularity of the network resources and their optimal allocation with energy saving criteria. Finally, STREAMS will develop a single-mode polymer based electro optical-PCB to host the WDM-based optical engine and router modules to form a complete power efficient, cost-effective high-speed Optical Path Interconnect for multiple end-point mid-board systems that will outperform current state-of-the-art multi-socket server blades technology by an order of magnitude in aggregated throughput and link power efficiency.",
+    "totalCost": "4086809,5",
+    "ecMaxContribution": "2917134,5",
+    "coordinator": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+    "coordinatorCountry": "EL",
+    "participants": "VARIO-OPTICS AG;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;IBM RESEARCH GMBH;POLITECNICO DI MILANO;FCI DEUTSCHLAND GMBH;STMICROELECTRONICS SRL;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;IMINDS",
+    "participantCountries": "CH;BE;IT;DE;FR",
+    "projectParticipants": {
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 993201
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 208300
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 622500
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 439188
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 378506
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 310500
+        },
+        "954612212": {
+            "orgId": "954612212",
+            "orgName": "VARIO-OPTICS AG",
+            "ecContrib": 0
+        },
+        "928768017": {
+            "orgId": "928768017",
+            "orgName": "FCI DEUTSCHLAND GMBH",
+            "ecContrib": 404127
+        }
+    },
+    "calculatedTotalContribution": 3356322
+}

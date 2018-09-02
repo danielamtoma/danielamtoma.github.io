@@ -1,0 +1,23 @@
+{
+    "rcn": "200786",
+    "acronym": "SpeedInfTradeoff",
+    "topics": "ERC-CoG-2015",
+    "title": "Speed-Information Tradeoffs: Beyond Quasi-Entropy Analysis",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "The starting point of this research proposal is a recent result by the PI, making progress in a half century old,\nnotoriously open problem. In the mid 1960ís, Tukey and Cooley discovered the Fast Fourier Transform, an\nalgorithm for performing one of the most important linear transformations in science and engineering, the\n(discrete) Fourier transform, in time complexity O(n log n).\nIn spite of its importance, a super-linear lower bound has been elusive for many years, with only very limited\nresults. Very recently the PI managed to show that, roughly speaking, a faster Fourier transform must result\nin information loss, in the form of numerical accuracy. The result can be seen as a type of computational\nuncertainty principle, whereby faster computation increases uncertainty in data. The mathematical argument\nis established by defining a type of matrix quasi-entropy, generalizing Shannonís measure of information\n(entropy) to ìquasi-probabilitiesî (which can be negative, more than 1, or even complex).\nThis result, which is not believed to be tight, does not close the book on Fourier complexity. More importantly,\nthe vision proposed by the PI here reaches far beyond Fourier computation. The computation-information\ntradeoff underlying the result suggests a novel view of complexity theory as a whole. We can now revisit\nsome classic complexity theoretical problems with a fresh view. Examples of these problems include better\nunderstanding of the complexity of polynomial multiplication, integer multiplication, auto-correlation and\ncross-correlation computation, dimensionality reduction via the Fast Johnson-Linednstrauss Transform (FJLT;\nalso discovered and developed by the PI), large scale linear algebra (linear regression, Principal Component\nAnalysis - PCA, compressed sensing, matrix multiplication) as well as binary functions such as integer multiplication.",
+    "totalCost": "1515801",
+    "ecMaxContribution": "1515801",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 1515801
+        }
+    },
+    "calculatedTotalContribution": 1515801
+}

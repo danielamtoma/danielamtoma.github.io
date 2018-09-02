@@ -1,0 +1,43 @@
+{
+    "rcn": "200427",
+    "acronym": "INTUIT",
+    "topics": "Sesar-11-2015",
+    "title": "Interactive Toolset for Understanding Trade-offs in ATM Performance",
+    "startDate": "01/03/2016",
+    "endDate": "30/04/2018",
+    "objective": "ATM performance results from the complex interaction of interdependent policies and regulations, stakeholders, technologies and market conditions. Trade-offs arise not only between KPAs, but also between stakeholders, as well as between short-term and long-term objectives. While a lot of effort has traditionally been devoted to the development of microscopic performance models, there is a lack of useful macro approaches able to translate local improvements or specific regulations into their impact on high-level, system-wide KPIs. \n\nThe goal of INTUIT is to explore the potential of visual analytics, machine learning and systems modelling techniques to improve our understanding of the trade-offs between ATM KPAs, identify cause-effect relationships between KPIs at different scales, and develop new decision support tools for ATM performance monitoring and management. The specific objectives of the project are:\n\n1. to conduct a systematic characterisation of the ATM performance datasets available at different spatial and temporal scales and evaluate their potential to inform the development of new indicators and modelling approaches;\n2. to propose new metrics and indicators providing new angles of analysis of ATM performance;\n3. to develop a set of visual analytics and machine learning algorithms for the extraction of relevant and understandable patterns from ATM performance data;\n4. to investigate new data-driven modelling techniques and evaluate their potential to provide new insights about cause-effect relationships between performance drivers and performance indicators;\n5. to integrate the newly developed analytical and visualisation functionalities into an interactive dashboard supporting multi-dimensional performance assessment and decision making for both monitoring and management purposes.",
+    "totalCost": "998125",
+    "ecMaxContribution": "998125",
+    "coordinator": "NOMMON SOLUTIONS AND TECHNOLOGIES SL",
+    "coordinatorCountry": "ES",
+    "participants": "TRANSPORT & MOBILITY LEUVEN NV;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;UNIVERSIDAD POLITECNICA DE MADRID;ADVANCED LOGISTICS GROUP SAU",
+    "participantCountries": "BE;DE;ES",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 148188
+        },
+        "953371194": {
+            "orgId": "953371194",
+            "orgName": "NOMMON SOLUTIONS AND TECHNOLOGIES SL",
+            "ecContrib": 306312
+        },
+        "997239832": {
+            "orgId": "997239832",
+            "orgName": "ADVANCED LOGISTICS GROUP SAU",
+            "ecContrib": 151438
+        },
+        "998616262": {
+            "orgId": "998616262",
+            "orgName": "TRANSPORT & MOBILITY LEUVEN NV",
+            "ecContrib": 148188
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 244000
+        }
+    },
+    "calculatedTotalContribution": 998126
+}

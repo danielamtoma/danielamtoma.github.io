@@ -1,0 +1,153 @@
+{
+    "rcn": "206405",
+    "acronym": "PJ18 4DTM",
+    "topics": "SESAR.IR-VLD.Wave1-21-2015",
+    "title": "4D Trajectory Management",
+    "startDate": "01/11/2016",
+    "endDate": "30/11/2020",
+    "objective": "One of the main obstacles of reaching Single European Skyís objectives is management of flight trajectories. Inaccuracies are difficult to spot and information given to stakeholders about the trajectory is limited, arriving late, and full of inconsistencies and wrong assumptions. Military Flights are currently not integrated in the ATM-system, so demanding special treatment.\n\nAdditionally, there is a lack of complete, updated, unique and coherent aeronautical and meteorological information at European level, which again limits the accuracy of the predicted trajectory and so difficult detecting incoming issues and designing optimum solutions.\n\nThis project addresses solutions for the above limitations. Harmonized and global trajectory information sharing, including improved negotiation mechanisms, will enable significant operational benefits on flight management. The aim is to enable a unique and integrated view of all flights trajectories (including military ones) among the stakeholders. This is improved thanks to new tools and capabilities ensuring all stakeholders are managing a single, updated and complete view of the forecasted meteorology and airspace configuration.\n\nBoth solutions above will increase safety and efficiency - a very important step towards ensuring that anyone can fly safer, cheaper and quicker in Europe in 10 years.\n\nAs so many stakeholders are involved, this issue cannot be solved at national level. All stakeholders (mainly air navigation service providers, as well as air and ground industry partners) need to be involved as all will need to perform changes to ensure successful implementation. The SESAR 2020 Programme is the only place where this can happen.\n\nIn this project we have ensured participation of the major ATM stakeholders which ensures having the knowledge and expertise to come up with the concepts, prototypes and platforms to provide sustainable results usable throughout Europe.",
+    "totalCost": "49248701,22",
+    "ecMaxContribution": "13524186,2",
+    "coordinator": "INDRA SISTEMAS SA",
+    "coordinatorCountry": "ES",
+    "participants": "AIRBUS SAS;AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH;POLSKA AGENCJA ZEGLUGI POWIETRZNEJ;HUNGAROCONTROL MAGYAR LEGIFORGALMISZOLGALAT ZARTKORUEN MUKODO RESZVENYTARSASAG;RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK;STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;SKYGUIDE, SA SUISSE POUR LES SERVICES DE LA NAVIGATION AERIENNE CIVILS ET MILITAIRES;DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE;ENAV SPA;HONEYWELL AEROSPACE;ENTIDAD PUBLICA EMPRESARIAL ENAIRE;VALSTYBES IMONE ORO NAVIGACIJA;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;ATOS BELGIUM;CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;THALES AVS FRANCE SAS;FREQUENTIS AG;THALES LAS FRANCE SAS;NATS (EN ROUTE) PUBLIC LIMITED COMPANY;DASSAULT AVIATION;LETOVE PREVADZKOVE SLUZBY SLOVENSKEJ REPUBLIKY, STATNY PODNIK;UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY;LEONARDO - SOCIETA PER  AZIONI;NAVIAIR;LUFTFARTSVERKET;DFS DEUTSCHE FLUGSICHERUNG GMBH",
+    "participantCountries": "FR;AT;PL;HU;CZ;NL;CH;IT;ES;LT;BE;HR;DE;UK;SK;IE;DK;SE",
+    "projectParticipants": {
+        "997701843": {
+            "orgId": "997701843",
+            "orgName": "ENTIDAD PUBLICA EMPRESARIAL ENAIRE",
+            "ecContrib": 69998
+        },
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 1356064
+        },
+        "995562023": {
+            "orgId": "995562023",
+            "orgName": "POLSKA AGENCJA ZEGLUGI POWIETRZNEJ",
+            "ecContrib": 17591
+        },
+        "927009019": {
+            "orgId": "927009019",
+            "orgName": "UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY",
+            "ecContrib": 0
+        },
+        "924128216": {
+            "orgId": "924128216",
+            "orgName": "CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD",
+            "ecContrib": 162259
+        },
+        "999936820": {
+            "orgId": "999936820",
+            "orgName": "DFS DEUTSCHE FLUGSICHERUNG GMBH",
+            "ecContrib": 785546
+        },
+        "919915991": {
+            "orgId": "919915991",
+            "orgName": "VALSTYBES IMONE ORO NAVIGACIJA",
+            "ecContrib": 0
+        },
+        "957126452": {
+            "orgId": "957126452",
+            "orgName": "LETOVE PREVADZKOVE SLUZBY SLOVENSKEJ REPUBLIKY, STATNY PODNIK",
+            "ecContrib": 75764
+        },
+        "999963010": {
+            "orgId": "999963010",
+            "orgName": "AIRBUS SAS",
+            "ecContrib": 2275975
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 1501060
+        },
+        "923041331": {
+            "orgId": "923041331",
+            "orgName": "HONEYWELL AEROSPACE",
+            "ecContrib": 822675
+        },
+        "998956635": {
+            "orgId": "998956635",
+            "orgName": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH",
+            "ecContrib": 81210
+        },
+        "999984447": {
+            "orgId": "999984447",
+            "orgName": "THALES AVS FRANCE SAS",
+            "ecContrib": 805580
+        },
+        "923671249": {
+            "orgId": "923671249",
+            "orgName": "NAVIAIR",
+            "ecContrib": 164224
+        },
+        "928673636": {
+            "orgId": "928673636",
+            "orgName": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+            "ecContrib": 418450
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 0
+        },
+        "999957675": {
+            "orgId": "999957675",
+            "orgName": "DASSAULT AVIATION",
+            "ecContrib": 187278
+        },
+        "998307317": {
+            "orgId": "998307317",
+            "orgName": "FREQUENTIS AG",
+            "ecContrib": 133085
+        },
+        "997542763": {
+            "orgId": "997542763",
+            "orgName": "NATS (EN ROUTE) PUBLIC LIMITED COMPANY",
+            "ecContrib": 725143
+        },
+        "923069461": {
+            "orgId": "923069461",
+            "orgName": "ATOS BELGIUM",
+            "ecContrib": 0
+        },
+        "998197513": {
+            "orgId": "998197513",
+            "orgName": "ENAV SPA",
+            "ecContrib": 446646
+        },
+        "958184334": {
+            "orgId": "958184334",
+            "orgName": "SKYGUIDE, SA SUISSE POUR LES SERVICES DE LA NAVIGATION AERIENNE CIVILS ET MILITAIRES",
+            "ecContrib": 224368
+        },
+        "999961555": {
+            "orgId": "999961555",
+            "orgName": "THALES LAS FRANCE SAS",
+            "ecContrib": 1776296
+        },
+        "954552363": {
+            "orgId": "954552363",
+            "orgName": "RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK",
+            "ecContrib": 324338
+        },
+        "942346077": {
+            "orgId": "942346077",
+            "orgName": "LUFTFARTSVERKET",
+            "ecContrib": 93842
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 781102
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 295694
+        }
+    },
+    "calculatedTotalContribution": 13524188
+}

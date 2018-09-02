@@ -1,0 +1,23 @@
+{
+    "rcn": "207634",
+    "acronym": "VideoPlus",
+    "topics": "ERC-PoC-2016",
+    "title": "A platform for augmented video content",
+    "startDate": "01/01/2017",
+    "endDate": "30/06/2018",
+    "objective": "Video content uploaded on social video sharing systems such as YouTube, Vimeo, or Dailymotion has experienced an exponential growth in the past years, making them the favorite medium for advertisement. The ease of sharing and accessing video content has also provoked significant efforts on the side of content creators and owners aimed at protecting their video assets from illegal reproduction and distribution, including the distribution through different channels, the use of digital right management (DRM) encrypted systems, and video fingerprinting systems for the detection of illegally uploaded video content.\n\nThe ambition of VideoPlus is to develop a close-to-market system that would serve as a ìuniform resource identifierî for video content, employing technologies which are based on video fingerprinting to precisely synchronize spatio-temporal metadata with any video content, without being limited to any specific video source or distribution channel. VideoPlus builds on three main components: (i) the algorithmic core is the result of the ERC-funded project COMET, where we developed an efficient fingerprinting algorithm capable of extracting a short binary signature (hash) of image and video content and instantaneously locate it in a very large dataset; (ii) the back-end would employ specifically tailored data structures to store and retrieve spatio-temporal information (e.g. video subtitles and annotations) together with frame hashes and align it with the video; (iii) the front-end would capture the video content, extract its hash, communicate with the back-end to retrieve the spatio-temporal metadata, display them synchronously with the video, and allow user interaction. In particular, we will develop front-ends for two platforms: an Android mobile device (smartphone or tablet), allowing to playback local or remote videos or capture video content through the mobile device camera, and Microsoft HoloLens augmented reality glasses.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999585874": {
+            "orgId": "999585874",
+            "orgName": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

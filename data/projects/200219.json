@@ -1,0 +1,68 @@
+{
+    "rcn": "200219",
+    "acronym": "INLANE",
+    "topics": "GALILEO-1-2015",
+    "title": "Low Cost GNSS and Computer Vision Fusion for Accurate Lane Level Navigation and Enhanced Automatic Map Generation",
+    "startDate": "01/01/2016",
+    "endDate": "30/06/2018",
+    "objective": "Lane-level positioning and map matching are some of the biggest challenges for navigation systems. Although vehicle telematics provide services with positioning requirements fulfilled by low-cost GNSS receivers, more complex road and driver assistance applications are increasingly been deployed, due to the growing demand. These include lane-level information as well as lane-level navigation and prioritised alerts depending on the scenario composition (traffic sign, navigation instructions, ADAS instructions). These applications need a more accurate and reliable positioning subsystem. A good example of these new requirements can be witnessed in the increasing interest in navigation at lane-level, with applications such as enhanced driver awareness, intelligent speed alert and simple lane allocation. As well as the accuracy of positioning data being a big driver, there is also a question around the adaptability of navigation systems to these applications. This depends firstly on the availability of an accurate common reference for positioning (an enhanced map) and secondly, on the level of the provided pose estimation (integrity). However, neither the current road maps nor the traditional integrity parameters seem to be well suited for these purposes. Delivering lane-level information to an in-vehicle navigation system and combining this with the opportunity for vehicles to exchange information between themselves, will give drivers the opportunity to select the optimal road lane, even in dense traffic in urban and extra-urban areas. Every driver will be able to choose the appropriate lane and will to be able to reduce the risks associate with last-moment lane-change manoeuvres. inLane proposes new generation, low-cost, lane-level, precise turn-by-turn navigation applications through the fusion of EGNSS and Computer Vision technology. This will enable a new generation of enhanced mapping information based on crowdsourcing.",
+    "totalCost": "3281028,75",
+    "ecMaxContribution": "2642935,88",
+    "coordinator": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUT MUNICIPAL D'INFORMATICA DE BARCELONA;INTEL DEUTSCHLAND GMBH;TOMTOM INTERNATIONAL BV;Honda Research Institute Europe GmbH;AUTOMOBIL CLUB ASSISTENCIA SA;EUROPEAN ROAD TRANSPORT TELEMATICSIMPLEMENTATION COORDINATION ORGANISATION - INTELLIGENT TRANSPORT SYSTEMS & SERVICES EUROPE;TECHNISCHE UNIVERSITEIT EINDHOVEN;INSTITUT FRANCAIS DES SCIENCES ET TECHNOLOGIES DES TRANSPORTS, DE L'AMENAGEMENT ET DES RESEAUX;TeleConsult Austria GmbH",
+    "participantCountries": "ES;DE;NL;BE;FR;AT",
+    "projectParticipants": {
+        "973132131": {
+            "orgId": "973132131",
+            "orgName": "TOMTOM INTERNATIONAL BV",
+            "ecContrib": 305375
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 396768
+        },
+        "969047849": {
+            "orgId": "969047849",
+            "orgName": "INSTITUT MUNICIPAL D'INFORMATICA DE BARCELONA",
+            "ecContrib": 66562
+        },
+        "995986010": {
+            "orgId": "995986010",
+            "orgName": "Honda Research Institute Europe GmbH",
+            "ecContrib": 333375
+        },
+        "968126446": {
+            "orgId": "968126446",
+            "orgName": "INSTITUT FRANCAIS DES SCIENCES ET TECHNOLOGIES DES TRANSPORTS, DE L'AMENAGEMENT ET DES RESEAUX",
+            "ecContrib": 51348
+        },
+        "955552336": {
+            "orgId": "955552336",
+            "orgName": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+            "ecContrib": 639375
+        },
+        "997629772": {
+            "orgId": "997629772",
+            "orgName": "TeleConsult Austria GmbH",
+            "ecContrib": 349300
+        },
+        "999785112": {
+            "orgId": "999785112",
+            "orgName": "EUROPEAN ROAD TRANSPORT TELEMATICSIMPLEMENTATION COORDINATION ORGANISATION - INTELLIGENT TRANSPORT SYSTEMS & SERVICES EUROPE",
+            "ecContrib": 174160
+        },
+        "967538432": {
+            "orgId": "967538432",
+            "orgName": "INTEL DEUTSCHLAND GMBH",
+            "ecContrib": 236250
+        },
+        "956612352": {
+            "orgId": "956612352",
+            "orgName": "AUTOMOBIL CLUB ASSISTENCIA SA",
+            "ecContrib": 90423
+        }
+    },
+    "calculatedTotalContribution": 2642936
+}

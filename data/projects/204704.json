@@ -1,0 +1,23 @@
+{
+    "rcn": "204704",
+    "acronym": "HRMEG",
+    "topics": "ERC-StG-2015",
+    "title": "HRMEG: High-resolution magnetoencephalography: Towards non-invasive corticography",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "To date, neuroimaging has provided a wealth of information on how the human brain works in health and disease. With functional magnetic resonance imaging (fMRI), we can obtain spatially precise information about long-lasting brain activations whereas electro- and magnetoencephalography (EEG/MEG) can track transient cortical responses at millisecond resolution. However, none of these methods excel in time-resolved detection of sustained cortical activations, which are typically reflected as bursts of gamma-range (30ñ150 Hz) oscillations, frequently present in invasive recordings in patients. Although we have recently demonstrated that in exceptional situations MEG can detect even single gamma responses, their signal-to-noise ratio is usually prohibitively low, largely due to the substantial distance (4ñ5 cm) between cortex and sensors. Here, I propose to exploit recent advances in a novel magnetic sensor technologyóatomic magnetometryóto construct a new kind of MEG system that allows capturing cerebral magnetic fields within millimetres from the scalp. Our simulations show that this proximity leads up to a 5-fold increase in the signal amplitude and an order-of-magnitude improvement of spatial resolution compared to conventional MEG. Therefore, a high-resolution MEG (HRMEG) system based on atomic magnetometers should enable non-invasive recordings of cortical activity at unprecedented sensitivity and detail level, which I propose to capitalize on by characterizing cortical responses, particularly gamma oscillations, during complex cognitive tasks. Additionally, since atomic magnetometers can recover within milliseconds from fields of several tesla, I also propose to combine transcranial magnetic stimulation (TMS) with MEG, leveraging the reciprocity of TMS and MEG and thus allowing better-than-ever characterization of TMS-evoked responses. This proposal comprises the research towards a HRMEG system and its application to study the working human brain in a new way.",
+    "totalCost": "1498806",
+    "ecMaxContribution": "1498806",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

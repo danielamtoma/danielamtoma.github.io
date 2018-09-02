@@ -1,0 +1,17 @@
+{
+    "rcn": "214358",
+    "acronym": "BridgeScan",
+    "topics": "MSCA-IF-2017",
+    "title": "Laser Scanning for Automatic Bridge Assessment",
+    "startDate": "01/01/2019",
+    "endDate": "31/12/2020",
+    "objective": "Bridges on Europeís transportation network are at risk due to increased freight demands, aging, environmental impact and climate change. Deficiencies of bridges must be assessed in a timely manner for planning critical maintenance, repairs and expansions. However, with bi-annual general inspections of bridges, damage may not be documented timely to prevent catastrophic collapse. Moreover, visual inspection is the predominant method that has many downsides: subjective results, slow and expensive procedures, high safety risks for inspectors and requirements of experienced inspectors, and traffic closures. Recently, although unmanned aerial vehicle (UAV)-based image has been developed for bridge inspection, results based UAV-images are of relatively low accuracy, which can be exaggerated when the images subject to shadows and noise. While several pieces of methods have been proposed to process data (both images and a point cloud), these approaches are not automatic, scalable and robust. Thus, to address those issues, the project ìLaser Scanning for Automatic Bridge Assessmentî called BridgeScan proposes the framework to use laser scanning integrated into UAV to acquire 3D topographic data points of bridges and to automatically process data for bridge assessment purpose. This project will involve (i) investigate a flight path and scanning parameters to scan a bridge structure by UAV with an integrated laser scanning sensor, (ii) develop automatic, robust, efficient methods to process laser scanning data to identify structural deficiencies for bridge condition rating and (iii) develop automatic methods for reconstructing a 3D bridge model for bridge assessment based on finite element analysis. Success of the BridgeScan project will be fundamental for further deploying UAV with laser scanning for monitoring and assessment of other infrastructures. Moreover, the proposed methods can be extended to reconstruct other objects for urban modelling and construction management.",
+    "totalCost": "177598,8",
+    "ecMaxContribution": "177598,8",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

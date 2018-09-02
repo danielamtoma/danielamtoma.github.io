@@ -1,0 +1,23 @@
+{
+    "rcn": "195519",
+    "acronym": "SCARtool",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Scattered radiation reduction tool to improve computer-aided diagnosis performance in digital breast tomosynthesis",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2017",
+    "objective": "Breast cancer is the most common cancer diagnosed in women worldwide. This has motivated the establishment of breast screening (BSPs). X-ray mammography is the current gold standard technique in BSPs for early breast cancer detection. However, this technique suffers from performance limitations due to tissue superposition which can either mimic or obscure malignant pathology. For this reason digital breast tomosynthesis (DBT) is currently being investigated.\nDBT consists of a series of projected images of the breast with potential to overcome the aforementioned limitations. However, DBT shows high levels of scattered radiation within the image receptor which can reduce significantly the visibility of breast lesions and the lesion detection performance of computer-aided diagnosis (CAD) systems. CAD systems are frequently used in BSPs to provide useful information to radiologist regarding breast lesion location and characterisation, thus CADís performance is critical to achieve acceptable breast cancer diagnosis rates. \nThe aim of this fellowship is to develop a novel tool to reduce scattered radiation directly from clinically acquired DBT projections. These scatter-reduced images will be incorporated, for the first time, into a new DBT CAD system to significantly improve the detection of subtle lesions as microcalcification clusters (MCC). The scatter reduction will be achieved after adapting an existing convolution-based algorithm for synthetic DTB images to work with clinically acquired DBT images. The CAD experience of ViCOROB and the DBT expertsí support from UDIAT guarantee the success of this project as well as the correct transfer of knowledge from the lab to the clinical site. The proposed tool will enable radiologists to detect more accurately breast lesions and therefore reduce the mortality in breast cancer patients. It is also planned to commercialise the output CAD tool to clinical sites through existing medical imaging companies or via a spin-off.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "UNIVERSITAT DE GIRONA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999895983": {
+            "orgId": "999895983",
+            "orgName": "UNIVERSITAT DE GIRONA",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

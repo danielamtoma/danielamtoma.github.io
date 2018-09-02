@@ -1,0 +1,58 @@
+{
+    "rcn": "194308",
+    "acronym": "BISON",
+    "topics": "ICT-15-2014",
+    "title": "BIg Speech data analytics for cONtact centres",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Contact centers (CC) are an important business for Europe: 35,000 contact centers generate 3.2 Million jobs (~1% of Europeís active population). A typical CC produces a wealth of multilingual spoken data that is nowadays mined by humans (CC agents  and supervisors) or by rudimentary technical means.\n\nBISON consortium plans to bring significant innovations in three areas: (1) basic speech data mining technologies (systems quickly adaptable to new languages, domains and CC campaigns), (2) business outcome mining from speech (translated into improvement of CCsí Key Performance Indicators) and (3) CC support systems integrating both speech and business outcome mining in user-friendly way.\n\nThe project will produce two prototypes: smallBison (end of the 1st year) will be a functioning system for real, though limited, deployment and user feedback collection. bigBison (end of the project) will include full range of capabilities and be fully integrated with CC hardware and software infrastructure. Generation of business outputs will be demonstrated on real data.\n\nBusiness indicators and values for the market were instrumental for the definition of the project and will be crucial for project execution.\n\nBISON consortium is composed of eight players with complementary skills. Two end users running large CC operations (EBOS, Atento) are generating user requirements and are ready to deploy the prototypes immediately in real scenarios. Phonexia (the coordinator), Brno University of Technology and TelefÛnica I\\D are experts in speech data mining - from R&D, data processing to developing products placed on the market. TelefÛnica MÛviles is an expert in business outcome mining and MyForce is a skilled Contact Center hardware and software integrator. CC data involve a number of legal issues, therefore, the University of Bologna (with significant experience in regulatory and legal aspects) complements the consortium.",
+    "totalCost": "4097952,5",
+    "ecMaxContribution": "3090824,5",
+    "coordinator": "PHONEXIA SRO",
+    "coordinatorCountry": "CZ",
+    "participants": "COMCZECH AS;VYSOKE UCENI TECHNICKE V BRNE;TELEFONICA INVESTIGACION Y DESARROLLO SA;TELEFONICA MOVILES ESPANA SA;MyForce;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;EBOS LUXEMBOURG SA",
+    "participantCountries": "CZ;ES;BE;IT;LU",
+    "projectParticipants": {
+        "942565006": {
+            "orgId": "942565006",
+            "orgName": "MyForce",
+            "ecContrib": 711812
+        },
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 296875
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 322245
+        },
+        "999946908": {
+            "orgId": "999946908",
+            "orgName": "TELEFONICA MOVILES ESPANA SA",
+            "ecContrib": 240030
+        },
+        "941587343": {
+            "orgId": "941587343",
+            "orgName": "COMCZECH AS",
+            "ecContrib": 235865
+        },
+        "941401879": {
+            "orgId": "941401879",
+            "orgName": "EBOS LUXEMBOURG SA",
+            "ecContrib": 441497
+        },
+        "999873091": {
+            "orgId": "999873091",
+            "orgName": "VYSOKE UCENI TECHNICKE V BRNE",
+            "ecContrib": 457500
+        },
+        "997528019": {
+            "orgId": "997528019",
+            "orgName": "PHONEXIA SRO",
+            "ecContrib": 385000
+        }
+    },
+    "calculatedTotalContribution": 3090824
+}

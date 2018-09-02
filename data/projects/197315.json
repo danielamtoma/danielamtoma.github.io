@@ -1,0 +1,23 @@
+{
+    "rcn": "197315",
+    "acronym": "MorePheno",
+    "topics": "ERC-ADG-2014",
+    "title": "Collider Phenomenology and Event Generators",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2020",
+    "objective": "Collider physics is about exploring the smallest constituents of matter, and unravelling the basic laws of the Universe. Unfortunately there can be a huge gap between a one-line formula of a fundamental theory and the experimental reality it implies. Phenomenology is intended to fill that gap, e.g. to explore the consequences of a theory such that it can be directly compared with data. \nNowhere is the gap more striking than for QCD, the theory of strong interactions, which dominates in most high-energy collisions, like at the LHC (Large Hadron Collider) at CERN. And yet, when such collisions produce hundreds of outgoing particles, calculational complexity is insurmountable. Instead ingenious but approximate QCD-inspired models have to be invented.\nSuch models are especially powerful if they can be cast in the form of computer code, and combined to provide a complete description of the collision process. An event generator is such a code, where random numbers are used to emulate the quantum mechanical uncertainty that leads to no two collision events being quite identical.\nThe Principal Investigator is the main author of PYTHIA, the most widely used event generator of the last 30 years and vital for physics studies at the LHC. It is in a state of continuous extension: new concepts are invented, new models developed, new code written, to provide an increasingly accurate understanding of collider physics. But precise LHC data has put a demand on far more precise descriptions, and have also shown that some models need to be rethought from the ground up. \nThis project, at its core, is about conducting more frontline research with direct implications for event generators, embedded in a broader phenomenology context. In addition to the PI, the members of the theoretical high energy physics group in Lund and of the PYTHIA collaboration will participate in this project, as well as graduate students and postdocs.",
+    "totalCost": "1990895",
+    "ecMaxContribution": "1990895",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 1990895
+        }
+    },
+    "calculatedTotalContribution": 1990895
+}

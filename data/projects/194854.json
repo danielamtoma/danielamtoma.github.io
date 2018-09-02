@@ -1,0 +1,73 @@
+{
+    "rcn": "194854",
+    "acronym": "FORENSOR",
+    "topics": "FCT-05-2014",
+    "title": "FOREnsic evidence gathering autonomous seNSOR",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "Covert evidence gathering has not seen major changes in decades. Law enforcement Agencies (LEAs) are still using conventional, manpower based techniques to gather forensic evidence. Concealed surveillance devices can provide irrefutable evidences, but current video surveillance systems are usually bulky and complicated, are often used as simple video recorders, and require complex, expensive infrastructure to supply power, bandwidth, storage and illumination.  \nRecent years have seen significant advances in the surveillance industry, but these were rarely targeted to forensic applications. The imaging community is fixated on cameras for mobile phones, where the figures of merit are resolution, image quality, and low profile. A mobile phone with its camera on would consume its battery in under two hours. Industrial surveillance cameras are even more power hungry, while intelligent algorithms such as face detection often require extremely high processing power, such as backend server farms, and are not available in conventional surveillance systems.  \n\nHere we propose to develop and validate a novel, ultra-low-power, intelligent, miniaturised, low-cost, wireless, autonomous sensor (ìFORENSORî) for evidence gathering. Its ultra-sensitive camera and built-in intelligence will allow it to operate at remote locations, automatically identify pre-defined criminal events, and alert LEAs in real time while providing and storing the relevant video, location and timing evidence. FORENSOR will be able to operate for up to two months with no additional infrastructure. It will be manageable remotely, preserve the availability and the integrity of the collected evidence, and comply with all legal and ethical standards, in particular those related to privacy and personal data protection. The combination of built-in intelligence with ultra-low power consumption could help LEAs take the next step in fighting severe crimes.",
+    "totalCost": "4937833,94",
+    "ecMaxContribution": "4043546,25",
+    "coordinator": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+    "coordinatorCountry": "EL",
+    "participants": "VRIJE UNIVERSITEIT BRUSSEL;EMZA VISUAL SENSE LTD;SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA;AYUNTAMIENTO DE VALENCIA;ALMAVIVA - THE ITALIAN INNOVATION COMPANY SPA;JCP-CONNECT;MinistÈrio da JustiÁa;FONDAZIONE BRUNO KESSLER;VISIONWARE-SISTEMAS DE INFORMACAO SA;STMICROELECTRONICS SRL",
+    "participantCountries": "BE;IL;EL;ES;IT;FR;PT",
+    "projectParticipants": {
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 273000
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 709500
+        },
+        "997586704": {
+            "orgId": "997586704",
+            "orgName": "VISIONWARE-SISTEMAS DE INFORMACAO SA",
+            "ecContrib": 169830
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 536900
+        },
+        "961448384": {
+            "orgId": "961448384",
+            "orgName": "ALMAVIVA - THE ITALIAN INNOVATION COMPANY SPA",
+            "ecContrib": 331216
+        },
+        "990474082": {
+            "orgId": "990474082",
+            "orgName": "EMZA VISUAL SENSE LTD",
+            "ecContrib": 355225
+        },
+        "984507903": {
+            "orgId": "984507903",
+            "orgName": "AYUNTAMIENTO DE VALENCIA",
+            "ecContrib": 220812
+        },
+        "983734231": {
+            "orgId": "983734231",
+            "orgName": "Ministério da Justiça",
+            "ecContrib": 102750
+        },
+        "999902094": {
+            "orgId": "999902094",
+            "orgName": "VRIJE UNIVERSITEIT BRUSSEL",
+            "ecContrib": 297688
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 626125
+        },
+        "999760183": {
+            "orgId": "999760183",
+            "orgName": "JCP-CONNECT",
+            "ecContrib": 420500
+        }
+    },
+    "calculatedTotalContribution": 4043546
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "205594",
+    "acronym": "5GPagoda",
+    "topics": "EUJ-01-2016",
+    "title": "A network slice for every service",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2019",
+    "objective": "5G!Pagoda represents the next evolution step in softwarized networks as supported by NFV, SDN and aimed at by the 5G network evolution. The top objectives of 5G!Pagoda are i) the development of a scalable 5G slicing architecture towards supporting specialized network slices composed on multi-vendor network functions, through the development of ii) a scalable network slice management and orchestration framework for distributed, edge dominated network infrastructures, and convergent software functionality for iii) lightweight control plane and iv) data plane programmability and their integration, customization, composition and run-time management towards different markets in Europe and Japan. 5G!Pagoda will develop a coherent architecture enabling research and standardization coordination between Europe and Japan. The proposed developments integrate with a common SDN/NFV based architecture and will additionally provide punctual and highly important developments of the software network architecture. The developments address the next steps of the evolution beyond the immediate NFV standardization and developments, enabling the graceful integration within end-to-end network slices of various highly customized software components, remotely controlling the data path, with specific network function flexibility and network function placement support and easy to manage through a convergent set of scalable orchestration APIs. Besides the technological aspects, 5G!Pagoda will develop a coherent proof of concept with two playground nodes, one in Japan and one in Europe, using a uniform network orchestration and a set of in-slice software features enabling the transparent exchange of knowledge and practical implemented components for dynamic deployment and execution of virtual network functions and applications. The testbed will allow practical demonstration of the functionality and will enable the development of an aligned 5G-oriented standardization roadmap for Japan and Europe.",
+    "totalCost": "2248057,5",
+    "ecMaxContribution": "1499807,5",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "DEVICE GATEWAY SA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ORANGE POLSKA SPOLKA AKCYJNA;MANDAT INTERNATIONAL ALIAS FONDATION POUR LA COOPERATION INTERNATIONALE;EURECOM;OY L M ERICSSON AB",
+    "participantCountries": "CH;DE;PL;FR;FI",
+    "projectParticipants": {
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 129558
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "996271093": {
+            "orgId": "996271093",
+            "orgName": "MANDAT INTERNATIONAL ALIAS FONDATION POUR LA COOPERATION INTERNATIONALE",
+            "ecContrib": 0
+        },
+        "999942931": {
+            "orgId": "999942931",
+            "orgName": "OY L M ERICSSON AB",
+            "ecContrib": 210000
+        },
+        "949209894": {
+            "orgId": "949209894",
+            "orgName": "DEVICE GATEWAY SA",
+            "ecContrib": 0
+        },
+        "999951079": {
+            "orgId": "999951079",
+            "orgName": "ORANGE POLSKA SPOLKA AKCYJNA",
+            "ecContrib": 240000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 450000
+        }
+    },
+    "calculatedTotalContribution": 1029558
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "205996",
+    "acronym": "Plan4Act",
+    "topics": "FETPROACT-01-2016",
+    "title": "Predictive  Neural Information for Proactive Actions: From Monkey Brain to Smart House Control",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "Planning and mental simulation of actions and outcomes are a major cognitive trait of humans.  We predict action consequences and perform goal-directed actions in proactive, forward-looking ways. By contrast, systems that lack predictive planning are reactive and dominated by reflex-like, cumbersome behaviors. Most currently existing brain-machine-interfaces (BMI) fall into this category. Plan4Act sets out to go beyond this by inferring actions from action-predicting neural activity of complex action sequences. Neurophysiology in non-human primates recently revealed that such encoding is far more widespread than previously thought. The goal of the Plan4Act project is to record and understand predictive neural activity and use it to proactively control devices in a smart house. The far-future vision behind this is to endow motor-impaired patients with the ability to plan a daily-life goal ñ like making coffee ñ and achieve it without having to invoke one by one every single individual action to reach this goal. To approach this complex problem, we record multi-unit action predicting activity in macaques (WP1), model this by adaptive neural networks (WP2), design therefrom an embedded (FPGA-based) controller (WP3), and interface it with a smart house (WP4) to control action sequences with a clear look-ahead property. The main outcome of this project is a system that integrates the above components at TRL4 for which we quantify improved reaction speed and robustness of this type of proactive BMI control. The understanding and use of predictive neural signals for machine control is novel and methods, algorithms, and hardware developed to translate predictive planning from neural activity to technology create the major general impact of this project. Potential translational and commercial interests will be assessed by our industrial partner, where specifically the embedded controller and its smart house interface are expected to create near-future commercial impact, too.",
+    "totalCost": "4236000",
+    "ecMaxContribution": "4236000",
+    "coordinator": "GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS",
+    "coordinatorCountry": "DE",
+    "participants": "DEUTSCHES PRIMATENZENTRUM GMBH;SYDDANSK UNIVERSITET;MYSPHERA SL;UNIVERSIDAD POLITECNICA DE MADRID",
+    "participantCountries": "DE;DK;ES",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 749688
+        },
+        "999845640": {
+            "orgId": "999845640",
+            "orgName": "GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS",
+            "ecContrib": 1249688
+        },
+        "999904616": {
+            "orgId": "999904616",
+            "orgName": "SYDDANSK UNIVERSITET",
+            "ecContrib": 924625
+        },
+        "951978177": {
+            "orgId": "951978177",
+            "orgName": "MYSPHERA SL",
+            "ecContrib": 387000
+        },
+        "997770131": {
+            "orgId": "997770131",
+            "orgName": "DEUTSCHES PRIMATENZENTRUM GMBH",
+            "ecContrib": 925000
+        }
+    },
+    "calculatedTotalContribution": 4236001
+}

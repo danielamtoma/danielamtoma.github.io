@@ -1,0 +1,23 @@
+{
+    "rcn": "201640",
+    "acronym": "BuildingControls",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Efficient Grid Connected Buildings: A Distributed Control Framework for Managing Flexible Loads",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2018",
+    "objective": "The renewable energy penetration targets set by EU  and US  necessitate a radical change in the way we operate the electric power grid. Conventional power grid was designed around dispatchable central power plants at a transmission level providing services down to industrial, commercial and residential end-users at a distribution level. Increased penetration of the intermittent and uncertain renewable energy sources effectively implies additional load and generation flexibility is required at multiple time-scales to ensure safe and stable operation of the electric grid. Since conventional generation is increasingly displaced by renewables, this additional flexibility can no longer be sourced solely from conventional plants. \n\nAccording to the International Energy Agency, buildings are responsible for about 40% of the global energy consumption, and about 50% of the energy used in a building is accounted for by the heating, ventilation and air conditioning (HVAC) system. Thus, improving operational efficiency of HVAC systems will results in large savings in the energy consumption. Moreover, buildings present a unique opportunity as flexible loads that can be controlled to provide ancillary services to the electric power grid, and thus enable high penetration of renewables.  High thermal capacity of large commercial buildings allow real-time control of their HVAC systems to regulate electricity demand as required for grid stability, without effecting the quality of service in the building significantly.\n\nIn this project, our objective is to develop (1) novel scalable optimal control algorithms that reduce building peak load and energy consumption, (2) a distributed control framework for coordinating multiple buildings as flexible energy resources for ancillary services, and (3) tools for assessing the performance of this framework from economic, environmental and sustainability perspectives.",
+    "totalCost": "157845,6",
+    "ecMaxContribution": "157845,6",
+    "coordinator": "YASAR UNIVERSITESI",
+    "coordinatorCountry": "TR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998078203": {
+            "orgId": "998078203",
+            "orgName": "YASAR UNIVERSITESI",
+            "ecContrib": 157846
+        }
+    },
+    "calculatedTotalContribution": 157846
+}

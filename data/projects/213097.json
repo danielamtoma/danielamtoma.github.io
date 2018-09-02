@@ -1,0 +1,68 @@
+{
+    "rcn": "213097",
+    "acronym": "SOFIE",
+    "topics": "IoT-03-2017",
+    "title": "SOFIE - Secure Open Federation for Internet Everywhere",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "SOFIE addresses the challenges of the call by creating a secure and open IoT federation architecture and framework. We use Distributed Ledger Technology (DLT), including blockchains and inter-ledger technologies, to enable actuation, auditability, smart contracts and management of identities and encryption keys, and to enable totally decentralised solutions with virtually unlimited scalability.\nWe address the fragmentation of IoT through federation rather than integration. Virtually any IoT platform can join the federation by creating, relatively simply, an adapter. Data remains in the respective IoT platforms and is usable by all the applications within the limits set by the applicable security and privacy policies.\nWe exercise security and privacy by design. We provide end-to-end security, key management, authorisation, accountability, and auditability, utilising DLTs where applicable. The user shall retain control over their data also after the data have been stored in the Cloud or Fog in an EU GDPR (or other regulations) compliant manner.\nWe base our work on existing open standards, interfaces and components, such as FIWARE, W3C Web of Things (WoT), and oneM2M. We will select existing components, develop new ones, and collect them ó together with documentation, instructions and examples ó into an IoT federation framework for creating administratively decentralised, open, and secure IoT business platforms from existing IoT platforms.\nWe will demonstrate the practicality of our approach by using it in three pilots in three different sectors: food chain, gaming, and energy market. Three business platforms will be realised for the pilots. The results of the pilots will be evaluated against the key performance indicators.\nWe actively participate in standardisation and disseminate our results through scientific journals, conferences, and workshops, but also the Web, social media and developer communities.  We also aim to make at least two of the pilots sustainable.",
+    "totalCost": "4491048,75",
+    "ecMaxContribution": "4491048,75",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "OPTIMUM ANONIMI ETAIRIA TECHNOLOGIES PLIROFORIKIS;SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA;GUARDTIME AS;EMOTION SRL;ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER;ENGINEERING - INGEGNERIA INFORMATICA SPA;OY L M ERICSSON AB;ROVIO ENTERTAINMENT OY;ASM TERNI SPA",
+    "participantCountries": "EL;EE;IT;FI",
+    "projectParticipants": {
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 322000
+        },
+        "952057523": {
+            "orgId": "952057523",
+            "orgName": "ROVIO ENTERTAINMENT OY",
+            "ecContrib": 497500
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "952604700": {
+            "orgId": "952604700",
+            "orgName": "ASM TERNI SPA",
+            "ecContrib": 134435
+        },
+        "922460204": {
+            "orgId": "922460204",
+            "orgName": "OPTIMUM ANONIMI ETAIRIA TECHNOLOGIES PLIROFORIKIS",
+            "ecContrib": 224875
+        },
+        "999942931": {
+            "orgId": "999942931",
+            "orgName": "OY L M ERICSSON AB",
+            "ecContrib": 817500
+        },
+        "919813947": {
+            "orgId": "919813947",
+            "orgName": "EMOTION SRL",
+            "ecContrib": 119500
+        },
+        "919399660": {
+            "orgId": "919399660",
+            "orgName": "GUARDTIME AS",
+            "ecContrib": 583114
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 262500
+        },
+        "999896856": {
+            "orgId": "999896856",
+            "orgName": "ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",
+            "ecContrib": 458750
+        }
+    },
+    "calculatedTotalContribution": 3420174
+}

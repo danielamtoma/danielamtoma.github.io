@@ -1,0 +1,63 @@
+{
+    "rcn": "194884",
+    "acronym": "SpeechXRays",
+    "topics": "DS-02-2014",
+    "title": "Multi-channel biometrics combining acoustic and machine vision analysis of speech, lip movement and face",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "The SpeechXRays project will develop and test in real-life environments a user recognition platform based on voice acoustics analysis and audio-visual identity verification. SpeechXRays will outperform state-of-the-art solutions in the following areas:\nï Security: high accuracy solution (cross over accuracy1 of 1/100 ie twice the commercial voice/face solutions) \nï Privacy: biometric data stored in the device (or in a private cloud under the responsibility of the data subject)\nï Usability: text-independent speaker identification (no pass phrase), low sensitivity to surrounding noise\nï Cost-efficiency: use of standard embedded microphone and cameras (smartphones, laptops)\nThe project will combine and pilot two proven techniques: acoustic driven voice recognition (using acoustic rather than statistical only models) and multi-channel biometrics incorporating dynamic face recognition (machine vision analysis of speech, lip movement and face).\nThe vision of the SpeechXRays project is to provide a solution combining the convenience and cost-effectiveness of voice biometrics, achieving better accuracies by combining it with video, and bringing superior anti-spoofing capabilities.\nThe technology will be deployed on 2000 users in 3 pilots: a workforce use case, an eHealth use case and a consumer use case. \nThe project lasts 36 months and is coordinated by world leader in digital security solutions for the mobility space.",
+    "totalCost": "5343606,25",
+    "ecMaxContribution": "4102467",
+    "coordinator": "IDEMIA FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "TECH INSPIRE LTD;REALEYES OU;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;Hellenic Telecommunications & Telematics Applications Company;INSTITUT MINES-TELECOM;SIVECO ROMANIA SA;HOROWITZ BIOMETRICS LIMITED;UNIVERSITY COLLEGE LONDON;\"INSTITUTUL NATIONAL DE CERCETARE -DEZVOLTARE PENTRU FIZICA SI INGINERIE NUCLEARA \"\"HORIA HULUBEI\"\" (IFIN-HH)\"",
+    "participantCountries": "UK;EE;EL;FR;RO",
+    "projectParticipants": {
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 303750
+        },
+        "997983337": {
+            "orgId": "997983337",
+            "orgName": "SIVECO ROMANIA SA",
+            "ecContrib": 468313
+        },
+        "969630431": {
+            "orgId": "969630431",
+            "orgName": "REALEYES OU",
+            "ecContrib": 241718
+        },
+        "936862279": {
+            "orgId": "936862279",
+            "orgName": "HOROWITZ BIOMETRICS LIMITED",
+            "ecContrib": 793625
+        },
+        "942469364": {
+            "orgId": "942469364",
+            "orgName": "TECH INSPIRE LTD",
+            "ecContrib": 376905
+        },
+        "999488777": {
+            "orgId": "999488777",
+            "orgName": "\"INSTITUTUL NATIONAL DE CERCETARE -DEZVOLTARE PENTRU FIZICA SI INGINERIE NUCLEARA \"\"HORIA HULUBEI\"\" (IFIN-HH)\"",
+            "ecContrib": 138438
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 416062
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 377400
+        },
+        "999924695": {
+            "orgId": "999924695",
+            "orgName": "Hellenic Telecommunications & Telematics Applications Company",
+            "ecContrib": 187906
+        }
+    },
+    "calculatedTotalContribution": 3304117
+}

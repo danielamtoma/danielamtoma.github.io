@@ -1,0 +1,23 @@
+{
+    "rcn": "213463",
+    "acronym": "StabCondEn",
+    "topics": "ERC-2017-COG",
+    "title": "Stability Conditions, Moduli Spaces and Enhancements",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "I will introduce new techniques to address two big open questions in the theory of derived/triangulated categories and their many applications in algebraic geometry.\n\nThe first one concerns the theory of Bridgeland stability conditions, which provides a notion of stability for complexes in the derived category. The problem of showing that the space parametrizing stability conditions is non-empty is one of the most difficult and challenging ones. Once we know that such stability conditions exist, it remains to prove that the corresponding moduli spaces of stable objects have an interesting geometry (e.g. they are projective varieties). This is a deep and intricate problem.\n\nOn the more foundational side, the most successful approach to avoid the many problematic aspects of the theory of triangulated categories consisted in considering higher categorical enhancements of triangulated categories. On the one side, a big open question concerns the uniqueness and canonicity of these enhancements. On the other side, this approach does not give a solution to the problem of describing all exact functors, leaving this as a completely open question. We need a completely new and comprehensive approach to these fundamental questions.\n\nI intend to address these two sets of problems in the following innovative long-term projects:\n\n1. Develop a theory of stability conditions for semiorthogonal decompositions and its applications to moduli problems. The main applications concern cubic fourfolds, Calabi-Yau threefolds and Calabi-Yau categories.\n\n2. Apply these new results to the study of moduli spaces of rational normal curves on cubic fourfolds and their deep relations to hyperkaehler geometry.\n\n3. Investigate the uniqueness of dg enhancements for the category of perfect complexes and, most prominently, of admissible subcategories of derived categories.\n\n4. Develop a new theory for an effective description of exact functors in order to prove some related conjectures.",
+    "totalCost": "785866",
+    "ecMaxContribution": "785866",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999995796": {
+            "orgId": "999995796",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MILANO",
+            "ecContrib": 785866
+        }
+    },
+    "calculatedTotalContribution": 785866
+}

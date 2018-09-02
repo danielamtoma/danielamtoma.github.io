@@ -1,0 +1,23 @@
+{
+    "rcn": "213768",
+    "acronym": "LiftMatch",
+    "topics": "ERC-2017-COG",
+    "title": "Lifting Methods for Global Matching Problems",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2023",
+    "objective": "This proposal presents a research program aimed at breaking new ground in theoretical, algorithmic and practical aspects of the notoriously difficult matching problems. The main goal is developing a unified algorithmic framework for matching problems that enjoys theoretical guarantees and high practical value for 'real-life' applications.\n\nThe core methodological aspect is the modelling of matching problems as high-dimensional, lifted convex problems that can be efficiently approximated. We present several case-studies of this methodology, constructing efficient algorithms for approximating the solutions of important instances of the matching problem. The results already demonstrate state of the art performance and are backed-up with novel theoretical analysis proving tightness and correctness of the suggested convexifications for certain classes of non-trivial input.\n\nThis proposal has 'high risk - high impact' profile: The 'high-risk' aspect of this proposal comes from the hardness of general matching problems which, when faithfully represented, are NP-hard. However, as we demonstrate, combining convex optimization tools in a careful way, that takes into account computational complexity, is likely to push forward the limits of current algorithmic solutions. The 'High-impact' will be immediate: As matching problems exist in almost every aspect of scientific research, practical generic algorithms for matching problems are likely to have a significant influence.\n\nWe believe that the inroads and preliminary results presented in this proposal already provide strong evidence for the potential success of the suggested research program.",
+    "totalCost": "1675640",
+    "ecMaxContribution": "1675640",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 1675640
+        }
+    },
+    "calculatedTotalContribution": 1675640
+}

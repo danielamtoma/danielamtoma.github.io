@@ -1,0 +1,23 @@
+{
+    "rcn": "195229",
+    "acronym": "ION-QNET",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Cavity-QED Ion Quantum Network",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2017",
+    "objective": "Trapped ions are promising candidates as qubits. However, their scalability for quantum information processing (QIP) remains challenging. A route to address this issue relies on quantum networks (QN), in which material qubits held at separate locations (nodes) exchange quantum information via photons. The QN architecture can also be used to transfer quantum information over long distances, and as the basis for a quantum simulator.\nWe propose to realize a two-node QN based on ions and cavity quantum electrodynamics. At each node, photons and ions interact via a high finesse cavity, allowing coherent transfer of information. Our QN will consist of two nodes separated by 8 meters and connected by a 15 meter long optical fiber. A first node is already built and working, based on a cavity operating in the intermediate coupling regime. The second node is under development and should reach the strong coupling regime, which has not yet been observed with a single ion. Our approach relies on a high-finesse cavity with a small mode volume, defined by the shaped and coated facets of two optical fibers. This fiber cavity is integrated with a miniaturized linear ion trap.\nThe fellow will first develop and optimize the fiber-cavity setup to demonstrate the strong coupling regime. Then he will implement at this node a toolbox of quantum communication protocols. Finally he will interconnect both nodes and test the resulting QN with fundamental protocols: entanglement of two distant ions heralded by the detection of photons, and transfer of a quantum state from one ion to the other. Such a proof-of-principle ion-based QN represents a building block for more complex architectures, reinforcing and securing the European Unionís leadership in strategic research areas like QIP, quantum communication, quantum simulation and metrology.",
+    "totalCost": "166156,8",
+    "ecMaxContribution": "166156,8",
+    "coordinator": "UNIVERSITAET INNSBRUCK",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999869114": {
+            "orgId": "999869114",
+            "orgName": "UNIVERSITAET INNSBRUCK",
+            "ecContrib": 166157
+        }
+    },
+    "calculatedTotalContribution": 166157
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "198802",
+    "acronym": "CYPRES",
+    "topics": "DRS-17-2015",
+    "title": "CYPRES the ICS and SCADA security companion",
+    "startDate": "01/09/2015",
+    "endDate": "28/02/2018",
+    "objective": "Industrial Automation and control systems are vital for city critical infrastructures which are soft targets by excellence. Awareness of their vulnerability arose since 2009 with the worm Stuxnet damaging Iranian nuclear sites. \nMost National Security Agencies reinforce the obligation to protect vital importance soft targets. So far, most solutions are partial and unsatisfying, and limited to Corporate IT cyber-solutions, e.g. firewalls, authentication, defense in depth. The present project proposes the development of a new protection system called CYPRES.\nThe proposed CYPRES is one of the first products able to protect specifically industrial automation systems. It uses Artificial Intelligence combined with the real condition of the process to detect discrepancies that reveal intrusions or attacks, even as slow or small as a malware can be. To perform well, CYPRES must be engineered for each type of process. \nThe development comprises design specifications and development of the CYPRES core-product subsequent to a thorough market study followed by a commercial product specific to Electricity networks protection, then another for Water and wastewater systems. Further processes will be developed later on. Cypres is a cost-worthy add-on solution for existing and new SCADA. \nCYPRES is developed by a consortium of two experienced French SMEs working in Industrial Automation, Software development and cyber-security offering a solid basis for the technical, financial and development challenge that CYPRES represents. \nThe market is large and worldwide with several thousands of existing systems and hundreds of new systems built each years. The envisaged market strategy is to distribute CYPRES through large contracting companies. Partnerships will be concluded and be operational within this program. \nThe project will generate revenues of EUR 50M over 5 years and EUR 170 M over 15 years and allow creating over 100 jobs.",
+    "totalCost": "2428706,25",
+    "ecMaxContribution": "1700094",
+    "coordinator": "FPC INGENIERIE",
+    "coordinatorCountry": "FR",
+    "participants": "NETCELER SAS",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "929798157": {
+            "orgId": "929798157",
+            "orgName": "NETCELER SAS",
+            "ecContrib": 847459
+        },
+        "935325993": {
+            "orgId": "935325993",
+            "orgName": "FPC INGENIERIE",
+            "ecContrib": 852635
+        }
+    },
+    "calculatedTotalContribution": 1700094
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "213774",
+    "acronym": "FRECOM",
+    "topics": "ERC-2017-COG",
+    "title": "Nonlinear-Distortion Free Communication over the Optical Fibre Channel",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2023",
+    "objective": "Motivation\nThe enormous growth in the Internet of Things and server farms for cloud services has increased the strain on the optical communication infrastructure. By 2025, our society will require data rates that are physically impossible to implement using current state-of-the-art optical communication technologies. This is because fibre-optic communication systems are rapidly approaching their fundamental capacity limits imposed by the Kerr nonlinearity of the fibre. Nonlinear distortion limits the ability to transport and detect the information stream. This is a very critical problem for increasing the data rates of any optical fibre communication system. \n\nProposed research \nThe only physical quantities not affected by the nonlinearity are eigenvalues, associated with the optical fibre propagation equation. Eigenvalues are thereby ideal candidates for information transport. The concept of eigenvalues is derived under the assumption that the fibre is lossless and that there is no noise in the system which is not strictly correct. Therefore, novel methodologies and concepts for the design of a noise mitigating receiver and a noise robust transmitter are needed to reap the full benefits of optical communication systems employing eigenvalues. This proposal will develop such strategies. This will be achieved by combining, for the first time, the fields of nonlinear optics, optical communication and nonlinear digital signal processing. The results from the project will be verified experimentally, and will form the basis for a new generation of commercial optical communication systems.\n\nPreliminary results\nOur proof-of-concept results demonstrate, for the first time, that noise can be handled by employing novel receiver concepts. An order of magnitude improvement compared to the state-of-the-art is demonstrated.\n\nEnvironment \nThe research will be carried out in close cooperation with leading groups at Stanford University and Technical University of Munich.",
+    "totalCost": "2000000",
+    "ecMaxContribution": "2000000",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 2000000
+        }
+    },
+    "calculatedTotalContribution": 2000000
+}

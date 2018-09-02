@@ -1,0 +1,23 @@
+{
+    "rcn": "201686",
+    "acronym": "ELR1K",
+    "topics": "ERC-PoC-2015",
+    "title": "Enhancing Large-scale chemical Reactions based on Elementary Kinetics",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2017",
+    "objective": "A proof-of-concept software tool for microkinetic model construction, ready for commercialization will be developed starting from an available version of the tool that has been validated in an academic research context.\nA detailed understanding of the elementary steps involved in large-scale chemical reactions provides several advantages: it may not only lead to a better control of the corresponding processes and, hence, safer operation, it also provides a sound basis for enhanced process design. More particularly in the area of catalysis, material development has typically occurred using trial-and-error procedures. While the number of catalysts that could be evaluated has been augmented by so-called high-throughput techniques, an adequate understanding of the underlying phenomena was still limited. Microkinetic modeling is ideally suited to get a view on these phenomena, as it accounts for all elementary steps in the reaction mechanism without any simplifying assumption.\nThe construction of such microkinetic models and corresponding determination of kinetics and catalyst descriptors is not straightforward and requires dedicated (software) tools. The microkinetic engine (?KE), developed within the ëCatalytic Reaction Engineeringí research group of the Laboratory for Chemical Technology at Ghent University, is such a unique piece of software to facilitate microkinetic model construction. Without requiring any programming from the end-user, kinetic models based on elementary steps can be developed. It allows identifying the kinetically relevant steps that entail the opportunity to further improve the concerned catalytic materials and, implicitly, also the reactors and processes in which they are employed. The microkinetic engine has been validated against in-house data as well as within a limited number of - exclusive - collaborations. Its anticipated commercialization requires enhanced robustness, complementary functionalities and an increased user friendliness.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "203434",
+    "acronym": "TBO-MET",
+    "topics": "Sesar-04-2015",
+    "title": "Meteorological Uncertainty Management for Trajectory Based Operations",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2018",
+    "objective": "In this project the problem of analysing and quantifying the effects of meteorological uncertainty in Trajectory Based Operations is addressed. In particular, two problems are considered: 1) trajectory planning and 2) sector demand analysis, both at the pre-tactical level (up to three hours before departure) and tactical level (during the flight).\n\nIn each problem two types of meteorological uncertainty are considered: wind uncertainty and convective zones (including individual storm cells). Weather predictions will be based on Ensemble Prediction Systems and Nowcasts.\n\nAt the trajectory scale, the main objective is to assess and improve the predictability of efficient 4D trajectories when weather uncertainty is taken into account. To reach this goal, a methodology based on the use of stochastic optimal control algorithms will be explored for robust trajectory planning at the pre-tactical level. At the tactical level, various tactics will be investigated to avoid storms by using a Monte-Carlo method. \n\nAt the sector scale, the main objective is to analyse the impact of the previously developed trajectory planning on sector demand. To achieve this objective, a methodology will be developed to measure the uncertainty of sector demand (probabilistic sector loading) based on the uncertainty of the individual trajectories. This analysis will also provide an understanding of how weather uncertainty propagates from the trajectory scale to the sector scale. \n\nAll the solutions proposed in this project will be evaluated and assessed using an advanced air traffic simulator.\n\nThis project is fully aligned with the call, where the following objectives are stated: ìto enhance meteorological capabilities and their integration into ATM planning processes for improving ATM efficiencyî and ìto develop 4D trajectories that are optimised to take account of all environmental considerationsî.",
+    "totalCost": "488750",
+    "ecMaxContribution": "488750",
+    "coordinator": "UNIVERSIDAD DE SEVILLA",
+    "coordinatorCountry": "ES",
+    "participants": "PARIS-LODRON-UNIVERSITAT SALZBURG;AGENCIA ESTATAL DE METEOROLOGIA;UNIVERSIDAD CARLOS III DE MADRID;METEOSOLUTIONS GMBH",
+    "participantCountries": "AT;ES;DE",
+    "projectParticipants": {
+        "999868047": {
+            "orgId": "999868047",
+            "orgName": "PARIS-LODRON-UNIVERSITAT SALZBURG",
+            "ecContrib": 107500
+        },
+        "927440572": {
+            "orgId": "927440572",
+            "orgName": "METEOSOLUTIONS GMBH",
+            "ecContrib": 106250
+        },
+        "996472271": {
+            "orgId": "996472271",
+            "orgName": "AGENCIA ESTATAL DE METEOROLOGIA",
+            "ecContrib": 30000
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 107500
+        },
+        "999862518": {
+            "orgId": "999862518",
+            "orgName": "UNIVERSIDAD DE SEVILLA",
+            "ecContrib": 137500
+        }
+    },
+    "calculatedTotalContribution": 488750
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "206936",
+    "acronym": "FASTPARSE",
+    "topics": "ERC-2016-STG",
+    "title": "Fast Natural Language Parsing for Large-Scale NLP",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "The popularization of information technology and the Internet has resulted in an unprecedented growth in the scale at which individuals and institutions generate, communicate and access information. In this context, the effective leveraging of the vast amounts of available data to discover and address people's needs is a fundamental problem of modern societies.\n\nSince most of this circulating information is in the form of written or spoken human language, natural language processing (NLP) technologies are a key asset for this crucial goal. NLP can be used to break language barriers (machine translation), find required information (search engines, question answering), monitor public opinion (opinion mining), or digest large amounts of unstructured text into more convenient forms (information extraction, summarization), among other applications.\n\nThese and other NLP technologies rely on accurate syntactic parsing to extract or analyze the meaning of sentences. Unfortunately, current state-of-the-art parsing algorithms have high computational costs, processing less than a hundred sentences per second on standard hardware. While this is acceptable for working on small sets of documents, it is clearly prohibitive for large-scale processing, and thus constitutes a major roadblock for the widespread application of NLP.\n\nThe goal of this project is to eliminate this bottleneck by developing fast parsers that are suitable for web-scale processing. To do so, FASTPARSE will improve the speed of parsers on several fronts: by avoiding redundant calculations through the reuse of intermediate results from previous sentences; by applying a cognitively-inspired model to compress and recode linguistic information; and by exploiting regularities in human language to find patterns that the parsers can take for granted, avoiding their explicit calculation. The joint application of these techniques will result in much faster parsers that can power all kinds of web-scale NLP applications.",
+    "totalCost": "1481747",
+    "ecMaxContribution": "1481747",
+    "coordinator": "UNIVERSIDADE DA CORUNA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999629718": {
+            "orgId": "999629718",
+            "orgName": "UNIVERSIDADE DA CORUNA",
+            "ecContrib": 1481747
+        }
+    },
+    "calculatedTotalContribution": 1481747
+}

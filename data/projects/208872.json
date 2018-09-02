@@ -1,0 +1,28 @@
+{
+    "rcn": "208872",
+    "acronym": "QSB",
+    "topics": "MSCA-IF-2016",
+    "title": "Quantum Sensing for Biology",
+    "startDate": "07/07/2017",
+    "endDate": "06/07/2020",
+    "objective": "Modern physics has contributed to the development of powerful instruments and diagnostic tools for biology and medicine, with a direct impact on both our well-being and life expectancy. Today, it is timely to ask if the novel field of quantum information is ready to provide new methods for the life sciences. This proposal makes a step in this direction, introducing non-invasive quantum techniques for experimental biology, with potential applications to biomedical imaging. My goal is to show how quantum correlations (entanglement or discord) can be exploited to realize a fully non-invasive form of spectroscopy, which can be safely applied to fragile materials, such as photo-degradable biological samples (DNA/RNA) or in-vivo human tissues. These objectives are not met in todayís biology labs, where UV-light photometry heavily damages DNA/RNA samples, or in public hospitals, where X-ray scans expose patients to significant radiation doses, with non-negligible risks of cancer. The basic rationale behind the use of quantum correlations relies on their superior capacity to detect small variations in the absorption properties of the materials, even when only a few photons are employed. By exploiting this remarkable feature, I will prove the possibility of non-invasive testing of biological samples. My central task will be the design of a practical model of a quantum-enhanced photometer which is fully based on continuous-variable systems. This design will involve the extension of quantum sensing and metrology to a more advanced double-box formulation where two channels, representing seeded and blank samples, are simultaneously probed. The realization of such a quantum-enhanced instrument would allow for real-time continuous measurements of organic molecules and nucleic acids without any photo-degradation.",
+    "totalCost": "269857,8",
+    "ecMaxContribution": "269857,8",
+    "coordinator": "UNIVERSITY OF YORK",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998096827": {
+            "orgId": "998096827",
+            "orgName": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 0
+        },
+        "999978336": {
+            "orgId": "999978336",
+            "orgName": "UNIVERSITY OF YORK",
+            "ecContrib": 269858
+        }
+    },
+    "calculatedTotalContribution": 269858
+}

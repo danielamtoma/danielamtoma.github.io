@@ -1,0 +1,23 @@
+{
+    "rcn": "199244",
+    "acronym": "PAPHOS",
+    "topics": "ICT-37-2015-1",
+    "title": "Parallel photogrammetry system for object panoramas",
+    "startDate": "01/12/2015",
+    "endDate": "31/05/2016",
+    "objective": "The preservation of cultural heritage by using digitization techniques is a very common method used by many European countries nowadays. The digital 3D modeling offers users the most realistic and trustworthy way of preserving precious artifacts from the various areas such as: history, art, biology, etc. The digital 3D models have wide application in science, education and industry. The most accurate method of creating realistic 3D models is panorama photography, which offers users a precise way of capturing reality. The only method of creating the digital 3D model from panorama photography is photogrammetry, however currently available methods of processing and computing might be considered as very time consuming and not reliable.\nParallel photogrammetry system (PAPHOS) serves the need for processing high-resolution object panoramas into digital 3D models. The whole system continuously processes object panoramas from EDICO¥s digitization system WITIKON with high resolution and special boundary conditions. This novel approach rapidly increases visual quality and decreases the time of 3D model computation due to using parallel photogrammetry algorithms.\nWhole computing is performed in the cloud or local CPU/GPU cluster. Project reacts to customer needs, such as less time consuming operations in the computing process and possibility of photogrammetry parameters change, better control of final 3D model, and possibility of using cloud computing. Problems outlined and solutions proposed are based on our previous research projects in the field of cultural heritage digitization.\nWith PAPHOS system EDICO SK plans to grow up in the terms of its team (\\ 15 employees by 2021) and sales (\\ 3,6 M Ä of revenue in 2021) by targeting markets in the field of cultural heritage on EU-scale and later also worldwide. After minor modifications the PAPHOS system can be used also for other market segments like videogame development or movie industry.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "EDICO SK AS",
+    "coordinatorCountry": "SK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "934479668": {
+            "orgId": "934479668",
+            "orgName": "EDICO SK AS",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

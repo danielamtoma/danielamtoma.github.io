@@ -1,0 +1,38 @@
+{
+    "rcn": "212438",
+    "acronym": "MiGANSOS",
+    "topics": "COMPET-1-2017",
+    "title": "Millimetre wave Gallium Nitride Space evaluation and application to Observation Satellites",
+    "startDate": "01/11/2017",
+    "endDate": "31/08/2020",
+    "objective": "'MiGaNSOS proposal targets its activities to address the following objectives:\n\n∑        First Objective is to assess and space-evaluate a 'state of the art' GaN/Si process for open foundry use, which will lead to new industrial products greatly influencing European companiesí competitiveness. The process to be evaluated is the 100 nm GaN/Si technology developed by OMMIC; a preliminary evaluation will also be performed on the 60 nm GaN/Si process as being optimized by OMMIC as the natural extension for higher frequency applications. This objective shall be realised via the realisation of test vehicles dedicated to the evaluation process and basic monolithic functionalities such as Low Noise Amplifiers (LNAs), High Power Amplifiers (HPAs) and Single-Pole Double-Throw Switches (SPDT) and their Single-Chip integration (Single-Chip Front-End, SCFE) as demonstrators of the technology.\n\n∑        Second Objective consists in the demonstration of the simultaneous use of 100 nm and 60 nm GaN/Si technologies. This opens up the possibility to use them not only for the realization of the same wafer run but also within the same circuit, Such unique feature, unprecedented to date in available commercial foundry processes, represents a real technological breakthrough, increasing circuit design flexibility and resulting circuit performance.\n\n∑        Third objective of MiGaNSOS resides in the demonstration of future application of the developed technologies in advanced space equipment. In particular, a Ka Band Synthetic Aperture Radar (SAR) antenna shall be taken as reference and the fully integrated SCFE shall be integrated in a demonstrator replicating the basic building block of the Ka Band active antenna.\n\n∑        Finally, the fourth objective consists in disseminating the obtained results, making available the evaluated technology to the scientific and industrial communities and addressing new market opportunities\n'",
+    "totalCost": "2936927,5",
+    "ecMaxContribution": "2936927,5",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA",
+    "coordinatorCountry": "IT",
+    "participants": "Teknologian tutkimuskeskus VTT Oy;OMMIC SAS;THALES ALENIA SPACE ITALIA SPA",
+    "participantCountries": "FI;FR;IT",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 298069
+        },
+        "999488195": {
+            "orgId": "999488195",
+            "orgName": "THALES ALENIA SPACE ITALIA SPA",
+            "ecContrib": 896250
+        },
+        "999844864": {
+            "orgId": "999844864",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA",
+            "ecContrib": 614625
+        },
+        "999612452": {
+            "orgId": "999612452",
+            "orgName": "OMMIC SAS",
+            "ecContrib": 1127984
+        }
+    },
+    "calculatedTotalContribution": 2936928
+}

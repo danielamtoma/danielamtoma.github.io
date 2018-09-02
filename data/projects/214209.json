@@ -1,0 +1,28 @@
+{
+    "rcn": "214209",
+    "acronym": "NeCOL",
+    "topics": "MSCA-IF-2017",
+    "title": "NeCOL: An Innovative Methodology for Building Better Deep Learning Tools for Real Word Applications",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2021",
+    "objective": "Nowadays, intelligent systems based on deep learning (DL) are latent in many aspects of our society. But the use of inadequate neural networks (NNs) architectures and the high computational costs required by DL limit its widespread use. Thus, advanced optimization methods (such as metaheuristics) may be applied to improve common DL methodologies, which in general use gradient based methods and apply complex engineering by hand.\nThis project aims to define an efficient DL methodology, which is named Neural CO-evolutionary Learning (NeCOL), based on the marriage between co-evolutionary algorithms (CEAs) and recurrent NNs (RNNs). NeCOL will be used to automatically define RNNs of high (unseen) efficiency and efficacy, which will be adapted to explicit needs. It will be applied in two use cases of the highest value and relevance in EU: cybersecurity and Smart City. We focus on RNNs because they are applied to non-stationary data streams, as in our use cases.\nDespite EU efforts, China and the USA are the most productive countries in DL. Thus, EU must try harder to lead this compelling domain. This MSCA will support the candidate to master this new cutting-edge world-wide research, which will contribute to EU excellence and competitiveness. It will allow the candidate to get exceptional trainings from world class experts at the prestigious MIT that will be exploited at UMA and the priceless supervision of Prof. Alba (UMA) and Prof. OíReilly (MIT).\nThe applicant is the appropriate choice to successfully accomplish this research because he has a valuable expertise in modeling hard-to-solve real-world problems (as it is the case of RNNs optimization) and addressing them by using metaheuristics. The expected early high scientific impact of this research in the EU will open up the best possible career opportunities for him, preparing him to overwhelmingly compete for a solid permanent position at UMA and other possible destinations (even industry).",
+    "totalCost": "239191,2",
+    "ecMaxContribution": "239191,2",
+    "coordinator": "UNIVERSIDAD DE MALAGA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999898311": {
+            "orgId": "999898311",
+            "orgName": "UNIVERSIDAD DE MALAGA",
+            "ecContrib": 239191
+        },
+        "998096827": {
+            "orgId": "998096827",
+            "orgName": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 239191
+}

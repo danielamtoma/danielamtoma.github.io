@@ -1,0 +1,38 @@
+{
+    "rcn": "193409",
+    "acronym": "ROADART",
+    "topics": "MG-3.5a-2014",
+    "title": "Research On Alternative Diversity Aspects foR Trucks",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "The main objective of ROADART is to investigate and optimise the integration of ITS communication units into trucks. Due to the size of a truck-trailer combination the architecture approaches investigated for passenger cars are not applicable. New architecture concepts have to be developed and evaluated in order to assure a sufficient Quality of Service (QoS) for trucks and heavy duty vehicles. An example of a specific use case is the platooning of several trucks driving close behind each other through tunnels with walls close to the antennas that support the communication systems. Due to the importance of tunnel safety, significant research effort is needed in order to check the behaviour of the antenna pattern, diversity algorithms and ray tracing models especially for trucks passing through tunnels. V2V and V2I systems specified from the C2C Communication Consortium are focussing on road safety applications. The ROADART project aims to demonstrate especially the road safety applications for T2T and T2I systems under critical conditions in a real environment, like tunnels and platooning of several trucks driving close behind each other. Besides that traffic flow optimization and therefore reducing Greenhouse Gas emissions are positive outcoms of the use cases demonstrated in  this project. Demonstration and Evaluation of the use cases will be performed by simulation and by practical experiments on several levels. Besides evaluation on component and system level, the complete system wll be evaluated on the Dutch Integrated Test Site for Cooperative Mobility (DITCM), consisting of a 7 km stretch of highway, equipped with roadside units consisting of cameras to track the highway traffic, and with ITS G5 wireless communication for V2I and I2V.",
+    "totalCost": "3906870",
+    "ecMaxContribution": "3906870",
+    "coordinator": "IMST GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;MAN TRUCK & BUS AG;UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+    "participantCountries": "NL;DE;EL",
+    "projectParticipants": {
+        "999796849": {
+            "orgId": "999796849",
+            "orgName": "IMST GMBH",
+            "ecContrib": 1448998
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 312610
+        },
+        "999586941": {
+            "orgId": "999586941",
+            "orgName": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+            "ecContrib": 1000000
+        },
+        "999630106": {
+            "orgId": "999630106",
+            "orgName": "MAN TRUCK & BUS AG",
+            "ecContrib": 1145262
+        }
+    },
+    "calculatedTotalContribution": 3906870
+}

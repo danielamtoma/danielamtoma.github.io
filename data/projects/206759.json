@@ -1,0 +1,78 @@
+{
+    "rcn": "206759",
+    "acronym": "OpenRiskNet",
+    "topics": "EINFRA-22-2016",
+    "title": "OpenRiskNet: Open e-Infrastructure to Support Data Sharing, Knowledge Integration and in silico Analysis and Modelling in Risk Assessment",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "Toxicology and risk assessment are undergoing a paradigm shift, from a phenomenological to a mechanistic discipline based on in vitro and in silico approaches that represent an important alternative to classical animal testing applied to the evaluation of chronic and systemic toxicity risks. Large databases and highly sophisticated methods, algorithms and tools are available for different tasks such as hazard prediction, toxicokinetics, and in vitro ñ in vivo extrapolations to support this transition. However, since these services are developed independently and provided by different groups world-wide, there is no standardized way how to access the data or run modelling workflows. To overcome the fragmentation of data and tools, OpenRiskNet will provide open e-Infrastructure resources and services to a variety of communities requiring chemical risk assessment, including chemicals, cosmetic ingredients, therapeutic agents, and nanomaterials. OpenRiskNet will combine the achievements from earlier projects for generating modeling and validation workflows, knowledge integration and data management as well as include all ongoing projects and important stakeholders through an associated partner programme. The main components of the infrastructure will be an interoperability layer added to every service to describe the functionality and guaranteeing technical and semantic interoperability, a discovery service, deployment options based on container technology, and packaging of the infrastructure into virtual instances. This will be complemented by training and support on integration of specific services based on prototype implementation, usage of standard file formats for data sharing including the generation of templates for data and metadata, as well as the harmonized usage of ontologies. Case studies will demonstrate the applicability of the infrastructure in productive settings supporting research and innovation in safer product design and risk assessment.",
+    "totalCost": "2999112,5",
+    "ecMaxContribution": "2999112,5",
+    "coordinator": "DOUGLAS CONNECT GMBH",
+    "coordinatorCountry": "CH",
+    "participants": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ;STICHTING VU;NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INSTITUT NATIONAL DE L ENVIRONNEMENT ET DES RISQUES INERIS;THE UNIVERSITY OF BIRMINGHAM;UPPSALA UNIVERSITET;UNIVERSITEIT MAASTRICHT;MEDIZINISCHE UNIVERSITAT INNSBRUCK;INFORMATICS MATTERS LIMITED;FUNDACIO CENTRE DE REGULACIO GENOMICA",
+    "participantCountries": "DE;NL;EL;FR;UK;SE;AT;ES",
+    "projectParticipants": {
+        "999544455": {
+            "orgId": "999544455",
+            "orgName": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+            "ecContrib": 181875
+        },
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 243500
+        },
+        "999985029": {
+            "orgId": "999985029",
+            "orgName": "UPPSALA UNIVERSITET",
+            "ecContrib": 309500
+        },
+        "999975911": {
+            "orgId": "999975911",
+            "orgName": "UNIVERSITEIT MAASTRICHT",
+            "ecContrib": 460250
+        },
+        "923520026": {
+            "orgId": "923520026",
+            "orgName": "INFORMATICS MATTERS LIMITED",
+            "ecContrib": 318750
+        },
+        "999978627": {
+            "orgId": "999978627",
+            "orgName": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ",
+            "ecContrib": 290000
+        },
+        "999855437": {
+            "orgId": "999855437",
+            "orgName": "MEDIZINISCHE UNIVERSITAT INNSBRUCK",
+            "ecContrib": 0
+        },
+        "954530344": {
+            "orgId": "954530344",
+            "orgName": "STICHTING VU",
+            "ecContrib": 127475
+        },
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 180500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 149138
+        },
+        "993226069": {
+            "orgId": "993226069",
+            "orgName": "DOUGLAS CONNECT GMBH",
+            "ecContrib": 621875
+        },
+        "999958063": {
+            "orgId": "999958063",
+            "orgName": "INSTITUT NATIONAL DE L ENVIRONNEMENT ET DES RISQUES INERIS",
+            "ecContrib": 116250
+        }
+    },
+    "calculatedTotalContribution": 2999113
+}

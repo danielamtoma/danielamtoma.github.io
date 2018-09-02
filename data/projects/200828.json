@@ -1,0 +1,28 @@
+{
+    "rcn": "200828",
+    "acronym": "MALET",
+    "topics": "JTI-CS2-2014-CFP01-SYS-02-07",
+    "title": "Development of MODELICA Libraries for ECS and Thermal management architectures",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2019",
+    "objective": "The goal of this project is the development of Modelica libraries (Dymola compatible) to simulate Electrical Environmental Control System (E-ECS) architectures including thermal management perimeter. The efforts will be focused on developing an optimized model to simulate vapour cycle systems (VCS) and liquid loop systems at both steady state and transient operational conditions. In addition, an appropriate strategy will be adopted to couple the thermal and the electrical environments to achieve an integrated simulation of the complete architecture.\nE-ECS architectures include different cooling systems and electrical components which will be modelled within this project. The system/components to be modelled are:\nï Vapour cycle systems (VCS), including compressors, reservoirs, valves, heat exchangers, etc.\nï Liquid loop systems, including pipes, pumps, cold plates, heat exchangers, liquid and diphasic coolants, etc.\nï Air cycle systems, including compressors, turbines, air-to-air heat exchangers, fans, sprayers, etc.\nï Jet pumps\nï Electrical components, such as power electronics and electrical motors\nï Wing ice protection systems\nA multi-level approach will be considered given the object-oriented nature of Modelica. In general, components will be modelled based on their appropriate governing equations (e.g. conservation law of energy, mass and momentum), needed empirical information (e.g. heat transfer correlations), and needed relevant parameters (e.g. compressor efficiencies). However, the modelling will be carried out considering different levels of detail. For instance, heat exchangers will be modelled from simple lumped approaches (e.g. ?-NTU based) to more detailed distributed approaches (e.g. finite volume method).",
+    "totalCost": "496691,25",
+    "ecMaxContribution": "496691,25",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "THE UNIVERSITY OF NOTTINGHAM",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 172879
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 323812
+        }
+    },
+    "calculatedTotalContribution": 496691
+}

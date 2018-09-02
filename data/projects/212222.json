@@ -1,0 +1,68 @@
+{
+    "rcn": "212222",
+    "acronym": "openEO",
+    "topics": "EO-2-2017",
+    "title": "openEO - a common, open source interface between Earth Observation data infrastructures and front-end applications",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2020",
+    "objective": "The capabilities of the latest generation of Earth observation satellites to collect large volumes of diverse and thematically rich data are unprecedented. For exploiting these valuable data sets, many research and industry groups have started to shift their processing into the cloud. Although the functionalities of existing cloud computing solutions largely overlap, there are all custom-made and tailored to the specific data infrastructures. This lack of standards not only makes it hard for end users and application developers to develop generic front-ends, but also to compare the cloud offerings by running the same analysis against different cloud back-ends. To solve this, a common interface that allows end- and intermediate users to query cloud-based back offices and carry out computations on them in a simple way is needed. The openEO project will design such an interface, implement it as an open source community project, bind it to generic analytics front-ends and evaluate it against a set of relevant Earth observation cloud back offices. The openEO interface will consist of three layers of Application Programming Interfaces, namely a core API for finding, accessing, and processing large datasets, a driver APIs to connect to back offices operated by European and worldwide industry, and client APIs for analysing these datasets using R, Python and JavaScript. To demonstrate the capability of the openEO interface, four use cases based chiefly on Sentinel-1 and Sentinel-2 time series will be implemented. openEO will simplify the use of cloud-based processing engines, allow switching between cloud-based back office providers and comparing them, and enable reproducible, open Earth observation science. Thereby, openEO reduces the entry barriers for the adaptation of cloud computing technologies by a broad user community and paves the way for the federation of infrastructure capabilities.",
+    "totalCost": "1989001,25",
+    "ecMaxContribution": "1989001,25",
+    "coordinator": "TECHNISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.;SINERGISE LABORATORIJ ZA GEOGRAFSKE INFORMACIJSKE SISTEME DOO;ACCADEMIA EUROPEA DI BOLZANO;MUNDIALIS GMBH & CO KG;WAGENINGEN UNIVERSITY;EODC EARTH OBSERVATION DATA CENTRE FOR WATER RESOURCES MONITORING GMBH;WESTFAELISCHE WILHELMS-UNIVERSITAET MUENSTER;SOLENIX SCHWEIZ GMBH;JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+    "participantCountries": "BE;SI;IT;DE;NL;AT;CH",
+    "projectParticipants": {
+        "914159526": {
+            "orgId": "914159526",
+            "orgName": "SOLENIX SCHWEIZ GMBH",
+            "ecContrib": 79989
+        },
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 388981
+        },
+        "999992304": {
+            "orgId": "999992304",
+            "orgName": "JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+            "ecContrib": 49999
+        },
+        "999887253": {
+            "orgId": "999887253",
+            "orgName": "ACCADEMIA EUROPEA DI BOLZANO",
+            "ecContrib": 80010
+        },
+        "955490450": {
+            "orgId": "955490450",
+            "orgName": "SINERGISE LABORATORIJ ZA GEOGRAFSKE INFORMACIJSKE SISTEME DOO",
+            "ecContrib": 80028
+        },
+        "999981634": {
+            "orgId": "999981634",
+            "orgName": "WAGENINGEN UNIVERSITY",
+            "ecContrib": 319994
+        },
+        "888897707": {
+            "orgId": "888897707",
+            "orgName": "WESTFAELISCHE WILHELMS-UNIVERSITAET MUENSTER",
+            "ecContrib": 359978
+        },
+        "921202696": {
+            "orgId": "921202696",
+            "orgName": "MUNDIALIS GMBH & CO KG",
+            "ecContrib": 90016
+        },
+        "999645238": {
+            "orgId": "999645238",
+            "orgName": "VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.",
+            "ecContrib": 339992
+        },
+        "934022216": {
+            "orgId": "934022216",
+            "orgName": "EODC EARTH OBSERVATION DATA CENTRE FOR WATER RESOURCES MONITORING GMBH",
+            "ecContrib": 200015
+        }
+    },
+    "calculatedTotalContribution": 1989002
+}

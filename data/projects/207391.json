@@ -1,0 +1,23 @@
+{
+    "rcn": "207391",
+    "acronym": "RandMat",
+    "topics": "ERC-2016-STG",
+    "title": "Spectral Statistics of Structured Random Matrices",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "The purpose of this proposal is a better mathematical understanding of certain classes of large random matrices. Up to very recently, random matrix theory has been mainly focused on mean-field models with independent entries. In this proposal I instead consider random matrices that incorporate some nontrivial structure. I focus on two types of structured random matrices that arise naturally in important applications and lead to a rich mathematical behaviour: (1) random graphs with fixed degrees, such as random regular graphs, and (2) random band matrices, which constitute a good model of disordered quantum Hamiltonians.\n\nThe goals are strongly motivated by the applications to spectral graph theory and quantum chaos for (1) and to the physics of conductance in disordered media for (2). Specifically, I will work in the following directions. First, derive precise bounds on the locations of the extremal eigenvalues and the spectral gap, ultimately obtaining their limiting distributions. Second, characterize the spectral statistics in the bulk of the spectrum, using both eigenvalue correlation functions on small scales and linear eigenvalue statistics on intermediate mesoscopic scales. Third, prove the delocalization of eigenvectors and derive the distribution of their components. These results will address several of the most important questions about the structured random matrices (1) and (2), such as expansion properties of random graphs, hallmarks of quantum chaos in random regular graphs, crossovers in the eigenvalue statistics of disordered conductors, and quantum diffusion.\n\nTo achieve these goals I will combine tools introduced in my previous work, such as local resampling of graphs and subdiagram resummation techniques, and in addition develop novel, robust techniques to address the more challenging goals. I expect the output of this proposal to contribute significantly to the understanding of structured random matrices.",
+    "totalCost": "1257442",
+    "ecMaxContribution": "1257442",
+    "coordinator": "UNIVERSITE DE GENEVE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974650": {
+            "orgId": "999974650",
+            "orgName": "UNIVERSITE DE GENEVE",
+            "ecContrib": 1257442
+        }
+    },
+    "calculatedTotalContribution": 1257442
+}

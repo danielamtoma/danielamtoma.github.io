@@ -1,0 +1,53 @@
+{
+    "rcn": "199318",
+    "acronym": "InDrive",
+    "topics": "GALILEO-1-2015",
+    "title": "Automotive EGNSS Receiver for High Integrity Applications on the Drive",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2017",
+    "objective": "The main objective of this project is to develop and demonstrate innovative close-to-market applications, which are heavily relying on accurate and high integrity satellite navigation. To achieve the full potential of advanced satellite positioning, an integrated solution starting from low-level signal processing to high-level data fusion will be proposed to get a continuous probabilistic positioning of high integrity.\n\nInDRIVE will demonstrate the future use of mass-market GNSS, targeting automotive applications with high demands for integrity by creating a framework that specifies the requirements for data acquisition, signal tracking and data fusion in order to guarantee the proper handling of positioning data. This approach introduces an innovative integrity framework, allowing the applications to comply with their specified false alarm rates.\nInDRIVE will target several applications in the area of Advanced Driver Assistance Systems (ADAS) and future Intelligent Transportation Systems (ITS) based on different positioning requirements. Both connected and non connected vehicles will be considered.\n\nThe innovation of this project stands in the adoption the EGNSS localization for automated manoeuvres in automotive applications: EGNSS will be used not only for positioning but also to estimate the confidence of the position. In order to meet the requirements for each use case, a new technology will be introduced for the computation of confidence.\nAs a result, the solution will  guarantee the compliance of the use cases in terms of false alarm rates and accuracy.\nIn practice three areas will be defined (red, yellow and green):within the red area, safety critical applications (as emergency breaking) will operate. The extension to the yellow area will meet the requirements for warning based applications with lower time to collision demands. The green area represents the informative applications, like traffic or weather information.",
+    "totalCost": "2921125",
+    "ecMaxContribution": "2435312",
+    "coordinator": "Istituto Superiore Mario Boella",
+    "coordinatorCountry": "IT",
+    "participants": "CENTRO RICERCHE FIAT SCPA;BASELABS GMBH;INFOTECH BILISIM VE ILETISIM TEKNOLOJILERI SANAYI VE TICARET AS;FACIT RESEARCH GMBH & CO. KG;TECHNISCHE UNIVERSITAET CHEMNITZ;MAGNETI MARELLI S.P.A.",
+    "participantCountries": "IT;DE;TR",
+    "projectParticipants": {
+        "999877844": {
+            "orgId": "999877844",
+            "orgName": "TECHNISCHE UNIVERSITAET CHEMNITZ",
+            "ecContrib": 313750
+        },
+        "970790454": {
+            "orgId": "970790454",
+            "orgName": "INFOTECH BILISIM VE ILETISIM TEKNOLOJILERI SANAYI VE TICARET AS",
+            "ecContrib": 333375
+        },
+        "953476051": {
+            "orgId": "953476051",
+            "orgName": "BASELABS GMBH",
+            "ecContrib": 258300
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 551000
+        },
+        "999599357": {
+            "orgId": "999599357",
+            "orgName": "ISTITUTO SUPERIORE MARIO BOELLA SULLE TECNOLOGIE DELL'INFORMAZIONE E DELLE  TELECOMUNICAZIONI ASSOCIAZIONE",
+            "ecContrib": 0
+        },
+        "995531856": {
+            "orgId": "995531856",
+            "orgName": "MAGNETI MARELLI S.P.A.",
+            "ecContrib": 392350
+        },
+        "995439900": {
+            "orgId": "995439900",
+            "orgName": "FACIT RESEARCH GMBH & CO. KG",
+            "ecContrib": 149537
+        }
+    },
+    "calculatedTotalContribution": 1998312
+}

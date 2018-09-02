@@ -1,0 +1,28 @@
+{
+    "rcn": "197863",
+    "acronym": "RSM",
+    "topics": "ERC-CoG-2014",
+    "title": "Rich, Structured Models for Scene Recovery, Understanding and Interaction",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "Computer vision has gained considerable momentum in recent years ñ both in industry and academia. There seems to be a spirit that the time is ripe to realize grand goals and to bring computer vision from the lab into real life. But is a vision system already as good as a human is? The answer is: ìUnfortunately, not yet.î Given a single image, a child can describe the objects and their relationships in a much more detailed manner than any computer can. Also, humans can quite effortlessly ìvisually extractî an object from its background, even in the presence of fine details such as hair. Computers cannot yet achieve this automatically. But, for many real-world applications it is absolutely necessary to reach such levels of rich output, accuracy, quality, robustness, and system autonomy. In this proposal we try to get closer to this overarching goal. We believe that the key to success is a richer representation. Here ìrichî stands for rich, detailed output, modelling rich, physical and semantic constraints, and learning rich, statistical relations between different aspects of a scene. Towards this end we propose the Rich Scene Model (RSM), which is one joint statistical, structured model of many physical and semantic scene aspects that can take full advantage of the synergy effect between all its components. This effort goes beyond previous attempts, in many respects. However, it is simple to say ìWe will build the best ever joint, rich scene modelî. Accordingly, the crux of this proposal is to design novel models, learning and inference techniques to make the RSM a reality. This proposal addresses not only theoretical questions such as, ìWhat can we infer from a few images of a dynamically changing 3D scene?î, and ìIs our RSM rich enough to make statistical learning ìwork betterî than deterministic learning?î we also propose a model that can give new forms of output, better deal with challenging real world scenarios, and can adapt nicely to human and application needs",
+    "totalCost": "1998281",
+    "ecMaxContribution": "1998281",
+    "coordinator": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+    "coordinatorCountry": "DE",
+    "participants": "TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 448745
+        },
+        "999987648": {
+            "orgId": "999987648",
+            "orgName": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+            "ecContrib": 1549536
+        }
+    },
+    "calculatedTotalContribution": 1998281
+}

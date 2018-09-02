@@ -1,0 +1,43 @@
+{
+    "rcn": "193841",
+    "acronym": "PARADISE",
+    "topics": "GALILEO-2-2014",
+    "title": "Precise and Robust Navigation enabling Applications in Disturbed Signal Environments",
+    "startDate": "01/01/2015",
+    "endDate": "31/07/2017",
+    "objective": "Precise and Robust Navigation enabling Applications in Disturbed Signal Environments (PARADISE).\nEnabling precise and robust satellite navigation not only under open sky conditions but also under disturbed GNSS signal conditions (typically in forest and in urban canyon environments) is the last open challenge for precise satellite navigation in outdoor.\nConcerning accuracy, the current existing 'state-of-the-art' professional GNSS receivers are enabling precise GNSS positioning solutions with an accuracy better than 0,5 m. These receivers are only working under open sky (strong signal without major multipath effects) conditions. There are many GNSS receiver working under disturbed signal conditions (mass market receivers), but these are typically providing accuracies of 10-30 meters in disturbed environments and are therefore not suited for applications requiring high accuracy in disturbed signal environments.\nConcerning robustness, often an integration with medium performance inertial sensor is done to overcome short periods of disturbance. However if working in a generally disturbed environment is the nominal case, this approach doesn't help any further. Another drawback of existing IMU integration solutions is the high costs related with the need of ahigh quality IMU sensor (from 1.000 to 10.000 EUR). \nTo overcome these limitations, IFEN is working since many years on this problem. With projects finalized in February 2013, a first receiver bread-board is existing, confirming the viability of the proposed technical concept (called micro-trajectory augmented with MEMS sensors) at a TRL3.\nExtending the current concept towards multi-frequency (GPS L1/L5 and Galileo E1 and E5) and inserting a low-cost MEMS (below 100 EUR) will further increase accuracy and robustness, making it suited to be transfered towards a marketable technology. \nThe marketable prototype receiver (TRL7) will be demonstrated in typical precise applications in forest and urban environments.",
+    "totalCost": "1157272,5",
+    "ecMaxContribution": "838590",
+    "coordinator": "IFEN GESELLSCHAFT FUR SATELLITENNAVIGATION MBH",
+    "coordinatorCountry": "DE",
+    "participants": "VERMESSUNG DR. GUNTHER ABWERZGER;HOHENLOHER SPEZIAL-MASCHINENBAU GMBH & CO. KG;GRINTEC GESELLSCHAFT FUR GRAPHISCHEINFORMATIONS-TECHNOLOGIE MBH;CESKE VYSOKE UCENI TECHNICKE V PRAZE",
+    "participantCountries": "AT;DE;CZ",
+    "projectParticipants": {
+        "942943500": {
+            "orgId": "942943500",
+            "orgName": "VERMESSUNG DR. GUNTHER ABWERZGER",
+            "ecContrib": 44625
+        },
+        "999848744": {
+            "orgId": "999848744",
+            "orgName": "CESKE VYSOKE UCENI TECHNICKE V PRAZE",
+            "ecContrib": 95000
+        },
+        "951115944": {
+            "orgId": "951115944",
+            "orgName": "HOHENLOHER SPEZIAL-MASCHINENBAU GMBH & CO. KG",
+            "ecContrib": 67036
+        },
+        "996395738": {
+            "orgId": "996395738",
+            "orgName": "IFEN GESELLSCHAFT FUR SATELLITENNAVIGATION MBH",
+            "ecContrib": 486430
+        },
+        "996184084": {
+            "orgId": "996184084",
+            "orgName": "GRINTEC GESELLSCHAFT FUR GRAPHISCHEINFORMATIONS-TECHNOLOGIE MBH",
+            "ecContrib": 145499
+        }
+    },
+    "calculatedTotalContribution": 838590
+}

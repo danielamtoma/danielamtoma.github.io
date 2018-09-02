@@ -1,0 +1,23 @@
+{
+    "rcn": "209175",
+    "acronym": "ACCENT",
+    "topics": "MSCA-IF-2016",
+    "title": "Algebraic Covering Codes Enabling Network Transmissions",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2020",
+    "objective": "Applications of rank-metric codes arise ever more frequently in network communications problems, and yet their mathematical theory is still in its infancy. To date attention has almost exclusively focussed on very special classes of codes and their generalizations. \n\nThe covering problem for rank-metric codes is largely unsolved, and is an important combinatorial research topic. For error-free paradigms, codes with low covering radius  provide efficient solutions for broadcast problems, and specifically to optimizing content delivery networks for large files distribution. Current approaches to such applications are suboptimal, while known methods to obtaining best possible performance are computationally infeasible. For error-correcting schemes, the covering radius is an important indicator of code performance, as it measures the number of errors that can be corrected in network transmissions.\n\nWe propose to develop a mathematical theory of covering codes for the rank metric. We will obtain bounds on the covering radius of an arbitrary rank-metric code, as well as special classes of codes. We will develop the fundamental tools required to pioneer this theory, offering scope for researchers of Algebraic Coding Theory, as well as combinatorial objects useful for Engineering applications. We will also investigate symmetric rank-metric codes, focussing on their distance distributions. These codes have a very rich combinatorial structure.\n\nThe combined expertise of the Applied Algebra group at UCD, along with the methods developed by the applicant in his PhD, will propel the project to achieve its objectives. The potential scientific impact is high, given the newness and combinatorial hardness of the topic, its importance for network communications, and exponentially increasing data traffic. The impact for the applicant will be the opportunity to establish this fundamental topic, magnify his scientific profile, and consolidate/expand his professional network.",
+    "totalCost": "175866",
+    "ecMaxContribution": "175866",
+    "coordinator": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 175866
+        }
+    },
+    "calculatedTotalContribution": 175866
+}

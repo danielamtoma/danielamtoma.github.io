@@ -1,0 +1,53 @@
+{
+    "rcn": "193451",
+    "acronym": "EGSIEM",
+    "topics": "EO-1-2014",
+    "title": "European Gravity Service for Improved Emergency Management",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Earth observation (EO) satellites yield a wealth of data for scientific, operational and commercial exploitation. However, the redistribution of environmental mass is not yet part of the EO data products to date. These observations, derived from the Gravity Recovery and Climate Experiment (GRACE) mission and in future by GRACE-FO (Follow-on), deliver fundamental insights into the global water cycle. Changes in continental water storage control the regional water budget and can, in extreme cases, result in floods and droughts that often claim a high toll on infrastructure, economy and human lives. The aim of this proposal is to demonstrate that mass redistribution products open the door for innovative approaches to flood and drought monitoring and forecast.\nThe timeliness and reliability of information is the primary concern for any early-warning system. We aim to increase the temporal resolution from one month, typical for GRACE products, to one day and to provide gravity field information within 5 days (near real-time). Early warning indications derived from these products are expected to improve the timely awareness of potentially evolving hydrological extremes and to help in the scheduling of high-resolution follow-up observations. We will provide adequate data products and indicators for tentative integration into the work of the Center for Satellite Based Crisis Information (ZKI, operated by the German Aerospace Center) and its future use within international initiatives such as the Copernicus Emergency Management Service and the International Charter ìSpace and Major Disastersî. The performance of our products will be assessed with complementary data and post-processed mass products derived from the combined knowledge of the entire European GRACE community unified in our consortium.\nOur efforts thus culminate in three dedicated services: 1) a scientific combination service, 2) a near real-time service and 3) a hydrological/early warning service.",
+    "totalCost": "2499550",
+    "ecMaxContribution": "1752050",
+    "coordinator": "UNIVERSITAET BERN",
+    "coordinatorCountry": "CH",
+    "participants": "TECHNISCHE UNIVERSITAET GRAZ;GEODE & CIE;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;HELMHOLTZ ZENTRUM POTSDAM DEUTSCHESGEOFORSCHUNGSZENTRUM GFZ;UNIVERSITE DU LUXEMBOURG;CENTRE NATIONAL D'ETUDES SPATIALES - CNES;GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+    "participantCountries": "AT;FR;DE;LU",
+    "projectParticipants": {
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 275125
+        },
+        "999994341": {
+            "orgId": "999994341",
+            "orgName": "HELMHOLTZ ZENTRUM POTSDAM DEUTSCHESGEOFORSCHUNGSZENTRUM GFZ",
+            "ecContrib": 569625
+        },
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 351375
+        },
+        "999981828": {
+            "orgId": "999981828",
+            "orgName": "GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+            "ecContrib": 153000
+        },
+        "944521884": {
+            "orgId": "944521884",
+            "orgName": "GEODE & CIE",
+            "ecContrib": 69500
+        },
+        "999599163": {
+            "orgId": "999599163",
+            "orgName": "CENTRE NATIONAL D'ETUDES SPATIALES - CNES",
+            "ecContrib": 161750
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 171675
+        }
+    },
+    "calculatedTotalContribution": 1752050
+}

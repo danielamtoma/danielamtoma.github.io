@@ -1,0 +1,53 @@
+{
+    "rcn": "199139",
+    "acronym": "TRIANGLE",
+    "topics": "ICT-12-2015",
+    "title": "5G Applications and Devices Benchmarking",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "The focus of TRIANGLE is the development of a framework that facilitates the evaluation of the QoE of new mobile applications, services and devices designed to operate in the future 5G mobile broadband networks. The framework will exploit existing FIRE facilities adding new facilities when necessary.\nThe project will identify reference deployment scenarios, will define new KPIs (Key Performance Indicators) and QoE metrics, will develop new testing methodologies and tools, and will design a complete evaluation scheme. The project will focus on the development of a framework to ensure user QoE in the new challenging situations, especially those due to heterogeneous networks and considering the role software will have in the new 5G ecosystem. \nThe framework as value added will also provide the means to allow certification and quality mark for the applications, services and devices compliant to the requirements and test specifications developed in the project but also extensible to other FIRE test solutions. This will allow vendor differentiation, specially startups and SMEs, in the current globalized and competitive markets and further visibility of FIRE facilities.\nThe framework, methods and tools developed during the project will focus on providing the mechanisms to incorporate new wireless technologies and topologies envisaged in 5G and contribute to the new ecosystem.",
+    "totalCost": "3541981,25",
+    "ecMaxContribution": "2903690",
+    "coordinator": "KEYSIGHT TECHNOLOGIES BELGIUM",
+    "coordinatorCountry": "BE",
+    "participants": "DEKRA TESTING AND CERTIFICATION SAU;KEYSIGHT TECHNOLOGIES DENMARK APS;QUAMOTION;REDZINC SERVICES LIMITED;UNIVERSIDAD DE MALAGA;UNIVERSITY COLLEGE LONDON",
+    "participantCountries": "ES;DK;BE;IE;UK",
+    "projectParticipants": {
+        "929699508": {
+            "orgId": "929699508",
+            "orgName": "QUAMOTION",
+            "ecContrib": 185281
+        },
+        "999898311": {
+            "orgId": "999898311",
+            "orgName": "UNIVERSIDAD DE MALAGA",
+            "ecContrib": 586094
+        },
+        "999789962": {
+            "orgId": "999789962",
+            "orgName": "DEKRA TESTING AND CERTIFICATION SAU",
+            "ecContrib": 388500
+        },
+        "939097256": {
+            "orgId": "939097256",
+            "orgName": "KEYSIGHT TECHNOLOGIES BELGIUM",
+            "ecContrib": 87500
+        },
+        "961330335": {
+            "orgId": "961330335",
+            "orgName": "REDZINC SERVICES LIMITED",
+            "ecContrib": 263690
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 828250
+        },
+        "939084937": {
+            "orgId": "939084937",
+            "orgName": "KEYSIGHT TECHNOLOGIES DENMARK APS",
+            "ecContrib": 564375
+        }
+    },
+    "calculatedTotalContribution": 2903690
+}

@@ -1,0 +1,38 @@
+{
+    "rcn": "203290",
+    "acronym": "BigData4ATM",
+    "topics": "Sesar-02-2015",
+    "title": "Passenger-centric Big Data Sources for Socio-economic and Behavioural Research in ATM",
+    "startDate": "09/05/2016",
+    "endDate": "08/05/2018",
+    "objective": "The Flightpath 2050 report envisages a passenger-centric air transport system thoroughly integrated with other transport modes, with the goal of taking travellers from door to door predictably and efficiently. However, ATM operations have so far lacked a passenger-oriented perspective, with performance objectives not necessarily taking into account the ultimate consequences for the passenger. There is a lack of understanding of the impact of passengersí behaviour on ATM and vice versa. Research in this area has so far been constrained by the limited availability of behavioural data. The pervasive penetration of smart devices in our daily lives and the emergence of big data analytics open new opportunities to overcome this situation: for the first time, we have large-scale dynamic data allowing us to test hypotheses about travellersí behaviour. The goal of BigData4ATM is to investigate how these data can be analysed and combined with more traditional demographic, economic and air transport databases to extract relevant information about passengersí behaviour and use this information to inform ATM decision making processes. The specific objectives of the project are:\n1. to integrate and analyse multiple sources of passenger-centric spatio-temporal data (mobile phone records, data from geolocation apps, credit card records, etc.) with the aim of eliciting passengersí behavioural patterns;\n2. to develop new theoretical models translating these behavioural patterns into relevant and actionable indicators for the planning and management of the ATM system;\n3. to evaluate the potential applications of the new data sources, data analytics techniques and theoretical models through a number of case studies, including the development of passenger-centric door-to-door delay metrics, the improvement of air traffic forecasting models, the analysis of intra-airport passenger behaviour and its impact on ATM, and the assessment of the socio-economic impact of ATM disruptions.",
+    "totalCost": "599732,5",
+    "ecMaxContribution": "599732,5",
+    "coordinator": "NOMMON SOLUTIONS AND TECHNOLOGIES SL",
+    "coordinatorCountry": "ES",
+    "participants": "INGENIERIA DE SISTEMAS PARA LA DEFENSA DE ESPANA SA-SME MP;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;THE HEBREW UNIVERSITY OF JERUSALEM;UNIVERSITAT DE LES ILLES BALEARS",
+    "participantCountries": "ES;DE;IL",
+    "projectParticipants": {
+        "953371194": {
+            "orgId": "953371194",
+            "orgName": "NOMMON SOLUTIONS AND TECHNOLOGIES SL",
+            "ecContrib": 233188
+        },
+        "999846707": {
+            "orgId": "999846707",
+            "orgName": "UNIVERSITAT DE LES ILLES BALEARS",
+            "ecContrib": 128000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 92578
+        },
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 47375
+        }
+    },
+    "calculatedTotalContribution": 501141
+}

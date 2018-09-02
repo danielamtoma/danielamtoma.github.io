@@ -1,0 +1,23 @@
+{
+    "rcn": "211803",
+    "acronym": "INCOVID",
+    "topics": "ERC-2016-ADG",
+    "title": "Inpainting-based Compression of Visual Data",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Generating huge amounts of visual data, be it images or videos, has never been easier than today. This creates a growing demand for lossy codecs (coders and decoders) that produce visually convincing results also for very high compression rates. Popular transform-based codecs such as JPEG and JPEG 2000 have reached a state where one cannot expect significant improvements anymore. To go beyond their limitations, fundamentally different ideas are needed.\n\nInpainting-based codecs can change this situation. They store only a small, carefully optimised part of the data. In the decoding step, the missing information is filled in with a suitable inpainting mechanism. A successful realisation of inpainting-based codecs can offer decisive advantages over transform-based codecs: The stored information is more intuitive and closer to the mechanisms of human perception. Moreover, the concept is very flexible: It allows to integrate a number of different features and can be tailored towards dedicated applications. Most importantly, the higher the compression rate, the larger are the qualitative advantages over transform-based codecs. \n\nHowever, the potential of these codecs is widely unexplored so far, since difficult fundamental problems must be solved first. This includes optimisation of the data and the inpainting process, sophisticated data coding, and the design of real-time capable sequential and parallel numerical algorithms. We are committed to addressing all these challenges in an integrated approach: \nWe cover the entire spectrum from its theoretical foundations over benchmarking and highly efficient numerical algorithms to codecs  for specific applications, and a real-time 4K video player as demonstrator. \n\nThis will lift inpainting methods from a visually pleasant image editing tool to a fundamental paradigm in coding. Research results that enter forthcoming coding standards will also have an impact on everybody's daily life.",
+    "totalCost": "2460000",
+    "ecMaxContribution": "2460000",
+    "coordinator": "UNIVERSITAT DES SAARLANDES",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999929545": {
+            "orgId": "999929545",
+            "orgName": "UNIVERSITAT DES SAARLANDES",
+            "ecContrib": 2460000
+        }
+    },
+    "calculatedTotalContribution": 2460000
+}

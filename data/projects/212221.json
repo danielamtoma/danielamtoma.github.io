@@ -1,0 +1,48 @@
+{
+    "rcn": "212221",
+    "acronym": "PANTHEON",
+    "topics": "SFS-05-2017",
+    "title": "Precision Farming of Hazelnut Orchards",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2021",
+    "objective": "The goal of PANtHEOn is to develop the agricultural equivalent of an industrial Supervisory Control And Data Acquisition (SCADA) system to be used for the precision farming of large orchards of hazelnut (Corylus avellana L.). By taking advantage of the technological advancements in the fields of robotics, remote sensing and big-data management, our objective is to design an integrated system where a relatively limited number of heterogeneous unmanned robotics components (including terrestrial and aerial robots) move within the orchards to collect data and perform some of the most common farming operations. The information will be stored in a central operative unit that will integrate the data coming from the different robotic units to perform automatic feedback actions (e.g. to regulate the irrigation system) and to support the decisions of agronomists and farmers. \nWe expect that the proposed SCADA system will be able to acquire information at the resolution of the single plant. This will permit to drastically increase the detection of possible limiting factors for each individual plant, such as lack of water or pests and diseases affecting the plant health, and to react accordingly. Compared to the current state of the art in precision farming, we believe that the proposed SCADA infrastructure represents a relevant step ahead in the context of orchards management. In fact, the capability of monitoring the state and the evolution of each single tree will be the enabling-technology to allow more focused interventions. This will result in a better average state of health of the orchard, and in an increased effectiveness of Integrated Pest Managements (IPM). In conclusion, the main advantages of this architecture are:\nï Increase in hazelnut productions\nï Decrease in chemical inputs usage\nï Environmentally-friendly water usage\nï Simplified orchard management\nThe outcome of the project will be validated through a final demo on a real-world (1:1 scale) hazelnut orchard.",
+    "totalCost": "3144452,5",
+    "ecMaxContribution": "3144452,5",
+    "coordinator": "UNIVERSITA DEGLI STUDI ROMA TRE",
+    "coordinatorCountry": "IT",
+    "participants": "SIGMA CONSULTING SRL;FERRERO TRADING LUX SA;UNIVERSITE LIBRE DE BRUXELLES;UNIVERSITAT TRIER;UNIVERSITA DEGLI STUDI DELLA TUSCIA",
+    "participantCountries": "IT;LU;BE;DE",
+    "projectParticipants": {
+        "999896371": {
+            "orgId": "999896371",
+            "orgName": "UNIVERSITA DEGLI STUDI DELLA TUSCIA",
+            "ecContrib": 452525
+        },
+        "999986290": {
+            "orgId": "999986290",
+            "orgName": "UNIVERSITE LIBRE DE BRUXELLES",
+            "ecContrib": 515750
+        },
+        "941486560": {
+            "orgId": "941486560",
+            "orgName": "SIGMA CONSULTING SRL",
+            "ecContrib": 358675
+        },
+        "999866107": {
+            "orgId": "999866107",
+            "orgName": "UNIVERSITA DEGLI STUDI ROMA TRE",
+            "ecContrib": 960894
+        },
+        "999863682": {
+            "orgId": "999863682",
+            "orgName": "UNIVERSITAT TRIER",
+            "ecContrib": 684109
+        },
+        "914143715": {
+            "orgId": "914143715",
+            "orgName": "FERRERO TRADING LUX SA",
+            "ecContrib": 172500
+        }
+    },
+    "calculatedTotalContribution": 3144453
+}

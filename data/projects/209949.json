@@ -1,0 +1,143 @@
+{
+    "rcn": "209949",
+    "acronym": "ROBORDER",
+    "topics": "SEC-20-BES-2016",
+    "title": "autonomous swarm of heterogeneous RObots for BORDER surveillance",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "Border authorities and Law Enforcement Agencies (LEAs) across Europe face important challenges in how they patrol and protect the borders. Their work becomes more problematic considering the heterogeneity of threats, the wideness of the surveyed area, the adverse weather conditions and the wide range of terrains. Although there are several research tools and works targeting these areas independently for border surveillance, nowadays border authorities do not have access to an intelligent holistic solution providing all aforementioned functionalities.\nTowards delivering such a solution, ROBORDER aims at developing and demonstrating a fully-functional autonomous border surveillance system with unmanned mobile robots including aerial, water surface, underwater and ground vehicles, capable of functioning both as standalone and in swarms, which will incorporate multimodal sensors as part of an interoperable network. The system will be equipped with adaptable sensing and robotic technologies that can operate in a wide range of operational and environmental settings. To provide a complete and detailed situational awareness picture that supports highly efficient operations, the network of sensors will include static networked sensors such as border surveillance radars, as well as mobile sensors customised and installed on board unmanned vehicles. \nTo succeed implementing an operational solution, a number of supplementary technologies will also be applied that will enable the establishment of robust communication links between the command and control unit and the heterogeneous robots. On top of this, detection capabilities for early identification of criminal activities and hazardous incidents will be developed. This information will be forwarded to the command and control unit that will enable the integration of large volumes of heterogeneous sensor data and the provision of a quick overview of the situation at a glance to the operators, supporting them in their decisions.",
+    "totalCost": "8997781,5",
+    "ecMaxContribution": "7999315,82",
+    "coordinator": "TEKEVER II AUTONOMOUS SYSTEMS LDA",
+    "coordinatorCountry": "PT",
+    "participants": "SERVICIUL DE PROTECTIE SI PAZA;INSPECTORATUL GENERAL AL POLITIEI DE FRONTIERA;ROBOTNIK AUTOMATION SLL;CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;EVERIS SPAIN SL;ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON;Teknologian tutkimuskeskus VTT Oy;INSTITUT PO OTBRANA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;AUTORITA DI SISTEMA PORTUALE DEL MAR TIRRENO SETTENTRIONALE;OCEANSCAN - MARINE SYSTEMS & TECHNOLOGY LDA;NATO SCIENCE AND TECHNOLOGY ORGANISATION;MinistÈrio da JustiÁa;COPTING GMBH;SISEKAITSEAKADEEMIA;SHEFFIELD HALLAM UNIVERSITY;MINISTERIO DA ADMINISTRACAO INTERNA;Police Service of Northern Ireland;MINISTRY OF NATIONAL DEFENCE, GREECE;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI;ELETTRONICA GMBH;CAPRITECH LIMITED;ORSZAGOS RENDOR - FOKAPITANYSAG",
+    "participantCountries": "RO;ES;CH;EL;FI;BG;DE;IT;PT;BE;EE;UK;HU",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 442125
+        },
+        "992175947": {
+            "orgId": "992175947",
+            "orgName": "AUTORITA DI SISTEMA PORTUALE DEL MAR TIRRENO SETTENTRIONALE",
+            "ecContrib": 137500
+        },
+        "999833709": {
+            "orgId": "999833709",
+            "orgName": "MINISTERIO DA ADMINISTRACAO INTERNA",
+            "ecContrib": 171850
+        },
+        "920361221": {
+            "orgId": "920361221",
+            "orgName": "COPTING GMBH",
+            "ecContrib": 222798
+        },
+        "999842148": {
+            "orgId": "999842148",
+            "orgName": "SHEFFIELD HALLAM UNIVERSITY",
+            "ecContrib": 473375
+        },
+        "937433609": {
+            "orgId": "937433609",
+            "orgName": "SERVICIUL DE PROTECTIE SI PAZA",
+            "ecContrib": 143750
+        },
+        "998018645": {
+            "orgId": "998018645",
+            "orgName": "ROBOTNIK AUTOMATION SLL",
+            "ecContrib": 265603
+        },
+        "959180427": {
+            "orgId": "959180427",
+            "orgName": "SISEKAITSEAKADEEMIA",
+            "ecContrib": 130812
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 418750
+        },
+        "999938081": {
+            "orgId": "999938081",
+            "orgName": "EVERIS SPAIN SL",
+            "ecContrib": 371090
+        },
+        "945958260": {
+            "orgId": "945958260",
+            "orgName": "ORSZAGOS RENDOR - FOKAPITANYSAG",
+            "ecContrib": 270000
+        },
+        "951519755": {
+            "orgId": "951519755",
+            "orgName": "NATO SCIENCE AND TECHNOLOGY ORGANISATION",
+            "ecContrib": 462414
+        },
+        "998058415": {
+            "orgId": "998058415",
+            "orgName": "Police Service of Northern Ireland",
+            "ecContrib": 217500
+        },
+        "999580830": {
+            "orgId": "999580830",
+            "orgName": "OCEANSCAN - MARINE SYSTEMS & TECHNOLOGY LDA",
+            "ecContrib": 120550
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 571812
+        },
+        "999611385": {
+            "orgId": "999611385",
+            "orgName": "MINISTRY OF NATIONAL DEFENCE, GREECE",
+            "ecContrib": 303750
+        },
+        "958744412": {
+            "orgId": "958744412",
+            "orgName": "TEKEVER II AUTONOMOUS SYSTEMS LDA",
+            "ecContrib": 662625
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 484660
+        },
+        "958304323": {
+            "orgId": "958304323",
+            "orgName": "INSTITUT PO OTBRANA",
+            "ecContrib": 217500
+        },
+        "983734231": {
+            "orgId": "983734231",
+            "orgName": "Ministério da Justiça",
+            "ecContrib": 88500
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 673750
+        },
+        "927024733": {
+            "orgId": "927024733",
+            "orgName": "CAPRITECH LIMITED",
+            "ecContrib": 255125
+        },
+        "952213790": {
+            "orgId": "952213790",
+            "orgName": "INSPECTORATUL GENERAL AL POLITIEI DE FRONTIERA",
+            "ecContrib": 72500
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 389014
+        },
+        "942436966": {
+            "orgId": "942436966",
+            "orgName": "ELETTRONICA GMBH",
+            "ecContrib": 431962
+        }
+    },
+    "calculatedTotalContribution": 7999315
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "209797",
+    "acronym": "NucLoc",
+    "topics": "MSCA-IF-2016",
+    "title": "RNA localization in bacteria",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2020",
+    "objective": "In eukaryotic cells mRNAs can be localized to specific places within a cell to achieve protein synthesis with spatiotemporal control. Recently, I and others have shown that prokaryotes can also target mRNAs to specific parts of the cell. However, these studies have been restricted to a limited number of mRNAs and were performed with Gram-negative bacteria, and due to the serendipitous nature of these discoveries and conflicting results, it is not clear how widespread mRNA localization is in a bacterial cell and what conserved mechanisms are playing a role. To investigate this, I will first employ a novel CLIP-seq-inspired deep-sequencing-based approach to gain an unbiased view of mRNAs enriched at the cell periphery and cell poles of the Gram-positive model bacterium Bacillus subtilis. This dataset will reveal the scope of mRNA targeting by the Signal Recognition Particle (SRP) and will reveal mRNAs that use another mechanism for cellular targeting. In addition, classic CLIP-seq experiments will be used to identify mRNAs that use the cytoskeleton and other morphological proteins for targeting. As a complementary approach, I will assess the localization of mRNAs coding for different classes of localized proteins (polar, cell division, cytoskeletal, membrane, secreted, motility, nucleoid and chaperone proteins) using the established fluorescence in situ hybridization (FISH) technique. Information obtained from these experiments will subsequently be used to investigate the role of protein translation, RNA sequences, genome location and cell morphology in mRNA localization, to gain functional insight into the mechanisms responsible for this basic morphogenetic process.",
+    "totalCost": "165598,8",
+    "ecMaxContribution": "165598,8",
+    "coordinator": "UNIVERSITEIT VAN AMSTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 165599
+        }
+    },
+    "calculatedTotalContribution": 165599
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "211316",
+    "acronym": "ROCKY",
+    "topics": "ERC-2016-ADG",
+    "title": "Forests and Trees: the Formal Semantics of Collective Categorization",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2022",
+    "objective": "Languages have various ways of referring to collections like families, herds and forests. The grammatical properties of collective expressions critically determine how we understand them. The sentences ìthis forest is oldî and ìthese trees are oldî categorize an arboreal collection using a concept (ìoldî), while conveying different meanings. This semantic difference correlates with the difference in grammatical number between the sentences: singular vs. plural. Such effects of collective categorization in language are crucial for understanding the connections between grammar and the mind, as well as for artificial intelligence. However, currently little is known about the mechanisms underlying our linguistic ability to conceptualize collections. This project aims to develop a novel linguistic theory of this ability, applied to a wide range of empirical phenomena and interdisciplinary challenges in computational semantics and comparative linguistics, benefiting from the recent synergy between linguistics and the psychology of concepts. The idea is that when classifying a collection, speakers rely on two inferential principles with mental concepts: (i) geometric inferences: a forest is considered ìfar awayî if all of its trees are far; (ii) symmetric inferences: two trees are ìsimilarî if each of them is similar to the other. The leading hypothesis is that uniform interactions between these inferential principles and the grammar of collective expressions account for collective categorization in language. This hypothesis is explored in three work packages, each of which develops the semantic theory and evaluates it on a different interdisciplinary domain: human interaction with geographic information systems, behavioral linguistic experiments, and comparative linguistics. Together, the three components of the project are expected to lead to a theoretical breakthrough in semantic theory and to enrich its interdisciplinary connections with neighboring disciplines.",
+    "totalCost": "2494278,75",
+    "ecMaxContribution": "2494278,75",
+    "coordinator": "UNIVERSITEIT UTRECHT",
+    "coordinatorCountry": "NL",
+    "participants": "CITY UNIVERSITY OF LONDON",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999842730": {
+            "orgId": "999842730",
+            "orgName": "CITY UNIVERSITY OF LONDON",
+            "ecContrib": 151404
+        },
+        "999985805": {
+            "orgId": "999985805",
+            "orgName": "UNIVERSITEIT UTRECHT",
+            "ecContrib": 2342875
+        }
+    },
+    "calculatedTotalContribution": 2494279
+}

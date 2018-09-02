@@ -1,0 +1,23 @@
+{
+    "rcn": "193661",
+    "acronym": "InfoInt",
+    "topics": "ERC-StG-2014",
+    "title": "An Information Theory of Simple Interaction",
+    "startDate": "01/03/2015",
+    "endDate": "29/02/2020",
+    "objective": "Motivated by our recent progress in feedback information theory and its deep relations to stochastic dynamical systems, and inspired by natural phenomena such as bio-molecular interactions and human conversation, this research will explore the fundamental limits of information transfer via simple interaction. In the standard information theoretic framework, the problem of reliable communications is typically studied in an asymptotic unidirectional regime, where optimal performance is attained via complex codes employed over increasingly long time epochs. Here, we will investigate a markedly different paradigm where communicating parties are restricted to use simple finite-state rules to act and react on the fly. We will consider a broad spectrum of models ranging from feedback communications and two-way channels to multiuser setups and large homogeneous networks, and study measures of information transfer and dissipation, their relations to dynamical system contraction factors, and the fundamental tradeoffs between complexity and performance. While prominently theoretic, our investigation is expected to admit important practical applications and a cross-disciplinary impact. In communications, and especially in resource-limited systems such as wireless sensor networks where battery-life is a bottleneck, a breakthrough in the understanding of optimal interaction can lead to a paradigm shift in system design, yielding simpler, cheaper, more robust solutions. In Finance, where market behavior is a cumulative effect of local actions taken by individuals based on limited noisy observations, quantifying interaction and its relation to information propagation can enhance our ability to forecast and explain macro level phenomena. Finally, an information theoretic characterization of interaction in large networks can shed light on the underlying mechanisms governing various biological systems that are empirically amenable to cellular automata modeling.",
+    "totalCost": "1323875",
+    "ecMaxContribution": "1323875",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1323875
+        }
+    },
+    "calculatedTotalContribution": 1323875
+}

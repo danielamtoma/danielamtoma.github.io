@@ -1,0 +1,58 @@
+{
+    "rcn": "211914",
+    "acronym": "COSY-BIO",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "Control Engineering of Biological Systems for Reliable Synthetic Biology Applications",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2020",
+    "objective": "Synthetic Biology aims at rational engineering of living organisms to improve human well-being and environmental sustainability, thus promising a paradigm shift in human technology. Its full potential has not been achieved yet because of the complexity of engineering biological systems where basic biological parts are intrinsically noisy and not modular. The overarching goal of COSY-BIO is to develop a theoretical framework and innovative technological tools to engineer reliable biological systems that are robust despite their individual components being not by translating principles of control engineering to molecular and cell biology. Automatic control is a well-established engineering discipline to build ìcontrollersî to steer the dynamic behaviour of a physical system in a desired fashion. By building upon control engineering for physical systems and by exploiting the unique features of living organisms, this project will identify generally applicable approaches to design closed-loop feedback controllers for biological systems. To handle biological complexity, the project will explore three strategies of increasing difficulty ìexternalî controllers, ìembeddedî controllers and ìmulti-cellularî controllers. External controllers will be implemented in a computer acting on cells using small molecules via microfluidics devices. Embedded controllers will be made from biological parts and integrated within individual cells to steer their behaviour. Multicellular controllers envisage two cell populations, one made up of cells with embedded controllers (controller cells) and the other will be the controlled population (target cells). In addition, a rapid prototyping platform will enable to speed up the design-build-test cycles by means of optimal experimental design, microfluidics and cell-free systems. Proof-of-principles demonstrations in bacteria and yeast with relevance to biotechnology will be tackled to prove the usefulness of this revolutionary technology.",
+    "totalCost": "2996856,25",
+    "ecMaxContribution": "2975345",
+    "coordinator": "FONDAZIONE TELETHON",
+    "coordinatorCountry": "IT",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;UNIVERSITE PARIS DIDEROT - PARIS 7;IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;UNIVERSITY OF BRISTOL;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "FR;UK;IT;CH",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 568348
+        },
+        "999976590": {
+            "orgId": "999976590",
+            "orgName": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+            "ecContrib": 255500
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 400000
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 398526
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 298196
+        },
+        "999865525": {
+            "orgId": "999865525",
+            "orgName": "UNIVERSITE PARIS DIDEROT - PARIS 7",
+            "ecContrib": 248900
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 250000
+        },
+        "999448716": {
+            "orgId": "999448716",
+            "orgName": "FONDAZIONE TELETHON",
+            "ecContrib": 555875
+        }
+    },
+    "calculatedTotalContribution": 2975345
+}

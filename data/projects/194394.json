@@ -1,0 +1,63 @@
+{
+    "rcn": "194394",
+    "acronym": "OpenBudgets.eu",
+    "topics": "INSO-1-2014",
+    "title": "Financial Transparency Platform for the Public Sector",
+    "startDate": "01/05/2015",
+    "endDate": "31/10/2017",
+    "objective": "OpenBudgets.eu will provide an open-source software framework and accompanying Software-As-A-Service (SAAS) platform for supporting financial transparency, thus enhancing accountability within public sectors, and as a result preventing corruption. A key challenge addressed by OpenBudgets.eu is to provide a multi-stakeholder framework which is scalable, easy-to-use, flexible and attractive. The core objectives of OpenBudgets.eu project are:\n* A semantic data model, which will be used to integrate all relevant budget and transaction data, giving a pre-defined structure to the input data. This will enable the integration of data from different public sectors at different levels. This integration can then be exploited by comparing different datasets.\n* A library of visualisation tools with a user-friendly interface, which will enable stakeholders to visualise available data in different granularity and in different modalities (spatial, temporal, administrative). These tools will enable the scrutiny of data under different lenses, enabling stakeholders to explore any relevant budget allocation. \n* A library of data mining and comparative analysis tools. This library will enable the aggregation of existing data in order to obtain new outcomes and discover trends and patterns, and potentially forecasting budget measures. \n* A feedback and citizen engagement interface which enables users to discuss and give feed-back on the provided data, for example, suggesting different priorities for budgeting, or discussing a particular transaction.\nThe OpenBudgets.eu open-source framework and portal will integrate these components into a comprehensive portal. The framework will be deployed as a software-as-a-service for thousands of public administrations and millions of citizens.\nWe will apply the project concept to three large-scale pilot scenarios in the domains participatory budgeting, data journalism and corruption prevention.",
+    "totalCost": "3056208,5",
+    "ecMaxContribution": "2981000",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "OPEN KNOWLEDGE FOUNDATION GREECE;OPEN KNOWLEDGE FOUNDATION DEUTSCHLAND;FUNDACION CIUDADANA CIVIO;JOURNALISM++;OPEN KNOWLEDGE FOUNDATION LBG;RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN;TRANSPARENCY INTERNATIONAL LIAISON OFFICE TO THE EUROPEAN UNION AISBL;VYSOKA SKOLA EKONOMICKA V PRAZE",
+    "participantCountries": "EL;DE;ES;FR;UK;BE;CZ",
+    "projectParticipants": {
+        "947069492": {
+            "orgId": "947069492",
+            "orgName": "OPEN KNOWLEDGE FOUNDATION GREECE",
+            "ecContrib": 402430
+        },
+        "985784326": {
+            "orgId": "985784326",
+            "orgName": "OPEN KNOWLEDGE FOUNDATION LBG",
+            "ecContrib": 235508
+        },
+        "999980276": {
+            "orgId": "999980276",
+            "orgName": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+            "ecContrib": 355502
+        },
+        "953414553": {
+            "orgId": "953414553",
+            "orgName": "FUNDACION CIUDADANA CIVIO",
+            "ecContrib": 136922
+        },
+        "957202112": {
+            "orgId": "957202112",
+            "orgName": "TRANSPARENCY INTERNATIONAL LIAISON OFFICE TO THE EUROPEAN UNION AISBL",
+            "ecContrib": 154438
+        },
+        "998733341": {
+            "orgId": "998733341",
+            "orgName": "VYSOKA SKOLA EKONOMICKA V PRAZE",
+            "ecContrib": 295755
+        },
+        "953580132": {
+            "orgId": "953580132",
+            "orgName": "OPEN KNOWLEDGE FOUNDATION DEUTSCHLAND",
+            "ecContrib": 431487
+        },
+        "951590371": {
+            "orgId": "951590371",
+            "orgName": "JOURNALISM++",
+            "ecContrib": 175486
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 793471
+        }
+    },
+    "calculatedTotalContribution": 2980999
+}

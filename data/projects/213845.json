@@ -1,0 +1,23 @@
+{
+    "rcn": "213845",
+    "acronym": "HA-HA",
+    "topics": "MSCA-IF-2017",
+    "title": "LAUGHTER IN CONVERSATION: ENHANCING THE NATURALNESS OF DIALOGUE SYSTEMS",
+    "startDate": "01/11/2018",
+    "endDate": "31/10/2020",
+    "objective": "With the wide-scale adoption of speech-based applications, the research community has started focusing on ways to improve naturalness and expressiveness of human-machine interactions. Among the directions pursued, the study of paralinguistic phenomena in conversation plays an important role. This project proposes to investigate conversational laughter, both from a fundamental research perspective as well as from an application viewpoint. The addressed research question concerns the context in which social laughter occurs, in particular the use of acoustic-prosodic cues in marking it. The findings of this investigation will directly feed into a spoken dialogue system, with the aim of increasing its perceived naturalness. In a first step, phrase- and turn-level analyses will be performed to identify the range of cues used by speakers to mark the use of laughter in conversation. Next, state-of-the-art signal processing methods combined with prosodic information will be used to automatically detect and segment laughter. This will allow the analysis of a larger number of conversational corpora which would, in turn, improve the generalizability of the results. Finally, a laughter-enhanced dialogue system will be implemented and its naturalness will be tested through perception experiments. It is expected that the laughter-enhanced system will be perceived more natural and that documented gender differences found in the production of laughter will be found also in its perception.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "UNIVERSITAET BIELEFELD",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999854370": {
+            "orgId": "999854370",
+            "orgName": "UNIVERSITAET BIELEFELD",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

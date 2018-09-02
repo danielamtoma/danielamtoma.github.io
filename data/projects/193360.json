@@ -1,0 +1,288 @@
+{
+    "rcn": "193360",
+    "acronym": "IN2RAIL",
+    "topics": "MG-2.1-2014",
+    "title": "Innovative Intelligent Rail",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "IN2RAIL is to set the foundations for a resilient, consistent, cost-efficient, high capacity European network by delivering important building blocks that unlock the innovation potential that exists in SHIFT2RAIL: innovative technologies will be explored and resulting concepts embedded in a systems framework where infrastructure, information management, maintenance techniques, energy, and engineering are integrated, optimised, shared and exploited.  \nIN2RAIL will make advances towards SHIFT2RAIL objectives: enhancing the existing capacity fulfilling user demand; increasing the reliability delivering better and consistent quality of service; reducing the LCC increasing competitiveness of the EU rail system.\nTo achieve the above, a holistic approach covering Smart Infrastructures, Intelligent Mobility Management (I2M)and Rail Power Supply and Energy Management will be applied.\nSmart Infrastructure addresses the fundamental design of critical assets - switches and crossings and tracks. It will research components capable of meeting future railway demands and will utilise modern technologies in the process. Risk and condition-based LEAN approaches to optimise RAMS and LCC in asset maintenance activities will be created to tackle the root causes of degradation.\nI2M researches automated, interoperable and inter-connected advanced traffic management systems; scalable and upgradable systems, utilising standardised products and interfaces, enabling easy migration from legacy systems; the wealth of data and information on assets and traffic status; information management systems adding the capability of nowcasting and forecasting of critical asset statuses.\nRail Power Supply and Energy Management create solutions to improve the energy performance of the railway system. Research on new power systems characterised by reduced losses and capable of balancing energy demands, along with innovative energy management systems enabling accurate and precise estimates of energy flows.",
+    "totalCost": "17998546",
+    "ecMaxContribution": "17998546",
+    "coordinator": "NETWORK RAIL INFRASTRUCTURE LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "LULEA TEKNISKA UNIVERSITET;INGENIERIA Y ECONOMIA DEL TRANSPORTE SME MP SA;EVOLEO TECHNOLOGIES LDA;DOTVISION;ANSALDO STS S.p.A.;RETE FERROVIARIA ITALIANA;FCC CONSTRUCCION SA;DEUTSCHE BAHN AG;SYSTRA SA;UNION DES INDUSTRIES FERROVIAIRES EUROPEENNES - UNIFE;BOMBARDIER TRANSPORTATION SWEDEN AB;SNCF MOBILITES;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;THALES COMMUNICATIONS & SECURITY SAS;TRAFIKVERKET - TRV;THE UNIVERSITY OF BIRMINGHAM;SYGNITY SPOLKA AKCYJNA;RINA CONSULTING SPA;COMSA INSTALACIONES Y SISTEMAS INDUSTRIALES SA;EUROPEAN FEDERATION OF RAILWAYS TRACKWORKS CONTRACTORS;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;NEELOGY;Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH;INDRA SISTEMAS SA;EMBEDDED RAIL TECHNOLOGY LTD;VOSSLOH COGIFER SA;IZT INSTITUT FUER ZUKUNFTSSTUDIEN UND TECHNOLOGIEBEWERTUNG GEMEINNUTZIGE GMBH;GRIDNET S.A.;HACON INGENIEURGESELLSCHAFT MBH;UNIVERSITY OF SOUTHAMPTON;MER MEC SPA;STRUKTON RAIL BV;LOUGHBOROUGH UNIVERSITY;POLITECNICO DI MILANO;THE UNIVERSITY OF NOTTINGHAM;UNIVERSIDADE DO PORTO;UNIVERSITY OF BRISTOL;CAF SIGNALLING S.L;INSTITUT DE RECHERCHE TECHNOLOGIQUE SYSTEMX;3DELING SP ZOO;THE UNIVERSITY OF HUDDERSFIELD;ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS;TATA STEEL FRANCE RAIL SA;UNIVERSITA DEGLI STUDI DI GENOVA;OBB-Infrastruktur  AG;RAILENIUM;AZD PRAHA SRO;ACCIONA CONSTRUCCION SA;ALSTOM TRANSPORT SA;SIEMENS AKTIENGESELLSCHAFT;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "SE;ES;PT;FR;IT;DE;BE;UK;PL;LU;AT;EL;NL;CZ",
+    "projectParticipants": {
+        "949404961": {
+            "orgId": "949404961",
+            "orgName": "RAILENIUM",
+            "ecContrib": 239844
+        },
+        "999434360": {
+            "orgId": "999434360",
+            "orgName": "RETE FERROVIARIA ITALIANA",
+            "ecContrib": 347938
+        },
+        "999951467": {
+            "orgId": "999951467",
+            "orgName": "RINA CONSULTING SPA",
+            "ecContrib": 699250
+        },
+        "997904185": {
+            "orgId": "997904185",
+            "orgName": "OBB-Infrastruktur  AG",
+            "ecContrib": 194181
+        },
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 164120
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 502156
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 136288
+        },
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 69896
+        },
+        "999452208": {
+            "orgId": "999452208",
+            "orgName": "THE UNIVERSITY OF HUDDERSFIELD",
+            "ecContrib": 360285
+        },
+        "999941767": {
+            "orgId": "999941767",
+            "orgName": "SNCF MOBILITES",
+            "ecContrib": 676224
+        },
+        "949729135": {
+            "orgId": "949729135",
+            "orgName": "INSTITUT DE RECHERCHE TECHNOLOGIQUE SYSTEMX",
+            "ecContrib": 240000
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 326294
+        },
+        "984295764": {
+            "orgId": "984295764",
+            "orgName": "TRAFIKVERKET - TRV",
+            "ecContrib": 951403
+        },
+        "952875330": {
+            "orgId": "952875330",
+            "orgName": "SYSTRA SA",
+            "ecContrib": 284984
+        },
+        "999812854": {
+            "orgId": "999812854",
+            "orgName": "ACCIONA CONSTRUCCION SA",
+            "ecContrib": 152469
+        },
+        "999537568": {
+            "orgId": "999537568",
+            "orgName": "INGENIERIA Y ECONOMIA DEL TRANSPORTE SME MP SA",
+            "ecContrib": 22015
+        },
+        "937584250": {
+            "orgId": "937584250",
+            "orgName": "3DELING SP ZOO",
+            "ecContrib": 50000
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 68000
+        },
+        "998801047": {
+            "orgId": "998801047",
+            "orgName": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS",
+            "ecContrib": 400000
+        },
+        "989447822": {
+            "orgId": "989447822",
+            "orgName": "MER MEC SPA",
+            "ecContrib": 387781
+        },
+        "999876874": {
+            "orgId": "999876874",
+            "orgName": "LULEA TEKNISKA UNIVERSITET",
+            "ecContrib": 404172
+        },
+        "999804900": {
+            "orgId": "999804900",
+            "orgName": "ALSTOM TRANSPORT SA",
+            "ecContrib": 390200
+        },
+        "997592524": {
+            "orgId": "997592524",
+            "orgName": "HACON INGENIEURGESELLSCHAFT MBH",
+            "ecContrib": 666578
+        },
+        "986281548": {
+            "orgId": "986281548",
+            "orgName": "VOSSLOH COGIFER SA",
+            "ecContrib": 140000
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 375312
+        },
+        "966858462": {
+            "orgId": "966858462",
+            "orgName": "EVOLEO TECHNOLOGIES LDA",
+            "ecContrib": 60156
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 200000
+        },
+        "937257457": {
+            "orgId": "937257457",
+            "orgName": "DOTVISION",
+            "ecContrib": 189431
+        },
+        "974670454": {
+            "orgId": "974670454",
+            "orgName": "CAF SIGNALLING S.L",
+            "ecContrib": 205168
+        },
+        "999976687": {
+            "orgId": "999976687",
+            "orgName": "UNIVERSITA DEGLI STUDI DI GENOVA",
+            "ecContrib": 186500
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 289688
+        },
+        "939276803": {
+            "orgId": "939276803",
+            "orgName": "TATA STEEL FRANCE RAIL SA",
+            "ecContrib": 41529
+        },
+        "990672059": {
+            "orgId": "990672059",
+            "orgName": "SYGNITY SPOLKA AKCYJNA",
+            "ecContrib": 50000
+        },
+        "997885852": {
+            "orgId": "997885852",
+            "orgName": "Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH",
+            "ecContrib": 96281
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 199862
+        },
+        "999894916": {
+            "orgId": "999894916",
+            "orgName": "UNIVERSIDADE DO PORTO",
+            "ecContrib": 60062
+        },
+        "999990752": {
+            "orgId": "999990752",
+            "orgName": "LOUGHBOROUGH UNIVERSITY",
+            "ecContrib": 164784
+        },
+        "983344388": {
+            "orgId": "983344388",
+            "orgName": "NEELOGY",
+            "ecContrib": 191252
+        },
+        "999743596": {
+            "orgId": "999743596",
+            "orgName": "IZT INSTITUT FUER ZUKUNFTSSTUDIEN UND TECHNOLOGIEBEWERTUNG GEMEINNUTZIGE GMBH",
+            "ecContrib": 250000
+        },
+        "999987260": {
+            "orgId": "999987260",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT",
+            "ecContrib": 1499938
+        },
+        "942811386": {
+            "orgId": "942811386",
+            "orgName": "GRIDNET S.A.",
+            "ecContrib": 100000
+        },
+        "998801823": {
+            "orgId": "998801823",
+            "orgName": "ANSALDO STS S.p.A.",
+            "ecContrib": 1226546
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 92125
+        },
+        "996642991": {
+            "orgId": "996642991",
+            "orgName": "EUROPEAN FEDERATION OF RAILWAYS TRACKWORKS CONTRACTORS",
+            "ecContrib": 62812
+        },
+        "999920233": {
+            "orgId": "999920233",
+            "orgName": "UNION DES INDUSTRIES FERROVIAIRES EUROPEENNES - UNIFE",
+            "ecContrib": 188438
+        },
+        "951956740": {
+            "orgId": "951956740",
+            "orgName": "COMSA INSTALACIONES Y SISTEMAS INDUSTRIALES SA",
+            "ecContrib": 380250
+        },
+        "972975961": {
+            "orgId": "972975961",
+            "orgName": "FCC CONSTRUCCION SA",
+            "ecContrib": 226997
+        },
+        "986463035": {
+            "orgId": "986463035",
+            "orgName": "STRUKTON RAIL BV",
+            "ecContrib": 413706
+        },
+        "974564433": {
+            "orgId": "974564433",
+            "orgName": "BOMBARDIER TRANSPORTATION SWEDEN AB",
+            "ecContrib": 618581
+        },
+        "999966793": {
+            "orgId": "999966793",
+            "orgName": "DEUTSCHE BAHN AG",
+            "ecContrib": 492000
+        },
+        "998746339": {
+            "orgId": "998746339",
+            "orgName": "AZD PRAHA SRO",
+            "ecContrib": 150000
+        },
+        "942069142": {
+            "orgId": "942069142",
+            "orgName": "EMBEDDED RAIL TECHNOLOGY LTD",
+            "ecContrib": 276125
+        },
+        "999540963": {
+            "orgId": "999540963",
+            "orgName": "NETWORK RAIL INFRASTRUCTURE LIMITED",
+            "ecContrib": 1433022
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 403902
+        }
+    },
+    "calculatedTotalContribution": 17998545
+}

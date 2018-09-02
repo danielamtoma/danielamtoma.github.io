@@ -1,0 +1,23 @@
+{
+    "rcn": "208288",
+    "acronym": "Waterscales",
+    "topics": "ERC-2016-STG",
+    "title": "Mathematical and computational foundations for modeling cerebral fluid flow.",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2022",
+    "objective": "Your brain has its own waterscape: whether you are reading or sleeping, fluid flows through the brain tissue and clears waste in the process. These physiological processes are crucial for the well-being of the brain. In spite of their importance we understand them but little. Mathematics and numerics could play a crucial role in gaining new insight. Indeed, medical doctors express an urgent need for multiscale modeling of water transport through the brain, to overcome limitations in traditional techniques. Surprisingly little attention has been paid to the numerics of the brain's waterscape however, and fundamental knowledge is missing.\n\nIn response, the Waterscales ambition is to establish the mathematical and computational foundations for predictively modeling fluid flow and solute transport through the brain across scales -- from the cellular to the organ level. The project aims to bridge multiscale fluid mechanics and cellular electrophysiology to pioneer new families of mathematical models that couple macroscale, mesoscale and microscale flow with glial cell dynamics. For these models, we will design numerical discretizations that preserve key properties and that allow for whole organ simulations. To evaluate predictability, we will develop a new computational platform for model adaptivity and calibration. The project is multidisciplinary combining mathematics, mechanics, scientific computing, and physiology.\n\nIf successful, this project enables the first in silico studies of the brain's waterscape across scales. The new models would open up a new research field within computational neuroscience with ample opportunities for further mathematical and more applied study. The processes at hand are associated with neurodegenerative diseases e.g. dementia and with brain swelling caused by e.g. stroke. The Waterscales project will provide the field with a sorely needed, new avenue of investigation to understand these conditions, with tremendous long-term impact.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "SIMULA RESEARCH LABORATORY AS",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "995915976": {
+            "orgId": "995915976",
+            "orgName": "SIMULA RESEARCH LABORATORY AS",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

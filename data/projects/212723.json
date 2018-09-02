@@ -1,0 +1,23 @@
+{
+    "rcn": "212723",
+    "acronym": "FUN-NOTCH",
+    "topics": "ERC-2017-STG",
+    "title": "Fundamentals of the Nonlinear Optical Channel",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Fibre optics are critical infrastructure for society because they carry nearly all the global Internet traffic. For a long time, optical fibre systems were thought to have infinite information-carrying capabilities. With current traffic demands growing by a factor between 10 and 100 every decade, however, this is no longer the case. In fact, it is currently unknown if the installed optical infrastructure will manage to cope with these demands in the future, or if we will face the so-called 'capacity crunch'.\n\nTo satisfy traffic demands, transceivers are being operated near the nonlinear regime of the fibres. In this regime, a power-dependent nonlinear phenomenon known as the Kerr effect becomes the key impairment that limits the information-carrying capability of optical fibres. The intrinsic nonlinear nature of these fibres makes the analysis very difficult and has led to a series of unanswered fundamental questions about data transmission in nonlinear optical fibres, and nonlinear media in general. For example, the maximum amount of information that optical fibres can carry in the highly nonlinear regime is still unknown, and the design of transceivers well-suited for this regime is also completely unexplored.\n\nIn this project, the PI will answer these fundamental questions by studying the simplest nontrivial building blocks underlying optical fibres, and will give a definitive answer to the capacity crunch question. The PI will use a systematic methodology that aims at embracing nonlinear effects, consider the continuous-time channel as the correct starting point for analysis, and redesign optical transceivers from scratch, lifting all linear assumptions. The proposed methodology is in sharp contrast with current research trends, which aim at mitigating nonlinearities, and consider discrete-time models in the linear regime. Due to the central role of information transmission in modern society, the results in this project will have broad societal impact.",
+    "totalCost": "1497982",
+    "ecMaxContribution": "1497982",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 1497982
+        }
+    },
+    "calculatedTotalContribution": 1497982
+}

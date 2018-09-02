@@ -1,0 +1,23 @@
+{
+    "rcn": "209497",
+    "acronym": "SUBDECODE",
+    "topics": "ERC-2016-COG",
+    "title": "Dendritic encoding of movement in space",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2022",
+    "objective": "Understanding the neuronal basis of behaviour is a central quest for neuroscience. Neurons are the fundamental units of computation in the brain. Thus, any attempt at unravelling the relationship of neural networks activity and behaviour must be based on an understanding of the transformation of inputs to outputs in single neurons. One of the greatest challenges that our field faces is to make sense of inputs. Without knowing how different synaptic inputs are engaged during behaviour, it is impossible to decode the neuronal input to output conversion. We have developed an approach that allows both the dissection of inputs and the prediction of output during behaviour. We will apply this functional decoding approach to pyramidal neurons in the dorsal subiculum. These neurons form a hippocampal-neocortical interface and are important for memory-guided navigation. The output of subicular neurons contains a dense, distributed representation of space, but the functional input diversity is unresolved. Following the generation of a spatial tuning map during navigational tasks with two-photon Ca2\\ imaging at cellular-resolution, we will map the input origins of individual neurons by using targeted single-cell initiated mono-transsynaptic tracing. Then, we will dissect the function of the input from different origins by chemogenetic silencing of input synapses. As a central component of the project, we will map dendritic input patterns in navigating mice with two-photon imaging of Ca2\\ transients on dendritic spines. These patterns will be incorporated into a data-driven biophysical model capable of converting realistic synaptic inputs into output. We will tune the model parameters using whole-cell patch-clamp recordings during free behaviour. The final models will be capable of predicting the membrane potential of subicular neurons from precise behavioural observations, offering exciting new perspectives for network analysis and neuroengineering.",
+    "totalCost": "1806068",
+    "ecMaxContribution": "1806068",
+    "coordinator": "DEUTSCHES ZENTRUM FUR NEURODEGENERATIVE ERKRANKUNGEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "974626416": {
+            "orgId": "974626416",
+            "orgName": "DEUTSCHES ZENTRUM FUR NEURODEGENERATIVE ERKRANKUNGEN EV",
+            "ecContrib": 1806068
+        }
+    },
+    "calculatedTotalContribution": 1806068
+}

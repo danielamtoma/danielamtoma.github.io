@@ -1,0 +1,53 @@
+{
+    "rcn": "214081",
+    "acronym": "GAUSS",
+    "topics": "GALILEO-1-2017",
+    "title": "Galileo-EGNOS as an Asset for UTM Safety and Security",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2021",
+    "objective": "The GAUSS project aims fast and thorough achievement of acceptable levels in terms of performance, safety and security for both, current RPAS  and future UTM operations. UTM helps control, manage and integrate all RPAS in the VLL airspace to ensure the security and efficiency of UAS operations. The key element within GAUSS is the integration and exploitation of Galileo-EGNOS exceptional features for precise and secure positioning. These features will enable not only safe, timely and efficient operations but also coordination among a higher number of RPAS with  appropriate levels of security, as it provides anti-jamming and anti-spoofing capabilities. Multi-frequency and multi-constellation solutions will be exploited with this purpose. GAUSS will increase resilience in UTM operations and, at the same time, ensure UTM coordination capabilities to increase the number of platforms that can share the same airspace. Precise coordination among UAS in the air, together with individual high precision and secure positioning are key for the safety of the operations and therefore for the success of UTM. The UTM infrastructure will also benefit from the GAUSS Galileo-EGNOS based ADS-B solution and encrypted air-ground communications. GAUSS includes the definition, negotiation and execution of safe trajectories both in normal operation and in case security or safety is compromised. The GAUSS systems will be validated with two field trials (in-land and sea) with the operation of 4 UTM coordinated RPAS with different types (fixed and rotary wing) and EASA operational categories. The outcome of the project will consist of Galileo-EGNOS based technological solutions to enhance safety and security levels in current RPAS operations and future UTM based operations. Increased levels of efficiency, reliability, safety and security in RPAS operations are key enabling features to foster the European RPAS regulation and market development and their full acceptance by the European society.",
+    "totalCost": "3695758,31",
+    "ecMaxContribution": "2972489,49",
+    "coordinator": "EVERIS AEROESPACIAL Y DEFENSA SL",
+    "coordinatorCountry": "ES",
+    "participants": "SATWAYS - PROIONTA KAI YPIRESIES TILEMATIKIS DIKTYAKON KAI TILEPIKINONIAKON EFARMOGON ETAIRIA PERIORISMENIS EFTHINIS EPE;RINA CONSULTING SPA;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;ARATOS SYSTEMS BV;CRANFIELD UNIVERSITY;UNIVERSIDAD DE SEVILLA",
+    "participantCountries": "EL;IT;ES;NL;UK",
+    "projectParticipants": {
+        "999951467": {
+            "orgId": "999951467",
+            "orgName": "RINA CONSULTING SPA",
+            "ecContrib": 367894
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 511937
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 413612
+        },
+        "987804060": {
+            "orgId": "987804060",
+            "orgName": "SATWAYS - PROIONTA KAI YPIRESIES TILEMATIKIS DIKTYAKON KAI TILEPIKINONIAKON EFARMOGON ETAIRIA PERIORISMENIS EFTHINIS EPE",
+            "ecContrib": 235769
+        },
+        "920205730": {
+            "orgId": "920205730",
+            "orgName": "ARATOS SYSTEMS BV",
+            "ecContrib": 315394
+        },
+        "950910304": {
+            "orgId": "950910304",
+            "orgName": "EVERIS AEROESPACIAL Y DEFENSA SL",
+            "ecContrib": 768571
+        },
+        "999862518": {
+            "orgId": "999862518",
+            "orgName": "UNIVERSIDAD DE SEVILLA",
+            "ecContrib": 359312
+        }
+    },
+    "calculatedTotalContribution": 2972489
+}

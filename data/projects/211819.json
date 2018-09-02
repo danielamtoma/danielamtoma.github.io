@@ -1,0 +1,23 @@
+{
+    "rcn": "211819",
+    "acronym": "BURSTREG",
+    "topics": "ERC-2017-STG",
+    "title": "Single-molecule visualization of transcription dynamics to understand regulatory mechanisms of transcriptional bursting and its effects on cellular fitness",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Transcription in single cells is a stochastic process that arises from the random collision of molecules, resulting in heterogeneity in gene expression in cell populations. This heterogeneity in gene expression influences cell fate decisions and disease progression. Interestingly, gene expression variability is not the same for every gene: noise can vary by several orders of magnitude across transcriptomes. The reason for this transcript-specific behavior is that genes are not transcribed in a continuous fashion, but can show transcriptional bursting, with periods of gene activity followed by periods of inactivity. The noisiness of a gene can be tuned by changing the duration and the rate of switching between periods of activity and inactivity. Even though transcriptional bursting is conserved from bacteria to yeast to human cells, the origin and regulators of bursting remain largely unknown. Here, I will use cutting-edge single-molecule RNA imaging techniques to directly observe and measure transcriptional bursting in living yeast cells. First, bursting properties will be quantified at different endogenous and mutated genes to evaluate the contribution of cis-regulatory promoter elements on bursting. Second, the role of trans-regulatory complexes will be characterized by dynamic depletion or gene-specific targeting of transcription regulatory proteins and observing changes in RNA synthesis in real-time. Third, I will develop a new technology to visualize the binding dynamics of single transcription factor molecules at the transcription site, so that the stability of upstream regulatory factors and the RNA output can directly be compared in the same cell. Finally, I will examine the phenotypic effect of different bursting patterns on organismal fitness. Overall, these approaches will reveal how bursting is regulated at the molecular level and how different bursting patterns affect the heterogeneity and fitness of the organism.",
+    "totalCost": "1950775",
+    "ecMaxContribution": "1950775",
+    "coordinator": "STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984738": {
+            "orgId": "999984738",
+            "orgName": "STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS",
+            "ecContrib": 1950775
+        }
+    },
+    "calculatedTotalContribution": 1950775
+}

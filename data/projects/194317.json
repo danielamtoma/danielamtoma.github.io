@@ -1,0 +1,53 @@
+{
+    "rcn": "194317",
+    "acronym": "ARIA-VALUSPA",
+    "topics": "ICT-22-2014",
+    "title": "Artificial Retrieval of Information Assistants - Virtual Agents with Linguistic Understanding, Social skills, and Personalised Aspects",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The ARIA-VALUSPA project will create a ground-breaking new framework that will allow easy creation of Artificial Retrieval of Information Assistants (ARIAs) that are capable of holding multi-modal social interactions in challenging and unexpected situations. The system can generate search queries and return the information requested by interacting with humans through virtual characters. These virtual humans will be able to sustain an interaction with a user for some time, and react appropriately to the user's verbal and non-verbal behaviour when presenting the requested information and refining search results. Using audio and video signals as input, both verbal and non-verbal components of human communication are captured. Together with a rich and realistic emotive personality model, a sophisticated dialogue management system decides how to respond to a user's input, be it a spoken sentence, a head nod, or a smile. The ARIA uses special speech synthesisers to create emotionally coloured speech and a fully expressive 3D face to create the chosen response. Back-channelling, indicating that the ARIA understood what the user meant, or returning a smile are but a few of the many ways in which it can employ emotionally coloured social signals to improve communication.  \nAs part of the project, the consortium will develop two specific implementations of ARIAs for two different industrial applications. A ëspeaking bookí application will create an ARIA with a rich personality capturing the essence of a novel, whom users can ask novel-related questions. An ëartificial travel agentí web-based ARIA will be developed to help users find their perfect holiday ñ something that is difficult to do with existing web interfaces such as those created by booking.com or tripadvisor.",
+    "totalCost": "2949318,76",
+    "ecMaxContribution": "2949317,78",
+    "coordinator": "THE UNIVERSITY OF NOTTINGHAM",
+    "coordinatorCountry": "UK",
+    "participants": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;UNIVERSITEIT TWENTE;CEREPROC LTD;LA CANTOCHE PRODUCTION SA;UNIVERSITAET AUGSBURG;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "UK;NL;FR;DE",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 440715
+        },
+        "970108447": {
+            "orgId": "970108447",
+            "orgName": "CEREPROC LTD",
+            "ecContrib": 322651
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 528895
+        },
+        "999598678": {
+            "orgId": "999598678",
+            "orgName": "UNIVERSITAET AUGSBURG",
+            "ecContrib": 472482
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 472043
+        },
+        "999900833": {
+            "orgId": "999900833",
+            "orgName": "UNIVERSITEIT TWENTE",
+            "ecContrib": 414045
+        },
+        "991015827": {
+            "orgId": "991015827",
+            "orgName": "LA CANTOCHE PRODUCTION SA",
+            "ecContrib": 298486
+        }
+    },
+    "calculatedTotalContribution": 2949317
+}

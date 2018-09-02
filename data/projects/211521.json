@@ -1,0 +1,23 @@
+{
+    "rcn": "211521",
+    "acronym": "TECSOME",
+    "topics": "ERC-2017-PoC",
+    "title": "Technologies for Supporting Online Music Education",
+    "startDate": "01/10/2017",
+    "endDate": "31/03/2019",
+    "objective": "Online learning has impacted and changed music education significantly all over the world in the last decade. Music schools and teachers have now access to a much wider audience, increasing their business opportunities specially by overcoming the geographical constraints. However, online music performance education cannot scale to MOOC level given that the student assessments rely on individual instructor review, as is the case in the well known online courses from Berklee Online. The need of a personal assessment procedure limits the growth and expansion of these courses.\n\nOur project, TECSOME, will solve this limitation by facilitating the learnerís assessment, making it more automatic and less human-dependent. We will build an automatic assessment system, named Music Critic, around a set of technologies developed within the CompMusic project, targeted at supporting music performance courses and helping them scale up to MOOC level. Music Critic will act as an external assessment tool able to communicate with existing Learning Management Systems (LMS) via the Learning Tool Interoperability standard (LTI). The basic workflow will be: (1) teacher prepares an exercise using the LMS and Music Critic; (2) learner uploads an audio recording of the exercise to the LMS; (3) LMS sends the audio recording to Music Critic, where is analyzed and evaluated; and (4) Music Critic sends the assessment outcome, which includes the evaluation grade and detail feedbacks, to the LMS, where it can be corrected and validated by the teacher before becoming available to the learner. \n\nIn the CompMusic project we have developed technologies with which to analyze music recordings in various music styles. Some of the technologies are already being exploited in a PoC project, CAMUT, which takes advantage of music analysis technologies that target the Indian musical culture. Now, in TECSOME, we are taking advantage of some complementary technologies centered on measuring music similarity.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSIDAD POMPEU FABRA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

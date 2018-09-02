@@ -1,0 +1,17 @@
+{
+    "rcn": "216190",
+    "acronym": "COCAN",
+    "topics": "ERC-2017-ADG",
+    "title": "Complexity and Condition in Algebra and Numerics",
+    "startDate": "01/01/2019",
+    "endDate": "31/12/2023",
+    "objective": "'This proposal connects three areas that are considered distant from each other: computational complexity, algebraic geometry, and numerics. In the last decade, it became clear that the fundamental questions of computational complexity (P vs NP) should be studied in algebraic settings, linking them to problems in algebraic geometry. Recent progress on this challenging and very difficult questions led to surprising progress in computational invariant theory, which we want to explore thoroughly. We expect this to lead to solutions of computational problems in invariant theory that currently are considered infeasible. The complexity of Hilbert's null cone (the set of 'singular objects') appears of paramount importance here. These investigations will also shed new light on the foundational questions of algebraic complexity theory. As an essential new ingredient to achieve this, we will tackle the arising algebraic computational problems by means of approximate numeric computations, taking into account the concept of numerical condition.\n\nA related goal of the proposal is to develop a theory of efficient and numerically stable algorithms in algebraic geometry that reflects the properties of structured systems of polynomial equations, possibly with singularities. While there are various heuristics, a satisfactory theory so far only exists for unstructured systems over the complex numbers (recent solution of Smale's 17th problem), which seriously limits its range of applications. In this framework, the quality of numerical algorithms is gauged by a probabilistic analysis that shows small average (or smoothed) running time. One of the main challenges here consists of a probabilistic study of random structured polynomial systems.  We will also develop and analyze numerical algorithms for finding or describing the set of real solutions, e.g., in terms of their homology. \n'",
+    "totalCost": "2297163",
+    "ecMaxContribution": "2297163",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

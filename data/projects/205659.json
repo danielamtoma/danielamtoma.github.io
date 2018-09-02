@@ -1,0 +1,43 @@
+{
+    "rcn": "205659",
+    "acronym": "BASMATI",
+    "topics": "EUK-03-2016",
+    "title": "Cloud Brokerage Across Borders for Mobile Users and Applications",
+    "startDate": "01/06/2016",
+    "endDate": "31/07/2018",
+    "objective": "Clouds and mobile applications have been two key drivers for innovation in the last decade, strengthening industry competitiveness and economic growth. The current technological and social landscape calls for a shift towards the introduction of a hybrid computing paradigm, following the rise and limitations of mobile applications. BASMATI aims at providing a complete ecosystem that integrates cloud federation with mobile devices, while addressing challenges related to resource heterogeneity, ultra-scalable provisioning, offloading, context- and situation identification, quality of service and security guarantees, targeting (crowds of) users accessing their data and applications across borders. BASMATI will provide an integrated brokerage platform targeting federated clouds with heterogeneous resources and supporting the efficient, cost-effective execution of mobile cloud applications in a transparent and ubiquitous manner. Runtime-adaptable federation patterns also considering business aspects, dynamic and runtime-optimized brokerage and offloading decisions will enable fully automated resource exploitation: cloud to cloud, device to federation and device to device. Modelling and prediction of applications and users in terms of mobility patterns, behavior and interactions will provide insight to the aforementioned decisions, while runtime reconfiguration of mobile services will foster the achievement of ultra-scalability. The envisioned hybrid infrastructure management will allow abstracting heterogeneous resources and enabling dynamic service networks based on evolving situations. BASMATI will be evaluated against three real-world use cases: Large Events management (including audio-streaming in dynamic and crowded scenarios), TripBuilding in dynamic environments and Virtual Mobile Desktop for highly nomadic users, which will be provided by BASMATI platform and validated during a 2018 international large event (Das Fest) counting 250.000 participants across a week.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "AMENESIK SARL;CAS SOFTWARE AG;ATOS SPAIN SA;CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "participantCountries": "FR;DE;ES;IT",
+    "projectParticipants": {
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 306250
+        },
+        "999797334": {
+            "orgId": "999797334",
+            "orgName": "CAS SOFTWARE AG",
+            "ecContrib": 312500
+        },
+        "923689873": {
+            "orgId": "923689873",
+            "orgName": "AMENESIK SARL",
+            "ecContrib": 163750
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 331250
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 386250
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

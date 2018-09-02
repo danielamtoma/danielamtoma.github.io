@@ -1,0 +1,43 @@
+{
+    "rcn": "210172",
+    "acronym": "ASTEROID",
+    "topics": "COMPET-1-2016",
+    "title": "ASTronomy EuROpean Infrared Detection",
+    "startDate": "01/05/2017",
+    "endDate": "31/08/2020",
+    "objective": "Large infrared (IR) imagers in the NIR to VLWIR wavelength ranges are critical requirements for Earth observation, and Science and Astronomy missions. They provide information not available in the visible wavelength range like, for example, object temperature or chemical composition. \nThe technology available in Europe today allows for detectors with around 1 Mega pixel to be manufactured. It is not able to produce the 4 Megapixel detectors necessary for future missions.\nEurope needs to become non-dependent for the procurement of these types of detectors.\n\nIt is the goal of ASTEROID to develop the technology that will make Europe non-dependent for large IR detectors. The technology to be developed is based on HgCdTe detection layers grown on CdZnTe substrates and on large dimensions Si Read Out Integrated Circuits (ROIC). By adjusting its composition, the use of HgCdTe detection layers makes it possible to address all the wavelengths required, from visible to VLWIR wavelengths.\n\nASTEROID will use the contributions from 6 partners in 5 different fields to develop the building blocks for large IR detectors:\nï ROIC processing: EVG and Sofradir\nï HgCdTe and CdZnTe processing: CEA-LETI and Sofradir\nï Hybridization of the ROIC and detection layers: Sofradir\nï Thermo-Mechanical Modeling: ADDL\nï Electro-optic and connectivity characterization: IFAE and CEA-IRFU",
+    "totalCost": "4995493,75",
+    "ecMaxContribution": "4995493,5",
+    "coordinator": "SOCIETE FRANCAISE DE DETECTEURS INFRAROUGES - SOFRADIR",
+    "coordinatorCountry": "FR",
+    "participants": "A D D L;EV GROUP E. THALLNER GMBH;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INSTITUTO DE FISICA DE ALTAS ENERGIAS",
+    "participantCountries": "FR;AT;ES",
+    "projectParticipants": {
+        "999611676": {
+            "orgId": "999611676",
+            "orgName": "EV GROUP E. THALLNER GMBH",
+            "ecContrib": 324901
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 2121270
+        },
+        "936720271": {
+            "orgId": "936720271",
+            "orgName": "SOCIETE FRANCAISE DE DETECTEURS INFRAROUGES - SOFRADIR",
+            "ecContrib": 1901741
+        },
+        "921014807": {
+            "orgId": "921014807",
+            "orgName": "A D D L",
+            "ecContrib": 326456
+        },
+        "999613907": {
+            "orgId": "999613907",
+            "orgName": "INSTITUTO DE FISICA DE ALTAS ENERGIAS",
+            "ecContrib": 321125
+        }
+    },
+    "calculatedTotalContribution": 4995493
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "203223",
+    "acronym": "DynaOmics",
+    "topics": "ERC-StG-2015",
+    "title": "From longitudinal proteomics to dynamic individualized diagnostics",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "Longitudinal omics data hold great promise to improve biomarker detection and enable dynamic individualized predictions. Recent technological advances have made proteomics an increasingly attractive option but clinical longitudinal proteomic datasets are still rare and computational tools for their analysis underdeveloped. The objective of this proposal is to create a roadmap to detect clinically feasible protein markers using longitudinal data and effective computational tools. A biomedical focus is on early detection of Type 1 diabetes (T1D). Specific objectives are:\n\n1) Novel biomarker detector using longitudinal data. DynaOmics introduces novel types of multi-level dynamic markers that are undetectable in conventional single-time cross-sectional studies (e.g. within-individual changes in abundance or associations), develops optimization methods for their robust and reproducible detection within and across individuals, and validates their utility in well-defined samples. \n2) Individualized disease risk prediction dynamically. DynaOmics develops dynamic individualized predictive models using the multi-level longitudinal proteome features and novel statistical and machine learning methods that have previously not been used in this context, including joint models of longitudinal and time-to-event data, and one-class classification type techniques.\n3) Dynamic prediction of T1D. DynaOmics builds a predictive model of dynamic T1D risk to assist early detection of the disease, which is crucial for developing future therapeutic and preventive strategies. T1D typically involves a relatively long symptom-free period before clinical diagnosis but current tools to predict early T1D risk have restricted power.\n\nThe objectives involve innovative and unconventional approaches and address major unmet challenges in the field, having high potential to open new avenues for diagnosis and treatment of complex diseases and fundamentally novel insights towards precision medicine.",
+    "totalCost": "1499869",
+    "ecMaxContribution": "1499869",
+    "coordinator": "TURUN YLIOPISTO",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999903064": {
+            "orgId": "999903064",
+            "orgName": "TURUN YLIOPISTO",
+            "ecContrib": 1499869
+        }
+    },
+    "calculatedTotalContribution": 1499869
+}

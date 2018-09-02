@@ -1,0 +1,53 @@
+{
+    "rcn": "199916",
+    "acronym": "ATOM",
+    "topics": "MSCA-RISE-2015",
+    "title": "Advancing the state of the art of MIMO: the key to the successful evolution of wireless networks",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2020",
+    "objective": "The world is experiencing an explosion in wireless broadband usage and global wireless data traffic is expected to grow at an annual rate of 78% through 2016. Multiple-input multiple-output (MIMO) technologies have been envisioned as a key to the successful deployment of next generation networks, which are challenged by many practical constraints, such as spectrum scarcity and dynamical wireless environments. The ATOM project will set an ambitious research agenda to fully exploit the potentials of MIMO technologies for revolutionizing wireless networks. Particularly the overall objective of ATOM is to accelerate the transfer and deployment of research knowledge between European countries and third-country partners in order to provide a framework of advanced MIMO solutions for realizing green, secure and high data throughput wireless communications. The novelty of this project is four-fold. Firstly the project brings together two advanced MIMO technologies, massive MIMO and cloud radio access networks (C-RAN), where a novel heterogeneous network architecture is proposed to boost network capacity by effectively exploiting the advantages of massive MIMO and C-RAN. Secondly a rigorous algorithm-theoretic framework for maximizing energy efficiency is developed for the proposed heterogeneous architecture, where energy harvesting is realized by applying the novel concept, simultaneous wireless information and power transfer (SWIPT). Thirdly dynamic physical layer conditions in wireless environments are used to develop comprehensive security solutions for implementing keyless secure transmissions as well as key establishment, which will bridge the gap between physical layer security and the conventional cryptography. Finally we will extend the existing wireless network testbed available at the consortium and carry out experimental evaluations for closing the gap between theory and practice.",
+    "totalCost": "904500",
+    "ecMaxContribution": "904500",
+    "coordinator": "LANCASTER UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITY OF YORK;UNIVERSITY OF CYPRUS",
+    "participantCountries": "UK;CY",
+    "projectParticipants": {
+        "999835843": {
+            "orgId": "999835843",
+            "orgName": "UNIVERSITY OF CYPRUS",
+            "ecContrib": 301500
+        },
+        "999650282": {
+            "orgId": "999650282",
+            "orgName": "UNIVERSITI PUTRA MALAYSIA",
+            "ecContrib": 0
+        },
+        "953932242": {
+            "orgId": "953932242",
+            "orgName": "UNIVERSITI TEKNOLOGI MALAYSIA",
+            "ecContrib": 0
+        },
+        "999978336": {
+            "orgId": "999978336",
+            "orgName": "UNIVERSITY OF YORK",
+            "ecContrib": 297000
+        },
+        "946627851": {
+            "orgId": "946627851",
+            "orgName": "COMSATS INSTITUTE OF INFORMATION TECHNOLOGY",
+            "ecContrib": 0
+        },
+        "999840984": {
+            "orgId": "999840984",
+            "orgName": "LANCASTER UNIVERSITY",
+            "ecContrib": 306000
+        },
+        "946657630": {
+            "orgId": "946657630",
+            "orgName": "University of Peradeniya",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 904500
+}

@@ -1,0 +1,63 @@
+{
+    "rcn": "213145",
+    "acronym": "3PEAT",
+    "topics": "ICT-30-2017",
+    "title": "3D Photonic integration platform based on multilayer PolyBoard and TriPleX technology for optical switching and remote sensing and ranging applications",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "3PEAT will develop a powerful photonic integration technology with all size, functionality and quality credentials in order to help a broad range of optical applications like optical switching and remote sensing, to achieve a strong commercial impact. In order to do so, the project will introduce a fully functional 3D photonic integration platform based on the use of multiple waveguiding layers and vertical couplers in a polymer technology (PolyBoard), as a means to disrupt the integration scale and functionality. Moreover, 3PEAT will combine this powerful 3D photonic technology with a silicon-nitride platform (TriPleX), via the development of a methodology for the deposition and processing of multilayer polymers inside etched windows on TriPleX chips. In parallel with the development of this hybrid 3D technology, 3PeaT will bring a number of key innovations at the integration and component level relating to: a) the heterogeneous integration of PZT films on TriPleX platform for development of phase shifters and switches for operation up to 50 MHz, b) the development of a disruptive  external cavity laser on the same platform with linewidth less than 1 kHz, c) the development for the first time of an integrated circulator on PolyBoard with isolation more than 25 dB, and d) the development of flexible types of PolyBoards for the purpose of physical interconnection of other PICs. This enormous breadth of innovations can remove the current limitations and unleash the full potential of optical switching and remote sensing and ranging applications. The main switching module that will be fabricated will be a 36◊36 optical switch with 20 ns switching time and possibility for power and cost savings of almost 95% compared to standard electronic solutions.  The main sensing module on the other hand will be a disruptive Laser Doppler Vibrometer (LDV) with all of its optical units, including its optical beam scanning unit, integrated on a very large, hybrid 3D PIC.",
+    "totalCost": "3993285",
+    "ecMaxContribution": "3993285",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "OPTAGON FOTONIKI IDIOTIKI KEFALAIOUCHIKI ETAIRIA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;SOLMATES BV;UNIVERSITEIT TWENTE;LIONIX INTERNATIONAL BV;POLYTEC GMBH;CORDON ELECTRONICS ITALIA SRL;MELLANOX TECHNOLOGIES LTD - MLNX",
+    "participantCountries": "EL;DE;NL;IT;IL",
+    "projectParticipants": {
+        "918272908": {
+            "orgId": "918272908",
+            "orgName": "LIONIX INTERNATIONAL BV",
+            "ecContrib": 480750
+        },
+        "912610048": {
+            "orgId": "912610048",
+            "orgName": "CORDON ELECTRONICS ITALIA SRL",
+            "ecContrib": 480375
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 484375
+        },
+        "990912037": {
+            "orgId": "990912037",
+            "orgName": "POLYTEC GMBH",
+            "ecContrib": 312500
+        },
+        "990560024": {
+            "orgId": "990560024",
+            "orgName": "MELLANOX TECHNOLOGIES LTD - MLNX",
+            "ecContrib": 346250
+        },
+        "998782035": {
+            "orgId": "998782035",
+            "orgName": "SOLMATES BV",
+            "ecContrib": 330000
+        },
+        "999900833": {
+            "orgId": "999900833",
+            "orgName": "UNIVERSITEIT TWENTE",
+            "ecContrib": 423750
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 930285
+        },
+        "916946045": {
+            "orgId": "916946045",
+            "orgName": "OPTAGON FOTONIKI IDIOTIKI KEFALAIOUCHIKI ETAIRIA",
+            "ecContrib": 205000
+        }
+    },
+    "calculatedTotalContribution": 3993285
+}

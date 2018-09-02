@@ -1,0 +1,48 @@
+{
+    "rcn": "194157",
+    "acronym": "BEBA",
+    "topics": "ICT-05-2014",
+    "title": "Behavioral Based Forwarding",
+    "startDate": "01/01/2015",
+    "endDate": "31/03/2017",
+    "objective": "BEBA challenges a very ambitious goal: can we deploy wire-speed-reactive control/processing tasks inside the network switches, while retaining i) centralized control of their specification/operation, ii) high performance and scalability, and - crucial for real world adoption - iii) platform independency, i.e., consistency with the vendorsí need for closed platforms? \nBEBAís answer revolves around the identification of a programming abstraction in the form of eXtended Finite State Machines (XFSMs). Via platform-agnostic XFSM ìprogramsî, operators and enterprises will deploy not only static packet forwarding/processing rules (as in current OpenFlow devices), but will be able to specify and wire-speed enforce how such rules shall dynamically adapt to the time-varying flow and traffic behavior, i.e. in reaction to packet-level events, internal statistics changes, link/queue conditions, etc. \nBEBA holds the promise for future-proof, efficient, and easy to administer network devices capable to be repurposed so as to meet emerging needs. Indeed, BEBAís approach, extended with node-level processing primitives made usable through our programming abstraction, brings about key benefits in the ability to i) ìsoftware-defineî middlebox-type network functions well beyond static packet forwarding, with specific projectís attention to the monitoring and network security applicationsí domains, and in the possibility to ii) address the current shortcomings revolving around the high latency and large overhead of centralized network control tasks. \nFinally, BEBA commits to a concrete and pragmatic innovation strategy. Short-time impact and standardization will be attempted by i) casting (part of) the BEBA approach as OpenFlowís extensions; ii) making its implementation feasible over merchant-silicon chipsets currently found in commodity switches, and iii) releasing an open source virtual BEBA switch for the benefits of the Network Functions Virtualization community.",
+    "totalCost": "2549976,25",
+    "ecMaxContribution": "2545976",
+    "coordinator": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+    "coordinatorCountry": "IT",
+    "participants": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB;KUNGLIGA TEKNISKA HOEGSKOLAN;THALES COMMUNICATIONS & SECURITY SAS;6WIND;NEC EUROPE LTD",
+    "participantCountries": "CZ;SE;FR;UK",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 292500
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 435000
+        },
+        "999589463": {
+            "orgId": "999589463",
+            "orgName": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB",
+            "ecContrib": 247375
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 697100
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 612626
+        },
+        "996379830": {
+            "orgId": "996379830",
+            "orgName": "6WIND",
+            "ecContrib": 261375
+        }
+    },
+    "calculatedTotalContribution": 2545976
+}

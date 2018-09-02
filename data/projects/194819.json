@@ -1,0 +1,23 @@
+{
+    "rcn": "194819",
+    "acronym": "IMPRECSIM",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Improving wet plastic recycling through innovative lagrangian particle-fluid simulations",
+    "startDate": "01/06/2015",
+    "endDate": "30/11/2016",
+    "objective": "Wet particle separation is used widely in mineral processing as well as plastic recycling to separate mixtures of particulate materials into further usable fractions due to density differences. Despite its wide usage wet particle separation processes are often attributed to operational problems especially if density differences of the feed material are low. A review of the state of the art clearly indicates that numerical modelling has not yet been applied to wet separation processes due to the lack of applicable numerical schemes. On this background numerical modelling can strongly contribute towards improving the design and process parameters of wet particle separation technologies especially in the field of plastic recycling - improvements have a strong environmental impact such as reduced landfill and lower overall pollution.\n\nThe proposed research consists of two parts. The first objective is the development of a novel, fully Lagrangian particle-fluid modelling framework applicable to systems of particles of complex shape in a wet environment. For modelling the particles, the Discrete Element Method (DEM) will be employed. For the fluid part, the Lagrangian Smooth Particle Hydrodynamics (SPH) will be used which enables handling free surfaces and large movements of the fluid, inherently. While unresolved fluid flow around particles is already used in mesh based methods, coupling the DEM and SPH in one computational framework is a challenging task addressed in this project. Thereby, a framework is developed for representing technical scale systems of complex shaped particles in a wet environment for the first time. In the second part of the project, the developed framework will be applied to the modelling of a wet separation process involving a sink-float drum separator for plastic recycling. Both design and operational parameters will be optimized and results exchanged towards technology improvements with interested European companies from the recycling sector.",
+    "totalCost": "128595,6",
+    "ecMaxContribution": "128595,6",
+    "coordinator": "RUHR-UNIVERSITAET BOCHUM",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 128596
+        }
+    },
+    "calculatedTotalContribution": 128596
+}

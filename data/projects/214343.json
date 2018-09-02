@@ -1,0 +1,17 @@
+{
+    "rcn": "214343",
+    "acronym": "Bits2Cosmology",
+    "topics": "ERC-2017-COG",
+    "title": "Time-domain Gibbs sampling: From bits to inflationary gravitational waves",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "The detection of primordial gravity waves created during the Big Bang ranks among the greatest potential intellectual achievements in modern science. During the last few decades, the instrumental progress necessary to achieve this has been nothing short of breathtaking, and we today are able to measure the microwave sky with better than one-in-a-million precision. However, from the latest ultra-sensitive experiments such as BICEP2 and Planck, it is clear that instrumental sensitivity alone will not be sufficient to make a robust detection of gravitational waves. Contamination in the form of astrophysical radiation from the Milky Way, for instance thermal dust and synchrotron radiation, obscures the cosmological signal by orders of magnitude. Even more critically, though, are second-order interactions between this radiation and the instrument characterization itself that lead to a highly non-linear and complicated problem.\n\nI propose a ground-breaking solution to this problem that allows for joint estimation of cosmological parameters, astrophysical components, and instrument specifications. The engine of this method is called Gibbs sampling, which I have already applied extremely successfully to basic CMB component separation. The new and ciritical step is to apply this method to raw time-ordered observations observed directly by the instrument, as opposed to pre-processed frequency maps. While representing a ~100-fold increase in input data volume, this step is unavoidable in order to break through the current foreground-induced systematics floor. I will apply this method to the best currently available and future data sets (WMAP, Planck, SPIDER and LiteBIRD), and thereby derive the world's tightest constraint on the amplitude of inflationary gravitational waves. Additionally, the resulting ancillary science in the form of robust cosmological parameters and astrophysical component maps will represent the state-of-the-art in observational cosmology in years to come.",
+    "totalCost": "1999205",
+    "ecMaxContribution": "1999205",
+    "coordinator": "UNIVERSITETET I OSLO",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

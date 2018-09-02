@@ -1,0 +1,43 @@
+{
+    "rcn": "199476",
+    "acronym": "EPICEA",
+    "topics": "MG-1.9-2015",
+    "title": "Electromagnetic Platform for lightweight Integration/Installation of electrical systems in Composite Electrical Aircraft",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "This three-year project is to release, validate and verify a unique computer environment (i.e. the EPICEA platform) assimilating a complete understanding of electromagnetic (EM) issues on Composite Electric Aircraft (CEA ñ i.e. aircraft with composite and electric technologies combined and operating at higher altitude/latitude). EM on CEA includes EM coupling, interconnects, and Cosmic Radiations (CR) on electrical systems together with new concepts of antennas designed to maintain performance in composite environment without modifying aircraft aerodynamics. In EPICEA, CR, as parts of the EM spectrum, are considered as EM environmental hazards such as lightning or HIRF (High Intensity Radiated Fields). The targeted computer platform will support a decision making process for selection of the best strategy for the integration of electrical systems. Starting at a TRL3, the consortium will demonstrate a TRL4 at the end of the project.\nThe project will address numerous engineering issues, aiming at a significant reduction of energy consumption through more electrical aircraft and systems integration. If successful, it will create a more robust EM protection for electrical systems (i.e. lightweight, cost effective and safety compliant), a lighter and safer electrical system architecture for EM protected, less redundant, safety compliant, easy to maintain systems, a less drag on new systems of antennas while maintaining EM performance, and also will point to best possible health monitoring solutions. Used from the early design phase of electrical systems up to the architecture definition for installation and integration of electrical systems into CEA, the EPICEA outcome will limit the recourse to over conservative protection and unnecessary redundancy in integration architecture. This will overcome the weight penalty currently jeopardising the development of energy-efficient CEAs and will strengthen the aircraft safety.",
+    "totalCost": "1749920",
+    "ecMaxContribution": "1749920",
+    "coordinator": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+    "coordinatorCountry": "FR",
+    "participants": "AXESSIM SAS;ARTTIC;I.D.S. - INGEGNERIA DEI SISTEMI - S.P.A.;FOKKER ELMO BV",
+    "participantCountries": "FR;IT;NL",
+    "projectParticipants": {
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 660859
+        },
+        "997769646": {
+            "orgId": "997769646",
+            "orgName": "FOKKER ELMO BV",
+            "ecContrib": 275094
+        },
+        "999792484": {
+            "orgId": "999792484",
+            "orgName": "ARTTIC",
+            "ecContrib": 185688
+        },
+        "999617496": {
+            "orgId": "999617496",
+            "orgName": "I.D.S. - INGEGNERIA DEI SISTEMI - S.P.A.",
+            "ecContrib": 288280
+        },
+        "997384071": {
+            "orgId": "997384071",
+            "orgName": "AXESSIM SAS",
+            "ecContrib": 340000
+        }
+    },
+    "calculatedTotalContribution": 1749921
+}

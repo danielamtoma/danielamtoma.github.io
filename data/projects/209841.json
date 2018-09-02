@@ -1,0 +1,23 @@
+{
+    "rcn": "209841",
+    "acronym": "Neuronal MRI",
+    "topics": "MSCA-IF-2016",
+    "title": "Neuronal MRI: Harnessing chemical exchange between N-Acetylaspartate and water for functional imaging of neural activity",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "Functional MRI (fMRI) is currently the leading noninvasive modality to assess brain function in vivo. However, it relies on a surrogate marker for neural activity ñthe hemodynamic responses following activityñ which makes fMRI nonspecific and difficult to interpret. Here, we propose to advance the state-of-the-art by developing and evaluating a methodology we term neuronal fMRI (nMRI) which would enable a direct measurement of neuronal activity and its fast dynamics.\nAchieving this arduous goal calls for a truly interdisciplinary effort, borrowing concepts from Chemistry (Chemical Exchange Saturation Transfer (CEST) of a neuronal-selective metabolite to impart specificity, restricted diffusion to probe cell sizes), Physics and Engineering (advanced MRI and reconstruction methods). Our general approach consists of a development-validation-application design, thus our main objectives are:\n1. Harnessing the hitherto unexplored downfield resonance of N-Acetylaspartate (NAA) ña metabolite confined solely to neuronsñ in CEST MRI experiments, thus imparting specificity towards the neuronal population; combining this specificity enhancement with diffusion MRI sequences that are extraordinarily sensitive to cellular sizes, and hence are able to sense subtle cell-swellings arising upon neuronal firing. This new method, which we term neuronal-MRI (nMRI) will thus report on neuronal swellings, and as such reflect activity directly.\n2. Implementing ultra-fast imaging techniques based on data multiplexing and the latest compressed sensing frameworks to nMRI, such that the 50 ms timescale can be reached with full brain coverage. This will allow the measurement of fast neuronal activity dynamics in the brain.\n3. Applying nMRI to study the auditory circuit as a model system in-vivo.\nIn summary, we posit that nMRI ñupon successful implementation and rigorous testingñ will be highly impactful in many disciplines, and pave the way to study the neuronal population in health and disease.",
+    "totalCost": "148635,6",
+    "ecMaxContribution": "148635,6",
+    "coordinator": "FUNDACAO D. ANNA SOMMER CHAMPALIMAUD E DR. CARLOS MONTEZ CHAMPALIMAUD",
+    "coordinatorCountry": "PT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "967498371": {
+            "orgId": "967498371",
+            "orgName": "FUNDACAO D. ANNA SOMMER CHAMPALIMAUD E DR. CARLOS MONTEZ CHAMPALIMAUD",
+            "ecContrib": 148636
+        }
+    },
+    "calculatedTotalContribution": 148636
+}

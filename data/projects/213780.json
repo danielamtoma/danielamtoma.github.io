@@ -1,0 +1,23 @@
+{
+    "rcn": "213780",
+    "acronym": "topDFT",
+    "topics": "ERC-2017-COG",
+    "title": "A topological approach to electron correlation in density-functional theories",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2023",
+    "objective": "Density-functional theory (DFT) is the most widely used method to study the electronic structure of complex molecules, solids, and materials. Its use across chemistry, solid-state physics and materials science is a testament to its black-box nature and low cost. However, many important areas remain inaccessible to DFT simulations, including applications to strongly correlated materials and systems in electromagnetic fields. The topDFT project will deliver new conceptual approaches to design the next generation of density-functional methods. This will be achieved by pursuing three parallel strategies: i) Developing new strategies for the design of functionals ii) Implementing topological DFT, a new computational framework iii) Developing extended density-functional theories. \n\nA new approach to the exchangeñcorrelation problem, based on a perspective from the kinetic energy of the electrons, will be developed ñ leading to new practical density-functional approximations (DFAs). A new framework for computation will be developed by combining techniques from topological electronic structure methods with DFT, allowing for the identification of correlation ëhotspotsí. This idea is chemically intuitive; electrons close together interact in a fundamentally different way to those far apart. Recognising these hotspots, and adapting dynamically to them, will lead to new DFAs with substantially greater accuracy. \n\nExtended-DFTs will open the way to study strongly correlated systems (e.g. high-Tc superconductors, transition metal oxides, Mott insulators) of importance in chemistry and materials science and magnetic systems (e.g. molecular magnets, spin glasses, spin frustrated systems) of importance in nano-science, advanced materials and spintronics applications. The topDFT project will have wide impact on areas including chemical synthesis, materials design and nano-science that underpin key areas such as manufacturing and medicine of benefit to all sections of society.",
+    "totalCost": "1998649",
+    "ecMaxContribution": "1998649",
+    "coordinator": "THE UNIVERSITY OF NOTTINGHAM",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 1998649
+        }
+    },
+    "calculatedTotalContribution": 1998649
+}

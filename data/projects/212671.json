@@ -1,0 +1,88 @@
+{
+    "rcn": "212671",
+    "acronym": "MESI-STRAT",
+    "topics": "SC1-PM-02-2017",
+    "title": "Systems Medicine of Metabolic-Signaling Networks: A New Concept for Breast Cancer Patient Stratification",
+    "startDate": "01/01/2018",
+    "endDate": "30/09/2022",
+    "objective": "Breast cancer (BC) is a complex disease with high prevalence in the EU. 75% of the tumors are estrogen receptor-positive (ER\\), and are treated with endocrine therapies (ET). MESI-STRAT will develop new concepts for knowledge-based stratification of patients into subgroups with different ET resistance mechanisms. We will establish predictive models for (1) patient stratification prior and during ET; (2) recurrence risk assessment when ending ET; (3) marker panel development to guide targeted therapies for ET-resistant patients; (4) novel ET resistance mechanism-based therapy design.  \n\nThe unique collection of matched BC tissue, serum, and >10 years follow-up from the patient organization PATH is essential for the longitudinal analysis of ET resistance and relapse. Our team of oncologists, modelers, bioinformaticians and experimentalists will develop new computational models in combination with network analyses and pharmacogenomics, to integrate multi-omics data and explore metabolic and signaling (MESI) networks driving ET resistance. Metabolite marker panels measured in biological fluids will enable patient stratification, resistance monitoring and clinical decision-making. This is a new concept as BC metabolism is poorly explored for diagnostics and therapy. Upon successful validation in preclinical models, the predictive marker panels and related treatments will be jointly investigated by our clinical and industrial partners in clinical studies. Our 3 SMEs will closely co-develop the research, and directly exploit the MESI-STRAT results. \n \nBC accounts for the highest cancer-related health-care costs in the EU. Our stratification concepts will increase cost effectiveness and the patientsí quality of life by (1) avoiding ineffective therapies, (2) marker detection in body fluids without surgical interventions, and (3) reducing clinical trial cohorts by improved stratification. This will accelerate the translation of MESI-STRAT results into medical use.",
+    "totalCost": "5949963,75",
+    "ecMaxContribution": "5949963,75",
+    "coordinator": "ACADEMISCH ZIEKENHUIS GRONINGEN",
+    "coordinatorCountry": "NL",
+    "participants": "NEUROIMMUN GMBH;UNIVERSITETET I TROMSOE;STIFTUNG PATIENTS TUMORBANK OF HOPE- DIE PATIENTENEIGENE TUMORGEWEBEBANK DER HOFFNUNG (PATH);FUNDACIO PRIVADA INSTITUT D'INVESTIGACIO ONCOLOGICA DE VALL-HEBRON;SYSBIOSIM BV;UNIVERSITY OF DURHAM;UNIVERSITY OF NEWCASTLE UPON TYNE;DEUTSCHES KREBSFORSCHUNGSZENTRUM HEIDELBERG;HITS GGMBH;CHARITE - UNIVERSITAETSMEDIZIN BERLIN;DE DUVE INSTITUTE;UNIVERSITAETSKLINIKUM HEIDELBERG;UNIVERSITETET I BERGEN",
+    "participantCountries": "DE;NO;ES;NL;UK;BE",
+    "projectParticipants": {
+        "917300095": {
+            "orgId": "917300095",
+            "orgName": "STIFTUNG PATIENTS TUMORBANK OF HOPE- DIE PATIENTENEIGENE TUMORGEWEBEBANK DER HOFFNUNG (PATH)",
+            "ecContrib": 250550
+        },
+        "999990073": {
+            "orgId": "999990073",
+            "orgName": "DEUTSCHES KREBSFORSCHUNGSZENTRUM HEIDELBERG",
+            "ecContrib": 870100
+        },
+        "917400878": {
+            "orgId": "917400878",
+            "orgName": "NEUROIMMUN GMBH",
+            "ecContrib": 131750
+        },
+        "917259064": {
+            "orgId": "917259064",
+            "orgName": "SYSBIOSIM BV",
+            "ecContrib": 102711
+        },
+        "999874643": {
+            "orgId": "999874643",
+            "orgName": "UNIVERSITETET I TROMSOE",
+            "ecContrib": 366925
+        },
+        "999914801": {
+            "orgId": "999914801",
+            "orgName": "ACADEMISCH ZIEKENHUIS GRONINGEN",
+            "ecContrib": 1832688
+        },
+        "999578405": {
+            "orgId": "999578405",
+            "orgName": "HITS GGMBH",
+            "ecContrib": 224688
+        },
+        "999841081": {
+            "orgId": "999841081",
+            "orgName": "UNIVERSITAETSKLINIKUM HEIDELBERG",
+            "ecContrib": 353682
+        },
+        "999866010": {
+            "orgId": "999866010",
+            "orgName": "UNIVERSITY OF DURHAM",
+            "ecContrib": 255920
+        },
+        "999992692": {
+            "orgId": "999992692",
+            "orgName": "CHARITE - UNIVERSITAETSMEDIZIN BERLIN",
+            "ecContrib": 398706
+        },
+        "999974456": {
+            "orgId": "999974456",
+            "orgName": "UNIVERSITETET I BERGEN",
+            "ecContrib": 423600
+        },
+        "997886240": {
+            "orgId": "997886240",
+            "orgName": "DE DUVE INSTITUTE",
+            "ecContrib": 289000
+        },
+        "995163935": {
+            "orgId": "995163935",
+            "orgName": "FUNDACIO PRIVADA INSTITUT D'INVESTIGACIO ONCOLOGICA DE VALL-HEBRON",
+            "ecContrib": 190956
+        },
+        "999985417": {
+            "orgId": "999985417",
+            "orgName": "UNIVERSITY OF NEWCASTLE UPON TYNE",
+            "ecContrib": 258688
+        }
+    },
+    "calculatedTotalContribution": 5949964
+}

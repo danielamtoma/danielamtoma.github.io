@@ -1,0 +1,23 @@
+{
+    "rcn": "208307",
+    "acronym": "PEPCo",
+    "topics": "ERC-2016-COG",
+    "title": "Problems in Extremal and Probabilistic Combinatorics",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Extremal and probabilistic combinatorics is a central and currently maybe the most active and fastest growing area in discrete mathematics. The field can be traced back to the work of Tura?n and it was established by Erdo?s through his fundamental contributions and his uncounted guiding questions. Since then it has grown into an important discipline with strong ties to other mathematical areas such as theoretical computer science, number theory, and ergodic theory.\n\nThe PI proposes a variety of extremal problems for hypergraphs and for sparse random and pseudorandom graphs. The work for hypergraphs is motivated by Tura?nís problem, maybe the most prominent open problem in the area. After solving an analogous question for graphs, Tura?n asked to determine the maximum cardinality of a set E of three-element subsets of a given n-element set V such that for any 4 elements of V at least one triple is missing in E. This innocent looking problem seems to be out of reach by our current methods and despite a great deal of effort over the last 70 years, our knowledge is still very limited.\n\nWe suggest a variant of the problem by imposing additional restrictions on the distribution of the three-element subsets in E. These additional assumptions yield a finer control over the corresponding extremal problem. In fact, this leads to many interesting and hopefully more manageable subproblems, some of which were already considered by Erdo?s and So?s. We suggest a unifying framework for these problems and one of the main goals would be the development of new techniques for this type of problems. These additional assumptions on the hyperedge distribution are closely related to the theory of quasirandom discrete structures, which was pioneered by SzemerÈdi and became a central theme in the field. In fact, the hypergraph extension by Gowers and by Rˆdl et al. of the regularity lemma provide essential tools for this line of research.",
+    "totalCost": "1800000",
+    "ecMaxContribution": "1800000",
+    "coordinator": "UNIVERSITAET HAMBURG",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "912924328": {
+            "orgId": "912924328",
+            "orgName": "UNIVERSITAET HAMBURG",
+            "ecContrib": 1800000
+        }
+    },
+    "calculatedTotalContribution": 1800000
+}

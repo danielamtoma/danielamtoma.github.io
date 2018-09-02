@@ -1,0 +1,103 @@
+{
+    "rcn": "211083",
+    "acronym": "MATILDA",
+    "topics": "ICT-08-2017",
+    "title": "A HOLISTIC, INNOVATIVE FRAMEWORK FOR THE DESIGN, DEVELOPMENT AND ORCHESTRATION OF 5G-READY APPLICATIONS AND NETWORK SERVICES OVER SLICED PROGRAMMABLE INFRASTRUCTURE",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2019",
+    "objective": "The vision of MATILDA is to design and implement a holistic 5G end-to-end services operational framework tackling the  lifecycle of design, development and orchestration of 5G-ready applications and 5G network services over programmable infrastructure, following a unified programmability model and a set of control abstractions. It aims to devise and realize a radical shift in the development of software for 5G-ready applications as well as virtual and physical network functions and network services, through the adoption of a unified programmability model, the definition of proper abstractions and the creation of an open development environment that may be used by application as well as network functions developers. Intelligent and unified orchestration mechanisms will be applied for the automated placement of the 5G-ready applications and the creation and maintenance of the required network slices. Deployment and runtime policies enforcement is provided through a set of optimisation mechanisms providing deployment plans based on high level objectives and a set of mechanisms supporting runtime adaptation of the application components and/or network functions based on policies defined on behalf of a services provider. Multi-site management of the cloud/edge computing and IoT resources is supported by a multi-site virtualized infrastructure manager, while the lifecycle management of the supported Virtual Network Functions Forwarding Graphs (VNF-FGs) as well as a set of network management activities are provided by a multi-site NFV Orchestrator (NFVO). Network and application-oriented analytics and profiling mechanisms are supported based on real-time as well as a posteriori processing of the collected data from a set of monitoring streams. The developed 5G-ready application components, applications, virtual network functions and application-aware network services are made available for open-source or commercial purposes, re-use and extension through a 5G marketplace.",
+    "totalCost": "8378945,36",
+    "ecMaxContribution": "6664458,75",
+    "coordinator": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+    "coordinatorCountry": "IT",
+    "participants": "INTERNET INSTITUTE, COMMUNICATIONS SOLUTIONS AND CONSULTING LTD;ITALTEL SPA;BIBA - BREMER INSTITUT FUER PRODUKTION UND LOGISTIK GMBH;GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS;COSMOTE KINITES TILEPIKOINONIES AE;AALTO KORKEAKOULUSAATIO SR;INCELLIGENT IDIOTIKI KEFALAIOUCHIKI ETAIREIA;ATOS SPAIN SA;UNIVERSITY OF PIRAEUS RESEARCH CENTER;EXXPERTSYSTEMS GMBH;ERICSSON TELECOMUNICAZIONI;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";SUITE5 DATA INTELLIGENCE SOLUTIONS LIMITED;ORANGE ROMANIA SA;UNIVERSITY OF BRISTOL;INTRASOFT INTERNATIONAL SA",
+    "participantCountries": "SI;IT;DE;EL;FI;ES;IE;RO;UK;LU",
+    "projectParticipants": {
+        "954892445": {
+            "orgId": "954892445",
+            "orgName": "ORANGE ROMANIA SA",
+            "ecContrib": 335125
+        },
+        "999702371": {
+            "orgId": "999702371",
+            "orgName": "INTRASOFT INTERNATIONAL SA",
+            "ecContrib": 492188
+        },
+        "999591500": {
+            "orgId": "999591500",
+            "orgName": "ITALTEL SPA",
+            "ecContrib": 386575
+        },
+        "999654550": {
+            "orgId": "999654550",
+            "orgName": "COSMOTE KINITES TILEPIKOINONIES AE",
+            "ecContrib": 266350
+        },
+        "999651155": {
+            "orgId": "999651155",
+            "orgName": "BIBA - BREMER INSTITUT FUER PRODUKTION UND LOGISTIK GMBH",
+            "ecContrib": 372990
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 450188
+        },
+        "935904404": {
+            "orgId": "935904404",
+            "orgName": "INCELLIGENT IDIOTIKI KEFALAIOUCHIKI ETAIREIA",
+            "ecContrib": 274750
+        },
+        "999586941": {
+            "orgId": "999586941",
+            "orgName": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+            "ecContrib": 352500
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 408750
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 399375
+        },
+        "946634059": {
+            "orgId": "946634059",
+            "orgName": "INTERNET INSTITUTE, COMMUNICATIONS SOLUTIONS AND CONSULTING LTD",
+            "ecContrib": 372225
+        },
+        "985034419": {
+            "orgId": "985034419",
+            "orgName": "GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",
+            "ecContrib": 379750
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 781250
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 379356
+        },
+        "910462080": {
+            "orgId": "910462080",
+            "orgName": "SUITE5 DATA INTELLIGENCE SOLUTIONS LIMITED",
+            "ecContrib": 324538
+        },
+        "933476785": {
+            "orgId": "933476785",
+            "orgName": "EXXPERTSYSTEMS GMBH",
+            "ecContrib": 211925
+        }
+    },
+    "calculatedTotalContribution": 6187835
+}

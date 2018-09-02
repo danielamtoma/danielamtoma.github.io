@@ -1,0 +1,88 @@
+{
+    "rcn": "209711",
+    "acronym": "SAFE-10-T",
+    "topics": "MG-3.4-2016",
+    "title": "Safety of Transport Infrastructure on the TEN-T Network",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "The SAFE-10-T project will develop a Safety Framework to ensure high safety performance while allowing longer life-cycles for critical infrastructure across the road, rail and inland waterway modes. Moving from considering critical infrastructure such as bridges, tunnels and earthworks as inert objects to being intelligent (self-learning objects) the SAFE-10-T project will provide a means of virtually eradicating sudden failures. This will be achieved by:\n\nï\tThe Safety framework will incorporate remote monitoring data stored in a BIM model that feeds into a decision support framework (DST) that enables decisions to be made automatically with maintenance prioritised for elements exhibiting stress.\nï\tA major advance that will be achieved in the project is that the algorithms at an object level and at a network level will incorporate machine learning to train the system to evolve with time using available monitoring data. \nï\tA trans-disciplinary approach with experts in Artificial Intelligence and big data management working with owners, engineers with expertise in risk and modelling and sociologists  to make decisions.\nï\tOur major European infrastructure managers (Rijkswaterstaat for roads and inland waterways and Network Rail) will undertake demonstration projects at critical interchanges and nodes of the TEN-T transport network.\n\nThe project will achieve significant impact in asset management by:\n\n(i)\tBy moving to intelligent objects that communicate their safety condition during extreme events we will provide a means of virtually eradicating sudden catastrophic failure of infrastructure objects.\n(ii)\tThe project will use Open Linked Data formats to manage all data and inputs from other sources. Mitigation actions can be taken and warnings of the increased risk level can be transmitted to other agencies and the public.\n(iii) Demonstrate the concept of fully interconnected transport networks on the TEN-T",
+    "totalCost": "2997000",
+    "ecMaxContribution": "2997000",
+    "coordinator": "GAVIN AND DOHERTY GEOSOLUTIONS LTD",
+    "coordinatorCountry": "IE",
+    "participants": "ISTITUTO DI SOCIOLOGIA INTERNAZIONALE DI GORIZIA ISIG;VIRTUS IT LIMITED;ROUGHAN & O'DONOVAN LIMITED;INFRASTRUCTURE MANAGEMENT CONSULTANTS GMBH;MINISTERIE VAN INFRASTRUCTUUR EN WATERSTAAT;NETWORK RAIL INFRASTRUCTURE LIMITED;TECHNISCHE UNIVERSITAET BERLIN;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;FORUM DES LABORATOIRES NATIONAUX EUROPEENS DE RECHERCHE ROUTIERE;INFRA PLAN KONZALTNIG JDOO ZA USLUGE;TECHNISCHE UNIVERSITEIT DELFT;SVEUCILISTE U ZAGREBU GRADEVINSKI FAKULTET;HZ INFRASTRUKTURA D.O.O.",
+    "participantCountries": "IT;UK;IE;CH;NL;DE;BE;HR",
+    "projectParticipants": {
+        "998222345": {
+            "orgId": "998222345",
+            "orgName": "ISTITUTO DI SOCIOLOGIA INTERNAZIONALE DI GORIZIA ISIG",
+            "ecContrib": 141875
+        },
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 182500
+        },
+        "922934631": {
+            "orgId": "922934631",
+            "orgName": "INFRASTRUCTURE MANAGEMENT CONSULTANTS GMBH",
+            "ecContrib": 168750
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 755008
+        },
+        "987938017": {
+            "orgId": "987938017",
+            "orgName": "ROUGHAN & O'DONOVAN LIMITED",
+            "ecContrib": 290879
+        },
+        "999496828": {
+            "orgId": "999496828",
+            "orgName": "FORUM DES LABORATOIRES NATIONAUX EUROPEENS DE RECHERCHE ROUTIERE",
+            "ecContrib": 75489
+        },
+        "972651302": {
+            "orgId": "972651302",
+            "orgName": "GAVIN AND DOHERTY GEOSOLUTIONS LTD",
+            "ecContrib": 302500
+        },
+        "967944377": {
+            "orgId": "967944377",
+            "orgName": "MINISTERIE VAN INFRASTRUCTUUR EN WATERSTAAT",
+            "ecContrib": 50000
+        },
+        "988894049": {
+            "orgId": "988894049",
+            "orgName": "HZ INFRASTRUKTURA D.O.O.",
+            "ecContrib": 26250
+        },
+        "917561025": {
+            "orgId": "917561025",
+            "orgName": "INFRA PLAN KONZALTNIG JDOO ZA USLUGE",
+            "ecContrib": 197500
+        },
+        "948258712": {
+            "orgId": "948258712",
+            "orgName": "VIRTUS IT LIMITED",
+            "ecContrib": 250000
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 253750
+        },
+        "999540963": {
+            "orgId": "999540963",
+            "orgName": "NETWORK RAIL INFRASTRUCTURE LIMITED",
+            "ecContrib": 47500
+        },
+        "998468531": {
+            "orgId": "998468531",
+            "orgName": "SVEUCILISTE U ZAGREBU GRADEVINSKI FAKULTET",
+            "ecContrib": 255000
+        }
+    },
+    "calculatedTotalContribution": 2997001
+}

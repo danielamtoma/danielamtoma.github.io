@@ -1,0 +1,33 @@
+{
+    "rcn": "211800",
+    "acronym": "GEM",
+    "topics": "ERC-2016-ADG",
+    "title": "Generalised Entropy Models for Spatial Choices",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "This project will create a new category of models that can be used for describing a wide range of spatial choice problems in the social sciences. Spatial settings often have a very large number of choice alternatives. Discrete choice models are used extensively to make counterfactual predictions based on observations of individual choices. Despite forty years of research, current spatial choice models still have two major generic short-comings that seriously limit their ability to make counterfactual predictions. The new category of models will address these two short-comings.\nThe first issue is that substitution patterns between choice alternatives are very complex. The new models will allow substitution patterns to be specified in a general and transparent way. The second issue is that so-called endogeneity issues are pervasive, which violates the underlying statistical assumptions of common models and leads to inconsistent results. The new models will enable endogeneity issues to be dealt with in a simple way.\n\nThe new models rely on a concept of generalised entropy and are related via duality to classical discrete choice models. A generalised entropy model, or just GEM, will be specified in terms of a transformation from choice probabilities to utilities. This idea is completely new. It is the exact opposite of classical discrete choice models and makes available a whole universe of new models. Early results suggest that GEM will enable the short-comings of the standard models to be overcome.\nThe project develops GEM in three prototypical spatial contexts: equilibrium sorting of households, travel demand modelling, and network route choice.\n\nClassical discrete choice models are extensively used for policy analysis and planning. Replacing these by GEM will therefore influence a multitude of decisions across a range of sectors of great societal importance with environmental, economic and welfare consequences that reach far into the future.",
+    "totalCost": "2574486,25",
+    "ecMaxContribution": "2500000",
+    "coordinator": "KOBENHAVNS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "DANMARKS TEKNISKE UNIVERSITET;UNIVERSITY COLLEGE LONDON",
+    "participantCountries": "DK;UK",
+    "projectParticipants": {
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 240000
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 200000
+        },
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 2060000
+        }
+    },
+    "calculatedTotalContribution": 2500000
+}

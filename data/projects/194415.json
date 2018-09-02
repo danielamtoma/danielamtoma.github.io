@@ -1,0 +1,68 @@
+{
+    "rcn": "194415",
+    "acronym": "ELSA",
+    "topics": "LCE-08-2014",
+    "title": "Energy Local Storage Advanced system (ELSA)",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2018",
+    "objective": "Integration of distributed small/medium size storage systems can allow operating distribution grids much more flexibly, thus realizing smart grid features like local demand-supply balancing, congestion relief, peak shaving and effective RES integration. \n\nHowever, few technologically mature decentralized storage systems are commercially available today at affordable prices, while both viable business models and the underlying legal and regulatory framework are lagging behind. \n\nAs an answer ELSA will implement and demonstrate an innovative solution integrating low-cost second-life Li-ion batteries and other direct and indirect storage options, including heat storage, demand-side management, as well as use of intermittent RES.\n\nThe core idea is to consider Storage as a Service towards building and district managers for local energy management optimization, and towards DSO for enhanced network operations. ELSA will adapt, build upon, and integrate close-to-mature (TRL>=5) storage technologies and related ICT-based energy management systems for the management and control of local loads, generation and single or aggregated real or virtual storage resources, including demand response, in buildings, districts and distribution grids. \n\nData models ensuring interoperability among building, districts and DSOs and novel business models enabled by energy storage ìas-a-serviceî will be developed.\n\nDifferent configurations will be demonstrated along six test sites, where a set of different storage technologies will be integrated. Safety issues and social acceptance will be dealt with by communication and product reliability demonstration.\nA technical, economic and environmental validation, involving relevant stakeholders, will be carried out to nurture the European-wide replication of the ELSA concept, prepare the ground for a concrete roll out of the resulting TRL9 technologies and provide input for regulatory framework adaptation.",
+    "totalCost": "13144250",
+    "ecMaxContribution": "9861612,5",
+    "coordinator": "BOUYGUES ENERGIES & SERVICES",
+    "coordinatorCountry": "FR",
+    "participants": "ALLGAUER UBERLANDWERK GMBH;RENAULT SAS;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;B.A.U.M. CONSULT GMBH;Gateshead College;ENGINEERING - INGEGNERIA INFORMATICA SPA;Nissan West Europe SAS;UNITED TECHNOLOGIES RESEARCH CENTRE IRELAND, LIMITED;ASM TERNI SPA",
+    "participantCountries": "DE;FR;UK;IT;IE",
+    "projectParticipants": {
+        "946913031": {
+            "orgId": "946913031",
+            "orgName": "Nissan West Europe SAS",
+            "ecContrib": 1941275
+        },
+        "963932166": {
+            "orgId": "963932166",
+            "orgName": "Gateshead College",
+            "ecContrib": 681250
+        },
+        "953568492": {
+            "orgId": "953568492",
+            "orgName": "BOUYGUES ENERGIES & SERVICES",
+            "ecContrib": 2259162
+        },
+        "999425533": {
+            "orgId": "999425533",
+            "orgName": "RENAULT SAS",
+            "ecContrib": 1222697
+        },
+        "952604700": {
+            "orgId": "952604700",
+            "orgName": "ASM TERNI SPA",
+            "ecContrib": 279125
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 1520875
+        },
+        "939613781": {
+            "orgId": "939613781",
+            "orgName": "ALLGAUER UBERLANDWERK GMBH",
+            "ecContrib": 439250
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 505750
+        },
+        "971136162": {
+            "orgId": "971136162",
+            "orgName": "UNITED TECHNOLOGIES RESEARCH CENTRE IRELAND, LIMITED",
+            "ecContrib": 582222
+        },
+        "996873754": {
+            "orgId": "996873754",
+            "orgName": "B.A.U.M. CONSULT GMBH",
+            "ecContrib": 430006
+        }
+    },
+    "calculatedTotalContribution": 9861612
+}

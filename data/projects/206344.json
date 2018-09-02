@@ -1,0 +1,48 @@
+{
+    "rcn": "206344",
+    "acronym": "RESTASSURED",
+    "topics": "ICT-06-2016",
+    "title": "Secure Data Processing in the Cloud",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Secure cloud computing is key for business success and end-user adoption of federated and decentralized cloud services and thus essential to stimulate the growth of the European Digital Single Market. RestAssured will provide solutions to specific technical concerns of data protection in the cloud (such as geo-location restrictions on personal data), which are imposed by the dynamic, multi-stakeholder and decentralized nature of federated cloud systems. These concerns mean that privacy and security by design approaches will no longer be sufficient, due to uncertainty at design time of how the cloud and privacy requirements may dynamically evolve and change at run time. To this end, RestAssured provides novel mechanisms and cloud architectures for the runtime detection, prediction and prevention of data protection violations. \n\nRestAssured will assure the protection of sensitive business and citizen data in the cloud by combining four pillars of innovation: (1) combination of fully homomorphic encryption to process data without decryption with cloud enablement of SGX hardware for protected data processing, (2) sticky policies for decentralized data lifecy-cle management, (3) models@runtime for data protection assurance, and (4) automated risk management for run-time data protection. The applicability and usefulness of the RestAssured solutions will be demonstrated through three use cases driven by project partners and involving other stakeholders from outside the consortium; High Performance Computing for commercial enterprises; Pay As You Drive usage based insurance; and self-directed Social care for vulnerable adults and social care providers. The main impact of RestAssured will be to enable the free and seamless movement of data within the EU, whilst assuring conformance to data protection regulations, such as the EU Data Protection Directive and its successor the General Data Protection Regulation.",
+    "totalCost": "4996298,75",
+    "ecMaxContribution": "4996297",
+    "coordinator": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+    "coordinatorCountry": "IL",
+    "participants": "THALES SERVICES SAS;ADAPTANT SOLUTIONS AG;OXFORD COMPUTER CONSULTANTS LIMITED;UNIVERSITAET DUISBURG-ESSEN;UNIVERSITY OF SOUTHAMPTON",
+    "participantCountries": "FR;DE;UK",
+    "projectParticipants": {
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 1296500
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 736852
+        },
+        "999843312": {
+            "orgId": "999843312",
+            "orgName": "UNIVERSITAET DUISBURG-ESSEN",
+            "ecContrib": 647687
+        },
+        "999757855": {
+            "orgId": "999757855",
+            "orgName": "OXFORD COMPUTER CONSULTANTS LIMITED",
+            "ecContrib": 610020
+        },
+        "924733205": {
+            "orgId": "924733205",
+            "orgName": "ADAPTANT SOLUTIONS AG",
+            "ecContrib": 1080000
+        },
+        "999744469": {
+            "orgId": "999744469",
+            "orgName": "THALES SERVICES SAS",
+            "ecContrib": 625238
+        }
+    },
+    "calculatedTotalContribution": 4996297
+}

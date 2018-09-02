@@ -1,0 +1,28 @@
+{
+    "rcn": "199151",
+    "acronym": "MOSAIC",
+    "topics": "ERC-CoG-2014",
+    "title": "Multi object spectrometer with an array of superconducting integrated circuits",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "Recent sub-millimeter instruments on the Herschel Space Observatory, operational from 2009-2013, have discovered thousands of sub-millimeter galaxies, whose combined emission forms the cosmic infrared background. A major challenge is to measure their distance, or age, by determining their redshifts, which also has to be based on the sub-millimeter signals (because they do not have an optical counterpart).  \n\nI propose to develop a new redshift survey instrument, using recent progress in superconducting nanotechnology, which can spectrally resolve a large fraction of the cosmic infrared background from the ground. The instrument is a Multi-Object Spectrometer with an Array of superconducting Integrated Circuits. It consists of a 3D integrated field spectrograph with a 2D array of 25 pixels sparsely filling the re-imaged focal plane of the observatory. For each pixel the instrument measures the radiation spectrum in a 325-905 GHz window with a resolution R=F/?F=500. Additionally the beam of each pixel can be steered electrically to lock onto an individual astronomical object. This allows fast, high accuracy redshift determination of 25 objects simultaneously by measuring the frequency shift of the CII and CO lines. I will develop the instrument, build it, install it on the 10 m Japanese ASTE observatory in Chile and facilitate its use.\n\nMOSAIC will be fully based on novel superconducting circuits: a broad-band antenna with electrical beam steering and an on-chip spectrometer, combined on a single chip. The design of the instrument is based on recent developments in superconducting nanotechnology, for signals in the GHz to THz range, in which I am currently playing a leading role. The instrument will be developed with a team of experts in the fields of antennas, spectrometer and readout electronics.",
+    "totalCost": "2400894",
+    "ecMaxContribution": "2400894",
+    "coordinator": "STICHTING SRON NETHERLANDS INSTITUTE FOR SPACE RESEARCH",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "997901663": {
+            "orgId": "997901663",
+            "orgName": "STICHTING SRON NETHERLANDS INSTITUTE FOR SPACE RESEARCH",
+            "ecContrib": 0
+        },
+        "999624092": {
+            "orgId": "999624092",
+            "orgName": "STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN",
+            "ecContrib": 2400894
+        }
+    },
+    "calculatedTotalContribution": 2400894
+}

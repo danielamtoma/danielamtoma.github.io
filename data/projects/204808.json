@@ -1,0 +1,23 @@
+{
+    "rcn": "204808",
+    "acronym": "HEXTREME",
+    "topics": "ERC-ADG-2015",
+    "title": "Hexahedral mesh generation in real time",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "Over one million finite element analyses are preformed in engineering offices every day and finite elements come with the price of mesh generation. This proposal aims at creating two breakthroughs in the art of mesh generation that will be directly beneficial to the finite element community at large. The first challenge of HEXTREME is to take advantage of the massively multi-threaded nature of modern computers and to parallelize all the aspects of the mesh generation process at a fine grain level. Reducing the meshing time by more than one order of magnitude is an ambitious  objective: if minutes can become seconds, then success in this research would definitively radically change the way in which engineers deal with mesh generation. This project then proposes an innovative approach to overcoming the major difficulty associated with mesh generation: it aims at providing a fast and reliable solution to the problem of conforming hexahedral mesh generation. Quadrilateral meshes in 2D and hexahedral meshes in 3D are usually considered to be superior to triangular/tetrahedral meshes. Even though direct tetrahedral meshing techniques have reached a level of robustness that allow us to treat general 3D domains, there may never exist a direct algorithm for building unstructured hex-meshes in general 3D domains.  In HEXTREME, an indirect approach is envisaged that relies on recent developments in various domains of applied mathematics and computer science such as graph theory, combinatorial optimization or computational geometry. The methodology that is proposed for hex meshing is finally extended to the difficult problem of boundary layer meshing. Mesh generation is one important step of the engineering analysis process. Yet, a mesh is a tool and not an aim. A specific task of the project is dedicated to the interaction with research partners that are committed to beta-test the results of HEXTREME. All the results of HEXTREME will be provided as an open source in Gmsh.",
+    "totalCost": "2244237,5",
+    "ecMaxContribution": "2244237,5",
+    "coordinator": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 2244238
+        }
+    },
+    "calculatedTotalContribution": 2244238
+}

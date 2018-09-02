@@ -1,0 +1,93 @@
+{
+    "rcn": "211055",
+    "acronym": "ONE5G",
+    "topics": "ICT-07-2017",
+    "title": "E2E-aware Optimizations and advancements for the Network Edge of 5G New Radio",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2019",
+    "objective": "ONE5G commits to provide technical investigations and recommendations to evolve ë5Gí towards ë5G advancedí as requested by the work program. Release 15 from 3GPP is about to set up a valuable initial specification for paving the way to reach the ultimate goals for 5G. However, we see major aspects not yet reasonably covered, requiring more research activities to happen: - Means ensuring 5G to be consistently rolled-out not only in agglomerations, but also in less densely populated areas, to  avoid the digital divide to occur as in earlier generations.\n- Means ensuring 5G to support all foreseen services efficiently and concurrently in a generic way, to avoid the emergence of a set of specialised solutions lacking synergy effects such as economy of scale and multiplexing gains.\n- Means ensuring 5G to efficiently handle all degrees of heterogeneity stemming from the multiplicity of services and environments, network nodes and devices, spectrum bands and access types (licensed, unlicensed and lightly licensed).\n\nIn ONE5G, 14 experienced European players of wireless research are gathering to jointly drive forward the vision of 5G by \n- delivering advanced link enhancements beyond Release 15, including efficient multi-service access schemes, advanced massive MIMO enablers and link management mechanisms\n- researching and proposing highly generic performance optimization schemes for 5G, to achieve successful deployment and operation, including optimizations for both the network operator and the E2E user-experienced performance\n- identifying the cost driving elements for the roll-out and operation and to propose adaptations to allow sustainable provision of wireless services everywhere\n- validating the developed extensions and modifications through different approaches: analytically, by means of extensive simulations and with selected proof-of-concepts\n- producing a high number of valuable publications, IPR and standardization contributions",
+    "totalCost": "7977228,75",
+    "ecMaxContribution": "7977228,75",
+    "coordinator": "NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG",
+    "coordinatorCountry": "DE",
+    "participants": "B-COM;WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE;ORANGE SA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;HUAWEI TECHNOLOGIES DUESSELDORF GMBH;INTEL DEUTSCHLAND GMBH;TELEFONICA INVESTIGACION Y DESARROLLO SA;UNIVERSIDAD DE MALAGA;SAMSUNG ELECTRONICS (UK) LIMITED;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;FREIE UNIVERSITAET BERLIN;AALBORG UNIVERSITY;NOKIA SOLUTIONS AND NETWORKS DANMARK AS",
+    "participantCountries": "FR;EL;DE;ES;UK;DK",
+    "projectParticipants": {
+        "999765712": {
+            "orgId": "999765712",
+            "orgName": "SAMSUNG ELECTRONICS (UK) LIMITED",
+            "ecContrib": 785250
+        },
+        "999898311": {
+            "orgId": "999898311",
+            "orgName": "UNIVERSIDAD DE MALAGA",
+            "ecContrib": 341250
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 638178
+        },
+        "999912376": {
+            "orgId": "999912376",
+            "orgName": "ALCATEL-LUCENT DEUTSCHLAND AG",
+            "ecContrib": 0
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 345309
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 258231
+        },
+        "999940603": {
+            "orgId": "999940603",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG",
+            "ecContrib": 766889
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 726812
+        },
+        "967538432": {
+            "orgId": "967538432",
+            "orgName": "INTEL DEUTSCHLAND GMBH",
+            "ecContrib": 625000
+        },
+        "952269953": {
+            "orgId": "952269953",
+            "orgName": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE",
+            "ecContrib": 561250
+        },
+        "996116087": {
+            "orgId": "996116087",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS DANMARK AS",
+            "ecContrib": 686172
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 0
+        },
+        "999994826": {
+            "orgId": "999994826",
+            "orgName": "FREIE UNIVERSITAET BERLIN",
+            "ecContrib": 392455
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 632500
+        },
+        "948011362": {
+            "orgId": "948011362",
+            "orgName": "B-COM",
+            "ecContrib": 588205
+        }
+    },
+    "calculatedTotalContribution": 7347501
+}

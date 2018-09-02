@@ -1,0 +1,23 @@
+{
+    "rcn": "193775",
+    "acronym": "BrainFrame",
+    "topics": "ERC-PoC-2014",
+    "title": "Automated framework for rapid simulations of high-detail brain models",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2016",
+    "objective": "Traditional methods of software modeling and simulation take prohibitive amounts of time to run for the size and complexity of biologically realistic neuron populations (e.g. >1 million). For instance, simulation of a 100 high-detail (Inferior-Olive) neuron-network for 10 minutes of brain time take 42 hours to complete on an modern PC workstation. To tackle this problem - common to the international neuroscience community -, we have turned to hardware-accelerated simulation platforms. We have employed award-winning, FPGA -based, dataflow machines provided by Maxeler Technologies, which offer high-performance computing capabilities and come with programming tools of unprecedented user friendliness. Our current Maxeler setups have offered impressive acceleration rates of more than 4 orders of magnitude (x10000). Despite the achieved speeds, however, we have found the Maxeler programming tools to be cumbersome to learn by neuromodelers with little hardware knowledge. Engineering personnel has, thus, been employed to assist them in (efficiently) translating and deploying their models. To streamline this process and bring a powerful tool directly to the hands of modelers, we propose BrainFrame, a novel system consisting of Maxeler hardware and a comprehensive software toolflow, effectively adding an abstraction level for neuromodelers to work on without specific knowledge of the underlying simulation platform. BrainFrame comprises a ìone-stop shopî, integrated solution primarily targeting labs and companies active in the field of brain-modeling research and applications.",
+    "totalCost": "149937",
+    "ecMaxContribution": "149937",
+    "coordinator": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999988424": {
+            "orgId": "999988424",
+            "orgName": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+            "ecContrib": 149937
+        }
+    },
+    "calculatedTotalContribution": 149937
+}

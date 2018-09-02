@@ -1,0 +1,23 @@
+{
+    "rcn": "210935",
+    "acronym": "BigFastData",
+    "topics": "ERC-2016-COG",
+    "title": "Charting a New Horizon of Big and Fast Data Analysis through Integrated Algorithm Design",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "This proposal addresses a pressing need from emerging big data applications such as genomics and data center monitoring: besides the scale of processing, big data systems must also enable perpetual, low-latency processing for a broad set of analytical tasks, referred to as big and fast data analysis. Todayís technology falls severely short for such needs due to the lack of support of complex analytics with scale, low latency, and strong guarantees of user performance requirements. To bridge the gap, this proposal tackles a grand challenge: ìHow do we design an algorithmic foundation that enables the development of all necessary pillars of big and fast data analysis?î This proposal considers three pillars:  \n1) Parallelism: There is a fundamental tension between data parallelism (for scale) and pipeline parallelism (for low latency). We propose new approaches based on intelligent use of memory and workload properties to integrate both forms of parallelism.\n2) Analytics: The literature lacks a large body of algorithms for critical order-related analytics to be run under data and pipeline parallelism. We propose new algorithmic frameworks to enable such analytics.\n3) Optimization: To run analytics, today's big data systems are best effort only. We transform such systems into a principled optimization framework that suits the new characteristics of big data infrastructure and adapts to meet user performance requirements.\n\nThe scale and complexity of the proposed algorithm design makes this project high-risk, at the same time, high-gain: it will lay a solid foundation for big and fast data analysis, enabling a new integrated parallel processing paradigm, algorithms for critical order-related analytics, and a principled optimizer with strong performance guarantees. It will also broadly enable accelerated information discovery in emerging domains such as genomics, as well as economic benefits of early, well-informed decisions and reduced user payments.",
+    "totalCost": "2472752",
+    "ecMaxContribution": "2472752",
+    "coordinator": "Ecole Polytechnique of Paris",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999864264": {
+            "orgId": "999864264",
+            "orgName": "ECOLE POLYTECHNIQUE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

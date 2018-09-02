@@ -1,0 +1,23 @@
+{
+    "rcn": "213443",
+    "acronym": "IPTheoryUnified",
+    "topics": "ERC-2017-COG",
+    "title": "Inverse boundary problems: toward a unified theory",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2023",
+    "objective": "This proposal is concerned with the mathematical theory of inverse problems. This is a vibrant research field at the intersection of pure and applied mathematics, drawing techniques from PDE, geometry, and harmonic analysis as well as generating new research questions inspired by applications. Prominent questions include the CalderÛn problem related to electrical imaging, the Gel'fand problem related to seismic imaging, and geometric inverse problems such as inversion of the geodesic X-ray transform.\n\nRecently, exciting new connections between these different topics have begun to emerge in the work of the PI and others, such as: \n\n- The explicit appearance of the geodesic X-ray transform in the CalderÛn problem.\n- An unexpected connection between the CalderÛn and Gelífand problems involving control theory.\n- Pseudo-linearization as a potential unifying principle for reducing nonlinear problems to linear ones.\n- The introduction of microlocal normal forms in inverse problems for PDE.\n\nThese examples strongly suggest that there is a larger picture behind various different inverse problems, which remains to be fully revealed.\n\nThis project will explore the possibility of a unified theory for several inverse boundary problems. Particular objectives include:\n\n1. The use of normal forms and pseudo-linearization as a unified point of view, including reductions to questions in integral geometry and control theory.\n2. The solution of integral geometry problems, including the analysis of convex foliations, invertibility of ray transforms, and a systematic Carleman estimate approach to uniqueness results.\n3. A theory of inverse problems for nonlocal models based on control theory arguments.\n\nSuch a unified theory could have remarkable consequences even in other fields of mathematics, including controllability methods in transport theory, a solution of the boundary rigidity problem in geometry, or a general pseudo-linearization approach for solving nonlinear operator equations.",
+    "totalCost": "920880",
+    "ecMaxContribution": "920880",
+    "coordinator": "JYVASKYLAN YLIOPISTO",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999842245": {
+            "orgId": "999842245",
+            "orgName": "JYVASKYLAN YLIOPISTO",
+            "ecContrib": 920880
+        }
+    },
+    "calculatedTotalContribution": 920880
+}

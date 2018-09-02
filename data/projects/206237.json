@@ -1,0 +1,63 @@
+{
+    "rcn": "206237",
+    "acronym": "SABINA",
+    "topics": "LCE-01-2016-2017",
+    "title": "SmArt BI-directional multi eNergy gAteway",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2020",
+    "objective": "Flexibility needs to be added to Europeís power system to accommodate an increasing share of variable power generation from renewable sources. Indeed, service quality issues start to arise on the grid when this share in electricity consumption reaches 10%. To meet the EUís targets for reduction of greenhouse gas emissions this share should rise to 30% by 2030 and up to 50% by 2050. The cost of this transition and the necessary measures to guarantee stable and continuous supply are a major political concern. The SABINA project responds to it by targeting the cheapest possible source of flexibility: the existing thermal inertia in buildings and the coupling between heat and electricity networks it enables.\nThis coupling requires accurately estimating the thermal inertia of many buildings. SABINAís partner the University of Navarra has created a breakthrough, automatic method for this estimation, which shall be scaled up, validated and integrated in a complete management system through this project. This system will operate on two complementary time horizons:\nï One day: aggregation and management at the district level of the electric and thermal flexibilities, and conversion and storage of the excess electrical energy to thermal energy in the freely available building inertia.\nï Seconds to minutes: local control of inverters feeding renewable electricity to the grid, with optimal parameters automatically determined at the district level.\nResearch partners will develop novel control and optimization algorithms, and integrate and evaluate the system in lab and operational settings. The SABINA solution is compatible with both new and existing buildings; it is planned to be deployed within five years of the end of the project. Lead users are present in the consortium: Telvent and SMS plc, the coordinator, for the architecture, and Insero for the business model it enables; compliance and contribution to relevant standards will be ensured by the European Digital SME Alliance",
+    "totalCost": "4611041,25",
+    "ecMaxContribution": "3789868,75",
+    "coordinator": "SMS ENERGY SERVICES LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;EUROPEAN DIGITAL SME ALLIANCE;NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA;INSERO AS;FUNDACIO INSTITUT DE RECERCA DE L'ENERGIA DE CATALUNYA;SCHNEIDER ELECTRIC ESPANA SA;UNIVERSIDAD DE NAVARRA;AMIRES SRO",
+    "participantCountries": "CH;BE;EL;DK;ES;CZ",
+    "projectParticipants": {
+        "956723805": {
+            "orgId": "956723805",
+            "orgName": "AMIRES SRO",
+            "ecContrib": 236250
+        },
+        "999641746": {
+            "orgId": "999641746",
+            "orgName": "UNIVERSIDAD DE NAVARRA",
+            "ecContrib": 496560
+        },
+        "956978236": {
+            "orgId": "956978236",
+            "orgName": "INSERO AS",
+            "ecContrib": 622964
+        },
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 548375
+        },
+        "991656609": {
+            "orgId": "991656609",
+            "orgName": "EUROPEAN DIGITAL SME ALLIANCE",
+            "ecContrib": 500000
+        },
+        "974978429": {
+            "orgId": "974978429",
+            "orgName": "SMS ENERGY SERVICES LIMITED",
+            "ecContrib": 377100
+        },
+        "951742079": {
+            "orgId": "951742079",
+            "orgName": "SCHNEIDER ELECTRIC ESPANA SA",
+            "ecContrib": 472431
+        },
+        "996435993": {
+            "orgId": "996435993",
+            "orgName": "FUNDACIO INSTITUT DE RECERCA DE L'ENERGIA DE CATALUNYA",
+            "ecContrib": 516250
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 19939
+        }
+    },
+    "calculatedTotalContribution": 3789869
+}

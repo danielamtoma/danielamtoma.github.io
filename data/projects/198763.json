@@ -1,0 +1,63 @@
+{
+    "rcn": "198763",
+    "acronym": "ReconCell",
+    "topics": "FoF-09-2015",
+    "title": "A Reconfigurable robot workCell for fast set-up of automated assembly processes in SMEs",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2018",
+    "objective": "ReconCell develops a new type of robot workcell, its required process infrastructures and the economic framework for automated robot assembly, especially designed for the needs of SMEs. SMEs would benefit from robotic automation, but often cannot use it due to set-up & maintenance complexity. This requires expert knowledge and time for configuration and programming, which is too costly for them. Robotic automation is, thus, normally economically infeasible for SMEs, especially for small batch sizes. ReconCell develops an easy to (re-)configure and (re-)program workcell, making robot solutions commercially viable even for small batch sizes (~1000 units) by reducing set-up & maintenance effort substantially.\n\nSpecifically, the ReconCell System is based on a layered concept where we start together with the customer with business modelling the planned product assembly based on the ReconCell System to assess its economic viability and provide decisive Key Performance Indicators (KPIs). On approval, the next layer of the ReconCell System implements assembly with automated testing in simulation. Here we use reconfigurable hardware elements to design the required workcell layout and assembly processes. After verification, product assembly takes place in the real workcell under machine vision-based monitoring and novel force-based control of execution to assure product quality using the KPIs. We demonstrate the capabilities of the layered ReconCell System on three real use cases provided by the SMEs of our consortium and two more use cases, established through an open call. In addition, the consortium has started to establish a network of potential ReconCell users to disseminate information about ReconCell technologies to all actors in the value chain, and to raise awareness about the possibilities of automated robot assembly in SMEs. The final aim is to establish a company that commercializes the workcell and associated technologies developed in the ReconCell project.",
+    "totalCost": "6306457",
+    "ecMaxContribution": "5561569",
+    "coordinator": "INSTITUT JOZEF STEFAN",
+    "coordinatorCountry": "SI",
+    "participants": "ELVEZ, PROIZVODNJA KABELSKE KONFEKCIJE IN PREDELAVA PLASTICNIH MAS DOO;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS;INNOVAATION OY UUSI TEHDAS;SYDDANSK UNIVERSITET;BLUE OCEAN ROBOTICS APS;UAB PRECIZIKA METAL;LOGICDATA ELECTRONIC & SOFTWARE ENTWICKLUNGS GMBH",
+    "participantCountries": "SI;DE;FI;DK;LT;AT",
+    "projectParticipants": {
+        "933662152": {
+            "orgId": "933662152",
+            "orgName": "UAB PRECIZIKA METAL",
+            "ecContrib": 222040
+        },
+        "933945683": {
+            "orgId": "933945683",
+            "orgName": "ELVEZ, PROIZVODNJA KABELSKE KONFEKCIJE IN PREDELAVA PLASTICNIH MAS DOO",
+            "ecContrib": 215138
+        },
+        "999845640": {
+            "orgId": "999845640",
+            "orgName": "GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS",
+            "ecContrib": 813975
+        },
+        "999904616": {
+            "orgId": "999904616",
+            "orgName": "SYDDANSK UNIVERSITET",
+            "ecContrib": 1080060
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 926980
+        },
+        "933525479": {
+            "orgId": "933525479",
+            "orgName": "LOGICDATA ELECTRONIC & SOFTWARE ENTWICKLUNGS GMBH",
+            "ecContrib": 241570
+        },
+        "949746886": {
+            "orgId": "949746886",
+            "orgName": "BLUE OCEAN ROBOTICS APS",
+            "ecContrib": 677488
+        },
+        "986580308": {
+            "orgId": "986580308",
+            "orgName": "INNOVAATION OY UUSI TEHDAS",
+            "ecContrib": 381836
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 1002482
+        }
+    },
+    "calculatedTotalContribution": 5561569
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "207386",
+    "acronym": "CC-MEM",
+    "topics": "ERC-2016-STG",
+    "title": "Coordination and Composability: The Keys to Efficient Memory System Design",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "Computer systems today are power limited. As a result, efficiency gains can be translated into performance. Over the past decade we have been so effective at making computation more efficient that we are now at the point where we spend as much energy moving data (from memory to cache to processor) as we do computing the results. And this trend is only becoming worse as we demand more bandwidth for more powerful processors. To improve performance we need to revisit the way we design memory systems from an energy-first perspective, both at the hardware level and by coordinating data movement between hardware and software.\n\nCC-MEM will address memory system efficiency by redesigning low-level hardware and high-level hardware/software integration for energy efficiency. The key novelty is in developing a framework for creating efficient memory systems. This framework will enable researchers and designers to compose solutions to different memory system problems (through a shared exchange of metadata) and coordinate them towards high-level system efficiency goals (through a shared policy framework). Central to this framework is a bilateral exchange of metadata and policy between hardware and software components. This novel communication will open new challenges and opportunities for fine-grained optimizations, system-level efficiency metrics, and more effective divisions of responsibility between hardware and software components. \n\nCC-MEM will change how researchers and designers approach memory system design from todayís ad hoc development of local solutions to one wherein disparate components can be integrated (composed) and driven (coordinated) by system-level metrics. As a result, we will be able to more intelligently manage data, leading to dramatically lower memory system energy and increased performance, and open new possibilities for hardware and software optimizations.",
+    "totalCost": "1610000",
+    "ecMaxContribution": "1610000",
+    "coordinator": "UPPSALA UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985029": {
+            "orgId": "999985029",
+            "orgName": "UPPSALA UNIVERSITET",
+            "ecContrib": 1610000
+        }
+    },
+    "calculatedTotalContribution": 1610000
+}

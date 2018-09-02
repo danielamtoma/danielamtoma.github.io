@@ -1,0 +1,68 @@
+{
+    "rcn": "206353",
+    "acronym": "euBusinessGraph",
+    "topics": "ICT-14-2016-2017",
+    "title": "Enabling the European Business Graph for Innovative Data Products and Services",
+    "startDate": "01/01/2017",
+    "endDate": "30/06/2019",
+    "objective": "Corporate information, including basic company firmographics (e.g., name(s), incorporation data, registered addresses, ownership and related entities), financials (e.g., balance sheets, ratings) as well as contextual data (e.g., cadastral data on corporate properties, geo data, data about directors and shareholders, public tenders data, press mentions) are the foundation that many data value chains are built on. Furthermore, this type of information contributes to the transparency and accountability of enterprises, is instrumental input to the process of marketing and sales, and plays a key role in many business interactions.\nExisting initiatives to increase the interoperability and access of corporate data are mostly fragmented (across borders), limited in scope and size, and silo-ed within specific business communities with limited accessibility from outside their originating sectors and countries. As a result, collecting and aggregating data about a business entity from several public sources (be it private/public, official or non-official ones), and especially across country borders and languages is a tedious, time consuming, error prone, and very expensive operation which renders many potential business models non-feasible.\neuBusinessGraph represents a key initiative to simplify and disrupt the cross-border and cross-lingual collection, reconciliation, aggregation, and provisioning and analytics of company-related data from authoritative and non-authoritative public or private sector sources, with the aim of enabling cross-sectorial innovation. By a combination of large companies, SMEs, public organizations, and technology transfer providers euBusinessGraph sets the foundations of a European cross-border and cross-lingual ìbusiness graphî, aggregating, linking, and provisioning (open and non-open) high-quality company-related data, demonstrating innovation across sectors where company-related data value chains are relevant.",
+    "totalCost": "3601500",
+    "ecMaxContribution": "3099900",
+    "coordinator": "STIFTELSEN SINTEF",
+    "coordinatorCountry": "NO",
+    "participants": "ONTOTEXT AD;CERVED GROUP SPA;DEUTSCHE WELLE;INSTITUT JOZEF STEFAN;SPAZIODATI SRL;EVRY NORGE AS;UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA;CHRINON LTD;REGISTERENHETEN I BRONNOYSUND",
+    "participantCountries": "BG;IT;DE;SI;NO;UK",
+    "projectParticipants": {
+        "999923531": {
+            "orgId": "999923531",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+            "ecContrib": 204125
+        },
+        "953330357": {
+            "orgId": "953330357",
+            "orgName": "CHRINON LTD",
+            "ecContrib": 266175
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 969325
+        },
+        "999586262": {
+            "orgId": "999586262",
+            "orgName": "DEUTSCHE WELLE",
+            "ecContrib": 334750
+        },
+        "997893806": {
+            "orgId": "997893806",
+            "orgName": "ONTOTEXT AD",
+            "ecContrib": 133612
+        },
+        "983424413": {
+            "orgId": "983424413",
+            "orgName": "REGISTERENHETEN I BRONNOYSUND",
+            "ecContrib": 185675
+        },
+        "941528173": {
+            "orgId": "941528173",
+            "orgName": "CERVED GROUP SPA",
+            "ecContrib": 126000
+        },
+        "952411185": {
+            "orgId": "952411185",
+            "orgName": "SPAZIODATI SRL",
+            "ecContrib": 190312
+        },
+        "955170059": {
+            "orgId": "955170059",
+            "orgName": "EVRY NORGE AS",
+            "ecContrib": 454300
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 235625
+        }
+    },
+    "calculatedTotalContribution": 3099899
+}

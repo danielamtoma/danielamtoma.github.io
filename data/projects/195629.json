@@ -1,0 +1,23 @@
+{
+    "rcn": "195629",
+    "acronym": "MWMI",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Mesoscopic characterization of human white-matter: a computational in-vivo MRI framework",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2017",
+    "objective": "The goal of this highly multi-disciplinary and inter-sectional proposal is to develop a novel computational in-vivo MRI technique, namely Mesoscopic White-Matter magnetic resonance Imaging (MWMI). MWMI will measure 5 specific micro-scale metrics at a mesoscopic spatial resolution of about 300 ?m: myelin, iron, water concentration, axonal density, and the ratio between inner and outer fiber diameter (g-ratio) - a surrogate measure for its conductance speed. Conventional quantitative MRI (qMRI), such as Diffusion Tensor Imaging, can detect but not determine the origin of microstructural changes, whereas MWMI will both detect microstructural changes and identify their origin (e.g. whether learning leads to axonal reorganization or myelination). \nTo facilitate MWMI, 3 major methodological innovations will be developed: \n(a) Advanced biophysical models: Unlike existing biophysical models (e.g. axonal diameter model), which are ill posed due to the restriction to one qMRI mechanism, MWMI will combine 4 different qMRI mechanisms (relaxometry, diffusion MRI, magnetization transfer, and proton density imaging) to better condition its models. \n(b) Spatial integration: Novel physically-informed artifact correction methods will allow spatial integration of high-quality maps from 4 different qMRI techniques with sub-voxel accuracy. \n(c) Mesoscopic resolution: Unlike standard biophysical models and qMRI, the unprecedented resolution of MWMI will allow estimating micro-scale metrics within the white matter that are unbiased by partial volume effects.\nThe pain circuit, which is a fundamental and well-described sense, will be used to demonstrate the feasibility of MWMI. Longitudinal MWMI be performed to measure micro-scale correlated of nociceptive long-term habituation in the spinal cord, the first and crucial anatomical structure associated with pain.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "UNIVERSITAETSKLINIKUM HAMBURG-EPPENDORF",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999857474": {
+            "orgId": "999857474",
+            "orgName": "UNIVERSITAETSKLINIKUM HAMBURG-EPPENDORF",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

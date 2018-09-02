@@ -1,0 +1,23 @@
+{
+    "rcn": "205332",
+    "acronym": "ProCovar",
+    "topics": "ERC-ADG-2015",
+    "title": "Exploring new applications of amino acid covariation analysis in modelling proteins and their complexes",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2021",
+    "objective": "As a result of the rapid development of next generation sequencing, we now have access to hundreds and often many thousands of sequences which belong to the same family. Such a large amount of sequence data for a particular protein family, along with recent developments in computational statistics, enables an entirely new kind of evolutionary analysis to be performed on sequences, where for the first time we can compute statistically significant networks of correlated mutations. The proposal describes an integrated programme of work to fully explore the potential applications of the new amino acid covariation techniques in predicting aspects of protein structure and function. A particular emphasis in this proposal are proteins which are difficult to study by experimental techniques i.e. disordered proteins, transmembrane proteins and large complexes. The first objective will be to explore key developments in the underpinning algorithms, tackling both the issue of needing very large numbers of homologous sequences and also the downstream 3-D embedding to produce viable models. The second objective will involve experimental work with a collaborator where the idea that de novo protein design techniques might be exploited to artificially expand the set of available sequences for a given proto-family will be explored. The third objective will focus specifically on transmembrane protein modelling, where covariation-based approaches have proven to be highly effective. Here the goal will be to extend our existing FILM3 method to encompass both beta-barrel type TM proteins, but also to try to handle the issue of homomultimers, which is a critical aspect of TM protein modelling as so many families are known to adopt higher orders of structure than the fold level alone. Finally, applications of covariation analysis to probing multiple conformations of disordered proteins will be developed, with a specific focus on interactions of disordered proteins with DNA and RNA.",
+    "totalCost": "2433679",
+    "ecMaxContribution": "2433679",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 2433679
+        }
+    },
+    "calculatedTotalContribution": 2433679
+}

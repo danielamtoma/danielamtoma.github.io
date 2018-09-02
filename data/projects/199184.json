@@ -1,0 +1,78 @@
+{
+    "rcn": "199184",
+    "acronym": "COSMICC",
+    "topics": "ICT-27-2015",
+    "title": "CmOs Solutions for Mid-board Integrated transceivers with breakthrough Connectivity at ultra-low Cost",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "The COSMICC consortium gathers key industrial and research partners with world-leading positions in the fields of Silicon photonics, CMOS electronics, Printed Circuit Board-Packaging, Optical transceivers and Data-Centers around a strong vision: mass commercialization of Si-photonics-based transceivers is possible starting in 2019 by enhancing the existing photonic integration platform of one of the partners, STMicroelectronics.\nCOSMICC will develop optical transceivers that will be packaged on-board. Combining CMOS electronics and Si-photonics with innovative-high-throughput fiber-attachment techniques, the developed solutions are scalable to meet the future data-transmission requirements in data-centers and Super computing systems. With performances improved by an order of magnitude as compared with current VCSELs transceivers, COSMICC developed technology will answer tremendous market needs with a target cost per bit that the traditional WDM transceivers cannot meet. The early setting up of a new value chain will enable exploitation of the developed technologies.\nIn a first high reward step-modification of the fabrication platform, COSMICC consortium will achieve mid-board optical transceivers in the [2Tbit/s -2pJ/bit- 0.2Ä per Gbit/s]-class with ~200Gbit/s per fiber: the introduction of one process brick (SiN layer) in the photonic process will enable low-cost packaging techniques (up to 2x12 fiber channels) and practical coarse WDM implementation (4 wavelengths with no temperature-control requirements). The built demonstrators will be tested in lab and field environments. In compliancy with the enhanced-fabrication platform, lasers will be developed by heterogeneous integration of III-V material, targeting improved temperature behavior, and doubled-bit-rate payback.\nA second step-modification of the fabrication platform will consist in evaluating a disruptive process that enables SiGe layers with tunable Si-composition for achieving micrometer-scale devices.",
+    "totalCost": "3986635",
+    "ecMaxContribution": "3736897,5",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "FINISAR GERMANY GMBH;AYMING;STMICROELECTRONICS CROLLES 2 SAS;VARIO-OPTICS AG;SEAGATE SYSTEMS UK LIMITED;UNIVERSITE PARIS-SUD;THE UNIVERSITY COURT OF THE UNIVERSITY OF ST ANDREWS;CORK INSTITUTE OF TECHNOLOGY;UNIVERSITA DEGLI STUDI DI PAVIA;UNIVERSITY OF SOUTHAMPTON;STMICROELECTRONICS SRL",
+    "participantCountries": "DE;FR;CH;UK;IE;IT",
+    "projectParticipants": {
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 476428
+        },
+        "999728076": {
+            "orgId": "999728076",
+            "orgName": "SEAGATE SYSTEMS UK LIMITED",
+            "ecContrib": 301520
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 942608
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 352250
+        },
+        "999750580": {
+            "orgId": "999750580",
+            "orgName": "STMICROELECTRONICS CROLLES 2 SAS",
+            "ecContrib": 692708
+        },
+        "999595089": {
+            "orgId": "999595089",
+            "orgName": "CORK INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 211320
+        },
+        "999907235": {
+            "orgId": "999907235",
+            "orgName": "UNIVERSITE PARIS-SUD",
+            "ecContrib": 75938
+        },
+        "999893752": {
+            "orgId": "999893752",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PAVIA",
+            "ecContrib": 320250
+        },
+        "954612212": {
+            "orgId": "954612212",
+            "orgName": "VARIO-OPTICS AG",
+            "ecContrib": 0
+        },
+        "999944968": {
+            "orgId": "999944968",
+            "orgName": "AYMING",
+            "ecContrib": 88750
+        },
+        "985883751": {
+            "orgId": "985883751",
+            "orgName": "FINISAR GERMANY GMBH",
+            "ecContrib": 192812
+        },
+        "999984253": {
+            "orgId": "999984253",
+            "orgName": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ST ANDREWS",
+            "ecContrib": 82315
+        }
+    },
+    "calculatedTotalContribution": 3736899
+}

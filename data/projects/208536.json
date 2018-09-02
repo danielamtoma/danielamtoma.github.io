@@ -1,0 +1,23 @@
+{
+    "rcn": "208536",
+    "acronym": "DataSci4Tapoi",
+    "topics": "INNOSUP-02-2016",
+    "title": "Data Science for Tapoi",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2018",
+    "objective": "Tapoi (http://www.tapoi.me/) is an innovative customer intelligence service for web portal owners and mobile application developers. Tapoi leverages online activities of users to provide actionable knowledge on their interests and attitudes, allowing the optimization of offers and contents and the improvement of the user experience. Tapoi semantically analyzes the collected activities understanding precisely the meaning of texts, urls, places and tags and uses such meaning to build rich and detailed user profiles describing the interests and preferences demonstrated by the usersí activities. \nThe technological core of Tapoi is a profiling engine that can be specifically tailored to a vertical domain. This engine is able to collect the user activities from the social networks and to semantically analyze them in order to capture deep and detailed knowledge about their interests and preferences.\nWhile the customer feedback has been so far very good, and the product is considered to have achieved product-market fit, its current version presents a number of shortcomings which may harm growth and thereby prevent the applicant to fully exploit its business potential. \nThis is related to the construction of models for specific domain, something which at the moment is carried out manually with the assistance of third-party subject matter expert, and the matching functionality which is bespoke and typically defined at design time (hence before the service becomes deployed).  \nU-Hopper believes that advanced data science and machine learning approaches could be successfully applied to tackle the aforementioned issues, thereby providing a boost to the growth of the company and positioning it at the forefront of user analytics for web portals and mobile apps. The project aims at complementing the current team expertise by hiring a top-notch data scientist able to work with the Tapoi team to deliver a new, enhanced version of the product.",
+    "totalCost": "85250",
+    "ecMaxContribution": "85250",
+    "coordinator": "U-HOPPER SRL",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "958182394": {
+            "orgId": "958182394",
+            "orgName": "U-HOPPER SRL",
+            "ecContrib": 85250
+        }
+    },
+    "calculatedTotalContribution": 85250
+}

@@ -1,0 +1,88 @@
+{
+    "rcn": "197350",
+    "acronym": "CHARISMA",
+    "topics": "ICT-14-2014",
+    "title": "Converged Heterogeneous Advanced 5G Cloud-RAN Architecture for Intelligent and Secure Media Access",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2017",
+    "objective": "CHARISMA proposes an intelligent hierarchical routing and paravirtualised architecture that unites two important concepts: devolved offload with shortest path nearest to end-users and an end-to-end security service chain via virtualized open access physical layer security (PLS). The CHARISMA architecture meets the goals of low-latency (<1ms) and security required for future converged wireless/wireline advanced 5G networking. This provides a cloud infrastructure platform with increased spectral and energy efficiency and enhanced performance targeting the identified needs for 1000-fold increased mobile data volume, 10-100 times higher data rates, 10-100 times more connected devices and 5x reduced latency. \n\nFully aligned and committed to the 5G-PPP principles and KPIs, the CHARISMA proposal brings together 10G-wireless (via mm-wave/60-GHz & free-space optics, FSO) access and 100G fixed optical (OFDM-PON) solutions through an intelligent cloud radio-access-network (C-RAN) and intelligent radio remote head (RRH) platform with IPv6 Trust Node routing featuring very low-latency for the traffic management. Low-cost Ethernet is used across front- and backhaul, and end-user equipment (vCPE), and intelligence distributed across the back-, front-hauls, and perimetric data transports. Ad-hoc mobile device interconnectivities (D2D, D2I, C2C etc.), content delivery network (CDN) and mobile distributed caching (MDC) offer an energy-efficient (better than x20 improvement possible) information-centric networking (ICN) architecture. Furthermore, caching will provide efficient utilization of scarce resources by early aggregating data or/and by executing communication locally. \n\nThe CHARISMA approach will benefit user experiences with ground-breaking low-latency services, high-bandwidth, and mobile cloud resilient network security.",
+    "totalCost": "5892245",
+    "ecMaxContribution": "5892245",
+    "coordinator": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "TELEKOM SLOVENIJE DD;ETHERNITY NETWORKS LTD;APFUTURA INTERNACIONAL SOLUCIONES SL;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTRACOM SA TELECOM SOLUTIONS;COSMOTE KINITES TILEPIKOINONIES AE;INNOROUTE GMBH;ALTICE LABS SA;JCP-CONNECT;UNIVERSITY OF ESSEX;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";INCITES CONSULTING SARL;ERICSSON ESPANA SA",
+    "participantCountries": "SI;IL;ES;DE;EL;PT;FR;UK;LU",
+    "projectParticipants": {
+        "949872307": {
+            "orgId": "949872307",
+            "orgName": "INCITES CONSULTING SARL",
+            "ecContrib": 276250
+        },
+        "999654550": {
+            "orgId": "999654550",
+            "orgName": "COSMOTE KINITES TILEPIKOINONIES AE",
+            "ecContrib": 213000
+        },
+        "955602485": {
+            "orgId": "955602485",
+            "orgName": "APFUTURA INTERNACIONAL SOLUCIONES SL",
+            "ecContrib": 282500
+        },
+        "983002463": {
+            "orgId": "983002463",
+            "orgName": "INNOROUTE GMBH",
+            "ecContrib": 458750
+        },
+        "999856989": {
+            "orgId": "999856989",
+            "orgName": "UNIVERSITY OF ESSEX",
+            "ecContrib": 647772
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 401500
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 557312
+        },
+        "999941088": {
+            "orgId": "999941088",
+            "orgName": "ERICSSON ESPANA SA",
+            "ecContrib": 369562
+        },
+        "999911503": {
+            "orgId": "999911503",
+            "orgName": "ALTICE LABS SA",
+            "ecContrib": 245750
+        },
+        "957062432": {
+            "orgId": "957062432",
+            "orgName": "TELEKOM SLOVENIJE DD",
+            "ecContrib": 152500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 672348
+        },
+        "990607845": {
+            "orgId": "990607845",
+            "orgName": "ETHERNITY NETWORKS LTD",
+            "ecContrib": 709375
+        },
+        "999969994": {
+            "orgId": "999969994",
+            "orgName": "INTRACOM SA TELECOM SOLUTIONS",
+            "ecContrib": 491875
+        },
+        "999760183": {
+            "orgId": "999760183",
+            "orgName": "JCP-CONNECT",
+            "ecContrib": 413750
+        }
+    },
+    "calculatedTotalContribution": 5892244
+}

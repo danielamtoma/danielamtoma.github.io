@@ -1,0 +1,88 @@
+{
+    "rcn": "213095",
+    "acronym": "SecureIoT",
+    "topics": "IoT-03-2017",
+    "title": "Predictive Security for IoT Platforms and Networks of Smart Objects",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "The IoT market is currently undergoing transformation from applications involving semi-passive devices operating within a single platform, to applications involving smart objects with embedded intelligence while spanning multiple platforms. State-of-the-art security mechanisms are not sufficient for protecting end-to-end this wave of IoT applications.\nSecureIoT is a joint effort of global leaders in IoT services and IoT cybersecurity to secure the next generation of dynamic, decentralized IoT systems, which will span spanning multiple IoT platforms and networks of smart objects, through implementing a range of predictive IoT security services. SecureIoT will architect predictive security services in-line with leading edge reference architectures (RA) for IoT applications (i.e. RAs of the Industrial Internet Consortium, the OpenFog Consortium and the Platform Industrie 4.0), which will serve as a basis for specifying security building blocks at both the edge and the core of IoT systems. SecureIoT will provide concrete implementations of security data collection, security monitoring and predictive security mechanisms, which will be the basis for offering integrated services for risk assessment, compliance auditing against regulations and directives (e.g. GDPR, NIS, ePrivacy), as well as support to IoT developers based on programming annotations.  The services will be open and based on the SECaaS (Security-as-a-Service) paradigm.\nThe SecureIoT services will be challenged in market driven scenarios and use cases in the areas of smart manufacturing (Industrie 4.0), connected cars and IoT-enabled socially assistive robots. Their deployment will be based on both enterprise-scale globally available IoT platforms and community open source platform of the partners. As part of its exploitation strategy, SecureIoT will integrate a multi-sided market platform in order to offer SECaaS services, but also to enable integration of additional security mechanisms in its ecosystem.",
+    "totalCost": "4860335",
+    "ecMaxContribution": "4860335",
+    "coordinator": "INTRASOFT INTERNATIONAL SA",
+    "coordinatorCountry": "BE",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;FUJITSU TECHNOLOGY SOLUTIONS GMBH;P@SSPORT HOLLAND BV;SIEMENS SRL;RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES;ATOS SPAIN SA;IDIADA AUTOMOTIVE TECHNOLOGY SA;UBITECH LIMITED;SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS;INNOVATION SPRINT;DWF GERMANY RECHTSANWALTSGESELLSCHAFT MBH;LUXAI SA;IT'S OWL CLUSTERMANAGEMENT GMBH",
+    "participantCountries": "FR;DE;NL;RO;EL;ES;CY;BE;LU",
+    "projectParticipants": {
+        "953556755": {
+            "orgId": "953556755",
+            "orgName": "SIEMENS SRL",
+            "ecContrib": 305750
+        },
+        "950006070": {
+            "orgId": "950006070",
+            "orgName": "DWF GERMANY RECHTSANWALTSGESELLSCHAFT MBH",
+            "ecContrib": 251250
+        },
+        "925884886": {
+            "orgId": "925884886",
+            "orgName": "P@SSPORT HOLLAND BV",
+            "ecContrib": 224375
+        },
+        "999582382": {
+            "orgId": "999582382",
+            "orgName": "RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES",
+            "ecContrib": 374375
+        },
+        "999702371": {
+            "orgId": "999702371",
+            "orgName": "INTRASOFT INTERNATIONAL SA",
+            "ecContrib": 488500
+        },
+        "997415402": {
+            "orgId": "997415402",
+            "orgName": "FUJITSU TECHNOLOGY SOLUTIONS GMBH",
+            "ecContrib": 663000
+        },
+        "915343023": {
+            "orgId": "915343023",
+            "orgName": "IT'S OWL CLUSTERMANAGEMENT GMBH",
+            "ecContrib": 255000
+        },
+        "912299454": {
+            "orgId": "912299454",
+            "orgName": "LUXAI SA",
+            "ecContrib": 270118
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 462500
+        },
+        "999788313": {
+            "orgId": "999788313",
+            "orgName": "IDIADA AUTOMOTIVE TECHNOLOGY SA",
+            "ecContrib": 217100
+        },
+        "983282308": {
+            "orgId": "983282308",
+            "orgName": "SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS",
+            "ecContrib": 317500
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 378250
+        },
+        "919699584": {
+            "orgId": "919699584",
+            "orgName": "INNOVATION SPRINT",
+            "ecContrib": 326992
+        },
+        "926362126": {
+            "orgId": "926362126",
+            "orgName": "UBITECH LIMITED",
+            "ecContrib": 325625
+        }
+    },
+    "calculatedTotalContribution": 4860335
+}

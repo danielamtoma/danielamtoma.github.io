@@ -1,0 +1,17 @@
+{
+    "rcn": "214871",
+    "acronym": "BPR4GDPR",
+    "topics": "DS-08-2017",
+    "title": "Business Process Re-engineering and functional toolkit for GDPR compliance",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2021",
+    "objective": "The goal of BPR4GDPR is to provide a holistic framework able to support end-to-end GDPR-compliant intra- and inter-organisational ICT-enabled processes at various scales, while also being generic enough, fulfilling operational requirements covering diverse application domains. To this end, proposed solutions will have a strong semantic foundation and cover the full process lifecycle addressing major challenges and priorities posed by the regulation, including requirements interpretation, broad territorial scope, accountability, security means enforcement, data subjectís rights and consent, unified data view and processing actions inventory, privacy by design, etc.\nThe starting point will be process models, either automatically discovered through organisation logs or manually specified, formally expressed through a Compliance Metamodel, a comprehensive process modelling technology able to capture advanced privacy provisions. Thereupon, a highly expressive policy framework will guide the automatic verification of these models regarding GDPR requirements, and their subsequent transformation, so that they are rendered inherently privacy-aware before being deployed for execution. Subsequently, the consistent execution of GDPR-compliant processes will be ensured by a comprehensive set of tools able to support all diverging requirements that may arise from GDPR, related to data handling, data subjectsí involvement, various PETs, etc., so that even organisations with currently no such infrastructure in place can readily have such mechanisms. Finally, process mining will be extensively used for the ex post analysis of processes, in order to ensure that specified policies are indeed enforced. However, apart from verifying compliance, such techniques will offer the added value of automatically improving process models over time towards optimised fulfillment of both legal and business requirements. \nDeployed on the Cloud, BPR4GDPR will provide for Compliance-as-a-Service (CaaS)",
+    "totalCost": "3792149,86",
+    "ecMaxContribution": "2974012,4",
+    "coordinator": "CAS SOFTWARE AG",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA;ILEKTRONIKI DIAKYVERNISI KOINONIKISASFALISIS AE;STUDIO PROFESSIONALE ASSOCIATO A BAKER & MCKENZIE;ICT ABOVO TECHNOLOGIES PLIROFORIKISKAI EPIKINONION IDIOTIKI KEFALEOUCHIKI ETERIA;ARCHI PROSTASIAS DEDOMENON PROSOPIKOU CHARAKTIRA;SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS;STEINBEIS BERATUNGSZENTREN GMBH;INTEMPRA SRL;TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "participantCountries": "IT;EL;DE;NL",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

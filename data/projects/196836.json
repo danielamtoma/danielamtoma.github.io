@@ -1,0 +1,53 @@
+{
+    "rcn": "196836",
+    "acronym": "ALMA",
+    "topics": "NMP-20-2014",
+    "title": "ALL-SCALE PREDICTIVE DESIGN OF HEAT MANAGEMENT MATERIAL STRUCTURES WITH APPLICATIONS IN POWER ELECTRONICS",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2018",
+    "objective": "Heat management is a paramount challenge in many cutting edge technologies, including new GaN electronic technology, turbine thermal coatings, resistive memories, or thermoelectrics. Further progress requires the help of accurate modeling tools that can predict the performance of new complex materials integrated in these increasingly demanding novel devices. However, there is currently no general predictive approach to tackle the complex multiscale modeling of heat flow through such nano and micro-structured systems. The state of the art, our predictive approach ìShengBTE.orgî, currently covers the electronic and atomistic scales, going directly from them to predict the macroscopic thermal conductivity of homogeneous bulk materials, but it does not tackle a mesoscopic structure. This project will extend this predictive approach into the mesoscale, enabling it to fully describe thermal transport from the electronic ab initio level, through the atomistic one, all the way into the mesoscopic structure level, within a single model. The project is a 6 partner effort with complementary fields of expertise, 3 academic and 3 from industry. The widened approach will be validated against an extensive range of test case scenarios, including carefully designed experimental measurements taken during the project. The project will deliver a professional multiscale software permitting, for the first time, the prediction of heat flux through complex structured materials of industrial interest. The performance of the modeling tool will be then demonstrated in an industrial setting, to design a new generation of substrates for power electronics based on innovating layered materials. This project is expected to have large impacts in a wide range of industrial applications, particularly in the rapidly evolving field of GaN based power electronics, and in all new technologies where thermal transport is a key issue.",
+    "totalCost": "3264664",
+    "ecMaxContribution": "3264664",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "TECHNISCHE UNIVERSITAET WIEN;UNIVERSITAT LINZ;RUHR-UNIVERSITAET BOCHUM;SILVACO EUROPE LTD;AIXTRON SE;STMICROELECTRONICS SRL",
+    "participantCountries": "AT;DE;UK;IT",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 393389
+        },
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 707000
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 896529
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 47360
+        },
+        "966782414": {
+            "orgId": "966782414",
+            "orgName": "AIXTRON SE",
+            "ecContrib": 549400
+        },
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 255361
+        },
+        "996839416": {
+            "orgId": "996839416",
+            "orgName": "SILVACO EUROPE LTD",
+            "ecContrib": 415625
+        }
+    },
+    "calculatedTotalContribution": 3264664
+}

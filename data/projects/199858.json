@@ -1,0 +1,53 @@
+{
+    "rcn": "199858",
+    "acronym": "MuMMER",
+    "topics": "ICT-24-2015",
+    "title": "MultiModal Mall Entertainment Robot",
+    "startDate": "01/03/2016",
+    "endDate": "29/02/2020",
+    "objective": "'In MuMMER ('MultiModal Mall Entertainment Robot'), we propose to address the important and growing market of consumer entertainment robotics by advancing the technologies needed to support this area of robotics, and also by explicitly addressing issues of consumer acceptance, thus creating new European business and employment opportunities in consumer robotics. Specifically, we will develop a humanoid robot (based on Aldebaran's Pepper platform) able to engage and interact autonomously and naturally in the dynamic environments of a public shopping mall, providing an engaging and entertaining experience to the general public. Using co-design methods, we will work together with stakeholders including customers, retailers, and business managers, to develop truly engaging robot behaviours, including telling jokes or playing games, as well as providing guidance, information, and collecting customer feedback. Crucially, our robot will exhibit behaviour that is socially appropriate, combining speech-based interaction with non-verbal communication and human-aware navigation. To support this behaviour, we will develop and integrate new methods from audiovisual scene processing, social-signal processing, high-level action selection, and human-aware robot navigation.\n\nThroughout the project, the robot will be deployed in a large public shopping mall in Finland: initially for short visits to aid in collaborative scenario development, co-design, and system evaluation, and later for a long-term field study in the 4th year of the project. Through our co-design approach, we will both study and foster acceptance of consumer robots and thus positively influence the consumer markets of service robots.'",
+    "totalCost": "5345137,5",
+    "ecMaxContribution": "4297835",
+    "coordinator": "UNIVERSITY OF GLASGOW",
+    "coordinatorCountry": "UK",
+    "participants": "Teknologian tutkimuskeskus VTT Oy;FONDATION DE L'INSTITUT DE RECHERCHE IDIAP;HERIOT-WATT UNIVERSITY;KIINTEISTO OY IDEAPARK AB;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;SOFTBANK ROBOTICS EUROPE",
+    "participantCountries": "FI;CH;UK;FR",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 600348
+        },
+        "996538522": {
+            "orgId": "996538522",
+            "orgName": "SOFTBANK ROBOTICS EUROPE",
+            "ecContrib": 958750
+        },
+        "999853400": {
+            "orgId": "999853400",
+            "orgName": "HERIOT-WATT UNIVERSITY",
+            "ecContrib": 904288
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 851771
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 815179
+        },
+        "999644074": {
+            "orgId": "999644074",
+            "orgName": "FONDATION DE L'INSTITUT DE RECHERCHE IDIAP",
+            "ecContrib": 0
+        },
+        "940678550": {
+            "orgId": "940678550",
+            "orgName": "KIINTEISTO OY IDEAPARK AB",
+            "ecContrib": 167500
+        }
+    },
+    "calculatedTotalContribution": 4297836
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "193383",
+    "acronym": "WASCOSYS",
+    "topics": "ERC-StG-2014",
+    "title": "Wavefunctions for strongly correlated systems",
+    "startDate": "01/03/2015",
+    "endDate": "29/02/2020",
+    "objective": "Strongly correlated quantum systems, which are at the heart of many open problems in condensed matter,\nquantum chemistry, or high-energy physics, are challenging to understand due to their intricate entanglement\nstructure. Quantum information theory provides the right framework to characterize highly entangled\nstates and has given rise to the class of Tensor Network States, which capture the entanglement structure of\nstrongly correlated systems by building the global wavefunction from local tensors and provide an efficient\ndescription of their low-energy states.\n\nIn this project, we will develop a framework for the systematic study of strongly correlated systems using\nexact wavefunctions based on Tensor Network States. It will give us the tools to construct controlled families\nof states by encoding the relevant structure of the system directly into the wavefunction, rather than a\nHamiltonian, and to study their behavior. Since the tensor describing the wavefunction also gives rise to an\nassociated Hamiltonian, this establishes a framework for building solvable models with the tensor as the\nnew central object.\n\nThe novelty of our approach lies in the fact that quantum information gives us the tools to systematically\nconstruct wavefunctions for general strongly correlated systems, while at the same time, encoding the\nstructure of the problem directly into the wavefunction results in small families of states with a direct\nphysical interpretation of the parameters, unlike for fully variational approaches.\n\nWe will apply our framework to study the physics of a range of strongly correlated models, in particular\nfrustrated fermionic and spin systems, in order to understand the possible physics they can exhibit. This\nwill enhance our understanding of the physics of strongly correlated systems, and, together with numerical\nresults, experimental findings, and quantum simulations, ultimately lead to new applications and materials\nbased on strongly correlated matter.",
+    "totalCost": "1338500",
+    "ecMaxContribution": "1338500",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1338500
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1338500
+}

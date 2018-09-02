@@ -1,0 +1,23 @@
+{
+    "rcn": "208880",
+    "acronym": "MetEmbed",
+    "topics": "MSCA-IF-2016",
+    "title": "Addressing metalloenzymes for clean energy production with advanced embedding schemes andquantum mechanical methods",
+    "startDate": "01/08/2018",
+    "endDate": "31/07/2020",
+    "objective": "The proposed project aims to develop and apply quantum mechanical (QM) methods targeted at metalloenzymes, for which the methods in use today often fail. The failures are caused by inaccuracies in either 1) the underlying protein structures, 2) the employed QM method or 3) the embedding method that describes electrostatic interactions between the protein environment and the active site (i.e. metal and its nearest ligands). The MetEmbed project addresses 1), 2) and 3) with hydrogenases and polysaccharide monooxygenases (PMOs) as target enzymes. Hydrogenases mediate the reversible conversion of dihydrogen into hydride ions and protons, while PMOs have shown great potential for biofuel production. The overall objective is to investigate the reaction and spin-state energetics for key intermediates in the two proteins' catalytic cycles. To ensure that the underlying structures are accurate, extensive molecular dynamics (MD) simulations with tailored force fields and QM/MM methods will be employed. The adequacy of the QM methods will be ensured by using accurate, multireference QM methods that are known to be well-suited for transition metal systems. Two new multireference QM methods will be applied, namely a multiconfigurational density functional theory hybrid and the density matrix renormalization group method. These methods have high potential for metalloenzymes, but have until now only found little use in this area. To address the effect of the protein electrostatics, an accurate embedding scheme that, contrary to most QM/MM methods, includes the polarization of the environment will be used. The combination of 1) accurate structures, 2) accurate QM methods and 3) polarizable embedding schemes is unprecedented for metalloenzymes. The MetEmbed project will thus predict energetics with a new level of confidence for two systems with high potential in the areas of energy efficiency and low-carbon energy production; both central parts of the HORIZON2020 program.",
+    "totalCost": "173857,2",
+    "ecMaxContribution": "173857,2",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 173857
+        }
+    },
+    "calculatedTotalContribution": 173857
+}

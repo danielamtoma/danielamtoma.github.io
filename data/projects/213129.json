@@ -1,0 +1,48 @@
+{
+    "rcn": "213129",
+    "acronym": "MORPHIC",
+    "topics": "ICT-30-2017",
+    "title": "Mems-based zerO-power Reconfigurable PHotonic ICs",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2021",
+    "objective": "In MORPHIC, we will enhance an established Silicon Photonics platform with MEMS actuators so photonic circuits can be programmed, and reprogrammed, for a variety of optical functions with built-in redundancy and resilience. The ambition is to create a technology platform for generic Field-Programmable Photonic Integrated Circuits (FP-PIC), that can scale up to volume manufacturing while at the same time supply a variety of specialized applications, similar to field-programmable gate arrays (FPGA) in electronics. \nTo enable programming and reconfigurability at the circuit level, MORPHIC introduces low-power photonic MEMS actuators into silicon photonics, with mechanical latching for non-volatile operation. Basic photonic MEMS building blocks, such as optical 1x2 and 2x2 switches, as well as continuously tuneable phase shifters and 2x2 couplers, are combined with monitor photodiodes and electronic feedback loops into self-configuring circuits to optimize their performance and scale circuit complexity. Programmable connectivity is implemented in a large-scale circuit matrix of waveguides coupled with photonic MEMS subcircuits. MORPHIC combines high-speed silicon photonics, non-volatile MEMS, and a reconfigurable connectivity matrix with control electronics, high-level design methodologies, and a programming interface to create a complete FP-PIC platform.\nMORPHIC will validate both the silicon photonic MEMS technology and the FP-PIC platform on three applications that benefit from low-power reconfigurability: an optical switch matrix, an optical beam forming network and a programmable microwave photonics filter. The demonstrators are implemented in two ways: as a dedicated photonic circuit, and as a programming scheme in a generic FP-PIC. \nWith a complete technology portfolio, the MORPHIC consortium will establish a supply chain for field-programmable silicon photonics that leverages volume manufacturing and at the same time enables rapid access to complex photonic ICs",
+    "totalCost": "3982333,75",
+    "ecMaxContribution": "3982333,75",
+    "coordinator": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+    "coordinatorCountry": "BE",
+    "participants": "KUNGLIGA TEKNISKA HOEGSKOLAN;COMMSCOPE CONNECTIVITY BELGIUM;VLC PHOTONICS SOCIEDAD LIMITADA;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+    "participantCountries": "SE;BE;ES;CH;IE",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 1245896
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 707000
+        },
+        "958540421": {
+            "orgId": "958540421",
+            "orgName": "COMMSCOPE CONNECTIVITY BELGIUM",
+            "ecContrib": 211950
+        },
+        "949158387": {
+            "orgId": "949158387",
+            "orgName": "VLC PHOTONICS SOCIEDAD LIMITADA",
+            "ecContrib": 311862
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 900000
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 605625
+        }
+    },
+    "calculatedTotalContribution": 3982333
+}

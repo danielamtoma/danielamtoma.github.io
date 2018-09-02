@@ -1,0 +1,23 @@
+{
+    "rcn": "199804",
+    "acronym": "VocEmoApI",
+    "topics": "ERC-PoC-2015",
+    "title": "Voice Emotion detection by Appraisal Inference",
+    "startDate": "01/11/2015",
+    "endDate": "30/04/2017",
+    "objective": "The automated sensing of human emotions has gained a lot of commercial attention lately. For facial and physiological sensing many companies offer first professional products. Recently, voice analytics has become a hot topic, too, with first companies emerging for the telecom, entertainment, and robot markets (e.g. Sympalog, Aldebaran, etc.). Current vocal emotion detection approaches rely on machine learning where emotions are identified based on a reference set of expression clips. The drawback of this method is the need to rely on a small set of basic, highly prototypical emotions. Real life emotion detection application fields such as clinical diagnosis, marketing research, media impact analysis, and forensics and security, require subtle differentiations of feeling states. VocEmoApI will develop a first-of-its-kind proof-of-concept software for vocal emotion detection based on a fundamentally different approach: Focusing on vocal nonverbal behavior and sophisticated acoustic voice analysis, it will exploit the building blocks of emotional processes. This approach will infer not only basic emotion categories but also much finer distinctions such as subcategories of emotion families and subtle emotions. The development of VocEmoApI drawís extensively on the results of the applicantís Advanced Grant, providing a solid theoretical basis. Market analysis through marketing research partners will be conducted and the prototype software will be utilized to promote the technology and estimate a product value based on feedback from industry contacts. Strong impact of VocEmoApI on large markets such as household robotics, public security, clinical diagnosis and therapy, call analytics, and marketing research can expected.",
+    "totalCost": "149937,5",
+    "ecMaxContribution": "149937,5",
+    "coordinator": "AUDEERING GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "937017188": {
+            "orgId": "937017188",
+            "orgName": "AUDEERING GMBH",
+            "ecContrib": 149938
+        }
+    },
+    "calculatedTotalContribution": 149938
+}

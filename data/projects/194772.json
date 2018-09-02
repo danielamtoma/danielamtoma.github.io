@@ -1,0 +1,23 @@
+{
+    "rcn": "194772",
+    "acronym": "EeHPC",
+    "topics": "ICT-37-2014-1",
+    "title": "Energy efficient High Performance Computing",
+    "startDate": "01/11/2014",
+    "endDate": "30/04/2015",
+    "objective": "Qarnot computing aims to develop a flexible High Performance Computing grid able to reuse the heat emitted by calculation units for the heating purposes of houses and business premises.\n\nRegularly, huge data centers are opened for storage or calculation of numerical data. Needs, including calculation power, are becoming increasingly important, which explains the creation and implementation of more and more of these data centers. However, the past few years have shown that these clusters are particularly energy-consuming not only because of the calculations but also because of the cooling systems.\n\nThe idea is to sale processing power on the cloud. The calculations are smartly distributed to a remote computing grid. The grid is composed of calculation units that are actually electric heaters. The heat is produced by the processors that perform the computing.\n\nQarnot computing sales cloud HPC on one end, and refunds  the electricity used by electric heaters on the other end. This solution allows Qarnot to build progressively a scalable computing grid avoiding the massive investments of a data center. Furthermore, there is no need to cool the infrastructure as the heat is directly used for heating purposes. Seasonality has already been taken into account by using CPU low power mode, install calculation units in strategic hosts such as schools that are closed during summer. In addition, computing power demand is seasonal, there is less jobs to perform during summer. Qarnot computing grid will be able to guarantee all year long a certain capacity, the extra power will be offered for free to universities and will be used as an adjustment variable (to meet the needs for calculation and the needs for heat).\n\nQarnot can therefore propose a very energy efficient cloud HPC for reasonable prices. This is one key to address the HPC market which already represents billions of euros. Qarnot will be able to propose greener cloud HPC for lower prices than the competitors.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "QARNOT COMPUTING",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "938181576": {
+            "orgId": "938181576",
+            "orgName": "QARNOT COMPUTING",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

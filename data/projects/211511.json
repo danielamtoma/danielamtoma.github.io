@@ -1,0 +1,23 @@
+{
+    "rcn": "211511",
+    "acronym": "EMMTRIX",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "Emmtrix Technologies : European breakthrough in Software parallelization",
+    "startDate": "01/08/2017",
+    "endDate": "31/01/2018",
+    "objective": "Emmtrix Technologies innovation offers an efficient solution to a global challenge faced by the automotive and many other industries where currently used embedded single-core processors increasingly reach their physical limits, and can no longer afford the computing power required for new applications like automatic parking, breaking etc. Leading processor manufacturers such as Intel, IBM etc. have recognized this trend and are aligning their strategy to use multicore processors. Within the next 3 years, the quantity of cores on a single chip is predicted to triple.\nSoftware parallelization is currently carried out manually and requires 3 times more software developers and 25% more time compared to single-core programming. The cost is 4.5 times higher. Manual parallelization is also highly error-prone. \nEmmtrix Technologies provides a software solution for the efficient, automated software parallelization for embedded multicore processors. Automated parallelization REDUCES the time and effort required to create a parallel program FROM MONTHS TO HOURS. Eliminating the need for manual programming, the Emmtrix solution reduces the development effort for software parallelization by up to 80% and leads to a higher quality final product. The automation allows even developers with less knowledge to quickly and efficiently develop and run parallel programs on the target hardware architecture. Emmtrix offers the first parallelization solution that efficiently supports programming languages which are already established in companies and allows for seamless integration into existing workflows. \nThe market potential for the emmtrix solution corresponds to Ä1-2 billion worldwide as embedded systems are widely used in various industries, such as the automotive and supplier industry (Bosch), the automation industry (Siemens), consumer electronics (Apple), medical (Fresenius) and aerospace (DLR). In 2014, these industries generated a sales volume of $152.94 billion",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "EMMTRIX TECHNOLOGIES GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "920403901": {
+            "orgId": "920403901",
+            "orgName": "EMMTRIX TECHNOLOGIES GMBH",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

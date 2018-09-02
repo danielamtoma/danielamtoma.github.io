@@ -1,0 +1,93 @@
+{
+    "rcn": "207217",
+    "acronym": "SYSCID",
+    "topics": "SC1-PM-01-2016",
+    "title": "A Systems medicine approach to chronic inflammatory disease",
+    "startDate": "01/01/2017",
+    "endDate": "31/03/2022",
+    "objective": "'The SYSCID consortium aims to develop a systems medicine approach for disease prediction in CID. We will focus on three major CID indications with distinct characteristics, yet a large overlap of their molecular risk map: inflammatory bowel disease, systemic lupus erythematodes and rheumatoid arthritis. We have joined 15 partners from major cohorts and initiatives in Europe (e.g.IHEC, ICGC, TwinsUK and Meta-HIT) to investigate human data sets on three major levels of resolution: whole blood signatures, signatures from purified immune cell types (with a focus on CD14 and CD4/CD8) and selected single cell level analyses.  Principle data layers will comprise SNP variome, methylome, transcriptome and gut microbiome. SYSCID employs a dedicated data management infrastructure, strong algorithmic development groups (including an SME for exploitation of innovative software tools for data deconvolution) and will validate results in independent retrospective and prospective clinical cohorts. \nUsing this setup we will focus on three fundamental aims : (i) the identification of shared and unique 'core disease signaturesî which are associated with the disease state and independent of temporal variation, (ii) the generation of 'predictive models of disease outcome'- builds on previous work that pathways/biomarkers for disease outcome are distinct from initial disease risk and may be shared across diseases to guide therapy decisions on an individual patient basis, (iii) 'reprogramming disease'- will identify and target temporally stable epigenetic alterations in macrophages and lymphocytes in epigenome editing approaches as biological validation and potential novel therapeutic tool  .\nThus, SYSCID will foster the development of solid biomarkers and models as stratification in future long-term systems medicine clinical trials but also investigate new causative therapies by editing the epigenome code in specific immune cells, e.g.  to alleviate macrophage polarization defects.'",
+    "totalCost": "16018111,25",
+    "ecMaxContribution": "14456236,25",
+    "coordinator": "CHRISTIAN-ALBRECHTS-UNIVERSITAET  ZU KIEL",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSITE DE LIEGE;HUMANITAS UNIVERSITY;THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;UNIVERSITE DE GENEVE;COMMA SOFT AG;GENOS DOO ZA VJESTACENJE I ANALIZU;EURICE EUROPEAN RESEARCH AND PROJECT OFFICE GMBH;IDRYMA IATROVIOLOGIKON EREUNON AKADEMIAS ATHINON;RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN;UNIVERSITE DU LUXEMBOURG;SYDDANSK UNIVERSITET;VIB;KING'S COLLEGE LONDON;UNIVERSITAT DES SAARLANDES",
+    "participantCountries": "BE;IT;UK;CH;DE;HR;EL;LU;DK",
+    "projectParticipants": {
+        "986084250": {
+            "orgId": "986084250",
+            "orgName": "GENOS DOO ZA VJESTACENJE I ANALIZU",
+            "ecContrib": 880050
+        },
+        "999839529": {
+            "orgId": "999839529",
+            "orgName": "CHRISTIAN-ALBRECHTS-UNIVERSITAET  ZU KIEL",
+            "ecContrib": 2854260
+        },
+        "999976105": {
+            "orgId": "999976105",
+            "orgName": "UNIVERSITE DE LIEGE",
+            "ecContrib": 1016900
+        },
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 1115040
+        },
+        "999929545": {
+            "orgId": "999929545",
+            "orgName": "UNIVERSITAT DES SAARLANDES",
+            "ecContrib": 1173675
+        },
+        "999904616": {
+            "orgId": "999904616",
+            "orgName": "SYDDANSK UNIVERSITET",
+            "ecContrib": 590935
+        },
+        "999778419": {
+            "orgId": "999778419",
+            "orgName": "EURICE EUROPEAN RESEARCH AND PROJECT OFFICE GMBH",
+            "ecContrib": 661250
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999980276": {
+            "orgId": "999980276",
+            "orgName": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+            "ecContrib": 1259351
+        },
+        "919617910": {
+            "orgId": "919617910",
+            "orgName": "COMMA SOFT AG",
+            "ecContrib": 348125
+        },
+        "999651931": {
+            "orgId": "999651931",
+            "orgName": "VIB",
+            "ecContrib": 1181519
+        },
+        "999622443": {
+            "orgId": "999622443",
+            "orgName": "IDRYMA IATROVIOLOGIKON EREUNON AKADEMIAS ATHINON",
+            "ecContrib": 600000
+        },
+        "932462747": {
+            "orgId": "932462747",
+            "orgName": "HUMANITAS UNIVERSITY",
+            "ecContrib": 795025
+        },
+        "999974650": {
+            "orgId": "999974650",
+            "orgName": "UNIVERSITE DE GENEVE",
+            "ecContrib": 0
+        },
+        "999981052": {
+            "orgId": "999981052",
+            "orgName": "KING'S COLLEGE LONDON",
+            "ecContrib": 919084
+        }
+    },
+    "calculatedTotalContribution": 13395214
+}

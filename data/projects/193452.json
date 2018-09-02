@@ -1,0 +1,23 @@
+{
+    "rcn": "193452",
+    "acronym": "realFlow",
+    "topics": "ERC-StG-2014",
+    "title": "Virtualization of Real Flows for Animation and Simulation",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2020",
+    "objective": "Besides their application in a very broad range of engineering disciplines, physically-based simulations have become a prevalent tool for all forms of computer-generated environments. Simulations of fluids are a particularly important area that has applications ranging from the design of aerodynamic bodies to the realization of impressive visual effects in movies.  However, despite their extremely wide-spread use there are fundamental problems: a lack of practical flow capturing technologies and the inherent difficulties of resolving crucial features such as turbulence. These issues are show-stoppers preventing the area from realizing its full potential for animations and interactive environments.\n\nThe goal of this research is to address these central problems: 1) by designing novel data-centric approaches for fluid simulations to enable re-use, and 2) by establishing an innovative pipeline for capturing flow motions yielding details that were previously unachievable.  To this end, I plan to design algorithms that tightly integrate accurate  physics solvers with methods for the reconstruction of motion from volumetric images. At the same time, I will work on novel structured representations that decompose complex flows into hierarchical space-time structures. These structured virtual counter-parts will not only enable powerful avenues for intuitive editing, but will also serve as a basis for robust and efficient data-driven fluid simulations. This virtualization of flows opens the door for interactive design tools and medical applications, allowing to incorporate complex physical constraints.  In addition, this research could radically change the way we work with synthetic and captured flow data, and has significant potential to break new ground in terms of data-centric work-flows for fluid simulations.",
+    "totalCost": "1465603,75",
+    "ecMaxContribution": "1465603,75",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 1465604
+        }
+    },
+    "calculatedTotalContribution": 1465604
+}

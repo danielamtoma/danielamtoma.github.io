@@ -1,0 +1,23 @@
+{
+    "rcn": "212861",
+    "acronym": "VHIALab",
+    "topics": "ERC-2017-PoC",
+    "title": "Vision and Hearing In Action Laboratory",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2019",
+    "objective": "The objective of VHIALab is the development and commercialization of software packages enabling a robot companion to robustly interact with multiple users. VHIALab builds on the scientific findings of ERC VHIA (February 2014 - January 2019). Solving the problems of audio-visual analysis and interaction opens the door to multi-party and multi-modal human-robot interaction (HRI). In contrast to well investigated single-user spoken dialog systems, these problems  are extremely challenging because of noise, interferences and reverberation present in far-field acoustic signals, overlap of speech signals from two or more different speakers, visual clutter due to complex situations, people appearing and disappearing over time, speakers turning their faces away from the robot, etc. For these reasons, today's companion robots have extremely limited capacities to naturally interact with a group of people. Current vision and speech technologies only enable single-user face-to-face interaction with a robot, benefitting from recent advances in speech recognition, face recognition, and lip reading based on close-field microphones and cameras facing the user. As a consequence, although companion robots have an enormous commercialization potential, they are not yet available on the consumer market. The goal of VHIALab is to further reduce the gap between VHIA's research activities and the commercialization of companion robots with HRI capabilities.  We propose to concentrate onto the problem of audio-visual detection and tracking of several speakers, to develop an associated software platform, to interface this software with a commercially available companion robot, and to demonstrate the project achievements based on challenging practical scenarios.",
+    "totalCost": "149866",
+    "ecMaxContribution": "149866",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 149866
+        }
+    },
+    "calculatedTotalContribution": 149866
+}

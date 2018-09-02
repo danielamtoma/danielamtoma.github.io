@@ -1,0 +1,23 @@
+{
+    "rcn": "209942",
+    "acronym": "BOXMATE",
+    "topics": "ERC-PoC-2016",
+    "title": "Mining Sandboxes for Automatic App Protection",
+    "startDate": "01/09/2017",
+    "endDate": "28/02/2019",
+    "objective": "Todayís industry is more vulnerable to cyberattacks than ever. The biggest threat comes from advanced persistent threats that targets the sensitive data of a specific company. Such a threat may come along as an innocuous app that starts its malicious behavior only when the mobile logs into the corporate network.\nAt the same time, such threats can be made undetectable through testing or code analysis.\nThe ERC SPECMATE project has developed a technology named BOXMATE that protects against unexpected changes of app behavior and thus drastically reduces the attack surface of mobile applications.\nThe key idea is to mine app behavior by executing generated tests, systematically exploring the programís accesses to sensitive data. During production, the app then is placed in a sandbox, which prohibits accesses not seen during testing.\nThis combination of test generation and sandboxing effectively protects against advanced persistent threats. To access sensitive data during production, the app already must do so during testingówhere tracing makes it easy to discover and assess. BOXMATE neither does not need to collect user data: All app behavior is assessed during testing already. Finally, BOXMATE requires no knowledge about source or binary code, and thus easily handles arbitrarily obfuscated or obscure third-party apps. BOXMATE is currently being patented worldwide.\nWe want to turn the BOXMATE approach into a full mobile security solution for corporate and end users. This proposal aims at producing a full-fledged prototype that can be demonstrated to potential customers, most notably app vendors and mobile infrastructure providers; as well as developing an adequate marketing strategy exploring and responding to the needs of the market.\nThis proposal is fueled by the principal investigator, Andreas Zeller, one of the worldís leading experts in software test generation and specification mining.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSITAT DES SAARLANDES",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999929545": {
+            "orgId": "999929545",
+            "orgName": "UNIVERSITAT DES SAARLANDES",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

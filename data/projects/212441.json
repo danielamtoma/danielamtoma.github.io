@@ -1,0 +1,48 @@
+{
+    "rcn": "212441",
+    "acronym": "GIMS",
+    "topics": "GALILEO-3-2017",
+    "title": "Geodetic Integrated Monitoring System",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "The main objective of the GIMS project is to build and commercialize an advanced low-cost system based on EGNSS, Copernicus SAR and other in-situ sensors, like inertial measurement units, for the purpose of monitoring ground deformations with a focus on landslides and subsidence. The system will recover deformations with millimetric level accuracies and daily acquisition rate. Moreover the integration of in-situ accelerometers will give real-time alerts in case of sudden movements. Finally the low-cost infrastructure deployed for the landslide monitoring can be used as collector of environmental data for smart grids purposes. The observations of these three different monitoring techniques, namely EGNSS, SAR and accelerometers, are complementary in time and space and can be integrated to obtain a better understanding of the monitored processes and a more complete knowledge of the deformation phenomenon. The project involves researchers and industrial developers from different fields: radiofrequency analysis and related hardware design, telecommunications, SAR and GNSS data analysis, accelerometers signal processing, geostatistics, geology. Significant effort will be put in the cooperation between different areas and in the interface between different products and technologies. The overall purpose of the GIMS project is to have detailed and timely knowledge of the geophysical behaviour of parts of the Earth surface, and its hindrances on structures, in order to mitigate casualties and injuries to the population, and better plan maintenance intervention.",
+    "totalCost": "2217081,25",
+    "ecMaxContribution": "1714237,38",
+    "coordinator": "GEOMATICS RESEARCH & DEVELOPMENT SRL",
+    "coordinatorCountry": "IT",
+    "participants": "SVILUPPO COMO - COMONEXT SPA;CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA;GEONUMERICS SL;SAPHYRION SAGL;GEOLOSKI ZAVOD SLOVENIJE",
+    "participantCountries": "IT;ES;CH;SI",
+    "projectParticipants": {
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 262685
+        },
+        "996232875": {
+            "orgId": "996232875",
+            "orgName": "SAPHYRION SAGL",
+            "ecContrib": 393925
+        },
+        "999466370": {
+            "orgId": "999466370",
+            "orgName": "GEOLOSKI ZAVOD SLOVENIJE",
+            "ecContrib": 278250
+        },
+        "915407237": {
+            "orgId": "915407237",
+            "orgName": "SVILUPPO COMO - COMONEXT SPA",
+            "ecContrib": 143675
+        },
+        "952724689": {
+            "orgId": "952724689",
+            "orgName": "GEOMATICS RESEARCH & DEVELOPMENT SRL",
+            "ecContrib": 437286
+        },
+        "996169922": {
+            "orgId": "996169922",
+            "orgName": "GEONUMERICS SL",
+            "ecContrib": 198416
+        }
+    },
+    "calculatedTotalContribution": 1714237
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "193700",
+    "acronym": "PAMPA",
+    "topics": "COMPET-06-2014",
+    "title": "Plastic Components for Advanced Microwave Equipment of New Generation SatCom PAyloads",
+    "startDate": "01/01/2015",
+    "endDate": "30/09/2017",
+    "objective": "Plastic packaging solutions are foreseen as a good candidate to drastically reduce the cost of microwave equipment for future telecom satellite payloads. The objective of PAMPA project is to develop a plastic component technology, from the supply of the packaged microwave component with a reliability level compatible with space constraints up to its assembly on board using SMT (Surface Mount Technology) process. In order to demonstrate the potential of such technology,  a flexible, digitally controlled microwave chain, representative of the need for new generation telecom satellite payloads, will be implemented on printed circuit board. Such technologies are particularly appealing for flexible microwave equipment, as  the ASIC (Application Specific Integrated Circuit) and the microwave components can be assembled on board using the same SMT process. Furthermore, the use of a multilayer printed circuit board for the microwave chain is convenient for the implementation of dense DC routing of the command signals.\nTo achieve the objective, the consortium gathers a manufacturer of satellite equipment,  a Monolithic Microwave Integrated Circuit (MMIC) foundry, an industrial specialized in SMT manufacturing process and an academic partner with valuable knowledge in reliability of microelectronics packaging. It should be outlined that the MMIC foundry involved in the project is a dual foundry as it provides both plastic packaged components for the Automotive market in QFN (Quad-Flat No-leads) housings and  bare MMIC with a Space grade quality.\nThe main challenge will be to successfully spin-in a plastic technology coming from another harsh environment market that has drastic cost concerns, the Automotive, to the Space domain.",
+    "totalCost": "1036876,89",
+    "ecMaxContribution": "1036626,89",
+    "coordinator": "THALES ALENIA SPACE FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "UNITED MONOLITHIC SEMICONDUCTORS SAS;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;IKOR TECHNOLOGY CENTER,S.L.;SENCIO BV",
+    "participantCountries": "FR;BE;ES;NL",
+    "projectParticipants": {
+        "943304922": {
+            "orgId": "943304922",
+            "orgName": "SENCIO BV",
+            "ecContrib": 190000
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 195401
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 343562
+        },
+        "951210422": {
+            "orgId": "951210422",
+            "orgName": "IKOR TECHNOLOGY CENTER,S.L.",
+            "ecContrib": 187653
+        },
+        "996281278": {
+            "orgId": "996281278",
+            "orgName": "UNITED MONOLITHIC SEMICONDUCTORS SAS",
+            "ecContrib": 120010
+        }
+    },
+    "calculatedTotalContribution": 1036626
+}

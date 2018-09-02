@@ -1,0 +1,43 @@
+{
+    "rcn": "205683",
+    "acronym": "ALGeSMo",
+    "topics": "JTI-CS2-2015-CFP02-SYS-02-09",
+    "title": "Advanced Landing Gear Sensing and Monitoring",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2019",
+    "objective": "The primary objective of the Advanced Landing Gear Sensing and Monitoring (ALGeSMo) project is to bring together a world-class team from across Europe to deliver a state-of-the-art optically-based load monitoring system for aircraft landing gear. This will yield a step change in the way landing gear is utilised and managed in operational and flight situations, leading to a new paradigm in aircraft availability and operability. This will assist the development of European capability within this domain such that Europe will be well-positioned to provide state-of-the-art equipment to future aircraft development.\nThe goal of this proposal is to satisfy the topic requirements (JTI-CS2-2015-CFP02-SYS-02-09) as set out by Airbus (Topic Manager) in the second Call for Proposals (CFP02) released in July 2015. This falls under WP4 (Landing Gear) of the Systems ITD. Specifically this call requires the development and delivery of the following:\n\nï A Fibre Bragg Grating (FBG) optical sensor system using Wavelength Division Multiplexing (WDM) techniques to accurately detect and translate landing gear strain and torque to the aircraft control systems.\nï A state-of-the-art and highly accurate integrated photonics fibre-optic interrogator that will result in the smallest system currently available anywhere in the world. This will make integration and certification of the system highly achievable compared to existing optical interrogator systems. \nï Detailed design of system architecture and integration to ensure that the appropriate Design Assurance Level (DAL) requirement can be achieved.\nï Definition and build of loading and calibration rigs in order to characterise sub-system and system components using a full landing gear slider tube assembly.\nï A safe-for-flight qualification to appropriate aerospace standards (MIL-STD 810 and DO-160) to de-risk the technology and ensure safe operation prior to delivery to Airbus for flight test by the end of the project in 2019 (TRL6).",
+    "totalCost": "3089754,75",
+    "ecMaxContribution": "1917884,33",
+    "coordinator": "MEGGITT (UK) LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;MEGGITT SA;TECHNOBIS FIBRE TECHNOLOGIES BV;MEGGITT AEROSPACE LIMITED",
+    "participantCountries": "NL;CH;UK",
+    "projectParticipants": {
+        "999731277": {
+            "orgId": "999731277",
+            "orgName": "MEGGITT SA",
+            "ecContrib": 0
+        },
+        "995901814": {
+            "orgId": "995901814",
+            "orgName": "MEGGITT (UK) LIMITED",
+            "ecContrib": 250693
+        },
+        "992236087": {
+            "orgId": "992236087",
+            "orgName": "TECHNOBIS FIBRE TECHNOLOGIES BV",
+            "ecContrib": 464762
+        },
+        "955430310": {
+            "orgId": "955430310",
+            "orgName": "MEGGITT AEROSPACE LIMITED",
+            "ecContrib": 374785
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 827645
+        }
+    },
+    "calculatedTotalContribution": 1917885
+}

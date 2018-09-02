@@ -1,0 +1,28 @@
+{
+    "rcn": "193336",
+    "acronym": "lightMaterInt",
+    "topics": "ERC-StG-2014",
+    "title": "Exploiting light and material interaction",
+    "startDate": "01/12/2015",
+    "endDate": "31/08/2021",
+    "objective": "The interaction between light and material leads to beautiful visual phenomena that greatly enrich our perception of the world.  The ability to measure and model light scattering is central to almost any field of science. However, light transport in rich scenes is a complex process involving a long sequence of scattering events. Computationally modeling, reproducing and acquiring the processes generated so easily by Mother Nature is an extremely challenging task.  While several computational models have been proposed, they are all making various simplifying assumptions that cannot capture the full complexity of light transport processes in nature. In the proposed research, we suggest new measurement strategies and new inference algorithms that will allow us to infer more information on light and material interaction. \n \nSpecifically, the research will focus on the following tasks: (i) Acquiring internal sub-scattering, and recovering the volumetric structure of partially translucent objects using transient imaging data; (ii) Acquiring external illumination from its reflection on diffused objects; (iii) Exploiting illumination for developing digital light sensitive displays, capable of presenting 3D scenes with spatially varying reflectance properties. \n \nAs light scattering is such a fundamental phenomenon, our envisioned new tools have applications in almost any field of science, from astronomy to microscopy, and in medicine. We plan to push the bound on the penetration depth of medical imaging devices, and allow chemists to infer more information on material decomposition through scattering.  In earth science we can infer aerosol density from the scattering of sunlight in the atmosphere and ocean, a central challenge in any study of climate and pollution. In addition, we will pursue new technological developments such as light sensitive displays, offering a novel form of immersive visual experience, and new technologies of coded security cameras.",
+    "totalCost": "1999825",
+    "ecMaxContribution": "1999825",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "WEIZMANN INSTITUTE OF SCIENCE",
+    "participantCountries": "IL",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 0
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 1999825
+        }
+    },
+    "calculatedTotalContribution": 1999825
+}

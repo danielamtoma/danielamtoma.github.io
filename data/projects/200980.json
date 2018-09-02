@@ -1,0 +1,23 @@
+{
+    "rcn": "200980",
+    "acronym": "ThermalDFT",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Density-Functional Theory for Thermoelectric Phenomena",
+    "startDate": "15/10/2016",
+    "endDate": "14/10/2018",
+    "objective": "The development of sustainable energy sources poses a great challenge for our society. Due to the scarcity of natural resources it is of crucial importance to optimize the efficiency of our energy production. Virtually every energy generation process is accompanied with the generation of waste heat, for example in the form of plumes from power plants. Even if only part of this waste heat is transformed into useful energy the overall efficiency of energy production is increased. In recent years there has been renewed interest in thermoelectric phenomena, due to their potential impact on designing new devices capable of converting waste heat into electricity. Furthermore, it has become evident that nanoscale devices, which implement their functionality at the level of single molecules, potentially offer a much enhanced efficiency for the conversion of heat to electricity compared to bulk materials.\nThis project aims at providing the necessary tools to describe the efficiency of nanoscale thermoelectric devices based on their microscopic structure. To this end a density-functional theory (DFT), dubbed thermal DFT, is developed. The innovation of thermal DFT is to address charge and energy (or heat) degree of freedoms on the same footing, which is crucial for addressing thermoelectric phenomena. It will allow to predict the thermoelectric properties of molecular devices by numerical simulations. This can dramatically reduce the money and time spent in the experimental search for highly efficient thermoelectric devices by selecting materials with promising thermoelectric transport coefficients. Within this project the approximations required for a numerical implementation of the theoretical thermal DFT framework are derived. In addition, thermal DFT will be numerically implemented and benchmarked against available experimental data on the thermoelectric transport coefficients of molecular junctions.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

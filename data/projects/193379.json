@@ -1,0 +1,73 @@
+{
+    "rcn": "193379",
+    "acronym": "RCMS",
+    "topics": "MG-8.2a-2014",
+    "title": "Rethinking Container Management Systems",
+    "startDate": "01/05/2015",
+    "endDate": "31/01/2017",
+    "objective": "Container terminals serve thousands of ships, store billions of TEUs, compete to serve the next vessel, and introduction of larger ships will result in new challenges. While advances have been made in terminal automation (Automated Ground Vehicle (AGV), gate control, yard cranes, etc.), with current technologies terminals are limited by their ability to maintain growth and quality of service. To address these trends and demands the Robotic Container Management System (RCMS) has been developed. As a contribution to its implementation, Project main objectives are:\nA. To develop a detailed simulation model for RCMS to be evaluated in 2 Terminals (Gdansk and Koper) plus a set of generic simulation tools to be used in all terminals;\nB. To assess and compare RCMS performance with other state-of-the-art container handling technologies for 2 Terminals (Gdansk and Koper) with different features;\nC. To assess and compare RCMS performance with other state-of-the-art container handling technologies for 2 ports (Gdansk and Koper), with focus on comparison between RCMS solution and port surface extension;\nD. To assess impact of RCMS in a simulated transport network in terms of efficiency, reliability, capacity, performance indicators (travel times, average speed, etc.) and impacts (noise and air pollution) in the Port of La Spezia.\nMain results will be: a well-defined RCMS control logic; a dynamic physical AGV model to test AGV behavior; definition of operational procedures for RCMS; a generic simulation tool enabling testing of RCMS for various sites by non-simulation experts; an efficient entire terminal design with RCMS; a set of validated and quantified benefits of RCMS compared to commonly used handling systems; a set of Key Performances Indicators of the transport network using RCMS. Consortium is made by leading industries, SMEs, Research/Academic Centers and 3 ports/terminals as End-users. Project duration is 21 months and estimated eligible costs are 4 million Ä.",
+    "totalCost": "4182954,16",
+    "ecMaxContribution": "4182954,16",
+    "coordinator": "CIRCLE SRL",
+    "coordinatorCountry": "IT",
+    "participants": "ISRAEL AEROSPACE INDUSTRIES LTD.;GDANSKI TERMINAL KONTENEROWY SPOLKA AKCYJNA;AUTORITA' PORTUALE DELLA SPEZIA;COMPASS INGENIERIA Y SISTEMAS SA;SELLHORN INGENIEURGESELLSCHAFT MBH;LUKA KOPER, PORT AND LOGISTIC SYSTEM, D.D.;CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA;UNIVERSITA DEGLI STUDI DI GENOVA;HHLA INTERNATIONAL GMBH;AUTORITA DI SISTEMA PORTUALE DEL MAR LIGURE ORIENTALE",
+    "participantCountries": "IL;PL;IT;ES;DE;SI",
+    "projectParticipants": {
+        "999969315": {
+            "orgId": "999969315",
+            "orgName": "ISRAEL AEROSPACE INDUSTRIES LTD.",
+            "ecContrib": 1778609
+        },
+        "912347081": {
+            "orgId": "912347081",
+            "orgName": "AUTORITA DI SISTEMA PORTUALE DEL MAR LIGURE ORIENTALE",
+            "ecContrib": 61312
+        },
+        "938166832": {
+            "orgId": "938166832",
+            "orgName": "COMPASS INGENIERIA Y SISTEMAS SA",
+            "ecContrib": 128062
+        },
+        "937093915": {
+            "orgId": "937093915",
+            "orgName": "GDANSKI TERMINAL KONTENEROWY SPOLKA AKCYJNA",
+            "ecContrib": 93188
+        },
+        "999770368": {
+            "orgId": "999770368",
+            "orgName": "LUKA KOPER, PORT AND LOGISTIC SYSTEM, D.D.",
+            "ecContrib": 112871
+        },
+        "983170467": {
+            "orgId": "983170467",
+            "orgName": "AUTORITA' PORTUALE DELLA SPEZIA",
+            "ecContrib": 0
+        },
+        "999658721": {
+            "orgId": "999658721",
+            "orgName": "CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA",
+            "ecContrib": 104625
+        },
+        "999976687": {
+            "orgId": "999976687",
+            "orgName": "UNIVERSITA DEGLI STUDI DI GENOVA",
+            "ecContrib": 446651
+        },
+        "946059916": {
+            "orgId": "946059916",
+            "orgName": "CIRCLE SRL",
+            "ecContrib": 431074
+        },
+        "972190455": {
+            "orgId": "972190455",
+            "orgName": "SELLHORN INGENIEURGESELLSCHAFT MBH",
+            "ecContrib": 376950
+        },
+        "943684774": {
+            "orgId": "943684774",
+            "orgName": "HHLA INTERNATIONAL GMBH",
+            "ecContrib": 649612
+        }
+    },
+    "calculatedTotalContribution": 4182954
+}

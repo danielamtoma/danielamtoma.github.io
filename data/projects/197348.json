@@ -1,0 +1,63 @@
+{
+    "rcn": "197348",
+    "acronym": "VirtuWind",
+    "topics": "ICT-14-2014",
+    "title": "Virtual and programmable industrial network prototype deployed in operational Wind park",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2018",
+    "objective": "With anticipated exponential growth of connected devices, future networks require an open solutions architecture facilitated by standards and a strong ecosystem. Such devices need an easy interface to the connected network to request the kind of communication service characterized by guarantees about bandwidth, delay, jitter, packet loss or redundancy. In response, the network should grant the requested network resources automatically and program the intermediate networking devices based on device profile and privileges. Similar requirement also comes from business applications where application itself asks for particular network resources based on its needs. Software Defined Networking (SDN) and Network Function Virtualisation (NFV) provide promising combination leading to programmable connectivity, rapid service provisioning and service chaining.\n\nAs a part of 5G PPP programme, VirtuWind will develop and demonstrate SDN & NFV ecosystem, based on open, modular and secure framework showcasing a prototype for intra-domain and inter-domain scenarios in real wind parks as a representative use case of industrial networks, and validate the economic viability of the demonstrated solution. The wind park control network has been chosen as a professional application in VirtuWind as wind energy has now established itself as a mainstream of sustainable energy generation. By envisioning lower capital expenditure and operational expenditure costs in control network infrastructure, VirtuWind will play important role in assisting wind energy sector to achieve cost reductions. Further applicability of VirtuWind solution in other industrial domains will bring multifold benefits in their communication networks.\n\nThe VirtuWind consortium consists of strong industry and academic partners covering the whole value chain of programmable networks. The consortium is striving for a common vision of creating industrial capability of SDN/NFV in Europe.",
+    "totalCost": "6340044,28",
+    "ecMaxContribution": "4874899,5",
+    "coordinator": "SIEMENS AKTIENGESELLSCHAFT",
+    "coordinatorCountry": "DE",
+    "participants": "TECHNISCHE UNIVERSITAET MUENCHEN;INTRACOM SA TELECOM SOLUTIONS;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;WORLDSENSING S.L.N.E;INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED;NEC EUROPE LTD;DEUTSCHE TELEKOM AG;KING'S COLLEGE LONDON",
+    "participantCountries": "DE;EL;ES;IE;UK",
+    "projectParticipants": {
+        "999936335": {
+            "orgId": "999936335",
+            "orgName": "DEUTSCHE TELEKOM AG",
+            "ecContrib": 494748
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 388250
+        },
+        "987086066": {
+            "orgId": "987086066",
+            "orgName": "INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED",
+            "ecContrib": 597712
+        },
+        "993322002": {
+            "orgId": "993322002",
+            "orgName": "WORLDSENSING SL",
+            "ecContrib": 0
+        },
+        "999987260": {
+            "orgId": "999987260",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT",
+            "ecContrib": 1277947
+        },
+        "999969994": {
+            "orgId": "999969994",
+            "orgName": "INTRACOM SA TELECOM SOLUTIONS",
+            "ecContrib": 335738
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 514250
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 477938
+        },
+        "999981052": {
+            "orgId": "999981052",
+            "orgName": "KING'S COLLEGE LONDON",
+            "ecContrib": 553729
+        }
+    },
+    "calculatedTotalContribution": 4640312
+}

@@ -1,0 +1,123 @@
+{
+    "rcn": "211077",
+    "acronym": "METRO-HAUL",
+    "topics": "ICT-07-2017",
+    "title": "METRO High bandwidth, 5G Application-aware optical network, with edge storage, compUte and low Latency",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2020",
+    "objective": "METRO-HAUL is a project proposal addressing the Horizon 2020 ICT-07 5G PPP call; it is an RIA, focusing on strand 2 (high capacity elastic ñ optical networks) and strand 3 (software networks). The central topic is cost-efficient optical metro networks for 5G backhaul. \nThe aim of this project is to design and build a smart, but cost-effective, optical metro infrastructure able to support traffic originating from heterogeneous 5G access networks, addressing the anticipated capacity increase and its specific characteristics such as mobility, low latency, and high bandwidth. This infrastructure will be able to also support a wide variety of 5G applications with special emphasis on services from various industries vertical to the ICT.\nThis will be achieved by architecting new access-facing and core-facing nodes, complete with storage and compute facilities, interconnected by novel, spectrally efficient, and adaptive optical transmission networks. Advanced concepts, such as hardware disaggregation and virtualisation, will assist in hitting challenging cost targets whilst enabling automation and programmability ñ all supported by a purpose-designed SDN-based control plane which will interface with client applications, intelligently catering for the wide range of 5G KPIs. \nMETRO-HAUL will coordinate the disparate elements of transmission, switching, networking, compute, and storage, orchestrating dynamic solutions for multiple 5G applications. \nMETRO-HAUL will carry out Proof of Concept demonstrations of its networking solution involving the interconnection of metro node prototypes, the use of the project's transmission technologies, and the associated control plane and orchestration software. The final project demonstrations will also involve the demonstration of actual 5G and vertical services across the METRO-HAUL test-bed.\nAdditionally, the project will actively participate in the relevant standardization bodies, promoting METRO-HAUL solutions to the wider community.",
+    "totalCost": "7784859,75",
+    "ecMaxContribution": "7784859,75",
+    "coordinator": "BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+    "coordinatorCountry": "UK",
+    "participants": "ALCATEL-LUCENT ITALIA S.P.A.;CORIANT PORTUGAL UNIPESSOAL LDA;ZEETTA NETWORKS LIMITED;CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;NAUDIT HIGH PERFORMANCE COMPUTING AND NETWORKING SL;OPENLIGHTCOMM LTD;TELEFONICA INVESTIGACION Y DESARROLLO SA;UNIVERSITAT POLITECNICA DE CATALUNYA;ERICSSON TELECOMUNICAZIONI;SEETEC GMBH;POLITECNICO DI MILANO;LEXDEN TECHNOLOGIES LTD;UNIVERSITY OF BRISTOL;NOKIA BELL LABS FRANCE;ADVA OPTICAL NETWORKING SE;OLD DOG CONSULTING LIMITED;TECHNISCHE UNIVERSITEIT EINDHOVEN;TELECOM ITALIA SPA;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+    "participantCountries": "IT;PT;UK;ES;DE;FR;NL",
+    "projectParticipants": {
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 559575
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 404948
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 472500
+        },
+        "999811787": {
+            "orgId": "999811787",
+            "orgName": "ADVA OPTICAL NETWORKING SE",
+            "ecContrib": 658875
+        },
+        "930341260": {
+            "orgId": "930341260",
+            "orgName": "ZEETTA NETWORKS LIMITED",
+            "ecContrib": 171250
+        },
+        "916970877": {
+            "orgId": "916970877",
+            "orgName": "SEETEC GMBH",
+            "ecContrib": 183750
+        },
+        "943750734": {
+            "orgId": "943750734",
+            "orgName": "CORIANT PORTUGAL UNIPESSOAL LDA",
+            "ecContrib": 227500
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 546080
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 606875
+        },
+        "996377696": {
+            "orgId": "996377696",
+            "orgName": "NOKIA BELL LABS FRANCE",
+            "ecContrib": 438588
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 216875
+        },
+        "955264440": {
+            "orgId": "955264440",
+            "orgName": "NAUDIT HIGH PERFORMANCE COMPUTING AND NETWORKING SL",
+            "ecContrib": 150000
+        },
+        "999967569": {
+            "orgId": "999967569",
+            "orgName": "ALCATEL-LUCENT ITALIA S.P.A.",
+            "ecContrib": 110000
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 363125
+        },
+        "955308478": {
+            "orgId": "955308478",
+            "orgName": "LEXDEN TECHNOLOGIES LTD",
+            "ecContrib": 141250
+        },
+        "999908593": {
+            "orgId": "999908593",
+            "orgName": "BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+            "ecContrib": 721767
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 489770
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 461526
+        },
+        "955270454": {
+            "orgId": "955270454",
+            "orgName": "OLD DOG CONSULTING LIMITED",
+            "ecContrib": 335606
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 300000
+        },
+        "921107927": {
+            "orgId": "921107927",
+            "orgName": "OPENLIGHTCOMM LTD",
+            "ecContrib": 225000
+        }
+    },
+    "calculatedTotalContribution": 7784860
+}

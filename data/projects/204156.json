@@ -1,0 +1,28 @@
+{
+    "rcn": "204156",
+    "acronym": "FRAME",
+    "topics": "ERC-PoC-2015",
+    "title": "Frequency Recognition Algorithm for Multiple Exposures",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2017",
+    "objective": "'This proof of concept (PoC) project seeks to explore the possibility of commercializing an optical imaging instrument with the unique ability of permitting a single detector to acquire and store several images simultaneously. This new concept, which is named Frequency Recognition Algorithm for Multiple Exposures (FRAME), employs an 'image-coding' strategy, where different exposures are given a unique structural ìcodeî. Thanks to this novel coding approach, the camera sensor may be exposed to light several times before readout is necessary ñ a completely new feature within the field of optical imaging. \n\nThe ability for a single detector to acquire a number of images simultaneously opens up for a variety of new measurement schemes such as:\n1) Ultra-high-speed videography \n2) Instantaneous three-dimensional imaging\n3) Simultaneous multispectral imaging. \n\nThe main goal of the ERC Starting Grant funded project ìSpray-Imagingî is to develop and apply new optical imaging approaches for the detailed characterization of atomizing spray systems. The need for both ultra-high-speed and three-dimensional (3D) imaging are then of importance especially for the study highly transient two-phase flow phenomena. \n\nThis PoC will focus both on the development of both a prototype instrument and a control software. Our business idea is to produce an optical instrument ñ an ìadd-onî device ñ that will permit the user to incorporate the FRAME imaging concept. This approach will allow users to seamlessly upgrade any given optical arrangement (e.g. for any given illumination source and detector) with the FRAME functionality.'",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "LAVISION GMBH",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 32359
+        },
+        "999486643": {
+            "orgId": "999486643",
+            "orgName": "LAVISION GMBH",
+            "ecContrib": 117641
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

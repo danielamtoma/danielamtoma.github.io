@@ -1,0 +1,23 @@
+{
+    "rcn": "204456",
+    "acronym": "HawkEye",
+    "topics": "ERC-CoG-2015",
+    "title": "Vision-based Guidance and Control in Birds, with Applications to Autonomous Unmanned Aircraft",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2021",
+    "objective": "Birds have been called ìune aile guide?e par un oeilî, and whilst they possess many senses besides vision, their wings are indeed guided largely by their eyes. Nevertheless, we know surprisingly little of how birds use vision to guide their flight, and almost nothing of the underlying guidance and control laws. This is an extraordinary omission, and unfortunate given the importance that vision is poised to assume in autonomous unmanned aircraft. With good reason, the law still requires a human eye to remain in the loop, but as with the coming revolution in driverless cars, the future of flight lies in autonomy. I see a once-in-a-career opportunity here: we need only imagine a hawk, shooting over the top of a hedgerow then plunging through the undergrowth onto its fleeting prey, to see what engineering could learn. Building upon the success of my ERC Starting Grant on Bird and Insect Flight Dynamics and Control, my proposed Consolidator Grant has two overarching ambitions: 1) to revolutionize our understanding of vision-based guidance and control in birds; and 2) to carry these insights over to application in unmanned autonomous aircraft. This presents a formidable technical challenge, but by combining a state-of-the-art motion capture suite with targets/obstacles moving under motion control in a custom-built facility, I will use system identification techniques to unambiguously identify the guidance and control laws underpinning perching, pursuit, obstacle avoidance, and gap negotiation in birds. More than this, I will identify the precise motion cues to which they attend, settling longstanding questions on the extent to which guidance emerges from simple algorithmic rules versus state feedback and estimation, with wider implications for our understanding of avian perception. This work will break new ground in all directions, testing applied insights in the same facility, and so leading the world in drawing the study of birds and aircraft together under one roof.",
+    "totalCost": "2492266",
+    "ecMaxContribution": "2492266",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 2492266
+        }
+    },
+    "calculatedTotalContribution": 2492266
+}

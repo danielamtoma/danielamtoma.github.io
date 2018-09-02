@@ -1,0 +1,78 @@
+{
+    "rcn": "197349",
+    "acronym": "SELFNET",
+    "topics": "ICT-14-2014",
+    "title": "SELFNET - FRAMEWORK FOR SELF-ORGANIZED NETWORK MANAGEMENT IN VIRTUALIZED AND SOFTWARE DEFINED NETWORKS",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2018",
+    "objective": "The proposed SELFNET project will design and implement an autonomic network management framework to achieve self-organizing capabilities in managing network infrastructures by automatically detecting and mitigating a range of common network problems that are currently still being manually addressed by network operators, thereby significantly reducing operational costs and improving user experience. SELFNET explores a smart integration of state-of-the-art technologies in Software-Defined Networks (SDN), Network Function Virtualization (NFV), Self-Organizing Networks (SON), Cloud computing, Artificial intelligence, Quality of Experience (QoE) and Next-generation networking to provide a novel intelligent network management framework that is capable of assisting network operators in key management tasks: automated network monitoring by the automatic deployment of NFV applications to facilitate system-wide awareness of Health of Network metrics to have more direct and precise knowledge about the real status of the network; autonomic network maintenance by defining high-level tactical measures and enabling autonomic corrective and preventive actions against existing or potential network problems. SELFNET is driven by use cases designed to address major network management problems including Self-protection capabilities against distributed cyber-attacks, Self-healing capabilities against network failures, and Self-optimization to dynamically improve the performance of the network and the QoE of the users. SELFNET is designed within this economic and business context to substantially reduce operational costs of network operators by automating a significant number of current labour-intensive network management tasks. Therefore, SELFNET directly addresses the Strand Network Management challenge highlighted by the EC.",
+    "totalCost": "6866496,25",
+    "ecMaxContribution": "6866496",
+    "coordinator": "EURESCOM-EUROPEAN INSTITUTE FOR RESEARCH AND STRATEGIC STUDIES IN TELECOMMUNICATIONS GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "NEXTWORKS;UNIVERSITY OF THE WEST OF SCOTLAND;CREATIVE SYSTEMS ENGINEERING (C.S.E) MONOPROSOPI EPE;INNOROUTE GMBH;ALTICE LABS SA;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;UNIVERSIDAD COMPLUTENSE DE MADRID;UNIVERSIDAD DE MURCIA;ALVARION TECHNOLOGIES LTD;PROEF, SGPS SA;UBIWHERE LDA",
+    "participantCountries": "IT;UK;EL;DE;PT;ES;IL",
+    "projectParticipants": {
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 937895
+        },
+        "999912279": {
+            "orgId": "999912279",
+            "orgName": "EURESCOM-EUROPEAN INSTITUTE FOR RESEARCH AND STRATEGIC STUDIES IN TELECOMMUNICATIONS GMBH",
+            "ecContrib": 674375
+        },
+        "983002463": {
+            "orgId": "983002463",
+            "orgName": "INNOROUTE GMBH",
+            "ecContrib": 617500
+        },
+        "999844282": {
+            "orgId": "999844282",
+            "orgName": "UNIVERSIDAD DE MURCIA",
+            "ecContrib": 429125
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 408125
+        },
+        "934909766": {
+            "orgId": "934909766",
+            "orgName": "PROEF, SGPS SA",
+            "ecContrib": 496875
+        },
+        "935155176": {
+            "orgId": "935155176",
+            "orgName": "ALVARION TECHNOLOGIES LTD",
+            "ecContrib": 506250
+        },
+        "999911503": {
+            "orgId": "999911503",
+            "orgName": "ALTICE LABS SA",
+            "ecContrib": 546375
+        },
+        "991811906": {
+            "orgId": "991811906",
+            "orgName": "UBIWHERE LDA",
+            "ecContrib": 496375
+        },
+        "999874546": {
+            "orgId": "999874546",
+            "orgName": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+            "ecContrib": 681875
+        },
+        "990902046": {
+            "orgId": "990902046",
+            "orgName": "CREATIVE SYSTEMS ENGINEERING (C.S.E) MONOPROSOPI EPE",
+            "ecContrib": 321250
+        },
+        "999589657": {
+            "orgId": "999589657",
+            "orgName": "UNIVERSITY OF THE WEST OF SCOTLAND",
+            "ecContrib": 750476
+        }
+    },
+    "calculatedTotalContribution": 6866496
+}

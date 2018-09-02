@@ -1,0 +1,23 @@
+{
+    "rcn": "209142",
+    "acronym": "PREP-CRYPTO",
+    "topics": "ERC-2016-COG",
+    "title": "Preparing Cryptography for Modern Applications",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "'Cryptography currently faces fundamentally new challenges. Modern applications like Big Data or Cloud Computing require cryptographic methods that go far beyond secure communication. Such cryptographic methods have only been invented in recent years: namely, since 2009, several unexpected and game-changing *new cryptographic building blocks* have been introduced. Most prominently, constructions of fully homomorphic encryption, code obfuscation, and multilinear maps have been proposed. These constructions have opened the door to applications that were previously believed unattainable, such as the secure outsourcing of computations.\n\nHowever, the concrete schemes proposed are currently scrutinized for cryptanalytic attacks, and it appears that many of them are *considerably less secure* than initially hoped for. Moreover, most constructions of new cryptographic building blocks still constitute 'possibility results' rather than practically relevant schemes. In fact, while being improved continuously, most existing constructions are still far too inefficient for practical use cases.\n\nThe goal of this project is to *prepare these new building blocks for modern applications*. Specifically, we will give new constructions of these new building blocks that\n\n- are *secure in a strong sense*,\n\n- have a *significantly extended functionality*, and\n\n- are *efficient* when tailored to specific applications.\n\nThe technical means to achieve our goals is to *combine* these new building blocks with well-established *algebraic* cryptographic tools. For instance, we plan to mesh obfuscation with cyclic groups, in order to obtain more secure and more powerful multilinear maps. Our work prepares the ground for *practical real-life applications* from new cryptographic building blocks.'",
+    "totalCost": "1975813,75",
+    "ecMaxContribution": "1975813,75",
+    "coordinator": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 1975814
+        }
+    },
+    "calculatedTotalContribution": 1975814
+}

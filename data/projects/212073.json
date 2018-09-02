@@ -1,0 +1,23 @@
+{
+    "rcn": "212073",
+    "acronym": "CGinsideNP",
+    "topics": "ERC-2017-STG",
+    "title": "Complexity Inside NP - A Computational Geometry Perspective",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Traditional complexity theory focuses on the dichotomy between P and NP-hard problems. Lately, it has become increasingly clear that this misses a major part of the picture. Results by the PI and others offer glimpses on a fascinating structure hiding inside NP: new computational problems that seem to lie between polynomial and NP-hard have been identified; new conditional lower bounds for problems with large polynomial running times have been found; long-held beliefs on the difficulty of problems in P have been overturned. Computational geometry plays a major role in these developments, providing some of the main questions and concepts.\n\nWe propose to explore this fascinating landscape inside NP from the perspective of computational geometry, guided by three complementary questions:\n\n(A) What can we say about the complexity of search problems derived fromexistence theorems in discrete geometry? These problems offer a new perspective on complexity classes previously studied in algorithmic game theory (PPAD, PLS, CLS). Preliminary work indicates that they have the potential to answer long-standing open questions on these classes.\n\n(B) Can we provide meaningful conditional lower bounds on geometric problems for which we have only algorithms with large polynomial running time? Prompted by a question raised by the PI and collaborators, such lower bounds were developed for the Frechet distance. Are similar results possible for problems not related to distance measures? If so, this could dramaticallyextend the traditional theory based on 3SUM-hardness to a much more diverse and nuanced picture.\n\n(C) Can we find subquadratic decision trees and faster algorithms for 3SUM-hard problems? After recent results by Pettie and Gronlund on 3SUM and by the PI and collaborators on the Frechet distance, we have the potential to gain new insights on this large class of well-studied problems and to improve long-standing complexity bounds for them.",
+    "totalCost": "1486800",
+    "ecMaxContribution": "1486800",
+    "coordinator": "FREIE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999994826": {
+            "orgId": "999994826",
+            "orgName": "FREIE UNIVERSITAET BERLIN",
+            "ecContrib": 1486800
+        }
+    },
+    "calculatedTotalContribution": 1486800
+}

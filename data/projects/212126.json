@@ -1,0 +1,23 @@
+{
+    "rcn": "212126",
+    "acronym": "BigEarth",
+    "topics": "ERC-2017-STG",
+    "title": "Accurate and Scalable Processing of Big Data in Earth Observation",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "During the last decade, a huge number of earth observation (EO) satellites with optical and Synthetic Aperture Radar sensors onboard have been launched and advances in satellite systems have increased the amount, variety and spatial/spectral resolution of EO data. This has led to massive EO data archives with huge amount of remote sensing (RS) images, from which mining and retrieving useful information are challenging. In view of that, content based image retrieval (CBIR) has attracted great attention in the RS community. However, existing RS CBIR systems have limitations on: i) characterization of high-level semantic content and spectral information present in RS images, and ii) large-scale RS CBIR problems since their search mechanism is time-demanding and not scalable in operational applications. The BigEarth project aims to develop highly innovative feature extraction and content based retrieval methods and tools for RS images, which can significantly improve the state-of-the-art both in the theory and in the tools currently available. To this end, very important scientific and practical problems will be addressed by focusing on the main challenges of Big EO data on RS image characterization, indexing and search from massive archives. In particular, novel methods and tools will be developed, aiming to: 1) characterize and exploit high level semantic content and spectral information present in RS images; 2) extract features directly from the compressed RS images; 3) achieve accurate and scalable RS image indexing and retrieval; and 4) integrate feature representations of different RS image sources into a unified form of feature representation. Moreover, a benchmark archive with high amount of multi-source RS images will be constructed. From an application point of view, the developed methodologies and tools will have a significant impact on many EO data applications, such as accurate and scalable retrieval of: specific man-made structures and burned forest areas.",
+    "totalCost": "1491479",
+    "ecMaxContribution": "1491479",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSITA DEGLI STUDI DI TRENTO",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "999841954": {
+            "orgId": "999841954",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRENTO",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

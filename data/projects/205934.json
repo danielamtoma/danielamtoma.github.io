@@ -1,0 +1,63 @@
+{
+    "rcn": "205934",
+    "acronym": "INSPEX",
+    "topics": "ICT-03-2016",
+    "title": "Integrated Smart Spatial Exploration System",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "'The objective of INSPEX is to make obstacle detection capabilities that are currently only feasible on autonomous vehicles available as a personal portable/wearable multi-sensor, miniaturised, low power spatial exploration system. The INSPEX System will be used for real-time 3D detection, location and warning of obstacles under all environmental conditions in indoor and outdoor environments with static and mobile obstacles. Applications include navigation for the visually/mobility impaired, safer human navigation in reduced visibility conditions and small robot/drone obstacle avoidance.\nThe partners bring state-of-the-art range sensors (LiDAR, UWB radar and MEMS ultrasound) to the project. INSPEX will miniaturise and reduce the power consumption of these sensors to facilitate systems integration. These will then be  integrated with an IMU, environmental sensing, signal and data processing, wireless communications, power efficient data fusion and user interface, all in a miniature, low power system designed to operate within wider smart/IoT environments.\nThe main INSPEX Demonstrator will embed the INSPEX System in a white cane for the visually impaired and provide 3D spatial audio feedback on obstacle location.\nINSPEX directly addresses: \n- ICT-3 Challenge ìto develop and manufacture smart objects and systems that closely integrate sensors, actuators, innovative MEMS, processing power, embedded memory and communication capabilities, all optimising the use of supply powerî that can ìeasily be made interoperable within systems of systemsî\n- RIA aims to 'make technological breakthroughs and their validation in laboratory environments of the next generations of miniaturised smart integrated systemsî and ìindustrial-relevant technological developments, modelling and validation that will enable solutions in particular for health and well-being Ö safety and security Ö manufacturing.î INSPEX is taking ìreliabilityî and ìethical issuesî strongly into consideration.'",
+    "totalCost": "4567067,5",
+    "ecMaxContribution": "3974398,75",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "GOSENSE;CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;THE UNIVERSITY OF MANCHESTER;CORK INSTITUTE OF TECHNOLOGY;STMICROELECTRONICS SRL;SENSL TECHNOLOGIES LIMITED;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK;UNIVERSITE DE NAMUR ASBL",
+    "participantCountries": "FR;CH;UK;IE;IT;BE",
+    "projectParticipants": {
+        "999891521": {
+            "orgId": "999891521",
+            "orgName": "UNIVERSITE DE NAMUR ASBL",
+            "ecContrib": 403212
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1008155
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 573100
+        },
+        "999595089": {
+            "orgId": "999595089",
+            "orgName": "CORK INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 548179
+        },
+        "920762607": {
+            "orgId": "920762607",
+            "orgName": "GOSENSE",
+            "ecContrib": 387615
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 511335
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 292802
+        },
+        "999723226": {
+            "orgId": "999723226",
+            "orgName": "SENSL TECHNOLOGIES LIMITED",
+            "ecContrib": 250000
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3974398
+}

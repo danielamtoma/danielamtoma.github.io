@@ -1,0 +1,17 @@
+{
+    "rcn": "214916",
+    "acronym": "ROBOTGENSKILL",
+    "topics": "ERC-2017-ADG",
+    "title": "Generalizing human-demonstrated robot skills",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2023",
+    "objective": "Future robots are expected to perform a multitude of complex tasks with high variability, in close collaboration or even physical contact with humans, and in industrial as well as in non-industrial settings. Both human-robot interaction and task variability are major challenges. A lot of progress is needed so that: (1) robots recognize the intention of the human and react with human-like motions; (2) robot end-users, such as operators on the factory floor or people at home, are able to deploy robots for new tasks or new situations in an intuitive way, for example by just demonstrating the task to the robot. \n\nThe fundamental challenge addressed in this proposal is: how can a robot generalize a skill that has been demonstrated in a particular situation and apply it to new situations? This project focuses on skills involving rigid objects manipulated by a robot or a human and follows a model-based approach consisting of: (1) conversion of the demonstrated data to an innovative invariant representation of motion and interaction forces; (2) generalization of this representation to a new situation by solving an optimal control problem in which similarity with the invariant representation is maintained while complying with the constraints imposed by the new context. Additional knowledge about the task can be added in the constraints.\n \nMajor breakthroughs are that the required number of demonstrations and hence the training effort decrease drastically, similarity with the demonstration is maintained in view of preserving the human-like nature, and task knowledge is easily included.\n\nThe methodology is applied to program robot skills involving motion in free space (e.g. human-robot hand over tasks) as well as advanced manipulation skills involving contact (e.g. assembly, cleaning), aiming at impact in industrial and non-industrial settings.  \n\nApplication of the invariant motion representation in the neighbouring field of biomechanics will further leverage impact.",
+    "totalCost": "2494971",
+    "ecMaxContribution": "2494971",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

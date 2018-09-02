@@ -1,0 +1,43 @@
+{
+    "rcn": "200020",
+    "acronym": "StarFormMapper",
+    "topics": "COMPET-05-2015",
+    "title": "A Gaia and Herschel Study of the Density Distribution and Evolution of Young Massive Star Clusters",
+    "startDate": "01/06/2016",
+    "endDate": "30/11/2019",
+    "objective": "We propose to use a combination of data from the ESA space missions GAIA and Herschel, alongside other satellite and European-led ground-based observations, to map the density distribution of star formation regions.    This will allow us to identify the mechanisms that underlie both how massive stars themselves form, but more fundamentally, how their natal clusters evolve around them.  Our work will underpin studies of how all galaxies evolve.  The combination of the two ESA missions will allow us to study clusters and associations of stars when they are very young (much less than 1 Myr old), when the structures we see are a better match to the initial conditions.  No one has attempted such a project before as the required datasets were not available. The novel data and complexity of the combined datasets require the development of new analysis and visualization tools. In particular we will statistically compare hybrid large scale N-body \\ SPH models with the combined 6-dimensional Gaia plus Herschel and gas kinematical data. Our goals therefore are structured to develop new techniques that we will initially test on simulations. We will follow this with tests on observational data of slightly older clusters (about 1Myr old).  We will then apply the tested methodologies to the very youngest clusters. This will address our final goal of cracking the problem of how the most massive stars and clusters form.",
+    "totalCost": "1779602,5",
+    "ecMaxContribution": "1775852,5",
+    "coordinator": "UNIVERSITY OF LEEDS",
+    "coordinatorCountry": "UK",
+    "participants": "QUASAR SCIENCE RESOURCES SL;UNIVERSITE JOSEPH FOURIER GRENOBLE 1;UNIVERSITE GRENOBLE ALPES;CARDIFF UNIVERSITY",
+    "participantCountries": "ES;FR;UK",
+    "projectParticipants": {
+        "999907429": {
+            "orgId": "999907429",
+            "orgName": "UNIVERSITE JOSEPH FOURIER GRENOBLE 1",
+            "ecContrib": 0
+        },
+        "999975426": {
+            "orgId": "999975426",
+            "orgName": "UNIVERSITY OF LEEDS",
+            "ecContrib": 590392
+        },
+        "930027562": {
+            "orgId": "930027562",
+            "orgName": "QUASAR SCIENCE RESOURCES SL",
+            "ecContrib": 474732
+        },
+        "999979694": {
+            "orgId": "999979694",
+            "orgName": "CARDIFF UNIVERSITY",
+            "ecContrib": 390728
+        },
+        "924833212": {
+            "orgId": "924833212",
+            "orgName": "UNIVERSITE GRENOBLE ALPES",
+            "ecContrib": 320000
+        }
+    },
+    "calculatedTotalContribution": 1775852
+}

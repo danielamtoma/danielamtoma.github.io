@@ -1,0 +1,23 @@
+{
+    "rcn": "213621",
+    "acronym": "HIGDARS",
+    "topics": "SMEInst-04-2016-2017",
+    "title": "High Bandwidth Flexible Satellite communicationSystem for 1 Gigabit/sec communications",
+    "startDate": "01/02/2018",
+    "endDate": "31/07/2018",
+    "objective": "HIGDARS- High Gain deployable adaptable reflector for satellites.\nThe objective of the HIGDARS project is to develop a commercial Broad band Telecommunication system in KA band, for small satellites at first,  using an innovative Expandable High Bandwidth parabolic Antenna with a smart error correction and optimization (Beam Shaping) sub reflector. \nUsing the advancement in materials, a low mass and small volume when stowed antenna is being developed made of SMP (shape memory polymer). The material allows for a very low mass fold-able antenna that requires no mechanisms or mechanical parts.\nIn addition, an innovative feed system for KA band in a cubesat is being developed with an adaptive sub reflector.\nThe sub reflector with the help of many Piezo actuators and flexible reflective surface is able to change it's own shape and thus optimize the main reflector and also perform beam shaping for better and flexible coverage on Earth.\nThis system demonstration  will be able to provide a link of 1 Gigabit per second from a 6U cubesat. this is 500 times the best systems available today (providing from 0.25 up to 2 megabits/sec).Applications such as HDTV, Ultra HDTV (4K), Mobile TV, In-flight Internet, Fast Internet, and bi-directional satellite to cellular device communication, amongst others, are driving insatiable demand for satellite communications bandwidth.  This demand pushes satellite manufacturers to build satellites with bigger Antenna sizes, higher transmitting power and higher receiver sensitivity. The new small satellite constellation companies are offering continues large amounts of data, imagery and communications, all needing a high level link not available today for these satellites. In the small satellite (cubesat) constellations large Parabole Antennas do not exist, the antennas are still either tape measure, or patches. An innovative technology is needed to both address the technical challenge and enable further expansion of satellite services.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "NSL COMM LTD",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "910643276": {
+            "orgId": "910643276",
+            "orgName": "NSL COMM LTD",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

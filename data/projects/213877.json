@@ -1,0 +1,23 @@
+{
+    "rcn": "213877",
+    "acronym": "AMFIL",
+    "topics": "SMEInst-04-2016-2017",
+    "title": "Autonomous magnetic field-based indoor location",
+    "startDate": "01/03/2018",
+    "endDate": "31/08/2018",
+    "objective": "In hospitals, retail centers, office buildings and on the factory floor, real-time tracking of mobile assets and people can considerably improve efficiency, quality of services and security. Indoor navigation faces many challenges differing from well-established outdoor navigation technologies as high-micro-scale accuracy to data underpins interior navigable space of buildings. Current Internet-connected tracking solutions typically resort to extensive sensor networks which face many shortcomings (visibility area, coverage area, signal propagation, etc.).\nA universal IoT solution would offer great promises by offering real time information on where people and things are. Therefore, Devellyn is developing a RTLS based on autonomous magnetic field-based indoor location resulting from a patent family from the French Space Agency.\nBuildings with reinforced concrete, steel structures and large objects wraps the geomagnetic field in a spatially-varying way which can be used for navigation. Our approach consists in developing a relative positioning technology based on standalone magnetic tags which compute location by sensing magnetic field lines within a facility. The tags work just like inertial measurement units. Therefore, our technology circumvents magnetic field variations which jeopardize current solutions based on fingerprinting. Our technology offers significant advantages: no infrastructure network to be deployed on site, no initial fingerprinting, no need for extensive computing power, high accuracy. Moreover, our business model is based on a pay-for-outcomes approach which will facilitate market adoption. In the longer run, we will broaden the approach by delivering our technology to other sectors (e.g. logistics sector, manufacturing industry, etc.) so as to deliver customized value.\nSME Phase 1 aims at modelling structure of magnetic fields, benchmarking magnetometers, conducting market surveys, analyzing economic feasibility and assessing Freedom to Operate.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "DEVELLYN",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "910587501": {
+            "orgId": "910587501",
+            "orgName": "DEVELLYN",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "209155",
+    "acronym": "IDEAL SENSOR",
+    "topics": "ERC-PoC-2016",
+    "title": "Integrated Smart Device for Emergency Management",
+    "startDate": "01/04/2017",
+    "endDate": "30/09/2018",
+    "objective": "The project IDEAL SENSOR is developing a wearable wrist band device and a customized structural health monitoring (SHM) system for managing emergencies.  The proposed system provides a comprehensive solution for indoor localization, healthcare monitoring, and other general purpose services (fitness, entertainment, health, etc.).  Moreover, an infrastructure based on the structural health monitoring will be developed which include all the functionality of standard Structural Health Monitoring (SHM) systems (environmental monitoring, health assessment, etc.), but it performs also indoor localization. In detail, the system is composed of different environmental monitoring sensors (humidity and temperature), body signal monitoring (heart rate, body temperature, humidity, location and images), communication modules (radio frequency (RF) transceiver, GPRS/GSM, GPS and Bluetooth low energy), OLED display.  Currently , the prototype has been developed and tested in a STM Nucleo-F401 board which is a developing board provided by STMicroelectronics commonly used for rapid prototyping.  In order to commercialize the prototype and make it a feasible product, the current developed system should be redesigned and customized based on our needs and requirements. The electrical parts will be redesigned completely and the best available solutions (price and quality) for each sub-module and components will be used. Moreover, by miniaturizing the prototype and designing a user friendly package and software, it will get the shape of a real smart watch with more features with respect to the current ones.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "POLITECNICO DI TORINO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

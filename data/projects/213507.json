@@ -1,0 +1,23 @@
+{
+    "rcn": "213507",
+    "acronym": "PTRCSP",
+    "topics": "ERC-2017-COG",
+    "title": "Phase Transitions in Random Constraint Satisfaction Problems",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "The systematic investigation of random discrete structures and processes was initiated by Erd?s and RÈnyi in a seminal paper about random graphs in 1960. Since then the study of such objects has become an important topic that has remarkable applications not only in combinatorics, but also in computer science and statistical physics.\n\nRandom discrete objects have two striking characteristics. First, they often exhibit phase transitions, meaning that only small changes in some typically local control parameter result in dramatic changes of the global structure. Second, several statistics of the models concentrate, that is, although the support of the underlying distribution is large, the random variables usually take values in a small set only. A central topic is the investigation of the fine behaviour, namely the determination of the limiting distribution.\n\nAlthough the current knowledge about random discrete structures is broad, there are many fundamental and long-standing questions with respect to the two key characteristics. In particular, up to a small number of notable exceptions, several well-studied models undoubtedly exhibit phase transitions, but we are not able to understand them from a mathematical viewpoint nor to investigate their fine properties. The goal of the proposed project is to study some prominent open problems whose solution will improve significantly our general understanding of phase transitions and of the fine behaviour in random discrete structures. The objectives include the establishment of phase transitions in random constraint satisfaction problems and the analysis of the limiting distribution of central parameters, like the chromatic number in dense random graphs. All these problems are known to be difficult and fundamental, and the results of this project will open up new avenues for the study of random discrete objects, both sparse and dense.",
+    "totalCost": "1219462",
+    "ecMaxContribution": "1219462",
+    "coordinator": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 1219462
+        }
+    },
+    "calculatedTotalContribution": 1219462
+}

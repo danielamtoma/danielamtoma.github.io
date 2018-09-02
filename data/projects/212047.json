@@ -1,0 +1,38 @@
+{
+    "rcn": "212047",
+    "acronym": "IASI-FT",
+    "topics": "ERC-2016-ADG",
+    "title": "IASI - Flux and temperature",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "IASI - Flux and temperature\n\nJuly 2016 was Earth's warmest month on record. The first six months of 2016 were also the warmest six-month period since modern meteorology observations began. This, along with the recent so-called ìhiatusî in the warming trend, and the Paris climate agreement, all attracted scientific and public attention as to how reliable the historical temperature record is, and to the level of confidence in future model climate projections. Although the role of satellites in observing the variability and change of the Earth system has increased in recent decades, remotely-sensed observations are still underexploited to accurately assess climate change fingerprints. The IASI - Flux and Temperature (IASI-FT) project aims at providing new benchmarks for top-of-atmosphere radiative flux and temperature observations using the calibrated radiances measured twice a day at any location by the IASI instrument on the suite of MetOp satellites.  \n\nThe main challenge is to achieve the stringent accuracy and stability necessary for climate studies, particularly for climate trends. Building upon the expertise accumulated by my group during the last 10 years, I propose the development of innovative algorithms and statistical tools to generate climate data records at the global scale, of (1) spectrally resolved outgoing radiances, (2) land and sea skin surface temperatures, and (3) temperatures at selected altitudes. Time series of these quantities will be compared with in situ and other satellite observations if available, atmospheric reanalyses, and climate model simulations. The observed trends will be analyzed at seasonal and regional scales in order to disentangle natural (weather/dynamical) variability and human-induced climate forcings. This project, while clearly research-oriented, will lead towards an operational integrated observational strategy for the Earth climate system, given that the IASI program started in 2006 and will last until 2040 at least.",
+    "totalCost": "2200000",
+    "ecMaxContribution": "2200000",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;UNIVERSITE LIBRE DE BRUXELLES;SORBONNE UNIVERSITE",
+    "participantCountries": "FR;BE",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "999986290": {
+            "orgId": "999986290",
+            "orgName": "UNIVERSITE LIBRE DE BRUXELLES",
+            "ecContrib": 522850
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1217150
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 460000
+        }
+    },
+    "calculatedTotalContribution": 2200000
+}

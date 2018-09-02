@@ -1,0 +1,73 @@
+{
+    "rcn": "205531",
+    "acronym": "FUDIPO",
+    "topics": "SPIRE-02-2016",
+    "title": "Future Directions of Production Planning and Optimized Energy- and Process Industries",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2020",
+    "objective": "Machine learning have revolutionized the way we use computers and is a key technology in the analysis of large data sets. The FUDIPO project will integrate machine learning functions on a wide scale into several critical process industries, showcasing radical improvements in energy and resource efficiency and increasing the competitiveness of European industry. The project will develop three larger site-wide system demonstrators as well as two small-scale technology demonstrators. For this aim, FUDIPO brings together five end-user industries within the pulp and paper, refinery and power production sectors, one automation industry (LE), two research institutes and one university. A direct output is a set of tools for diagnostics, data reconciliation, and decision support, production planning and process optimization including model-based control. The approach is to construct physical process models, which then are continuously adapted using ìgood dataî while ìbad dataî is used for fault diagnostics. After learning, classification of data can be automated. Further, statistical models are built from measurements with several new types of sensors combined with standard process sensors. Operators and process engineers are interacting with the system to both learn and to improve the system performance. There are three new sensors included (TOM, FOM and RF) and new functionality of one (NIR). The platform will have an open platform as the base functionality, as well as more advanced functions as add-ons. The base platform can be linked to major automation platforms and data bases. The model library also is used to evaluate impact of process modifications. By using well proven simulation models with new components and connect to the process optimization system developed we can get a good picture of the actual operations of the modified plant, and hereby get concurrent engineering ñ process design together with development of process automation.",
+    "totalCost": "5740676,25",
+    "ecMaxContribution": "5740676,25",
+    "coordinator": "MAELARDALENS HOEGSKOLA",
+    "coordinatorCountry": "SE",
+    "participants": "ABB AB;BILLERUDKORSNAS AKTIEBOLAG (PUBL);TIETO AUSTRIA GMBH;OPTIMIZACION ORIENTADA A LA SOSTENIBILIDAD SL;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;BESTWOOD AB;MICRO TURBINE TECHNOLOGY BV;MALARENERGI AB;Turkiye Petrol Rafinerileri Anonim Sirketi;RISE SICS VASTERAS AB",
+    "participantCountries": "SE;AT;ES;DE;NL;TR",
+    "projectParticipants": {
+        "933323525": {
+            "orgId": "933323525",
+            "orgName": "TIETO AUSTRIA GMBH",
+            "ecContrib": 680072
+        },
+        "968929509": {
+            "orgId": "968929509",
+            "orgName": "MICRO TURBINE TECHNOLOGY BV",
+            "ecContrib": 303375
+        },
+        "998509853": {
+            "orgId": "998509853",
+            "orgName": "ABB AB",
+            "ecContrib": 661521
+        },
+        "973148233": {
+            "orgId": "973148233",
+            "orgName": "Turkiye Petrol Rafinerileri Anonim Sirketi",
+            "ecContrib": 428890
+        },
+        "972529761": {
+            "orgId": "972529761",
+            "orgName": "MALARENERGI AB",
+            "ecContrib": 304070
+        },
+        "933554870": {
+            "orgId": "933554870",
+            "orgName": "RISE SICS VASTERAS AB",
+            "ecContrib": 730009
+        },
+        "993547915": {
+            "orgId": "993547915",
+            "orgName": "BESTWOOD AB",
+            "ecContrib": 591078
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 433520
+        },
+        "972790400": {
+            "orgId": "972790400",
+            "orgName": "OPTIMIZACION ORIENTADA A LA SOSTENIBILIDAD SL",
+            "ecContrib": 250720
+        },
+        "999881530": {
+            "orgId": "999881530",
+            "orgName": "MAELARDALENS HOEGSKOLA",
+            "ecContrib": 1135159
+        },
+        "923847013": {
+            "orgId": "923847013",
+            "orgName": "BILLERUDKORSNAS AKTIEBOLAG (PUBL)",
+            "ecContrib": 222262
+        }
+    },
+    "calculatedTotalContribution": 5740676
+}

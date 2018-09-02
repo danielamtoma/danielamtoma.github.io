@@ -1,0 +1,68 @@
+{
+    "rcn": "209719",
+    "acronym": "SMS",
+    "topics": "MG-1.1-2016",
+    "title": "Smart Morphing and  Sensing",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "Smart Morphing & Sensing is a multidisciplinary project associating novel electroactive actuators and sensors to increase aerodynamic efficiency and attenuate vibrations and noise. This is achieved via aerostructural morphing exploiting the real-time information from the distributed actuation and sensing systems. This goal is achieved by actuating the smart-materials to deform the structure according to optimum shape design by means of Flight Control Commands. The novel ìintelligent materialî technology is a hybrid association of small piezo-actuators distributed along the control surface, of Shape Memory Alloys and of Electroactive Polymers, disposed under the ëskiní of the active structure. This novel hybrid design allows associating fast time response and vibrational actuation with simultaneous high deformation ability. The ability in capturing energy from the already existing vibrations and redistributing it in the actuation will be used to partially supply the system and therefore ensure an economic and realistic morphing. This is beyond the cutting edge of the state of the art in morphing concepts. The use of novel distributed pressure sensors based on fiber Bragg grating provides real-time information on the actuation performance and the flight situation enabling an efficient in-situ optimization using a dedicated controller interfacing the actuators with the fiber based sensors. Aerodynamic and structural experiments are included to demonstrate the abilities of the new integrated smart sensing and morphing design via real-time actuation. High-fidelity aeroelastic computations are used to optimize the actuators location and function. The experiments will study the increase of the aerodynamic efficiency in cruise, take-off and landing by controlling the turbulence structure responsible for noise and vibration. The main configuration will be based on the Airbus A320 type wing with morphing flap.",
+    "totalCost": "3991687,5",
+    "ecMaxContribution": "3991687,5",
+    "coordinator": "INSTITUT NATIONAL POLYTECHNIQUE DE TOULOUSE",
+    "coordinatorCountry": "FR",
+    "participants": "CFD SOFTWARE - ENTWICKLUNGS- UND FORSCHUNGSGESELLSCHAFT MBH;SCHELLER TECHNOLOGY GMBH;NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA;OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES;INSTYTUT MASZYN PRZEPLYWOWYCH IM ROBERTA SZEWALSKIEGO POLSKIEJ AKADEMII NAUK - IMP PAN;NOVATEM;CFS ENGINEERING SA;POLITECNICO DI MILANO;CEMENTYS",
+    "participantCountries": "DE;EL;FR;PL;CH;IT",
+    "projectParticipants": {
+        "952298277": {
+            "orgId": "952298277",
+            "orgName": "NOVATEM",
+            "ecContrib": 349688
+        },
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 319688
+        },
+        "915024766": {
+            "orgId": "915024766",
+            "orgName": "SCHELLER TECHNOLOGY GMBH",
+            "ecContrib": 365875
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 377375
+        },
+        "997802529": {
+            "orgId": "997802529",
+            "orgName": "CFS ENGINEERING SA",
+            "ecContrib": 331250
+        },
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 248750
+        },
+        "952047920": {
+            "orgId": "952047920",
+            "orgName": "CEMENTYS",
+            "ecContrib": 339750
+        },
+        "999836037": {
+            "orgId": "999836037",
+            "orgName": "INSTITUT NATIONAL POLYTECHNIQUE DE TOULOUSE",
+            "ecContrib": 932500
+        },
+        "967990452": {
+            "orgId": "967990452",
+            "orgName": "CFD SOFTWARE - ENTWICKLUNGS- UND FORSCHUNGSGESELLSCHAFT MBH",
+            "ecContrib": 391250
+        },
+        "999489650": {
+            "orgId": "999489650",
+            "orgName": "INSTYTUT MASZYN PRZEPLYWOWYCH IM ROBERTA SZEWALSKIEGO POLSKIEJ AKADEMII NAUK - IMP PAN",
+            "ecContrib": 335562
+        }
+    },
+    "calculatedTotalContribution": 3991688
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "197161",
+    "acronym": "EcoMultiCloud",
+    "topics": "SIE-01-2014-1",
+    "title": "Hierarchical Approach for Green Workload Management in Distributed Data Centers reducing energy bill and carbon footprint",
+    "startDate": "01/05/2015",
+    "endDate": "31/08/2015",
+    "objective": "The problem: ICT sector consume up to 3% of all global electricity production and 2% of total worldwide footprint consumption and these values expected to double every 5 years. In 2020 Data centers will contribute with the 18% of total ICT electricity production and footprint.\nThe solution: The consortium offers a software platform (EcoMultiCloud) which minimizes the energy consumption of distributed virtualized data centers by dynamically consolidating Virtual Machines (VMs) on the minimum number of physical resources. The implementation of energy-efficient technologies and optimized HW/SW operations however allows energy, cost and carbon emission reductions of up to 60%. \nValue Proposition: We help our customers to improve the economics of their distributed virtualized data centers by using an intelligent software platform reducing energy consumption and increasing efficiency. \nBusiness Model: The consortium prices its software platform according to the customer's expected annual energy savings, which will vary based on a number of factors (e.g., class of servers, workload profiles, type of VMs/applications). This can be as much as 50% of the annual energy savings.\nUsers/Clients: Companies across all industries, segments and geographies which build/own/run highly-virtualized data centers.\nMarket: Small to Large sized Data Centers\nCompetition: VMWare, TSO Logic, Power Assure\nRevenue Streams: Customer's expected annual energy savings\nTeam: Eco4Cloud, E Way Solutions\nRequired funding: 700k Ä",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ECO4CLOUD SRL",
+    "coordinatorCountry": "IT",
+    "participants": "E WAY ENTERPRISE BUSINESS SOLUTIONS SRL",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "934458619": {
+            "orgId": "934458619",
+            "orgName": "E WAY ENTERPRISE BUSINESS SOLUTIONS SRL",
+            "ecContrib": 0
+        },
+        "936073960": {
+            "orgId": "936073960",
+            "orgName": "ECO4CLOUD SRL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

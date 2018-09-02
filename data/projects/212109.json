@@ -1,0 +1,23 @@
+{
+    "rcn": "212109",
+    "acronym": "CORNET",
+    "topics": "ERC-2017-STG",
+    "title": "Provably Correct Networks",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Networks are the backbone of our society, but configuring them is error-prone and tedious: misconfigured networks result in headline grabbing network outages that affect many users and hurt company revenues while security breaches that endanger millions of customers. There are currently no guarantees that deployed networks correctly implement their operatorís policy.\n\nExisting research has focused on two directions: a) low level analysis and instrumentation of real networking code prevents memory bugs in individual network elements, but does not capture network-wide properties desired by operators such as reachability or loop freedom; b) high-level analysis of network-wide properties to verify operator policies on abstract network models; unfortunately, there are no guarantees that the models are an accurate representation of the real network code, and often low-level errors invalidate the conclusions of the high-level analysis.\n\nWe propose to achieve provably correct networks by simultaneously targeting both low-level security concerns and network-wide policy compliance checking. Our key proposal is to rely on exhaustive network symbolic execution for verification and to automatically generate provably correct implementations from network models. Generating efficient code that is equivalent to the model poses great challenges that we will address with three key contributions:\n\na)\tWe will develop a novel theoretical equivalence framework based on symbolic execution semantics, as well as equivalence-preserving model transformations to automatically optimize network models for runtime efficiency.\n\nb)\tWe will develop compilers that take network models and generate functionally equivalent and efficient executable code for different targets (e.g. P4 and C). \n\nc)\tWe will design algorithms that generate and insert runtime guards that ensure correctness of the network with respect to the desired policy even when legacy boxes are deployed in the network.",
+    "totalCost": "1325000",
+    "ecMaxContribution": "1325000",
+    "coordinator": "UNIVERSITATEA POLITEHNICA DIN BUCURESTI",
+    "coordinatorCountry": "RO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999842342": {
+            "orgId": "999842342",
+            "orgName": "UNIVERSITATEA POLITEHNICA DIN BUCURESTI",
+            "ecContrib": 1325000
+        }
+    },
+    "calculatedTotalContribution": 1325000
+}

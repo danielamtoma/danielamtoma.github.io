@@ -1,0 +1,83 @@
+{
+    "rcn": "202699",
+    "acronym": "ATENA",
+    "topics": "DS-03-2015",
+    "title": "Advanced Tools to assEss and mitigate the criticality of ICT compoNents and their dependencies over Critical InfrAstructures",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2019",
+    "objective": "Over recent years, Industrial and Automation Control Systems (IACS) adopted in Critical Infrastructures (CIs) have become more complex due to the increasing number of interconnected devices, and to the large amount of information exchanged among system components. With the emergence of such an ìInternet of Thingsî generation of IACS, the boundaries to be protected have grown well beyond that of the single or aggregated-plant, typical of the mono-operator or silos vision. That poses new challenges, as more operators become involved in a scenario that naturally demands the introduction of multi-tenancy mechanisms.\nNew ICT paradigms, where virtualization is playing an important role, provide innovative features for flexible and efficient management, monitoring and control of devices and data traffic. With the OT/IT convergence, OT (Operation Technologies) will benefit from IT innovation, but at the same time, they will also inherit new IT threats that can potentially impact CIs.\nATENA project, with reference to the above-mentioned interdependent scenario, aims at achieving the desired level of Security and Resilience of the considered CIs, while preserving their efficient and flexible management. ATENA, leveraging the outcomes of previous European Research activities, particularly the CockpitCI and MICIE EU projects, will remarkably upgrade them by exploiting advanced features of ICT algorithms and components, and will bring them at operational industrial maturity level; in this last respect, ATENA outcomes will be tailored and validated in selected Use Cases. In particular, ATENA will develop a Software Defined Security paradigm combining new anomaly detection algorithms and risk assessment methodologies within a distributed environment, and will provide a suite of integrated market-ready ICT networked components and advanced tools embedding innovative algorithms both for correct static CI configuration and for fast dynamic CI reaction in presence of adverse events.",
+    "totalCost": "8111937,5",
+    "ecMaxContribution": "6889925",
+    "coordinator": "LEONARDO - SOCIETA PER  AZIONI",
+    "coordinatorCountry": "IT",
+    "participants": "CREOS LUXEMBOURG SA;SAPIENZA SL;MULTITEL;LA SOCIETE WALLONNE DES EAUX;CONSORZIO PER LA RICERCA NELL' AUTOMATICA E NELLE TELECOMUNICAZIONI C.R.A.T.;ITRUST CONSULTING SARL;AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE;UNIVERSITA DEGLI STUDI ROMA TRE;UNIVERSIDADE DE COIMBRA;Institute of Baltic Studies;UNIVERSITE DU LUXEMBOURG;THE ISRAEL ELECTRIC CORPORATION LIMITED",
+    "participantCountries": "LU;ES;BE;IT;PT;EE;IL",
+    "projectParticipants": {
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 978425
+        },
+        "999988521": {
+            "orgId": "999988521",
+            "orgName": "AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE",
+            "ecContrib": 742500
+        },
+        "999768816": {
+            "orgId": "999768816",
+            "orgName": "SAPIENZA SL",
+            "ecContrib": 315000
+        },
+        "941399454": {
+            "orgId": "941399454",
+            "orgName": "LA SOCIETE WALLONNE DES EAUX",
+            "ecContrib": 262938
+        },
+        "951592117": {
+            "orgId": "951592117",
+            "orgName": "CREOS LUXEMBOURG SA",
+            "ecContrib": 246838
+        },
+        "997826391": {
+            "orgId": "997826391",
+            "orgName": "UNIVERSIDADE DE COIMBRA",
+            "ecContrib": 664688
+        },
+        "999529323": {
+            "orgId": "999529323",
+            "orgName": "Institute of Baltic Studies",
+            "ecContrib": 165625
+        },
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 469125
+        },
+        "998827237": {
+            "orgId": "998827237",
+            "orgName": "THE ISRAEL ELECTRIC CORPORATION LIMITED",
+            "ecContrib": 567088
+        },
+        "999655229": {
+            "orgId": "999655229",
+            "orgName": "CONSORZIO PER LA RICERCA NELL' AUTOMATICA E NELLE TELECOMUNICAZIONI C.R.A.T.",
+            "ecContrib": 692250
+        },
+        "999866107": {
+            "orgId": "999866107",
+            "orgName": "UNIVERSITA DEGLI STUDI ROMA TRE",
+            "ecContrib": 857500
+        },
+        "999643589": {
+            "orgId": "999643589",
+            "orgName": "MULTITEL",
+            "ecContrib": 446875
+        },
+        "998758076": {
+            "orgId": "998758076",
+            "orgName": "ITRUST CONSULTING SARL",
+            "ecContrib": 481075
+        }
+    },
+    "calculatedTotalContribution": 6889927
+}

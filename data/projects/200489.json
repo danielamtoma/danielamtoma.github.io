@@ -1,0 +1,33 @@
+{
+    "rcn": "200489",
+    "acronym": "iBearing",
+    "topics": "JTI-CS2-2014-CFP01-SYS-02-05",
+    "title": "Intelligent Bearing",
+    "startDate": "01/03/2016",
+    "endDate": "30/04/2018",
+    "objective": "Bearing condition monitoring is an important task in any rotary machine application, given that a bearing is a Single Point of Failure that can lead to catastrophic failure of an entire system. A variety of scenarios can arise from a bearing failure, ranging from only a little monetary loss to hard human fatalities. Accordingly to the risk presented by each system, a wide set of monitoring techniques may be considered, from a simple periodic monitoring routine, usually performed locally by an operator, to a permanently online system that triggers warnings or alarms when a fault is detected on a bearing.\n\nThe ultimate aim of iBearing is to monitor the bearing in real-time, and directly in the structure of the bearing, being subjected to the same surrounding harsh environment defined by oil lubricant and high temperatures. Moreover, the proposed system will apply an advanced data fusion algorithm capable of integrating sensorial data from several sources simultaneously, namely temperature, low frequency accelerations, acoustic emission waves, and quality of the lubricant, in order to calculate the most reliable prediction of the time to failure, without intervention of any testing operator.\n\nThe consortium composed by Active Space Technologies, Cranfield University, and Schaeffler intend study the best solutions to achieve the iBearing goal. The selected solutions will be designed, implemented and tested on the Schaeffler test rigs, in the framework of the present activity. The final iBearing product will be a miniaturized and integrated piece of equipment to install in any bearing, just requiring minimal adaptations to the shape of new bearings.",
+    "totalCost": "500276,25",
+    "ecMaxContribution": "500276,25",
+    "coordinator": "Active Space Technologies, Actividades Aeroespaciais S.A.",
+    "coordinatorCountry": "PT",
+    "participants": "SCHAEFFLER TECHNOLOGIES AG & CO. KG;CRANFIELD UNIVERSITY",
+    "participantCountries": "DE;UK",
+    "projectParticipants": {
+        "946808562": {
+            "orgId": "946808562",
+            "orgName": "SCHAEFFLER TECHNOLOGIES AG & CO. KG",
+            "ecContrib": 67038
+        },
+        "964190477": {
+            "orgId": "964190477",
+            "orgName": "Active Space Technologies, Actividades Aeroespaciais S.A.",
+            "ecContrib": 232378
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 200861
+        }
+    },
+    "calculatedTotalContribution": 500277
+}

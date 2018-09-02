@@ -1,0 +1,58 @@
+{
+    "rcn": "194118",
+    "acronym": "CloudLightning",
+    "topics": "ICT-07-2014",
+    "title": "Self-Organising, Self-Managing Heterogeneous Cloud",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "Currently cloud infrastructures are mostly homogeneous -- composed of a large number of machines of the same type -- centrally managed and made available to the end user using the three standard delivery models: Infrastructure-as-a-service (IaaS), Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS). As clouds increase in size and as machines of different types are added to the infrastructure in order to maximise performance and power efficiency, heterogeneous clouds are being created. However, exploiting different architectures such as graphics processing units, many integrated cores  and data flow engines, poses significant challenges.To efficiently access heterogeneous resources and, at the same time, to exploit these resources to reduce application development effort, to make optimisations easier and to simplify service deployment requires a reevaluation of our approach to service delivery.\n\nThe evolving complexity of the cloud ecosystem will eventually render traditional cloud management techniques ineffectual. Self-organisation and self-management are powerful techniques for managing complexity. Some of our initial simulation results using self organisation and self optimisation indicate that these can be used as the basis of a new cloud management and delivery model capable of efficiently dealing with issues that arise at scale. Our preliminary work has centred on promoting access to power efficient heterogeneous resources by shifting the deployment and optimization effort from the consumer to the software stack running on the cloud infrastructure. With CloudLightning, we propose to extend this work and to build a cloud management and delivery infrastructure based on these principles.\n\nGiven the prohibitive expense associated with empirical experimentation on hyperscale cloud infrastructures, data gathered on our testbed will be used to simulate this infrastructure and to evaluate the self organisation approach in that context.",
+    "totalCost": "3957050",
+    "ecMaxContribution": "3934425",
+    "coordinator": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+    "coordinatorCountry": "IE",
+    "participants": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;DUBLIN CITY UNIVERSITY;INSTITUTUL E-AUSTRIA TIMISOARA;DEMOCRITUS UNIVERSITY OF THRACE;INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED;MAXELER TECHNOLOGIES LIMITED;NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+    "participantCountries": "EL;IE;RO;UK;NO",
+    "projectParticipants": {
+        "999624674": {
+            "orgId": "999624674",
+            "orgName": "INSTITUTUL E-AUSTRIA TIMISOARA",
+            "ecContrib": 283750
+        },
+        "968922816": {
+            "orgId": "968922816",
+            "orgName": "MAXELER TECHNOLOGIES LIMITED",
+            "ecContrib": 643625
+        },
+        "987086066": {
+            "orgId": "987086066",
+            "orgName": "INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED",
+            "ecContrib": 626000
+        },
+        "999892588": {
+            "orgId": "999892588",
+            "orgName": "DUBLIN CITY UNIVERSITY",
+            "ecContrib": 329370
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 883225
+        },
+        "999659109": {
+            "orgId": "999659109",
+            "orgName": "DEMOCRITUS UNIVERSITY OF THRACE",
+            "ecContrib": 138000
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 373125
+        },
+        "999977851": {
+            "orgId": "999977851",
+            "orgName": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+            "ecContrib": 657330
+        }
+    },
+    "calculatedTotalContribution": 3934425
+}

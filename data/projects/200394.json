@@ -1,0 +1,38 @@
+{
+    "rcn": "200394",
+    "acronym": "PACAS",
+    "topics": "Sesar-10-2015",
+    "title": "Participatory Architectural Change Management in ATM Systems",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "Air Traffic Management (ATM) systems are large systems-of-systems that are managed via multiple layers (e.g., operational, organizational, technical) to better handle their complexity. Due to their tight interdependencies, any change introduced in either of these layers triggers changes in other layers. As such, change management in ATM systems is a difficult task and requires to know the full implications of change(s) over the whole system and support decision-making so that the ATM system does not suffer any issues with respect to functionality, safety, security, performance, cost efficiency, or other desired characteristics for a well-functioning ATM system. \nThe main objective of PACAS is to better understand, model and analyze changes at different layers of the ATM system to support change management, while capturing how architectural and design choices influence the overall system. PACAS will deliver an innovative participatory change management process where stakeholders will actively participate to the architectural evolution of the ATM system.  The key elements of PACAS are: (i) domain-specific modeling languages to express heterogeneous perspectives of ATM domain experts;  (ii) impact propagation techniques to align multiple perspectives; (iii) a gamified platform as key driver for collaboration. The PACAS consortium will leverage state-of-art multi-view modeling methods, multi-objective reasoning techniques, and gamification approaches to develop and evaluate an innovative ATM participatory change management process.  The validation will be assisted an external advisory board, composed of ATM domain experts, focusing on a limited number of strategic objectives concerning economical, organizational, security and safety aspects. The validation aims to demonstrate the generality of the PACAS concept and the potential for extended versions that support additional strategic perspectives that affect ATM change management.",
+    "totalCost": "998355",
+    "ecMaxContribution": "998355",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI TRENTO",
+    "coordinatorCountry": "IT",
+    "participants": "STIFTELSEN SINTEF;DEEP BLUE SRL;UNIVERSITEIT UTRECHT",
+    "participantCountries": "NO;IT;NL",
+    "projectParticipants": {
+        "999985805": {
+            "orgId": "999985805",
+            "orgName": "UNIVERSITEIT UTRECHT",
+            "ecContrib": 247750
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 240155
+        },
+        "998325941": {
+            "orgId": "998325941",
+            "orgName": "DEEP BLUE SRL",
+            "ecContrib": 226500
+        },
+        "999841954": {
+            "orgId": "999841954",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRENTO",
+            "ecContrib": 283950
+        }
+    },
+    "calculatedTotalContribution": 998355
+}

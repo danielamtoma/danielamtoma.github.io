@@ -1,0 +1,23 @@
+{
+    "rcn": "197873",
+    "acronym": "SPICE",
+    "topics": "ERC-CoG-2014",
+    "title": "Synthetic Lethal Phenotype Identification through Cancer Evolution Analysis",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "Prostate cancer (PCA) is a genetically heterogeneous disease. Advances in targeted hormonal therapy (second generation anti-androgens) have led to more effective management of castration-resistant prostate cancer (CRPC). Despite these highly potent drugs, disease recurs with new genomic and epigenetic alterations. In this ERC proposal, I will leverage my expertise in cancer genomics and a new computational methodology to unravel the landscape of lethal PCA, with a focus on determining the Achillesí heel of these aggressive tumours.  In Aim 1, I will take advantage of DNA sequencing data from over 1000 patient-derived tumour samples and use highly innovative mathematical algorithms to create a detailed evolution chart for each tumour and identify driver events leading to CRPC. After nominating candidate drivers, we propose testing 10 using in vitro gain- and loss-of-function validations experiments (i.e., CRISPR/Cas9, shRNA, and Tet-On assays) in PCA cell lines using migration, invasion, and cell cycle as readouts. In Aim 2, I will focus on genomic events that occur in recalcitrant CRPC, positing that genetic alterations occurring prior or secondary to treatment harbour clues into resistance. In vitro validations will be performed on the top 10 biomarkers. In Aim 3, I will nominate synthetic lethality combinations by mining CRPC genomic data taken from Stand Up 2 Cancer CRPC clinical trials. I will prioritize mutually exclusive genomic alterations in genes for which approved drugs exist. The top 5-10 candidates will be validated in a prostate lineage-specific manner.  In summary, this ERC proposal will leverage my many years of expertise in PCA genomics and emerging public and private CRPC datasets to uncover driver mutations that will enhance our understanding of recalcitrant CRPC.  Successful completion of this study should lead to novel treatment approaches for CRPC and to a computational model that may transform our approach to evaluating other cancers.",
+    "totalCost": "1996428",
+    "ecMaxContribution": "1996428",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI TRENTO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999841954": {
+            "orgId": "999841954",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRENTO",
+            "ecContrib": 1996428
+        }
+    },
+    "calculatedTotalContribution": 1996428
+}

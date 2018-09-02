@@ -1,0 +1,98 @@
+{
+    "rcn": "212494",
+    "acronym": "QAMeleon",
+    "topics": "ICT-30-2017",
+    "title": "Sliceable multi-QAM format SDN-powered transponders and ROADMs Enabling Elastic Optical Networks",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "Sustained 2-digit growth in internet traffic is raising the need for new photonic technologies enabling Petabit/s network capacities, whereas suppressed operator margins call for new concepts to make these networks more efficient. QAMeleon aims at a holistic solution towards scaling metro/core networks to the next decade. A new generation of SDN-programmable photonic components, modules and subsystems will be delivered, employing sliceability as a means of optimizing resource utilization and cutting operator costs by >30%. \nAt the transponder side, QAMeleon will develop components for 2 generations ahead: Operating at 128 Gbaud, they will bring significant savings in footprint (>13◊), energy/bit (10.4◊) and cost/bit (>4.3◊). At the ROADM side, QAMeleon will develop large-scale flex-grid wavelength-selective switches (1◊24 WSS) and transponder aggregators (8◊24 TPA), reducing footprint and cost/port by more than 40% and 28% respectively, with energy savings per ROADM node reaching 4◊. Addressing the emerging needs of 5G network backhaul and datacenter interconnect (DCI) metro-access networks where dynamicity is pivotal, QAMeleon will develop an integrated flex-grid 1◊4 WSS with nanosecond-scale switching time. The fast 1◊4 WSS will be scalable to large channel counts (i.e. full C-band) and will enable savings in footprint, energy consumption and cost by 20◊, 11.5◊ and 36% respectively. \nQAMeleon will integrate its innovative photonic components into functional subsystems: A 3 Tb/s sliceable bandwidth-variable transponder (S-BVT), a flexible ROADM with large-scale WSSs and TPAs, and a fast ROADM for metro-access. All necessary SDN software extensions, plugins and application interfaces will be developed, providing a complete functional SDN framework for the sliceable ìwhite boxî subsystems. QAMeleonís devices will be integrated with the SDN software and validated in scalable demonstrators at Nokiaís lab infrastructure and on TIMís deployed regional network fiber plant",
+    "totalCost": "7999558,75",
+    "ecMaxContribution": "7999558,75",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "FINISAR GERMANY GMBH;NEXTWORKS;VARIO-OPTICS AG;ARISTOTELIO PANEPISTIMIO THESSALONIKIS;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;Optocap Ltd;Finisar Sweden AB;DANMARKS TEKNISKE UNIVERSITET;III-V LAB;SMART PHOTONICS BV;NOKIA BELL LABS FRANCE;TECHNISCHE UNIVERSITEIT EINDHOVEN;TELECOM ITALIA SPA;VPIPHOTONICS GMBH",
+    "participantCountries": "DE;IT;CH;EL;BE;UK;SE;DK;FR;NL",
+    "projectParticipants": {
+        "985490319": {
+            "orgId": "985490319",
+            "orgName": "Optocap Ltd",
+            "ecContrib": 387281
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 520254
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 281250
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 508500
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 493750
+        },
+        "999594507": {
+            "orgId": "999594507",
+            "orgName": "Finisar Sweden AB",
+            "ecContrib": 446500
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 345375
+        },
+        "996377696": {
+            "orgId": "996377696",
+            "orgName": "NOKIA BELL LABS FRANCE",
+            "ecContrib": 719715
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 659375
+        },
+        "950983248": {
+            "orgId": "950983248",
+            "orgName": "VPIPHOTONICS GMBH",
+            "ecContrib": 358750
+        },
+        "954612212": {
+            "orgId": "954612212",
+            "orgName": "VARIO-OPTICS AG",
+            "ecContrib": 462062
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 144750
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 964174
+        },
+        "999971546": {
+            "orgId": "999971546",
+            "orgName": "III-V LAB",
+            "ecContrib": 821010
+        },
+        "985883751": {
+            "orgId": "985883751",
+            "orgName": "FINISAR GERMANY GMBH",
+            "ecContrib": 633000
+        },
+        "950758208": {
+            "orgId": "950758208",
+            "orgName": "SMART PHOTONICS BV",
+            "ecContrib": 253812
+        }
+    },
+    "calculatedTotalContribution": 7999558
+}

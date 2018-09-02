@@ -1,0 +1,93 @@
+{
+    "rcn": "209948",
+    "acronym": "TITANIUM",
+    "topics": "SEC-12-FCT-2016-2017",
+    "title": "Tools for the Investigation of Transactions in Underground Markets",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "TITANIUM will develop novel methods and technical solutions for investigating and mitigating illegitimate activities (relating to either crime or terrorism) involving virtual currencies and/or underground market transactions. Specifically, the project will:\n* Establish a research and development environment that enables close and continuous collaboration between researchers, developers, legal experts, and law enforcement stakeholders in several European countries and regions\n* Analyse legal and ethical requirements for tools and services, elicit technical requirements from LEA stakeholders, and establish a development ecosystem that ensures compliance with these requirements and supports the generation of court-proof evidence\n* Implement tools for the automated aggregation of data from diverse sources, including the dark web, the surface web, and other sources and devices obtained through legal warrants, using multi-modal adaptive crawlers, stealth facilities, and smart filters\n* Provide services for the simulation of criminal activities and the generation of synthetic data\n* Investigate customizable heuristics, which can operate across different virtual currency transaction ledgers and identify clusters of addresses that are likely to belong to the same real-world entity\n* Apply novel techniques based on machine-learning and deep neural networks for revealing patterns, detecting anomalies, and identifying tumblers and mixers used for money laundering\n* Deploy forensics tools and services to partner LEAs and conduct Field Labs to assess the effectiveness, ethical and legal compliance, and overall impact of the results and to validate those results at technology readiness level (TRL) 6 or higher\n* Prepare curricula and carry out training and joint exercises that will facilitate the take-up of TITANIUM technologies by LEAs across Europe\n* Allow European SMEs and RTOs to develop cutting edge tools, to access LEA markets, and to strengthen European competitiveness",
+    "totalCost": "4991600",
+    "ecMaxContribution": "4991600",
+    "coordinator": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "THE INTERNATIONAL CRIMINAL POLICE ORGANIZATION;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;BUNDESMINISTERIUM FUER INNERES;COUNTERCRAFT SL;COBLUE CYBERSECURITY BV;DENCE GMBH;BUNDESKRIMINALAMT;FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH;KARLSRUHER INSTITUT FUER TECHNOLOGIE;TRILATERAL RESEARCH LTD;MINISTERIO DEL INTERIOR;UNIVERSITY COLLEGE LONDON;UNIVERSITAET INNSBRUCK;NATIONAL BUREAU OF INVESTIGATION",
+    "participantCountries": "FR;NL;AT;ES;DE;UK;FI",
+    "projectParticipants": {
+        "997900887": {
+            "orgId": "997900887",
+            "orgName": "BUNDESKRIMINALAMT",
+            "ecContrib": 169500
+        },
+        "999869114": {
+            "orgId": "999869114",
+            "orgName": "UNIVERSITAET INNSBRUCK",
+            "ecContrib": 557900
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 512980
+        },
+        "918131967": {
+            "orgId": "918131967",
+            "orgName": "COUNTERCRAFT SL",
+            "ecContrib": 243690
+        },
+        "992894038": {
+            "orgId": "992894038",
+            "orgName": "NATIONAL BUREAU OF INVESTIGATION",
+            "ecContrib": 157541
+        },
+        "926781942": {
+            "orgId": "926781942",
+            "orgName": "DENCE GMBH",
+            "ecContrib": 290062
+        },
+        "999827501": {
+            "orgId": "999827501",
+            "orgName": "MINISTERIO DEL INTERIOR",
+            "ecContrib": 48750
+        },
+        "999826434": {
+            "orgId": "999826434",
+            "orgName": "BUNDESMINISTERIUM FUER INNERES",
+            "ecContrib": 67850
+        },
+        "955552336": {
+            "orgId": "955552336",
+            "orgName": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+            "ecContrib": 345416
+        },
+        "923930724": {
+            "orgId": "923930724",
+            "orgName": "TRILATERAL RESEARCH LTD",
+            "ecContrib": 281875
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 412125
+        },
+        "927350944": {
+            "orgId": "927350944",
+            "orgName": "COBLUE CYBERSECURITY BV",
+            "ecContrib": 280000
+        },
+        "995993964": {
+            "orgId": "995993964",
+            "orgName": "THE INTERNATIONAL CRIMINAL POLICE ORGANIZATION",
+            "ecContrib": 447500
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 778490
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 397920
+        }
+    },
+    "calculatedTotalContribution": 4991599
+}

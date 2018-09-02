@@ -1,0 +1,78 @@
+{
+    "rcn": "200486",
+    "acronym": "AIRMES",
+    "topics": "JTI-CS2-2014-CFP01-LPA-03-03",
+    "title": "Airline Maintenance Operations implementation of an E2E Maintenance Service Architecture and its enablers",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2019",
+    "objective": "The AIRMES project focusses on optimising end-to-end maintenance activities within an operatorís environment. It will develop and validate an innovative, state-of-the-art, integrated maintenance service architecture that will be a key step in achieving the goal of no technically-induced aircraft operational disruptions in European air traffic. The AIRMES consortium is led by an airline / MRO that has a clear vision, and is keen to exploit radically new and challenging ways to achieve their objectives. They are supported by expertise in systems health monitoring, semantics, knowledge based engineering, architecture, diagnostics, prognostics, maintenance planning and optimisation, and mobile tools for remote support of maintenance activities. Truly a unique consortium.\nThe service architecture will be structured around an operationally focused collaborative environment IT platform, integrating multiple functionalities and it will accelerate the shift in European aviation, from scheduled maintenance to condition-based maintenance. By blending this knowledge based environment with mobile tools for remote support, using augmented reality technologies and two way communication solutions, the resulting service architecture will provide contextualised, updated and integrated information to all members of the maintenance value chain. \nThe impact of this project on European Air Traffic will be significant. In Europe, 5.8% of all flights are delayed due to direct aircraft technical causes and consequential delays on subsequent flights; the cost of this disruption is estimated at 2.8 BÄ. By reducing operational disruptions, reducing the average delay time and improving aircraft utilisation, through a grant value of 4.6 MÄ, the impact of this 48 month, 12 partner AIRMES project will be significant and assessed to around 1BÄ per year.",
+    "totalCost": "5189207,5",
+    "ecMaxContribution": "4606046",
+    "coordinator": "TRANSPORTES AEREOS PORTUGUESES SA*TAP PORTUGAL",
+    "coordinatorCountry": "PT",
+    "participants": "L - UP SAS;MEGGITT SA;AEROSPACE INTERNATIONAL SERVICES LIMITED;OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES;M2P CONSULTING GMBH;TEKEVER - TECNOLOGIAS DE INFORMACAO, S.A.;ATOS INTEGRATION SAS;INSTITUTO DE SOLDADURA E QUALIDADE;PARAMETRIC TECHNOLOGY SA;CRANFIELD UNIVERSITY;TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "FR;CH;UK;DE;PT;NL",
+    "projectParticipants": {
+        "999488680": {
+            "orgId": "999488680",
+            "orgName": "INSTITUTO DE SOLDADURA E QUALIDADE",
+            "ecContrib": 277500
+        },
+        "999731277": {
+            "orgId": "999731277",
+            "orgName": "MEGGITT SA",
+            "ecContrib": 0
+        },
+        "970170333": {
+            "orgId": "970170333",
+            "orgName": "TRANSPORTES AEREOS PORTUGUESES SA*TAP PORTUGAL",
+            "ecContrib": 730950
+        },
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 223570
+        },
+        "996484008": {
+            "orgId": "996484008",
+            "orgName": "ATOS INTEGRATION SAS",
+            "ecContrib": 500048
+        },
+        "935101729": {
+            "orgId": "935101729",
+            "orgName": "M2P CONSULTING GMBH",
+            "ecContrib": 246875
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 583058
+        },
+        "932201914": {
+            "orgId": "932201914",
+            "orgName": "PARAMETRIC TECHNOLOGY SA",
+            "ecContrib": 257680
+        },
+        "999756303": {
+            "orgId": "999756303",
+            "orgName": "TEKEVER - TECNOLOGIAS DE INFORMACAO, S.A.",
+            "ecContrib": 628250
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 502115
+        },
+        "935119868": {
+            "orgId": "935119868",
+            "orgName": "AEROSPACE INTERNATIONAL SERVICES LIMITED",
+            "ecContrib": 350000
+        },
+        "999773957": {
+            "orgId": "999773957",
+            "orgName": "L - UP SAS",
+            "ecContrib": 306000
+        }
+    },
+    "calculatedTotalContribution": 4606046
+}

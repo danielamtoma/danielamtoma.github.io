@@ -1,0 +1,23 @@
+{
+    "rcn": "205894",
+    "acronym": "PULSE",
+    "topics": "ERC-ADG-2015",
+    "title": "Perception Ultrasound by Learning Sonographic Experience",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2021",
+    "objective": "PULSE will develop a new generation of ultrasound imaging capabilities to revolutionize the use of this low-cost and portable imaging technology across clinical medicine worldwide. \n\nThe greatest barrier to the universal implementation of ultrasound (US) in clinical medicine today is the need to train sonographers to the highest level to ensure diagnostic images are of consistently high quality and fit for purpose. Unfortunately, the non-expert finds US images very difficult to interpret by eye alone.  Perception Ultrasound by Learning Sonographic Experience (PULSE) is an innovative inter-disciplinary project designed to eliminate the need for highly skilled operators of the technology. It is motivated by the observation that sonographers find it easier to interpret their own scans than review those taken by others. The innovation in PULSE is to apply the latest ideas from machine learning and computer vision to build, from real world training video data, computational models that describe how an expert sonographer performs a diagnostic study of a subject from multiple perceptual cues. Novel machine-learning based computational models will be derived based on probe and eye motion tracking, image processing, and knowledge of how to interpret real-world clinical images and videos acquired to a standardised protocol. By building models that more closely mimic how a human makes decisions from US images we believe we will build considerably more powerful assistive interpretation methods than have previously been possible from still US  images and videos alone. \n\n    Software demonstrators will be developed and evaluated on real world obstetric US data in collaboration with clinical experts and novices to demonstrate the new approach and its potential to move routine US scanning services from hospitals into the community which would have clear economic, healthcare and social benefits across Europe and beyond.",
+    "totalCost": "2462015",
+    "ecMaxContribution": "2462015",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 2462015
+        }
+    },
+    "calculatedTotalContribution": 2462015
+}

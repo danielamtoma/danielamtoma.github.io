@@ -1,0 +1,23 @@
+{
+    "rcn": "205190",
+    "acronym": "PABIR",
+    "topics": "ERC-CoG-2015",
+    "title": "Policy analysis with beliefs about identifying restrictions",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "The principal tool for macroeconomic policy analysis both in the empirical literature and in actual practice at policy institutions is Structural Vector Autoregressions (SVARs). This research project aims to address the key controversy surrounding SVARs, namely the fact that the policy conclusions crucially depend on the choice of identifying restrictions. This choice is in practice arbitrary as there is no consensus in the literature about the credibility of the restrictions that are commonly used in applications. The central idea of this project is to allow a user to specify beliefs about the credibility of identifying restrictions. The goal is to propose methods for policy analysis that allow for flexible use of identifying restrictions, for example only using those supported by economic theory or incorporating restrictions with different degrees of credibility. These types of beliefs cannot be straightforwardly embedded into standard Bayesian analyses of SVARs and will require the development of new econometric tools. The research project aims to make both methodological and empirical contributions. On the methodological front, it will introduce to the time series literature and build on ideas from robust (multiple-prior) Bayesian analysis. At the same time, it will go beyond existing results and develop new methods that make not only a theoretical contribution, but also have useful applications outside of time series, for example to microeconometrics or, more in general, to Bayesian decision making under ambiguity. On the empirical front, the tools will enable a broad range of new applications that can help one investigate to what extent existing findings about the effectiveness of macroeconomic policy may be driven by the imposed assumptions and, ultimately, make it possible to search for policy conclusions that are robust to the choice of identifying restrictions.",
+    "totalCost": "1090686",
+    "ecMaxContribution": "1090686",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 1090686
+        }
+    },
+    "calculatedTotalContribution": 1090686
+}

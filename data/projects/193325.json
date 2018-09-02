@@ -1,0 +1,48 @@
+{
+    "rcn": "193325",
+    "acronym": "PanCanRisk",
+    "topics": "PHC-32-2014",
+    "title": "Personalized bioinformatics for global cancer susceptibility identification and clinical management",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2018",
+    "objective": "Cancer sequencing studies have extensively investigated the landscape of somatic mutations that drive tumor development, however the importance of germline variation for cancer susceptibility has been neglected. We hypothesize that for cancer types affecting a large proportion of the population, a shared set of genes with variants of different levels of penetrance leads to the clinical phenotype. While rare germline variants are not interrogated by array-based genome-wide association studies (GWAS), these can be effectively studied by whole-genome or whole-exome sequencing. Here, we propose in-depth pan-cancer analyses, which will be implemented as part of the International Cancer Genome Consortium (ICGC) initiative, as a model to develop and apply the necessary bioinformatics tools and pipelines to fully exploit the cancer-genome datasets, and to harness the diagnostic power of genome sequencing in day-to-day clinical practice. Our proposal addresses the full chain of computational and statistical tools that are needed for clinically relevant diagnosis and intervention, including discovery in large cohorts, validation of putative causal sites in model systems and development of targeted cancer-risk panels. The consortium combines complementary expertise to extend the computational discovery of novel variants that influence cancer susceptibility to intergenic and regulatory variants; to integrate genomic, molecular phenotype, biomarker and clinical data; and to develop novel statistical methods for variant association and eQTL analysis. The project will deal with essential aspects on how data are collected, stored, organized, integrated, analyzed and exploited in cancer genetic clinics. We aim to provide a concerted, cross-disciplinary framework for a better understanding, integration and use of cancer clinical data in the evaluation of the multitude of genetic variants and mutations involved in cancer susceptibility, for the direct benefit of cancer patients.",
+    "totalCost": "2948183,75",
+    "ecMaxContribution": "2948183,75",
+    "coordinator": "FUNDACION PUBLICA GALEGA DE MEDICINA XENOMICA",
+    "coordinatorCountry": "ES",
+    "participants": "CONSULTORIO DEXEUS SAP;EUROPEAN MOLECULAR BIOLOGY LABORATORY;INSTITUT CURIE;PROTEINLOGIC LIMITED;FUNDACIO CENTRE DE REGULACIO GENOMICA",
+    "participantCountries": "ES;DE;FR;UK",
+    "projectParticipants": {
+        "999544455": {
+            "orgId": "999544455",
+            "orgName": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+            "ecContrib": 881410
+        },
+        "997225476": {
+            "orgId": "997225476",
+            "orgName": "FUNDACION PUBLICA GALEGA DE MEDICINA XENOMICA",
+            "ecContrib": 558350
+        },
+        "999896759": {
+            "orgId": "999896759",
+            "orgName": "INSTITUT CURIE",
+            "ecContrib": 328714
+        },
+        "948023293": {
+            "orgId": "948023293",
+            "orgName": "CONSULTORIO DEXEUS SAP",
+            "ecContrib": 256342
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 508080
+        },
+        "947360686": {
+            "orgId": "947360686",
+            "orgName": "PROTEINLOGIC LIMITED",
+            "ecContrib": 415288
+        }
+    },
+    "calculatedTotalContribution": 2948184
+}

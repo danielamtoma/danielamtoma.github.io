@@ -1,0 +1,73 @@
+{
+    "rcn": "203540",
+    "acronym": "SC-square",
+    "topics": "FETOPEN-3-2015",
+    "title": "SC-square - Satisfiability Checking and Symbolic Computation: uniting two communities to solve real problems",
+    "startDate": "01/07/2016",
+    "endDate": "31/08/2018",
+    "objective": "The use of advanced methods to solve practical and industrially relevant problems by computers has a long history. Whereas Symbolic Computation is concerned with the algorithmic determination of exact solutions to complex mathematical problems, more recent developments in the area of Satisfiability Checking tackle similar problems but with different algorithmic and technological solutions. \n\nThough both communities have made remarkable progress in the last decades, they still need to be strengthened to tackle practical problems of rapidly increasing size and complexity. Their separate tools (computer algebra systems and SMT solvers) are urgently needed to examine prevailing problems with a direct effect to our society. For example, Satisfiability Checking is an essential backend for assuring the security and the safety of computer systems. In various scientific areas, Symbolic Computation enables dealing with large mathematical problems out of reach of pencil and paper developments.\n\nCurrently the two communities are largely disjoint and unaware of the achievements of each other, despite strong reasons for them to discuss and collaborate, as they share many central interests. However, researchers from these two communities rarely interact, and also their tools lack common, mutual interfaces for unifiying their strengths. Bridges between the communities in the form of common platforms and roadmaps are necessary to initiate an exchange, and to support and to direct their interaction. These are the main objectives of this CSA. We will initiate a wide range of activities to bring the two communities together, identify common challenges, offer global events and bilateral visits, propose standards, and so on.\n\nWe believe that these activities will initiate cross-fertilisation of both fields and bring mutual improvements. Combining the knowledge, experience and the technologies in these communities will enable the development of radically improved software tools",
+    "totalCost": "499603,75",
+    "ecMaxContribution": "499603,75",
+    "coordinator": "UNIVERSITY OF BATH",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITE DE LORRAINE;COVENTRY UNIVERSITY;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;MAPLESOFT EUROPE LIMITED;UNIVERSITAT LINZ;UNIVERSITAET KASSEL;FONDAZIONE BRUNO KESSLER;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;UNIVERSITA DEGLI STUDI DI GENOVA",
+    "participantCountries": "FR;UK;DE;AT;IT",
+    "projectParticipants": {
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 36250
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 45000
+        },
+        "954831626": {
+            "orgId": "954831626",
+            "orgName": "UNIVERSITE DE LORRAINE",
+            "ecContrib": 36250
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 28125
+        },
+        "999842924": {
+            "orgId": "999842924",
+            "orgName": "UNIVERSITY OF BATH",
+            "ecContrib": 106956
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 55000
+        },
+        "999976687": {
+            "orgId": "999976687",
+            "orgName": "UNIVERSITA DEGLI STUDI DI GENOVA",
+            "ecContrib": 45000
+        },
+        "999612161": {
+            "orgId": "999612161",
+            "orgName": "COVENTRY UNIVERSITY",
+            "ecContrib": 38272
+        },
+        "925941146": {
+            "orgId": "925941146",
+            "orgName": "MAPLESOFT EUROPE LIMITED",
+            "ecContrib": 36250
+        },
+        "999852624": {
+            "orgId": "999852624",
+            "orgName": "UNIVERSITAET KASSEL",
+            "ecContrib": 36250
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 36250
+        }
+    },
+    "calculatedTotalContribution": 499603
+}

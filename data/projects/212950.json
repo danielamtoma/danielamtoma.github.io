@@ -1,0 +1,63 @@
+{
+    "rcn": "212950",
+    "acronym": "LOFAR4SW",
+    "topics": "INFRADEV-01-2017",
+    "title": "LOFAR for Space Weather",
+    "startDate": "01/12/2017",
+    "endDate": "31/05/2021",
+    "objective": "TThe LOFAR for Space Weather (LOFAR4SW) design proposal will deliver the full conceptual and technical design for creating a new leading-edge European research facility for space weather science.\nSpace weather research is prominent in international research programmes (e.g., H2020, ESA, WMO, COSPAR), because of its high societal relevance: vital infrastructures depend on technology that is vulnerable to the impact of space weather events, particularly geomagnetic storms related to solar outbursts. The implemented LOFAR4SW facility will enable high-impact solar and space weather research, and will uniquely provide the missing link of global measurements of the interplanetary magnetic field ñ a key parameter in forecasting the severity of geomagnetic storms.\nThe LOFAR4SW design project maximally leverages the infrastructure and technology of LOFAR; now the worldís foremost low frequency radio astronomy telescope and a widely recognised enabler of innovation. Designing a significant upgrade in hardware, algorithms, and software will allow to create, at a fraction of the cost of building a new facility, a large scale cutting-edge research facility providing simultaneous independent access to both the radio astronomy and the space weather research communities. \nFor the LOFAR4SW systems design approach, the consortium has a powerful combination of partners, with clear, focused work packages that engage science experts motivated by the physical research challenges and with up-to-date knowledge of the data analysis methods, and link these to engineers intimately familiar with LOFAR and highly experienced in low frequency and data-intensive processing techniques. Emphasis will also be placed on Dissemination of designed data analysis methods to prepare prospective users, on Governance development with stakeholders and policy makers to ensure a support base for a smooth evolution of the LOFAR facility, and on Outreach to promote wider public awareness of space weather issues.",
+    "totalCost": "2998750",
+    "ecMaxContribution": "2998750",
+    "coordinator": "STICHTING ASTRON, NETHERLANDS INSTITUTE FOR RADIO ASTRONOMY",
+    "coordinatorCountry": "NL",
+    "participants": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN;CENTRUM BADAN KOSMICZNYCH POLSKIEJ AKADEMII NAUK;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;UNITED KINGDOM RESEARCH AND INNOVATION;STICHTING INTERNATIONAL LOFAR TELESCOPE;OBSERVATOIRE DE PARIS;UNIVERSITAET BIELEFELD;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "IE;PL;UK;NL;FR;DE;SE",
+    "projectParticipants": {
+        "999492754": {
+            "orgId": "999492754",
+            "orgName": "STICHTING ASTRON, NETHERLANDS INSTITUTE FOR RADIO ASTRONOMY",
+            "ecContrib": 0
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 162500
+        },
+        "962520428": {
+            "orgId": "962520428",
+            "orgName": "STICHTING INTERNATIONAL LOFAR TELESCOPE",
+            "ecContrib": 68750
+        },
+        "998710352": {
+            "orgId": "998710352",
+            "orgName": "CENTRUM BADAN KOSMICZNYCH POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 265000
+        },
+        "999845446": {
+            "orgId": "999845446",
+            "orgName": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+            "ecContrib": 225000
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 0
+        },
+        "999854370": {
+            "orgId": "999854370",
+            "orgName": "UNIVERSITAET BIELEFELD",
+            "ecContrib": 260000
+        },
+        "999624092": {
+            "orgId": "999624092",
+            "orgName": "STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN",
+            "ecContrib": 942500
+        },
+        "999623122": {
+            "orgId": "999623122",
+            "orgName": "OBSERVATOIRE DE PARIS",
+            "ecContrib": 591250
+        }
+    },
+    "calculatedTotalContribution": 2515000
+}

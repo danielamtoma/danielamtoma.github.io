@@ -1,0 +1,98 @@
+{
+    "rcn": "194266",
+    "acronym": "PRISMACLOUD",
+    "topics": "ICT-32-2014",
+    "title": "PRIvacy and Security MAintaining services in the CLOUD",
+    "startDate": "01/02/2015",
+    "endDate": "31/07/2018",
+    "objective": "With a current volume of over USD 100 billion and annual growth rates of over 10%, the world-wide market for cloud computing can be considered as the major growth area in ICT. However, big companies and public authorities are reluctant to entrust their most sensitive data to external parties for storage and processing. The reason for their hesitation is clear: There exist no satisfactory approaches to adequately protect the data during its lifetime in the cloud. PRISMACLOUD addresses these challenges and yields a portfolio of novel security enabled cloud services, guaranteeing the required security for sensitive data in the cloud.\nTechniques for outsourcing computation with verifiable correctness and authenticity-preservation allow to securely delegate computations to cloud providers. A distributed multi-cloud data storage architecture shares data among several cloud providers and improves security and availability. Dynamically updating shares by means of novel techniques avoids vendor lock-in, preserves data authenticity, facilitates long term privacy and promotes a dynamic cloud provider market. Claims about the secure connection and configuration of the virtualized cloud infrastructures and properties of cloud topologies are verifiable by means of cryptographic techniques. User privacy issues are addressed by data minimization and anonymization technologies due to the application of privacy-preserving cryptographic techniques. As feasibility proof, three use cases from the fields of SmartCity, e-Government, and e-Health, will be implemented and evaluated by the project participants.\nThe PRISMACLOUD work program is complemented with activities addressing secure user interfaces, secure service composition, secure implementation in software and hardware, security certification, and an impact analysis from an end-user view. In order to converge with the European Cloud Computing Strategy, a strategy for the dissemination of results into standards is developed.",
+    "totalCost": "8381952,5",
+    "ecMaxContribution": "7983008,75",
+    "coordinator": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "XITRUST SECURE TECHNOLOGIES GMBH;TECHNISCHE UNIVERSITAET GRAZ;UNIVERSITE DE LAUSANNE;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;UNIVERSITY OF NEWCASTLE UPON TYNE;MIKROPLAN GMBH;LOMBARDIA INFORMATICA SPA;ATOS SPAIN SA;FONDAZIONE CENTRO SAN RAFFAELE;INTEROUTE S.P.A.;ETRA INVESTIGACION Y DESARROLLO SA;TECHNISCHE UNIVERSITAT DARMSTADT;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD;UNIVERSITAT PASSAU;KARLSTADS UNIVERSITET",
+    "participantCountries": "AT;CH;FR;UK;DE;IT;ES;IL;SE",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 576150
+        },
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 869375
+        },
+        "953371388": {
+            "orgId": "953371388",
+            "orgName": "FONDAZIONE CENTRO SAN RAFFAELE",
+            "ecContrib": 226750
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 765625
+        },
+        "999878523": {
+            "orgId": "999878523",
+            "orgName": "UNIVERSITAT PASSAU",
+            "ecContrib": 639375
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 526250
+        },
+        "992420096": {
+            "orgId": "992420096",
+            "orgName": "INTEROUTE S.P.A.",
+            "ecContrib": 321625
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 747734
+        },
+        "940900389": {
+            "orgId": "940900389",
+            "orgName": "MIKROPLAN GMBH",
+            "ecContrib": 182500
+        },
+        "999926441": {
+            "orgId": "999926441",
+            "orgName": "ETRA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 446875
+        },
+        "953585855": {
+            "orgId": "953585855",
+            "orgName": "XITRUST SECURE TECHNOLOGIES GMBH",
+            "ecContrib": 395312
+        },
+        "999874837": {
+            "orgId": "999874837",
+            "orgName": "KARLSTADS UNIVERSITET",
+            "ecContrib": 374625
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 1225375
+        },
+        "999841469": {
+            "orgId": "999841469",
+            "orgName": "UNIVERSITE DE LAUSANNE",
+            "ecContrib": 0
+        },
+        "999985417": {
+            "orgId": "999985417",
+            "orgName": "UNIVERSITY OF NEWCASTLE UPON TYNE",
+            "ecContrib": 288688
+        },
+        "985380127": {
+            "orgId": "985380127",
+            "orgName": "LOMBARDIA INFORMATICA SPA",
+            "ecContrib": 396750
+        }
+    },
+    "calculatedTotalContribution": 7983009
+}

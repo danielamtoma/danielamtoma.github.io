@@ -1,0 +1,28 @@
+{
+    "rcn": "194926",
+    "acronym": "DecoMP_ECoG",
+    "topics": "MSCA-IF-2014-GF",
+    "title": "Decoding memory processing from experimental and spontaneous human brain activity using intracranial electrophysiological recordings and machine learning based methods.",
+    "startDate": "01/07/2015",
+    "endDate": "21/11/2018",
+    "objective": "Despite the critical importance of memory for cognitive function and socialization, very little is known about how information is stored for later retrieval and use. Understanding how the human brain maintains and stores information would enhance research on memory dysfunction in degenerative diseases, such as the age-related dementias, which represent a large burden for European society, and could facilitate the development of strategies for improving memory.\nThe current proposal will use intracranial electrophysiological recordings from the surface of the human brain to investigate encoding, retrieval and consolidation of category-specific information during experimental settings, as well as during spontaneous brain activity. The proposal consists in two parts: first, electrocorticographic (ECoG) data will be acquired at Stanford University, with access to high-quality recordings and modern tools for electrophysiological data analysis. Secondly, machine learning based methodologies will be developed at the Department of Computer Science, University College London (return host) to decode spontaneous brain activity in different vigilance states. Finally, all developed methods will be implemented in an open source software, ensuring the timely dissemination of state-of-the art techniques. The methodological developments considered in this project could provide means for developing computer-aided diagnostic tools for neurodegenerative diseases.",
+    "totalCost": "241169,4",
+    "ecMaxContribution": "241169,4",
+    "coordinator": "University College London",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999466467": {
+            "orgId": "999466467",
+            "orgName": "BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

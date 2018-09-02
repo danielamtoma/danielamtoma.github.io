@@ -1,0 +1,23 @@
+{
+    "rcn": "213280",
+    "acronym": "Genomcore Identity",
+    "topics": "SMEInst-13-2016-2017",
+    "title": "Genomcore Identity: databank proxy for DNA fingerprinting from whole exome/genome for biometric identifica-tion",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2018",
+    "objective": "Genomcore aims at creating a new compatible interface for DNA-based biometrical identification consider-ing the exponential growth of public (governmental) and private repositories of complete genomic se-quences. These genomic databanks, containing Whole Exome Sequencing (WES) and Whole Genome Sequencing (WGS) data, commonly used for healthcare and biomedical purposes, can be a massive source of inexpensive and reliable DNA fingerprints with broad applications in forensics, law enforcement and identification purposes. \nThis system will be based in the count of short-tandem repeats (STRs) allowing collation with existing CODIS and CODIS-based databases . Additionally, the company wants to explore a method for generating DNA fingerprinting based on the hashing of Single Nucleotide Polymorphisms (SNPs), which can lead to a potentially cheaper and fast-er mechanism for collating biological samples with the database. The generated fingerprints will always be complete-ly devoid of any personal, health or private information, thus enabling identification while ensuring privacy protec-tion. \nGenomcore Identity can represent a qualitative leap in biometric identification since: \n1.\tAddresses the controversial topic of using public and commercial genomic databanks for biometric identification, while preserving the privacy of the DNA donors through the proxy.\n2.\tProvides a controlled, extremely valuable and yet inexpensive solution to authorities for collating new DNA profiles with already existing genomic databases, extending DNA forensics to use cases that are unfeasible nowadays (i.e., a fast identification of large cohorts of victims in accidents or terrorist attacks). \n3.\tProvides legacy compatibility with CODIS profiles but also offers a new option to use SNP hashes, offering higher sensitivity, shorter response times and a ~50% less cost than existing methodologies.\n4.\tThe SNP hashing technique has the potential to use the new generation of portable DNA sequencers.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "GENOMCORE SL",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "928537351": {
+            "orgId": "928537351",
+            "orgName": "GENOMCORE SL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

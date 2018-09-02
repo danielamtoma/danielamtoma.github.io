@@ -1,0 +1,78 @@
+{
+    "rcn": "210289",
+    "acronym": "ROMEO",
+    "topics": "LCE-13-2016",
+    "title": "Reliable OM decision tools and strategies for high LCoE reduction on Offshore wind",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2022",
+    "objective": "Emerging technologies as Offshore Wind Energy, demand new advanced solutions for reducing Operation & Maintenance (O&M) costs, as well as for performing the reliability and extended life-time of wind turbines (WT) and farms (WF).\nIn this sense, ROMEO is a 5 years project whose main objective is to develop and demonstrate an O&M information management and analytics platform capable of improving the decision making processes of offshore WF operators allowing the transition from calendar base maintenance to condition-based maintenance strategies reducing significantly O&M costs. Thus, a flexible and interoperable IoT platform will provide an advanced analytics ecosystem to better understand the real time behaviour of the main components of the WTs under operation conditions; maximizing their life-time and reducing the need for maintenance, thus minimizing the OPEX which drastically impact on LCoE of offshore Wind Energy.\nThe project has been structured in three phases:\n1st phase ìspecificationsî will pave the way for other phases, defining the specifications and requirements in order to develop a health monitoring strategy for the most relevant and critical components to be further considered.\n-nd phase ìmodels/tools/databaseî will be devoted to the development of health monitoring systems, diagnosis and prognosis tools for failure detection both at WTG components and support structures level, feeding the development of a data acquisition and advanced analytics ecosystem.\n3rd phase ìO&M/rolloutî will develop and deploy an O&M platform to be validated in three pilot scenarios, data that will serve as input for impact assessment with a special focus on LCoE and replicability.\nROMEO consortium is formed by a well-balanced set of experts (12 entities from 7 countries) representing the whole offshore value chain (from WT components manufacturers and service providers through to WF operators) together with IT market leaders, thus ensuring that results will reach the market.",
+    "totalCost": "16376051,25",
+    "ecMaxContribution": "9999812,88",
+    "coordinator": "IBERDROLA RENOVABLES ENERGIA SA",
+    "coordinatorCountry": "ES",
+    "participants": "RAMBOLL IMS INGENIEURGESELLSCHAFT MBH;ZABALA INNOVATION CONSULTING, S.A.;ELECTRICITE DE FRANCE;IBM RESEARCH GMBH;SIEMENS GAMESA RENEWABLE ENERGY AS;ADWEN OFFSHORE S.L.;INDRA SISTEMAS SA;LAULAGUN BEARINGS SA;BACHMANN MONITORING GMBH;UPTIME ENGINEERING GMBH;CRANFIELD UNIVERSITY",
+    "participantCountries": "DE;ES;FR;CH;DK;AT;UK",
+    "projectParticipants": {
+        "928367213": {
+            "orgId": "928367213",
+            "orgName": "ADWEN OFFSHORE S.L.",
+            "ecContrib": 2483600
+        },
+        "953093774": {
+            "orgId": "953093774",
+            "orgName": "IBERDROLA RENOVABLES ENERGIA SA",
+            "ecContrib": 1046500
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 465734
+        },
+        "999926829": {
+            "orgId": "999926829",
+            "orgName": "ELECTRICITE DE FRANCE",
+            "ecContrib": 1262552
+        },
+        "996410094": {
+            "orgId": "996410094",
+            "orgName": "ZABALA INNOVATION CONSULTING, S.A.",
+            "ecContrib": 414653
+        },
+        "917994712": {
+            "orgId": "917994712",
+            "orgName": "LAULAGUN BEARINGS SA",
+            "ecContrib": 397408
+        },
+        "986360215": {
+            "orgId": "986360215",
+            "orgName": "SIEMENS GAMESA RENEWABLE ENERGY AS",
+            "ecContrib": 1334235
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 577119
+        },
+        "952469870": {
+            "orgId": "952469870",
+            "orgName": "RAMBOLL IMS INGENIEURGESELLSCHAFT MBH",
+            "ecContrib": 728262
+        },
+        "917835826": {
+            "orgId": "917835826",
+            "orgName": "UPTIME ENGINEERING GMBH",
+            "ecContrib": 733250
+        },
+        "917726507": {
+            "orgId": "917726507",
+            "orgName": "BACHMANN MONITORING GMBH",
+            "ecContrib": 556500
+        }
+    },
+    "calculatedTotalContribution": 9999813
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "206053",
+    "acronym": "LOLITA",
+    "topics": "ERC-2016-STG",
+    "title": "Information Theory for Low-Latency Wireless Communications",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "The majority of wireless connections in the fifth generation (5G) of wireless systems will most likely be originated by autonomous machines and devices rather than by the human-operated mobile terminals for which traditional broadband services are intended. It is thus expected that enhanced mobile-broadband services will be complemented by new services centered on machine-type communications (MTC). An important emerging area among MTC systems is that of low-latency communications, which targets systems that require reliable real-time communication with stringent requirements on latency and reliability.\n\nThe design of low-latency wireless communication systems is a great challenge, since it requires a fundamentally different design approach than the one used in current high-rate systems. Indeed, current systems exchange packets of several thousand bits. For such packet lengths, there are error-correcting codes that can correct transmission errors with high probability at rates close to the capacity. Consequently, the design of current systems is supported by the extensive information-theoretical knowledge we have about wireless communications. In contrast, low-latency systems exchange packets of only several hundred bits, so the rate of the error-correcting code must be significantly below the capacity to achieve the desired reliability. Consequently, for such systems, capacity is not a relevant performance measure, and design guidelines that are based on its behavior will be misleading.\n\nCurrently, we are lacking the theoretical understanding of low-latency wireless communication systems that would be crucial to design them optimally. The presented project addresses this problem by establishing the theoretical framework required to describe the fundamental tradeoffs in low-latency wireless communications. The project's vision is that finite-blocklength information theory will play the same role for low-latency systems as information theory has for current systems.",
+    "totalCost": "1424000",
+    "ecMaxContribution": "1424000",
+    "coordinator": "UNIVERSIDAD CARLOS III DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 1424000
+        }
+    },
+    "calculatedTotalContribution": 1424000
+}

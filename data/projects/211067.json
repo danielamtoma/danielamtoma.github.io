@@ -1,0 +1,113 @@
+{
+    "rcn": "211067",
+    "acronym": "5G-TRANSFORMER",
+    "topics": "ICT-07-2017",
+    "title": "5G-TRANSFORMER: 5G Mobile Transport Platform for Verticals",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2019",
+    "objective": "The vision of the 5G-TRANSFORMER project is that Mobile Transport Networks shall transform from todayís rigid interconnection solutions into an SDN/NFV-based 5G Mobile Transport and Computing Platform (MTP) able of simultaneously supporting an extremely diverse range of networking and computing requirements to meet in particular the specific needs of vertical industries. A new networking paradigm known as Network Slicing has emerged for 5G as the most promising approach to address this challenge by enabling per slice management of virtualized resources. 5G-TRANSFORMER aims to bring the ìNetwork Slicingî paradigm into mobile transport networks by provisioning and managing MTP slices tailored to the needs of vertical industries. Specifically: automotive, healthcare and media. The technical approach is twofold: (1) Enable Vertical Industries to meet their service requirements within customised MTP slices; and (2) Aggregate and Federate transport networking and computing fabric, from the edge up to the core and cloud, to create and manage MTP slices throughout a federated virtualized infrastructure. The proposed solution defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries:\n(1) Vertical Slicer as the logical entry point (i.e., one stop shop) for verticals to support the creation of their respective transport slices in a short time-scale (in the order of minutes).\n(2) Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices.\n(3) Mobile Transport and Computing Platform as the underlying unified transport stratum for integrated fronthaul and backhaul networks.\nThe 5G-TRANSFORMER project addresses ìICT 07ñ2017: 5G PPP Research and Validation of critical technologies and systemsî with a special focus on the TA11: Converged 5G FlexHaul Network objectives of the pre-structuring model.",
+    "totalCost": "8510582,5",
+    "ecMaxContribution": "7985582,5",
+    "coordinator": "UNIVERSIDAD CARLOS III DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "B-COM;NEXTWORKS;ORANGE SA;INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE INCORPORATED;CENTRO RICERCHE FIAT SCPA;CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA;INTERDIGITAL EUROPE LTD;MIRANTIS POLAND SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA;SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA;ATOS SPAIN SA;NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG;TELEFONICA INVESTIGACION Y DESARROLLO SA;AYUNTAMIENTO DE MADRID;ERICSSON TELECOMUNICAZIONI;NEC LABORATORIES EUROPE GMBH;POLITECNICO DI TORINO;EURECOM;NEC EUROPE LTD",
+    "participantCountries": "FR;IT;TW;ES;UK;PL;DE",
+    "projectParticipants": {
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 396271
+        },
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 283022
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 370734
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 283750
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 548125
+        },
+        "950635891": {
+            "orgId": "950635891",
+            "orgName": "INTERDIGITAL EUROPE LTD",
+            "ecContrib": 518125
+        },
+        "997513178": {
+            "orgId": "997513178",
+            "orgName": "AYUNTAMIENTO DE MADRID",
+            "ecContrib": 140000
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 418375
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 425708
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 410000
+        },
+        "910561893": {
+            "orgId": "910561893",
+            "orgName": "NEC LABORATORIES EUROPE GMBH",
+            "ecContrib": 904982
+        },
+        "999940603": {
+            "orgId": "999940603",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG",
+            "ecContrib": 408228
+        },
+        "935540945": {
+            "orgId": "935540945",
+            "orgName": "MIRANTIS POLAND SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+            "ecContrib": 585000
+        },
+        "992251995": {
+            "orgId": "992251995",
+            "orgName": "INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE INCORPORATED",
+            "ecContrib": 0
+        },
+        "999884731": {
+            "orgId": "999884731",
+            "orgName": "SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA",
+            "ecContrib": 283125
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 0
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 457750
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 898562
+        },
+        "948011362": {
+            "orgId": "948011362",
+            "orgName": "B-COM",
+            "ecContrib": 653825
+        }
+    },
+    "calculatedTotalContribution": 7985582
+}

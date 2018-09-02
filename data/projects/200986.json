@@ -1,0 +1,23 @@
+{
+    "rcn": "200986",
+    "acronym": "GSAORI",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Guide Stars Adaptive Optics for Retinal Imaging",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "The Guide Stars Adaptive Optics for Retinal Imaging (GSAORI) project aims at developing new imaging techniques in the field of ophthalmology. As the eye presents time-variable aberrations, an Adaptive Optics (AO) loop greatly enhances quality and resolution of retinal imaging, enabling the examination of structures such as cone and rod photoreceptors and leukocytes in vivo in a non invasive way and at a microscopic scale.\nAlthough AO has enabled outstanding progresses in ophthalmology, it has its limitation. The pupil motion and tear film thickness changes during the examination can limit the performance of the AO system. Also, the distortions of the retinal structure influence the wave-front analysis. Finally motion artefacts can have a strong impact on the correction capacity of the AO system. Therefore satisfactory image quality can only be achieved in carefully selected patients, which currently prevents a widespread use of this technology.\nThe overall objective of the project is to overcome these limitations by developing systems that are more robust to retinal distortions and local media opacities. This will enable acceptable image quality in the majority of patients. The emergence of versatile AO systems would be a significant milestone towards making this technique a routine for eye examination.\nTo achieve this goal, we propose to use guide stars that are spread over different locations of the retina to minimize the influence of eyeís defects on the wave-front measurements. This technique is directly inspired from astronomical telescopes where several laser guide stars are used as references to provide efficient wave-front correction on a large field of view. Following the conception of a system with guide stars, new algorithms for wave-front sensing and control will be developed, providing a fully functional innovative AO system. To fulfil its objectives, the research project will be based on extensive system modelling, and on in-vivo eyesí measurements.",
+    "totalCost": "166156,8",
+    "ecMaxContribution": "166156,8",
+    "coordinator": "MEDIZINISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999989976": {
+            "orgId": "999989976",
+            "orgName": "MEDIZINISCHE UNIVERSITAET WIEN",
+            "ecContrib": 166157
+        }
+    },
+    "calculatedTotalContribution": 166157
+}

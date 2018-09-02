@@ -1,0 +1,43 @@
+{
+    "rcn": "200553",
+    "acronym": "LPGPU2",
+    "topics": "ICT-04-2015",
+    "title": "Low-Power Parallel Computing on GPUs 2",
+    "startDate": "01/01/2016",
+    "endDate": "30/06/2018",
+    "objective": "Low-power GPUs have become ubiquitous, they can be found in domains ranging from wearable and mobile computing, to automotive systems. With this ubiquity has come a wider range of applications exploiting low-power GPUs, placing ever increasing demands on the expected performance and power efficiency of the devices.  Future low-power system-on-chips will have to provide higher performance and be able to support more complex applications, without using any additional power.\n\nThe strict power limitations means that these demands cannot be met through hardware improvements alone, however, but the software must better exploit the available resources.  Unfortunately, programmers are hindered when creating low-power GPU software by the quality of current performance analysis tools.  In low-power GPU contexts there is only a minimal amount of performance information, and essentially no power information, available to the programmer.  As software becomes more complex it becomes increasingly unmanageable for programmers to optimise the software for low-power devices.\n\nThis project proposes to aid the programmer in creating software for low-power GPUs by building on the results of the first LPGPU project to provide a complete performance analysis process for the programmer.  This project will address all aspects of performance analysis, from hardware power and performance counters, to a toolchain that processes and visualises information from these counters, to applications that will be used as use-cases to drive the entire design.  To access the new hardware performance counters a standardisable API will be produced to interface to a prototype hardware implementation.  This will let the analysis and visualisation tool connect to any GPU driver that implements the API.  The consortium's expertise will be used not only to drive the initial design of the API and analyses, but also multiple application use-cases will be developed to demonstrate the efficacy of the toolchain.",
+    "totalCost": "3954846,25",
+    "ecMaxContribution": "2975786,88",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "SPIN DIGITAL VIDEO TECHNOLOGIES GMBH;CODEPLAY SOFTWARE LIMITED;THINK SILICON EREYNA KAI TECHNOLOGIA ANONYMI ETAIRIA;SAMSUNG ELECTRONICS (UK) LIMITED",
+    "participantCountries": "DE;UK;EL",
+    "projectParticipants": {
+        "999765712": {
+            "orgId": "999765712",
+            "orgName": "SAMSUNG ELECTRONICS (UK) LIMITED",
+            "ecContrib": 781134
+        },
+        "968727070": {
+            "orgId": "968727070",
+            "orgName": "THINK SILICON EREYNA KAI TECHNOLOGIA ANONYMI ETAIRIA",
+            "ecContrib": 627812
+        },
+        "996463153": {
+            "orgId": "996463153",
+            "orgName": "CODEPLAY SOFTWARE LIMITED",
+            "ecContrib": 674275
+        },
+        "924013368": {
+            "orgId": "924013368",
+            "orgName": "SPIN DIGITAL VIDEO TECHNOLOGIES GMBH",
+            "ecContrib": 200000
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 692565
+        }
+    },
+    "calculatedTotalContribution": 2975786
+}

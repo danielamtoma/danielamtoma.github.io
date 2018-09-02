@@ -1,0 +1,23 @@
+{
+    "rcn": "203407",
+    "acronym": "HIEXP",
+    "topics": "ERC-ADG-2015",
+    "title": "High Dimensional Expanders, Ramanujan Complexes and Codes",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2021",
+    "objective": "'Expander graphs have been playing a fundamental role in many areas of computer science. During the last 15 years they have also found important and unexpected applications in pure mathematics. The goal of the current research is to develop systematically high-dimensional (HD) theory of expanders, i.e., simplicial complexes and hypergraphs which resemble in dimension d, the role of expander graphs for d = 1. There are several motivations for developing such a theory, some from pure mathematics and some from computer science. For example, Ramanujan complexes (the HD versions of the 'optimal' expanders, the Ramanujan graphs) have already been useful for extremal hypergraph theory. One of the main goals of this research is to use them to solve other problems, such as Gromov's problem: are there bounded degree simplicial complexes with the topological overlapping property ('topological expanders'). Other directions of HD expanders have applications in property testing, a very important subject in theoretical computer science. Moreover they can be a tool for the construction of locally testable codes, an important question of theoretical and practical importance in the theory of error correcting codes. In addition, the study of these simplicial complexes suggests new quantum error correcting codes (QECC). It is hoped that it will lead to such codes which are also low density parity check (LDPC). The huge success and impact of the theory of expander graphs suggests that the high dimensional theory will also bring additional unexpected applications beside those which can be foreseen as of now.'",
+    "totalCost": "1592500",
+    "ecMaxContribution": "1592500",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1592500
+        }
+    },
+    "calculatedTotalContribution": 1592500
+}

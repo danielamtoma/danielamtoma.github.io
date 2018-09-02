@@ -1,0 +1,58 @@
+{
+    "rcn": "194244",
+    "acronym": "MAMEM",
+    "topics": "ICT-22-2014",
+    "title": "Multimedia Authoring and Management using your Eyes and Mind",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "Loss of the voluntary muscular control while preserving cognitive functions is a common symptom of neuromuscular disorders leading to a variety of functional deficits, including the ability to operate software tools that require the use of conventional interfaces like mouse, key-board, or touch-screens. As a result, the affected individuals are marginalized and unable to keep up with the rest of the society in a digitized world. MAMEM's goal is to integrate these people back into society by increasing their potential for communication and exchange in leisure (e.g. social networks) and non-leisure context (e.g. workplace). In this direction, MAMEM delivers the technology to enable interface channels that can be controlled through eye-movements and mental commands. This is accomplished by extending the core API of current operating systems with advanced function calls, appropriate for accessing the signals captured by an eye-tracker, an EEG-recorder and bio-measurement sensors. Then, pattern recognition and tracking algorithms are employed to jointly translate these signals into meaningful control and enable a set of novel paradigms for multimodal interaction. These paradigms will allow for low- (e.g., move a mouse), meso- (e.g., tick a box) and high-level (e.g., select n-out-of-m items) control of interface applications through eyes and mind. A set of persuasive design principles together with profiles modeling the users (dis-)abilities will be also employed for designing adapted interfaces for disabled. MAMEM will engage three different cohorts of disabled (i.e. Parkinson's disease, muscular disorders, and tetraplegia) that will be asked to test a set of prototype applications dealing with multimedia authoring and management. MAMEM's final objective is to assess the impact of this technology in making these people more socially integrated by, for instance, becoming more active in sharing content through social networks and communicating with their friends and family",
+    "totalCost": "2704375",
+    "ecMaxContribution": "2704375",
+    "coordinator": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+    "coordinatorCountry": "EL",
+    "participants": "EB NEURO SPA;ARISTOTELIO PANEPISTIMIO THESSALONIKIS;MEDICAL RESEARCH INFRASTRUCTURE DEVELOPMENT AND HEALTH SERVICES FUND BY THE SHEBA MEDICAL CENTER;SENSOMOTORIC INSTRUMENTS GESELLSCHAFT FUR INNOVATIVE SENSORIK MBH;MDA ELLAS SOMATEIO GIA TI FRONTIDATON ATOMON ME NEVROMYIKES PATHISEIS;UNIVERSITAET KOBLENZ-LANDAU;TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "participantCountries": "IT;EL;IL;DE;NL",
+    "projectParticipants": {
+        "940705225": {
+            "orgId": "940705225",
+            "orgName": "MDA ELLAS SOMATEIO GIA TI FRONTIDATON ATOMON ME NEVROMYIKES PATHISEIS",
+            "ecContrib": 189625
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 311875
+        },
+        "999856407": {
+            "orgId": "999856407",
+            "orgName": "UNIVERSITAET KOBLENZ-LANDAU",
+            "ecContrib": 457875
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 179375
+        },
+        "968649179": {
+            "orgId": "968649179",
+            "orgName": "SENSOMOTORIC INSTRUMENTS GESELLSCHAFT FUR INNOVATIVE SENSORIK MBH",
+            "ecContrib": 360000
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 516625
+        },
+        "993275927": {
+            "orgId": "993275927",
+            "orgName": "EB NEURO SPA",
+            "ecContrib": 365250
+        },
+        "998129904": {
+            "orgId": "998129904",
+            "orgName": "MEDICAL RESEARCH INFRASTRUCTURE DEVELOPMENT AND HEALTH SERVICES FUND BY THE SHEBA MEDICAL CENTER",
+            "ecContrib": 323750
+        }
+    },
+    "calculatedTotalContribution": 2704375
+}

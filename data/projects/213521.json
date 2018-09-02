@@ -1,0 +1,43 @@
+{
+    "rcn": "213521",
+    "acronym": "TransSec",
+    "topics": "GALILEO-1-2017",
+    "title": "Autonomous emergency manoeuvring and movement monitoring for road transport security",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2021",
+    "objective": "The TransSec project addresses a new danger in European countries, the increasing number of terror attacks. Recent terror attacks with trucks in Nice and Berlin have shown drastically the damage a heavy truck can cause, how easy it is to misuse a truck for attacks and that newest safety systems cannot prevent these attacks. As a consequence road transport safety has to be supplemented by road transport security. TransSec aims to initiate the development of this Security Truck. \nThe project objective is: \nDevelopment and evaluation of systems built-in or to be used by trucks for secure road transport of (dangerous) goods.\nPreventing trucks and transport of goods to be misused for other purposes such as terror attacks.\nSpecific objectives are:\nï Precise vehicle positioning and navigation on road (lane) and off road.\nï Vehicle movement monitoring for dangerous goods with critical area alarm/eCall.\nï Vehicle communication security for critical information exchange.\nï Onboard precrash environment detection of vulnerable objects on/ off road.\nï Non-defeatable autonomous emergency manoeuvring for crash prevention on/off road.\nThe implementation is done in an explorative and incremental development cycle with early prototypes adding functionality step by step. Demonstrations with a truck on and off road will show solutions after 12, 24 and 36 months. Testing and pilots on public roads and public areas will prove a higher level of security.",
+    "totalCost": "3007613,75",
+    "ecMaxContribution": "2527229,38",
+    "coordinator": "DAIMLER AG",
+    "coordinatorCountry": "DE",
+    "participants": "WATERFORD INSTITUTE OF TECHNOLOGY;FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH;UNIVERSITAET STUTTGART;TeleConsult Austria GmbH",
+    "participantCountries": "IE;ES;DE;AT",
+    "projectParticipants": {
+        "999709064": {
+            "orgId": "999709064",
+            "orgName": "DAIMLER AG",
+            "ecContrib": 776847
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 430108
+        },
+        "955552336": {
+            "orgId": "955552336",
+            "orgName": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+            "ecContrib": 435600
+        },
+        "999618660": {
+            "orgId": "999618660",
+            "orgName": "WATERFORD INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 540625
+        },
+        "997629772": {
+            "orgId": "997629772",
+            "orgName": "TeleConsult Austria GmbH",
+            "ecContrib": 344050
+        }
+    },
+    "calculatedTotalContribution": 2527230
+}

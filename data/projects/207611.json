@@ -1,0 +1,23 @@
+{
+    "rcn": "207611",
+    "acronym": "LEMAN",
+    "topics": "ERC-2016-COG",
+    "title": "Deep LEarning on MANifolds and graphs",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "The aim of the project is to develop a geometrically meaningful framework that allows generalizing deep learning paradigms to data on non-Euclidean domains. Such geometric data are becoming increasingly important in a variety of fields including computer graphics and vision, sensor networks, biomedicine, genomics, and computational social sciences. Existing methodologies for dealing with geometric data are limited, and a paradigm shift is needed to achieve quantitatively and qualitatively better results. \n\nOur project is motivated by the recent dramatic success of deep learning methods in a wide range of applications, which has literally shaken the academic and industrial world. Though these methods have been known for decades, the computational power of modern computers, availability of large datasets, and efficient optimization methods allowed creating and effectively training complex models that made a qualitative breakthrough. In particular, in computer vision, deep neural networks have achieved unprecedented performance on notoriously hard problems such as object recognition. However, so far research has mainly focused on developing deep learning methods for Euclidean data such as acoustic signals, images, and videos. In fields dealing with geometric data, the adoption of deep learning has been lagging behind, primarily since the non-Euclidean nature of objects dealt with makes the very definition of basic operations used in deep networks rather elusive. \n\nThe ambition of the project is to develop geometric deep learning methods all the way from a mathematical model to an efficient and scalable software implementation, and apply them to some of todayís most important and challenging problems from the domains of computer graphics and vision, genomics, and social network analysis. We expect the proposed framework to lead to a leap in performance on several known tough problems, as well as to allow addressing new and previously unthinkable problems.",
+    "totalCost": "1997875",
+    "ecMaxContribution": "1997875",
+    "coordinator": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999585874": {
+            "orgId": "999585874",
+            "orgName": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+            "ecContrib": 1997875
+        }
+    },
+    "calculatedTotalContribution": 1997875
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "195197",
+    "acronym": "DataLocAbstractions",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Advanced Programming Environments for Exascale Data-Centric Computing",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "Power efficiency has emerged as the primary design constraint for the next generation of computing systems and the dominant source of energy consumption has shifted from computing elements to the movement of data. This shift will make locality of data the new programming challenge of the decade. However, current programming environments take a compute-centric approach and do not reflect the realities of the architectural trends.  For performance and energy efficiency reasons, there is a critical need for a new data-centric programming paradigm that takes data locality as a primary criterion. Moreover the next generation of high performance systems (Exascale Systems) will be equipped with 2048-core chips, requiring applications to expose over a thousand-way concurrency. For a smooth transition to these advanced technologies, this project proposes a theoretical foundation and programming abstractions; embodied in an API (Application Programming Interface) that provides a rich interface to address the dual challenges of data locality and increased on-chip parallelism for emerging parallel computing systems. The ultimate goal of the project is to integrate the proposed API into real-life applications that are of great interest to Europe. The project will study Turbulent Combustion as a motivating application class because of its importance in energy production. The proposed research, by reinventing the programming environment to better reflect the realities of future platforms, will facilitate the transition to Exascale of applications that are critical for strengthening European leadership in HPC.",
+    "totalCost": "145845,6",
+    "ecMaxContribution": "145845,6",
+    "coordinator": "KOC UNIVERSITY",
+    "coordinatorCountry": "TR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901512": {
+            "orgId": "999901512",
+            "orgName": "KOC UNIVERSITY",
+            "ecContrib": 145846
+        }
+    },
+    "calculatedTotalContribution": 145846
+}

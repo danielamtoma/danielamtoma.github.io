@@ -1,0 +1,23 @@
+{
+    "rcn": "200732",
+    "acronym": "ProFoundNet",
+    "topics": "ERC-StG-2015",
+    "title": "Probabilistic Foundations for Networks",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "In an ever-connected world, increasingly complex network systems play a crucial role in many daily tasks. This results in an acute need for methods/tools that can enable easy control of the network and, at the same time, provide rigorous guarantees about its behavior, performance, and security. Recent years saw the growth of a new software ecosystem -Software-defined networking (SDN)- which advocates a clean and open interface between networking devices and the software that controls them.  Yet, existing SDN languages do not support reasoning about crucial quantitative aspects, such as: 'How much congestion is there?' or 'Is the network resilient under failure?'. Enabling compositional quantitative reasoning is the major breakthrough needed to fully realize the vision of SDN. \n\nThe central objective of this project is to develop new abstractions for programming of networks, with high-level modular constructs. We will provide rigorous semantic probabilistic foundations, enabling quantitative reasoning. This will serve as a solid platform for program analysis tools where compositional reasoning about complex interactions will be a reality. Our goal will be achieved through an interdisciplinary research effort: using techniques from concurrency and formal methods, areas where akin challenges can be found in the quest to design correct software systems. We will leverage the wealth of recent advances in those areas (some of which from the PI's own research) to networks, and bring awareness and new challenges arising from applications in networking to the other two communities. \n\nThe project will significantly advance the foundations of network programming/verification in new and previously unexplored directions. This line of research will not only result in fundamental theoretical contributions and insights in their own right but will also impact the practice of network programming and lead to new and more powerful techniques for the use of engineers and programmers.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

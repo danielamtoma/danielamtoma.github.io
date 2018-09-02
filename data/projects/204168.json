@@ -1,0 +1,33 @@
+{
+    "rcn": "204168",
+    "acronym": "TaCo",
+    "topics": "Sesar-01-2015",
+    "title": "Take Control",
+    "startDate": "20/06/2016",
+    "endDate": "19/06/2018",
+    "objective": "TACO aims to define an automated system sufficiently powerful to both accomplish complex tasks involved in the management of surface movements in a major airport and self-assess its own ability to deal with non-nominal conditions. When needed, such system should be sensitive enough to transfer responsibilities for traffic management back to the controller, in a timely and graceful manner and in way that makes him/her comfortable with the inherited tasks.\nAutomation is one of the key solution proposed and adopted by SESAR to tackle the challenges coming from the increase of capacity and complexity of the future ATM system. On the one hand, the programme aims at substantially reducing controller task load per flight through a significant enhancement of integrated automation support, whilst simultaneously meeting the established safety and environmental goals. On the other hand, it is envisaged that human operators will remain at the core of the system (mainly with the role of overall system managers) using automated systems with the required degree of integrity and redundancy. TACO proposes a dove tailed process to facilitate the controllerís forward thinking, also in anticipation to A-CDM (Airport- Collaborative Decision Making) amongst others.\nFollowing the two grounding principles of automation in SESAR, TACO project aims at:\ndefining algorithms and solutions to automate and optimize both the decision making and implementation tasks for the controller involved in the ground movement of airport vehicles and aircraft;\nidentifying and providing the controller with suitable and usable tools to supervise (monitor, tune and re-program) the system;\nstudying the interaction between the human actors and the automation. Main focus will be on the identification of sensitive state transaction from a (fully) automated management system to conditions where the human is brought into the loop to handle situations where his/her cognitive resources are essential.",
+    "totalCost": "599992,5",
+    "ecMaxContribution": "599992,5",
+    "coordinator": "DEEP BLUE SRL",
+    "coordinatorCountry": "IT",
+    "participants": "MALTA AIR TRAFFIC SERVICES LIMITED;ECOLE NATIONALE DE L AVIATION CIVILE",
+    "participantCountries": "MT;FR",
+    "projectParticipants": {
+        "932440534": {
+            "orgId": "932440534",
+            "orgName": "MALTA AIR TRAFFIC SERVICES LIMITED",
+            "ecContrib": 118750
+        },
+        "998325941": {
+            "orgId": "998325941",
+            "orgName": "DEEP BLUE SRL",
+            "ecContrib": 241250
+        },
+        "996375756": {
+            "orgId": "996375756",
+            "orgName": "ECOLE NATIONALE DE L AVIATION CIVILE",
+            "ecContrib": 239992
+        }
+    },
+    "calculatedTotalContribution": 599992
+}

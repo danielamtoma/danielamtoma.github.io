@@ -1,0 +1,17 @@
+{
+    "rcn": "215701",
+    "acronym": "NEO-QE",
+    "topics": "MSCA-IF-2017",
+    "title": "NEtwork-aware Optimization for Query Executions in Large Systems",
+    "startDate": "01/07/2018",
+    "endDate": "30/06/2020",
+    "objective": "In data-intensive environments such as data warehouses, efficient execution of query operations is crucial for the overall performance of a system. One of the main performance challenges in such scenarios is the network communications. Significant performance improvements have been achieved by using state-of-the-art methods, designed in the data management and data communication domain. However, the proposed techniques in both fields just view each other as a black box, and the additional gains in performance from a co-optimization perspective have not yet been explored. In this project, I will focus on the design and development of a novel query execution system that can bridge the gap of co-optimization between high-level query executions and low-level data communications. Such a system will be highly efficient and robust in the presence of different workloads and network configurations in large systems, and consequently deliver significant performance improvements to the large scale data-analytics community. In the meantime, the success of the project will also aid my career development through an increased research profile and collaboration with industry, and enhance the knowledge and networks of UCD.",
+    "totalCost": "187866",
+    "ecMaxContribution": "187866",
+    "coordinator": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

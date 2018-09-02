@@ -1,0 +1,23 @@
+{
+    "rcn": "195259",
+    "acronym": "SF-magnetic-stars",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "The impact of superfluidity and superconductivity on the magneto-thermal evolution and X-ray observations of neutron stars.",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2017",
+    "objective": "In the last decades, X-ray astronomy provided a wealth of information on the neutron star thermal history, surface temperature distribution, surface magnetic field strength, outburst and flaring activity. It has been recently shown, that many of these different observational properties are deeply influenced by the evolution of the magnetic field and temperature in the neutron star interior. Our understanding of the magnetic field evolution is however still incomplete, as these 2D numerical simulations completely neglect the field evolution in the core. \nThis project will study the magneto-thermal evolution of neutron stars with magnetic fields treading both the core and the crust, incorporating in a consistent way the effects of ambipolar diffusion and superfluidity/superconductivity. This research will explore also models where superconductivity is limited in shells, which are confined in the outer core. They are expected when the core's magnetic field is so strong, above 10^{16} Gauss, to destroy superconductivity. The magneto-thermal evolution will be studied by using 2D numerical simulations, which solve simultaneously the induction equation and the heat transfer equation. \nThe complex magnetic field which results from the magneto-thermal evolution may describe the configuration expected in a flaring magnetar, where quasi-periodic oscillations (QPOs) have been observed. This project will study the QPOs of these complex magnetic field configurations, by using perturbation methods. We will develop a computational framework to determine the properties of seismic vibrations on magnetar's models with any magnetic field topology. \nThe results of this research project and the combined information available from thermal history and magnetar QPOs will be used to determine, by using independent astrophysical observations and dynamical processes, the physical properties of highly magnetized neutron stars as well as to shed light into the equation of state of dense matter.",
+    "totalCost": "170121,6",
+    "ecMaxContribution": "170121,6",
+    "coordinator": "UNIVERSIDAD DE ALICANTE",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999895886": {
+            "orgId": "999895886",
+            "orgName": "UNIVERSIDAD DE ALICANTE",
+            "ecContrib": 170122
+        }
+    },
+    "calculatedTotalContribution": 170122
+}

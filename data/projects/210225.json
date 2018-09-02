@@ -1,0 +1,123 @@
+{
+    "rcn": "210225",
+    "acronym": "CAMELOT",
+    "topics": "SEC-20-BES-2016",
+    "title": "C2 Advanced Multi-domain Environment and Live Observation Technologies",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "The creation of the Schengen area has been one of the major achievements of the EU. However, this agreement requires countries to cooperate tightly in order to keep a high level of security at their internal borders, as well as to share the responsibility of managing external borders. Such a variety of borders (land, sea and air) and current challenges requires a consistent approach to border surveillance, based on a plethora of heterogeneous assets. These can be manned or unmanned, ranging from sensors (optical, radar, IR) to unmanned platforms (UAV, UGV, USV or UUV), and need to be combined to offer an integrated situational picture of the area under surveillance and of their location. In order to effectively control their operation and manage the large amounts of data collected by them, new approaches for command and control need to be considered, allowing efficient interaction between the operator and the different assets in the field. CAMELOT proposes to develop and demonstrate different advanced command and control service modules for multiple platform domains, based on a SOA architecture that specifies internal and external interfaces, allowing the development of a modular and scalable command and control station, customisable to the user needs. This architecture can be based on results of previous studies and work or open architectures that may prove more suitable and the interfaces can take advantage of the standardisation work that has been done already. After the definition, CAMELOT partners will prototype service modules according to their expertise, background individual technologies and practitioner needs. These will be integrated progressively in specific testing along the project. This prototype development approach will culminate in 2 final demonstrations involving end users and relevant stakeholders, to achieve a maturity of TRL6 (for most individual technologies supporting the functionalities for border surveillance) and an IRL of 7 for CAMELOT.",
+    "totalCost": "9942597,94",
+    "ecMaxContribution": "8020921,26",
+    "coordinator": "TEKEVER ASDS",
+    "coordinatorCountry": "PT",
+    "participants": "FCIENCIAS.ID - ASSOCIACAO PARA A INVESTIGACAO E DESENVOLVIMENTO DE CIENCIAS;INSPECTORATUL GENERAL AL POLITIEI DE FRONTIERA;SOCIETE D'INGENIERIE DE RECHERCHESET D'ETUDES EN HYDRODYNAMIQUE NAVALE;DEPARTMENT OF DEFENCE;INSTITUT PO OTBRANA;NAVAL GROUP;AKADEMIA MARYNARKI WOJENNEJ;BAE SYSTEMS (OPERATIONS) LIMITED;NATO SCIENCE AND TECHNOLOGY ORGANISATION;CORK INSTITUTE OF TECHNOLOGY;VIASAT ANTENNA SYSTEMS SA;THALES SYSTEMES AEROPORTES SAS;MINISTERIO DA ADMINISTRACAO INTERNA;MINISTERIO DA DEFESA NACIONAL;KENTRO MELETON ASFALEIAS;PRZEMYSLOWY INSTYTUT AUTOMATYKI I POMIAROW PIAP;FUNDACAO DA FACULDADE DE CIENCIAS DA UNIVERSIDADE DE LISBOA FP;UNIVERSITAT POLITECNICA DE VALENCIA;MINISTRY OF NATIONAL DEFENCE, GREECE;THALES SA;EXODUS ANONYMOS ETAIREIA PLIROFORIKIS;CENTRO DE ANALISE E OPERACOES MARITIMAS-NARCOTICOS",
+    "participantCountries": "PT;RO;FR;IE;BG;PL;UK;BE;CH;EL;ES",
+    "projectParticipants": {
+        "999833709": {
+            "orgId": "999833709",
+            "orgName": "MINISTERIO DA ADMINISTRACAO INTERNA",
+            "ecContrib": 196855
+        },
+        "999751938": {
+            "orgId": "999751938",
+            "orgName": "THALES SA",
+            "ecContrib": 818853
+        },
+        "999549984": {
+            "orgId": "999549984",
+            "orgName": "PRZEMYSLOWY INSTYTUT AUTOMATYKI I POMIAROW PIAP",
+            "ecContrib": 311625
+        },
+        "999580539": {
+            "orgId": "999580539",
+            "orgName": "FUNDACAO DA FACULDADE DE CIENCIAS DA UNIVERSIDADE DE LISBOA FP",
+            "ecContrib": 0
+        },
+        "999827307": {
+            "orgId": "999827307",
+            "orgName": "KENTRO MELETON ASFALEIAS",
+            "ecContrib": 523625
+        },
+        "951519755": {
+            "orgId": "951519755",
+            "orgName": "NATO SCIENCE AND TECHNOLOGY ORGANISATION",
+            "ecContrib": 507371
+        },
+        "999595089": {
+            "orgId": "999595089",
+            "orgName": "CORK INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 260688
+        },
+        "958942292": {
+            "orgId": "958942292",
+            "orgName": "TEKEVER ASDS",
+            "ecContrib": 675458
+        },
+        "984400330": {
+            "orgId": "984400330",
+            "orgName": "MINISTERIO DA DEFESA NACIONAL",
+            "ecContrib": 276538
+        },
+        "951904845": {
+            "orgId": "951904845",
+            "orgName": "DEPARTMENT OF DEFENCE",
+            "ecContrib": 16844
+        },
+        "999906750": {
+            "orgId": "999906750",
+            "orgName": "SOCIETE D'INGENIERIE DE RECHERCHESET D'ETUDES EN HYDRODYNAMIQUE NAVALE",
+            "ecContrib": 521325
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 608562
+        },
+        "996390985": {
+            "orgId": "996390985",
+            "orgName": "VIASAT ANTENNA SYSTEMS SA",
+            "ecContrib": 648690
+        },
+        "999611385": {
+            "orgId": "999611385",
+            "orgName": "MINISTRY OF NATIONAL DEFENCE, GREECE",
+            "ecContrib": 132501
+        },
+        "946189605": {
+            "orgId": "946189605",
+            "orgName": "AKADEMIA MARYNARKI WOJENNEJ",
+            "ecContrib": 158750
+        },
+        "958304323": {
+            "orgId": "958304323",
+            "orgName": "INSTITUT PO OTBRANA",
+            "ecContrib": 175625
+        },
+        "999954862": {
+            "orgId": "999954862",
+            "orgName": "THALES SYSTEMES AEROPORTES SAS",
+            "ecContrib": 340682
+        },
+        "917798578": {
+            "orgId": "917798578",
+            "orgName": "CENTRO DE ANALISE E OPERACOES MARITIMAS-NARCOTICOS",
+            "ecContrib": 94854
+        },
+        "999937984": {
+            "orgId": "999937984",
+            "orgName": "EXODUS ANONYMOS ETAIREIA PLIROFORIKIS",
+            "ecContrib": 504875
+        },
+        "952213790": {
+            "orgId": "952213790",
+            "orgName": "INSPECTORATUL GENERAL AL POLITIEI DE FRONTIERA",
+            "ecContrib": 105000
+        },
+        "997989448": {
+            "orgId": "997989448",
+            "orgName": "BAE SYSTEMS (OPERATIONS) LIMITED",
+            "ecContrib": 464255
+        }
+    },
+    "calculatedTotalContribution": 7342976
+}

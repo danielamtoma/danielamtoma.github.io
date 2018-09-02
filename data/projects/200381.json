@@ -1,0 +1,28 @@
+{
+    "rcn": "200381",
+    "acronym": "CyberWiz",
+    "topics": "DRS-17-2014",
+    "title": "Cyber-Security Visualization and CAD-Tool for the Vulnerability Assessment of Critical Infrastructures",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2017",
+    "objective": "The ICT environments of critical infrastructures (such as energy distribution systems) are composed of a large number of systems connected to form a complex system of systems. Recent initiatives to upgrade power systems into smart grids target an even tighter integration with information technologies to enable the integration of renewable energy sources, local and bulk generation and demand response. To fully estimate the security of an enterpriseís system architecture, a large number of issues must be considered. Enterprise systems security managers must be able to assess how vulnerabilities in one system influence vulnerabilities in other systems. In addition, security managers must be able to assess how individual vulnerabilities influence the security of the entire system of systems, given the protection solutions that are used in different locations in the architecture. The project will deliver and validate a tool that helps to 1) better understand current cyber security levels across complex enterprise-wide architectures, including relationships and interdependencies between systems, 2) prioritize areas to address and cyber security investments to pursue and 3) proactively manage cyber security e.g. when building or modifying architectures. The solution is based on a cybersecurity metamodel that 1) describes the qualitative structure (which assets, attacks and defences that should be included, and how these should be associated and 2) populates this qualitative structure with quantitative data (how likely different attacks are to succeed given the system parameter values and the presence or absence of different defences, using Bayesian networks). The tool generates a vulnerability ìheat mapî for each system configuration, allowing a user-friendly and visual comparison of the different alternatives. The project will validate the tool in 2 pilots with energy utilities in Sweden and Germany. The project duration is 24 months and the requested EC funding Ä1.6M.",
+    "totalCost": "2279375",
+    "ecMaxContribution": "1595562,5",
+    "coordinator": "APPLIED SECURITY GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "FORESEETI AB",
+    "participantCountries": "SE",
+    "projectParticipants": {
+        "934971361": {
+            "orgId": "934971361",
+            "orgName": "FORESEETI AB",
+            "ecContrib": 854875
+        },
+        "953015107": {
+            "orgId": "953015107",
+            "orgName": "APPLIED SECURITY GMBH",
+            "ecContrib": 740688
+        }
+    },
+    "calculatedTotalContribution": 1595563
+}

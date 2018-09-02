@@ -1,0 +1,68 @@
+{
+    "rcn": "206005",
+    "acronym": "CPSwarm",
+    "topics": "ICT-01-2016",
+    "title": "CPSwarm",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Cyber-Physical Systems (CPS) find applications in a number of large-scale, safety-critical domains e.g. transportation, smart cities, etc. While the increased CPS adoption has resulted in the maturation of solutions for CPS development, a single consistent science of system integration for CPS has not yet been consolidated. Therefore CPS development remains a complex and error-prone task, often requiring a collection of separate tools.\nMoreover, interactions amongst CPS might lead to new behaviors and emerging properties, often with unpredictable results. Rather than being an unwanted byproduct, these interactions can become an advantage if explicitly managed since early design stages. \nCPSwarm tackles this challenge by proposing a new science of system integration and tools to support engineering of CPS swarms. CPSwarm tools will ease development and integration of complex herds of heterogeneous CPS that collaborate based on local policies and that exhibit a collective behavior capable of solving complex, industrial-driven, real-world problems.\nThe project defines a complete toolchain that enables the designer to: (a) set-up collaborative autonomous CPSs; (b) test the swarm performance with respect to the design goal; and (c) massively deploy solutions towards ìreconfigurableî CPS devices. Model-centric design and predictive engineering are the pillars of the project, enabling definition, composition, verification and simulation of collaborative, autonomous CPS while accounting for various dynamics, constraints and for safety, performance and cost efficiency issues. \nCPSwarm pushes forward CPS engineering at a larger scale, with an expected significant reduction of development time and costs. Project results will be tested in real-world use cases in 3 different domains: swarms of Unmanned Aerial Vehicles and Rovers for safety and security purposes; autonomous driving for freight vehicles; and swarm of opportunistically collaborating smart bikes.",
+    "totalCost": "4913095",
+    "ecMaxContribution": "4913095",
+    "coordinator": "Istituto Superiore Mario Boella",
+    "coordinatorCountry": "IT",
+    "participants": "ROBOTNIK AUTOMATION SLL;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;SOFTEAM;DIGISKY SRL;LAKESIDE LABS GMBH;SEARCH-LAB BIZTONSAGI ERTEKELO ELEMZO ES KUTATO LABORATORIUM KORLATOLT FELELOSSEGU TARSASAG;TTTECH COMPUTERTECHNIK AG;UNIVERSITAET KLAGENFURT;TELECOM ITALIA SPA",
+    "participantCountries": "ES;DE;FR;IT;AT;HU",
+    "projectParticipants": {
+        "998018645": {
+            "orgId": "998018645",
+            "orgName": "ROBOTNIK AUTOMATION SLL",
+            "ecContrib": 396250
+        },
+        "999836813": {
+            "orgId": "999836813",
+            "orgName": "UNIVERSITAET KLAGENFURT",
+            "ecContrib": 396621
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 0
+        },
+        "990867902": {
+            "orgId": "990867902",
+            "orgName": "LAKESIDE LABS GMBH",
+            "ecContrib": 566750
+        },
+        "936437031": {
+            "orgId": "936437031",
+            "orgName": "DIGISKY SRL",
+            "ecContrib": 327461
+        },
+        "999704893": {
+            "orgId": "999704893",
+            "orgName": "SEARCH-LAB BIZTONSAGI ERTEKELO ELEMZO ES KUTATO LABORATORIUM KORLATOLT FELELOSSEGU TARSASAG",
+            "ecContrib": 345625
+        },
+        "999599357": {
+            "orgId": "999599357",
+            "orgName": "ISTITUTO SUPERIORE MARIO BOELLA SULLE TECNOLOGIE DELL'INFORMAZIONE E DELLE  TELECOMUNICAZIONI ASSOCIAZIONE",
+            "ecContrib": 0
+        },
+        "999779001": {
+            "orgId": "999779001",
+            "orgName": "SOFTEAM",
+            "ecContrib": 830000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 805500
+        },
+        "999791029": {
+            "orgId": "999791029",
+            "orgName": "TTTECH COMPUTERTECHNIK AG",
+            "ecContrib": 492138
+        }
+    },
+    "calculatedTotalContribution": 4160345
+}

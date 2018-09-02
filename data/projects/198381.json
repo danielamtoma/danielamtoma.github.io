@@ -1,0 +1,73 @@
+{
+    "rcn": "198381",
+    "acronym": "TWIN-CONTROL",
+    "topics": "FoF-14-2015",
+    "title": "Twin-model based virtual manufacturing for machine tool-process simulation and control",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "Europe is the worldís largest manufacturer of machine tools but this position is threatened due to the emergence of Asian countries. However, Europe has world-class capabilities in the manufacture of high-value parts for such competitive sectors like aerospace & automotive and this has led to the creation of a high-technology, high-skill industry. European machine tool builders, part manufacturers and other agents have to work together to increase the competitiveness of European manufacturing industry.\nSimulation tools are currently a key complement to European machine tool industry expertise but new integrated approaches are needed. The main objective of Twin-Control is the development of a simulation and control system that integrates the different aspects that affect machine tool and machining performance. This holistic approach will allow a better estimation of machining performance than single featured simulation packages, including lifecycle concepts like energy consumption and end-life of components. This integrated concept will also enhance the necessary collaboration between machine tool builders and part manufacturers.\nThe specific industrial objectives are:\nï         Getting machines that work as designed faster (10% reduction)\nï         Getting production processes that work as planned faster (20% reduction)\nï         To get a first-time-right part manufacturing (75%)\nï         To increase production time trough model-based control (increase of 1-2%)\nï         To reduce energy consumption (25-50%)\nï         Improve machine reliability and increase machine up-time due to a proactive maintenance (2-4.5%)\nAll these will contribute to reduce machine tool life cycle costs (15 %) with a reduction of O&M costs in the range of 25%.\nThe project considers the validation and demonstrator in real production scenarios in aerospace and automotive industries. Added to this, 3 demonstrators will be set-up in three pilot lines for spreading results beyond the project end",
+    "totalCost": "5600241,25",
+    "ecMaxContribution": "5600241",
+    "coordinator": "FUNDACION TEKNIKER",
+    "coordinatorCountry": "ES",
+    "participants": "RENAULT SAS;MARPOSS MONITORING SOLUTIONS GMBH;THE UNIVERSITY OF SHEFFIELD;GEPRO SYSTEMS SL;SAMTECH SA;COMAU FRANCE SAS;ModuleWorks GmbH;TECHNISCHE UNIVERSITAT DARMSTADT;PREDICT SAS;MECANIZACIONES AERONAUTICAS SA",
+    "participantCountries": "FR;DE;UK;ES;BE",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 442521
+        },
+        "999959227": {
+            "orgId": "999959227",
+            "orgName": "FUNDACION TEKNIKER",
+            "ecContrib": 736250
+        },
+        "999425533": {
+            "orgId": "999425533",
+            "orgName": "RENAULT SAS",
+            "ecContrib": 651782
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 525938
+        },
+        "933000418": {
+            "orgId": "933000418",
+            "orgName": "MECANIZACIONES AERONAUTICAS SA",
+            "ecContrib": 400000
+        },
+        "993393782": {
+            "orgId": "993393782",
+            "orgName": "ModuleWorks GmbH",
+            "ecContrib": 490000
+        },
+        "953485945": {
+            "orgId": "953485945",
+            "orgName": "MARPOSS MONITORING SOLUTIONS GMBH",
+            "ecContrib": 488750
+        },
+        "933220511": {
+            "orgId": "933220511",
+            "orgName": "GEPRO SYSTEMS SL",
+            "ecContrib": 293750
+        },
+        "933366496": {
+            "orgId": "933366496",
+            "orgName": "COMAU FRANCE SAS",
+            "ecContrib": 393000
+        },
+        "999429316": {
+            "orgId": "999429316",
+            "orgName": "SAMTECH SA",
+            "ecContrib": 778125
+        },
+        "985658323": {
+            "orgId": "985658323",
+            "orgName": "PREDICT SAS",
+            "ecContrib": 400125
+        }
+    },
+    "calculatedTotalContribution": 5600241
+}

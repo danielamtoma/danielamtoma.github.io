@@ -1,0 +1,23 @@
+{
+    "rcn": "200741",
+    "acronym": "STC",
+    "topics": "ERC-StG-2015",
+    "title": "Synaptic Tagging and Capture: From Synapses to Behavior",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "It is shown that long-term potentiation (LTP) is the cellular basis of memory formation. However, since all but small fraction of memories are forgotten, LTP has been further divided into early LTP (e-LTP), the mechanism by which short-term memories are formed, and a more stable late LTP (L-LTP), by which long-term memories are formed. Remarkably, it has been shown that an e-LTP can be stabilized if it is preceded or followed by heterosynaptic L-LTP.\nAccording to Synaptic Tagging and Capture (STC) hypothesis, e-LTP is stabilized by capturing proteins that are made by L-LTP induction. The model proposes that this mechanism underlies the formation of late associative memory, where the stability of a memory is not only defined by the stimuli that induce the change but also by events happening before and after these stimuli. As such, the model explicitly predicts that a short-term memory can be stabilized by inducing heterosynaptic L-LTP. \nIn this grant, I will put this hypothesis into test. Specifically, I will test two explicit predictions of STC model: 1) A naturally formed short-term memory can be stabilized by induction of heterosynaptic L-LTP. 2) This stabilization is caused by the protein synthesis feature of L-LTP. To do this, using optogenetics, I will engineer a short-term memory in auditory fear circuit, in which an animal transiently associates a foot shock to a tone. Subsequently, I will examine if optogenetic delivery of L-LTP to the visual inputs converging on the same population of neurons in the amygdala will stabilize the short-term tone fear memory. \nTo be able to engineer natural memory by manipulating synaptic plasticity I will develop two systems: 1) A two-color optical activation system which permits selective manipulation of distinct neuronal populations with precise temporal and spatial resolution; 2) An inducible and activity-dependent expression system by which those neurons that are activated by a natural stimulus will be optically tagged.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "AARHUS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

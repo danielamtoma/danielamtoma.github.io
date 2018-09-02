@@ -1,0 +1,28 @@
+{
+    "rcn": "199442",
+    "acronym": "StableChaoticPlanetM",
+    "topics": "ERC-StG-2015",
+    "title": "Stable and Chaotic Motions in the Planetary Problem",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2021",
+    "objective": "The planetary problem consists in determining the motions of n  planets, interacting among themselves and with a sun, via gravity only. Its deep comprehension has relevant consequences in Mathematics, Physics, Astronomy and Astrophysics. \nThe problem is by its nature perturbative, being well approximated by the much easier (and in fact exactly solved since the XVII century) problem where each planet interacts only with the sun. However, when the mutual interactions among planets are taken into account, the dynamics of the system is much richer and, up to nowadays, essentially unsolved. Stable and unstable motions coexist as well. \nIn general, perturbation theory allows to describe qualitative aspects of the motion, but it does not apply directly to the problem, because of its deep degeneracies. \nDuring my PhD, I obtained important results on the stability of the problem, based on a new symplectic description, that allowed me to write, for the first time, in the framework of close to be integrable systems, the Hamilton equations governing the dynamics of the problem, made free of its integral of motions, and degeneracies related. By such results, I was an invited speaker to the ICM of 2014, in Seoul.\nThe goal of this research is to use such recent tools, develop techniques, ideas and wide collaborations, also by means of the creation of post-doc positions, assistant professorships (non-tenure track), workshops and advanced schools, in order to find results concerning the long-time stability of the problem, as well as unstable or diffusive motions.",
+    "totalCost": "900000",
+    "ecMaxContribution": "900000",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI PADOVA",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "999995602": {
+            "orgId": "999995602",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PADOVA",
+            "ecContrib": 826219
+        },
+        "999976590": {
+            "orgId": "999976590",
+            "orgName": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+            "ecContrib": 73781
+        }
+    },
+    "calculatedTotalContribution": 900000
+}

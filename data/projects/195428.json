@@ -1,0 +1,23 @@
+{
+    "rcn": "195428",
+    "acronym": "SCDCDC",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Design of Switched Capacitor DC-DC Converters Suitable for Wireless and Bio Sensor Applications",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "Ever increasing value and cost of energy has led the researchers to focus their efforts in energy efficient and cost effective systems. Additionally, the wide spreading of wireless technologies and mobile platforms require highly cost effective and energy efficient solutions for affordable products such as mobile phones, tablets, medical systems etc. that have decent performance with long battery lives. This proposal focuses on the intersection of these two trends and can be defined as energy efficient/low cost integrated circuits for wireless, bio and energy efficient systems. \nThe objective of this research is to analyze and design highly efficient, scalable and cost effective integrated circuits for highly integrated wireless systems, energy harvesters and bio-sensors. Specifically, we will focus on analyzing and designing Switched Capacitor DC-DC converters as the main goal. These converters eliminate the need of using costly and bulky off-chip inductors and can be integrated fully on-chip for such low power applications. For higher power applications, SC DC-DC converters can be designed to work with cheaper and smaller size off-chip capacitors. In this research, we will analyze and design both versions of these converters to test their performance with critical wireless communication blocks such as VCOs and PAs. This will be the first step in utilizing these converters and switched capacitor systems in wireless systems, bio-sensors and energy harvesting solutions.",
+    "totalCost": "157845,6",
+    "ecMaxContribution": "157845,6",
+    "coordinator": "ISTANBUL SEHIR UNIVERSITESI",
+    "coordinatorCountry": "TR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "985914403": {
+            "orgId": "985914403",
+            "orgName": "ISTANBUL SEHIR UNIVERSITESI",
+            "ecContrib": 157846
+        }
+    },
+    "calculatedTotalContribution": 157846
+}

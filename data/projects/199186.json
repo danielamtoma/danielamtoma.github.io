@@ -1,0 +1,63 @@
+{
+    "rcn": "199186",
+    "acronym": "L3MATRIX",
+    "topics": "ICT-27-2015",
+    "title": "Large Scale Silicon Photonics Matrix for Low Power and Low Cost Data Centers",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "Cloud storage and computing, big data analytics and social media are driving the need for higher bandwidth communications in data centres (DCs). Concurrently, disaggregation and virtualization trends in the DC are forcing the traffic to be between servers and storage elements in the east-west direction. These changes require massive switching capabilities from the discrete switch elements. However, the technology is rapidly reaching a limit. The result is a multi-layered DC topology with high power consumption and long latency. The L3MATRIX project provides novel technological innovations in the fields of silicon photonics (SiP) and 3D device integration. The project will develop a novel SiP matrix with a scale larger than any similar device with more than 100 modulators on a single chip and will integrate embedded laser sources with a logic chip thus breaking the limitations on the bandwidth-distance product. Use of embedded laser sources and integration with a full logic CMOS chip are innovative steps that will have a profound effect on the European market as these technologies will make a noticeable change in the power consumption, performance and cost of DCs. A novel approach will be used with embedded III-V sources on the SOI substrate which will eliminate the need to use an external light source for the modulators. L3MATRIX provides a new method of building switching elements that are both high radix and have an extended bandwidth of 25 Gb/s in single mode fibres and waveguides with low latency.  The power consumption of DC networks built with these devices is 10-fold lower compared to the conventional technology. The outcome of this approach is that large networks, in the Pb/s scale can be built as a single stage, non-blocking network. The single mode nature of the SiP chip allows scaling the network to the 2000 m range required in modern DCs.",
+    "totalCost": "3836186,25",
+    "ecMaxContribution": "3123966,25",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS;IBM RESEARCH GMBH;AMS AG;COMPAS ELECTRO-OPTICAL SYSTEMS LTD;BRIGHT PHOTONICS BV;UNIVERSITAT POLITECNICA DE VALENCIA;UNIVERSITY COLLEGE LONDON;DUSTPHOTONICS LTD",
+    "participantCountries": "EL;CH;AT;IL;NL;ES;UK",
+    "projectParticipants": {
+        "967134427": {
+            "orgId": "967134427",
+            "orgName": "BRIGHT PHOTONICS BV",
+            "ecContrib": 150875
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 482000
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 444561
+        },
+        "955734308": {
+            "orgId": "955734308",
+            "orgName": "COMPAS ELECTRO-OPTICAL SYSTEMS LTD",
+            "ecContrib": 0
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 595175
+        },
+        "914992465": {
+            "orgId": "914992465",
+            "orgName": "DUSTPHOTONICS LTD",
+            "ecContrib": 525812
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 323338
+        },
+        "999809459": {
+            "orgId": "999809459",
+            "orgName": "AMS AG",
+            "ecContrib": 602205
+        }
+    },
+    "calculatedTotalContribution": 3123966
+}

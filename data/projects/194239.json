@@ -1,0 +1,63 @@
+{
+    "rcn": "194239",
+    "acronym": "CogIMon",
+    "topics": "ICT-23-2014",
+    "title": "Cognitive Interaction in Motion",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2019",
+    "objective": "Compliant control in humans is exploited in a variety of sophisticated skills. These include solitary actions such as soft catching, sliding, pushing large objects as well as joint actions performed in teams such as mainpulation of large scale objects or mutual adaptation through phyiscal coupling for learning, in walking or in execution of joint tasks. We refer to this advanced ability of organizing versatile motion under varying contact and impedance as cognitive compliant interaction in motion. The CogIMon project aims at a step-change in human-robot interaction toward the systemic integration of robust, dependable interaction capabilities for teams of humans and compliant robots, in particular the compliant humanoid COMAN. We focus on interaction that requires active and adaptive regulation of motion and behavior of both the human(s) and the robot(s) and involves whole-body variable impedance actuation, adaptability, prediction, and flexibility. This goal shall be achieved through sophisticated real-world robot demonstrations of interactive compliant soft catching and throwing,  interaction with COMANS  under changing contact and team constellation, and in model-driven fully engineering multi-arm handling shared by Kuka LWR robots and humans working along. Key advancements towords this goal are targeted in mechatronics and whole-body motion control, in model-driven software engineering, in estimating and predicting motion for kinematic motion tracking data, in devising force and impedance primitives and architectures for respective technology combinations.",
+    "totalCost": "6974131,75",
+    "ecMaxContribution": "5688126",
+    "coordinator": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+    "coordinatorCountry": "DE",
+    "participants": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;THE UNIVERSITY OF BIRMINGHAM;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA;EBERHARD KARLS UNIVERSITAET TUEBINGEN;UNIVERSITAET BIELEFELD;THE UNIVERSITY OF EDINBURGH;FONDAZIONE SANTA LUCIA",
+    "participantCountries": "UK;CH;IT;DE",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 831813
+        },
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 301369
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 587602
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 477819
+        },
+        "999596447": {
+            "orgId": "999596447",
+            "orgName": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+            "ecContrib": 1120000
+        },
+        "999854370": {
+            "orgId": "999854370",
+            "orgName": "UNIVERSITAET BIELEFELD",
+            "ecContrib": 749148
+        },
+        "999583449": {
+            "orgId": "999583449",
+            "orgName": "FONDAZIONE SANTA LUCIA",
+            "ecContrib": 826625
+        },
+        "999991916": {
+            "orgId": "999991916",
+            "orgName": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+            "ecContrib": 793750
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 5688126
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "199340",
+    "acronym": "SuperSART",
+    "topics": "ERC-PoC-2015",
+    "title": "Commercialization of an innovative tomographic reconstruction algorithm (Super-sampling SART)for various geometry setups",
+    "startDate": "01/01/2016",
+    "endDate": "30/06/2017",
+    "objective": "In this proposal, we would like to advance our high quality and highly flexible multi-purpose three-dimensional tomographic reconstruction algorithm from a state of the art research tool to an innovative commercial software product. Transmission tomography uses N-1 dimensional images to reconstruct an N-dimensional object. It is applicable on a multitude of applications ranging from scientific to industrial level. Our implementation has already proven its superior image reconstruction capabilities for incomplete and low signal-to-noise ratio electron tomography and X-ray microscopy data against the established reconstruction algorithms. In addition, the reconstruction time is reduced to between 50% and 90% compared to other reconstruction methods. Thus, it offers crucial advantages for multi-dimensional image visualization and interpretation, in particular for quantitative information extraction.\nThe primary aim is to bridge different fields using tomography as their common technique and to benchmark our implementation on today's ubiquitous diverse medical and industrial computed tomography, industrial safety scanning, and natural sciences tomography-based data. All of these data share similar characteristics and the same fundamental challenges. Our implementation is based on precise engineering that runs on various processing units such as CPU, GPU, and FPGA boards.\nThe secondary aim is to bring the implementation from academic to industrial level by creating a user interface, optimizing its documentation and usability, and by approaching the target market. The results of this ERC Proof of Concept funding phase shall constitute the basis of licensing agreements in clinical and industrial applications and eventually of the in-licensing of our reconstruction software by tomography suppliers from diverse fields.",
+    "totalCost": "148750",
+    "ecMaxContribution": "148750",
+    "coordinator": "JOHANN WOLFGANG GOETHE-UNIVERSITATFRANKFURT AM MAIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999978724": {
+            "orgId": "999978724",
+            "orgName": "JOHANN WOLFGANG GOETHE-UNIVERSITATFRANKFURT AM MAIN",
+            "ecContrib": 148750
+        }
+    },
+    "calculatedTotalContribution": 148750
+}

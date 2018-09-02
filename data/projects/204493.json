@@ -1,0 +1,23 @@
+{
+    "rcn": "204493",
+    "acronym": "C-SENSE",
+    "topics": "ERC-ADG-2015",
+    "title": "Exploiting low dimensional models in sensing, computation and signal processing",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "The aim of this project is to develop the next generation of compressive and computational sensing and processing techniques. \nThe ability to identify and exploit good signal representations is pivotal in many signal and data processing tasks. During the last decade sparse representations have provided stunning performance gains for applications such as: imaging coding, computer vision, super-resolution microscopy and most recently in MRI, achieving many-fold acceleration through compressed sensing (CS).\nHowever in most real world sensing it is generally not possible to fully adopt the random sampling strategies advocated by CS. Systems are often nonlinear, measurements have limited dynamic range, noise is rarely Gaussian and reconstruction is not always the final goal. Furthermore, iterative reconstruction techniques are often not adopted in commercial imaging systems as they typically incur at least an order of magnitude more computation than traditional techniques. Thus there is a real need for a new framework for generalized computationally accelerated sensing and processing techniques. \nThe research proposed here will build on the PIs recent work in this area and will develop and analyse a much richer class of hierarchical low dimensional signal models, accommodating everything from physical laws to data-driven models such as deep neural networks. It will provide quantitative guidance for system design and address sensing tasks beyond reconstruction including detection, classification and statistical estimation. It will also exploit low dimensional structure to reduce computational cost as well as estimation accuracy, challenging the notion that exploiting prior information must come at a computational cost.\nThis research will result in a new generation of data-driven, physics-aware and task-orientated sensing systems in application domains such as advanced radar, CT and MR imaging and emerging sensing modalities such as multispectral time-of-flight cameras.",
+    "totalCost": "2212048",
+    "ecMaxContribution": "2212048",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 2212048
+        }
+    },
+    "calculatedTotalContribution": 2212048
+}

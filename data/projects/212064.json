@@ -1,0 +1,23 @@
+{
+    "rcn": "212064",
+    "acronym": "MIRA",
+    "topics": "ERC-2017-STG",
+    "title": "Next Generation Machine Intelligence for Medical Image Representation and Analysis",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Machines capable of analysing and interpreting medical scans with super-human performance would transform healthcare as much as medical imaging itself did over the last century. With an increasing complexity and volume of data the interpretation of images and extraction of clinically useful information push human abilities to the limit. There is high risk that critical patterns of disease go undetected. We require powerful and trustworthy computational tools based on machine intelligence to support experts and go beyond human performance to tackle the major challenges in clinical practice. Two key ingredients are currently missing: 1) interpretable statistical representations that capture important information while reducing complexity; 2) intelligent algorithms that leverage knowledge across multiple tasks to solve the most challenging problems such as early detection of pathology.\n\nThis project is devoted to redefine the state-of-the-art in medical image analysis by developing a new generation of machine intelligence using powerful techniques of representation learning. Key to the project is its unique access to some of the largest and most comprehensive imaging databases combined with world-leading expertise in machine learning and medical imaging. An overarching objective is to harvest information from population data to construct what will be the most advanced statistical models of anatomy. In contrast to previous attempts that focus primarily on specific organs or pathology, here shared representations are learned from highly complex data by jointly solving multiple tasks. Linking the representations with demographics, lifestyle, genetics and disease allows probing of genetic and environmental determinants related to specific anatomical and pathological phenotypes across organs. This will provide insights into complex diseases, and enables a novel approach to abnormality detection that aims to automatically find subtle signs of pathology in new medical scans.",
+    "totalCost": "1499292",
+    "ecMaxContribution": "1499292",
+    "coordinator": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 1499292
+        }
+    },
+    "calculatedTotalContribution": 1499292
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "200442",
+    "acronym": "QUNS",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Quantum-Statistical Methods for Nuclear Singlet States in Complex Fluids",
+    "startDate": "14/03/2016",
+    "endDate": "13/03/2018",
+    "objective": "Nuclear magnetic resonance (NMR) and magnetic resonance imaging (MRI) are supremely important techniques with widespread applications in chemistry, physics and medicine. NMR methodology has until recently been limited by the time constant T1 for the decay of nuclear spin magnetization back to thermal equilibrium. Long-lived nuclear singlet states (LLS) have been shown to overcome this limit with a decay constant TLLS that may be two orders of magnitude longer than T1. However, so far mostly ideal systems have been studied in the LLS context, involving simple solvents and oxygen and other paramagnetic molecules removed. This is far from the conditions in many potential applications of MRI and/or materials research, and it is not clear how LLS performs in environments such as complex fluids or biological matter. To overcome this limitation, the proposed project is to develop state-of-the-art quantum-statistical simulation methodology toolbox to model TLLS in complex fluids (lipid/water phases). The project builds on the experience of the research fellow in LLS and computational engineering combined with quantum-chemical, molecular simulation, and experimental expertise of the host institution. Methodology for the essential but challenging quadrupole and paramagnetic spin relaxation enhancement will be developed for LLS. Machine learning techniques will overcome the excessive computational burden of very many quantum-chemical calculations needed in conventional computational relaxation studies. The simulated TLLS will provide a general understanding of the applicability of LLS at the microscopic level, for colloidal systems. The theoretical understanding will guide the development of LLS in materials research and MRI. Machine learning development will feed into the quantum chemistry studies of NMR and other molecular properties in complex systems, as well as computational engineering.",
+    "totalCost": "179325,6",
+    "ecMaxContribution": "179325,6",
+    "coordinator": "OULUN YLIOPISTO",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999844670": {
+            "orgId": "999844670",
+            "orgName": "OULUN YLIOPISTO",
+            "ecContrib": 179326
+        }
+    },
+    "calculatedTotalContribution": 179326
+}

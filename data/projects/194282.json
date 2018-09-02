@@ -1,0 +1,48 @@
+{
+    "rcn": "194282",
+    "acronym": "SmokeBot",
+    "topics": "ICT-23-2014",
+    "title": "Mobile Robots with Novel Environmental Sensors for Inspection of Disaster Sites with Low Visibility",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2018",
+    "objective": "SmokeBot is driven by the application needs for robots that operate in domains with restricted visibility. The focus is on civil robots supporting fire brigades in search and rescue missions, e.g. in post-disaster management operations in response to tunnel fires. Existing sensor technology and the related cognitive approaches cannot cope with such demanding conditions. SmokeBot addresses this shortcoming and can thus bring about a step change for robotics. It will deliver software and hardware components which facilitate robot systems to perform under harsh conditions of smoke, dust or fog. This will be demonstrated through integration of the project results in an industrial prototype of a Low Visibility Explorer Robot for providing situational awareness based on a commercial platform from partner TAUR. In close collaboration with TAUR (robotics industry) and end users (FDDO, end users in the advisory group), SmokeBot will crucially improve the abilities of the selected platform, thus increasing safety of rescue staff and European citizens as well as improving the product of a European robotics company in an important market. An even wider impact is expected through the development of a novel sensor unit and the corresponding cognitive approaches. In addition to traditional sensors such as LIDAR and cameras, which are affected by smoke or dust, this sensing unit includes also a novel 3D radar camera, a thermal camera, and high-bandwidth gas sensors. Fusion of sensor modalities will allow the inclusion of measurements from LIDAR and camera into the world model when they occasionally penetrate through e.g. smoke. In addition, we will develop the means to integrate prior knowledge in the form of crude human sketch maps to allow for robust mapping and navigation even under low visibility in a harsh environment. Sensor technology from SmokeBot will result in new products to be brought to market after the project. Software developed will be made available as open source.",
+    "totalCost": "3817417,7",
+    "ecMaxContribution": "3817417,5",
+    "coordinator": "OREBRO UNIVERSITY",
+    "coordinatorCountry": "SE",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;TAUROB GMBH;STADT DORTMUND;THE UNIVERSITY OF WARWICK;GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+    "participantCountries": "DE;AT;UK",
+    "projectParticipants": {
+        "999976784": {
+            "orgId": "999976784",
+            "orgName": "THE UNIVERSITY OF WARWICK",
+            "ecContrib": 546128
+        },
+        "999981828": {
+            "orgId": "999981828",
+            "orgName": "GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+            "ecContrib": 685640
+        },
+        "999650088": {
+            "orgId": "999650088",
+            "orgName": "OREBRO UNIVERSITY",
+            "ecContrib": 1260660
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 771240
+        },
+        "940217703": {
+            "orgId": "940217703",
+            "orgName": "TAUROB GMBH",
+            "ecContrib": 512500
+        },
+        "997899141": {
+            "orgId": "997899141",
+            "orgName": "STADT DORTMUND",
+            "ecContrib": 41250
+        }
+    },
+    "calculatedTotalContribution": 3817418
+}

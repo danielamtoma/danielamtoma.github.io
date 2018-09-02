@@ -1,0 +1,23 @@
+{
+    "rcn": "210306",
+    "acronym": "AF-Cyber",
+    "topics": "MSCA-IF-2016",
+    "title": "Logic-based Attribution and Forensics in Cyber Security",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2020",
+    "objective": "Recent studies states that 'Devices will continue to grow in volume and variety, and the forecast for connected devices by 2020 is  200 billion and climbing'. The increase of connectivity brings a drastic impact on the increase of cyber attacks. Protecting measurements are not enough, while finding who did the attack is a crucial for preventing the escalation of cyber attacks.\nAF-Cyber will relieve part of the cyberattacks problem, by supporting forensics investigation and attribution with logical-based frameworks representation, reasoning and supporting tools. \nAF-Cyber main core will be a logic-based framework for performing attribution of cyber attacks, based on forensics evidence and an intelligent methodology for dynamic evidence collection. It will analyse and valuate analytically Cyber Forensics applications. Different forensics reasoning rules and techniques will be extracted and a categorization of forensics evidence will be constructed. A new logical formalism will be introduced for representing the analytical and non-monotonic reasoning needed for solving the attribution problem. A tool, based on the logical framework for the attribution reasoning, will be developed. The tool will be tested with different real examples. The tool given the different evidence gives as result a quantitative/probabilistic answer of where the attack came from. A second version of the tool will be developed which will guide the forensics analyst during his work on collecting the evidence, and reasoning about them. A dynamic forensics evidence collection will be designed based on the different reasoning rules, and the involvement of data mining/machine learning algorithms. \nCyber security concerns are part of ICT security and Digital Security call. AF-Cyber is in-line with the latest EU Commissions measures for addressing cyber threats, the Connected Digital Single Market: Digital Security call and ENISAís calls for threat landscapes & cyber security exercises.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

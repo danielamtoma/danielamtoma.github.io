@@ -1,0 +1,63 @@
+{
+    "rcn": "212426",
+    "acronym": "EOPEN",
+    "topics": "EO-2-2017",
+    "title": "EOPEN: opEn interOperable Platform for unified access and analysis of Earth observatioN data",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "Earth Observation data access through the Copernicus data distributor systems has paved the way to monitor changes on Earth, using Sentinel data. One of the main objectives of EOPEN is to fuse Sentinel data with multiple, heterogeneous and big data sources, to improve the monitoring capabilities of the future EO downstream sector. Additionally, the involvement of mature ICT solutions in the Earth Observation sector shall address major challenges in effectively handling and disseminating Copernicus-related information to the wider user community, beyond the EU borders. To achieve the aforementioned goals, EOPEN will fuse Copernicus big data content with other observations from non-EO data, such as weather, environmental and social media information, aiming at interactive, real-time and user-friendly visualisations and decisions from early warning notifications. The fusion is also done at the semantic level, to provide reasoning mechanisms and interoperable solutions, through the semantic linking of information. Processing of large streams of data is based on open-source and scalable algorithms in change detection, event detection, data clustering, which are built on High Performance Computing infrastructures. Alongside this enhanced data fusion, a new innovative, overarching Joint Decision & Information Governance architecture will be combined with the technical solution to assist decision making and visual analytics in EOPEN. Apart from EO product-oriented data management activities, EOPEN also exploits user-oriented feedback, tagging, tracking of interactions with other EOPEN users. EOPEN will be demonstrated in real use case scenarios in flood risk monitoring, food security and climate change monitoring.",
+    "totalCost": "2182375",
+    "ecMaxContribution": "1999500",
+    "coordinator": "SERCO SPA",
+    "coordinatorCountry": "IT",
+    "participants": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;KOREA UNIVERSITY;SPACE APPLICATIONS SERVICES NV;SUNDOSOFT LTD;ILMATIETEEN LAITOS;NATIONAL OBSERVATORY OF ATHENS;UNIVERSITAET STUTTGART;AUTORITA DI BACINO DEI FIUMI ISONZO TAGLIAMENTO LIVENZA PIAVE BRENTA BACCHIGLIONE",
+    "participantCountries": "EL;KR;BE;FI;DE;IT",
+    "projectParticipants": {
+        "914600100": {
+            "orgId": "914600100",
+            "orgName": "SUNDOSOFT LTD",
+            "ecContrib": 0
+        },
+        "998734311": {
+            "orgId": "998734311",
+            "orgName": "SERCO SPA",
+            "ecContrib": 400000
+        },
+        "986838037": {
+            "orgId": "986838037",
+            "orgName": "AUTORITA DI BACINO DEI FIUMI ISONZO TAGLIAMENTO LIVENZA PIAVE BRENTA BACCHIGLIONE",
+            "ecContrib": 191250
+        },
+        "999591306": {
+            "orgId": "999591306",
+            "orgName": "ILMATIETEEN LAITOS",
+            "ecContrib": 222500
+        },
+        "999653677": {
+            "orgId": "999653677",
+            "orgName": "NATIONAL OBSERVATORY OF ATHENS",
+            "ecContrib": 218125
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 187875
+        },
+        "920825754": {
+            "orgId": "920825754",
+            "orgName": "KOREA UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999757467": {
+            "orgId": "999757467",
+            "orgName": "SPACE APPLICATIONS SERVICES NV",
+            "ecContrib": 424750
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 355000
+        }
+    },
+    "calculatedTotalContribution": 1999500
+}

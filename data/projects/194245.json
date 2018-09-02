@@ -1,0 +1,63 @@
+{
+    "rcn": "194245",
+    "acronym": "CARDIS",
+    "topics": "ICT-26-2014",
+    "title": "Early stage CARdio Vascular Disease Detection with Integrated Silicon Photonics",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2019",
+    "objective": "Early identification of individuals at risk for CVD allows early intervention to halt or reverse the pathological process. This is the driver of Medtronic and partners to develop a mobile, low-cost, non-invasive, point-of-care screening device for CVD.\n\nAssessment of arterial stiffness by measurement of the aortic pulse wave velocity (aPWV) is included in the latest ESC/ESH guidelines for CVD risk prediction. Besides aPWV, early identification of arterial stenosis and cardiac contraction abnormalities can be used to improve CVD risk classification. However, no tools are available today to screen a large population at primary care on these parameters, and individuals that are considered to be at low or moderate risk are too often undiagnosed.\n\nThe objective of CARDIS is to investigate and demonstrate the concept of a mobile, low-cost device based on a silicon photonics integrated laser Doppler vibrometer and validate the concept for the screening of arterial stiffness, detection of stenosis and heart failure. We will:\nïInvestigate, design and fabricate the optical subsystems and components: silicon photonics chip with integrated Ge-detectors, micro-optics, micro-optical laser bench, optical package\nïIntegrate the subsystems and build a multi-array laser interferometer system\nïDevelop a process flow scalable to high volumes for all sub-systems and their integration steps\nïInvestigate and develop the biomechanical model to translate optical signals related to skin-level vibrations into underlying CVD physiological events\nïValidate the system in a clinical setting\n\nPhotonics integration is needed to enable a device that is mobile (small size, small weight, robust (no moving parts), low cost (high volume scalable process flow) and allows fast screening (laser array).\n\nThe partners commit to protect IP whenever possible, disseminate results via open access and, if target specs are met, commercially exploit and transfer the technology to create social and economic impact.",
+    "totalCost": "3629207,51",
+    "ecMaxContribution": "3629206",
+    "coordinator": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+    "coordinatorCountry": "BE",
+    "participants": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE;UNIVERSITEIT GENT;FUNDICO BVBA;UNIVERSITEIT MAASTRICHT;MEDTRONIC BAKKEN RESEARCH CENTER B.V.;QUEEN MARY UNIVERSITY OF LONDON;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK;SIOS MESSTECHNIK",
+    "participantCountries": "FR;BE;NL;UK;IE;DE",
+    "projectParticipants": {
+        "999584613": {
+            "orgId": "999584613",
+            "orgName": "MEDTRONIC BAKKEN RESEARCH CENTER B.V.",
+            "ecContrib": 602990
+        },
+        "994615691": {
+            "orgId": "994615691",
+            "orgName": "FUNDICO BVBA",
+            "ecContrib": 150000
+        },
+        "999975911": {
+            "orgId": "999975911",
+            "orgName": "UNIVERSITEIT MAASTRICHT",
+            "ecContrib": 176915
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 721413
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 399500
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 426579
+        },
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 215000
+        },
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 274059
+        },
+        "974418448": {
+            "orgId": "974418448",
+            "orgName": "SIOS MESSTECHNIK",
+            "ecContrib": 662750
+        }
+    },
+    "calculatedTotalContribution": 3629206
+}

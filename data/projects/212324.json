@@ -1,0 +1,23 @@
+{
+    "rcn": "212324",
+    "acronym": "MODULISPACES",
+    "topics": "ERC-2017-STG",
+    "title": "Topology of moduli spaces of Riemann surfaces",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "The proposal describes two main projects. Both of them concern cohomology of moduli spaces of Riemann surfaces, but the aims are rather different.\n\nThe first is a natural continuation of my work on tautological rings, which I intend to work on with Qizheng Yin and Mehdi Tavakol. In this project, we will introduce a new perspective on tautological rings, which is that the tautological cohomology of moduli spaces of pointed Riemann surfaces can be described in terms of tautological cohomology of the moduli space M_g, but with twisted coefficients. In the cases we have been able to compute so far, the tautological cohomology with twisted coefficients is always much simpler to understand, even though it ìcontains the same informationî. In particular we hope to be able to find a systematic way of analyzing the consequences of the recent conjecture that Pixtonís relations are all relations between tautological classes; until now, most concrete consequences of Pixtonís conjecture have been found via extensive computer calculations, which are feasible only when the genus and number of markings is small.\n\nThe second project has a somewhat different flavor, involving operads and periods of moduli spaces, and builds upon recent work of myself with Johan Alm, who I will continue to collaborate with. This work is strongly informed by Brownís breakthrough results relating mixed motives over Spec(Z) and multiple zeta values to the periods of moduli spaces of genus zero Riemann surfaces. In brief, Brown introduced a partial compactification of the moduli space M_{0,n} of n-pointed genus zero Riemann surfaces; we have shown that the spaces M_{0,n} and these partial compactifications are connected by a form of dihedral Koszul duality.  It seems likely that this Koszul duality should have further ramifications in the study of multiple zeta values and periods of these spaces; optimistically, this could lead to new irrationality results for multiple zeta values.",
+    "totalCost": "1091249,39",
+    "ecMaxContribution": "1091249,39",
+    "coordinator": "STOCKHOLMS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999885022": {
+            "orgId": "999885022",
+            "orgName": "STOCKHOLMS UNIVERSITET",
+            "ecContrib": 1091249
+        }
+    },
+    "calculatedTotalContribution": 1091249
+}

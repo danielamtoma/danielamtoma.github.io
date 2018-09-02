@@ -1,0 +1,43 @@
+{
+    "rcn": "211625",
+    "acronym": "FLASH",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "Far-infrared Lasers Assembled using Silicon Heterostructures",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "The THz part of the electromagnetic spectrum (0.3-10 THz) is currently exploited in commercial security screening systems (weapon detection beneath clothes), medical diagnostics tools (skin and breast cancer, burns, and in ophthalmology) and production-line monitoring (non-destructive test in the pharmaceutical industry). Existing sources of THz radiation are still too large and expensive to be a massively deployed in all of the existing and proposed applications, which include large bandwidth wireless communications and the extension of security screening to far-infrared spectroscopic identification of chemicals and explosives up to 10 THz. A lower production cost, a higher level of integration with control electronics, and a broader range of emitted wavelength are all desirable to expand the application of THz radiation.\nFLASH, will develop a room-temperature THz laser integrated on Si using CMOS technology-compatible processes and materials. The laser, of quantum cascade type, will be assembled using newly developed conduction-band germanium-rich heterostructures. It will leverage on the non-polar nature of silicon and germanium crystal lattices to potentially enabling room temperature operation, and will emit over 1 mW of power in the 1-10 THz range. In perspective, the development of the SiGe heterostructure platform will pave the way towards the new field of nonlinear silicon photonics based on band-structure engineering. The consortium includes EU leaders in silicon chip manufacturing, Si/SiGe/Ge epitaxial material growth, laser and band structure modelling, quantum cascade laser design and terahertz/infrared spectroscopy. \nThe proposed device can provide a step-change in compactness, reduced cost, and functionality of source performance, thus enabling large scale use of terahertz radiation in existing fields of application, and open up new fields of application not yet commercially exploited, such as wireless communication and security imaging.",
+    "totalCost": "3206498,75",
+    "ecMaxContribution": "3206498,75",
+    "coordinator": "UNIVERSITA DEGLI STUDI ROMA TRE",
+    "coordinatorCountry": "IT",
+    "participants": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;UNIVERSITY OF GLASGOW;NEXTNANO GMBH",
+    "participantCountries": "DE;CH;UK",
+    "projectParticipants": {
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 640250
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 671581
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 749580
+        },
+        "941870195": {
+            "orgId": "941870195",
+            "orgName": "NEXTNANO GMBH",
+            "ecContrib": 307500
+        },
+        "999866107": {
+            "orgId": "999866107",
+            "orgName": "UNIVERSITA DEGLI STUDI ROMA TRE",
+            "ecContrib": 837588
+        }
+    },
+    "calculatedTotalContribution": 3206499
+}

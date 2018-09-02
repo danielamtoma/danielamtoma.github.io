@@ -1,0 +1,17 @@
+{
+    "rcn": "214499",
+    "acronym": "DeeViSe",
+    "topics": "ERC-2017-COG",
+    "title": "Deep Learning for Dynamic 3D Visual Scene Understanding",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "Over the past 5 years, deep learning has exercised a tremendous and transformational effect on the field of computer vision. However, deep neural networks (DNNs) can only realize their full potential when applied in an end-to-end manner, i.e., when every stage of the processing pipeline is differentiable with respect to the networkís parameters, such that all of those parameters can be optimized together. Such end-to-end learning solutions are still rare for computer vision problems, in particular for dynamic visual scene understanding tasks. Moreover, feed-forward processing, as done in most DNN-based vision approaches, is only a tiny fraction of what the human brain can do. Feedback processes, temporal information processing, and memory mechanisms form an important part of our human scene understanding capabilities. Those mechanisms are currently underexplored in computer vision.\n\nThe goal of this proposal is to remove this bottleneck and to design end-to-end deep learning approaches that can realize the full potential of DNNs for dynamic visual scene understanding. We will make use of the positive interactions and feedback processes between multiple vision modalities and combine them to work towards a common goal. In addition, we will impart deep learning approaches with a notion of what it means to move through a 3D world by incorporating temporal continuity constraints, as well as by developing novel deep associative and spatial memory mechanisms.\n\nThe results of this research will enable deep neural networks to reach significantly improved dynamic scene understanding capabilities compared to todayís methods. This will have an immediate positive effect for applications in need for such capabilities, most notably for mobile robotics and intelligent vehicles.",
+    "totalCost": "2000000",
+    "ecMaxContribution": "2000000",
+    "coordinator": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

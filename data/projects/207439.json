@@ -1,0 +1,58 @@
+{
+    "rcn": "207439",
+    "acronym": "EU-SEC",
+    "topics": "DS-01-2016",
+    "title": "The European Security Certification Framework",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "In recent years the ICT market has evolved toward a cloud-based approach. This shift together with the rapidly changing legal and regulatory landscape has heavily impacted security assurance, governance and compliance. The information security market players have tried to provide suitable solutions to cope with issues such as i) lack of means to provide higher level of assurance (e.g continuous monitoring and auditing), ii) privacy not adequately taken into account, iii) limited transparency and iv) lack of means to streamline risk management and compliance. In the certification space this has resulted in the creation of several schemas creating an additional problem, i.e. the proliferation of certification scheme. The project EU-SEC will improve the effectiveness and efficiency of existing approaches for assurance and compliance.  The EU-SEC aims to create a framework under which existing, certification and assurance approaches can co-exist. The three core ideas behind the EU-SEC project are that an effective and efficient approach to trust, assurance and compliance has to: (1) balance the need of nations and business sectors to develop their specific certification schemas with the need of CSPs to reduce compliance costs (2) avoid that humans (auditors) do activities that can be performed by machines (e.g. collecting data) (3) make sure that accurate and reliable evidences/information are provided to relevant people, in a timely fashion, leveraging as much as possible automatic means. The EU-SEC framework will equip stakeholders in the ICT security ecosystem with a validated governance structure, a reference architecture, and the corresponding set of tools to improve the efficiency and effectiveness of their current approach to security governance, risks management, assurance and compliance. The EU-SEC aims to enhancing trustworthiness and transparency in the ICT supply chain through business cases developed and piloted by industrial partners.",
+    "totalCost": "3961437,5",
+    "ecMaxContribution": "2997812,5",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "PRICEWATERHOUSECOOPERS AKTIENGESELLSCHAFT WIRTSCHAFTSPRUFUNGSGESELLSCHAFT;SIXSQ SARL;CAIXABANK SA;FABASOFT CLOUD GMBH;MINISTERSTVO FINANCII SLOVENSKEJ REPUBLIKY;CLOUD SECURITY ALLIANCE (EUROPE) LBG;FABASOFT R&D GMBH;NIXU OYJ;MINISTRSTVO ZA JAVNO UPRAVO",
+    "participantCountries": "DE;CH;ES;AT;SK;UK;FI;SI",
+    "projectParticipants": {
+        "920344537": {
+            "orgId": "920344537",
+            "orgName": "FABASOFT CLOUD GMBH",
+            "ecContrib": 0
+        },
+        "995185857": {
+            "orgId": "995185857",
+            "orgName": "MINISTERSTVO FINANCII SLOVENSKEJ REPUBLIKY",
+            "ecContrib": 155625
+        },
+        "919480461": {
+            "orgId": "919480461",
+            "orgName": "PRICEWATERHOUSECOOPERS AKTIENGESELLSCHAFT WIRTSCHAFTSPRUFUNGSGESELLSCHAFT",
+            "ecContrib": 361375
+        },
+        "975106469": {
+            "orgId": "975106469",
+            "orgName": "NIXU OYJ",
+            "ecContrib": 381938
+        },
+        "957576241": {
+            "orgId": "957576241",
+            "orgName": "CLOUD SECURITY ALLIANCE (EUROPE) LBG",
+            "ecContrib": 682500
+        },
+        "996552684": {
+            "orgId": "996552684",
+            "orgName": "SIXSQ SARL",
+            "ecContrib": 0
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 880188
+        },
+        "935191260": {
+            "orgId": "935191260",
+            "orgName": "MINISTRSTVO ZA JAVNO UPRAVO",
+            "ecContrib": 148125
+        }
+    },
+    "calculatedTotalContribution": 2609751
+}

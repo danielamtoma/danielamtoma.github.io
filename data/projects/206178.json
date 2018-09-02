@@ -1,0 +1,78 @@
+{
+    "rcn": "206178",
+    "acronym": "CloudDBAppliance",
+    "topics": "ICT-06-2016",
+    "title": "European Cloud In-Memory Database Appliance with Predictable Performance for Critical Applications",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "The project aims at producing a European Cloud Database Appliance for providing a Database as a Service able to match the predictable performance, robustness and trustworthiness of on premise architectures such as those based on mainframes. The project will evolve cloud architectures to enable the increase of the uptake of cloud technology by providing the robustness, trustworthiness, and performance required for applications currently considered too critical to be deployed on existing clouds.\nCloudDBAppliance will deliver a cloud database appliance featuring:\n1.    A scalable operational database able to process high update workloads such as the ones processed by banks or telcos, combined with a fast analytical engine able to answer analytical queries in an online manner. \n2.    A Hadoop data lake integrated with the operational database to cover the needs from companies on big data.\n3.    A cloud hardware appliance leveraging the next generation of hardware to be produced by Bull, the main European hardware provider. This hardware is a scale-up hardware similar to the one of mainframes but with a more modern architecture. \nBoth the operational database and the in-memory analytics engine will be optimized to fully exploit this hardware and deliver predictable performance. Additionally, CloudDBAppliance will deal with the need to tolerate catastrophic cloud data centres failures (e.g. a fire or natural disaster) providing data redundancy across cloud data centres.",
+    "totalCost": "4832132,5",
+    "ecMaxContribution": "4832132",
+    "coordinator": "BULL SAS",
+    "coordinatorCountry": "FR",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;JRC CAPITAL MANAGEMENT CONSULTANCY & RESEARCH GMBH;INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA;WIND TRE SPA;SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS;BTO SPA;ACTIVEVIAM LTD;LEANXCALE SL;HOUSEMARKET ANONIMI ETAIRIA EMPORIAS IDON IKIAKIS KHRISEOS EPIPLON KAIIDON ESTIASIS;UNIVERSIDAD POLITECNICA DE MADRID;SALES MANATZER ELLAS EMPORIA KAI DIMIOURGIA LOGISMIKOU ETAIREIA PERIORISMENIS EFTHYNIS",
+    "participantCountries": "FR;DE;PT;IT;EL;UK;ES",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 502625
+        },
+        "929779145": {
+            "orgId": "929779145",
+            "orgName": "LEANXCALE SL",
+            "ecContrib": 653125
+        },
+        "951495020": {
+            "orgId": "951495020",
+            "orgName": "ACTIVEVIAM LTD",
+            "ecContrib": 495500
+        },
+        "999697909": {
+            "orgId": "999697909",
+            "orgName": "JRC CAPITAL MANAGEMENT CONSULTANCY & RESEARCH GMBH",
+            "ecContrib": 300000
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 503125
+        },
+        "983282308": {
+            "orgId": "983282308",
+            "orgName": "SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS",
+            "ecContrib": 348125
+        },
+        "952108351": {
+            "orgId": "952108351",
+            "orgName": "WIND TRE SPA",
+            "ecContrib": 99375
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 495257
+        },
+        "919298101": {
+            "orgId": "919298101",
+            "orgName": "SALES MANATZER ELLAS EMPORIA KAI DIMIOURGIA LOGISMIKOU ETAIREIA PERIORISMENIS EFTHYNIS",
+            "ecContrib": 248125
+        },
+        "919291505": {
+            "orgId": "919291505",
+            "orgName": "BTO SPA",
+            "ecContrib": 251875
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 835625
+        },
+        "919254742": {
+            "orgId": "919254742",
+            "orgName": "HOUSEMARKET ANONIMI ETAIRIA EMPORIAS IDON IKIAKIS KHRISEOS EPIPLON KAIIDON ESTIASIS",
+            "ecContrib": 99375
+        }
+    },
+    "calculatedTotalContribution": 4832132
+}

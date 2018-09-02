@@ -1,0 +1,53 @@
+{
+    "rcn": "213194",
+    "acronym": "GRADE",
+    "topics": "SESAR-VLD1-09-2016",
+    "title": "GNSS Solutions for Increased GA and Rotorcraft Airport Accessibility Demonstration",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2019",
+    "objective": "'The project main objective is the demonstration of General Aviation and Rotorcraft capability to benefit from the concepts developed in the SESAR programme, in order to facilitate their integration into airspace and airports where the SESAR concepts and technologies are implemented. This objective will be achieved through live flight trials and preparatory Real-Time Simulation campaign, with hardware and humans in the loop, which will be focused on both procedural issues and technological aspects related to Global Navigation Satellite System technologies and simultaneous non-interfering operations. Specifically, the GRADE project will demonstrate in flight, by using GA aircraft and Rotorcraft equipped with non-certified or specific on-board equipment, the following existing SESAR Solutions: Solution #51 ñ ìEnhanced terminal operations with LPV proceduresî, Solution #55 ñ ìPrecision approaches using GBAS CAT II/IIIî, Solution #103 ñ ìApproach Procedure with vertical guidanceî, Solution #113 ñ ìOptimised Low Level IFR routes for rotorcraftî. The project will also focus on technological aspects, testing in flight the following products, already available within the consortium and suitably customized to fit the above listed SESAR Solutions: GNSS EGNOS and GBAS navigation algorithms able to guarantee the applicable RNP; Portable non certified Primary Flight Display to support pilot decisions and operations. The live flight trials will be conducted at two different sites and using three different aircrafts (two fixed-wing and one rotary aircraft). Flight tests data and information will be collected and analysed by taking into account relevant applicable SESAR Key Performance Areas and suitably performance indices. Performance evaluation and lessons learnt will represent the outcome of the project and will be made available to support regulation, standardisation and certification activities, as well as the integration of GA and rotorcraft with commercial aviation.'",
+    "totalCost": "1241923,75",
+    "ecMaxContribution": "1156015,38",
+    "coordinator": "CENTRO ITALIANO RICERCHE AEROSPAZIALI SCPA",
+    "coordinatorCountry": "IT",
+    "participants": "MALTA AIR TRAFFIC SERVICES LIMITED;UNIVERSITA DEGLI STUDI DI NAPOLI PARTHENOPE;NEXTANT APPLICATIONS & INNOVATIVE SOLUTION SRL;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;DARJAVNO PREDPRIYATIE RAKOVODSTVO NA VAZDUSHNOTO DVIJENIE TPP",
+    "participantCountries": "MT;IT;DE;BG",
+    "projectParticipants": {
+        "932440534": {
+            "orgId": "932440534",
+            "orgName": "MALTA AIR TRAFFIC SERVICES LIMITED",
+            "ecContrib": 67109
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 195625
+        },
+        "973988350": {
+            "orgId": "973988350",
+            "orgName": "NEXTANT APPLICATIONS & INNOVATIVE SOLUTION SRL",
+            "ecContrib": 77044
+        },
+        "999856019": {
+            "orgId": "999856019",
+            "orgName": "UNIVERSITA DEGLI STUDI DI NAPOLI PARTHENOPE",
+            "ecContrib": 118750
+        },
+        "999789768": {
+            "orgId": "999789768",
+            "orgName": "CENTRO ITALIANO RICERCHE AEROSPAZIALI SCPA",
+            "ecContrib": 386375
+        },
+        "958046400": {
+            "orgId": "958046400",
+            "orgName": "DARJAVNO PREDPRIYATIE RAKOVODSTVO NA VAZDUSHNOTO DVIJENIE TPP",
+            "ecContrib": 56300
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 254812
+        }
+    },
+    "calculatedTotalContribution": 1156015
+}

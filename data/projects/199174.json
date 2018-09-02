@@ -1,0 +1,48 @@
+{
+    "rcn": "199174",
+    "acronym": "EMBERS",
+    "topics": "ICT-12-2015",
+    "title": "Enabling a Mobility Back-End as a Robust Service",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "EMBERS will bring to market a back-end for smart city mobility that is developed by a European small enterprise based upon its smart parking and smart traffic management products that two municipalities in Portugal currently deploy. The Mobility Back-end as a Service (MBaaS) replaces such all-in-one systems, in which a municipality purchases the full set of components from a single vendor. Instead, the city manager can purchase best-of-breed devices and apps developed by third parties, with the only constraint being that they interoperate with the back-end via a free, open, smart city mobility API. This domain-specific API lowers barriers to entry for app and device developers, making it easier for innovative SMEs to enter the market. Furthermore, the API is offered via a variety of generic interfaces, including oneM2M, ETSI M2M, OMA LWM2M, and FIWARE NGSI. EMBERS thus clears the way for developers and to municipalities that have adopted any one of these potential emerging machine-to-machine (M2M) communication standards. Beyond its primary goal of bringing the MBaaS to market, EMBERS will stimulate development of an entire ecosystem around the MBaaS smart city mobility API. Separating out the back-end from the other components will, however, require rigorous testing. EMBERS will experiment with the system on two testbeds that are part of the FIRE\\ OneLab facility: the FUSECO Playground, for M2M communications, and FIT IoT-LAB, for wireless sensor devices. EMBERS will host a hackathon and an app challenge to bring in third party developers. The project will also include three demonstrators by third parties via an open call. These activities will contribute back to FIRE\\ by demonstrating successful experimentation by SMEs developing close-to-market products. The project will also conduct real world pilots in two or more cities as a final step in bringing the MBaaS to market.",
+    "totalCost": "2156837,5",
+    "ecMaxContribution": "1999525",
+    "coordinator": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+    "coordinatorCountry": "FR",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;TECHNISCHE UNIVERSITAET BERLIN;UBIWHERE LDA",
+    "participantCountries": "FR;DE;PT",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 542938
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 248550
+        },
+        "991811906": {
+            "orgId": "991811906",
+            "orgName": "UBIWHERE LDA",
+            "ecContrib": 367062
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 429475
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 411500
+        }
+    },
+    "calculatedTotalContribution": 1999525
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "209799",
+    "acronym": "TECAM",
+    "topics": "MSCA-IF-2016",
+    "title": "Theory, Computation and Application of Characteristics Modes",
+    "startDate": "26/03/2018",
+    "endDate": "25/03/2020",
+    "objective": "The proposal focuses on Theory of Characteristic Modes(TCM), a reasonably general methodology to systematically design and analyse arbitrary antennas in wireless communication systems by providing accurate physical insights of the working mechanism. With the rise of the diverse and complex requirements of modern antenna systems, the existing TCM is not sufficiently effective to handle critical design problems such as multi-scale vehicular antenna systems and large-scale massive MIMO base station arrays, which leads to an urgent need for further improvement of TCM. \n\nFirstly, for the theoretical aspect, with the help of volume integral equations and appropriate basis functions, characteristic modes(CMs) of inhomogeneous anisotropic dielectric bodies based on the method of moments will be extracted for the first time. The novel theory will be used to design practical antennas coated by the inhomogeneous anisotropic materials. Secondly, concerning CM computation, CMs are planned to be established on special non-uniform meshes through an effective Discontinuous Galerkin method. The novel strategy is fully dependent on the detailed features of the physical structure and scales of the target, which will lead to a wider range of targeted applications. Finally, for the application aspect, quasi-entire domain basis functions will be constructed based on specific CMs of an arbitrary antenna element in the array to enhance the efficiency of electromagnetic computation for extremely large-scale periodic arrays without loss of accuracy. \n\nThrough the strict execution of the jointly conceived career development plan, the fellow's competencies will be enhanced in all aspects during the project, including leadership and cooperation skills, teaching and supervisory skills, professional network development as well as professional skills in scientific research. Additionally, mutually beneficial long-term collaborations will be developed and established between the host and the fellow.",
+    "totalCost": "173857,2",
+    "ecMaxContribution": "173857,2",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 173857
+        }
+    },
+    "calculatedTotalContribution": 173857
+}

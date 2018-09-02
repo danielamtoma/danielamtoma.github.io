@@ -1,0 +1,98 @@
+{
+    "rcn": "210220",
+    "acronym": "RED-Alert",
+    "topics": "SEC-12-FCT-2016-2017",
+    "title": "Real-time Early Detection and Alert System for Online Terrorist Content based on Natural Language Processing, Social Network Analysis, Artificial Intelligence and Complex Event Processing",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2020",
+    "objective": "The RED-Alert project will bring data mining and predictive analytics tools to the next level, developing novel natural language processing (NLP), semantic media analysis (SMA), social network analysis (SNA), Complex Event Processing (CEP) and artificial intelligence (AI) technologies. These technologies will be combined for the first time and validated by 6 law enforcement agencies (LEAs) to collect, process, visualize and store online data related to terrorist groups, allowing them to take coordinated action in real-time while preserving the privacy of citizens. \nThe RED-Alert solution will outperform state-of-the-art solutions in terms of number of languages supported, privacy-preserving capabilities, usability, detection performance, real-time capabilities and integration capabilities. The RED-Alert approach combines for the first time the CEP methodology with NLP/SMA and SNA applications in the context of social media data analytics, transforming (unstructured) social media data into (structured) events enhanced by semantic attributes. For example, a tweet will be an event consisting of content (expressed as NLP features e.g. concepts, sentiment, entities, etc.) and context (time and the author including SNA features e.g. number of followers, number of links, etc.). Turning unstructured social media data into structured events is key, as it allows the system to use (event) rules (event temporal logic, event logic patterns, even counting, absence of events) to infer insights or create alerts in real-time.\nThe project impact is supported by the participation of Europol and specific dissemination activities around the World Counter-Terrorism Summit, organized by one of the partners. The total requested EC funding is 5M Euros and the project duration 36 months.",
+    "totalCost": "5064437,5",
+    "ecMaxContribution": "5064437,5",
+    "coordinator": "SIVECO ROMANIA SA",
+    "coordinatorCountry": "RO",
+    "participants": "SERVICIUL DE PROTECTIE SI PAZA;BIRMINGHAM CITY UNIVERSITY;MINISTRY OF PUBLIC SECURITY;INTU-VIEW LTD;MAYOR'S OFFICE FOR POLICING AND CRIME;INFORMATION CATALYST FOR ENTERPRISE LTD;SERVICIUL DE PROTECTIE SI PAZA DE STAT;CITY UNIVERSITY OF LONDON;EOTVOS LORAND TUDOMANYEGYETEM;MAVEN SEVEN SOLUTIONS ZARTKORUEN MUKODO RESZVENYTARSASAG;USATGES BCN 21 SL;MINISTERIO DEL INTERIOR;MALTA INFORMATION TECHNOLOGY LAW ASSOCIATION;INTERDISCIPLINARY CENTER (IDC) HERZLIYA;MINISTERE DE L'INTERIEUR",
+    "participantCountries": "RO;UK;IL;MD;HU;ES;MT;FR",
+    "projectParticipants": {
+        "999842730": {
+            "orgId": "999842730",
+            "orgName": "CITY UNIVERSITY OF LONDON",
+            "ecContrib": 291500
+        },
+        "999896468": {
+            "orgId": "999896468",
+            "orgName": "EOTVOS LORAND TUDOMANYEGYETEM",
+            "ecContrib": 298125
+        },
+        "917669859": {
+            "orgId": "917669859",
+            "orgName": "SERVICIUL DE PROTECTIE SI PAZA DE STAT",
+            "ecContrib": 105000
+        },
+        "937433609": {
+            "orgId": "937433609",
+            "orgName": "SERVICIUL DE PROTECTIE SI PAZA",
+            "ecContrib": 159375
+        },
+        "961558479": {
+            "orgId": "961558479",
+            "orgName": "MINISTRY OF PUBLIC SECURITY",
+            "ecContrib": 240000
+        },
+        "997983337": {
+            "orgId": "997983337",
+            "orgName": "SIVECO ROMANIA SA",
+            "ecContrib": 940312
+        },
+        "926267842": {
+            "orgId": "926267842",
+            "orgName": "MAVEN SEVEN SOLUTIONS ZARTKORUEN MUKODO RESZVENYTARSASAG",
+            "ecContrib": 195000
+        },
+        "999823136": {
+            "orgId": "999823136",
+            "orgName": "MINISTERE DE L'INTERIEUR",
+            "ecContrib": 0
+        },
+        "951927155": {
+            "orgId": "951927155",
+            "orgName": "INTU-VIEW LTD",
+            "ecContrib": 292750
+        },
+        "926056091": {
+            "orgId": "926056091",
+            "orgName": "MALTA INFORMATION TECHNOLOGY LAW ASSOCIATION",
+            "ecContrib": 146250
+        },
+        "919371045": {
+            "orgId": "919371045",
+            "orgName": "USATGES BCN 21 SL",
+            "ecContrib": 621375
+        },
+        "936397940": {
+            "orgId": "936397940",
+            "orgName": "INFORMATION CATALYST FOR ENTERPRISE LTD",
+            "ecContrib": 688000
+        },
+        "999524473": {
+            "orgId": "999524473",
+            "orgName": "MAYOR'S OFFICE FOR POLICING AND CRIME",
+            "ecContrib": 291000
+        },
+        "999827501": {
+            "orgId": "999827501",
+            "orgName": "MINISTERIO DEL INTERIOR",
+            "ecContrib": 212500
+        },
+        "998955374": {
+            "orgId": "998955374",
+            "orgName": "BIRMINGHAM CITY UNIVERSITY",
+            "ecContrib": 243250
+        },
+        "999820323": {
+            "orgId": "999820323",
+            "orgName": "INTERDISCIPLINARY CENTER (IDC) HERZLIYA",
+            "ecContrib": 340000
+        }
+    },
+    "calculatedTotalContribution": 5064437
+}

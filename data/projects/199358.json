@@ -1,0 +1,53 @@
+{
+    "rcn": "199358",
+    "acronym": "GRICAS",
+    "topics": "GALILEO-1-2015",
+    "title": "Galileo MEOSAR RLS Improvement for Better Civil Aviation Security",
+    "startDate": "01/01/2016",
+    "endDate": "30/04/2018",
+    "objective": "Recent drama in civil aviation leading to losses of several aircrafts (AF447, MH370, etcÖ) have shown first an incapacity of quickly dispatching rescue means for potential survivals, and second, a surprising incapacity of determining the position of the aircrafts wreck, generating major researches expenses.\nThis situation led to the creation of a joint RTCA/Eurocae working area in SC229/WG98 group; Its objective: define new solutions to cope with the current situation. It mirrors the ICAO recommendations from the Second High-Level Safety Conference (HLSC 2015) in Montreal. The conference raised key improvement areas and paved the way for the development of an integrated Global Aeronautical Distress and Safety System (GADSS) addressing all the flight phases. Based on these initiatives, a regulation will impose in-flight activations of aircraft S&R beacons for 2021.\nAligned with GADSS perspectives and H2020 Galileo Topic 1, GRICAS proposes to develop a safety concept based on an innovative use of Galileo SAR service for a maximum rescue effectiveness. It includes the development of NG Beacons, innovative MEOLUT that optimizes the position accuracy even for high dynamic beacons, a new RLS employment concept, and associated  In-flight beacon activations triggers when detecting abnormal flight situations. \nBased on key regulation S&R players within the consortium (CNES, BEA, DGAC), GRICAS is a unique opportunity to bring to the fore one of the essential Galileo differentiator compared to other GNSS, e.g. a rich S&R service with a unique Return link service, decisively contributing to the aviation safety. The technological developments are supported by rich In-flight experimentations and demonstrations, relayed by a strategic dissemination plan irrigating the aeronautical regulation ecosystem, as well as the end users (airliners). With the innovations developed in GRICAS, Galileo will get a recognized service differentiator for the European Citizen Safety in aircrafts.",
+    "totalCost": "2783637,5",
+    "ecMaxContribution": "2046984,13",
+    "coordinator": "THALES ALENIA SPACE FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "ELTA;AGENCE POUR LA SECURITE DE LA NAVIGATION AERIENNE EN AFRIQUE ET A MADAGASCAR;PILDO CONSULTING SL;CENTRE NATIONAL D'ETUDES SPATIALES - CNES;AERO CLUB BARCELONA SABADELL;STMICROELECTRONICS SRL",
+    "participantCountries": "FR;SN;ES;IT",
+    "projectParticipants": {
+        "996729127": {
+            "orgId": "996729127",
+            "orgName": "AERO CLUB BARCELONA SABADELL",
+            "ecContrib": 13431
+        },
+        "950012763": {
+            "orgId": "950012763",
+            "orgName": "ELTA",
+            "ecContrib": 381254
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 100275
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 962929
+        },
+        "953609135": {
+            "orgId": "953609135",
+            "orgName": "AGENCE POUR LA SECURITE DE LA NAVIGATION AERIENNE EN AFRIQUE ET A MADAGASCAR",
+            "ecContrib": 160170
+        },
+        "999599163": {
+            "orgId": "999599163",
+            "orgName": "CENTRE NATIONAL D'ETUDES SPATIALES - CNES",
+            "ecContrib": 167956
+        },
+        "998162690": {
+            "orgId": "998162690",
+            "orgName": "PILDO CONSULTING SL",
+            "ecContrib": 260969
+        }
+    },
+    "calculatedTotalContribution": 2046984
+}

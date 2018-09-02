@@ -1,0 +1,38 @@
+{
+    "rcn": "194354",
+    "acronym": "BESIIICGEM",
+    "topics": "MSCA-RISE-2014",
+    "title": "An innovative Cylindrical Gas Electron Multiplier Inner Tracker for the BESIII Spectrometer",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "Inner Trackers (IT) are key detectors in Particle Physics experiments; excellent spatial resolution, radiation transparency and hardness, and operability under high occupancies are main requirements. While planar Gas Electron Multiplier (GEM) detectors are common in modern spectrometers, only one Cylindrical-GEMs (CGEM) detector has been produced up to now by the KLOE2 Collaboration and is being commissioned.\nWe aim to design, build and commission by 2017 a CGEM detector candidate to be the new IT of the BESIII spectrometer, hosted on BEPC2 in IHEP, Beijing; BESIII data taking will last until at least 2020. The IT itself will represent an evolution w.r.t. the state of the art of GEM (and CGEM) detectors, since the use of new kind of supports for the GEM foils will reduce the total radiation length of the detector and improve its tracking performance; an innovative design of the CGEM anode will allow for smaller capacitance and hence for bigger signals.\nThe relatively strong BESIII magnetic field requires a new analogue readout; full custom front-end electronics, including a dedicated ASIC, will be designed and produced for optimal data collection.\nSpecific software will be developed to first simulate, and then reconstruct the CGEM hits to detect reaction products.\nProper benchmark channels will be identified and investigated to maximise the outcome of the project.\nAn existing cloud infrastructure hosting a virtualised grid Tier-2 will be further expanded, providing an advanced environment optimised for scientific computing, suitable to investigate specific tools beyond commercial standards as well.\nThe project could significantly enhance the already established interaction between the participating EU and Chinese Institutions in BESIII, strengthening in particular those technological aspects remained so far in the background of the cooperation, and providing clear deliverables as the CGEM IT, the secondments being the key to knowledge transfer within the network.",
+    "totalCost": "1498500",
+    "ecMaxContribution": "1498500",
+    "coordinator": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "coordinatorCountry": "IT",
+    "participants": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ;UPPSALA UNIVERSITET",
+    "participantCountries": "DE;SE",
+    "projectParticipants": {
+        "998499668": {
+            "orgId": "998499668",
+            "orgName": "INSTITUTE OF HIGH ENERGY PHYSICS CHINESE ACADEMY OF SCIENCES",
+            "ecContrib": 0
+        },
+        "999985029": {
+            "orgId": "999985029",
+            "orgName": "UPPSALA UNIVERSITET",
+            "ecContrib": 171000
+        },
+        "999978627": {
+            "orgId": "999978627",
+            "orgName": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ",
+            "ecContrib": 670500
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 657000
+        }
+    },
+    "calculatedTotalContribution": 1498500
+}

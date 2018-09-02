@@ -1,0 +1,48 @@
+{
+    "rcn": "198830",
+    "acronym": "EUBra-BIGSEA",
+    "topics": "EUB-1-2015",
+    "title": "EUrope-BRAzil Collaboration on BIG Data Scientific REsearch through Cloud-Centric Applications",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2017",
+    "objective": "EUrope-BRAzil Collaboration on BIG Data Scientific REsearch through Cloud-Centric Applications aims at providing services in the cloud for the processing of massive data coming from highly connected societies, which impose multiple challenges on resource provision, performance, Quality of Service and privacy. Processing those data require rapidly provisioned infrastructures customised to Big Data requirements. \nThe three main aims of the proposal will be:\n- The development of innovative Big Data services for capturing, federating and annotating on the order of PB of data on top of efficient programming models. Despite that MapReduce is a successful model in BigData (with a high impact on massive Geo-spatial and textual data), it has many limitations specially when dealing with real-time transactions or streamed data, the proposal would aim to introduce innovative evolutions on the capture, federation & annotation experience it can bring to the table with its partners. \n- The Development of advanced cloud services to support Big Data. This cloud services will address three main challenges: a) the advance on SLAs to support privacy (boundaries of protected data to be moved) and performance restrictions (convenience of moving data to computing resources or vice-versa); b) Quality of Service (vertical and horizontal elastic adjustment of resources allocates to meet deadlines and dynamic adjustment of workloads); and c) Business models (price-based dynamic re-scheduling of data searching for the best usage of resources invested).\n- The demonstration of such services on applications with high social and business impact, addressing main scenarios of high interest for both Europe and Brazil.",
+    "totalCost": "1499625",
+    "ecMaxContribution": "1499625",
+    "coordinator": "UNIVERSITAT POLITECNICA DE VALENCIA",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSIDADE DE COIMBRA;POLITECNICO DI MILANO;TRUST-IT SERVICES LIMITED;FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "PT;IT;UK;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 261688
+        },
+        "999687724": {
+            "orgId": "999687724",
+            "orgName": "TRUST-IT SERVICES LIMITED",
+            "ecContrib": 227938
+        },
+        "999419422": {
+            "orgId": "999419422",
+            "orgName": "FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI",
+            "ecContrib": 276375
+        },
+        "997826391": {
+            "orgId": "997826391",
+            "orgName": "UNIVERSIDADE DE COIMBRA",
+            "ecContrib": 213250
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 238625
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 281750
+        }
+    },
+    "calculatedTotalContribution": 1499626
+}

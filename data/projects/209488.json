@@ -1,0 +1,23 @@
+{
+    "rcn": "209488",
+    "acronym": "SmartCells",
+    "topics": "ERC-2016-COG",
+    "title": "Smart Lab-On-Chips for the Real -Time Control of Cells",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2022",
+    "objective": "Cells are complex, autonomous genetic machines with rich information processing capabilities. Synthetic Biology builds on these properties to design novel, synthetic genetic programs in cells with the aim of benefiting humans. Yet, safety and efficiency issues require creation of synthetic circuits that are reliable over a large range of operating conditions and stable to all sorts of perturbations. This is a tremendous challenge for synthetic biologists, as the robustness of any circuit is limited by their high dependence on the cellular host machinery and the fundamental stochastic nature of gene expression. Taking inspiration from physics and engineering we have imagined a computer-based feedback loop that can remotely, in real-time, control the state of a synthetic genetic program running in cells. Here, we will combine microfluidics, optogenetics, structured illumination, inference methods and control algorithm into such a real time control device of gene expression for yeast cells. We will then study how cells can be controlled at different scales and with increasing levels of complexity from a simple circuit to a simple multicellular ecosystem. Specifically, we aim at:\n\n(1) Understanding the potential and limits of such a control method. We will ask to what extent robust control can be achieved at the single cell level over a broad range of operating conditions.\n(2) Taking control of complex circuits. In particular, we will take control of key genes of the large regulatory network in charge of yeast adaptation to osmotic stress and dissect their roles in setting the mechano-biology properties of yeast.\n(3) Taking control of multicellular systems. We will control the collective dynamics of a population of cells via single cell control at selected locations. \n\nThis framework will establish solid scientific and technological foundations of a novel research area combining physics, engineering and synthetic biology to take control of living systems.",
+    "totalCost": "2198150,99",
+    "ecMaxContribution": "2198150,99",
+    "coordinator": "UNIVERSITE PARIS DIDEROT - PARIS 7",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999865525": {
+            "orgId": "999865525",
+            "orgName": "UNIVERSITE PARIS DIDEROT - PARIS 7",
+            "ecContrib": 2198151
+        }
+    },
+    "calculatedTotalContribution": 2198151
+}

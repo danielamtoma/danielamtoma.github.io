@@ -1,0 +1,83 @@
+{
+    "rcn": "210226",
+    "acronym": "VICTORIA",
+    "topics": "SEC-12-FCT-2016-2017",
+    "title": "Video analysis for Investigation of Criminal and TerrORIst Activities",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "Video recordings have become a major resource for legal investigations. Since no mature video investigation tools are available and trusted by LEAs, investigators still need to carry out the analysis of videos  almost exclusively manually. Current practices are too resource intensive to handle the yet huge and steadily increasing volume of videos that need to be analysed after crimes and terrorist acts. The consequence is that LEAs cannot analyse all available videos because of the huge effort needed, and the extraction of first clues from videos after a terrorist attack takes more time.\nVICTORIA will address this need and deliver a Video Analysis Platform (VAP) that will accelerate video analysis tasks by a factor of 15 to 100 (depending on the use case), while providing very reliable results. \nTo achieve this, VICTORIA will 1) develop a set of TRL-6 video analytics selected for their relevance in video investigation related to crimes and terrorist acts, 2) increase significantly the usability of delivered tools by involving LEAs directly in all stages of the development process, from specifications, over assessment of several VAP prototype versions, up to field trials in LEA operational conditions, 3) create an ecosystem around an open VAP concept, that will facilitate sustainable innovation and market growth for video investigation products, 4) train LEA investigators in the use of the VAP, 5) ensure that VICTORIA activities and results meet EU Legal-Ethical-Privacy rules. \nThe VAP will have a scalable architecture based on big data technologies, feature new user interface paradigms allowing complex semantic  investigation queries and 4D crime scene reconstruction, be adaptable to specific user needs,  and be future proof thanks to an open analytics plug-in feature, based on standardized interfaces and open to third party suppliers. \nThe consortium includes 4 LEAs, 6 renowned research groups, 2 SMEs and 2 industrial companies, world-leaders in security markets.",
+    "totalCost": "5007125",
+    "ecMaxContribution": "5007125",
+    "coordinator": "IDEMIA IDENTITY & SECURITY FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "SERVICIUL DE PROTECTIE SI PAZA;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;THALES COMMUNICATIONS & SECURITY SAS;MANZALAB;ARTTIC;MINISTERIO DEL INTERIOR;UNIVERSITAT KONSTANZ;UNIVERSITAT POLITECNICA DE VALENCIA;UNIVERSITE PAUL SABATIER TOULOUSE III;KATHOLIEKE UNIVERSITEIT LEUVEN;MINISTERE DE L'INTERIEUR;HOME OFFICE",
+    "participantCountries": "RO;AT;DE;FR;ES;BE;UK",
+    "projectParticipants": {
+        "937433609": {
+            "orgId": "937433609",
+            "orgName": "SERVICIUL DE PROTECTIE SI PAZA",
+            "ecContrib": 95625
+        },
+        "999766294": {
+            "orgId": "999766294",
+            "orgName": "IDEMIA IDENTITY & SECURITY FRANCE",
+            "ecContrib": 1151488
+        },
+        "999823136": {
+            "orgId": "999823136",
+            "orgName": "MINISTERE DE L'INTERIEUR",
+            "ecContrib": 80625
+        },
+        "999792484": {
+            "orgId": "999792484",
+            "orgName": "ARTTIC",
+            "ecContrib": 722125
+        },
+        "999832351": {
+            "orgId": "999832351",
+            "orgName": "HOME OFFICE",
+            "ecContrib": 161911
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 501562
+        },
+        "999827501": {
+            "orgId": "999827501",
+            "orgName": "MINISTERIO DEL INTERIOR",
+            "ecContrib": 88125
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 202375
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 345499
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 666919
+        },
+        "999851169": {
+            "orgId": "999851169",
+            "orgName": "UNIVERSITE PAUL SABATIER TOULOUSE III",
+            "ecContrib": 340121
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 304000
+        },
+        "999866204": {
+            "orgId": "999866204",
+            "orgName": "UNIVERSITAT KONSTANZ",
+            "ecContrib": 256750
+        }
+    },
+    "calculatedTotalContribution": 4917125
+}

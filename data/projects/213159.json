@@ -1,0 +1,48 @@
+{
+    "rcn": "213159",
+    "acronym": "CLASS",
+    "topics": "ICT-16-2017",
+    "title": "Edge and CLoud Computation: A Highly Distributed Software Architecture for Big Data AnalyticS",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Big data applications processing extreme amounts of complex data are nowadays being integrated with even more challenging requirements such as the need of continuously processing vast amount of information in real-time.\nCurrent data analytics systems are usually designed following two conflicting  priorities to provide (i) a quick and reactive response (referred to as data-in-motion analysis), possibly in real-time based on continuous data flows; or (ii) a thorough and more computationally intensive feedback (referred to as data-at-rest analysis), which typically implies aggregating more information into larger models. Given the apparently incompatible requirements, these approaches have been tackled separately although they provide complementary capabilities.\nCLASS aims to develop a novel software architecture to help big data developers to combine data-in-motion and data-at-rest analysis by efficiently distributing data and process mining along the compute continuum (from edge to cloud) in a complete and transparent way, while providing sound real-time guarantees. CLASS aims at adopting (1) innovative distributed architectures from the high-performance domain; (2) timing analysis methods and energy-efficient parallel architectures from the embedded domain; and (3) data analytics platforms and programming models from the big-data domain.\nThe capabilities of the CLASS framework will be demonstrated on a real smart-city use case, featuring a heavy sensor infrastructure to collect real-time data across a wide urban area, and prototype cars equipped with heterogeneous sensors/actuators, V2I connectivity, and cluster support to present the innovative capabilities to drivers. Representative applications for traffic management and advanced driving assistance domains have been selected to efficiently process very large heterogeneous data streams in real-time, providing innovative services while preparing the technological background for the advent of autonomous vehicles",
+    "totalCost": "3900802,5",
+    "ecMaxContribution": "3900802,5",
+    "coordinator": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "coordinatorCountry": "ES",
+    "participants": "COMUNE DI MODENA;MASERATI SPA;ATOS SPAIN SA;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD;UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA",
+    "participantCountries": "IT;ES;IL",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 747875
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 973190
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 553541
+        },
+        "924504091": {
+            "orgId": "924504091",
+            "orgName": "MASERATI SPA",
+            "ecContrib": 575655
+        },
+        "999840887": {
+            "orgId": "999840887",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA",
+            "ecContrib": 492166
+        },
+        "997624631": {
+            "orgId": "997624631",
+            "orgName": "COMUNE DI MODENA",
+            "ecContrib": 558375
+        }
+    },
+    "calculatedTotalContribution": 3900802
+}

@@ -1,0 +1,33 @@
+{
+    "rcn": "193720",
+    "acronym": "SAT406M",
+    "topics": "GALILEO-2-2014",
+    "title": "An EGNSS application providing an end-to-end solution based on the SAR/Galileo service and particularly using the Return-Link-Message (RLM), to improve the mobility and safety of citizens",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "Developing an improved Personal Locator Beacon (PLB), enhanced MEOLUT and physiological monitoring application providing an end-to-end solution based on the SAR/Galileo service and particularly the unique Return-Link-Service (RLS).\nThe improved PLB is wrist-worn, integrating a 406MHz Cospas-Sarsat compatible beacon and a Digital Selective Calling (DSC) transceiver compatible with marine VHF radios.\nThe enhanced MEOLUT supports increased uplink data throughput. \nThe specific application monitors at the PLB and communicates to the Rescue Coordination Centre (RCC), via the MEOLUT, the userís physiological status. \n\nThe integrated PLB and the enhanced communication will enable operational advantages for increasing the rescue probability, by:\n1. Detecting a mariner's distress call by SAR satellites, and by nearby ships equipped with a DSC radio.\n2. Saving battery power by controlling the PLB transmission power and repetition rate, upon RLS and DSC acknowledgments.\n3. Enabling the RCC and assisting ships to provide rescue suitable to the specific case.\n\nIncreasing the data throughput will be achieved based on a mathematical method patented by Mobit and implemented in its present PLB (SAT406), and with the cooperation of a MEOLUT developer ñ Thales Alenia Space.  \nThis method could pave the way for an enhanced communication protocol between PLB and RCC, facilitating and improving the rescue operation. In the project, the specific application of monitoring and communicating the user's physiological status will be developed by GeoNumerics, an SME specialized in geomatic and navigation algorithms that has developed a ìstochastic graph navigationî method for ìqualitative navigation.î\n\nThe project products are: an innovative PLB to be introduced to the marine market, and MEOLUT enhancing offering added value services for the SAR community and users, potentially becoming standard.",
+    "totalCost": "1426250",
+    "ecMaxContribution": "998375",
+    "coordinator": "MOBIT TELECOM LTD",
+    "coordinatorCountry": "IL",
+    "participants": "GEONUMERICS SL;THALES ALENIA SPACE FRANCE",
+    "participantCountries": "ES;FR",
+    "projectParticipants": {
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 231875
+        },
+        "949599252": {
+            "orgId": "949599252",
+            "orgName": "MOBIT TELECOM LTD",
+            "ecContrib": 672875
+        },
+        "996169922": {
+            "orgId": "996169922",
+            "orgName": "GEONUMERICS SL",
+            "ecContrib": 93625
+        }
+    },
+    "calculatedTotalContribution": 998375
+}

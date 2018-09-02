@@ -1,0 +1,53 @@
+{
+    "rcn": "199593",
+    "acronym": "OCTCHIP",
+    "topics": "ICT-27-2015",
+    "title": "Ophthalmic OCT on a Chip",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "Silicon photonics is expected to leverage-off many of the advances made in CMOS electronics. International R&D efforts in this field have so far been mainly focused on the silicon-on-insulator (SOI) photonic integrated circuit (PIC) technology platform because it is predestined for datacom, high-performance computing and telecom applications. However, SOI based integrated optical waveguides cannot be used for the VIS/NIR <1.1µm wavelength region, which is important for life sciences and health related applications and, thus, offers a huge potential for PIC technology. To this end, a novel CMOS compatible low-loss silicon nitride waveguide based PIC technology platform will be developed in OCTCHIP and directly applied to the a strong business case in the field of optical coherence tomography (OCT) for ophthalmology.\nOCT is a revolutionizing in-vivo 3D imaging technique for non-invasive optical biopsy addressing medical needs with early diagnosis and reduction of healthcare cost. OCT has proven its value primarily in ophthalmology and cardiology but recently also in a variety of other medical fields. However, wide adoption has not taken place due to size and cost limitations as well as non-existence of miniaturized devices. \nThe PIC technology developed in OCTCHIP will make a new generation of OCT systems possible with step-changes in size and cost beyond state-of-the-art. The monolithic integration of silicon nitride optical waveguides, silicon photodiodes and electronics combined with the hybrid integration of a III-V laser source will enable a compact, low-cost and maintenance free solution. OCTCHIP will contribute to radically transform OCT towards widespread adoption in point-of-care diagnostics for the early diagnosis of retinal pathologies, which are leading causes for blindness. \nThe endeavor is strongly driven by company partners with strong expertise in the fields of silicon foundry process technology, miniaturized laser sources, and OCT system integration.",
+    "totalCost": "4897450",
+    "ecMaxContribution": "3997450",
+    "coordinator": "MEDIZINISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "EXALOS AG;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;CARL ZEISS AG;AMS AG;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+    "participantCountries": "CH;AT;DE;IE",
+    "projectParticipants": {
+        "985810419": {
+            "orgId": "985810419",
+            "orgName": "CARL ZEISS AG",
+            "ecContrib": 692500
+        },
+        "989572079": {
+            "orgId": "989572079",
+            "orgName": "EXALOS AG",
+            "ecContrib": 0
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 437585
+        },
+        "999989976": {
+            "orgId": "999989976",
+            "orgName": "MEDIZINISCHE UNIVERSITAET WIEN",
+            "ecContrib": 513125
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 499310
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 674831
+        },
+        "999809459": {
+            "orgId": "999809459",
+            "orgName": "AMS AG",
+            "ecContrib": 1180099
+        }
+    },
+    "calculatedTotalContribution": 3997450
+}

@@ -1,0 +1,33 @@
+{
+    "rcn": "211043",
+    "acronym": "SCONE",
+    "topics": "JTI-CS2-2016-CFP04-LPA-01-19",
+    "title": "Simulations of CrOr and fan broadband NoisE with reduced order modelling",
+    "startDate": "01/09/2017",
+    "endDate": "31/12/2020",
+    "objective": "The prediction of Open Rotor and UHBR Fan broadband noise on realistic configurations is still an open challenge. The two major sources of broadband noise are the trailing edge noise and the wake interaction noise. The first source is related to a strong vortex shedding at the blade trailing edge and the second to the interaction of the front blades wake turbulence with the rear blades leading edge. Up to now, semi-analytic models used in the industry for the prediction of the broadband noise of these two sources are based essentially on turbulence statistics from steady low-resolution simulations which yield to inaccurate results. The SCONE project proposes to improve the Open Rotor and UHBR Fan broadband noise prediction by using high-fidelity Large-Eddy Simulation (LES). The turbulence statistics obtained with this high-fidelity approach will allow to directly compute the noise but also to provide enhanced inputs to improve semi-empirical models. In order to reduce the cost of LES simulations, optimized numerical methods will be developed. Therefore, the SCONE project deals with three objectives: to build improved turbulence statistics data to feed the semi-analytic models by the use of high fidelity CFD methods, to provide validated high-fidelity methods for direct broadband noise computation and to improve existing semi-analytic models. This project will contribute to the development of ëquietí CROR and UHBR engines.",
+    "totalCost": "616267,5",
+    "ecMaxContribution": "600000",
+    "coordinator": "CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L'ESPACE;ECOLE CENTRALE DE LYON",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999940118": {
+            "orgId": "999940118",
+            "orgName": "CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE",
+            "ecContrib": 350000
+        },
+        "999892491": {
+            "orgId": "999892491",
+            "orgName": "INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L'ESPACE",
+            "ecContrib": 150000
+        },
+        "999510311": {
+            "orgId": "999510311",
+            "orgName": "ECOLE CENTRALE DE LYON",
+            "ecContrib": 100000
+        }
+    },
+    "calculatedTotalContribution": 600000
+}

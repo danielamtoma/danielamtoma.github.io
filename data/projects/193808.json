@@ -1,0 +1,28 @@
+{
+    "rcn": "193808",
+    "acronym": "SmartTap",
+    "topics": "ERC-PoC-2014",
+    "title": "Real-Time Monitoring System for Water Quality",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2016",
+    "objective": "Clean drinking water is a critical resource, important for the health and well-being of all humans. Uninterrupted supply of clean drinking water is considered a human right, thus water utilities must monitor and control the water quality following strict European and national regulations. A water contamination event can have a dramatic effect on everyday life, as well as on the local economy. Unfortunately, due to the large-scale and complex nature of water distribution systems, water quality monitoring is sporadic, while contamination events may take days before they are detected. The situation is especially severe in developing countries, where water contamination problems commonly result in hospitalizations, or even deaths, and have a major impact on the quality of life.\n\nThe idea of the proposed proof of concept is to develop the SmartTap system, an intelligent water quality monitoring system that uses spatial and temporal data processing techniques for monitoring the quality of water and detecting any contamination events. The SmartTap is a cyber-physical system comprised of low-cost wireless sensory devices (physical) and smart software (cyber) that are seamlessly integrated so that the software is able to compensate for any inaccuracies in the hardware.  The system is suitable for large or small scale deployments, enabling a sensor network approach for providing effective water quality monitoring to consumers (homes, schools, hospitals, hotels, etc.) and water utilities. The goal is to provide real-time water quality monitoring information to consumers and utilities and to reliably detect any contamination events within 1-2 hours, compared to the current state of several days.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSITY OF CYPRUS",
+    "coordinatorCountry": "CY",
+    "participants": "AQUALLIGENCE LIMITED",
+    "participantCountries": "CY",
+    "projectParticipants": {
+        "999835843": {
+            "orgId": "999835843",
+            "orgName": "UNIVERSITY OF CYPRUS",
+            "ecContrib": 77250
+        },
+        "949182443": {
+            "orgId": "949182443",
+            "orgName": "AQUALLIGENCE LIMITED",
+            "ecContrib": 72750
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

@@ -1,0 +1,33 @@
+{
+    "rcn": "208869",
+    "acronym": "CriticalGZ",
+    "topics": "MSCA-IF-2016",
+    "title": "Critical Slope Gross-Zagier formula and Perrin-Riou's Conjecture",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2019",
+    "objective": "The main objective of this project is to prove a p-adic Gross-Zagier formula for the critical slope p-adic L-functions attached to p-ordinary modular forms. As we will explain in the main body of this proposal, such a formula will lead, among other things, to a full proof of a conjecture of Perrin-Riou (that gives a precise comparison between p-adic Beilinson-Kato elements and Heegner points). \n\nOur approach will rely heavily on the theme of p-adic variation and will consist of three major steps (which, we believe, are independent on their own right): \n\nAs the first step, we would like to interpolate the Heegner cycles associated to modular forms along Coleman families. This has been carried out for p-ordinary forms by Benjamin Howard (and complemented by the work of Francesc Castella, befitting our goals). \n\nThe second step is to carry out a construction of the two-variable p-adic L-function for the base change of a Coleman family (over an affinoid A, say) to the suitable imaginary quadratic field. We note here that such a p-adic L-function over the field of rationals has been constructed by Joel Bellaiche.  \n\nThe third and final step is to prove p-adic Gross-Zagier formulae for individual (p-non-ordinary) members of the family. This has been carried out by S. Kobayashi for weight 2 forms; we aim to provide a generalisation of his work to higher weights.\n\nNoting that p-adic height pairings readily deform well in families (thanks to the work of Denis Benois, in this context), we aim to prove a A-adic Gross-Zagier formula for the cyclotomic derivative of the base change p-adic L-function. This formula, when specialized to weight 2, will yield the desired formula.\n\nIn the duration of this fellowship, we also intend to carry out several projects with our long-term collaborator Antonio Lei. We shall provide a brief account for these in the main body of our proposal.",
+    "totalCost": "152988,04",
+    "ecMaxContribution": "152988",
+    "coordinator": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "KOC UNIVERSITY",
+    "participantCountries": "TR",
+    "projectParticipants": {
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 152988
+        },
+        "992204077": {
+            "orgId": "992204077",
+            "orgName": "PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+            "ecContrib": 0
+        },
+        "999901512": {
+            "orgId": "999901512",
+            "orgName": "KOC UNIVERSITY",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 152988
+}

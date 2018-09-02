@@ -1,0 +1,43 @@
+{
+    "rcn": "198823",
+    "acronym": "PHRESCO",
+    "topics": "ICT-25-2015",
+    "title": "PHotonic REServoir COmputing",
+    "startDate": "01/11/2015",
+    "endDate": "30/04/2019",
+    "objective": "New computing paradigms are required to feed the next revolution in Information Technology. Machines need to be invented that can learn, but also handle vast amount of data. In order to achieve this goal and still reduce the energy footprint of Information and Communication Technology, fundamental hardware innovations must be done. A physical implementation natively supporting new computing methods is required. Most of the time, CMOS is used to emulate e.g. neuronal behavior, and is intrinsically limited in power efficiency and speed.\nReservoir computing (RC) is one of the concepts that has proven its efficiency to perform tasks where traditional approaches fail. It is also one of the rare concepts of an efficient hardware realization of cognitive computing into a specific, silicon-based technology. Small RC systems have been demonstrated using optical fibers and bulk components. In 2014, optical RC networks based integrated photonic circuits were demonstrated. The PHRESCO project aims to bring photonic reservoir computing to the next level of maturity. A new RC chip will be co-designed, including innovative electronic and photonic component that will enable major breakthrough in the field. We will i) Scale optical RC systems up to 60 nodes ii) build an all-optical chip based on the unique electro-optical properties of new materials iii) Implement new learning algorithms to exploit the capabilities of the RC chip.\nThe hardware integration of beyond state-of-the-art components with novel system and algorithm design will pave the way towards a new era of optical, cognitive systems capable of handling huge amount of data at ultra-low power consumption.",
+    "totalCost": "3443592,5",
+    "ecMaxContribution": "2444512",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK;UNIVERSITEIT GENT;IBM RESEARCH GMBH;CENTRALESUPELEC",
+    "participantCountries": "DE;BE;CH;FR",
+    "projectParticipants": {
+        "933906883": {
+            "orgId": "933906883",
+            "orgName": "CENTRALESUPELEC",
+            "ecContrib": 476550
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 598220
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 589992
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 779750
+        }
+    },
+    "calculatedTotalContribution": 2444512
+}

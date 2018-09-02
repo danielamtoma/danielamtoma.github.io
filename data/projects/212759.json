@@ -1,0 +1,23 @@
+{
+    "rcn": "212759",
+    "acronym": "CANCER-DC",
+    "topics": "ERC-2017-STG",
+    "title": "Dissecting Regulatory Networks That Mediate Dendritic Cell Suppression",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Recent advances have shown that therapeutic manipulations of key cell-cell interactions can have dramatic clinical outcomes. Most notable are several early successes in cancer immunotherapy that target the tumor-T cell interface. However, these successes were only partial. This is likely because the few known interactions are just a few pieces of a much larger puzzle, involving additional signaling molecules and cell types. Dendritic cells (DCs), play critical roles in the induction/suppression of T cells. At early cancer stages, DCs capture tumor antigens and present them to T cells. However, in advanced cancers, the tumor microenvironment (TME) disrupts the crosstalk between DCs and T cells. \nWe will take a multi-step approach to explore how the TME imposes a suppressive effect on DCs and how to reverse this hazardous effect. First, we will use single cell RNA-seq to search for genes in aggressive human and mouse ovarian tumors that are highly expressed in advanced tumors compared to early tumors and that encode molecules that suppress DC activity. Second, we will design a set of CRISPR screens to find genes that are expressed in DCs and regulate the transfer of the suppressive signals. The screens will be performed in the presence of suppressive molecules to mimic the TME and are expected to uncover many key genes in DCs biology. We will develop a new strategy to find synergistic combinations of genes to target (named Perturb-comb), thereby reversing the effect of local tumor immunosuppressive signals. Lastly, we will examine the effect of modified DCs on T cell activation and proliferation in-vivo, and on tumor growth.  \nWe expect to find: (1) Signaling molecules in the TME that affect the immune system. (2) New cytokines and cell surface receptors that are expressed in DCs and signal to T cells. (3) New key regulators in DC biology and their mechanisms. (4) Combinations of genes to target in DCs that reverse the TMEís hazardous effects.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

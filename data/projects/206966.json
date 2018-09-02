@@ -1,0 +1,23 @@
+{
+    "rcn": "206966",
+    "acronym": "DisDyn",
+    "topics": "ERC-2016-STG",
+    "title": "Distributed and Dynamic Graph Algorithms and Complexity",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "This project aims to (i) resolve challenging graph problems in distributed and dynamic settings, with a focus on connectivity problems (such as computing edge connectivity and distances), and (ii) on the way develop a systematic approach to attack problems in these settings, by thoroughly exploring relevant algorithmic and complexity-theoretic landscapes. Tasks include\n\n\n- building a hierarchy of intermediate computational models so that designing algorithms and proving lower bounds can be done in several intermediate steps, \n\n- explaining the limits of algorithms by proving conditional lower bounds based on old and new reasonable conjectures, and\n\n- connecting techniques in the two settings to generate new insights that are unlikely to emerge from the isolated viewpoint of a single field.\n\n\nThe project will take advantage from and contribute to the developments in many young fields in theoretical computer science, such as fine-grained complexity and sublinear algorithms. Resolving one of the connectivity problems will already be a groundbreaking result. However, given the approach, it is likely that one breakthrough will lead to many others.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

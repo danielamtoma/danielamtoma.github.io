@@ -1,0 +1,43 @@
+{
+    "rcn": "194169",
+    "acronym": "GEAGAM",
+    "topics": "MSCA-RISE-2014",
+    "title": "Geophysical Exploration using Advanced GAlerkin Methods",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The main objective of this Marie Curie RISE action is to improve and exchange interdisciplinary knowledge on applied mathematics, high performance computing, and geophysics to be able to better simulate and understand the materials composing the Earth's subsurface. This is essential for a variety of applications such as CO2 storage, hydrocarbon extraction, mining, and geothermal energy production, among others. All these problems have in common the need to obtain an accurate characterization of the Earth's subsurface, and to achieve this goal, several complementary areas will be studied, including the mathematical foundations of various high-order Galerkin multiphysics simulation methods, the efficient computer implementation of these methods in large parallel machines and GPUs, and some crucial geophysical aspects such as the design of measurement acquisition systems in different scenarios. \nResults will be widely disseminated through publications, workshops, post-graduate courses to train new researchers, a dedicated webpage, and visits to companies working in the area. In that way, we will perform an important role in technology transfer between the most advanced numerical methods and mathematics of the moment and the area of applied geophysics.",
+    "totalCost": "580500",
+    "ecMaxContribution": "580500",
+    "coordinator": "UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;TOTAL S.A.;BCAM - BASQUE CENTER FOR APPLIED MATHEMATICS;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "FR;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 81000
+        },
+        "998156579": {
+            "orgId": "998156579",
+            "orgName": "BCAM - BASQUE CENTER FOR APPLIED MATHEMATICS",
+            "ecContrib": 157500
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 117000
+        },
+        "999865234": {
+            "orgId": "999865234",
+            "orgName": "UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA",
+            "ecContrib": 180000
+        },
+        "997172126": {
+            "orgId": "997172126",
+            "orgName": "TOTAL S.A.",
+            "ecContrib": 45000
+        }
+    },
+    "calculatedTotalContribution": 580500
+}

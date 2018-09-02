@@ -1,0 +1,118 @@
+{
+    "rcn": "207235",
+    "acronym": "PJ25 XSTREAM",
+    "topics": "SESAR.IR-VLD.Wave1-25-2015",
+    "title": "Cross Border SESAR Trials for Enhanced Arrival Management",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "There are periods during the day when variation in aircraft arrival times combine to exceed the capacity of the destination airport to handle them without incurring airborne delay. Such delay causes increased emissions and noise in the vicinity of the airport, as well as increasing the aircraft operatorís fuel costs. Greater congestion increases the air traffic control workload and can result in less efficient aircraft profiles.\nTo reduce airborne delays near the destination airport and the associated negative effects, two concepts can be used. One is to adjust an aircraftís departure time by holding it on the ground so that its arrival time avoids the predicted peak in arriving traffic. Other methods involve trajectory extension or slowing down an aircraft in flight. This requires the arrival sequence to be calculated earlier than in current operations so that action can be taken early enough to have a meaningful effect.\nThe XSTREAM project will demonstrate the benefits gained through this latter concept. These methods can be used in combination with the former concept, traditionally regarded as a network management action, but refined through the use of arrival management tools. The project will demonstrate the use of arrival management techniques for pre-departure aircraft, the calculation, updating and passing of arrival management actions for airborne aircraft such as target time, time-to-lose/gain, or speed advisory from the destination arrival management system to upstream control units, and the impact of multiple arrival constraints within an Upper Airspace Control unit.\nThe operational demonstrations will be performed upon aircraft arriving at Paris CDG and Orly, London Heathrow and Gatwick, and Zurich. These optimized arrivals will be supported by several en-route Control units, which also will demonstrate how ëmultiple arrival constraintsí can be handled. The project will demonstrate the use of SWIM and remain aligned with engineering standardization work",
+    "totalCost": "5790526,24",
+    "ecMaxContribution": "793878,18",
+    "coordinator": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+    "coordinatorCountry": "FR",
+    "participants": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH;STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;FLUGHAFEN ZURICH AG;SWEDAVIA AB;SKYGUIDE, SA SUISSE POUR LES SERVICES DE LA NAVIGATION AERIENNE CIVILS ET MILITAIRES;FLUGHAFEN MUNCHEN GMBH;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD;AEROPORTS DE PARIS;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;AVINOR AS;INDRA SISTEMAS SA;HEATHROW AIRPORT LIMITED;NATS (EN ROUTE) PUBLIC LIMITED COMPANY;UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY;NAVIAIR;LUFTFARTSVERKET;DFS DEUTSCHE FLUGSICHERUNG GMBH;SCHIPHOL NEDERLAND B.V.",
+    "participantCountries": "AT;NL;CH;SE;DE;BE;HR;FR;NO;ES;UK;IE;DK",
+    "projectParticipants": {
+        "927009019": {
+            "orgId": "927009019",
+            "orgName": "UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY",
+            "ecContrib": 11238
+        },
+        "924128216": {
+            "orgId": "924128216",
+            "orgName": "CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD",
+            "ecContrib": 0
+        },
+        "999936820": {
+            "orgId": "999936820",
+            "orgName": "DFS DEUTSCHE FLUGSICHERUNG GMBH",
+            "ecContrib": 92285
+        },
+        "944977784": {
+            "orgId": "944977784",
+            "orgName": "FLUGHAFEN MUNCHEN GMBH",
+            "ecContrib": 0
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 40565
+        },
+        "968723384": {
+            "orgId": "968723384",
+            "orgName": "HEATHROW AIRPORT LIMITED",
+            "ecContrib": 0
+        },
+        "957080474": {
+            "orgId": "957080474",
+            "orgName": "AEROPORTS DE PARIS",
+            "ecContrib": 0
+        },
+        "998956635": {
+            "orgId": "998956635",
+            "orgName": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH",
+            "ecContrib": 0
+        },
+        "923671249": {
+            "orgId": "923671249",
+            "orgName": "NAVIAIR",
+            "ecContrib": 18088
+        },
+        "928673636": {
+            "orgId": "928673636",
+            "orgName": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+            "ecContrib": 127780
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 0
+        },
+        "984282281": {
+            "orgId": "984282281",
+            "orgName": "SWEDAVIA AB",
+            "ecContrib": 0
+        },
+        "938275375": {
+            "orgId": "938275375",
+            "orgName": "AVINOR AS",
+            "ecContrib": 0
+        },
+        "997542763": {
+            "orgId": "997542763",
+            "orgName": "NATS (EN ROUTE) PUBLIC LIMITED COMPANY",
+            "ecContrib": 106483
+        },
+        "999931388": {
+            "orgId": "999931388",
+            "orgName": "SCHIPHOL NEDERLAND B.V.",
+            "ecContrib": 0
+        },
+        "958184334": {
+            "orgId": "958184334",
+            "orgName": "SKYGUIDE, SA SUISSE POUR LES SERVICES DE LA NAVIGATION AERIENNE CIVILS ET MILITAIRES",
+            "ecContrib": 100662
+        },
+        "999594992": {
+            "orgId": "999594992",
+            "orgName": "FLUGHAFEN ZURICH AG",
+            "ecContrib": 8519
+        },
+        "942346077": {
+            "orgId": "942346077",
+            "orgName": "LUFTFARTSVERKET",
+            "ecContrib": 24697
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 141880
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 121682
+        }
+    },
+    "calculatedTotalContribution": 793879
+}

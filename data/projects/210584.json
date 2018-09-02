@@ -1,0 +1,23 @@
+{
+    "rcn": "210584",
+    "acronym": "VULCAN.ears",
+    "topics": "MSCA-IF-2016",
+    "title": "Volcano-seismic Unsupervised Labelling and ClAssificatioN Embedded in A Real-time Scenario",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2019",
+    "objective": "Volcanic activity has a big impact on the economy and society. Nowadays, volcano monitoring (VM) is mainly based on the analysis of the seismicity, specifically on some type of precursory events (or classes) which appear before an eruption. The variability of the volcano-seismic classes and the increase of the seismicity in a volcano crisis difficult the manual supervised classification carried out by expert technicians to detect an event and assign it to its proper class. Most of the VM observatories demand an automatic Volcano Seismic Recognition (VSR) to quickly detect and analyse the precursory seismicity and to correctly assess the population risk, avoiding human casualties. Nevertheless, only a few VM facilities have their own VSR prototypes designed to monitor their volcanoes.\n\nThe aim of this proposal is to build an automatic VSR system focused on recognising events in unsupervised scenarios, robust enough to be integrated into the VM centre of any volcano, allowing online risk assessment by real-time seismicity analysis. It will be based on state-of-the-art VSR technologies: a) class description by statistical means (structured Hidden Markov Models) and b) Parallel System Architecture (PSA-VSR) composed of specialised recognition channels, each designed to detect and classify events of a given type. To accomplish this goal, two objectives have to be achieved:\n\n1. To build models robust enough, which requires gathering massive data from different types of volcanoes and searching the most efficient way to describe each class.\n2. To maximise the system applicability: the system will be integrated into several VM scenarios and eruption forecasting tools to obtain useful feedback information.\n\nThe interaction between machine learning and volcanology will be the key to build this innovative, long-awaited, standard solution in the VM area: a collaborative framework software able to recognise events from any volcano in real-time.",
+    "totalCost": "180277,2",
+    "ecMaxContribution": "180277,2",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI UDINE",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999899281": {
+            "orgId": "999899281",
+            "orgName": "UNIVERSITA DEGLI STUDI DI UDINE",
+            "ecContrib": 180277
+        }
+    },
+    "calculatedTotalContribution": 180277
+}

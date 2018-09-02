@@ -1,0 +1,23 @@
+{
+    "rcn": "210547",
+    "acronym": "Load Slice Core",
+    "topics": "ERC-2016-ADG",
+    "title": "Load Slice Core: A Power and Cost-Efficient Microarchitecture for the Future",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "The ideal processor building block is a power and cost-efficient core that can maximize the extraction of memory hierarchy parallelism, a combination that neither traditional in-order nor out-of-order cores provide. We propose the Load Slice Core microarchitecture, a restricted out-of-order engine aimed squarely at extracting memory hierarchy parallelism, which, according to preliminary results, delivers a nearly 8 times higher performance per Watt per euro compared to an out-of-order core. \n\nThe overarching objective of this project to fully determine the potential of the Load Slice Core as a key building block for a novel multi-core processor architecture needed in light of both current and future challenges in software and hardware, including variable thread-level parallelism, managed language workloads, the importance of sequential performance, and the quest for significantly improved power and cost efficiency. \n\nWe anticipate significant improvement in multi-core performance within the available power budget and cost by combining chip-level dynamism to cope with variable thread-level parallelism along with the inherent power- and cost-efficient Load Slice Core design. If we are able to demonstrate the true value and potential of the Load Slice Core to address future hardware and software challenges, this project will have a long-lasting impact on the microprocessor industry moving forward.",
+    "totalCost": "2499500",
+    "ecMaxContribution": "2499500",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 2499500
+        }
+    },
+    "calculatedTotalContribution": 2499500
+}

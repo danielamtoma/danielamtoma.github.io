@@ -1,0 +1,53 @@
+{
+    "rcn": "211955",
+    "acronym": "Plan4Res",
+    "topics": "LCE-05-2017",
+    "title": "SYNERGISTIC APPROACH OF MULTI-ENERGY MODELS FOR AN EUROPEAN OPTIMAL ENERGY SYSTEM MANAGEMENT TOOL",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "Plan4RES is a collaborative research and innovation project which aims at developing an end-to-end planning tool to successfully increase the share of renewable energy into the European Energy system without compromising on system reliability. The targeted platform will account for the Pan-European interconnected electricity system, potential synergies with other energy systems, emerging technologies and flexibility resources, providing a fully integrated modelling environment.\nMoving away from a monolithic approach will enable to overcome mathematical and computational challenges. The objective is to strive towards a system where a multiplicity of models, properly organized in a functional hierarchy, synergistically contribute to the analysis of such complex systems. \nTargeting all main stakeholders of the power system, from generation to retail through grid operators, this innovative modelling platform will deliver a full system planning capability while considering a large set of future uncertainties, thus acting as a decision making tool for future investments. Allocation of multi-energy resources, system flexibility, assets portfolio assessment, advanced ancillary services or impact assessment of regulation are among the key features that the tool will deliver.\nThree case studies will provide the necessary validation of the platform, showing the adequacy and relevance of the developed modelling framework, especially key advances included in Plan4Res (multi-energy integration, investment planning under uncertainties, TSO/DSO flexibility Cost integrationÖ) and data base. Those studies, performed on a European scale, will also demonstrate the efficiency of the modelling and solving of the tool. Moreover, the case studies will demonstrate the benefit of using tailored versions of Plan4Res for various stakeholders: multi technology provider, TSO, utility or energy provider.",
+    "totalCost": "3905060",
+    "ecMaxContribution": "3905060",
+    "coordinator": "ELECTRICITE DE FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;CONSORZIO INTERUNIVERSITARIO PER L'OTTIMIZZAZIONE E LA RICERCA OPERATIVA;Konrad-Zuse-Zentrum f¸r Informationstechnik Berlin;CRAY COMPUTER GMBH;SIEMENS AKTIENGESELLSCHAFT",
+    "participantCountries": "UK;DE;IT;CH",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 485385
+        },
+        "996385068": {
+            "orgId": "996385068",
+            "orgName": "CONSORZIO INTERUNIVERSITARIO PER L'OTTIMIZZAZIONE E LA RICERCA OPERATIVA",
+            "ecContrib": 371200
+        },
+        "999926829": {
+            "orgId": "999926829",
+            "orgName": "ELECTRICITE DE FRANCE",
+            "ecContrib": 998500
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 598500
+        },
+        "993316085": {
+            "orgId": "993316085",
+            "orgName": "Konrad-Zuse-Zentrum für Informationstechnik Berlin",
+            "ecContrib": 484688
+        },
+        "999987260": {
+            "orgId": "999987260",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT",
+            "ecContrib": 533888
+        },
+        "917470330": {
+            "orgId": "917470330",
+            "orgName": "CRAY COMPUTER GMBH",
+            "ecContrib": 432900
+        }
+    },
+    "calculatedTotalContribution": 3905061
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "197941",
+    "acronym": "READEX",
+    "topics": "FETHPC-1-2014",
+    "title": "Runtime Exploitation of Application Dynamism for Energy-efficient eXascale computing",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "High Performance Computing (HPC) has become a major instrument for many scientific and industrial fields to generate new insights and product developments. There is a continuous demand for growing compute power, leading to a constant increase in system size and complexity. Efficiently utilizing the resources provided on Exascale systems will be a challenging task, potentially causing a large amount of underutilized resources and wasted energy. Parameters for adjusting the system to application requirements exist both on the hardware and on the system software level but are mostly unused today. Moreover, accelerators and co-processors offer a significant performance improvement at the cost of increased overhead, e.g., for data-transfers.\nWhile HPC applications are usually highly compute intensive, they also exhibit a large degree of dynamic behaviour, e.g., the alternation between communication phases and compute kernels. Manually detecting and leveraging this dynamism to improve energy-efficiency is a tedious task that is commonly neglected by developers. However, using an automatic optimization approach, application dynamism can be detected at design-time and used to generate optimized system configurations. A light-weight run-time system will then detect this dynamic behaviour in production and switch parameter configurations if beneficial for the performance and energy-efficiency of the application. The READEX project will develop an integrated tool-suite and the READEX Programming Paradigm to exploit application domain knowledge, together achieving an improvement in energy-efficiency of up to 22.5%.\nDriven by a consortium of European experts from academia, HPC resource providers, and industry, the READEX project will develop a tools-aided methodology to exploit the dynamic behaviour of applications to achieve improved energy-efficiency and performance. The developed tool-suite will be efficient and scalable to support current and future extreme scale systems.",
+    "totalCost": "3534198,75",
+    "ecMaxContribution": "3534198,75",
+    "coordinator": "TECHNISCHE UNIVERSITAET DRESDEN",
+    "coordinatorCountry": "DE",
+    "participants": "VYSOKA SKOLA BANSKA - TECHNICKA UNIVERZITA OSTRAVA;NATIONAL UNIVERSITY OF IRELAND GALWAY;TECHNISCHE UNIVERSITAET MUENCHEN;GNS MBH GESELLSCHAFT FUR NUMERISCHE SIMULATION MBH;INTEL CORPORATION SAS;NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+    "participantCountries": "CZ;IE;DE;FR;NO",
+    "projectParticipants": {
+        "935079225": {
+            "orgId": "935079225",
+            "orgName": "GNS MBH GESELLSCHAFT FUR NUMERISCHE SIMULATION MBH",
+            "ecContrib": 228524
+        },
+        "999868144": {
+            "orgId": "999868144",
+            "orgName": "VYSOKA SKOLA BANSKA - TECHNICKA UNIVERZITA OSTRAVA",
+            "ecContrib": 457500
+        },
+        "999978045": {
+            "orgId": "999978045",
+            "orgName": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+            "ecContrib": 451250
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 657750
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 541750
+        },
+        "999977851": {
+            "orgId": "999977851",
+            "orgName": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+            "ecContrib": 706800
+        },
+        "969251355": {
+            "orgId": "969251355",
+            "orgName": "INTEL CORPORATION SAS",
+            "ecContrib": 490625
+        }
+    },
+    "calculatedTotalContribution": 3534199
+}

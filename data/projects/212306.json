@@ -1,0 +1,23 @@
+{
+    "rcn": "212306",
+    "acronym": "QUNNECT",
+    "topics": "ERC-2017-STG",
+    "title": "A Fiber Optic Transceiver for Superconducting Qubits",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Many researchers in basic science and large IT companies are convinced that superconducting quantum processors will soon help solve complex problems faster, improve optimization and simulation, and boost the progress in artificial intelligence. A worldwide quantum web is the next logical step. It would not only improve communication security, it represents the key to unlock the full potential of the new quantum-computing paradigm. \n\nUnfortunately, research in optical quantum networks and superconducting devices has progressed largely independently so far. While superconducting qubits are ideally suited for on-chip integration and fast processing, they are problematic for quantum communication. In fact, no solution exists to connect remote qubits via a room temperature link. The small energy scales in the electrical circuit make the fragile information carriers (single microwave photons) susceptible to interference, thermal noise and losses, which has hindered any significant progress in this direction. \n\nOnly just now we have gained sufficient insight into low loss materials, the required fabrication technology, and the precision measurement techniques necessary to bridge the two worlds, by controlling individual photons and phonons quantum coherently. We propose to integrate silicon photonics for low-loss fiber optic communication with superconducting circuits for quantum processing on a single microchip. As intermediary transducer we will focus on two approaches: (1) quantum ground state cooled nanoscale mechanical and (2) low-loss electro-optic nonlinear circuit elements. The novelty of our approach is the tight on-chip integration facilitated by the PIs interdisciplinary background in both, superconducting circuits and silicon nanophotonics. Integration will be the key for realizing a low-loss and high-bandwidth transceiver, for preparing remote entanglement of superconducting qubits, and for extending the range of current fiber optic quantum networks.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "Institute of Science and Technology Austria",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "996479740": {
+            "orgId": "996479740",
+            "orgName": "Institute of Science and Technology Austria",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

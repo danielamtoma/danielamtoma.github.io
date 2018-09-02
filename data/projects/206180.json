@@ -1,0 +1,58 @@
+{
+    "rcn": "206180",
+    "acronym": "CResPace",
+    "topics": "FETPROACT-01-2016",
+    "title": "Adaptive Bio-electronics for Chronic Cardiorespiratory Disease",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "This consortium will pioneer disruptive technology for bio-electronic medicine to provide much needed therapies for cardiorespiratory and functional neurological disease. The technology implements small neural networks known as central pattern generators (CPG) to deliver fit-and-forget bio-electronic implants that respond to physiological feedback in real time, are safer, simpler, non-invasive, and have autonomy exceeding the patient lifespan.  Multichannel neurons will be made to compete on analogue chips to obtain flexible motor sequences underpinned by a wide parameter space.  By building large scale nonlinear optimization tools and using them to assimilate electrophysiological data, we will develop a method for automatically finding the network parameters that accurately reproduce biological motor sequences and their adaptation to multiple physiological inputs.  In this way, we will have resolved the issue of programming analogue CPGs which has long been the obstacle to using neural chips in medicine.  An adaptive pacemaker will be constructed, tested, validated and trialled on animal models of atrio-ventricular block and left bundle branch block to demonstrate the benefits of heart rate adaptation, beat-to-beat cardiac resynchronization and respiratory sinus arrhythmia.  By providing novel therapy for arrhythmias, heart failure and their comorbidities such as sleep apnoea and hypertension, CResPace will extend patientsí life and increase quality of life.",
+    "totalCost": "4944347,5",
+    "ecMaxContribution": "4944347,5",
+    "coordinator": "UNIVERSITY OF BATH",
+    "coordinatorCountry": "UK",
+    "participants": "MEDIZINISCHE UNIVERSITAET WIEN;FAKULTNI NEMOCNICE U SV. ANNY V BRNE;UNIVERSITAT ZURICH;UNIVERSITAIR MEDISCH CENTRUM UTRECHT;MICROSEMI SEMICONDUCTOR LIMITED;UNIVERSITY OF BRISTOL;MEDTRONIC BAKKEN RESEARCH CENTER B.V.",
+    "participantCountries": "AT;CZ;CH;NL;UK",
+    "projectParticipants": {
+        "999584613": {
+            "orgId": "999584613",
+            "orgName": "MEDTRONIC BAKKEN RESEARCH CENTER B.V.",
+            "ecContrib": 550000
+        },
+        "999915189": {
+            "orgId": "999915189",
+            "orgName": "UNIVERSITAIR MEDISCH CENTRUM UTRECHT",
+            "ecContrib": 490625
+        },
+        "999842924": {
+            "orgId": "999842924",
+            "orgName": "UNIVERSITY OF BATH",
+            "ecContrib": 1548936
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 431669
+        },
+        "994491822": {
+            "orgId": "994491822",
+            "orgName": "FAKULTNI NEMOCNICE U SV. ANNY V BRNE",
+            "ecContrib": 102250
+        },
+        "999586844": {
+            "orgId": "999586844",
+            "orgName": "MICROSEMI SEMICONDUCTOR LIMITED",
+            "ecContrib": 403125
+        },
+        "999989976": {
+            "orgId": "999989976",
+            "orgName": "MEDIZINISCHE UNIVERSITAET WIEN",
+            "ecContrib": 584375
+        },
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 833368
+        }
+    },
+    "calculatedTotalContribution": 4944348
+}

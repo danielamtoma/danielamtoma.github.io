@@ -1,0 +1,23 @@
+{
+    "rcn": "212260",
+    "acronym": "IntScOmics",
+    "topics": "ERC-2016-ADG",
+    "title": "A single-cell genomics approach integrating gene expression, lineage, and physical interactions",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "From populations of unicellular organisms to complex tissues, cell-to-cell variability in phenotypic traits seems to be universal. To study this heterogeneity and its biological consequences, researchers have used advanced microscopy-based approaches that provide exquisite spatial and temporal resolution, but these methods are typically limited to measuring a few properties in parallel. On the other hand, next generation sequencing technologies allow for massively parallel genome-wide approaches but have, until recently, relied on studying population averages obtained from pooling thousands to millions of cells, precluding genome-wide analysis of cell-to-cell variability. Very excitingly, in the last few years there has been a revolution in single-cell sequencing technologies allowing genome-wide quantification of mRNA and genomic DNA in thousands of individual cells leading to the convergence of genomics and single-cell biology. However, during this convergence the spatial and temporal information, easily accessed by microscopy-based approaches, is often lost in a single-cell sequencing experiment. The overarching goal of this proposal is to develop single-cell sequencing technology that retains important aspects of the spatial-temporal information. In particular I will focus on integrating single-cell transcriptome and epigenome measurements with the physical cell-to-cell interaction network (spatial information) and lineage information (temporal information). These tools will be utilized to (i) explore the division symmetry of intestinal stem cells in vivo; (ii) to reconstruct the cell lineage history during zebrafish regeneration; and (iii) to determine lineage relations and the physical cell-to-cell interaction network of progenitor cells in the murine bone marrow.",
+    "totalCost": "2500000",
+    "ecMaxContribution": "2500000",
+    "coordinator": "KONINKLIJKE NEDERLANDSE AKADEMIE VAN WETENSCHAPPEN - KNAW",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999518362": {
+            "orgId": "999518362",
+            "orgName": "KONINKLIJKE NEDERLANDSE AKADEMIE VAN WETENSCHAPPEN - KNAW",
+            "ecContrib": 2500000
+        }
+    },
+    "calculatedTotalContribution": 2500000
+}

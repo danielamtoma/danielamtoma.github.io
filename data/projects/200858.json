@@ -1,0 +1,38 @@
+{
+    "rcn": "200858",
+    "acronym": "OptiFrame",
+    "topics": "Sesar-09-2015",
+    "title": "An Optimization Framework for Trajectory Based Operations",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "This document describes the research to be undertaken by the project OptiFrame ñ ìAn Optimization Framework for Trajectory Based Operationsî - funded by the EU call  ìSESAR 2020 Exploratory Research: First Call for Research Projectî, research topic ìTrajectory Based Operations (TBO)î (ER-09-2015), within the area ìATM Applications-Oriented Researchî. The project consortium comprises University of Lancaster (Project Coordinator), the Consorzio Futuro in Ricerca, Eurocontrol and the Stichting Nationaal Lucht- en Ruimtevaartlaboratorium (NLR).\n\nOptiFrame is motivated by the need of studying a number of fundamental questions related to TBO, a key element of future ATM operating concepts.\n\nThe main objective of this research proposal is the application of principles of mathematical modelling and optimization to optimally configure and assess the performance of the TBO concept. This will allow to verify the viability of the TBO concept, to identify the major issues that need to be addressed, and determine whether, under which conditions, and to what extent, the objectives of flexibility of airspace users and predictability of the ATM system, can be achieved. \n\nThe core activity and focus of this proposal is the development of a framework, which consists of mathematical models and optimization algorithms, ìto support the ATFCM decision making processî by suggesting optimal TBO solutions. The framework will be applied in real world instances,  and it  will be used to perform a wide array of analyses. We will use  OptiFrame as a tool  to: i) investigate  several of the issues and questions arising for the exploitation and deployment of the TBO concept, ii) fully understand the benefits and limitations of the TBO approach, and iii) study the trade-off  between different contrasting KPIs relevant for the TBO concept.",
+    "totalCost": "857241,25",
+    "ecMaxContribution": "727501,25",
+    "coordinator": "LANCASTER UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;CONSORZIO FUTURO IN RICERCA",
+    "participantCountries": "NL;BE;IT",
+    "projectParticipants": {
+        "999587038": {
+            "orgId": "999587038",
+            "orgName": "CONSORZIO FUTURO IN RICERCA",
+            "ecContrib": 113706
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 208625
+        },
+        "999840984": {
+            "orgId": "999840984",
+            "orgName": "LANCASTER UNIVERSITY",
+            "ecContrib": 405170
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 727501
+}

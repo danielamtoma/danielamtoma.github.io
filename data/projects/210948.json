@@ -1,0 +1,23 @@
+{
+    "rcn": "210948",
+    "acronym": "SMARTSOUND",
+    "topics": "ERC-PoC-2016",
+    "title": "Pre-Commercialisation of Sound Recognition for Surveillance Applications",
+    "startDate": "01/09/2017",
+    "endDate": "28/02/2019",
+    "objective": "Audio communication is a major tool for businesses to maintain their competitiveness in the global market. This market is expected to treble by 2020 to $2.145 billion and creates a great demand for novel ideas, such as acoustic pattern recognition technologies. Similarly, the explosion in big data is calling for new data classification methods for improved data indexation and real-time monitoring of the data streams. \n\nWe have developed acoustic pattern classification methods that are able to detect and recognise a large number of different types of sounds in various everyday contexts. Current acoustic monitoring solutions are able to detect only a small number of very prominent sound events (e.g. baby crying, doorbell), and are not able to operate in realistic environments, where other interfering sounds and reverberation is present. In real life sound recognition recordings, we have recently advanced the deep neural network state-of-the-art by a large margin. \nThe advancement of the methods has enabled recognition of new types of sounds in realistic environments, which were considered infeasible just a few years ago, allowing development of novel applications of sound analysis. Weíd expect our technology find its way to various applications, such as 1) surveillance of homes and other buildings for threat detection, 2) navigation, interaction and self-awareness of robots as well as interconnected smart devices, and 3) data indexation operations in video management, just to name few.\n\nWithin this PoC project, we will prove the efficiency of our technology in real life setting. The goals of the PoC project are to establish the technical feasibility of our idea, implement a commercial prototype of the proposed software and establish its commercialisation potential via various activities.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TTY-SAATIO",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "990343811": {
+            "orgId": "990343811",
+            "orgName": "TTY-SAATIO",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

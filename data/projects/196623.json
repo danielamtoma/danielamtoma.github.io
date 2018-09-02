@@ -1,0 +1,68 @@
+{
+    "rcn": "196623",
+    "acronym": "AEROARMS",
+    "topics": "ICT-23-2014",
+    "title": "AErial RObotic system  integrating  multiple ARMS and advanced manipulation capabilities for inspection and maintenance",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2019",
+    "objective": "AEROARMS proposes the development of the first aerial robotic system with multiple arms and advanced manipulation capabilities to be applied in industrial inspection and maintenance (I&M). The objectives are:\n\n1. R&D on aerial manipulation to perform I&M. This  includes:  1.1 Based on previous partner results, developing systems  which are able to grab and dock with one or more arms and perform dexterous accurate manipulation with another arm. Also develop helicopter-based aerial manipulators, with greater payload and flight endurance, and with a dexterous arm to provide  advanced manipulation capabilities by means of force interactions and hand-eye coordination using a movable camera with another light arm; 1.2 New methods and technologies for platforms which can fly and manipulate with the coordinated motion of the arms addressing constrained scenarios in which it is dangerous to use the helicopter and where it is not possible to grab to perform I&M operation.\n\n2. Validation of 1.1  in two applications: 1) Installation and maintenance of permanent NDT sensors on remote components; 2) Deploy and maintain a mobile robotic system permanently installed on a remote structure. \n\nTo achieve the above objectives AEROARMS will develop the first aerial telemanipulation system with advanced haptic capabilities able to exert significant forces with an industrial robotic arm, as well as autonomous control, perception and planning capabilities. Special attention will be paid to the design and system development in order to receive future certification taking into account ATEX and RPAS regulations.\n\nAEROARMS is strongly related to ICT 23ñ2014: Robotics enabling the emergence of aerial robots, with manipulation capabilities to operate in industrial I&M, which will be validated in in oil and gas plants to reach TRL5.\n\nThe consortium combines excellent capabilities in aerial robotics with leadership in aerial manipulation and key partners for the successful application of I&M.",
+    "totalCost": "5719602,5",
+    "ecMaxContribution": "4722852",
+    "coordinator": "UNIVERSIDAD DE SEVILLA",
+    "coordinatorCountry": "ES",
+    "participants": "C.R.E.A.T.E. CONSORZIO DI RICERCA PER L'ENERGIA L AUTOMAZIONE E LE TECNOLOGIE DELL'ELETTROMAGNETISMO;FUNDACION ANDALUZA PARA EL DESARROLLO AEROESPACIAL;ELEKTRA SOLAR GMBH;SENSIMA INSPECTION SARL;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;UNIVERSITAT POLITECNICA DE CATALUNYA;GE INSPECTION ROBOTICS AG;TUV NORD SYSTEMS GMBH & CO KG;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "IT;ES;DE;CH;FR",
+    "projectParticipants": {
+        "992244041": {
+            "orgId": "992244041",
+            "orgName": "GE INSPECTION ROBOTICS AG",
+            "ecContrib": 0
+        },
+        "940772931": {
+            "orgId": "940772931",
+            "orgName": "ELEKTRA SOLAR GMBH",
+            "ecContrib": 296225
+        },
+        "941685119": {
+            "orgId": "941685119",
+            "orgName": "TUV NORD SYSTEMS GMBH & CO KG",
+            "ecContrib": 473375
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 583721
+        },
+        "998189850": {
+            "orgId": "998189850",
+            "orgName": "FUNDACION ANDALUZA PARA EL DESARROLLO AEROESPACIAL",
+            "ecContrib": 693400
+        },
+        "952891044": {
+            "orgId": "952891044",
+            "orgName": "SENSIMA INSPECTION SARL",
+            "ecContrib": 0
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 563881
+        },
+        "954718427": {
+            "orgId": "954718427",
+            "orgName": "C.R.E.A.T.E. CONSORZIO DI RICERCA PER L'ENERGIA L AUTOMAZIONE E LE TECNOLOGIE DELL'ELETTROMAGNETISMO",
+            "ecContrib": 561500
+        },
+        "999862518": {
+            "orgId": "999862518",
+            "orgName": "UNIVERSIDAD DE SEVILLA",
+            "ecContrib": 699500
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 851250
+        }
+    },
+    "calculatedTotalContribution": 4722852
+}

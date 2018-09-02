@@ -1,0 +1,38 @@
+{
+    "rcn": "193684",
+    "acronym": "R2RAM",
+    "topics": "COMPET-06-2014",
+    "title": "Radiation Hard Resistive Random-Access Memory",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2016",
+    "objective": "The project aims to realize a strong methodology for the development and design of a radiation hard non-volatile memory technology by using standard CMOS silicon processing. Since standard silicon memories, such as flash memories tend to fail under irradiation, a new approach is envisaged: the development of a specific memory technology, so called resistive random-access memory (RRAM), which is able to sustain heavy ions and other charged particles. The switching effect of RRAM devices is caused by chemical Redox-reactions, therefore, radiation effects like total ionizing dose and single event effects donít affect the switching mechanism.\nSemiconductor memories, among rad hard integrated circuit scenario, are one of the most critical topics for space applications. Actually both volatile and nonvolatile memories, excluding few exceptions, are integrated using standard processes and standard architectures. This means that the final device is typically at least Rad tolerant and not Rad Hard and failure during mission is avoided using Error Correcting Code techniques including redundancy at the board level. The basic goal of the project is to give a methodology for the development of a new rad-hard nonvolatile RRAM memory with high-performance features like good retention, re-programmability and cycling, and realize a prototype (1Mbit RRAM memory) in order to validate the approach.",
+    "totalCost": "1039362,5",
+    "ecMaxContribution": "1039362,5",
+    "coordinator": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+    "coordinatorCountry": "DE",
+    "participants": "JYVASKYLAN YLIOPISTO;REDCAT DEVICES SRL;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LA NANOELETTRONICA",
+    "participantCountries": "FI;IT",
+    "projectParticipants": {
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 400312
+        },
+        "999659885": {
+            "orgId": "999659885",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LA NANOELETTRONICA",
+            "ecContrib": 195000
+        },
+        "994115947": {
+            "orgId": "994115947",
+            "orgName": "REDCAT DEVICES SRL",
+            "ecContrib": 349850
+        },
+        "999842245": {
+            "orgId": "999842245",
+            "orgName": "JYVASKYLAN YLIOPISTO",
+            "ecContrib": 94200
+        }
+    },
+    "calculatedTotalContribution": 1039362
+}

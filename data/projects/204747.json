@@ -1,0 +1,23 @@
+{
+    "rcn": "204747",
+    "acronym": "SHAPE",
+    "topics": "ERC-CoG-2015",
+    "title": "Shape Understanding: On the Perception of Growth, Form and Process",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2021",
+    "objective": "Whenever we look at an object, we can effortlessly infer many of its physical and functional properties from its shape and our previous experience with other objects. We can judge whether it is flexible or fragile; stable or likely to tumble; what might have happened to it in the past (e.g. a crushed can or bitten apple); and can even imagine how other members of the same object class might look. These high-level inferences are evidence of sophisticated visual and cognitive processes that derive behaviorally significant information about objects from their 3D shapeóa process we call 'Shape Understanding'. Despite its obvious importance to everyday life, practically nothing is known about how the brain uses shape to infer the properties, origin or behavior of objects. The goal of this project is to develop a radically new interdisciplinary field to uncover how the brain 'makes sense of shape'. We suggest that when we view novel objects, the brain uses perceptual organization mechanisms to infer a primitive 'generative model' describing the processes that gave the shape its key characteristics. We seek to identify the psychological and computational processes that enable the brain to parse and interpret shape this way. To achieve this, we unite ideas and methods from surface perception, morphogenesis, geometry, computer graphics, naÔve physics and concept learning. We will simulate physical processes that create and modify 3D forms (e.g. biological growth, fluid flow, ductile fracture). We will use the resulting shapes as stimuli in experiments in which observers must identify key shape features, recognize transformations that have been applied to shapes, or predict the likely shape of other exemplars from the same object class. We will then model subjects' performance by geometrically analyzing shapes to find cues to the underlying shape-forming processes. These cues will be combined to infer generative models using inference techniques from machine learning.",
+    "totalCost": "1950725",
+    "ecMaxContribution": "1950725",
+    "coordinator": "JUSTUS-LIEBIG-UNIVERSITAET GIESSEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999840111": {
+            "orgId": "999840111",
+            "orgName": "JUSTUS-LIEBIG-UNIVERSITAET GIESSEN",
+            "ecContrib": 1950725
+        }
+    },
+    "calculatedTotalContribution": 1950725
+}

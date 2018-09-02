@@ -1,0 +1,23 @@
+{
+    "rcn": "212699",
+    "acronym": "BANDWIDTH",
+    "topics": "ERC-2017-STG",
+    "title": "The cost of limited communication bandwidth in distributed computing",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2023",
+    "objective": "Distributed systems underlie many modern technologies, a prime example being the Internet. The ever-increasing abundance of distributed systems necessitates their design and usage to be backed by strong theoretical foundations.\n\nA major challenge that distributed systems face is the lack of a central authority, which brings many aspects  of uncertainty into the environment, in the form of unknown network topology or unpredictable dynamic behavior. A practical restriction of distributed systems, which is at the heart of this proposal, is the limited bandwidth available for communication between the network components.\n\nA central family of distributed tasks is that of local tasks, which are informally described as tasks which are possible to solve by sending information through only a relatively small number of hops. A cornerstone example is the need to break symmetry and provide a better utilization of resources, which can be obtained by the task of producing a valid coloring of the nodes given some small number of colors. Amazingly, there are still huge gaps between the known upper and lower bounds for the complexity of many local tasks. This holds even if one allows powerful assumptions of unlimited bandwidth. While some known algorithms indeed use small messages, the complexity gaps are even larger compared to the unlimited bandwidth case. This is not a mere coincidence, and in fact the existing theoretical infrastructure is provably incapable of\ngiving stronger lower bounds for many local tasks under limited bandwidth.\n\nThis proposal zooms in on this crucial blind spot in the current literature on the theory of distributed computing, namely, the study of local tasks under limited bandwidth. The goal of this research is to produce fast algorithms for fundamental distributed local tasks under restricted bandwidth, as well as understand their limitations by providing lower bounds.",
+    "totalCost": "1486480",
+    "ecMaxContribution": "1486480",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 1486480
+        }
+    },
+    "calculatedTotalContribution": 1486480
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "203417",
+    "acronym": "SYSDYNET",
+    "topics": "ERC-ADG-2015",
+    "title": "Data-driven Modelling in Dynamic Networks",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Dynamic models play a key role in many branches of science. In engineering they have a paramount role in model-based simulation, monitoring, control and optimization. The accuracy of the models is key to their subsequent use in model-based operations. With the growing spatial complexity of engineering systems, e.g., in power networks, transportation networks and industrial production systems, also referred to as cyber-physical systems of systems, there is a strong need for effective modelling tools for dynamic networks, being considered as interconnected dynamic systems, whose spatial topology may change over time. \n\nData-driven modelling and statistical parameter estimation are established fields for estimating models of dynamical systems on the basis of measurement data from dedicated experiments. The currently available methods, however, are limited to relatively simple structures, as open-loop or closed-loop (controlled) system configurations.\n\nIn this project I will make the fundamental step towards data-driven modelling (identification) methods for dynamic networks by developing a comprehensive theory with the target to identify local dynamical models as well as the interconnection structure of the network. I will incorporate the selection of sensing and excitation locations, data synchronization, and the optimal accuracy of estimated models in view of their use for distributed control. \nSolving these problems is by far beyond the current abilities of the existing identification frameworks in the systems and control community. My internationally recognized expertise in the field of system identification and model-based control, together with recent work on dynamic networks, warrants the feasibility of the project.\nIdentification methods for dynamic networks will become essential tools in the high-level future ICT environment for monitoring, control and optimization of these cyber-physical systems of systems, as well as in many other domains of science.",
+    "totalCost": "2499690",
+    "ecMaxContribution": "2499690",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 2499690
+        }
+    },
+    "calculatedTotalContribution": 2499690
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "211931",
+    "acronym": "WhiskTrackGP",
+    "topics": "ERC-2017-PoC",
+    "title": "Real-time tracking of whisker kinematics for closed-loop neuroscientific experiments",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2018",
+    "objective": "We study the sensorimotor adaptation in the cerebellum with the whiskers of the mouse as a model system. The whiskers are a sophisticated sensorimotor apparatus with which the mouse actively profiles its immediate 3D environment by swiftly whisking. To estimate distances, orientation and texture of its surroundings, the mouse uses a ëmaximum contact, minimum penetrationí scheme, with sensorimotor decisions taking place within as little as 10 ms. This scheme imposes the main experimental challenge to whisker-based studies: hair-like structures moving at high speeds need to be tracked accurately to ascribe whisker motion to cerebellar function. In order to capture the motion of the whiskers accurately, high-speed image acquisition at high frame rates (ca. 1000 fps) is required. On account of the paradigms developed to relate neural activity to whisker behavior, high-throughput and real-time whisker tracking are required. We have evaluated all presently available whisker-tracking tools that delivered the desired kinematics of whisker behavior. However, all have failed in terms of computational time and/or acquisition frequency, which rendered them unsuited both for offline use and for real-time applications. To address these limitations, we propose the commercialization of WhiskTrackGP, a high-performance image-acquisition and -processing platform for bleeding-edge neuroscientific experiments on behavior. WhiskTrackGP is a hardware-software platform that can recognize the kinematics of multiple whiskers simultaneously with minimal intervention from the experimenter. It is realized as powerful whisker-tracking software ported on a special hardware platform based on NVidia GP-GPUs and Maxeler Dataflow-Engines. We demonstrate accelerated offline video analysis in the order of 10000x (from an original processing time of 9.4 sec down to 0.9 msec). WhiskTrackGP comprises a ìone-stop shopî solution for labs and companies active in the field of behavioral studies.",
+    "totalCost": "149938",
+    "ecMaxContribution": "149938",
+    "coordinator": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999988424": {
+            "orgId": "999988424",
+            "orgName": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+            "ecContrib": 149938
+        }
+    },
+    "calculatedTotalContribution": 149938
+}

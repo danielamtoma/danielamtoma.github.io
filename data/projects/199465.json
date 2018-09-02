@@ -1,0 +1,23 @@
+{
+    "rcn": "199465",
+    "acronym": "MULTISCALE",
+    "topics": "ERC-StG-2015",
+    "title": "Precision Multi-Scale Predictions for the LHC: Higgs, Jets and Supersymmetry",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "My project will boost the precision of theoretical predictions for collisions at the Large Hadron Collider. Precise predictions are crucial to further constrain the properties of the recently-discovered Higgs boson, and uncover a faint signal of Beyond-the-Standard Model physics. I will focus on the strong interactions, which dominate the theoretical uncertainty and play a role at multiple energy scales, including those related to the incoming protons, the hard scattering, the masses of (new) particles, the transverse momentum and size of jets.\n\nThe critical progress of this proposal lies in taking this intrinsically multi-scale nature into account, moving beyond the current trade-off between precision and realism in the three dominant calculational paradigms. Fixed-order calculations are systematically improvable but assume that there is no hierarchy between perturbative scales. Monte Carlo event generators provide a fully exclusive description of the final state, but are currently limited to leading-logarithmic order and lack theoretical uncertainties. Resummed calculations can reach a higher logarithmic accuracy, but have been restricted to single observables. \n\nIn a recent breakthrough, I constructed a new effective field theory that simultaneously achieves higher logarithmic accuracy in two independent observables, by factorizing the physics at the corresponding scales. Moving beyond this prototypical study, I will develop the general effective field theory framework that accounts for the relevant scales in realistic measurements, which overcomes the limitations of all three paradigms. This research will be carried out in the context of several important LHC applications: precision Higgs measurements, jet substructure techniques for identifying boosted heavy particles and  supersymmetry searches. My new field-theoretic insights and more precise predictions will be critical as the LHC starts Run 2, searching for new physics at even higher energies.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "UNIVERSITEIT VAN AMSTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "199105",
+    "acronym": "SBSI",
+    "topics": "ERC-PoC-2015",
+    "title": "Structure-based subwavelength imaging",
+    "startDate": "01/11/2015",
+    "endDate": "30/04/2017",
+    "objective": "Until recently it was believed to be impossible to perform optical imaging with resolution beyond the fundamental resolution limit. However, in the past few years, our team was able to algorithmically enhance the resolution of optical imaging, bringing it to below one fifth of the optical wavelength. This achievement is based on the prior knowledge that the image is ìsparseî, that is, the image can be represented in a compact form in an appropriate mathematical basis. The purpose of this PoC is to develop an algorithmic platform ñ a software demonstration prototype - that would lead to commercialization of two (closely connected) applications:  (1) Improving the resolution of Scanning Electron Microscope (SEM), used in the micro-chip industry for defects detection; (2) Improving high-resolution florescent microscopy (STORM) by reducing the number of exposures (iterations) required.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

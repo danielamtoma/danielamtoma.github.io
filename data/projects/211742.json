@@ -1,0 +1,83 @@
+{
+    "rcn": "211742",
+    "acronym": "ReFreeDrive",
+    "topics": "GV-04-2017",
+    "title": "Rare Earth Free e-Drives featuring low cost manufacturing",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2020",
+    "objective": "The ReFreeDrive project is focused on contributing to avoid the use of rare earth magnets through the development of a next generation of electric drivetrains, ensuring the industrial feasibility for mass production while focusing on the low cost of the manufacturing technologies. \nThis proposal intends to study and develop simultaneously two solutions for the power traction system of electrical vehicles. Both solutions are brushless AC electrical machines: induction machine with fabricated and copper die-cast rotor (IM) and synchronous reluctance (SynRel) machine. Through their configurations these machines not only are rare-earth magnet free, but also share common features that can be exploited during the design step, as well in the manufacturing process. These common features lead to a complex synergy between the two technologies, which justify the development of different topologies of electric machines in just one project.\nThe design of the ReFreeDrive motors will take as a premise the reduction of use of materials, as more than half of the final price is formed by raw materials cost. Also, a minimization of manufacturing costs will be ensured by an early involvement of manufacturers, from the design stage. ReFreeDrive motor topologies have good room for cost reduction by off-setting permanent magnet use. However, it is not feasible to change the commodity prices for copper and steel. Therefore, one of the key avenues for cost reduction is the reduction of size through different techniques (outer rotor, higher rotational speed, compact windingÖ). An optimized use of copper on the project provides technical design with a higher efficiency due to lower losses regards other alternatives, and more efficient heat management.\nBeyond the motor design, ReFreeDrive also consider an integrated design of the power train that allows the optimization of the electric connections, the cooling systems and the housing.",
+    "totalCost": "5999131,25",
+    "ecMaxContribution": "5999131,25",
+    "coordinator": "FUNDACION CIDAUT",
+    "coordinatorCountry": "ES",
+    "participants": "METALLGIESSEREI BREUCKMANN GMBH & CO KG;AURUBIS BELGIUM;PRIVE' SRL;EUROPEAN COPPER INSTITUTE;TECNOMATIC SPA;JAGUAR LAND ROVER LIMITED;R13 TECHNOLOGY SRL;UNIVERSITA DEGLI STUDI DELL'AQUILA;MAVEL SRL;IFP Energies nouvelles;RINA CONSULTING - CENTRO SVILUPPO MATERIALI SPA;MOTOR DESIGN LTD",
+    "participantCountries": "DE;BE;IT;UK;FR",
+    "projectParticipants": {
+        "927703830": {
+            "orgId": "927703830",
+            "orgName": "R13 TECHNOLOGY SRL",
+            "ecContrib": 460000
+        },
+        "952502753": {
+            "orgId": "952502753",
+            "orgName": "METALLGIESSEREI BREUCKMANN GMBH & CO KG",
+            "ecContrib": 245000
+        },
+        "986306380": {
+            "orgId": "986306380",
+            "orgName": "MOTOR DESIGN LTD",
+            "ecContrib": 593325
+        },
+        "953604285": {
+            "orgId": "953604285",
+            "orgName": "PRIVE' SRL",
+            "ecContrib": 705625
+        },
+        "934600239": {
+            "orgId": "934600239",
+            "orgName": "TECNOMATIC SPA",
+            "ecContrib": 431250
+        },
+        "941614018": {
+            "orgId": "941614018",
+            "orgName": "EUROPEAN COPPER INSTITUTE",
+            "ecContrib": 97950
+        },
+        "999859511": {
+            "orgId": "999859511",
+            "orgName": "UNIVERSITA DEGLI STUDI DELL'AQUILA",
+            "ecContrib": 788750
+        },
+        "916924802": {
+            "orgId": "916924802",
+            "orgName": "MAVEL SRL",
+            "ecContrib": 451850
+        },
+        "999993371": {
+            "orgId": "999993371",
+            "orgName": "IFP Energies nouvelles",
+            "ecContrib": 867736
+        },
+        "999647469": {
+            "orgId": "999647469",
+            "orgName": "FUNDACION CIDAUT",
+            "ecContrib": 448125
+        },
+        "986480786": {
+            "orgId": "986480786",
+            "orgName": "JAGUAR LAND ROVER LIMITED",
+            "ecContrib": 473125
+        },
+        "951812113": {
+            "orgId": "951812113",
+            "orgName": "AURUBIS BELGIUM",
+            "ecContrib": 72625
+        },
+        "998453011": {
+            "orgId": "998453011",
+            "orgName": "RINA CONSULTING - CENTRO SVILUPPO MATERIALI SPA",
+            "ecContrib": 363770
+        }
+    },
+    "calculatedTotalContribution": 5999131
+}

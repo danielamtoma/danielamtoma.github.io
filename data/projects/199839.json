@@ -1,0 +1,53 @@
+{
+    "rcn": "199839",
+    "acronym": "PROTEUS",
+    "topics": "ICT-16-2015",
+    "title": "Scalable online machine learning for predictive analytics and real-time interactive visualization",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "PROTEUS mission is to investigate and develop ready-to-use scalable online machine learning algorithms and interactive visualization techniques for real-time predictive analytics to deal with extremely large data sets and data streams. The developed algorithms and techniques will form a library to be integrated into an enhanced version of Apache Flink, the EU Big Data platform. PROTEUS will contribute to the EU Big Data area by addressing fundamental challenges related to the scalability and responsiveness of analytics capabilities. The requirements are defined by a steelmaking industrial use case. The techniques developed in PROTEUS are however, general, flexible and portable to all data stream-based domains. In particular, the project will go beyond the current state-of-art technology by making the following specific original contributions:\ni) Real-time scalable machine learning for massive, high-velocity and complex data streams analytics;\nii) Real-time hybrid computation, batch data and data streams;\niii) Real-time interactive visual analytics for Big Data;\niv) Enhancement of Apache Flink, the EU Big Data platform; and\nv) Real-world industrial validation of the technology developed\nThe PROTEUS impact is manifold: i) strategic, by reducing the gap and dependency from the US technology, empowering the EU Big Data industry through the enrichment of the EU platform Apache Flink; ii) economic, by fostering the development of new skills and new job positions and opportunities towards economic growth; iii) industrial, by considering real-world requirements from industry and by validating the outcome on an operational setting, and iv) scientific, by developing original hybrid and streaming analytic architectures that enable scalable online machine learning strategies and advanced interactive visualisation techniques that are applicable for general data streams in other domains.",
+    "totalCost": "3156525",
+    "ecMaxContribution": "3156525",
+    "coordinator": "TREELOGIC TELEMATICA Y LOGICA RACIONAL PARA LA EMPRESA EUROPEA SL",
+    "coordinatorCountry": "ES",
+    "participants": "Lambdoop Solutions S.L.;TRILATERAL RESEARCH & CONSULTING LLP;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;BOURNEMOUTH UNIVERSITY;TRILATERAL RESEARCH LTD;ARCELORMITTAL INNOVACION INVESTIGACION E INVERSION SL",
+    "participantCountries": "ES;UK;DE",
+    "projectParticipants": {
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 1035750
+        },
+        "954725314": {
+            "orgId": "954725314",
+            "orgName": "ARCELORMITTAL INNOVACION INVESTIGACION E INVERSION SL",
+            "ecContrib": 215625
+        },
+        "999862906": {
+            "orgId": "999862906",
+            "orgName": "BOURNEMOUTH UNIVERSITY",
+            "ecContrib": 500650
+        },
+        "930092261": {
+            "orgId": "930092261",
+            "orgName": "Lambdoop Solutions S.L.",
+            "ecContrib": 542625
+        },
+        "999705281": {
+            "orgId": "999705281",
+            "orgName": "TRILATERAL RESEARCH & CONSULTING LLP",
+            "ecContrib": 0
+        },
+        "996538910": {
+            "orgId": "996538910",
+            "orgName": "TREELOGIC TELEMATICA Y LOGICA RACIONAL PARA LA EMPRESA EUROPEA SL",
+            "ecContrib": 528125
+        },
+        "923930724": {
+            "orgId": "923930724",
+            "orgName": "TRILATERAL RESEARCH LTD",
+            "ecContrib": 333750
+        }
+    },
+    "calculatedTotalContribution": 3156525
+}

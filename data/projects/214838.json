@@ -1,0 +1,17 @@
+{
+    "rcn": "214838",
+    "acronym": "REACT",
+    "topics": "DS-07-2017",
+    "title": "REactively Defending against Advanced Cybersecurity Threats",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2021",
+    "objective": "Security is a vital property for every operational system and network. As systems become more powerful and, in many aspects, more complex, advanced cyber-attacks impose new threats for important operations of our society. Computer systems assist core functions of hospitals, energy centers, logistics, and communications, to name a few, and compromising such systems may have severe consequences for everyone of us. Despite the evolution of computer systems, current security defenses-although they have been substantially improved in the last decade-seem not really enough to stop advanced cyber attacks. Systems still suffer from vulnerabilities, despite the many active or passive defenses in place that have been developed in the last decades.\n\nWe believe that the core of this problem is that cyber attackers are almost always one step ahead of the cyber security researchers and practitioners. Indeed, cyber attackers are the first to strike, and while researchers try to figure out what happened, attackers have all the time in the world to plan their next strike. In this project we advocate that we should change the rules of the cyber attackersí game and challenge the asymmetry. Instead of following the cyber attackers, researchers should try to forecast where attackers will strike next and to use this information (i) to fortify potential targets to withstand the attack and (ii) to wire targets up with forensic hooks and make them ìforensics readyî. To make all this possible at a reasonable performance cost, we propose selective fortification, a mechanism that combines traditional passive and active defense approaches into a new reactive mode of operation. We take advantage of our rich background in software hardening and instrumentation for immediate delivering effective patches by selectively armoring the vulnerable part of a program.",
+    "totalCost": "2726461,25",
+    "ecMaxContribution": "2726461,25",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "SYMANTEC (FRANCE);STICHTING VU;RUHR-UNIVERSITAET BOCHUM;EURECOM;UNIVERSITY OF CYPRUS",
+    "participantCountries": "FR;NL;DE;CY",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

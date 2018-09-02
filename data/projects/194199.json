@@ -1,0 +1,73 @@
+{
+    "rcn": "194199",
+    "acronym": "smart-MEMPHIS",
+    "topics": "ICT-02-2014",
+    "title": "Smart MEMs Piezo based energy Harvesting with Integrated Supercapacitor and packaging",
+    "startDate": "15/12/2014",
+    "endDate": "14/12/2018",
+    "objective": "Smart-MEMPHIS project addresses the increasing demand for low-cost, energy-efficient autonomous systems by focusing on the main challenge for all smart devices - self-powering. The project aims to design, manufacture and test a miniaturized autonomous energy supply based on harvesting vibrational energy with piezo-MEMS energy harvesters. The project will integrate several multi-functional technologies and nanomaterials; lead-zirconate-titanate materials in MEMS-based multi-axis energy harvester, an ultra-low-power ASIC to manage the variations of the frequency and harvested power, a miniaturized carbon-nano material based energy storing supercapacitor, all heterogeneously integrated with new innovative flat panel packaging technologies for cost effective 3D integration verified through manufacturability reviews.\n\nThe performance of the system will be demonstrated in two demanding applications: leadless bio-compatible cardiac pacemaker and wireless sensor networks (WSN) for structure health monitoring (SHM). For the pacemaker, a smart energy autonomous system will accelerate the paradigm shift from costly, burdensome surgical treatments to cost-effective and patient-friendly minimally invasive operations enabled by leadless pacemakers capable of harvesting energy from the heart beats. The key challenges for the energy harvesting arise from the extremely stringent reliability requirements, the low vibrational energies and frequencies and the small size required for a device implanted inside a heart.\n\nWith the 2nd demonstrator the consortium consisting of multi-functional value chain will show a wider applicability for the technologies complementing the medical application. A WSN with acoustic sensor nodes will be demonstrated in SHM applications. SHM enables real-time monitoring of complex structures e.g. survey and detection of micro-cracks for example in composite aircraft wings, bridges or rails, or detection of corrosion or leakage in pipes solving.",
+    "totalCost": "8222065,75",
+    "ecMaxContribution": "8222065,75",
+    "coordinator": "SILEX MICROSYSTEMS AB",
+    "coordinatorCountry": "SE",
+    "participants": "SORIN CRM SAS;SPINVERSE AB;LINKOPINGS UNIVERSITET;RISE ACREO AB;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;aixACCT Systems GmbH;SPINVERSE  OY;VERMON SA;CAIRDAC;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "FR;SE;DE;FI",
+    "projectParticipants": {
+        "888897696": {
+            "orgId": "888897696",
+            "orgName": "LINKOPINGS UNIVERSITET",
+            "ecContrib": 796786
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 1007791
+        },
+        "999696551": {
+            "orgId": "999696551",
+            "orgName": "VERMON SA",
+            "ecContrib": 1013419
+        },
+        "999979791": {
+            "orgId": "999979791",
+            "orgName": "RISE ACREO AB",
+            "ecContrib": 663320
+        },
+        "996694983": {
+            "orgId": "996694983",
+            "orgName": "aixACCT Systems GmbH",
+            "ecContrib": 662750
+        },
+        "990376015": {
+            "orgId": "990376015",
+            "orgName": "SILEX MICROSYSTEMS AB",
+            "ecContrib": 1463000
+        },
+        "999698685": {
+            "orgId": "999698685",
+            "orgName": "SORIN CRM SAS",
+            "ecContrib": 372232
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 1007805
+        },
+        "918047674": {
+            "orgId": "918047674",
+            "orgName": "SPINVERSE AB",
+            "ecContrib": 45000
+        },
+        "999725166": {
+            "orgId": "999725166",
+            "orgName": "SPINVERSE  OY",
+            "ecContrib": 259789
+        },
+        "916859812": {
+            "orgId": "916859812",
+            "orgName": "CAIRDAC",
+            "ecContrib": 930174
+        }
+    },
+    "calculatedTotalContribution": 8222066
+}

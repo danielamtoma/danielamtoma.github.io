@@ -1,0 +1,43 @@
+{
+    "rcn": "213353",
+    "acronym": "EO-ALERT",
+    "topics": "COMPET-3-2017",
+    "title": "Next Generation Satellite Processing Chain for Rapid Civil Alerts",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Earth observation missions nowadays produce enormous amounts of data about the Earth, its resources and human operations. EO data products are fundamental to society, as shown by EC Copernicus, and are one of the cornerstones of what ESA terms Space 4.0, which is expected to transform the lives of citizens, policymakers and businesses in the near future.\n\nCurrent and emerging trends in the EO market, driven by the sharp growth in applications based on EO products, show greater demands in the amount, type and quality of the EO products available to End Users. Data latency is also a key metric, with End Users requiring products in a very short time period, with low latency (NRT) or very low latency.\n\nEO-ALERT addresses the need for increased data chain throughput within the COMPET-3 call. It proposes a fundamentally new approach for the provision of low latency EO data products, which exploits the flight segment processing capabilities and breaks with the traditional sequential EO data chain focused on the raw data transfer to ground. The goal is to develop the next-generation satellite EO data and processing chain, based on a novel system architecture that moves key EO data processing elements from the ground segment to the satellite, with the objective of providing EO products to End User with very low latency (enhanced-NRT).\n\nThis innovative processing and data chain proposed by EO-ALERT is based on the development of key technologies, in particular onboard reconfigurable data handling, onboard optical and SAR image processing, data compression and storage, reconfigurable high rate communications link to ground, and high-speed avionics.\n\nThus, EO-ALERT is perfectly aligned with the goals of the work programme, which calls in particular for technologies for Earth observation in the area of high-speed data chain, to provide high data rates transmission, and significant improvements in EO data throughput by exploring advanced on-board data handling and transfer.",
+    "totalCost": "4774166,25",
+    "ecMaxContribution": "4772000",
+    "coordinator": "DEIMOS SPACE SOCIEDAD LIMITADA UNIPERSONAL",
+    "coordinatorCountry": "ES",
+    "participants": "TECHNISCHE UNIVERSITAET GRAZ;DEIMOS IMAGING SLU;CGS SPA COMPAGNIA GENERALE PER LO SPAZIO;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;POLITECNICO DI TORINO",
+    "participantCountries": "AT;ES;IT;DE",
+    "projectParticipants": {
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 560000
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 549600
+        },
+        "984316425": {
+            "orgId": "984316425",
+            "orgName": "DEIMOS IMAGING SLU",
+            "ecContrib": 139200
+        },
+        "999619824": {
+            "orgId": "999619824",
+            "orgName": "DEIMOS SPACE SOCIEDAD LIMITADA UNIPERSONAL",
+            "ecContrib": 1420600
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 1450000
+        }
+    },
+    "calculatedTotalContribution": 4119400
+}

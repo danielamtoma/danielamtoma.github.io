@@ -1,0 +1,43 @@
+{
+    "rcn": "193469",
+    "acronym": "SWIMing",
+    "topics": "EeB-04-2014",
+    "title": "Semantic Web for Information Management in Energy Efficient Buildings",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2017",
+    "objective": "Energy consumption over the whole Building Life Cycle (BLC) is difficult to monitor and predict due to the complexity of the processes involved. Building Information Modelling (BIM) is a concept which has arisen to address the management and interoperability of the data exchanged between different computer aided tools employed at different stages the BLC, including design, construction, commissioning, operation, refurbishment and demolition. BIM therefore plays a key role in all aspects of energy management across the BLC. The W3C Data Activity makes use of Linked Data, which is a structured form of data storage, distributed across the web, and which is supported by tools to easily query that data. By integrating BIM into the wider web of data, building information can be queried alongside all other Linked Open Data (LOD) sources, which include data on materials and systems (e.g. sensor and state of building devices data) which make up the building, profiles of occupants, and information about weather patterns and regional and global energy prices. Together this information can make for more meaningful analysis of energy consumption and its relation to the localised costs of materials, systems and personnel in existing and future buildings. Therefore, by using BIM and LOD technologies EeB projects will be better able to exploit their results beyond their own particular stage in the BLC and as a result benefit from greater overall impact. The ëSWIMingí project will bring together existing EeB projects under clusters categorised by which stages of the BLC the project is applied and energy savings are achieved and the particular domains within those stages to facilitate knowledge sharing and increase the impact of project results. It will support making the project processes and the data produced by these processes publishable as linked data on the web and through this structured format (BIM-LOD), make data more accessible and less fragmented across the BLC.",
+    "totalCost": "499125",
+    "ecMaxContribution": "499125",
+    "coordinator": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;AEC3 LTD;KARLSRUHER INSTITUT FUER TECHNOLOGIE;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+    "participantCountries": "EL;UK;DE;IE",
+    "projectParticipants": {
+        "999845446": {
+            "orgId": "999845446",
+            "orgName": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+            "ecContrib": 253750
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 37125
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 91500
+        },
+        "996417757": {
+            "orgId": "996417757",
+            "orgName": "AEC3 LTD",
+            "ecContrib": 60875
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 55875
+        }
+    },
+    "calculatedTotalContribution": 499125
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "193571",
+    "acronym": "MoNaLISA",
+    "topics": "ERC-StG-2014",
+    "title": "Long-term molecular nanoscale imaging of neuronal function",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2020",
+    "objective": "Synaptic function is difficult to analyze in living neurons using conventional optics, since the synaptic organelles and protein clusters are small and tightly spaced. The solution to this problem can come from the field of super-resolution fluorescence microscopy, or nanoscopy. However, the current approaches to nanoscopy are still far from reaching this goal. Single molecule-based approaches (including STORM and PALM) provide high spatial resolution, but slow recording, insufficient for live imaging. Ensemble approaches (including SSIM and STED) are able to record faster, but with poorer resolution or with high, potentially toxic, laser powers. It is currently impossible to image the same neuron for hours and days, with both high spatial (~30 nm) and temporal (10-1000 Hz) resolution, and with minimal photodamage. My aim is to fill this gap, by developing, for the first time, a microscope that combines the advantages of both single molecule-based and ensemble approaches. I will base the microscope on RESOLFT, a low-photodamage ensemble approach that I have pioneered recently. I will use line patterns to speed up the recording and 2photon-switching for 3D ability. I will combine this with sensitive detection schemes that allow single-molecule detection and counting, relying on my previous expertise with PALM and GSDIM. The new set-up, termed molecular nanoscale long-term imaging with sequential acquisition (MoNaLISA), will track neuronal organelles and proteins on different time scales, spanning from milliseconds to days, with a resolution close to the molecular scale. To obtain the first proof-of-principle results, I will address several issues still open in the synaptic transmission field, relating to synaptic vesicle recycling, biogenesis and degradation. Overall, my project will introduce a novel paradigm to imaging in the life sciences, which will enable fast and quantitative nano-imaging of cells and tissues.",
+    "totalCost": "1725000",
+    "ecMaxContribution": "1725000",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 1725000
+        }
+    },
+    "calculatedTotalContribution": 1725000
+}

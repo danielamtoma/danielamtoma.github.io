@@ -1,0 +1,38 @@
+{
+    "rcn": "206102",
+    "acronym": "FACILITATORS",
+    "topics": "COMPET-4-2016",
+    "title": "Facilities for testing orbital and surface robotics building blocks",
+    "startDate": "01/11/2016",
+    "endDate": "31/01/2019",
+    "objective": "The FACILITATORS goals are:\n-To Enable the highest possible level of validation of the common building blocks (developed by concurring operational grants) in the most relevant environment by adapting and providing the best available European test facilities, as well as \n-To Guarantee coherence among the different test facilities and among the building blocks by establishing common implementation/validation scenarios (to be reproduced during ground testing) and common interfaces with the test facilities.\n\nMore concretely, in order to achieve such goals, the objectives of our project are to:\n1. Analyse and identify the validation needs of each building block\n2. Identify and adapt the already-existing top-notch European test platforms that will form a ìfederation of facilitiesî which will host the validation tests of ALL building blocks in BOTH demonstration scenarios\n3. Characterize the facilities and provide representative datasets to support the design and development of the building blocks, carried out by concurring operational grants (OGs)\n4. Ensure coherence among the different building blocks by agreeing on common demonstration scenarios that will be carried out within the federation of facilities, as well as by preparing common interfaces in coordination with the SRC board and the other parallel OGs\n5. Provide easy access to the identified facilities, and ensure their availability when the building blocks will be tested\n6. Assist the building blocks validation testsí execution by providing monitoring and measuring means, as well as giving on-site support.\n\nThe ìFederation of Facilitiesî concept lies in a network of coordinated, complementary and exchangeable state-of-the-art facilities across Europe, identified, made available to the SRC, adapted and (if needed) enhanced for the scope of: \n-Validating the building blocks developed in the other parallel operational grants and\n-Providing regulated services to the space robotics community beyond this project.",
+    "totalCost": "1003478,75",
+    "ecMaxContribution": "1000000",
+    "coordinator": "GMV AEROSPACE AND DEFENCE SA",
+    "coordinatorCountry": "ES",
+    "participants": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;AIRBUS DEFENCE AND SPACE LTD",
+    "participantCountries": "DE;UK",
+    "projectParticipants": {
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 180000
+        },
+        "999905004": {
+            "orgId": "999905004",
+            "orgName": "GMV AEROSPACE AND DEFENCE SA",
+            "ecContrib": 370934
+        },
+        "999530778": {
+            "orgId": "999530778",
+            "orgName": "AIRBUS DEFENCE AND SPACE LTD",
+            "ecContrib": 134066
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 315000
+        }
+    },
+    "calculatedTotalContribution": 1000000
+}

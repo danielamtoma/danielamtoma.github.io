@@ -1,0 +1,23 @@
+{
+    "rcn": "196854",
+    "acronym": "CODA",
+    "topics": "ERC-CoG-2014",
+    "title": "Custom-Made Ontology Based Data Access",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2020",
+    "objective": "The emerging and vibrant area of ontology-based data access (OBDA) is currently establishing itself as an important paradigm for processing incomplete and heterogeneous data. The goal of the CODA project is to make OBDA radically more useful for real-world applications by taking a ground-breaking new perspective on its foundations, algorithms, and tools. The project will rest on an ultimately fine-grained complexity analysis that allows to identify islands of tractability inside practically important ontology and query languages that are otherwise intractable. Based on these islands, novel OBDA querying tools will be developed that are custom-made for ontologies from applications in the sense that high computational cost is incurred only when unavoidable for the concrete ontology used (`pay as you go' behaviour). The key deliverables of the project are a set of tailor-made OBDA querying tools that form a precision tool belt for real-world OBDA applications, theoretical results regarding the structure and computational complexity of important islands of tractability, efficient algorithms that allow to put these to work in practice, and optimization techniques and heuristics that support the algorithms in the tools developed. We will also collect and make available a library of case studies for evaluating OBDA tools. The project is both timely and essential. It is timely because our economy and society are currently experiencing a revolution in data processing and availability, and dealing with incompleteness and heterogeneity is one of the major arising challenges. The project is essential because it has become apparent now that current OBDA tools cannot satisfy industry requirements. In particular, they do not adequately support the limited use of expressive features (`a little bit of disjunction') which intuitively should not result in high computational cost, but with current technology often does.",
+    "totalCost": "1922114,58",
+    "ecMaxContribution": "1922114,58",
+    "coordinator": "UNIVERSITAET BREMEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999987454": {
+            "orgId": "999987454",
+            "orgName": "UNIVERSITAET BREMEN",
+            "ecContrib": 1922115
+        }
+    },
+    "calculatedTotalContribution": 1922115
+}

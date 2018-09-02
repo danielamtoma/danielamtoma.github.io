@@ -1,0 +1,28 @@
+{
+    "rcn": "199652",
+    "acronym": "ThDEFINE",
+    "topics": "ERC-CoG-2014",
+    "title": "Re(defining) CD4+ T Cell Identities One Cell at a Time",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "The immune system consists of a complex continuum of cell types that communicate with each other and non-immune tissues in homeostasis, and during infections, autoimmunity and cancer. Conventional transcriptional and functional profiling enabled by cell surface marker sorting has revealed a great deal about how specific cell types operate en masse, yet important transcriptional heterogeneity that exists within cell populations remains unexplored. High-throughput single cell RNA-seq can overcome this limitation by profiling entire transcriptomes of thousands of individual cells, revealing cell-to-cell variation by decoding patterns within populations masked in bulk transcriptomes. We will exploit this to dissect the mouse CD4\\ T cell compartment, a heterogeneous white blood cell population that initiates adaptive immune responses.\nIn AIM 1, we will chart the dynamics of in vivo CD4\\ cell states in mouse before, during and after immune response challenges. By sequencing thousands of single cell transcriptomes, we will map the landscape of CD4\\ T cell states in an unbiased, quantitative and comprehensive way. \nIn AIM 2, we will predict key transcription factors, cell surface markers, and signalling molecules, including cytokines/chemokines in each cell state through novel computational approaches. Furthermore, our analyses will establish regulatory modules and networks of gene-gene interactions active in immune responses. \nIn AIM 3, we will (a) confirm the in vivo impact of new cell states by performing adoptive cell transfer assays; and \n(b) validate our predictions of regulatory molecules and interactions using a massively parallel CRISPR/Cas knockout screen in vitro. \nThis powerful integrated approach combines single cell RNA-sequencing, bioinformatics and genetic engineering to dissect CD4\\ T cell states, a central compartment of mammalian adaptive immunity, and reveal basic principles of gene regulation.",
+    "totalCost": "1980685",
+    "ecMaxContribution": "1980685",
+    "coordinator": "Genome Research Limited",
+    "coordinatorCountry": "UK",
+    "participants": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999981343": {
+            "orgId": "999981343",
+            "orgName": "GENOME RESEARCH LIMITED",
+            "ecContrib": 0
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 202229
+        }
+    },
+    "calculatedTotalContribution": 202229
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "205248",
+    "acronym": "CONCOM",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Control Over Noisy Communication Media",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "Two of the fundamental theories within the discipline of electrical engineering are those of control and communication (along with its mathematical foundation, information theory [IT]). These theories have been studied extensively by mathematicians and engineers throughout the 20th century, and have gone separate ways.\nThe primary objective of control theory is to stabilize and control the behaviour of a given dynamical system in a desired fashion by changing the system input according to its measured output (feedback). In this theory, adapting according to the feedback with minimal possible delay is of grave importance.\nThe theories of communication and information deal with conveying reliably data over noisy media. IT seeks to determine the maximal reliable-communication rates possible, disregarding and often undermining delay and computational complexity. Communication theory attempts to approach the rates promised by IT using practical tools.\nIn the past, control theory was mainly used in well-crafted closed engineering systems (e.g., car and aerospace industries). In the current technological era of ubiquitous wireless connectivity, the demand for control over noisy media is ever growing, enabling numerous new possibilities. \nNonetheless, current theory and technology offer one of the following solutions: utilizing a communication scheme that improves reliability at the price of introducing a large delay and then trying to control the resulting system, or adapting solutions from classical control theory to control over unreliable media, known now as cyber-physical control.\nIndeed, due to the historic disjunction of these theories, no unified theory exists that determines the fundamental trade-off between communication reliability and rate, and delay and controllability. Developing such a unified ìcommunication-controlî framework can allow for a myriad of new exciting possibilities, such as remote surgery and self-driving  cars, and is the aim of this research.",
+    "totalCost": "263385",
+    "ecMaxContribution": "263385",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "997764020": {
+            "orgId": "997764020",
+            "orgName": "CALIFORNIA INSTITUTE OF TECHNOLOGYCORP",
+            "ecContrib": 0
+        },
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 263385
+        }
+    },
+    "calculatedTotalContribution": 263385
+}

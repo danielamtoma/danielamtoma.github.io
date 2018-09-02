@@ -1,0 +1,38 @@
+{
+    "rcn": "211428",
+    "acronym": "DroC2om",
+    "topics": "RPAS-05",
+    "title": "Drone Critical Communications",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "The key objective of the DroC2om project is to contribute to the definition of integrated cellular-satellite data link specifications for UASs. Major focus will be on the design and evaluation of data links based on experimental radio investigations and system simulations. The primary goal is to design a cellular-satellite system architecture concept, which ensures reliable and safe operation for remote controlled, semi-autonomous and fully autonomous small UAS.\n\nThe DroC2om project will design and evaluate an integrated cellular-satellite system architecture concept for data links in order to support reliable and safe operation of UAS based on real drone measurements and modelling. \nThe diversity of the project partners ensures a balanced and high quality expertise in all relevant technological areas. \nï Thales Alenia Space is a key player in aerospace air/ground communications.\nï Nokia is one of the major mobile service and infrastructure providers worldwide. \nï atesio provides solutions for automatic planning and optimization algorithms of multi-layer multi-service cellular telecommunication networks. \nï Aalborg University has a well-established research centre for mobile communications systems.\nTo meet its objectives, the approach of DroC2om is to structure the work around four main building blocks that will be communicating with each other along the execution of the project following a continuous delivery approach:\n1. Definition of scenarios and requirements\n2. Software-based evaluation environment for aerial drone communication\n3. Aerial communication system architecture\n4. Drone flight and measurements\nAll these four building blocks will be structured by a tight and rigorous management action from the project manager (PM) and the technical manager (TM), and complemented with a particular action devoted to ensure the proper dissemination of all activities, results, and outcomes of the project to maximize impact and visibility of the actions carried out.",
+    "totalCost": "1270542,5",
+    "ecMaxContribution": "1270542,5",
+    "coordinator": "AALBORG UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "THALES ALENIA SPACE FRANCE;ATESIO GMBH;NOKIA SOLUTIONS AND NETWORKS DANMARK AS",
+    "participantCountries": "FR;DE;DK",
+    "projectParticipants": {
+        "999668712": {
+            "orgId": "999668712",
+            "orgName": "ATESIO GMBH",
+            "ecContrib": 282938
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 284375
+        },
+        "996116087": {
+            "orgId": "996116087",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS DANMARK AS",
+            "ecContrib": 417980
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 285250
+        }
+    },
+    "calculatedTotalContribution": 1270543
+}

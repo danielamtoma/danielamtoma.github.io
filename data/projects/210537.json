@@ -1,0 +1,23 @@
+{
+    "rcn": "210537",
+    "acronym": "iHEART",
+    "topics": "ERC-2016-ADG",
+    "title": "An Integrated Heart Model for the simulation of the cardiac function",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2022",
+    "objective": "The goal of this project is to construct, mathematically analyze, numerically approximate, computationally solve, and validate on clinically relevant cases a mathematically-based integrated heart model (IHM) for the human cardiac function. The IHM comprises several core cardiac models ñ electrophysiology, solid and fluid mechanics, microscopic cellular force generation, and valve dynamics ñ which are then coupled and finally embedded into the systemic and pulmonary blood circulations. It is a multiscale system of Partial Differential Equations (PDEs) and Ordinary Differential Equations (ODEs) featuring multiphysics interactions among the core models.\n\nThe physical and mathematical properties of each core model and those of the even more complex integrated heart model (IHM) will be analyzed. The numerical approximation of IHM develops along several steps: introduce new high order methods for the core models, carry out their stability and convergence analysis, devise new paradigms for their numerical coupling, and construct optimal, scalable, and adaptive preconditioners for the efficient solution of the resulting large-scale discrete problems. To address data variability in clinically relevant cases, new reduced order models and efficient computational techniques will be developed also for forward and inverse uncertainty quantification problems. Two software libraries, LifeHEART and RedHEART, will be built and made available to the scientific community.\n\nThe project is original, very ambitious, mathematically inspired and rigorous, tremendously challenging, and groundbreaking. If successful, it will provide researchers from applied mathematics and life sciences, cardiologists, and cardiac surgeons with a powerful tool for both the qualitative and quantitative study of cardiac function and dysfunction. iHEART has the potential to drive improvements in diagnosis and treatment for cardiovascular pathologies that are responsible for more than 45% of deaths in Europe.",
+    "totalCost": "2351544",
+    "ecMaxContribution": "2351544",
+    "coordinator": "POLITECNICO DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 2351544
+        }
+    },
+    "calculatedTotalContribution": 2351544
+}

@@ -1,0 +1,17 @@
+{
+    "rcn": "214664",
+    "acronym": "AMPERE",
+    "topics": "ERC-2017-COG",
+    "title": "Accounting for Metallicity, Polarization of the Electrolyte, and Redox reactions in computational Electrochemistry",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "Applied electrochemistry plays a key role in many technologies, such as batteries, fuel cells, supercapacitors or solar cells. It is therefore at the core of many research programs all over the world. Yet, fundamental electrochemical investigations remain scarce. In particular, electrochemistry is among the fields for which the gap between theory and experiment is the largest. From the computational point of view, there is no molecular dynamics (MD) software devoted to the simulation of electrochemical systems while other fields such as biochemistry (GROMACS) or material science (LAMMPS) have dedicated tools. This is due to the difficulty of accounting for complex effects arising from (i) the degree of metallicity of the electrode (i.e. from semimetals to perfect conductors), (ii) the mutual polarization occurring at the electrode/electrolyte interface and (iii) the redox reactivity through explicit electron transfers. Current understanding therefore relies on standard theories that derive from an inaccurate molecular-scale picture. My objective is to fill this gap by introducing a whole set of new methods for simulating electrochemical systems. They will be provided to the computational electrochemistry community as a cutting-edge MD software adapted to supercomputers. First applications will aim at the discovery of new electrolytes for energy storage. Here I will focus on (1) ëëwater-in-saltsíí to understand why these revolutionary liquids enable much higher voltage than conventional solutions (2) redox reactions inside a nanoporous electrode to support the development of future capacitive energy storage devices. These selected applications are timely and rely on collaborations with leading experimental partners. The results are expected to shed an unprecedented light on the importance of polarization effects on the structure and the reactivity of electrode/electrolyte interfaces, establishing MD as a prominent tool for solving complex electrochemistry problems.",
+    "totalCost": "1588768,75",
+    "ecMaxContribution": "1588768,75",
+    "coordinator": "SORBONNE UNIVERSITE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

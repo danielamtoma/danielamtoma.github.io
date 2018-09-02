@@ -1,0 +1,23 @@
+{
+    "rcn": "206724",
+    "acronym": "ROBUST",
+    "topics": "ERC-2016-STG",
+    "title": "Robust Mechanism Design and Robust Prediction in Games",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2021",
+    "objective": "In the last several decades, it has been extensively studied how strategic behavior of economic agents could affect the outcomes of various institutions. Game theory and mechanism design theory play key roles in understanding economic agents' possible behavior in those institutions, its welfare consequences, and how we should design economic institutions to achieve desired social objectives even if the agents behave strategically for their own interests.\nHowever, existing studies mostly focus on somewhat narrow classes of economic environments by imposing restrictive assumptions. The proposed projects aim at providing novel theoretical frameworks which enable us to study agents' behavior and desirable institutions under much less assumptions. I believe that the projects have significant relevance in policy recommendation in practice and empirical studies, even though the proposed projects are primarily theoretical.\nIn mechanism design, most papers in the literature focus on environments with independently distributed private information. We propose two novel (robustness-based) approaches to analyze mechanism design in correlated environments, motivated by their practical and empirical relevance. The robustness brought by my approach can be useful to mitigate certain types of misspecifications in mechanism design in practice.\nMoreover, the desirable robust mechanisms I obtain appear to be more sensible, and hence, can be useful for empirical studies of auction and other mechanism design problems.\nIn game theory, it is often assumed that the game to be played is common knowledge, or even with uncertainty, uncertain variables are assumed to follow a common-knowledge prior .However, in many situations in reality, those do not seem to be satisfied. Our goal is to provide a novel theoretical framework to predict players' behavior in such incompletely specified games, and to identify conditions for (monotone) comparative statics. Both could be useful in empirical studies.",
+    "totalCost": "1295062",
+    "ecMaxContribution": "1295062",
+    "coordinator": "FONDATION JEAN-JACQUES LAFFONT,TOULOUSE SCIENCES ECONOMIQUES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998386566": {
+            "orgId": "998386566",
+            "orgName": "FONDATION JEAN-JACQUES LAFFONT,TOULOUSE SCIENCES ECONOMIQUES",
+            "ecContrib": 1295062
+        }
+    },
+    "calculatedTotalContribution": 1295062
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "206077",
+    "acronym": "AQUARIUS",
+    "topics": "ICT-29-2016",
+    "title": "BROADBAND TUNABLE QCL BASED SENSOR FOR ONLINE AND INLINE DETECTION OF CONTAMINANTS IN WATER",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "AQUARIUS proposes disruptive improvements in laser based water sensing employing MIR quantum cascade lasers (QCLs). It is motivated by\ni) the EC Water Framework Directive (2000/60/EC) where hydrocarbons are identified as priority hazardous substances,\nii) the industrial and regulatory need for fast and continuous detection of contaminants and \niii) the current state-of-the-art of measuring these substances using QCLs as defined by project partner QuantaRed Technologies and described in ASTM D7678.\nAQUARIUS will improve this offline method by developing pervasive online and inline sensing strategies based on advanced photonic structures. For improved specificity a broadly (200 cm-1) tunable MOEMS based µEC-QCL source will be developed into a core spectrometer. High power, mode-hop free operation and unprecedentedly fast data acquisition (1000 spectra/s) will assure high S/N-ratios and thus high sensitivity. The system for online sensing (LOD: 1ppm) is based on automated liquid-liquid extraction and will be validated by project partner OMV for process and waste water monitoring. It will also be tested for identifying different sources of contaminations by project partner KWR in their water treatment and purification facilities. The system for inline sensing will be based on integrated optical circuits (IOC) including waveguides for evanescent wave sensing. Switching between individual waveguides of the IOC will enable quasi-simultaneous sample and background measurement and thus assure excellent long-term stability. By enrichment of analytes in polymer layers LODs as required for drinking (0.5ppb) and groundwater (50ppb) will be reached. \nAQUARIUS covers the supply chain from research institutes to system integrator and end users. It will push the online system from TRL 3 to 7 and the inline system from TRL 2 to 4 and thus reinforce the industrial leadership of the project partners regarding QCL based liquid sensing and photonic components (source, detector and IOCs).",
+    "totalCost": "3891263,75",
+    "ecMaxContribution": "3891263,75",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "KWR WATER B.V.;TECHNISCHE UNIVERSITAET WIEN;OMV EXPLORATION & PRODUCTION GMBH;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;QUANTARED TECHNOLOGIES GMBH;VIGO SYSTEM S.A.",
+    "participantCountries": "NL;AT;DE;BE;PL",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 330288
+        },
+        "998279769": {
+            "orgId": "998279769",
+            "orgName": "KWR WATER B.V.",
+            "ecContrib": 221250
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 614914
+        },
+        "999659303": {
+            "orgId": "999659303",
+            "orgName": "VIGO SYSTEM S.A.",
+            "ecContrib": 485000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 1048438
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 285125
+        },
+        "986524145": {
+            "orgId": "986524145",
+            "orgName": "QUANTARED TECHNOLOGIES GMBH",
+            "ecContrib": 717500
+        },
+        "919995725": {
+            "orgId": "919995725",
+            "orgName": "OMV EXPLORATION & PRODUCTION GMBH",
+            "ecContrib": 188750
+        }
+    },
+    "calculatedTotalContribution": 3891265
+}

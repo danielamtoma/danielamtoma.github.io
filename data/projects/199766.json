@@ -1,0 +1,33 @@
+{
+    "rcn": "199766",
+    "acronym": "EvoGenMed",
+    "topics": "ERC-ADG-2014",
+    "title": "Evolutionary genomics: new perspectives and novel medical applications",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "To make for better diagnostics and safer applications of genomics we need a better understanding of our genome and how it functions. Until recently we thought we knew: intergenic sequence must be largely ìjunkî and mutations that, for example, affect genes but not the protein (synonymous mutations) must be effectively neutral. This degenerate genome view accords with the nearly-neutral theoryís prediction that selection will be weaker when populations are small. But is this all there is to it? I shall investigate two new interrelated perspectives on genome evolution. First, I suggest that to mitigate errors, owing to our high error rates, our genome can be under stronger, not weaker, selection. Second, that errors might be a source of evolutionary novelty. Error mitigation, my team has shown, often involves selection on seemingly innocuous mutations such as synonymous changes. Remarkably, we discovered that selection to ensure error-proof splicing is possibly more prevalent on synonymous mutations when populations are small, making seemingly innocuous mutations stronger candidates for human diseases. I shall provide the first test of the new error-proofing perspective through comparative genomic analysis on synonymous site evolution. To investigate error as a source of novelty I shall consider whether expression piggy-backing (expression of a gene affecting its neighbors) forces rewiring of gene networks. Importantly, I shall translate our new understanding to enable better diagnostics and improved therapeutics. I shall develop a much-needed computer package to identify candidate disease-causing synonymous changes. In addition, knowing how synonymous sites modulate splicing will allow me to design better intronless transgenes. Transgenes must also be inserted in genomic regions immune to piggy-backing. I will examine transposable element related piggy-backing to characterize ìsafeî sites for therapeutic gene insertion and mammalian transgenesis more generally.",
+    "totalCost": "2497996",
+    "ecMaxContribution": "2497996",
+    "coordinator": "UNIVERSITY OF BATH",
+    "coordinatorCountry": "UK",
+    "participants": "MAX-DELBRUCK-CENTRUM FUR MOLEKULAREMEDIZIN;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "DE;UK",
+    "projectParticipants": {
+        "999842924": {
+            "orgId": "999842924",
+            "orgName": "UNIVERSITY OF BATH",
+            "ecContrib": 2260496
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 137500
+        },
+        "999990461": {
+            "orgId": "999990461",
+            "orgName": "MAX-DELBRUCK-CENTRUM FUR MOLEKULAREMEDIZIN",
+            "ecContrib": 100000
+        }
+    },
+    "calculatedTotalContribution": 2497996
+}

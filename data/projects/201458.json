@@ -1,0 +1,28 @@
+{
+    "rcn": "201458",
+    "acronym": "PMOHR",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Probabilistic modelling of electronic health records",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "The growing worldwide adoption of Electronic Health Records (EHR) enables new research opportunities to analyse massive amounts of medical information, motivated by the promise of improving health systems while providing significant budget savings. Biomedical research increasingly uses machine learning methods as a data-driven approach to learn complex comorbidity patterns of diseases, study drug interactions, and form predictions. The analysis of EHRs may not only lead to knowledge discovery, but it also facilitates personalised medical treatment and early diagnosis of the diseases through the design of clinical support systems.\n\nHowever, current approaches for the analysis of EHRs are still in their early stages. The two main technical challenges that need to be addressed are integration of heterogeneous data and scalability to massive datasets. Most of the existing methods are tailored to homogeneous data and, therefore, to a single source of information, and hence they cannot handle EHR datasets. Scalability also represents a difficulty for most of the current machine learning techniques, which are limited to the analysis to moderate-sized datasets.\n\nIn this project, we will develop novel tools for the analysis of heterogeneous EHR data. Our approach will be based on probabilistic modelling techniques, since they are an effective approach for understanding real-world data in many areas of science. We will make use of Bayesian nonparametric modelling techniques, coupled with stochastic variational inference to allow for scalable inference. Probabilistic models, including BNPs, are amenable to both descriptive and predictive analysis at the same time. We will collaborate with the Department of Biomedical Informatics, who will provide their knowledge about the problem, allowing for good model formulations and results analysis.",
+    "totalCost": "269857,8",
+    "ecMaxContribution": "269857,8",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998269778": {
+            "orgId": "998269778",
+            "orgName": "TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+            "ecContrib": 0
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

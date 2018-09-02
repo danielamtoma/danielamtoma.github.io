@@ -1,0 +1,28 @@
+{
+    "rcn": "203411",
+    "acronym": "QSpec-NewMat",
+    "topics": "ERC-ADG-2015",
+    "title": "Quantum Spectroscopy: exploring new states of matter out of equilibrium",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "This project addresses the development of novel theoretical and computational tools that utilize the quantum nature of light to understand and control quantum phenomena in complex systems in and out of equilibrium. Some examples of these processes include exciton-exciton interaction, quantum coherence, assisted energy and charge transport, photochemistry, and new states of matter. \n\nThe present project aims to build up the basic theoretical and computational machinery to allow quantum computations of the electronic and ionic dynamics of atomic, molecular or extended systems coupled to quantised electromagnetic fields and thereby set the stage for a new era in the first-principle computational modelling of light-matter interactions.  To achieve this goal, we will combine the principles of time-dependent density functional theory (TDDFT) and quantum electrodynamics (QED) into a new quantum electrodynamical-DFT approach named as ìQEDFTî.\n\nInsight, design and control define the scientific rationale of the project, which will focus on the discovery of the general principles that describe and control systems far from equilibrium and orchestrate the behavior of many electrons and atoms to create new phenomena/states of matter. Besides developing and implementing the new theory of QEDFT, we will  investigate atoms and molecules with quantum optical fields; whether and how selected laser pulses drive molecules and solids into new states of matter that have no equilibrium counterpart. What happens when it enters these coherent states? The objective is to identify the spectroscopic fingerprint of those new states. Which states arise in the strong light-matter coupling regime? e.g. hybridized states such as photon bound states, exciton/plasmon-polariton states, so far still undiscovered states. The long-term goal is to deliver an all-out theoretical and computational toolbox for QED-TDDFT applicable to complex molecular systems (like presently approachable by DFT and by TDDFT).",
+    "totalCost": "2492500",
+    "ecMaxContribution": "2492500",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA",
+    "participantCountries": "ES",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1620000
+        },
+        "999865234": {
+            "orgId": "999865234",
+            "orgName": "UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA",
+            "ecContrib": 872500
+        }
+    },
+    "calculatedTotalContribution": 2492500
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "198051",
+    "acronym": "BayesianMarkets",
+    "topics": "ERC-StG-2014",
+    "title": "Bayesian markets for unverifiable truths",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "Subjective data play an increasing role in modern economics. For instance, new welfare measurements are based on peopleís subjective assessments of their happiness or their life satisfaction. A problem of such measurements is that people have no incentives to tell the truth. To solve this problem and make those measurements incentive compatible, I will introduce a new market institution, called Bayesian markets.\nImagine we ask people whether they are happy with their life. On Bayesian markets, they will trade an asset whose value is the proportion of people answering Yes. Only those answering Yes will have the right to buy the asset and those answering No the right to sell it. Bayesian updating implies that ìYesî agents predict a higher value of the asset than ìNoî agents do and, consequently, ìYesî agents want to buy it while ìNoî agents want to sell it. I will show that truth-telling is then the optimal strategy.\nBayesian markets reward truth-telling the same way as prediction markets (betting markets) reward people for reporting their true subjective probabilities about observable events. Yet, unlike prediction markets, they do not require events to be objectively observable. Bayesian markets apply to any type of unverifiable truths, from oneís own happiness to beliefs about events that will never be observed.\nThe present research program will first establish the theoretical foundations of Bayesian markets. It will then develop the proper methodology to implement them. Finally, it will disseminate the use of Bayesian markets via applications.\nThe first application will demonstrate how degrees of expertise can be measured and will apply it to risks related to climate change and nuclear power plants. It will contribute to the political debate by shedding new light on what true experts think about these risks. The second application will provide the first incentivized measures of life satisfaction and happiness.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "ERASMUS UNIVERSITEIT ROTTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999839335": {
+            "orgId": "999839335",
+            "orgName": "ERASMUS UNIVERSITEIT ROTTERDAM",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

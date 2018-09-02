@@ -1,0 +1,23 @@
+{
+    "rcn": "209846",
+    "acronym": "CoupledDB",
+    "topics": "MSCA-IF-2016",
+    "title": "High-Performance Indexing for Emerging GPU-Coupled Databases",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "'Index structures are foundational to the performance of database systems and large-scale simulations. Even small advances in indexing can therefore have widespread, sweeping impact on both industry competitiveness and scientific productivity. The confluence of several hardware trends is setting the stage for disruptive innovation in database indexing: deescalating costs of memory make it feasible to organise most of the 'hot', frequently accessed data in memory rather than on disk; and increasingly commonplace accelerators such as graphics processing units (GPUs) offer large-scale parallelism with a lower energy footprint. Thus, in-memory indexing that exploits GPUs could be much cheaper, faster, and greener.\n\nHowever, effectively incorporating GPUs into computation is a principal research challenge. To idle the powerful multicore system in favour of exclusively using the GPU connected to it, as done currently, is to squander valuable resources. On the other hand, the GPU has a vastly different computational model, so cannot straight-forwardly leverage multicore techniques. The challenges in handling this dichotomy, in fact, will cross-cut many research areas as the heterogeneity in the compute ecosystem becomes ubiquitous in parallel processing.\n\nBuilding on preliminary results that suggest common data structures processed by architecture-specific algorithms can support heterogeneity, this action will design indexes for the coupled multicore-GPU database systems that will soon be ubiquitous. The indexes will enable more responsive simulations of complex objects such as neurons and vehicle trajectories and support the recent proliferation of mobile-generated data. Moreover, through the action, the researcher will transfer technical parallel programming skills to the host, while the host will transfer expertise about new data types to the researcher. The project results will contribute to Europe's positioning at the forefront of heterogeneous parallel processing.'",
+    "totalCost": "208400,4",
+    "ecMaxContribution": "208400,4",
+    "coordinator": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977851": {
+            "orgId": "999977851",
+            "orgName": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+            "ecContrib": 208400
+        }
+    },
+    "calculatedTotalContribution": 208400
+}

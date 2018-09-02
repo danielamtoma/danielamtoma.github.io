@@ -1,0 +1,23 @@
+{
+    "rcn": "213436",
+    "acronym": "4DRepLy",
+    "topics": "ERC-2017-COG",
+    "title": "Closing the 4D Real World Reconstruction Loop",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2023",
+    "objective": "4D reconstruction, the camera-based dense dynamic scene reconstruction, is a grand challenge in computer graphics and computer vision. Despite great progress, 4D capturing the complex, diverse real world outside a studio is still far from feasible. 4DRepLy builds a new generation of high-fidelity 4D reconstruction (4DRecon) methods. They will be the first to efficiently capture all types of deformable objects (humans and other types) in crowded real world scenes with a single color or depth camera. They capture space-time coherent deforming geometry, motion, high-frequency reflectance and illumination at unprecedented detail, and will be the first to handle difficult occlusions, topology changes and large groups of interacting objects. They automatically adapt to new scene types, yet deliver models with meaningful, interpretable parameters. This requires far reaching contributions: First, we develop groundbreaking new plasticity-enhanced model-based 4D reconstruction methods that automatically adapt to new scenes. Second, we develop radically new machine learning-based dense 4D reconstruction methods. Third, these model- and learning-based methods are combined in two revolutionary new classes of 4DRecon methods: 1) advanced fusion-based methods and 2) methods with deep architectural integration. Both, 1) and 2), are automatically designed in the 4D Real World Reconstruction Loop, a revolutionary new design paradigm in which 4DRecon methods refine and adapt themselves while continuously processing unlabeled real world input. This overcomes the previously unbreakable scalability barrier to real world scene diversity, complexity and generality. This  paradigm shift opens up a new research direction in graphics and vision and has far reaching relevance across many scientific fields. It enables new applications of profound social pervasion and significant economic impact, e.g., for visual media and virtual/augmented reality, and for future autonomous and robotic systems.",
+    "totalCost": "1977000",
+    "ecMaxContribution": "1977000",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1977000
+        }
+    },
+    "calculatedTotalContribution": 1977000
+}

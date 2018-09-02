@@ -1,0 +1,43 @@
+{
+    "rcn": "211958",
+    "acronym": "Spine",
+    "topics": "LCE-05-2017",
+    "title": "Open source toolbox for modelling integrated energy systems",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2021",
+    "objective": "Spine project will create a toolbox for modelling integrated energy systems. The Toolbox will be modular and adaptable, making the toolbox suitable for both detailed modelling of complex features in energy systems as well as for large-scale problems. This is a novel approach to energy system modelling, which allows a much broader set of problems being addressed within a single modelling tool.\n\nThe adaptability comes from a design where the input data defines the temporal, spatial, technological, regulatory and sectoral dimensions of the model instance. Model instances can also be chained in order to allow iterative approaches for solving especially large problems (e.g. planning a large system while considering high operational detail).\n\nThe Spine Toolbox will support the full modelling chain from data acquisition to processing of results. Through automated features of the toolbox it will be easy to generate a large number of scenarios from user-defined data collections. It can connect to different tools and models, both external and internal. The internal tools developed in the project include an input data verification tool, a tool to post-process outputs, parallelization service and the actual Spine Model.\n\nThe Spine Toolbox and the Spine Model will be deployed by open sourcing all the developments. The project will initiate, grow and support a user community where the project partners will participate as they will replace many of their existing tools with the Spine Toolbox. \n\nThe Spine project will use the toolbox to contribute to the expected impacts of the call. A series of case studies will help the project to expand specific modelling capabilities in the Spine Model, deploy the Toolbox to potential users, and produce analysis relevant to the expected impacts of the call. Policy and business relevant results will be communicated to the relevant stakeholders, demonstrating the future uses of the toolbox in policy-support and business decision-support.",
+    "totalCost": "3729987,5",
+    "ecMaxContribution": "3580418,75",
+    "coordinator": "Teknologian tutkimuskeskus VTT Oy",
+    "coordinatorCountry": "FI",
+    "participants": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN;KUNGLIGA TEKNISKA HOEGSKOLAN;ENERGY REFORM LIMITED;KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "participantCountries": "IE;SE;BE",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 1301562
+        },
+        "914248087": {
+            "orgId": "914248087",
+            "orgName": "ENERGY REFORM LIMITED",
+            "ecContrib": 452570
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 729062
+        },
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 525098
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 572125
+        }
+    },
+    "calculatedTotalContribution": 3580417
+}

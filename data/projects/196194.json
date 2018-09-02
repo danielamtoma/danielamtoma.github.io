@@ -1,0 +1,23 @@
+{
+    "rcn": "196194",
+    "acronym": "MeshAnalyzer",
+    "topics": "ICT-37-2014-1",
+    "title": "Analysis Tool for Mesh Design of Leading Edge Design of Integrated Circuits",
+    "startDate": "01/02/2015",
+    "endDate": "31/07/2015",
+    "objective": "EDXACT (Electronic Design Automation: Extraction Analysis and Control Tools) is a software editor producing software tools that are necessary for the design of leading edge integrated circuits (IC). EDXACT is a supplier of Apple, Samsung, Huawei, Intel, AMD, TSMC and many other companies that supply the world with products containing advanced integrated circuits. \n\nThe design of circuits with several tens of millions of transistors has become a normality over the last decade. The feature sizes of leading semiconductor circuits vary from 28nm downto 10nm and are extremely small. The design automation tools proposed by the oligopoly of the major suppliers of the market are lagging behind the technical possibilities. One of the most important aspects is the clock-design, where as much as 40% of design time could be saved by switching to modern tools. More importantly, by changing to a slightly different design approach and using a mixture of a clock-tree and clock meshes, todayís circuits could save energy by more than 35%. Unfortunately, no commercial tools exist today capable of analysing clock meshes correctly. Designers are limited to manual design and internal tools, which is limiting the use of this technology.\n\nWe see an important market opportunity for EDXACT by combining our existing technology with existing tools and some intelligent glue in order to create the sought-after mesh analysis tool. Being in direct competition with the leaders of the market, we intend to progressively displace the usage of the monopolistic tool for timing analysis. \n\nPhase 1 of the project will put in place the prototype, including documentation and marketing material, finalize an official partnership with two leading IC manufacturers, and will clarify the business plan for this interesting technology.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "EDXACT",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "996537164": {
+            "orgId": "996537164",
+            "orgName": "EDXACT",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "200779",
+    "acronym": "TransModal",
+    "topics": "ERC-CoG-2015",
+    "title": "Translating from Multiple Modalities into Text",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Recent years have witnessed the development of a wide range of computational methods that process and generate natural language text.  Many of these have become familiar to mainstream computer users such as tools that retrieve documents matching a query, perform sentiment analysis, and translate between languages. Systems like Google Translate can instantly translate between any pair of over fifty human languages allowing users to read web content that wouldn't have otherwise been available. The accessibility of the web could be further enhanced with applications that translate within the same language, between different modalities, or different data formats.  There are currently no standard tools for simplifying language, e.g., for low-literacy readers or second language learners. The web is rife with non-linguistic data (e.g., databases, images, source code) that cannot be searched since most retrieval tools operate over textual data. In this project we maintain that in order to render electronic data more accessible to individuals and computers alike, new types of models need to be developed. Our proposal is to provide a unified framework for translating from comparable corpora, i.e., collections consisting of data in the same or different modalities that address the same topic without being direct translations of each other. We will develop general and scalable models that can solve different translation tasks and learn the necessary intermediate representations of the units involved in an unsupervised manner without extensive feature engineering. Thanks to recent advances in deep  learning, we will induce  representations for different modalities, their interactions, and correspondence to natural language. Beyond addressing a fundamental aspect of the translation problem, the proposed research will lead to novel internet-based applications that simplify and summarize text, produce documentation for source code, and meaningful descriptions for images.",
+    "totalCost": "1900777,5",
+    "ecMaxContribution": "1900777,5",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1900778
+        }
+    },
+    "calculatedTotalContribution": 1900778
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "199861",
+    "acronym": "MURAB",
+    "topics": "ICT-24-2015",
+    "title": "MRI and Ultrasound Robotic Assisted Biopsy",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "The MURAB project has the ambition to revolutionise the way cancer screening and muscle diseases are researched for patients and has the potential to save lives by early detection and treatment.\nThe project intends to create a new paradigm in which, the precision of great medical imaging modalities like MRI and Ultrasound are combined with the precision of robotics in order to target the right place in the body. This will be achieved by identifying a target using Magnetic Resonance Imaging (MRI) and then use a robot with an ultrasound (US) probe to match the images and navigate to the right location.\nThis will be done thanks to a new innovative technique, which will be developed in the project and called Tissue Active Slam (TAS) which will use different techniques and modalities, like elastography, in order to cope with the deformation of the tissues. Such a procedure has the potential to drastically improve the clinical workflow and save lives by ensuring an exact targeting of (small) lesions, which are visible under MRI and not under US. Technologies developed within MURAB also have the potential to improve other clinical procedures. Clinically, two applications will be targeted and validated in the project: breast cancer diagnostics (MUW and ZGT) and muscle disease diagnostics (UMCN). Considering the potential for the market, industrial partners are involved with expertise in the delivery of safe robotics components and applications (KUKA), as well as with great knowledge and ambition in pushing innovation to the medical market (SIEMENS).",
+    "totalCost": "4343307,5",
+    "ecMaxContribution": "3982307,5",
+    "coordinator": "UNIVERSITEIT TWENTE",
+    "coordinatorCountry": "NL",
+    "participants": "MEDIZINISCHE UNIVERSITAET WIEN;SIEMENS NEDERLAND NV;UNIVERSITA DEGLI STUDI DI VERONA;STICHTING ZIEKENHUISGROEP TWENTE;STICHTING KATHOLIEKE UNIVERSITEIT;KUKA ROBOTER GMBH",
+    "participantCountries": "AT;NL;IT;DE",
+    "projectParticipants": {
+        "999838074": {
+            "orgId": "999838074",
+            "orgName": "UNIVERSITA DEGLI STUDI DI VERONA",
+            "ecContrib": 491875
+        },
+        "999992110": {
+            "orgId": "999992110",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT",
+            "ecContrib": 741208
+        },
+        "953320463": {
+            "orgId": "953320463",
+            "orgName": "STICHTING ZIEKENHUISGROEP TWENTE",
+            "ecContrib": 149000
+        },
+        "999989976": {
+            "orgId": "999989976",
+            "orgName": "MEDIZINISCHE UNIVERSITAET WIEN",
+            "ecContrib": 139425
+        },
+        "999900833": {
+            "orgId": "999900833",
+            "orgName": "UNIVERSITEIT TWENTE",
+            "ecContrib": 1210800
+        },
+        "998007975": {
+            "orgId": "998007975",
+            "orgName": "KUKA ROBOTER GMBH",
+            "ecContrib": 1250000
+        },
+        "952304194": {
+            "orgId": "952304194",
+            "orgName": "SIEMENS NEDERLAND NV",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3982308
+}

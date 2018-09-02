@@ -1,0 +1,33 @@
+{
+    "rcn": "208063",
+    "acronym": "EURECA",
+    "topics": "JTI-CS2-2016-CFP03-LPA-02-12",
+    "title": "Enhanced Human Robot cooperation in Cabin Assembly tasks",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2020",
+    "objective": "The EURECA project framework is dedicated to innovate the assembly of aircraft interiors using advanced human-robot collaborative solutions. A pool of devices/frameworks will be deployed for teaming up with human operators in a human-centered assistive environment, always ensuring safety requirements. Solutions are peculiarly designed for addressing both the working conditions and the management of the cabin-cargo installation process. EURECA aims at providing the following technologies:\n1. Lightweight Mobile Arm (LMA), an actuated moble platform equipped by a lightweight manipulator, will assist the assembly of light components. The LMA will perform autonomous tasks for assembly light and small components and it will cooperate with humans in handling and assemblying large, light and flexible compoents, navigating autonomously in the cabin and supplying the different parts by a passive trolley (transporter).\n2. Wearable upper arms exoskeleton will be used to assist the human operator in handling and assembling of heavy parts. The exoskeleton will improve the human ergonomics in handling heavy objects, allowing the execution of tasks where two or more people are necessary having a fast attach/detach interface.\n3. Continuous update and adaptation of a map of the aircraftís cabin, including permanent/temporary obstacles (seats, exoskeleton structure, human operator moving, etc.) by RGB-D camera sensors mounted on the LMA. \n4. A software platform, called Application Assistant, will enhance human-robot cooperation in all process  phases, supporting the generation of programs and the issuing of commands/requests by the users. The Application Assistant will be a layered architecture that will provide the users with different services in creating, scheduling and executing applications. The Application Assistant will implement multi-modular interfaces to humans, as a projector beam to give feedback to the user about the operation status and the actions to be taken.",
+    "totalCost": "1402998,75",
+    "ecMaxContribution": "1242386",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "PROTOM GROUP SPA;IT+ROBOTICS SRL",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "937157547": {
+            "orgId": "937157547",
+            "orgName": "PROTOM GROUP SPA",
+            "ecContrib": 119262
+        },
+        "985284485": {
+            "orgId": "985284485",
+            "orgName": "IT+ROBOTICS SRL",
+            "ecContrib": 315499
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 807625
+        }
+    },
+    "calculatedTotalContribution": 1242386
+}

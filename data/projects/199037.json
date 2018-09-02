@@ -1,0 +1,43 @@
+{
+    "rcn": "199037",
+    "acronym": "PROSEQO",
+    "topics": "FETOPEN-1-2014",
+    "title": "PROtein SEQuencing using Optical single molecule real-time detection",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2019",
+    "objective": "The advent of analytical techniques with extremely low limits of detection has led to dramatic progresses mostly in the field of nucleic acids sequencing. Despite the advent of the next generation sequencing platforms, the current genome sequencing task remains formidable, and revolutionary advances in DNA sequencing technology are still demanded. Nevertheless, the primary actors in virtually all life processes are the proteins coded by DNA sequences known as genes. Proteins can yield far more compelling revelations than may be gleaned from DNA alone. Protein sequencing may radically transform patient treatment, enabling precise monitoring of disease response to therapeutics at the molecular level. Single-molecule sequencing of proteins is of enormous value, offering the potential to detect diminishingly small quantities of proteins that may have been altered by alternative splicing or post-translational modification. In this project, we build upon current state-of-the-art sequencing technologies to develop novel proof-of-principle technologies for high-throughput protein sequencing and  single molecule DNA/RNA sequencing. The work proposed herein will provide: (i) a new sequencing technology development that utilizes plasmonic nanostructures in order to enhance the optical detection and to control the molecules movement by means of optical trapping; (ii)  a novel approach of plasmonic based optical spectroscopy for sequencing of protein; (iii), a rigorous analytical model to reconstruct the exact sequence from the signals recorded; and (iv) a plasmonic device that can perform both nucleic acids and amino-acids sequencing in one functional unit. These research efforts provide a foundation for the novel use of systems for a wide range of applications, such as the framework to investigate next generation protein sequencing, as well as high-throughput DNA sequencing and genetic diagnostics.",
+    "totalCost": "2906801,25",
+    "ecMaxContribution": "2906801,25",
+    "coordinator": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+    "coordinatorCountry": "IT",
+    "participants": "AB ANALITICA SRL;UNIVERSITE PARIS-SUD;ALACRIS THERANOSTICS GMBH;UNIVERSITAT DE BARCELONA",
+    "participantCountries": "IT;FR;DE;ES",
+    "projectParticipants": {
+        "997515894": {
+            "orgId": "997515894",
+            "orgName": "AB ANALITICA SRL",
+            "ecContrib": 361160
+        },
+        "999986387": {
+            "orgId": "999986387",
+            "orgName": "UNIVERSITAT DE BARCELONA",
+            "ecContrib": 649644
+        },
+        "999596447": {
+            "orgId": "999596447",
+            "orgName": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+            "ecContrib": 811664
+        },
+        "999907235": {
+            "orgId": "999907235",
+            "orgName": "UNIVERSITE PARIS-SUD",
+            "ecContrib": 709709
+        },
+        "986091428": {
+            "orgId": "986091428",
+            "orgName": "ALACRIS THERANOSTICS GMBH",
+            "ecContrib": 374625
+        }
+    },
+    "calculatedTotalContribution": 2906802
+}

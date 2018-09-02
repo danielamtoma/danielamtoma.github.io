@@ -1,0 +1,23 @@
+{
+    "rcn": "194474",
+    "acronym": "Learn",
+    "topics": "ERC-CoG-2014",
+    "title": "Learning From Failing and Passing Executions At the Speed of Internet",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2019",
+    "objective": "Modern software systems must be extremely flexible and easily adaptable to different user needs and environments. However, this flexibility also introduces relevant quality issues. These problems are so common that is sufficient browsing the Web to find millions of reports about failures observed after updates and incompatibilities caused by the interaction of a newly installed component with the existing components. \n\nThe impact of problems introduced by end-users can be dramatic because end-users can easily modify applications, like developers do, but end-users have neither the knowledge nor the skill of developers, and they cannot debug and fix the problems that they unintentionally introduce. It is thus necessary to timely develop novel solutions that can increase the reliability of the moderns systems, which can be extended and adapted by end-users, with the capability to automatically address problems that are unknown at development-time.\n\nThe Learn project aims to produce innovative solutions for the development of systems that can work around the problems introduced by end-users when modifying their applications. The three key elements introduced by Learn to automatically produce a (temporary) fix for the software are: (1) the definition of the InternetLearn infrastructure, which is a network infrastructure that enables communication between every individual instance of a same program running at different end-usersí sites, thus augmenting each application with the capability to access a huge amount of information collected in-the-field from other sites; (2) the definition of analysis techniques that can learn the characteristics of successful and failed runs by monitoring executions in the field from a number of instances running at many end-user sites; and (3) the definition of techniques for the automatic generation and actuation of temporary fixes on an Internet (World) scale.",
+    "totalCost": "1141875",
+    "ecMaxContribution": "1141875",
+    "coordinator": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999923531": {
+            "orgId": "999923531",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+            "ecContrib": 1141875
+        }
+    },
+    "calculatedTotalContribution": 1141875
+}

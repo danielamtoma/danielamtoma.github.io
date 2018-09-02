@@ -1,0 +1,48 @@
+{
+    "rcn": "206249",
+    "acronym": "Co4Robots",
+    "topics": "ICT-25-2016-2017",
+    "title": "Achieving Complex Collaborative Missions via Decentralized Control and Coordination of Interacting Robots",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Imagine a scenario where multiple robots have been deployed to provide services such as object handling/transportation, or pickup and delivery operations. In such a context, different robots with varying capabilities must be coordinated in order to achieve various multi-tasking procedures. Thus, the effective supervision and coordination of the overall heterogeneous system mandates a decentralized framework that integrates high-level task-planning, low-level motion control and robust, real-time sensing of the robotsí dynamic environment. Current practice is at a great deal based on offline, centralized planning and related tasks are usually fulfilled in a predefined manner: this does not utilize the capabilities of the system to operate efficiently in a dynamic environment. In most cases, sudden changes in the environment, the type of tasks, and the need for coordination, would cause the system to halt, ask for human intervention and restart. Despite the fact that public facilities are in some degree prestructured, the need for a framework for decentralized, real-time, automated task (re)-planning is evident in a twofold manner: (i) it will pave the way to an improved use of resources and a faster accomplishment of tasks inside public facilities and workspaces with high social activity? (ii) it will make an important contribution towards the vision of more flexible multirobot applications in both professional or domestic environments, also in view of the ìIndustry 4.0î vision and the general need to deploy such systems in everyday life scenarios. Within Co4Robots our goal is to build a systematic methodology to accomplish complex specifications given to a team of potentially heterogeneous robots; control schemes appropriate for the mobility and manipulation capabilities of the considered robots; perceptual capabilities that enable robots to localize themselves and estimate the state of the dynamic environment; and their systematic integration approach.",
+    "totalCost": "3820956,25",
+    "ecMaxContribution": "3820956,25",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "PAL ROBOTICS SL;ROBERT BOSCH GMBH;NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;GOETEBORGS UNIVERSITET",
+    "participantCountries": "ES;DE;EL;SE",
+    "projectParticipants": {
+        "999981925": {
+            "orgId": "999981925",
+            "orgName": "GOETEBORGS UNIVERSITET",
+            "ecContrib": 646901
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 535000
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 1271198
+        },
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 600000
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 446608
+        },
+        "970666488": {
+            "orgId": "970666488",
+            "orgName": "PAL ROBOTICS SL",
+            "ecContrib": 321250
+        }
+    },
+    "calculatedTotalContribution": 3820957
+}

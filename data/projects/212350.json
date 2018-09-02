@@ -1,0 +1,58 @@
+{
+    "rcn": "212350",
+    "acronym": "AIRPASS",
+    "topics": "RPAS-03",
+    "title": "Advanced Integrated RPAS Avionics Safety Suite",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2019",
+    "objective": "This proposal addresses ìTopic 03: Aircraft Systemsî of the SESAR ER RPAS call. Drones appear in a large variety of types, configurations and sizes. They are operated in a large variety of operational environments (i.e. locations, classes of airspace). However, it is essential that they interoperate with other drones as well as with manned aircraft. This proposal addresses the on-board technologies for drones that are required in order to implement the Unmanned Traffic Management (UTM) concept for drone operations at Very Low Level (VLL) and within the Visual Flight Rules (VFR) environment. The project will cover Detect And Avoid (D&A) systems for cooperative and non-cooperative traffic, auto-pilot systems as well as Communication, Navigation and Surveillance (CNS) systems. This project will identify the available CNS infrastructure and on-board technologies to formulate an implementation approach. Based on this an on-board system concept will be developed and evaluated.",
+    "totalCost": "1264973,75",
+    "ecMaxContribution": "986223,75",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "ISRAEL AEROSPACE INDUSTRIES LTD.;SAAB AKTIEBOLAG;STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;UNIVERSITA DEGLI STUDI DI NAPOLI PARTHENOPE;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;AVULAR BV;FEDERAL STATE UNITARY ENTERPRISE THE CENTRAL AEROHYDRODYNAMIC INSTITUTE NAMED AFTER PROF. N.E. ZHUKOVSKY",
+    "participantCountries": "IL;SE;NL;IT;DE;RU",
+    "projectParticipants": {
+        "999969315": {
+            "orgId": "999969315",
+            "orgName": "ISRAEL AEROSPACE INDUSTRIES LTD.",
+            "ecContrib": 216661
+        },
+        "927107765": {
+            "orgId": "927107765",
+            "orgName": "AVULAR BV",
+            "ecContrib": 32500
+        },
+        "999959615": {
+            "orgId": "999959615",
+            "orgName": "SAAB AKTIEBOLAG",
+            "ecContrib": 113750
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 100000
+        },
+        "999856019": {
+            "orgId": "999856019",
+            "orgName": "UNIVERSITA DEGLI STUDI DI NAPOLI PARTHENOPE",
+            "ecContrib": 118438
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 202500
+        },
+        "999534173": {
+            "orgId": "999534173",
+            "orgName": "FEDERAL STATE UNITARY ENTERPRISE THE CENTRAL AEROHYDRODYNAMIC INSTITUTE NAMED AFTER PROF. N.E. ZHUKOVSKY",
+            "ecContrib": 0
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 202375
+        }
+    },
+    "calculatedTotalContribution": 986224
+}

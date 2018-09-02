@@ -1,0 +1,23 @@
+{
+    "rcn": "197840",
+    "acronym": "SMART DESIGN",
+    "topics": "ERC-StG-2014",
+    "title": "Spin-orbit mechanism in adaptive magnetization-reversal techniques, for magnetic memory design",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "Compared to existing Random Access Memories, the Magnetic RAM (MRAM) has the advantage of being non-volatile. Though the basic requirements for reading and writing a single memory element are fulfilled, the present approach based on Spin Transfer Torque (STT) suffers from an innate lack of flexibility. \nThe solution that I propose is based on the discovery of a novel phenomenon, where instead of transferring spin angular momentum from a neighbouring layer, magnetization reversal is achieved by angular momentum transfer directly from the crystal lattice. There is a long list of advantages that this novel approach has compared to STT, but the goal of this project is to focus only on their most generic difference: flexibility.\nThe singularity of spin-orbit torque is that the in-plane current injection geometry decouples the ìreadî and ìwriteî mechanisms. The disconnection is essential, as unlike STT where the pillar shape of the magnetic trilayer sets the current path, in the case of SOT the composing elements may be shaped separately. The liberty of shaping the current distribution allows to spatially modulate the torque exerted on the local magnetization. \nThe central goal of my project is to explore the new magnetization dynamics, specific to the Spin-Orbit Torque (SOT) geometry, and design novel magnetization switching schemes.\nI will begin by tackling the fundamental questions about the origin of SOT and try to control it by mastering its dependence on the layer structure. Materials with on-demand SOT will serve as playground for the testing of a broad range of magnetization reversal techniques. The most successful among them will become the building-blocks of complex magnetic objects whose switching behaviour is tightly related to their shape. To study their magnetization dynamics I plan to build a time-resolved near-field magneto-optical microscope, a unique tool for the ultimate spatial and temporal resolution.",
+    "totalCost": "1476000",
+    "ecMaxContribution": "1476000",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1476000
+        }
+    },
+    "calculatedTotalContribution": 1476000
+}

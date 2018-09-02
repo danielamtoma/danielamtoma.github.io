@@ -1,0 +1,23 @@
+{
+    "rcn": "207871",
+    "acronym": "GLYCONOISE",
+    "topics": "ERC-2016-STG",
+    "title": "Emergent properties of cell surface glycosylation in cell-cell communication",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "The surface of every living cell is covered with a dense matrix of glycans. Its particular composition and structure codes important messages in cell-cell communication, influencing development, differentiation, and immunological processes. The matrix is formed by highly complex biopolymers whose compositions vary from cell to cell, even between genetically identical cells. This gives rise to population noise in cell-cell communication. A second level of noise stems from glycans present on the same cell that disturb the decoding of the message by glycans binding receptors through competitive binding. Glycan-based communication is characterized by a high redundancy of both glycans and their receptors. Thus, noise and redundancy emerge as key properties of glycan-based cell-cell communication, but their extent and function are poorly understood.\n\nBy adapting a transmitter-receiver model from communication sciences and combining it with state-of-the-art experimental techniques from biophysics and cell biology, we will address two fundamental questions: What is the role of the redundancy in glycan-based communication? How much Çnoiseí can it tolerate, before the message is lost?\n\nTo do so, we first establish a simplified model system for glycan-based communication. Biophysical rate constants are determined for lectin-glycan interactions and expanded to glycosylated microparticles that trigger a biological response in lectin expressing receiver cells. Next, single cell glycomes are reconstructed from ultra-high dimensional flow cytometry data using lectin mixtures enabled by recent advancements in instrumentation and glycobioinformatics software. Glycomes accessible on single cell level allow replacing the microparticles with transmitter cells and employ a cell-cell interaction model. Our transmitter-receiver model is used to quantify the noise and reveals how redundancy provides robustness of messaging by cell surface glycans in cellular communication.",
+    "totalCost": "1499813",
+    "ecMaxContribution": "1499813",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1499813
+        }
+    },
+    "calculatedTotalContribution": 1499813
+}

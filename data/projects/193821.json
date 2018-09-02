@@ -1,0 +1,38 @@
+{
+    "rcn": "193821",
+    "acronym": "FOSTER ITS",
+    "topics": "GALILEO-1-2014",
+    "title": "First Operational, Secured and Trusted galilEo Receiver for ITS",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The primary objective of FOSTER ITS is to design and develop the first secured GNSS module available on the market for ITS application.\n\nThe FOSTER ITS products will be Galileo, EGNOS, GPS and GLONASS enabled and will offer greater resilience against the increasing range of GNSS threats by:\nï Detecting signal attack attempts (spoofing, meaconing and jamming);\nï Providing indicators to users about confidence of the positioning;\nï Providing proof of the integrity and origin of the PVT data (digital signature).\n\nThe other ambition of FOSTER ITS project is to create a new ecosystem merging GNSS and Security. \n\nTo reach these objectives, the FOSTER ITS secured GNSS module will: \nï Implement and enhance the Level Of Confidence IP (Intellectual Property) developed in the FP7 TACOT project;\nï Implement and enhance the Spoofing, Meaconing and Jamming detection IP developed in the FP7 TACOT project;\nï Add a secure Micro Controller Unit (MCU) to increase speed and robustness of security functions and ensure easiest security evaluation;\nï Implement Galileo OS Navigation Message Authentication Capability;\nï Target automotive grade and security evaluation;\nï Provide interface to support EDAS (EGNOS Data Access Service).\n\nIn addition, the design of this secured module will natively allow further ITS security features in particular certificate and key cabinet that will be used in Vehicle-to-Vehicle and Vehicle-to-Infrastructure (V2X) communication (IEEE 1609.2 protocol).\n\nThe FOSTER ITS Team consists of experienced companies and organisations which provides the most efficient background for the performance of the project. This consortium is composed of FDC, ST Microelectronics (Automotive and Security divisions), Novacom services and NavCert.",
+    "totalCost": "2590461,25",
+    "ecMaxContribution": "1813322,87",
+    "coordinator": "FRANCE DEVELOPPEMENT CONSEIL (FDC)SARL",
+    "coordinatorCountry": "FR",
+    "participants": "NAVCERT GMBH;NOVACOM SERVICES SA;STMICROELECTRONICS SRL",
+    "participantCountries": "DE;FR;IT",
+    "projectParticipants": {
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 203175
+        },
+        "999465012": {
+            "orgId": "999465012",
+            "orgName": "FRANCE DEVELOPPEMENT CONSEIL (FDC)SARL",
+            "ecContrib": 1180826
+        },
+        "996489731": {
+            "orgId": "996489731",
+            "orgName": "NAVCERT GMBH",
+            "ecContrib": 233809
+        },
+        "996373525": {
+            "orgId": "996373525",
+            "orgName": "NOVACOM SERVICES SA",
+            "ecContrib": 195514
+        }
+    },
+    "calculatedTotalContribution": 1813324
+}

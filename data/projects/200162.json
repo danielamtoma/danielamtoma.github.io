@@ -1,0 +1,23 @@
+{
+    "rcn": "200162",
+    "acronym": "QINTERNET",
+    "topics": "ERC-StG-2015",
+    "title": "Quantum communication networks",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2021",
+    "objective": "My goal is to overcome the two-most pressing theoretical challenges necessary to build large-scale quantum communication networks: routing and designing protocols that use them to solve useful tasks. In two interconnected projects, I will devise entirely new concepts, models and mathematical methods that take into account the intricacies of real world quantum devices that can operate on only very few quantum bits at a time.\n\n(1) Security: I will prove the security of quantum cryptographic protocols under realistic conditions, and implement them in collaboration with experimentalists. I will develop a general theory and practical tests for the security of multi-party cryptographic primitives using untrusted quantum devices. This is mathematically challenging due to the possibility of entanglement between the devices.\n\n(2) Routing: I will initiate the systematic study of effective routing in a quantum communication network. This is necessary for quantum networks to grow in scale. Quantum entanglement offers very different means of routing messages than is possible in classical networks, and poses genuinely new challenges to computer science. I will design routing protocols in a multi-node quantum network of potentially different physical implementations, i.e., hybrid networks, that will establish a new line of research in my field. \n\nQuantum networks are still in their infancy, even though quantum communication offers unparalleled advantages that are provably impossible using classical communication. Building a quantum network is an interdisciplinary effort bringing together computer science, physics, and engineering. I am in a unique position in computer science, since I have recently joined QuTech where I have direct access to small quantum devices - bringing me tantalizingly close to seeing such networks realized. As with early classical networks, it is difficult to predict where our journey will end, but my research will join theory and experiment to move forward.",
+    "totalCost": "1498725",
+    "ecMaxContribution": "1498725",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1498725
+        }
+    },
+    "calculatedTotalContribution": 1498725
+}

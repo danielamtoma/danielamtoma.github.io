@@ -1,0 +1,23 @@
+{
+    "rcn": "199472",
+    "acronym": "DiDi-FaCT",
+    "topics": "JTI-CS2-2014-CFP01-SYS-02-06",
+    "title": "Diode Die Fatigue Characterisation and Testing",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Future aircraft will use more electrical power, which increases the use of power electronics. The increased demand for electrical power also means that aircraft electrical generators must be scaled up accordingly. One type of power-electronic components is the power diode, consisting of the semiconductor diode die and a package to provide amongst others the electrical connections. In the case of a three-stage brushless generator, a diode rectifier is part of the rotor. The local environment is very harsh; the diodes must endure high temperatures due to heat generation (in the diodes and also in the rest of the generator) in an already hot engine environment, high rotation-induced compression stress, thermally induced shear stress, and low temperatures when the generator is not running. Still, the diodes must perform reliably with low losses.\n\nNew ways of packaging diodes using the bare silicon dies, and also new semiconductor technologies such as silicon carbide are currently finding their way to these harsh-environment applications. Both trends promise large benefits for size, weight, thermal and electrical performance. However, it is not always certain if the new packages and components have sufficient long-term reliability in this harsh environment.\n\nDiDi (FaCT) will accurately model the thermo-mechanical stresses to determine an aging model of the diode dies. In parallel, a dedicated test bench will be developed and used to put multiple diode dies to a long-term combined thermo-mechanical stress test. At the end of the project, DiDi combines all information and delivers an optimised and validated aging model of the dies. The result will be very valuable for users of power electronic dies in harsh environments such as aircraft generators, as it allows to optimise the die package design with due regard to long-term reliability, which in turn paves the way towards large weight and efficiency improvements in generators and other equipment.",
+    "totalCost": "399785",
+    "ecMaxContribution": "399785",
+    "coordinator": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 399785
+        }
+    },
+    "calculatedTotalContribution": 399785
+}

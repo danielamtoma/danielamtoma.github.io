@@ -1,0 +1,23 @@
+{
+    "rcn": "199410",
+    "acronym": "FLIRT",
+    "topics": "ERC-StG-2015",
+    "title": "Fluid Flows and Irregular Transport",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "Several important partial differential equations (PDEs) arising in the mathematical description of physical phenomena exhibit transport features: physical quantities are advected by velocity fields that drive the dynamics of the system. This is the case for instance for the Euler equation of fluid dynamics, for conservation laws, and for kinetic equations.\nAn ubiquitous feature of these phenomena is their intrinsic lack of regularity. From the mathematical point of view this stems from the nonlinearity and/or nonlocality of the PDEs. Moreover, the lack of regularity also encodes actual properties of the underlying physical systems: conservation laws develop shocks (discontinuities that propagate in time), solutions to the Euler equation exhibit rough and 'disordered' behaviors. This irregularity is the major difficulty in the mathematical analysis of such problems, since it prevents the use of many standard methods, foremost the classical (and powerful) theory of characteristics.\nFor these reasons, the study in a non smooth setting of transport and continuity equations, and of flows of ordinary differential equations, is a fundamental tool to approach challenging important questions concerning these PDEs.\nThis project aims at establishing:\n(1) Deep insight into the structure of solutions of nonlinear PDEs, in particular the Euler equation and multidimensional systems of conservation laws.\n(2) Rigorous bounds for mixing phenomena in fluid flows, phenomena for which giving a precise mathematical formulation is extremely challenging.\nThe unifying factor of this proposal is that the analysis will rely on major advances in the theory of flows of ordinary differential equations in a non smooth setting, thus providing a robust formulation via characteristics for the PDEs under consideration. The guiding thread is the crucial role of geometric measure theory techniques, which are extremely efficient to describe and investigate irregular phenomena.",
+    "totalCost": "1009351",
+    "ecMaxContribution": "1009351",
+    "coordinator": "UNIVERSITAT BASEL",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907914": {
+            "orgId": "999907914",
+            "orgName": "UNIVERSITAT BASEL",
+            "ecContrib": 1009351
+        }
+    },
+    "calculatedTotalContribution": 1009351
+}

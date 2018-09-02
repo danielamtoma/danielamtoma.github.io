@@ -1,0 +1,28 @@
+{
+    "rcn": "197217",
+    "acronym": "EngineeringPercepts",
+    "topics": "ERC-StG-2014",
+    "title": "Reverse engineering sensory perception and decision making: bridging physiology, anatomy and behavior",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2020",
+    "objective": "Understanding how the brain is able to transform sensory input into decisions is one of the major challenges of systems neuroscience. While recording/imaging during sensory-motor tasks identified neural substrates of sensation and action in various cortical areas, the crucial questions of 1) how these correlates are implemented within the underlying neural networks and 2) how their output triggers decisions, will only be answered when the individual functional measurements are integrated into a coherent model of all task-related circuits.\n\nThe goal of my proposal is to use the rodent vibrissal system for building such a model in the context of how a tactile-mediated percept is encoded by the interplay between biophysical, cellular and network mechanisms. Specifically, rodents decide to cross a gap when detecting its far side with a single facial whisker. This suggests that whisker contact with the platform, if synchronized with an internal motor signal, triggers the decision. My key hypothesis is that in sensory cortex layer 5 thick-tufted (L5tt) neurons receive touch and motor information via specific pathways that target basal and apical tuft dendrites, respectively. When localizing the far side of the gap, the two inputs coincide and result in burst spiking output to (sub)cortical areas, triggering the gap cross. \n\nTo test this hypothesis, I will determine all sensory/motor-related local and long-range inputs/outputs to/from L5tt neurons, measure whisker-evoked responses of these populations and use the data to constrain network simulations of active whisker touch. Using a multidisciplinary approach, combining in vivo electrophysiology, virus injections, custom imaging/reconstruction tools and Monte Carlo simulations, my reverse engineering strategy will provide unmatched mechanistic insight to perceptual decision making and will function as a show case ñ generalizable across sensory modalities and species ñ of how to derive computations that underlie behavior.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "stiftung caesar",
+    "coordinatorCountry": "DE",
+    "participants": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 281000
+        },
+        "974952433": {
+            "orgId": "974952433",
+            "orgName": "stiftung caesar",
+            "ecContrib": 1219000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

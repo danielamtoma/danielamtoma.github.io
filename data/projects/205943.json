@@ -1,0 +1,23 @@
+{
+    "rcn": "205943",
+    "acronym": "MapMe",
+    "topics": "ERC-2016-STG",
+    "title": "Mapping metabolic regulators at a genome-scale to switch bacteria from growth to overproduction of chemicals",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "Metabolic engineering creates improved microbes for industrial biotechnology. Rational design of industrial microbes centres on modifications of genes with known roles in the production pathway of interest. However, genes that are unrelated to the production pathway are also known to substantially impact productivity. To date there are no methods that allow the prediction of such distal genes on a rational basis. Effects of distal genes are indirect, and mediated through regulatory interactions between metabolites and proteins, most of which are currently unknown even in the well-studied microbe Escherichia coli. The lack of knowledge of metabolite-protein interactions thus effectively prohibits systematic exploration of distal regulatory relationships, with the consequence that models used to predict metabolic engineering targets are severely limited and rarely applied in industrial biotechnology. Previously, we used small-scale metabolic models and metabolomics to infer metabolite-protein interactions in specific pathways. In this project we propose a novel genome-wide endeavor to map metabolite-protein interactions across the entire metabolic network. For this purpose, we will use the recently developed CRISPR interference system to quantitatively perturb >900 single metabolic genes in E. coli. Combining the metabolomics data of these >900 gene perturbations with a genome-scale metabolic model will enable us to infer functionally relevant metabolite-protein interactions. Finally, we will apply this knowledge to the model-guided metabolic engineering of superior E. coli strains. Specifically, we want E. coli to cease growth upon induction and focus all its metabolic resources towards synthesis of succinic acid. This controlled uncoupling of growth from overproduction on a rational basis will break new grounds in metabolic engineering and opens up novel applications in industrial biotechnology.",
+    "totalCost": "1461200",
+    "ecMaxContribution": "1461200",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1461200
+        }
+    },
+    "calculatedTotalContribution": 1461200
+}

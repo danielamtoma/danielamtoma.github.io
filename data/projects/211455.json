@@ -1,0 +1,23 @@
+{
+    "rcn": "211455",
+    "acronym": "ADDABU",
+    "topics": "ERC-2017-PoC",
+    "title": "Automated detection of damage to buildings",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2018",
+    "objective": "Hail and storm damages represent the most often occurring cases for building insurance companies. Currently, the damage is estimated by an insurance expert, visiting the damaged building and drafting a report. Researchers at the Computer Vision Lab at ETH Zurich joined forces with business and sales people, spinning out the company Casalva, to strongly reduce such costs via automated image analysis. The idea is that the insurersí clients upload photos of the damages, which will then be analyzed automatically by a computer. This involves computer vision technologies ñ grounded in the ERC project VarCity ñ to recognize the damaged building structures and to analyze the corresponding textures as to assess the extent of the damage and the estimated costs for its repair. Cutting costs is not the only consideration, as the fast assessment of damages improves customer satisfaction and prevents the occurrence of additional damages because of a delayed repair (like water leaking before repair). Such follow-on damages are estimated to be 20% of overall costs on average and are therefore far from negligible. Guaranteeing a short term response currently is a major issue, as a single storm may affect thousands of buildings. Processing times tend to stretch out due to the peak in cases following such extreme weather events. Over half of hail storm damage cases concern facade structures. The VarCity project produced methods to automatically parse facades into such structures, and to select the best way to describe their textures. These will be refined to optimally deal with the application area. The remaining technical developments and risk mitigations will be funded through other means (a Swiss project that has already been submitted), while this Proof-of-Concept project will focus on equally important aspects like market analysis, development of a corporate identity and graphical house style for the Casalva spin-off, that has been created but should now get market introduction.",
+    "totalCost": "143750",
+    "ecMaxContribution": "143750",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 143750
+        }
+    },
+    "calculatedTotalContribution": 143750
+}

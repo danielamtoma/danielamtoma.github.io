@@ -1,0 +1,58 @@
+{
+    "rcn": "213105",
+    "acronym": "MeMAD",
+    "topics": "ICT-20-2017",
+    "title": "Methods for Managing Audiovisual Data: Combining  Automatic Efficiency with Human Accuracy",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Audiovisual media content created and used in films and videos is key for people to communicate and entertain. It has also become an essential resource of modern history, since a large portion of memories and records of the 20th and 21st centuries are audiovisual. To fully benefit from this asset, fast and effective methods are needed to cope with the rapidly growing audiovisual big data that are collected in digital repositories and used internationally. MeMAD will provide novel methods for an efficient re-use and re-purpose of multilingual audiovisual content which revolutionize video management and digital storytelling in broadcasting and media production. We go far beyond the state-of-the-art automatic video description methods by making the machine learn from the human. The resulting description is thus not only a time-aligned semantic extraction of objects but makes use of the audio and recognizes action sequences. While current methods work mainly for English, MeMAD will handle multilingual source material and produce multilingual descriptions and thus enhance the user experience. Our method interactively integrates the latest research achievements in deep neural network techniques in computer vision with knowledge bases, human and machine translation in a continuously improving machine learning framework. This results in detailed, rich descriptions of the moving images, speech, and audio, which enable people working in the Creative Industries to access and use audiovisual information in more effective ways. Moreover,the intermodal translation from images and sounds into words will attract millions of new users to audiovisual media, including the visually and hearing impaired. Anyone using audiovisual content will also benefit from these verbalisations as they are non-invasive surrogates for visual and auditory information, which can be processed without the need of actually watching or listening, matching the new usage of video consumption on mobile devices.",
+    "totalCost": "3431593,75",
+    "ecMaxContribution": "3431593,75",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "HELSINGIN YLIOPISTO;LIMECRAFT NV;LINGSOFT OY;EURECOM;YLEISRADIO OY;INSTITUT NATIONAL DE L'AUDIOVISUEL;UNIVERSITY OF SURREY",
+    "participantCountries": "FI;BE;FR;UK",
+    "projectParticipants": {
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 401599
+        },
+        "951478530": {
+            "orgId": "951478530",
+            "orgName": "YLEISRADIO OY",
+            "ecContrib": 354850
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 370680
+        },
+        "964984422": {
+            "orgId": "964984422",
+            "orgName": "LINGSOFT OY",
+            "ecContrib": 309250
+        },
+        "971948440": {
+            "orgId": "971948440",
+            "orgName": "LIMECRAFT NV",
+            "ecContrib": 633080
+        },
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 397399
+        },
+        "998328851": {
+            "orgId": "998328851",
+            "orgName": "INSTITUT NATIONAL DE L'AUDIOVISUEL",
+            "ecContrib": 212529
+        }
+    },
+    "calculatedTotalContribution": 2679387
+}

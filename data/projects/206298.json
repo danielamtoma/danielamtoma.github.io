@@ -1,0 +1,23 @@
+{
+    "rcn": "206298",
+    "acronym": "DeeBMED",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Deep learning and Bayesian inference for medical imaging",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2018",
+    "objective": "Diseases characteristic for modern western civilization, such as cancer, diabetes or cardiovascular disorders, lead to millions of deaths per year in the European Union. In order to decrease this enormous quantity, medical imaging should be widely available at early diagnostics and every stage of a therapy. Nowadays, there are various diagnostics techniques including CT, PET, MRI, however, analysis of a medical image is time-consuming and expensive. Development of new effective automatic tool for medical imaging will appear a new strategy in highly specific control of incidences and disease progression. The aim of the DeeBMED project is to develop powerful automatic medical imaging tool that can cope with main problems associated with complex images like medical scans: multimodality of data distribution, large number of dimension and small number of examples, small amount of labeled data, multi-source learning, and robustness to transformations. In this project I will propose a probabilistic framework that combines different deep neural networks (DNN), such as feedforward nets, convolutional nets, Gaussian processes. I will apply DNN to model probabilistic relationships among a medical scan, a disease label, and hidden variables representing latent factors in data. In the case of a small sample size DNN are prone to overfitting. A possible remedy for that is Bayesian learning, however, it is still challenging how to apply it to DNN. In this project I will use various approaches: modelling weights uncertainty, Dropout, Bayesian Distillation. As the result I predict identification of the first highly effective medical imaging analysis tool that in the future will be widely used by radiologists in medical institutes in the whole EU. Novel automation will drastically reduce time and costs of analysis and provide more accessible diagnostics. The project will be carried out at the University of Amsterdam, under the supervision of Prof. Max Welling.",
+    "totalCost": "177598,8",
+    "ecMaxContribution": "177598,8",
+    "coordinator": "UNIVERSITEIT VAN AMSTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 177599
+        }
+    },
+    "calculatedTotalContribution": 177599
+}

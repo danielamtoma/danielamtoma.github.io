@@ -1,0 +1,33 @@
+{
+    "rcn": "202666",
+    "acronym": "PNOWWA",
+    "topics": "Sesar-04-2015",
+    "title": "Probabilistic Nowcasting of Winter Weather for Airports",
+    "startDate": "18/04/2016",
+    "endDate": "17/04/2018",
+    "objective": "'The PNOWWA project will produce methods for the probabilistic short-term forecasting of winter weather and enable the assessment of the uncertainty in the ground part of 4D trajectories. 4D trajectory management is a necessary concept to meet future growth in air traffic; probabilistic forecasts will be used in ATM applications to†support operational planning in surface management and ATM decision making, thereby increasing airport capacity, shortening delays and promoting safety.\nPNOWWA will demonstrate very short-term (0-3h, 'nowcast') probabilistic winter weather forecasts in 15min time resolution based on an extrapolation of movement of weather radar echoes and improve predictability of changes in snowfall intensity caused by underlying terrain (such as mountains and seas). Research demonstrations are conducted both offline and online at the Operative User Environment (OUE) site representing influence of the underlying terrain to forecast accuracy. An extensive user consultation will analyze needs to ensure products are suitable to be integrated in various applications on the ATM side. The adjustment to user needs will cover the most relevant parameters (visibility, intensity and snow depth) and operationally important thresholds of the selected parameters (e.g. heavy snowfall).\nThe PNOWWA project has linkages to completed work in ongoing EU SESAR1 program, where FMI developed Step 1 (Time Based Operations) winter weather solutions based on deterministic forecasts to local OUE. The initial concept of short-range snowfall forecasts improvement with usage of weather radar has been validated in that context, and the second phase  solutions (Step 2: Trajectory-based Operations) will be developed in EU SESAR 2020 program. The proposed PNOWWA  project will develop the methods for deducing probability forecasts of winter weather required by SESAR 2020. PNOWWA project will also deliver a roadmap towards implementation with connection points in future SESAR projects.'",
+    "totalCost": "597500",
+    "ecMaxContribution": "597500",
+    "coordinator": "ILMATIETEEN LAITOS",
+    "coordinatorCountry": "FI",
+    "participants": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "participantCountries": "AT;DE",
+    "projectParticipants": {
+        "999591306": {
+            "orgId": "999591306",
+            "orgName": "ILMATIETEEN LAITOS",
+            "ecContrib": 290125
+        },
+        "998956635": {
+            "orgId": "998956635",
+            "orgName": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH",
+            "ecContrib": 152500
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 154875
+        }
+    },
+    "calculatedTotalContribution": 597500
+}

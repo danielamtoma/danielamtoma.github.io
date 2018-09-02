@@ -1,0 +1,23 @@
+{
+    "rcn": "213487",
+    "acronym": "AFIRMATIVE",
+    "topics": "ERC-2017-COG",
+    "title": "Acoustic-Flow Interaction Models for Advancing Thermoacoustic Instability prediction in Very low Emission combustors",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2023",
+    "objective": "Gas turbines are an essential ingredient in the long-term energy and aviation mix. They are flexible, offer fast start-up and the ability to burn renewable-generated fuels. However, they generate NOx emissions, which cause air pollution and damage human health, and reducing these is an air quality imperative. A major hurdle to this is that lean premixed combustion, essential for further NOx emission reductions, is highly susceptible to thermoacoustic instability. This is caused by a two-way coupling between unsteady combustion and acoustic waves, and the resulting large pressure oscillations can cause severe mechanical damage. Computational methods for predicting thermoacoustic instability, fast and accurate enough to be used as part of the industrial design process, are urgently needed.\nThe only computational methods with the prospect of being fast enough are those based on coupled treatment of the acoustic waves and unsteady combustion. These exploit the amenity of the acoustic waves to analytical modelling, allowing costly simulations to be directed only at the more complex flame. They show real promise: my group recently demonstrated the first accurate coupled predictions for lab-scale combustors. The method does not yet extend to industrial combustors, the more complex flow-fields in these rendering current acoustic models overly-simplistic. I propose to comprehensively overhaul acoustic models across the entirety of the combustor, accounting for real and important acoustic-flow interactions. These new models will offer the breakthrough prospect of extending efficient, accurate predictive capability to industrial combustors, which has a real chance of facilitating future, instability free, very low NOx gas turbines.",
+    "totalCost": "1985288",
+    "ecMaxContribution": "1985288",
+    "coordinator": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 1985288
+        }
+    },
+    "calculatedTotalContribution": 1985288
+}

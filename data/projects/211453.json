@@ -1,0 +1,23 @@
+{
+    "rcn": "211453",
+    "acronym": "BabyMinder",
+    "topics": "ERC-2017-PoC",
+    "title": "BabyMinder: Automatic diagnosis of neurocognitive impairment in infants",
+    "startDate": "01/07/2017",
+    "endDate": "31/12/2018",
+    "objective": "Each year, millions of infants are born with neurodevelopment disorders resulting in cognitive deficits. Although infants are tested for their low-level (visual and auditory) abilities in the health care system, no standard tools exist for evaluating the development of cognitive functions, due to the absence of verbal report and explicit behaviour. Converging evidence now suggests that neural markers obtained from electroencephalographic (EEG) offer a valid approach for tracking the development of cognitive functions in the infant brain. The BabyMinder provides a proof-of-concept for a novel EEG portable system combined with a sensory stimulation application to track normal and impaired neurocognitive processing in infants. Its main purpose will be to help the diagnosis of neurodevelopmental disorders. The BabyMinder will be fully embedded in a wearable system and will feature active electrodes, which provide reliable EEG signals, yet do not require any electrolyte gel or humidification. Although several low-cost and fully portable systems have recently been developed for adults, none of these portable systems has been adapted to infant populations. It will also consist of a functional localizer for the automatic tracking of neurocognitive components. This functional localizer will consist of a stimulation protocol with various types of stimuli presented every few seconds, tapping specific levels of representation while the EEG device will monitor the deployment of dedicated neurocognitive components in real-time. The whole procedure will be embedded in children-friendly animations to keep infants interested. In time, a large database of participants will be collected and combined with state-of-the-art machine learning algorithms using a big data approach, improving the classification of normal vs. impaired neurocognitive processes. We aim to make the BabyMinder a standard tool for the diagnosis of neurodevelopmental disorders in the future.",
+    "totalCost": "149780",
+    "ecMaxContribution": "149780",
+    "coordinator": "ECOLE NORMALE SUPERIEURE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999854758": {
+            "orgId": "999854758",
+            "orgName": "ECOLE NORMALE SUPERIEURE",
+            "ecContrib": 149780
+        }
+    },
+    "calculatedTotalContribution": 149780
+}

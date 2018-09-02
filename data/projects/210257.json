@@ -1,0 +1,23 @@
+{
+    "rcn": "210257",
+    "acronym": "SEMANTAX",
+    "topics": "ERC-2016-ADG",
+    "title": "Form-Independent Semantics for Natural Language Understanding",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2022",
+    "objective": "The project addresses the most important open problem in NLP, to develop a robust semantics that is invariant across different linguistic forms within a language and across languages, and embodies aspects of common-sense knowledge.  It will be derived by machine-learning from machine-reading of vast amounts of text, using an existing state-of-the-art wide-coverage CCG semantic parser developed under previous ERC funding to the PI, initially to build traditional semantic analyses of sentences relating named entities.\n\nPatterns of entailment across semantic expressions relating the same named entities will be then detected across other entities of the same types, to construct directed entailment graphs. Cliques within the graphs constitute paraphrases, and can be collapsed to a single cluster identifier.  The paraphrase-clustered entailment graph can then be used to redefine the semantics delivered by the parser as conjunctions of entailed paraphrase clusters, to make it invariant under paraphrase and common-sense entailment, yet compatible with a traditional logical operator semantics.  The semantics will be extended to a wide range of logical operators, including tense, modality, aspect, and voice, and to implicative and evidential verbs, light verbs, multi-word expressions, and idioms. The method will be applied to semantic parsing, machine translation, knowledge-graph query, and the construction of large knowledge graphs or semantic nets from text, using spreading activation to limit growth in costs of updating and querying the knowledge graph.\n\nIn the later stages of the project, the paraphrase-clustered entailment semantics will form the bassi for an incremental semantic parser, using a novel shift-reduce architecture proposed for CCG by the PI in 2000, guided by a modern neural network parsing model acting as a categorial 'supertagger' and parser action model, for application to language modeling for the machine translation component.",
+    "totalCost": "1996792",
+    "ecMaxContribution": "1996792",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1996792
+        }
+    },
+    "calculatedTotalContribution": 1996792
+}

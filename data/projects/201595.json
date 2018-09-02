@@ -1,0 +1,23 @@
+{
+    "rcn": "201595",
+    "acronym": "NiCoFlow",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Nature-inspired control of turbulent flows",
+    "startDate": "01/03/2016",
+    "endDate": "31/03/2018",
+    "objective": "Many aspects of the animal flight still remain unexplored, despite the enormous possibilities they offer to improve the current aerospace technology.  One such aspect that received least attention of the scientists is the following: the wing surfaces of the flying animals are coated with hairs, feathers and other filamentous structures. These self-adaptive hairy layers strongly influence the flow field characteristics, and it has been reported that such coatings may be used to control the laminar-turbulent transition as well as turbulence in order to achieve energy efficient flight. The objectives of the NiCoFlow project are: (1) to devise the essential mathematical and computational framework to study the flow around objects with surface-mounted self-adaptive hairs, and (2) to elucidate the fundamental fluid dynamic mechanisms through which the surface coatings can enable new flow control strategies. In this work, a homogenized poro-elastic continuum models will be used to describe the flow through the hairy layers. Moreover, a computational approach to simulate two-way coupling between such homogenized continuum models and the surrounding fluid flow will be developed.. This approach will be thoroughly validated by simulating fluid flow over a flat plate attached with surface-mounted flexible hairs and comparing the numerical results against existing experimental data. The validated model will be used to perform direct numerical simulations of transitional and turbulent flows to reveal the detailed flow characteristics, and shed light on how these self-adaptive hairy features may delay the transition to turbulence and reduce the turbulent skin-friction. A potential passive control technique, relying on these nature-inspired hairy coatings, will have a large industrial impact, including applications in aeronautics, energy harvesting and the transport sector.",
+    "totalCost": "173857,2",
+    "ecMaxContribution": "173857,2",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 173857
+        }
+    },
+    "calculatedTotalContribution": 173857
+}

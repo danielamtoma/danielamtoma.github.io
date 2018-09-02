@@ -1,0 +1,28 @@
+{
+    "rcn": "196789",
+    "acronym": "SPECTRUM",
+    "topics": "ERC-StG-2014",
+    "title": "Spectral theory of random operators",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2020",
+    "objective": "The theme of this proposal is the study of random operators associated with some geometric structure, and the influence of the geometry on the spectral properties of the operator. Such operators appear in problems from theoretical physics, and lead to new and interesting mathematical structures.\nOne circle of questions is related to random operators, which describe the motion of a quantum particle in a disordered medium, such as random band matrices. The behaviour of the particle is influenced by the underlying geometry, as quantified by the (non-rigorous) Thouless criterion for localisation in terms of the mixing time of the classical random walk; in the context of random band matrices, the predictions of the Thouless criterion are supported by additional (non-rigorous) arguments. These predictions have so far not been rigorously justified; an exception is my own result, validating it at the spectral edges. One of our goals is to develop new methods, which would be applicable in the bulk of the spectrum, for random band matrices and other operators with geometric structure.\nAnother circle of questions is given by random processes taking values in large random matrices. The spectral properties of the random matrix at every point of the underlying space are described by the random matrix theory; but how does the spectrum evolve along the underlying space? The richness of this question is apparent from the one-dimensional case of Dyson Brownian motion. We intend to study the local eigenvalue statistics of general matrix-valued random processes with multi-dimensional underlying space; to give a complete description of the random processes which appear in the limit, first for the spectral edges and then for the bulk of the spectrum, and to explore the appearance of these processes in a variety of basic questions of mathematical physics.",
+    "totalCost": "991750",
+    "ecMaxContribution": "991750",
+    "coordinator": "QUEEN MARY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "TEL AVIV UNIVERSITY",
+    "participantCountries": "IL",
+    "projectParticipants": {
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 824854
+        },
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 166896
+        }
+    },
+    "calculatedTotalContribution": 991750
+}

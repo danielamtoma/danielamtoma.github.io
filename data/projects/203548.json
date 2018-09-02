@@ -1,0 +1,23 @@
+{
+    "rcn": "203548",
+    "acronym": "IceXL",
+    "topics": "ERC-PoC-2015",
+    "title": "IceXL: Advanced modeling and slicing software for additive manufacturing",
+    "startDate": "01/09/2016",
+    "endDate": "28/02/2018",
+    "objective": "The ICEXL proof of concept project targets the pre-commercialization of a novel software for additive manufacturing of complex technical parts. It relies on innovative approaches from the SHAPEFORGE project (Stg-2012-307877) and in particular our software prototype IceSL. We aim at unlocking the full potential of additive manufacturing in terms of the complexity of the parts that can be designed and manufactured and in terms of customization possibilities by non-experts in computer aided design.\n\nA key challenge of additive manufacturing is to deal with extremely complex designs having micron-scale details in possibly meter-scale objects. Such a profusion of details is both a challenge for the engineers -- manually creating such details while following precise specifications is a daunting task -- as well as a technical challenge due to the size and complexity of the considered geometries. Another challenge is to allow non-expert users to customize parts and to adapt them to a specific usage.\n\nOur software prototype IceSL has the potential to answer both challenges. Complex objects are described as combinations of base shapes (e.g. union, intersection, difference, offsets). IceSL stores this list of operations in a digital blueprint that retains design parameters such as construction rules and dimensions. The blueprint is many times smaller than a triangle mesh of the full final object. The decisive advantage of IceSL compared to other software is that it directly produces\ninstructions for the manufacturing process from its digital blueprint. It allows the interactive visualization of the final object as well as the interactive edition of the blueprint parameters.\n\nThe goal of the ICEXL project is to turn the research prototyped in IceSL into a software product, and to demonstrate its applicability on industrial case studies. Potential customers include preliminary contacts within the medical, automotive, aerospace and consumer market domains.",
+    "totalCost": "149750",
+    "ecMaxContribution": "149750",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 149750
+        }
+    },
+    "calculatedTotalContribution": 149750
+}

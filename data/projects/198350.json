@@ -1,0 +1,73 @@
+{
+    "rcn": "198350",
+    "acronym": "MOTOR",
+    "topics": "FoF-08-2015",
+    "title": "Multi-ObjecTive design Optimization of fluid eneRgy machines",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "The MOTOR project focuses on ICT-enabled design optimization technologies for fluid energy machines (FEMs) that transfer mechanical energy to and from the fluid, in particular for aircraft engines, ship propellers, water turbines, and screw machines. The performance of these machines essentially depends on the shape of their geometry, which is described by functional free-form surfaces. Even small modifications have significant impact on the performance; hence the design process requires a very accurate representation of the geometry.\nOur vision is to link all computational tools involved in the chain of design, simulation and optimization to the same representation of the geometry, thereby reducing the number of approximate conversion steps between different representations. The improved accuracy and reliability of numerical simulations enables the design of more efficient FEMs by effective design optimization methods. MOTOR also exploits the synergies between the design optimization technologies for the different types of FEMs that have so far been developed independently. \n\nMOTOR adopts a modular approach for developing novel methodologies and computational tools and integrating them into real process chains, contributing\nï a volumetric mesh generator with exact interface matching for multi-domain geometries enabling high-order multi-physics simulations with enhanced accuracy, \nï an isogeometric analysis simulation toolbox for CFD, CSM, and FSI problems and advanced interactive visualization toolkit for high-order solutions, and \nï automatic shape optimization based on a multi-level approach in the parameterization enabling different levels of shape variety to combine design space exploration with local searches. \n\nThe effectiveness of our approach in terms of reduced time to production and increased efficiency of the optimally designed product will be validated by developing four proof-of-concept demonstrators with the modernized process chains.",
+    "totalCost": "4302875",
+    "ecMaxContribution": "4302875",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "UNIVERSITAT LINZ;TECHNISCHE UNIVERSITAT DORTMUND;MAVEL AS;TECHNISCHE UNIVERSITAET KAISERSLAUTERN;STICHTING MARITIEM RESEARCH INSTITUUT NEDERLAND;ESS ENGINEERING SOFTWARE STEYR GMBH;INSTITUT VON KARMAN DE DYNAMIQUE DES FLUIDES;ZAPADOCESKA UNIVERZITA V PLZNI;MTU AERO ENGINES AG;CATERPILLAR PROPULSION PRODUCTION AB",
+    "participantCountries": "AT;DE;CZ;NL;BE;SE",
+    "projectParticipants": {
+        "932879750": {
+            "orgId": "932879750",
+            "orgName": "MAVEL AS",
+            "ecContrib": 248000
+        },
+        "999843894": {
+            "orgId": "999843894",
+            "orgName": "ZAPADOCESKA UNIVERZITA V PLZNI",
+            "ecContrib": 319375
+        },
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 307500
+        },
+        "928033339": {
+            "orgId": "928033339",
+            "orgName": "CATERPILLAR PROPULSION PRODUCTION AB",
+            "ecContrib": 91250
+        },
+        "999885895": {
+            "orgId": "999885895",
+            "orgName": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+            "ecContrib": 430000
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 652875
+        },
+        "950259822": {
+            "orgId": "950259822",
+            "orgName": "MTU AERO ENGINES AG",
+            "ecContrib": 400625
+        },
+        "999698006": {
+            "orgId": "999698006",
+            "orgName": "INSTITUT VON KARMAN DE DYNAMIQUE DES FLUIDES",
+            "ecContrib": 450000
+        },
+        "998073644": {
+            "orgId": "998073644",
+            "orgName": "STICHTING MARITIEM RESEARCH INSTITUUT NEDERLAND",
+            "ecContrib": 511250
+        },
+        "999848453": {
+            "orgId": "999848453",
+            "orgName": "TECHNISCHE UNIVERSITAT DORTMUND",
+            "ecContrib": 398125
+        },
+        "933615010": {
+            "orgId": "933615010",
+            "orgName": "ESS ENGINEERING SOFTWARE STEYR GMBH",
+            "ecContrib": 493875
+        }
+    },
+    "calculatedTotalContribution": 4302875
+}

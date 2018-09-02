@@ -1,0 +1,53 @@
+{
+    "rcn": "199161",
+    "acronym": "HERCULES",
+    "topics": "ICT-04-2015",
+    "title": "High-Performance Real-time Architectures for Low-Power Embedded Systems",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "The advent of commercial-of-the-shelf (COTS) heterogeneous multi-core platforms is opening up a series of opportunities in the embedded computing market. Integrating multiple computing element running at smaller frequencies allows obtaining impressive performance capabilities at a reduced power consumption. At the same time, new applications are being proposed integrating more and more functionalities in the objects commonly used for our daily activities, imposing a number of additional requirements to embedded systems designers:\n- Higher computing workloads, elaborating and fusing multiple sensor data;\n- Reduced power consumption, allowing smaller batteries and renewable power sources;\n- Quicker interaction with the environment, requiring a prompt elaboration of sensor data;\n- Higher criticality, replacing safety-critical human activities.\n\nThese converging needs call for ìreal-time embedded super-computing platformsî that are able to predictably provide real-time guarantees to applications running on top of next generation embedded platforms. These applications do not only require high performance at low power. They also need to provide predictable guarantees. Having impressive average performances with no guaranteed bounds on the response times of the critical computing activities is of little if no use to these applications.\nProject HERCULES will provide the required technological infrastructure to obtain an order-of-magnitude improvement in the cost and power consumption of next generation real-time applications. It will develop an integrated framework to allow achieving predictable performance on top of cutting-edge heterogeneous CTOS multi-core platforms, implementing real-time scheduling techniques and execution models recently proposed in the research community. The framework will be applied to two innovative industrial use cases: a pioneering autonomous driving system for the automotive domain, and a visual recognition system for the avionic domain.",
+    "totalCost": "3261443,47",
+    "ecMaxContribution": "2072300",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA",
+    "coordinatorCountry": "IT",
+    "participants": "EVIDENCE SRL;PITOM S.N.C. DI MICHELE FRANCHI E ROBERTO MATI;AIRBUS DEFENCE AND SPACE GMBH;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;CESKE VYSOKE UCENI TECHNICKE V PRAZE;MAGNETI MARELLI S.P.A.",
+    "participantCountries": "IT;DE;CH;CZ",
+    "projectParticipants": {
+        "999848744": {
+            "orgId": "999848744",
+            "orgName": "CESKE VYSOKE UCENI TECHNICKE V PRAZE",
+            "ecContrib": 344875
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "999737194": {
+            "orgId": "999737194",
+            "orgName": "EVIDENCE SRL",
+            "ecContrib": 367500
+        },
+        "925541894": {
+            "orgId": "925541894",
+            "orgName": "PITOM S.N.C. DI MICHELE FRANCHI E ROBERTO MATI",
+            "ecContrib": 181110
+        },
+        "999991819": {
+            "orgId": "999991819",
+            "orgName": "AIRBUS DEFENCE AND SPACE GMBH",
+            "ecContrib": 242944
+        },
+        "995531856": {
+            "orgId": "995531856",
+            "orgName": "MAGNETI MARELLI S.P.A.",
+            "ecContrib": 329656
+        },
+        "999840887": {
+            "orgId": "999840887",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA",
+            "ecContrib": 606215
+        }
+    },
+    "calculatedTotalContribution": 2072300
+}

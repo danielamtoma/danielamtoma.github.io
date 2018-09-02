@@ -1,0 +1,38 @@
+{
+    "rcn": "211039",
+    "acronym": "HiLICo",
+    "topics": "JTI-CS2-2016-CFP04-SYS-01-03",
+    "title": "High Luminescence In Cockpit",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2020",
+    "objective": "Although the market demand of displays bright enough to allow the diffusion of readable information against a very bright landscape is important, in particular in the avionics application, existing technologies still do not allow the desired brightness combined with very low power consumption and very compact volume.\nIn this context, the HiLICo project aims at developing a new generation of monochrome and full-color emissive GaN micro-displays with 1920 x 1200 pixel resolution (WUXGA), 8-?m pixel pitch, very high brightness (over 1MCd/cm≤) and good form factor capabilities that will enable the design of ground breaking compact see-through system for next generation Avionics applications.\nTo achieve this aim, HiLICo will address the following challenges:\n1. development of high-quality GaN based LED epilayers designed to fulfill targeted demonstrator performances;\n2. design and fabrication of an active matrix in advanced Complementary metal oxide semi-conductor (CMOS) technology to control each individual pixel;\n3. coupling of the LED structure and the CMOS, building a monolithic structure on which LED arrays will be fabricated with high precision, thus making monochrome, active-matrix, high-resolution GaN microdisplays;\n4. addition of colour converters (quantum dots and 2D Multi-Quantum Wells layers) on such blue emitting devices, for fabricating bi-color and full-color display demonstrators;\n5. design and manufacture of the electronics followed by the test and evaluation of the complete micro display device. First demonstrators will be qualified for future commercialisation.\nThe technology developed will contribute to the increase of European competitiveness, through the rapid and important deployment of innovative products on the microdisplay market, as well as Head-Up Displays, Head-mounted displays and smart Eyewears.\nThe consortium gathers 1 RTO, 1 large company and 2 SMEs. They will mobilise a grant of 4 091 583 Ä with an effort of 283 PM.",
+    "totalCost": "4091583,75",
+    "ecMaxContribution": "4091583,75",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "NOVAGAN SARL;NEXDOT;MICROOLED SARL",
+    "participantCountries": "CH;FR",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 2928218
+        },
+        "945310009": {
+            "orgId": "945310009",
+            "orgName": "NEXDOT",
+            "ecContrib": 450000
+        },
+        "995787936": {
+            "orgId": "995787936",
+            "orgName": "MICROOLED SARL",
+            "ecContrib": 300388
+        },
+        "919072576": {
+            "orgId": "919072576",
+            "orgName": "NOVAGAN SARL",
+            "ecContrib": 412979
+        }
+    },
+    "calculatedTotalContribution": 4091585
+}

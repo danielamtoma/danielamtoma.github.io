@@ -1,0 +1,88 @@
+{
+    "rcn": "205469",
+    "acronym": "Daedalus",
+    "topics": "FOF-11-2016",
+    "title": "Distributed control and simulAtion platform to support an Ecosystem of DigitAL aUtomation developerS",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "Daedalus is conceived to enable the full exploitation of the CPS concept of virtualized intelligence, through the adoption of a completely distributed automation platform based on IEC-61499 standard, fostering the creation of a Digital Ecosystem that could go beyond the current limits of manufacturing control systems and propose an ever-growing market of innovative solutions for the design, engineering, production and maintenance of plantsí automation. \n\nThe following objectives will be reached:\n-)Ease the conception, development and distribution of intelligence into CPS for real-time execution of orchestrated manufacturing tasks;\n-)Foster interoperability of CPS from different vendors at orchestration-level (= ìbetween CPSî);\n-)Simplify the design, implementation and integration of optimal coordinating control intelligence of CPS;\n-)Enable near-real-time co-simulation of manufacturing systems as a fully integrated ìserviceî of a CPS;\n-)Create a Digital Marketplace to simplify the matchmaking between offer and demand within the Ecosystem;\n-)Conceive a multi-sided business model for the Automation Ecosystem and the corresponding business plans for its Complementors;\n-)Foster the widespread acceptance of the Ecosystem platform to guarantee success and impact of Daedalus multi-sided market.\n\nThe project approach is based on 3 technological pillars, one platform pillar and a final ecosystem pillar:\n1)IEC61499-based reconfigurable automation platform for distributed orchestration of interoperable CPS;\n2)ìSimulation-as-a-serviceî for integrated near-real-time co-simulation of CPS behavioural models;\n3)Advanced SDKs for simplified design of hierarchically distributed optimal control applications;\n4)Digital Marketplace for the creation of an interdependent ecosystem of automation solutions providers;\n5)Proof-of-concept showcases to accelerate the involvement of ìcomplementorsî and the maturation of the Ecosystem.",
+    "totalCost": "5079796,25",
+    "ecMaxContribution": "3994296",
+    "coordinator": "SYNESIS-SOCIETA CONSORTILE A RESPONSABILITA LIMITATA",
+    "coordinatorCountry": "IT",
+    "participants": "LULEA TEKNISKA UNIVERSITET;QBROBOTICS SRL;BLUEBOTICS SA;SCHUNK GMBH & CO KG SPANN- UND GREIFTECHNIK;OWL SOLUTIONS SA;JETTER AG;HMS TECHNOLOGY CENTER RAVENSBURG GMBH;NXTCONTROL GMBH;CONSIGLIO NAZIONALE DELLE RICERCHE;TTS TECHNOLOGY TRANSFER SYSTEMS SRL;LIBELIUM COMUNICACIONES DISTRIBUIDAS SOCIEDAD LIMITADA;SCUOLA UNIVERSITARIA PROFESSIONALEDELLA SVIZZERA ITALIANA;ACT OPERATIONS RESEARCH UK LTD",
+    "participantCountries": "SE;IT;CH;DE;AT;ES;UK",
+    "projectParticipants": {
+        "953554718": {
+            "orgId": "953554718",
+            "orgName": "ACT OPERATIONS RESEARCH UK LTD",
+            "ecContrib": 195625
+        },
+        "999876874": {
+            "orgId": "999876874",
+            "orgName": "LULEA TEKNISKA UNIVERSITET",
+            "ecContrib": 368750
+        },
+        "997636562": {
+            "orgId": "997636562",
+            "orgName": "LIBELIUM COMUNICACIONES DISTRIBUIDAS SOCIEDAD LIMITADA",
+            "ecContrib": 248000
+        },
+        "997405023": {
+            "orgId": "997405023",
+            "orgName": "SYNESIS-SOCIETA CONSORTILE A RESPONSABILITA LIMITATA",
+            "ecContrib": 634250
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 420625
+        },
+        "998345244": {
+            "orgId": "998345244",
+            "orgName": "BLUEBOTICS SA",
+            "ecContrib": 0
+        },
+        "999587620": {
+            "orgId": "999587620",
+            "orgName": "SCUOLA UNIVERSITARIA PROFESSIONALEDELLA SVIZZERA ITALIANA",
+            "ecContrib": 0
+        },
+        "951287343": {
+            "orgId": "951287343",
+            "orgName": "QBROBOTICS SRL",
+            "ecContrib": 164921
+        },
+        "923308857": {
+            "orgId": "923308857",
+            "orgName": "OWL SOLUTIONS SA",
+            "ecContrib": 0
+        },
+        "999764354": {
+            "orgId": "999764354",
+            "orgName": "SCHUNK GMBH & CO KG SPANN- UND GREIFTECHNIK",
+            "ecContrib": 153750
+        },
+        "950817960": {
+            "orgId": "950817960",
+            "orgName": "JETTER AG",
+            "ecContrib": 408125
+        },
+        "918320050": {
+            "orgId": "918320050",
+            "orgName": "HMS TECHNOLOGY CENTER RAVENSBURG GMBH",
+            "ecContrib": 403750
+        },
+        "986163014": {
+            "orgId": "986163014",
+            "orgName": "NXTCONTROL GMBH",
+            "ecContrib": 572750
+        },
+        "999469377": {
+            "orgId": "999469377",
+            "orgName": "TTS TECHNOLOGY TRANSFER SYSTEMS SRL",
+            "ecContrib": 423750
+        }
+    },
+    "calculatedTotalContribution": 3994296
+}

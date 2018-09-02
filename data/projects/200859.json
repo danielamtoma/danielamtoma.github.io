@@ -1,0 +1,43 @@
+{
+    "rcn": "200859",
+    "acronym": "SAPIENT",
+    "topics": "Sesar-08-2015",
+    "title": "Satcom and terrestrial architectures improving performance, security and safety in ATM",
+    "startDate": "01/04/2016",
+    "endDate": "30/09/2017",
+    "objective": "The present SAPIENT (Satellite and terrestrial architectures improving performance, security and safety in ATM) proposal addresses a new innovative application in the field of CNS/ATM system (H2020 SESAR ER Call 2015 Work Area 2, ER-08-2015) focusing exploitation of the synergies of Communications and Navigation technologies and the 4D trajectory management concept.\nIn this frame, the SAPIENT project aims at supporting the Technology Communication and Navigation roadmaps and the stakeholders roadmaps for the Air-Ground datalinks (European ATM Masterplan issue 2012), in the timeframe soon following the Step 3 (availability of High integrity Air-Ground datalink comms service, Multi constellation GNSS, 4D trajectory based operation).\nSAPIENT project is strictly linked to the current phase of SESAR, taking into account the analysis and the definition activities carried out in the WP15 CNS and, in particular, the results of P15.2.4 and P15.2.6. \nIn addition, taking into account the SESAR work on Remote Piloted Aircraft System (see P15.2.4 task 105 and Medale project), the SAPIENT system aims at improving the performance of the RPAS Command, Control and Communication  satellite datalink, that is recognized as one of the major technical gaps for the RPAS integration in the civilian airspace.",
+    "totalCost": "999500",
+    "ecMaxContribution": "859500",
+    "coordinator": "THALES ALENIA SPACE ITALIA SPA",
+    "coordinatorCountry": "IT",
+    "participants": "SITA INFORMATION NETWORKING COMPUTING BV;UNIVERSITA DI PISA;FREQUENTIS AG;BUSINESS INTEGRATION PARTNERS SPA;VIASAT ANTENNA SYSTEMS SA",
+    "participantCountries": "NL;IT;AT;CH",
+    "projectParticipants": {
+        "999488195": {
+            "orgId": "999488195",
+            "orgName": "THALES ALENIA SPACE ITALIA SPA",
+            "ecContrib": 300000
+        },
+        "998307317": {
+            "orgId": "998307317",
+            "orgName": "FREQUENTIS AG",
+            "ecContrib": 160000
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 130000
+        },
+        "996390985": {
+            "orgId": "996390985",
+            "orgName": "VIASAT ANTENNA SYSTEMS SA",
+            "ecContrib": 0
+        },
+        "972124301": {
+            "orgId": "972124301",
+            "orgName": "BUSINESS INTEGRATION PARTNERS SPA",
+            "ecContrib": 120000
+        }
+    },
+    "calculatedTotalContribution": 710000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "195895",
+    "acronym": "Light-Trap",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "A SiPM upgrade for VHE Astronomy and beyond",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "Ground-based gamma-ray astronomy in the Very High Energy (VHE, E>100 GeV) regime has fast become one of the most interesting and productive sub-fields of astrophysics today. Utilizing the Imaging Atmospheric Cherenkov Technique (IACT) to reconstruct the energy and direction of incoming gamma-ray photons from the universe, several source-classes have been uncovered by previous and current generations of IACT telescopes (e.g. Whipple, MAGIC, HESS, VERITAS).\nThe next generation IACT experiment, the Cherenkov Telescope Array (CTA) will provide increased sensitivity across a wider energy range and with better angular resolution. However, research into new and improved technology for potential upgrades of the CTA system are already being considered. \nImproving the light-collection efficiency (hence reducing the energy threshold) and field-of-view of CTA cameras is high on the agenda of future upgrades. One may also consider increasing the number of telescopes if the cost of the cameras could be significantly reduced. The primary path to these goals is to replace PhotoMultipliers (PMTs) with Silicon-PMs (SiPM). These new photodetectors will also find multi-disciplinary use in e.g. in fluorescence telescopes for detection of Ultra High Energy Cosmic Rays and PET scanners in medical physics.\nHowever SiPMs are not yet mature enough to replace PMTs for several reasons: sensitivity to unwanted longer wavelengths while lacking sensitivity at short wavelengths, small physical area, high cost and electronic noise. Here we propose a novel method to build relatively low-cost SiPM-based pixels utilizing wavelength-shifting material which overcome some of these drawbacks by collecting light over a larger area than standard SiPMs and improving sensitivity to shorter wavelengths while reducing background. We aim to optimize the design of such pixels, integrating them in an actual 7-pixel cluster which will be inserted into a MAGIC camera and tested during real observations.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "INSTITUTO DE FISICA DE ALTAS ENERGIAS",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999613907": {
+            "orgId": "999613907",
+            "orgName": "INSTITUTO DE FISICA DE ALTAS ENERGIAS",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

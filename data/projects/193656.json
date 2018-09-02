@@ -1,0 +1,23 @@
+{
+    "rcn": "193656",
+    "acronym": "BIVAQUM",
+    "topics": "ERC-StG-2014",
+    "title": "Bivariational Approximations in Quantum Mechanics and Applications to Quantum Chemistry",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2020",
+    "objective": "The standard variational principles (VPs) are cornerstones of quantum mechanics, and one can hardly overestimate their usefulness as tools for generating approximations to the time-independent and time-dependent Schrˆodinger equations. The aim of the proposal is to study and apply a generalization of these, the bivariational principles (BIVPs), which arise naturally when one does not assume a priori that the system Hamiltonian is Hermitian.  This  unconventional approach may have transformative impact on development of ab initio methodology, both for electronic structure and dynamics.\n\nThe first objective is to establish the mathematical foundation for the BIVPs. This opens up a whole new axis of method development for ab initio approaches.  For instance, it is a largely ignored fact that the popular traditional coupled cluster (TCC) method can be neatly formulated with the BIVPs, and TCC is both polynomially scaling with the number of electrons and size-consistent. No ìvariationalî method enjoys these properties simultaneously, indeed this seems to be incompatible with the standard VPs.\n\nArmed with the BIVPs, the project aims to develop new and understand existing ab initio methods. The second objective is thus a systematic multireference coupled cluster theory (MRCC) based on the BIVPs. This is in itself a novel approach that carries large potential benefits and impact. The third and last objective is an implementation of a new coupled-cluster type method where the orbitals are bivariational parameters. This gives a size-consistent hierarchy of approximations to multiconfiguration Hartree--Fock.\n\nThe PI's broad contact with and background in scientific disciplines such as applied mathematics and nuclear physics in addition to quantum chemistry increases the feasibility of the project.",
+    "totalCost": "1499572",
+    "ecMaxContribution": "1499572",
+    "coordinator": "UNIVERSITETET I OSLO",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 1499572
+        }
+    },
+    "calculatedTotalContribution": 1499572
+}

@@ -1,0 +1,48 @@
+{
+    "rcn": "193835",
+    "acronym": "MISTRALE",
+    "topics": "GALILEO-1-2014",
+    "title": "Monitoring of SoIl moiSture and wateR-flooded Areas for agricuLture and Environment",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The MISTRALE project proposes to address soils moisture management in agriculture as well as wetlands or flooded areas monitoring by using Global Navigation Satellite Systems reflected signals (GNSS-R) as a powerful technology for humidity or flooded mapping. The detection by GNSS-R is known to be much more reliable than visible/NIR imagery, and will be usable even under a cloud cover, during the night and even under vegetation (bushes, grass, trees) when passive remote sensing is not applicable. \nThe main objective is to demonstrate a service chain in different use cases : pilot projects will be carried out in soil humidity mapping for agriculture (optimizing the water resource management), wetlands and flooded areas (risk management, flood-prone areas, damages evaluation).\nIn order to meet the objectives, a GNSS-R receiver embedded into a small RPAS  (Remotely Piloted Aircraft System) will be developed and implemented into an operational chain to provide the service.  GNSS-R technology aims at measuring the GNSS signals reflected on the ground, and, compared to the direct signals, permits a measurement of the soil humidity (from 0 to 100%) as well as flooded extend. The use of GALILEO signals will significantly improve the precision of mapping. The operational system will integrate three main axes of development: adapting the GNSS-R technology for the requirements, making a compact GNSS-R receiver and optimizing an existing RPAS.\nUsing EGNOS and GALILEO in the project will also improve navigation capabilities of small RPAS (<4Kg) and contribute to the development of regulations for their integration in airspace.\nWe assembled a consortium that addresses all aspects of the project : four SME specialized in GNSS receivers, GNSS-R technology, operational applications and dissemination, two labs for RPAS and GNSS-R technology. An advisory board composed of agronomy and environment specialists as well as end users will complete the skills of the consortium.",
+    "totalCost": "3337857,5",
+    "ecMaxContribution": "2599244,63",
+    "coordinator": "M3 SYSTEMS BELGIUM SPRL",
+    "coordinatorCountry": "BE",
+    "participants": "STARLAB LIMITED;L'AVION JAUNE;AEROVISION BV;ECOLE NATIONALE DE L AVIATION CIVILE;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "UK;FR;NL",
+    "projectParticipants": {
+        "942462671": {
+            "orgId": "942462671",
+            "orgName": "L'AVION JAUNE",
+            "ecContrib": 138757
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 324389
+        },
+        "973862250": {
+            "orgId": "973862250",
+            "orgName": "AEROVISION BV",
+            "ecContrib": 136395
+        },
+        "996375756": {
+            "orgId": "996375756",
+            "orgName": "ECOLE NATIONALE DE L AVIATION CIVILE",
+            "ecContrib": 611916
+        },
+        "942531541": {
+            "orgId": "942531541",
+            "orgName": "STARLAB LIMITED",
+            "ecContrib": 440819
+        },
+        "969448459": {
+            "orgId": "969448459",
+            "orgName": "M3 SYSTEMS BELGIUM SPRL",
+            "ecContrib": 946969
+        }
+    },
+    "calculatedTotalContribution": 2599245
+}

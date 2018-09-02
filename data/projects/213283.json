@@ -1,0 +1,23 @@
+{
+    "rcn": "213283",
+    "acronym": "ChargeAtHome",
+    "topics": "SMEInst-10-2016-2017",
+    "title": "CHARGE@HOME: A SOFTWARE THAT ENABLES FAST CHARGING SERVICES FOR ELECTRIC VEHICLES AT HOME",
+    "startDate": "01/12/2017",
+    "endDate": "30/04/2018",
+    "objective": "Current charging infrastructure for EVs causes range anxiety, the fear that an EV has insufficient range to reach its destination, one of the major barriers to large scale adoption. It makes sense to foresee that EVs will be usually charged at night when users arrive home from work, so EVs could have a significant impact on the peak demand of electricity at certain times. Apart from these predictable charging patterns, sometimes users might need charging batteries in a fastest way due to unforeseen travels, emergencies or because the user forgot to plug the vehicle in charge. However, maximum power to be used per customer is limited by a power contract in many countries. Solving these limitations is a priority in the EU. Charge@Home SW is the unique smart charging technology for EV in the world that allows DSOs to determine maximum power drain for each user depending on actual network availability, thus enabling fast charging services that reduce EV charging time from 8h to 1h and eliminate range anxiety. It will reside on DSOís server and it will work as follows: ïThe SW will automatically recognize any new charger station and link it to the network grid connectivity. Besides, it will make a forecast of what ìusualî loads will feed from the network per hour based on historical consumption. ïWhenever any connected EV charger asks permission to charge at a certain rate, the SW calculates power availability of the grid and tells the smart charger how much load it can feed from the network, and what the price it will be. Final users of Charge@Home product are EV drivers who will profit from: fast charging services and flexible energy rates depending on energy availability. Main customers of Charge@Home SW are DSOs. Main novelty is to provide them with a smart charging system that increase power system flexibility, taking the maximum of existing LV grids and creating a new service for EV users to reduce charging times from 8h to 1h whenever needed, paying an extra cost.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ARIADNA INSTRUMENTS SL",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "914399019": {
+            "orgId": "914399019",
+            "orgName": "ARIADNA INSTRUMENTS SL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

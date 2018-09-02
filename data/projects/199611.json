@@ -1,0 +1,23 @@
+{
+    "rcn": "199611",
+    "acronym": "HElAIrcOPT",
+    "topics": "JTI-CS2-2014-CFP01-FRC-02-04",
+    "title": "Helicopter Engine Air Intake OPtimization Tool",
+    "startDate": "04/01/2016",
+    "endDate": "03/07/2018",
+    "objective": "The objective of this topic is to set up an industrial and fully automatic optimal design tool, integrating software identified by the Topic Leader, in order to reach TRL6 at the end of the project. This tool has to be dedicated to rotorcraft engine air intake analysis and able to handle multi-objective, multi-parameters and multi-points optimization on a given CATIA CAD.\n\nAn effective aerodynamic design of the engine air intakes is essential for ensuring a proper air supply to the first stage compressor and thus an efficient behavior of the whole engine installation. However, its optimization has to deal with a lot of requirements and constraints, not always linked to the engine performance itself, but often aiming at improving conflicting criterions. For instance, the engine air intakes design will have some impact as regards the three following different issues:\nï Volume specifications\nï Helicopter manufacturer specifications, along with the airframe performance level required\nï Engine manufacturer specifications, along with the engine performance level required\n\nIn order to achieve the task, optimization will take into account 3 flight conditions. Among all optimization strategy available, due to CFD solver limited capabilities for adjoint computations, a Surrogate Based Optimization approach is proposed. It allows use of gradient free and global optimization method.\nTwo optimizations are planned during the task: one without Inlet Barrier Filter and a last without. The final objective is to improve flow solution at Air Intake Plane from a distorsion and pressure losses aspect.",
+    "totalCost": "529806,25",
+    "ecMaxContribution": "370860",
+    "coordinator": "ALTRAN TECHNOLOGIES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999926926": {
+            "orgId": "999926926",
+            "orgName": "ALTRAN TECHNOLOGIES",
+            "ecContrib": 370860
+        }
+    },
+    "calculatedTotalContribution": 370860
+}

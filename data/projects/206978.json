@@ -1,0 +1,23 @@
+{
+    "rcn": "206978",
+    "acronym": "OPTRASTOCH",
+    "topics": "ERC-2016-STG",
+    "title": "Optimal Transport and Stochastic Dynamics",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "Many important properties of stochastic processes are deeply connected with the underlying geometric structure. The crucial quantity in many applications is a lower bound on the Ricci curvature, which yields powerful applications to concentration of measure, isoperimetry, and convergence to equilibrium.\nSince many important processes are defined in discrete, infinite-dimensional, or singular spaces, major research activity has been devoted to developing a theory of Ricci curvature beyond the classical\nRiemannian setting. This led to the powerful theories of Bakry-…mery and Lott-Sturm-Villani, which have been extremely successful in the analysis of geodesic spaces and diffusion processes. Building on our recent work, we will develop a wide research program that allows us to significantly enlarge the scope of these ideas.\nA) Firstly, we develop a comprehensive theory of curvature-dimension for discrete spaces based on geodesic convexity of entropy functionals along discrete optimal transport. Promising first results suggest that the theory initiated by the PI provides the appropriate framework for obtaining many powerful results from geometric analysis in the discrete setting.\nB) Secondly, we analyse discrete stochastic dynamics using methods from optimal transport.\nWe focus on non-reversible Markov processes, which requires a significant extension of the existing gradient flow theory, and develop new methods for proving convergence of discrete stochastic dynamics.\nC) Thirdly, we develop an optimal transport approach to the analysis of quantum Markov processes. We will perform a thorough investigation of noncommutative optimal transport, we aim for geometric and functional inequalities in quantum probability, and apply the results to the analysis\nof quantum Markov processes.\nThe project extends the scope of optimal transport methods significantly and makes a fundamental contribution to the conceptual understanding of discrete curvature.",
+    "totalCost": "1074590",
+    "ecMaxContribution": "1074590",
+    "coordinator": "Institute of Science and Technology Austria",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "996479740": {
+            "orgId": "996479740",
+            "orgName": "Institute of Science and Technology Austria",
+            "ecContrib": 1074590
+        }
+    },
+    "calculatedTotalContribution": 1074590
+}

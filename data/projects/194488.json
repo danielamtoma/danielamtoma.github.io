@@ -1,0 +1,23 @@
+{
+    "rcn": "194488",
+    "acronym": "FlexNets",
+    "topics": "ERC-CoG-2014",
+    "title": "Quantifying Flexibility in Communication Networks",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Communication networks have emerged to become the basic infrastructure for all areas of our society with application areas ranging from social media to industrial production and healthcare. New requirements include the need for dynamic changes of the required resources, for example, to react to social events or to shifts of demands. Existing networks and, in particular, the Internet cannot meet those requirements mainly due to their ossification and hence limitation in resource allocation, i.e., lack of flexibility to adapt the available resources to changes of demands on a small time-scale and in an efficient way. In recent years, several concepts have emerged in networking research to provide more flexibility in networks through virtualization and control plane programmability. In particular, the split between data plane and a centralized control plane as defined by Software Defined Networking (SDN) is regarded as the basic concept to allow flexibility in networks. However, a deeper understanding of what flexibility means remains open. In this project, flexibility focuses on the dynamic changes in time and size of a network that is characterized by its resources (link rate and node capacities) and connectivity (network graph). It is the objective of this research to analyse the fundamental design space for flexibility in SDN-based networks with respect to cost such as resource usage, traffic overhead and delay. The outcome will be a set of quantitative arguments pro and contra certain design choices. An analytical cost model to quantitatively assess the trade-off for flexibility vs. cost will be developed. To assess flexibility with respect to general graph properties a graph model will be designed. The detailed analysis is based on three use cases: dynamic resource allocation, QoS control, and resilience. In the state of the art, selected aspects of flexibility have been explored for certain network scenarios, a fundamental and comprehensive analysis is missing.",
+    "totalCost": "1931250",
+    "ecMaxContribution": "1931250",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 1931250
+        }
+    },
+    "calculatedTotalContribution": 1931250
+}

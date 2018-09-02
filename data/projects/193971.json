@@ -1,0 +1,68 @@
+{
+    "rcn": "193971",
+    "acronym": "BigStorage",
+    "topics": "MSCA-ITN-2014-ETN",
+    "title": "BigStorage: Storage-based Convergence between HPC and Cloud to handle Big Data",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "The consortium of this European Training Network (ETN) 'BigStorage: Storage-based Convergence between HPC and Cloud to handle Big Data' will train future data scientists in order to enable them and us to apply holistic and interdisciplinary approaches for taking advantage of a data-overwhelmed world, which requires HPC and Cloud infrastructures with a redefinition of storage architectures underpinning them - focusing on meeting highly ambitious performance and energy usage objectives.\n\nThere has been an explosion of digital data, which is changing our knowledge about the world. This huge data collection, which cannot be managed by current data management systems, is known as Big Data. Techniques to address it are gradually combining with what has been traditionally known as High Performance Computing. Therefore, this ETN will focus on the convergence of Big Data, HPC, and Cloud data storage, ist management and analysis.\n\nTo gain value from Big Data it must be addressed from many different angles: (i) applications, which can exploit this data, (ii) middleware, operating in the cloud and HPC environments, and (iii) infrastructure, which provides the Storage, and Computing capable of handling it.\n\nBig Data can only be effectively exploited if techniques and algorithms are available, which help to understand its content, so that it can be processed by decision-making models. This is the main goal of Data Science.\n\nWe claim that this ETN project will be the ideal means to educate new researchers on the different facets of Data Science (across storage hardware and software architectures, large-scale distributed systems, data management services, data analysis, machine learning, decision making). Such a multifaceted expertise is mandatory to enable researchers to propose appropriate answers to applications requirements, while leveraging advanced data storage solutions unifying cloud and HPC storage facilities.",
+    "totalCost": "3803407,92",
+    "ecMaxContribution": "3803407,92",
+    "coordinator": "UNIVERSIDAD POLITECNICA DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;FUJITSU TECHNOLOGY SOLUTIONS GMBH;JOHANNES GUTENBERG-UNIVERSITAT MAINZ;SEAGATE SYSTEMS UK LIMITED;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;DEUTSCHES KLIMARECHENZENTRUM GMBH;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;CA TECHNOLOGIES DEVELOPMENT SPAIN SA",
+    "participantCountries": "FR;DE;UK;EL;ES",
+    "projectParticipants": {
+        "998692310": {
+            "orgId": "998692310",
+            "orgName": "DEUTSCHES KLIMARECHENZENTRUM GMBH",
+            "ecContrib": 249216
+        },
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 495746
+        },
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 495746
+        },
+        "972159221": {
+            "orgId": "972159221",
+            "orgName": "CA TECHNOLOGIES DEVELOPMENT SPAIN SA",
+            "ecContrib": 247873
+        },
+        "997415402": {
+            "orgId": "997415402",
+            "orgName": "FUJITSU TECHNOLOGY SOLUTIONS GMBH",
+            "ecContrib": 249216
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 242387
+        },
+        "999728076": {
+            "orgId": "999728076",
+            "orgName": "SEAGATE SYSTEMS UK LIMITED",
+            "ecContrib": 273288
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 262876
+        },
+        "999978627": {
+            "orgId": "999978627",
+            "orgName": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ",
+            "ecContrib": 498433
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 788627
+        }
+    },
+    "calculatedTotalContribution": 3803408
+}

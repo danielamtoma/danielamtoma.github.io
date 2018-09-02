@@ -1,0 +1,73 @@
+{
+    "rcn": "213026",
+    "acronym": "GRASP-ACE",
+    "topics": "MSCA-RISE-2017",
+    "title": "Development of GRASP radiative transfer code for the retrieval of aerosol microphysics vertical-profiles from space measurements and its impact in ACE mission",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2022",
+    "objective": "This project deals with reducing the uncertainties associated with the knowledge of aerosol microphysical vertical profiles worldwide through the use of new space-borne measurements.  This objective links with the goal of the last IPCC 2013 to reduce uncertainties in aerosol direct effects, particularly in the knowing of absorption profiles. The approach we plan to develop is the development and applicability of the Generalized Retrieval of Atmosphere and Surface Properties (GRASP) for new space borne systems. GRASP has been already applied successfully to the POLDER/PARASOL system providing column-integrated aerosol microphysics and absorption. However, the new LIDAR space-borne sensors open new possibilities. To that end, we plan to study the details in constraints of the current techniques for the retrieval of aerosol microphysics from multi-wavelength lidar alone (known as the 3b\\2a configuration), and will make evaluation studies versus in-situ instruments from large field campaigns such as DISCOVER-AQ and SEACR4S from NASA or SHADOW from the University of Lille. However, lidar measurements are difficult and usually presents low signal-to-noise ratio, particularly during daytime. We plan here to develop a joint inversion that uses combine measurements of lidar and polarimetric space-borne systems. Such approach is the core of the upcoming Aerosol-Clouds-Ecosystems (ACE) NASA mission. The development of this task will involve the use of synthetic database simulated using the NASA GEOS-5 model which will be used as reference. Different configurations of lidar and polarimeters will be studied to invert microphysical parameters. The results of this task will be also used for defining cost-effective ACE mission. Also, joint inversion will be evaluated using experimental measurements on NASA field campaigns that include airborne lidar systems such as HSRL-2 and Airborne Cloud-Aerosol Transport System (ACATS) and polarimeters such as the Multiangle SpectroPolarimetric",
+    "totalCost": "877500",
+    "ecMaxContribution": "877500",
+    "coordinator": "UNIVERSIDAD DE GRANADA",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSIDAD DE VALLADOLID;GENERALIZED RETRIEVAL OF ATMOSPHERE AND SURFACE PROPERTIES EN ABREGE GRASP;UNIVERSITE DE LILLE;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;FREIE UNIVERSITAET BERLIN;UNIVERSITE DES SCIENCES ET TECHNOLOGIES DE LILLE - LILLE I",
+    "participantCountries": "ES;FR;DE",
+    "projectParticipants": {
+        "950046034": {
+            "orgId": "950046034",
+            "orgName": "Goddard Space Flight Center",
+            "ecContrib": 0
+        },
+        "999899378": {
+            "orgId": "999899378",
+            "orgName": "UNIVERSITE DES SCIENCES ET TECHNOLOGIES DE LILLE - LILLE I",
+            "ecContrib": 0
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 108000
+        },
+        "920680060": {
+            "orgId": "920680060",
+            "orgName": "GENERALIZED RETRIEVAL OF ATMOSPHERE AND SURFACE PROPERTIES EN ABREGE GRASP",
+            "ecContrib": 225000
+        },
+        "974448421": {
+            "orgId": "974448421",
+            "orgName": "University System of Maryland",
+            "ecContrib": 0
+        },
+        "999882015": {
+            "orgId": "999882015",
+            "orgName": "UNIVERSIDAD DE GRANADA",
+            "ecContrib": 220500
+        },
+        "986392322": {
+            "orgId": "986392322",
+            "orgName": "A.M. Prokhorov General Physics Institute of Russian Academy of Sciences",
+            "ecContrib": 0
+        },
+        "993674015": {
+            "orgId": "993674015",
+            "orgName": "B.I. Stepanov Institute of Physics of the National Academy of Sciences of Belarus",
+            "ecContrib": 0
+        },
+        "999862809": {
+            "orgId": "999862809",
+            "orgName": "UNIVERSIDAD DE VALLADOLID",
+            "ecContrib": 162000
+        },
+        "910186018": {
+            "orgId": "910186018",
+            "orgName": "UNIVERSITE DE LILLE",
+            "ecContrib": 108000
+        },
+        "999994826": {
+            "orgId": "999994826",
+            "orgName": "FREIE UNIVERSITAET BERLIN",
+            "ecContrib": 54000
+        }
+    },
+    "calculatedTotalContribution": 877500
+}

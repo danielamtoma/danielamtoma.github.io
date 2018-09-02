@@ -1,0 +1,23 @@
+{
+    "rcn": "196762",
+    "acronym": "RoboExNovo",
+    "topics": "ERC-StG-2014",
+    "title": "Robots learning about objects from externalized knowledge sources",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2020",
+    "objective": "While todayís robots are able to perform sophisticated tasks, they can only act on objects they have been trained to recognize. This is a severe limitation: any robot will inevitably face novel situations in unconstrained settings, and thus will always have knowledge gaps. This calls for robots able to learn continuously about objects by themselves. The learning paradigm of state-of-the-art robots is the sensorimotor toil, i.e. the process of acquiring knowledge by generalization over observed stimuli. This is in line with cognitive theories that claim that cognition is embodied and situated, so that all knowledge acquired by a robot is specific to its sensorimotor capabilities and to the situation in which it has been acquired. Still, humans are also capable of learning from externalized sources ñ like books, illustrations, etc ñ containing knowledge that is necessarily unembodied and unsituated. To overcome this gap, RoboExNovo proposes a paradigm shift. I will develop a new generation of robots able to acquire perceptual and semantic knowledge about object from externalized, unembodied resources, to be used in situated settings. As the largest existing body of externalized knowledge, I will consider the Web as the source from which to learn from. To achieve this, I propose to build a translation framework between the representations used by robots in their situated experience and those used on the Web, based on relational structures establishing links between related percepts and between percepts and the semantics they support. My leading expertise in machine learning applied to multi modal data and robot vision puts me in a strong position to realize this project. By enabling robots to use knowledge resources on the Web that were not explicitly designed to be accessed for this purpose, RoboExNovo will pave the way for ground-breaking technological advances in home and service robotics, driver assistant systems, and in general any Web-connected situated device.",
+    "totalCost": "1496277",
+    "ecMaxContribution": "1496277",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 1496277
+        }
+    },
+    "calculatedTotalContribution": 1496277
+}

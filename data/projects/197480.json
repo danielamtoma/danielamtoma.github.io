@@ -1,0 +1,33 @@
+{
+    "rcn": "197480",
+    "acronym": "COMBIOSCOPY",
+    "topics": "ERC-StG-2014",
+    "title": "Computational Biophotonics for Endoscopic Cancer Diagnosis and Therapy",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2020",
+    "objective": "Key challenges in endoscopic tumor diagnosis and therapy consist of the detection and discrimination of malignant tissue as well as the precise navigation of medical instruments. Currently, a low level of sensitivity and specificity in tumor detection and lack of global orientation lead to both over- and undertreatment, tumor recurrence, intra-operative complications, and high costs. The goal of this multidisciplinary project is to revolutionize clinical endoscopic imaging based on the systematic integration of two new but independant fields of research up until this point: Biophotonics and computer-assisted interventions (COMputational BIOphotonics in endoSCOPY).\n\nFor the first time, quantitative multi-modal imaging biomarkers based on structural and functional data are being developed to enhance the physicianís view by providing information that cannot be seen with the naked eye. To this extent, white light images co-registered with multispectral optical and photoacoustic images will be processed in a combined manner to dynamically reconstruct not only the visible surface in 3D but also subsurface anatomical and functional detail such as 3D vessel topology, blood volume and oxygenation. Spatio-temporal registration of multi-modal data acquired before and during the procedure will enable (1) the highly specific local tissue classification and discrimination based on tissue shape, texture, function and radiological contrast imagery as well as (2) global context-aware instrument guidance.\n\nThis innovative approach to radiation-free real-time imaging will be implemented and evaluated by means of computer-assisted colonoscopy and laparoscopy. The potential socioeconomic impact of providing high precision minimally-invasive tumor diagnosis and therapy at low cost is extremely high.",
+    "totalCost": "1499699",
+    "ecMaxContribution": "1499699",
+    "coordinator": "DEUTSCHES KREBSFORSCHUNGSZENTRUM HEIDELBERG",
+    "coordinatorCountry": "DE",
+    "participants": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;UNIVERSITAETSKLINIKUM HEIDELBERG",
+    "participantCountries": "UK;DE",
+    "projectParticipants": {
+        "999990073": {
+            "orgId": "999990073",
+            "orgName": "DEUTSCHES KREBSFORSCHUNGSZENTRUM HEIDELBERG",
+            "ecContrib": 1256438
+        },
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 126337
+        },
+        "999841081": {
+            "orgId": "999841081",
+            "orgName": "UNIVERSITAETSKLINIKUM HEIDELBERG",
+            "ecContrib": 116924
+        }
+    },
+    "calculatedTotalContribution": 1499699
+}

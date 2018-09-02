@@ -1,0 +1,43 @@
+{
+    "rcn": "204284",
+    "acronym": "HyGrid",
+    "topics": "FCH-02.5-2015",
+    "title": "Flexible Hybrid separation system for H2 recovery from NG Grids",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2019",
+    "objective": "The key objective of the HyGrid project is the design, scale-up and demonstration at industrially relevant conditions a novel membrane based hybrid technology for the direct separation of hydrogen from natural gas grids. The focus of the project will be on the hydrogen separation through a combination of membranes, electrochemical separation and temperature swing adsorption to be able to decrease the total cost of hydrogen recovery. The project targets a pure hydrogen separation system with power and cost of < 5 kWh/kgH2 and < 1.5 Ä/kgH2. A pilot designed for 25 kg/day of hydrogen will be built and tested.\n\nTo achieve this, HyGrid aims at developing novel hybrid system integrating three technologies for hydrogen purification integrated in a way that enhances the strengths of each of them: Membrane separation technology is employed for removing H2 from the ìlow H2 contentî (e.g. 2-10 %) followed by electrochemical hydrogen separation (EHP ) optimal for the ìvery low H2 contentî (e.g. <2 %) and finally temperature swing adsorption (TSA) technology to purify from humidity produced in both systems upstream. The objective is to give a robust proof of concept and validation of the new technology (TRL 5) by designing, building, operating and validating a prototype system tested at industrial relevant conditions for a continuous and transient loads. To keep the high NG grid storage capacity for H2, the separation system will target the highest hydrogen recovery.\n\nThe project will describe and evaluate the system performance for the different pressure ranges within 0.03 to 80 bar (distribution to transmission) and test the concept at pilot scale in the 6-10 bar range.\n\nHyGrid will evaluate hydrogen quality production according to ISO 14687 in line not only with fuel cell vehicles (Type I Grade D) but also stationary applications (Type I Grade A) and hydrogen fueled ICE (Type I grade E category 3). \n\nA complete energy and cost analysis will be carried out in detail.",
+    "totalCost": "2847710",
+    "ecMaxContribution": "2527710",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "NORTEGAS ENERGIA DISTRIBUCION SAU;FUNDACION TECNALIA RESEARCH & INNOVATION;HYET HYDROGEN BV;QUANTIS;HYGEAR TECHNOLOGY AND SERVICES BV;SAES GETTERS S.P.A.",
+    "participantCountries": "ES;NL;CH;IT",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 446360
+        },
+        "937175104": {
+            "orgId": "937175104",
+            "orgName": "HYGEAR TECHNOLOGY AND SERVICES BV",
+            "ecContrib": 668575
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 598294
+        },
+        "999590530": {
+            "orgId": "999590530",
+            "orgName": "SAES GETTERS S.P.A.",
+            "ecContrib": 192171
+        },
+        "994416065": {
+            "orgId": "994416065",
+            "orgName": "QUANTIS",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1905400
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "196957",
+    "acronym": "DEDALE",
+    "topics": "FETOPEN-1-2014",
+    "title": "Data Learning on Manifolds and Future Challenges",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "'Future data processing challenges in science will enter the 'Big Data' era, involving massive, as well as complex and heterogeneous data. Extracting, with high precision, every bit of information from scientific data requires overcoming fundamental statistical challenges, which mandate the design of dedicated methods that must be both effective enough to capture the intricacy of real-world datasets and robust to the high complexity of instrumental measurements. Moreover, future datasets, such as those provided by the space mission Euclid, will involve at least gigascale data, which will make mandatory the development of new, physically relevant, data models and the implementation of effective and computationally efficient processing tools. The recent emergence of novel data analysis methods in machine learning should foster a new modeling framework, allowing for a better preservation of the intrinsic physical properties of real data that generally live on intricate spaces, such as signal manifolds. Furthermore, advances in operations research and optimization theory pave the way for effective solutions to overcome the large-scale data processing bottlenecks. In this context, the objective of the DEDALE project is threefold: i) introduce new models and methods to analyze and restore complex, multivariate, manifold-based signals; ii) exploit the current knowledge in optimization and operations research to build efficient numerical data processing algorithms in the large-scale settings; and iii) show the reliability of the proposed data modeling and analysis technologies to tackle Scientific Big Data challenges in two different applications: one in cosmology, to map the dark matter mass map of the universe, and one in remote sensing to increase the capabilities of automatic airborne imaging analysis systems.'",
+    "totalCost": "2702397,5",
+    "ecMaxContribution": "2702397,5",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;TECHNISCHE UNIVERSITAET BERLIN;SAFRAN ELECTRONICS & DEFENSE;UNIVERSITY COLLEGE LONDON",
+    "participantCountries": "EL;DE;FR;UK",
+    "projectParticipants": {
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 560000
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 857875
+        },
+        "999954668": {
+            "orgId": "999954668",
+            "orgName": "SAFRAN ELECTRONICS & DEFENSE",
+            "ecContrib": 288125
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 485398
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 511000
+        }
+    },
+    "calculatedTotalContribution": 2702398
+}

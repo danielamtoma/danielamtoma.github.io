@@ -1,0 +1,17 @@
+{
+    "rcn": "214880",
+    "acronym": "CLOUDMAP",
+    "topics": "ERC-2017-ADG",
+    "title": "Cloud Computing via Homomorphic Encryption and Multilinear Maps",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2023",
+    "objective": "The past thirty years have seen cryptography move from arcane to commonplace: Internet, mobile phones, banking system, etc. Homomorphic cryptography now offers the tantalizing goal of being able to process sensitive information in encrypted form, without needing to compromise on the privacy and security of the citizens and organizations that provide the input data.  More recently, cryptographic multilinear maps have revolutionized cryptography with the emergence of indistinguishability obfuscation (iO), which in theory can been used to realize numerous advanced cryptographic functionalities that previously seemed beyond reach. However the security of multilinear maps is still poorly understood, and many iO schemes have been broken; moreover all constructions of iO are currently  unpractical. \n\nThe goal of the CLOUDMAP project is to make these advanced cryptographic tasks usable in practice, so that citizens do not have to compromise on the privacy and security of their input data. This goal can only be achieved by considering the mathematical foundations of these primitives, working 'from first principles', rather than focusing on premature optimizations. To achieve this goal, our first objective will be to better understand the security of the underlying primitives of multilinear maps and iO schemes. Our second objective will be to develop new approaches to significantly improve their efficiency. Our third objective will be to build applications of multilinear maps and iO that can be implemented in practice.",
+    "totalCost": "2491266",
+    "ecMaxContribution": "2491266",
+    "coordinator": "UNIVERSITE DU LUXEMBOURG",
+    "coordinatorCountry": "LU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

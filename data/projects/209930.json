@@ -1,0 +1,23 @@
+{
+    "rcn": "209930",
+    "acronym": "DeepFace",
+    "topics": "ERC-2016-COG",
+    "title": "Understanding Deep Face Recognition",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2022",
+    "objective": "Face recognition is a fascinating domain: no other domain seems to present as much value when analysing casual photos; it is one of the few domains in machine learning in which millions of classes are routinely learned; and the trade-off between subtle inter-identity variations and pronounced intra-identity variations forms a unique challenge. \n\nThe advent of deep learning has brought machines to what is considered a human level of performance. However, there are many research questions that are left open. At the top most level, we ask two questions: what is unique about faces in comparison to other recognition tasks that also employ deep networks and how can we make the next leap in performance of automatic face recognition? \n\nWe consider three domains of research. The first is the study of methods that promote effective transfer learning. This is crucial since all state of the art face recognition methods rely on transfer learning. The second domain is the study of the tradeoffs that govern the optimal utilization of the training data and how the properties of the training data affect the optimal network design. The third domain is the post transfer utilization of the learned deep networks, where given the representations of a pair of face images, we seek to compare them in the most accurate way.\n\nThroughout this proposal, we put an emphasis on theoretical reasoning. I aim to support the developed methods by a theoretical framework that would both justify their usage as well as provide concrete guidelines for using them. My goal of achieving a leap forward in performance through a level of theoretical analysis that is unparalleled in object recognition, makes our research agenda truly high-risk/ high-gains. I have been in the forefront of face recognition for the last 8 years and my lab's recent achievements in deep learning suggest that we will be able to carry out this research. To further support its feasibility, we present very promising initial results.",
+    "totalCost": "1696888",
+    "ecMaxContribution": "1696888",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1696888
+        }
+    },
+    "calculatedTotalContribution": 1696888
+}

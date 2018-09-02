@@ -1,0 +1,17 @@
+{
+    "rcn": "214997",
+    "acronym": "PARSe",
+    "topics": "ERC-2017-PoC",
+    "title": "Program Analysis and Reorganization, as a Service",
+    "startDate": "01/10/2018",
+    "endDate": "31/03/2020",
+    "objective": "The PARSE project will explore the potential for wide deployment (and possible commercialization) of whole-program static program analysis techniques as a web-based service for program comprehension and reorganization. This analysis-as-a-service (AaaS) approach will have direct value for a large number of professional programmers. The programmer will use the service to answer key program comprehension questions (including: ìhow does my code use this open-source library?î; ìAm I affected by the security vulnerabilities discovered in this library code?î; ìWhat objects should I lock before making this library call?î) and to act upon them (e.g., reorganize code and prepare packaged versions of binary code for deployment so that only the minimal needed code is included).\n\nSuch needs have been identified in direct contact with major software companies (namely, Facebook and Oracle, which are both partners in current projects with the PIís group). The proposed work lifts such specific coding needs to a general-availability web-based software analysis service. Analysis questions will be answered in high precision, with the aid of the program analysis algorithms developed in the ERC frontier research project (SPADE ó307334) that the proposed work draws upon. Past tools in the commercial or research space have focused on high-precision, yet local, analysis. The proposed work will leverage whole-program static analysis techniques (such as pointer, value-flow, and taint analyses) that the PIís group has extensively developed in the last decade.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+    "coordinatorCountry": "EL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

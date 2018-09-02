@@ -1,0 +1,63 @@
+{
+    "rcn": "212442",
+    "acronym": "DCS4COP",
+    "topics": "EO-1-2017",
+    "title": "DataCube Service for Copernicus",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2020",
+    "objective": "Copernicus has boosted the availability of Earth Observation data both in terms of quality as well as quantity. This has, on the one hand, unleashed new opportunities for intermediate business users (IBUs), who provide services to an inherently diverse group of end users. On the other hand, however, the handling of big data volumes, the integration of data streams from different sources, and the generation of high-quality information from the novel sensors of the Sentinels pose significant technical and scientific challenges to many IBUs. The lacking expert skills often hinder the user uptake of Copernicus products and services and eventually impede economic growth of the sector.\nThe DataCube Service for Copernicus project (DCS4COP) addresses these obstacles by implementing the Copernicus Water DataCube Service (CoWaDaCS) - the first instance of a new service model, integrating Sentinel data, Copernicus Service data and user supplied data in a DataCube system. The offered service comprises Processing as a Service (PaaS), Software as a Service (SaaS), consultancy and training. It is targeting the value-adding Earth Observation industry and public organisations at highly competitive costs and with user-friendly interfaces, which can be tailored to specific needs.\n\nCapitalising on the scientific achievements of the recent FP-7 funded HIGHROC research project and operated by experienced service providing institutions, CoWaDaCS will demonstrate the value of satellite Earth Observation data for the market segment of coastal and inland water services. Currently this market is largely underexploited due to market blockages and offers a large growth potential. The combination of access to high quality data, wide selection of thematic data layers, state-of-the-art tools and unrivalled expertise in the domain and exploiting cutting edge IT solutions, will allow IBUs to concentrate on their value-adding downstream business and turn CoWaDaCS into a sustainable service.",
+    "totalCost": "2266538,75",
+    "ecMaxContribution": "1981929,88",
+    "coordinator": "BROCKMANN CONSULT GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.;INSTITUT ROYAL DES SCIENCES NATURELLES DE BELGIQUE;THE SECRETARY OF STATE FOR ENVIRONMENT, FOOD AND RURAL AFFAIRS;UNIVERSITY OF HULL;NORSK INSTITUTT FOR VANNFORSKNING;STARLAB BARCELONA SL;SORBONNE UNIVERSITE",
+    "participantCountries": "FR;BE;UK;NO;ES",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "999903743": {
+            "orgId": "999903743",
+            "orgName": "UNIVERSITY OF HULL",
+            "ecContrib": 249179
+        },
+        "998437006": {
+            "orgId": "998437006",
+            "orgName": "INSTITUT ROYAL DES SCIENCES NATURELLES DE BELGIQUE",
+            "ecContrib": 259375
+        },
+        "997826585": {
+            "orgId": "997826585",
+            "orgName": "NORSK INSTITUTT FOR VANNFORSKNING",
+            "ecContrib": 180000
+        },
+        "999773666": {
+            "orgId": "999773666",
+            "orgName": "STARLAB BARCELONA SL",
+            "ecContrib": 154088
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 179499
+        },
+        "984286452": {
+            "orgId": "984286452",
+            "orgName": "BROCKMANN CONSULT GMBH",
+            "ecContrib": 510000
+        },
+        "999645238": {
+            "orgId": "999645238",
+            "orgName": "VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.",
+            "ecContrib": 271660
+        },
+        "999904713": {
+            "orgId": "999904713",
+            "orgName": "THE SECRETARY OF STATE FOR ENVIRONMENT, FOOD AND RURAL AFFAIRS",
+            "ecContrib": 178130
+        }
+    },
+    "calculatedTotalContribution": 1981931
+}

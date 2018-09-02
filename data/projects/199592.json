@@ -1,0 +1,48 @@
+{
+    "rcn": "199592",
+    "acronym": "IONS4SET",
+    "topics": "ICT-25-2015",
+    "title": "Ion-irradiation-induced Si Nanodot Self-Assembly for Hybrid SET-CMOS Technology",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2020",
+    "objective": "Billions of tiny computers that can sense and communicate from anywhere are coming online, creating the ìInternet of Thingsî (IoT). As the IoT continues to expand, more and more devices need batteries and plugs. According to Gartner (www.gartner.com), there will be nearly 26 billion devices connected to the IoT by 2020. Therefore, together with improved batteries, advanced computation and communication must be delivered at extremely low-power consumption.\nIt is well-known that Single Electron Transistors (SET) are extremely low-energy dissipation devices. CMOS and SETs are complementary: SET is the champion of low-power consumption while CMOS advantages like high-speed, driving etc. compensate exactly for SET's intrinsic drawbacks. Unrivalled integration with high performance is expected for hybrid SET-CMOS architectures.Manufacturability is the roadblock for large-scale use of hybrid SET-CMOS architectures. To assure room temperature (RT) operation, single dots of diameters below 5 nm have to be fabri-cated, exactly located between source and drain with tunnel distances of a few nm. A reliable CMOS compatible process of co-fabrication of RT-SETs and FETs is not yet available.\nIONS4SET will pave the way for fabrication of low-energy devices operating at RT using the discovery of a bottom-up self-assembly process. Lithography cannot deliver the feature sizes of 1Ö3 nm required for RT operation. IONS4SET will provide both, (i) controlled self-assembly of single ~ 2 nm Si dots and (ii) self-alignment of each nanodot with source and drain at tunneling distances of ~ 2 nm. The fabrication process of the Si nanodot involves (i) ion irradiation through a few tens of nm thin Si pillars with an embedded SiO2 layer and (ii) thermal activation of self-assembly. Dot self-assembly works for narrow pillars only, i.e. nanopillar fabrication is crucial for IONS4SET. Finally, a power saving hybrid SET/CMOS device with a vertical gate-all-around nanowire GAA-SET will be fabricated.",
+    "totalCost": "3999205",
+    "ecMaxContribution": "3999205",
+    "coordinator": "HELMHOLTZ-ZENTRUM DRESDEN-ROSSENDORF EV",
+    "coordinatorCountry": "DE",
+    "participants": "HELSINGIN YLIOPISTO;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "participantCountries": "FI;DE;FR;ES;IT",
+    "projectParticipants": {
+        "999470541": {
+            "orgId": "999470541",
+            "orgName": "HELMHOLTZ-ZENTRUM DRESDEN-ROSSENDORF EV",
+            "ecContrib": 858125
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1015838
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 612825
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 598438
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 573750
+        },
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 340230
+        }
+    },
+    "calculatedTotalContribution": 3999206
+}

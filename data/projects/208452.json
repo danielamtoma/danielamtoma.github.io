@@ -1,0 +1,23 @@
+{
+    "rcn": "208452",
+    "acronym": "TRANSCALE",
+    "topics": "ERC-2016-STG",
+    "title": "Reconciling Scales in Global Seimology",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2022",
+    "objective": "For more than 30 years, seismologists have used seismic waves to produce 3D images of the structure of the Earth. Despite many successes, a number of key questions still remain, which are of the uttermost importance to understand plate tectonics. What is the nature of the Lithosphere-Asthenosphere Boundary? What is the structure and history of the continental lithosphere? \n\nThe problem is that different seismic observables sample the Earth at different scales; they have different sensitivity to structure, and are usually interpreted separately. Images obtained from short period converted and reflected body waves see sharp discontinuities, and are interpreted in terms of thermo-chemical stratification, whereas seismic models constructed from long period seismograms depict a smooth and anisotropic upper mantle, and are usually interpreted in terms of mantle flow. However, sharp discontinuities may also produce effective anisotropy at large scales, and only a joint interpretation of different frequency bands can allow to fully localizing the patterns of deformation in the mantle. \n\nThe proposed work consists in developing and applying an entirely new approach to geophysical data interpretation, where different data types sampling the Earth at different scales are jointly embraced into a single Bayesian procedure. This proposal focuses on theoretical, algorithmic and computational advances needed for a new generation of tomographic models. We will use the large amount of data available in North-America (surface wave measurements, scattered body waves, SKS splitting measurements) to produce a multiscale model under North-America, depicting both discontinuities and anisotropy. This will allow us to answer some crucial questions about the structure and evolution of Earth. We will also produce a first fully Bayesian global Earth model by jointly inverting normal modes, surface and body wave observations.",
+    "totalCost": "1498750",
+    "ecMaxContribution": "1498750",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1498750
+        }
+    },
+    "calculatedTotalContribution": 1498750
+}

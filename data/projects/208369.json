@@ -1,0 +1,23 @@
+{
+    "rcn": "208369",
+    "acronym": "PEAC",
+    "topics": "MSCA-IF-2016",
+    "title": "Provably-Correct Efficient Algorithms for Clustering",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2019",
+    "objective": "Clustering data according to similarity is ubiquitous in computer and data sciences. Similarity between data is often modeled by a distance function: two data points are close if they are similar. This induces a metric space in which each data point is associated to a point of the space. Thus, a clustering according to similarity is a partition of the points such that the distance between two points in the same part is small. Therefore, clustering problems play a crucial role in extracting information from massive datasets in various research areas. However, this problem is hard to formalise: the soundness of a particular clustering often depends on the structure of the data. This induces a gap between theory and practice: on the one hand no guarantee on the practical algorithms can be proven, on the other hand the best theoretical algorithms turn out to be noncompetitive in practice.\n\nBy focusing on both the algorithms and inputs that are relevant in practice, the PEAC project aims at rigorously analysing the cutting-edge heuristics and designing more efficient algorithms that are provably-correct for both clustering and hierarchical clustering (HC), bridging a gap between theory and practice.\n\nVery recently, it was shown that a widely-used local search (LS) algorithm achieves the best approximation guarantees for some specific inputs. We plan to design a faster LS-based algorithm for those types of inputs to achieve both better running time and approximation guarantees than the best heuristics. We will design a non-oblivious LS algorithm to obtain a better than the current 2.675 approximation for k-median.\n\nDasgupta recently introduced a cost function for HC. Using this cost function, we plan to analyse the performances of widely-used heuristics for HC (e.g.: average-linkage, bisection k-means). We will characterize the real-world inputs and use the cost function to design more efficient provably-correct algorithms for HC.",
+    "totalCost": "200194,8",
+    "ecMaxContribution": "200194,8",
+    "coordinator": "KOBENHAVNS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 200195
+        }
+    },
+    "calculatedTotalContribution": 200195
+}

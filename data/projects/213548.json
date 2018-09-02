@@ -1,0 +1,63 @@
+{
+    "rcn": "213548",
+    "acronym": "SEMIoTICS",
+    "topics": "IoT-03-2017",
+    "title": "Smart End-to-end Massive IoT Interoperability, Connectivity and Security",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "SEMIoTICS aims to develop a pattern-driven framework, built upon existing IoT platforms, to enable and guarantee secure and dependable actuation and semi-autonomic behaviour in IoT/IIoT applications. Patterns will encode proven dependencies between security, privacy, dependability and interoperability (SPDI) properties of individual smart objects and corresponding properties of orchestrations involving them. The SEMIoTICS framework will support cross-layer intelligent dynamic adaptation, including heterogeneous smart objects, networks and clouds, addressing effective adaptation and autonomic behaviour at field (edge) and infrastructure (backend) layers based on intelligent analysis and learning. To address the complexity and scalability needs within horizontal and vertical domains, SEMIoTICS will develop and integrate smart programmable networking and semantic interoperability mechanisms. The practicality of the above approach will be validated using three diverse usage scenarios in the areas of renewable energy (addressing IIoT), healthcare (focusing on human-centric IoT), and smart sensing (covering both IIoT and IoT); and will be offered through an open API.\n\nSEMIoTICS consortium consists of strong European industry (Siemens, Engineering, STMicroelectronics), innovative SMEs (Sphynx, Iquadrat, BlueSoft) and academic partners (FORTH, Uni Passau, CTTC) covering the whole value chain of IoT, local embedded analytics and their programmable connectivity to the cloud IoT platforms with associated security and privacy. The consortium is striving for a common vision of creating EUís technological capability of innovative IoT landscape both at European and international level.",
+    "totalCost": "4995915",
+    "ecMaxContribution": "4995915",
+    "coordinator": "SIEMENS AKTIENGESELLSCHAFT",
+    "coordinatorCountry": "DE",
+    "participants": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;BLUESOFT SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA;SPHYNX TECHNOLOGY SOLUTIONS AG;IQUADRAT INFORMATICA SL;ENGINEERING - INGEGNERIA INFORMATICA SPA;STMICROELECTRONICS SRL;UNIVERSITAT PASSAU",
+    "participantCountries": "ES;EL;PL;CH;IT;DE",
+    "projectParticipants": {
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 352500
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 533750
+        },
+        "999878523": {
+            "orgId": "999878523",
+            "orgName": "UNIVERSITAT PASSAU",
+            "ecContrib": 450140
+        },
+        "915164640": {
+            "orgId": "915164640",
+            "orgName": "BLUESOFT SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+            "ecContrib": 401250
+        },
+        "916839248": {
+            "orgId": "916839248",
+            "orgName": "SPHYNX TECHNOLOGY SOLUTIONS AG",
+            "ecContrib": 527500
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 541650
+        },
+        "996237822": {
+            "orgId": "996237822",
+            "orgName": "IQUADRAT INFORMATICA SL",
+            "ecContrib": 363750
+        },
+        "999987260": {
+            "orgId": "999987260",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT",
+            "ecContrib": 1339125
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 486250
+        }
+    },
+    "calculatedTotalContribution": 4995915
+}

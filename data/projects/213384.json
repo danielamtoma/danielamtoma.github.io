@@ -1,0 +1,23 @@
+{
+    "rcn": "213384",
+    "acronym": "COFBMIX",
+    "topics": "ERC-2017-STG",
+    "title": "Cortical feedback in figure background segregation of odors.",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "A key question in neuroscience is how information is processed by sensory systems to guide behavior. Most of our knowledge about sensory processing is based on presentation of simple isolated stimuli and recording corresponding neural activity in relevant brain areas. Yet sensory stimuli in real life are never isolated and typically not simple. How the brain processes complex stimuli, simultaneously arising from multiple objects is unknown. Our daily experience (as well as well-controlled experiments) shows that only parts of a complex sensory scene can be perceived - we cannot listen to more than one speaker in a party. Importantly, one can easily choose what is important and should be processed and what can be ignored as background. These observations lead to the prevalent hypothesis that feedback projections from ëhigherí brain areas to more peripheral sensory areas are involved in processing of complex stimuli. However experimental analysis of signals conveyed by feedback projections in behaving animals is scarce. The nature of these signals and how they relate to behavior is unknown.\nHere I propose a cutting edge approach to directly record feedback signals in the olfactory system of behaving mice. We will use chronically implanted electrodes to record the modulation of olfactory bulb (OB) principal neurons by task related context. Additionally, we will record from piriform cortical (PC) neurons that project back to the OB. These will be tagged with channelrhodopsin-2 and identified by light sensitivity. Finally, we will express the spectrally distinct Ca\\\\ indicators GCaMP6 and RCaMP2 in PC neurons and in olfactory sensory neurons, respectively, and use 2-photon microscopy to analyze the spatio-temporal relationship between feedforward and feedback inputs in the OB. This comprehensive approach will provide an explanation of how feedforward and feedback inputs are integrated to process complex stimuli.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

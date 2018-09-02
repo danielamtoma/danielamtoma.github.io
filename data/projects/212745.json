@@ -1,0 +1,23 @@
+{
+    "rcn": "212745",
+    "acronym": "miRCell",
+    "topics": "ERC-2017-STG",
+    "title": "MicroRNA functions in single cells",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2023",
+    "objective": "It is now becoming apparent that genes are regulated not only by transcription, but also by thousands of post-transcriptional regulators that can stabilize or degrade mRNAs. Some of the most important regulators are miRNAs, short RNA molecules that are deeply conserved in sequence and are involved in numerous biological processes, including human disease. Surprisingly, transcriptomic and proteomic studies show that most miRNAs only have subtle silencing effects on their targets, suggesting additional important, but yet undiscovered functions. Thus the question is raised: if the main function of miRNAs is not to silence targets, what is it?\n\nI will test two novel hypotheses about miRNA function. The first hypothesis proposes that miRNAs can buffer gene expression noise. The second hypothesis is inspired by my preliminary results and proposes that miRNAs can synchronize expression of genes. If I validate either hypothesis, it would mean that miRNA functions can be investigated in entirely new ways, yielding important new biological insights relevant to both basic research and human health. However, these hypotheses can only be tested in individual cells, and the necessary single-cell technologies and computational tools are only maturing now.\n\nI will apply my expertise in miRNA biology and in combined wet-lab and computational methods to design, develop and apply miRCell-seq to test these two hypotheses in cell cultures and in animals. This new method will for the first time measure miRNAs, their targets, and the interactions between them in single cells and transcriptome-wide. We will use mutant cells devoid of miRNAs and time course experiments to generate sufficient data to develop detailed models of the miRNA impact on their targets. We will then validate our findings with single cell proteomics. This project thus has the potential to reveal novel functions of miRNAs and substantially improve our general understanding of gene regulation.",
+    "totalCost": "1497650,02",
+    "ecMaxContribution": "1497650,02",
+    "coordinator": "STOCKHOLMS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999885022": {
+            "orgId": "999885022",
+            "orgName": "STOCKHOLMS UNIVERSITET",
+            "ecContrib": 1497650
+        }
+    },
+    "calculatedTotalContribution": 1497650
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "210413",
+    "acronym": "MEDAS",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "MedAS: a Machine learning enabled Clinical Decision Support System to prevent prescription errors and improve patient safety",
+    "startDate": "01/05/2017",
+    "endDate": "31/08/2017",
+    "objective": "Medication errors are the most common cause of adverse events in medication practice, although they are preventable. Only in Europe, prescription error rates range from 7.5% to 9.1% of the total managed medicines, representing a major public health issue, as some of those can even be fatal.  They also represent a great economic burden to healthcare systems, with annual costs reaching Ä4.5B to Ä21.8B, depending on the country. MedAwareís founders decided to take action on the theme in 2012, when they found out that a nine-year-old boy died simply because his primary care physician accidentally selected the wrong drug, on his electronic prescribing pull-down list. By realising that current solutions completely failed to save this boy, the team started developing several proof-of-concept algorithms that became our first prototype and then MedAS (MedAware Alerting System). MedAS is an innovative patient-specific Clinical Decision Support System, that identifies and alerts on prescription errors in real-time, and with greater than 80% accuracy. It utilizes big-data analytics and advanced machine learning to identify statistical outliers and to generate precise alerts that would otherwise be missed by existing CDSS. MedASís effectiveness has already been proven both in retrospective trials and in real medical facilities in Israel and the USA: we improved patient safety, outcomes, and experience while dramatically reducing healthcare costs. Enabled by our next generation technology and given MedASís unique capabilities, we now intend to build a solid technology platform and to deploy it to the European market. The main objective of the feasibility study is to assess MedAS from technical, commercial and financial perspectives. We will seize the opportunity to enter the constantly growing CDSS market (Ä51.8M in Europe by 2018) with our novel technology and platform, and estimate revenues of Ä22.1M by 2024, with a ROI of 8.9",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "MEDAWARE LTD",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "913796358": {
+            "orgId": "913796358",
+            "orgName": "MEDAWARE LTD",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

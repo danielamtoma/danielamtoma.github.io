@@ -1,0 +1,68 @@
+{
+    "rcn": "213104",
+    "acronym": "EUROBENCH",
+    "topics": "ICT-27-2017",
+    "title": "EUropean ROBotic framework for bipedal locomotion bENCHmarking",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "The EUROBENCH project aims at creating the first benchmarking framework for robotic systems in Europe. The framework will allow companies and researchers to test the performance of robots at any stage of development. The project will primarily focus on bipedal machines, i.e. exoskeletons, prosthetics and humanoids, but will be designed to be easily extended to other robotic domains.\nThe EUROBENCH framework will be composed of:\n- A methodological component, which will include methods and metrics to calculate the System Ability Levels of a robotic system. These methods will be integrated in a professional software tool to permit its wide use across domains and laboratory conditions. The main goal of this unified software is to facilitate the use of benchmarking methodology at all levels from research to pre-commercial prototyping.\n- An experimental component, which will concentrate the state-of-the-art test benches in two facilities, one for wearable robots (including exoskeletons and prostheses), and one for humanoid robots. These facilities will allow companies and researchers to perform standardized tests on advanced robotic prototypes in a unique location, saving resources and time, and preparing for certification processes.\nDuring the project, the Consortium will provide Financial Support to Third Parties interested in:\n- Designing and developing specific test benches or benchmarking methods. These solutions will be integrated into the framework, and made available to the industrial and academic community.\n- Using the framework, at zero-costs, to test the performance of different kinds of robots. This will allow to validate the EUROBENCH outputs and prepare for the exploitation of results.\nThe successful achievement of these goals will put Europe in the lead on providing the groundwork for the evaluation of robotic systems, facilitating the process of bringing innovative robotic technologies forward to market.",
+    "totalCost": "8190691,25",
+    "ecMaxContribution": "8190691,25",
+    "coordinator": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+    "coordinatorCountry": "ES",
+    "participants": "PAL ROBOTICS SL;FUNDACION TECNALIA RESEARCH & INNOVATION;RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG;ROESSINGH RESEARCH AND DEVELOPMENT BV;÷ssur hf;PKF ATTEST INNCOME SL;FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA;IUVO SRL;ALTRAN INNOVACION SL",
+    "participantCountries": "ES;DE;NL;IS;IT",
+    "projectParticipants": {
+        "928036443": {
+            "orgId": "928036443",
+            "orgName": "PKF ATTEST INNCOME SL",
+            "ecContrib": 5248131
+        },
+        "950049041": {
+            "orgId": "950049041",
+            "orgName": "ALTRAN INNOVACION SL",
+            "ecContrib": 274300
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 673525
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 283898
+        },
+        "999596447": {
+            "orgId": "999596447",
+            "orgName": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+            "ecContrib": 425550
+        },
+        "970666488": {
+            "orgId": "970666488",
+            "orgName": "PAL ROBOTICS SL",
+            "ecContrib": 285188
+        },
+        "993147790": {
+            "orgId": "993147790",
+            "orgName": "Össur hf",
+            "ecContrib": 245625
+        },
+        "999987648": {
+            "orgId": "999987648",
+            "orgName": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+            "ecContrib": 364806
+        },
+        "929242056": {
+            "orgId": "929242056",
+            "orgName": "IUVO SRL",
+            "ecContrib": 198938
+        },
+        "999473936": {
+            "orgId": "999473936",
+            "orgName": "ROESSINGH RESEARCH AND DEVELOPMENT BV",
+            "ecContrib": 190731
+        }
+    },
+    "calculatedTotalContribution": 8190692
+}

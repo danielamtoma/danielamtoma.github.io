@@ -1,0 +1,48 @@
+{
+    "rcn": "211442",
+    "acronym": "FONTE",
+    "topics": "MSCA-ITN-2017",
+    "title": "Fibre optic nonlinear technologies",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2022",
+    "objective": "Fibre-optic communication systems form the backbone of the worldís communication infrastructure as they provide for lion fraction (more than 99%) of the global data traffic. The ongoing exponential growth in network traffic, however, is pushing current technology, whose data rates had increased over several decades, towards its limits. It is widely accepted that the nonlinear transmission effects in optical fibre are now a major limiting factor in modern fibre-optic communication systems. Nonlinear properties of the optical fibre medium limit the conventional techniques to increase capacity by simply increasing signal power. Most of the transmission technologies utilized today have been originally developed for linear (wired or wireless) communication channels. Over the past several decades, significant improvements in data rates were obtained by improvements and modifications within the overall linear transmission paradigm. However, there is much evidence that this trend is going to end within the next decade due to fibre nonlinearity. There is a clear need for radically different approaches to the coding, transmission, and processing of information that take the nonlinear properties of the optical fibre into account. This also requires education and training of a new generation of optical communication engineers and specialists with knowledge on nonlinear methods and techniques. \n\nThe EID FONTE R&D goals will be focused on development of disruptive nonlinear techniques and approaches to fibre-optic communications beyond the limits of current technology. The project will make important innovative steps in development of the technique of the nonlinear Fourier transform (NFT) and its implementation in the practical communication systems. The R&D tasks will be carried out along with training of PhD students in the leading research centres in Europe with industry focused projects with 50% of time spent in the world leading telecom  centre - Nokia Bell Labs Germany.",
+    "totalCost": "1081619,64",
+    "ecMaxContribution": "1081619,64",
+    "coordinator": "ASTON UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG;INSTITUT MINES-TELECOM;ALCATEL-LUCENT DEUTSCHLAND AG;DANMARKS TEKNISKE UNIVERSITET;TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "DE;FR;DK;NL",
+    "projectParticipants": {
+        "999912376": {
+            "orgId": "999912376",
+            "orgName": "ALCATEL-LUCENT DEUTSCHLAND AG",
+            "ecContrib": 0
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 255374
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 290082
+        },
+        "999940603": {
+            "orgId": "999940603",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG",
+            "ecContrib": 0
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 262876
+        },
+        "999896953": {
+            "orgId": "999896953",
+            "orgName": "ASTON UNIVERSITY",
+            "ecContrib": 273288
+        }
+    },
+    "calculatedTotalContribution": 1081620
+}

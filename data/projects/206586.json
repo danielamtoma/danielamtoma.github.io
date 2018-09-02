@@ -1,0 +1,73 @@
+{
+    "rcn": "206586",
+    "acronym": "GaNonCMOS",
+    "topics": "NMBP-02-2016",
+    "title": "GaN densily integrated with Si-CMOS for reliable, cost effective high frequency power delivery systems",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "Power electronics is the key technology to control the flow of electrical energy between source and load for a wide variety of applications from the GWs in energy transmission lines, the  MWs in datacenters that power the internet to the mWs in mobile phones. Wide band gap semiconductors such as GaN use their capability to operate at higher voltages, temperatures, and switching frequencies with greater efficiencies. The GaNonCMOS project aims to bring GaN power electronic materials, devices and systems to the next level of maturity by providing the most densely integrated materials to date. This development will drive a new generation of densely integrated power electronics and pave the way toward low cost, highly reliable systems for energy intensive applications. \n\nThis will be realized by integrating GaN power switches with CMOS drivers densely together using different integration schemes from the package level up to the chip level including wafer bonding between GaN on Si(111) and CMOS on Si (100) wafers. This requires the optimization of the GaN materials stack and device layout to enable fabrication of normally-off devices for such low temperature integration processes (max 400oC). In addition, new soft magnetic core materials reaching switching frequencies up to 200 Mhz with ultralow power losses will be developed. This will be assembled with new materials and methods for miniaturised packages to allow GaN devices, modules and systems to operate under maximum speed and energy efficiency. A special focus is on the long term reliability improvements over the full value chain of materials, devices, modules and systems. This is enabled by the choice of consortium partners that cover the entire value chain from universities, research centers, SMEís, large industries and vendors that incorporate the developed technology into practical systems such as datacenters, automotive, aviation and e-mobility bikes",
+    "totalCost": "7428885,75",
+    "ecMaxContribution": "6246064,5",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK;AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AKTIENGESELLSCHAFT;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;X-FAB SEMICONDUCTOR FOUNDRIES AG;IBM RESEARCH GMBH;RECOM ENGINEERING GMBH & CO KG;NXP SEMICONDUCTORS NETHERLANDS BV;EPIGAN NV;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK;PNO INNOVATION",
+    "participantCountries": "DE;AT;CH;NL;BE;IE",
+    "projectParticipants": {
+        "999571615": {
+            "orgId": "999571615",
+            "orgName": "AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AKTIENGESELLSCHAFT",
+            "ecContrib": 461250
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 939541
+        },
+        "943656256": {
+            "orgId": "943656256",
+            "orgName": "PNO INNOVATION",
+            "ecContrib": 323719
+        },
+        "999995020": {
+            "orgId": "999995020",
+            "orgName": "NXP SEMICONDUCTORS NETHERLANDS BV",
+            "ecContrib": 181595
+        },
+        "923745454": {
+            "orgId": "923745454",
+            "orgName": "RECOM ENGINEERING GMBH & CO KG",
+            "ecContrib": 612130
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 1501295
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 700000
+        },
+        "999437949": {
+            "orgId": "999437949",
+            "orgName": "X-FAB SEMICONDUCTOR FOUNDRIES AG",
+            "ecContrib": 105062
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 801808
+        },
+        "954412586": {
+            "orgId": "954412586",
+            "orgName": "EPIGAN NV",
+            "ecContrib": 619664
+        }
+    },
+    "calculatedTotalContribution": 6246064
+}

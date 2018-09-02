@@ -1,0 +1,23 @@
+{
+    "rcn": "213492",
+    "acronym": "ScaleCell",
+    "topics": "ERC-2017-COG",
+    "title": "Scalable Kinetic Models: From Molecular Dynamics to Cellular Signaling",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2023",
+    "objective": "Biological processes are inherently multi-scalar: exchanging a single amino acid of a protein can affect the macroscopic behavior of a cell. A computational model that can cover these scales and simulate the time evolution of locations, interactions, and atomistic structures of biomolecules in a cell would be transformative for the understanding of biology and the optimization of biotechnological processes. This ERC project will lay the methodological groundwork for such a model.\nRecent breakthroughs in the long-standing problem of sampling rare transition events in molecular dynamics (MD) simulation have enabled us to simulate biomolecular processes such as folding and binding with atomistic models. The PI has co-pioneered the widely-used Markov State Models (MSMs) that combine extensive distributed MD simulations towards models of the molecular kinetics. Using these methods, we have demonstrated that protein-protein association can be simulated and timescales of seconds can be reached in all-atom models of small protein systems.\nHowever, these methods have fundamental limitations to scale to the large biomolecules and the long length-scales involved in cellular signaling. To address these limitations, we will develop the following key technologies and disseminate them in open software:\n\n1. A model that describes protein kinetics as a network of local switches which will overcome scaling limitations of MSMs that suffer from an exponential increase of parameters for large systems.\n2. An ìeffective force field for cellsî that predicts structure and kinetics of multi-body protein interactions based on simulations of relatively few protein interactions.\n3. A multi-scale method to embed atomistic kinetic models in whole-cell reaction-diffusion simulations. \n\nWe will employ these methods and, in collaboration with leading experimentalists, investigate how the mechanochemical protein dynamin couples atomic-detail structure changes to membrane constriction in endocytosis.",
+    "totalCost": "1987500",
+    "ecMaxContribution": "1987500",
+    "coordinator": "FREIE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999994826": {
+            "orgId": "999994826",
+            "orgName": "FREIE UNIVERSITAET BERLIN",
+            "ecContrib": 1987500
+        }
+    },
+    "calculatedTotalContribution": 1987500
+}

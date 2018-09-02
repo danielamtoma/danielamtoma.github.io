@@ -1,0 +1,23 @@
+{
+    "rcn": "209292",
+    "acronym": "SIMFREE",
+    "topics": "MSCA-IF-2016",
+    "title": "Open-source freeware for fiber optic communication and sensing simulations",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2019",
+    "objective": "To meet the constantly increasing traffic in optical networks due to ever growing requirements of society spectral efficiency should be increased by using, an advanced modulation formats and reduced channel spacing. This results in increased spectral power density and interferences with an adjacent channels. Furthermore, dynamic links switching in the network is foreseen. All this makes the physical layer simulations an important task in network modeling, helping to optimise the transmission range of individual optical paths. The commercial tools designed to simulate fiber optic systems, are rather expensive and there is no simpler alternative software of this type. \n\nThe ambition of this proposal is to develop intuitive software, which can be used as a support for research projects and most importantly in education. The basic Scilab open-source software simulator modules based on algorithms available in the literature will be developed and verified with the simulation results obtained using known commercial simulators. The aim of the project is create modules and combine techniques from digital signal processing and numerical modelling into the development of novel solutions for nonlinearity compensation in optically amplified optical transmission systems. The amplification based on advanced distributed Raman schemes can cope with the rapid development of optical telecommunication techniques and can be also applied to distributed sensing technology that enables continuous, real-time measurements along the entire length of a fibre optic cable.\n\nThis fellowship is to provide the early career, but experienced researcher Pawe? Rosa with an opportunity to expand his current experimental and theoretical knowledge in the field of distributed Raman technology and develop novel freeware open-source Scilab modules for optical communications and sensing applications.",
+    "totalCost": "134462,4",
+    "ecMaxContribution": "134462,4",
+    "coordinator": "INSTYTUT LACZNOSCI PANSTWOWY INSTYTUT BADAWCZY",
+    "coordinatorCountry": "PL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "972529955": {
+            "orgId": "972529955",
+            "orgName": "INSTYTUT LACZNOSCI PANSTWOWY INSTYTUT BADAWCZY",
+            "ecContrib": 134462
+        }
+    },
+    "calculatedTotalContribution": 134462
+}

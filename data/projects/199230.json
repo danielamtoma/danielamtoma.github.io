@@ -1,0 +1,73 @@
+{
+    "rcn": "199230",
+    "acronym": "OPERA",
+    "topics": "ICT-04-2015",
+    "title": "lOw Power heterogeneous architecture for nExt generation of smaRt infrastructure and platforms in industrial and societal Applications",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "OPERA project aims at supporting these ambitious challenges with technological innovation on three main aspects: \nï Design next generation Low Power (LP) and Ultra-Low Power (ULP) systems; \nï Improve energy efficiency in computing by means of heterogeneous architectures; \nï And provide smart and energy efficient solution for the interaction between embedded smart systems and remote small form-factor data centers.\nOPERA project fits into the mission and scope of the H2020 ICT workplan for 2014 and 2015 aspiring to the European leadership in industrial technologies for the Ultra-Low Power computing devices and sensors enabling an ecosystem of heterogeneous devices and small form factor data centers\nIn this context, OPERAís vision is to deliver innovation on highly parallel, heterogeneous, reliable, low power, and secure systems leveraging both low power server-class processors and reconfigurable devices. While the former provide energy efficient processing power for the majority of the workloads, the latter offer the possibility of customizing and adapting hardware solutions over time to specific needs. The targets of innovation in OPERA are next generation LP servers and highly parallel embedded computer systems based on ULP architectures. Adopting a mechanism for selecting the best processing element for a specific task is fundamental for achieving good levels in energy efficiency. OPERA aims at exploiting such kind of mechanisms to orchestrate both general-purpose and reconfigurable devices. The OPERA vision is to integrate ULP smart devices into a platform that uses next-generation LP servers to remotely process the data and offering cloud-based services. \nOPERA's added value to the project is the validation of the technological solutions on three different real-life workloads use-cases. By integrating and optimizing computing systems for energy efficiency at different levels of the computing continuum, OPERA envisages the creation of big opportunities for Europe",
+    "totalCost": "6502496,25",
+    "ecMaxContribution": "6502496,25",
+    "coordinator": "STMICROELECTRONICS SRL",
+    "coordinatorCountry": "IT",
+    "participants": "NEAVIA TECHNOLOGIES;TESEO SPA TECNOLOGIE E SISTEMI ELETTRONICI ED OTTICI;HEWLETT PACKARD CENTRE DE COMPETENCES FRANCE;NALLATECH LIMITED;CERTIOS BV;DEPARTEMENT DE L'ISERE;Istituto Superiore Mario Boella;TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD;CONSORZIO PER IL SISTEMA INFORMATIVO (CSI PIEMONTE)",
+    "participantCountries": "FR;IT;UK;NL;IL",
+    "projectParticipants": {
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 956102
+        },
+        "993738035": {
+            "orgId": "993738035",
+            "orgName": "TESEO SPA TECNOLOGIE E SISTEMI ELETTRONICI ED OTTICI",
+            "ecContrib": 572250
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 630000
+        },
+        "957420071": {
+            "orgId": "957420071",
+            "orgName": "NEAVIA TECHNOLOGIES",
+            "ecContrib": 557985
+        },
+        "998947711": {
+            "orgId": "998947711",
+            "orgName": "CONSORZIO PER IL SISTEMA INFORMATIVO (CSI PIEMONTE)",
+            "ecContrib": 366875
+        },
+        "999965047": {
+            "orgId": "999965047",
+            "orgName": "HEWLETT PACKARD CENTRE DE COMPETENCES FRANCE",
+            "ecContrib": 675000
+        },
+        "999599357": {
+            "orgId": "999599357",
+            "orgName": "ISTITUTO SUPERIORE MARIO BOELLA SULLE TECNOLOGIE DELL'INFORMAZIONE E DELLE  TELECOMUNICAZIONI ASSOCIAZIONE",
+            "ecContrib": 0
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 362884
+        },
+        "973126408": {
+            "orgId": "973126408",
+            "orgName": "NALLATECH LIMITED",
+            "ecContrib": 975000
+        },
+        "954859853": {
+            "orgId": "954859853",
+            "orgName": "CERTIOS BV",
+            "ecContrib": 554275
+        },
+        "956640094": {
+            "orgId": "956640094",
+            "orgName": "DEPARTEMENT DE L'ISERE",
+            "ecContrib": 303125
+        }
+    },
+    "calculatedTotalContribution": 5953496
+}

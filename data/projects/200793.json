@@ -1,0 +1,23 @@
+{
+    "rcn": "200793",
+    "acronym": "PROJESTOR",
+    "topics": "ERC-CoG-2015",
+    "title": "PROJECTED MEMRISTOR: A nanoscale device for cognitive computing",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "We are entering the third era of computing: cognitive computing, which holds great promise in terms of deriving intelligence/knowledge from huge volumes of data. Todayís cognitive computers are based on the von Neumann architecture, in which the computing and the memory units are separated. Cognitive computing, however, is inherently data-centric, meaning that huge amounts of data need to be shuttled back and forth at high speeds, a task at which that architecture is highly inefficient.\n\nIt is becoming increasingly clear that to build efficient cognitive computers, we need to transition to non-von Neumann architectures where memory and logic coexist in some form. Brain-inspired neuromorphic computing and the fascinating new area of memcomputing are two key non-von Neumann approaches being researched. The critical element in these novel computing paradigms is a very-high-density, low power, variable-state, programmable and non-volatile nanoscale memory device. A technological breakthrough that will lead us to this device will be a game-changer for cognitive computing.\n\nThe goal of this project is to explore one such device concept that I co-invented at IBM Research - Zurich and which we have dubbed ìprojected memristorî or ìprojestorî for short. The projestor is indeed a memristor, i.e., a resistive element that remembers the history of the current that previously flowed through the device. The distinguishing feature of a projestor is that the physical mechanism of resistance storage is decoupled from the information retrieval process. \n\nIn the first part of the project, we will design and fabricate projestor devices to establish the concept of projection and assess its merits and drawbacks. In the second part, we will expand the concept substantially to explore highly innovative projestor devices. In the third part, we will explore various applications of projestors in neuromorphic computing and memcomputing, with a particular focus on real-time data analytics.",
+    "totalCost": "2555525",
+    "ecMaxContribution": "2555525",
+    "coordinator": "IBM RESEARCH GMBH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 2555525
+        }
+    },
+    "calculatedTotalContribution": 2555525
+}

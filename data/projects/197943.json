@@ -1,0 +1,68 @@
+{
+    "rcn": "197943",
+    "acronym": "Mont-Blanc 3",
+    "topics": "FETHPC-1-2014",
+    "title": "Mont-Blanc 3, European scalable and power efficient HPC platformbased on low-power embedded technology",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "'The main target of the Mont-Blanc 3 project 'European Scalable and power efficient HPC platform based on low-power embedded technology' is the creation of a new high-end HPC platform (SoC and node) that is able to deliver a new level of performance / energy ratio whilst executing real applications.\n \nThe technical objectives are:\n \n1. To design a well-balanced architecture and to deliver the design for an ARM based SoC or SoP (System on Package) capable of providing pre-exascale performance when implemented in the time frame of 2019-2020. The predicted performance target must be measured using real HPC applications.\n2. To maximise the benefit for HPC applications with new high-performance ARM processors and throughput-oriented compute accelerators designed to work together within the well-balanced architecture.\n3. To develop the necessary software ecosystem for the future SoC. This additional objective is important to maximize the impact of the project and make sure that this ARM architecture path will be successful in the market.\n \nThe project shall build upon the previous Mont-Blanc  & Mont-Blanc 2 FP7 projects, with ARM, BSC & Bull being involved in Mont-Blanc 1, 2 and 3 projects. It will adopt a co-design approach to make sure that the hardware and system innovations are readily translated into benefits for HPC applications. This approach shall integrate architecture work (WP3 & 4 - on balanced architecture and computing efficiency) together with a simulation work (to feed and validate the architecture studies) and work on the needed software ecosystem.'",
+    "totalCost": "7968375,63",
+    "ecMaxContribution": "7968375,63",
+    "coordinator": "BULL SAS",
+    "coordinatorCountry": "FR",
+    "participants": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;ARM LIMITED;AVL LIST GMBH;UNIVERSIDAD DE CANTABRIA;UNIVERSITAET STUTTGART;UNIVERSITAET GRAZ;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;UNIVERSITE DE VERSAILLES SAINT-QUENTIN-EN-YVELINES.",
+    "participantCountries": "CH;UK;AT;ES;DE;FR",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 1299188
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 398750
+        },
+        "999880075": {
+            "orgId": "999880075",
+            "orgName": "UNIVERSIDAD DE CANTABRIA",
+            "ecContrib": 300000
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 396250
+        },
+        "999873188": {
+            "orgId": "999873188",
+            "orgName": "UNIVERSITAET GRAZ",
+            "ecContrib": 300000
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 399907
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 395438
+        },
+        "999813824": {
+            "orgId": "999813824",
+            "orgName": "ARM LIMITED",
+            "ecContrib": 1281069
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 2799625
+        },
+        "999837104": {
+            "orgId": "999837104",
+            "orgName": "UNIVERSITE DE VERSAILLES SAINT-QUENTIN-EN-YVELINES.",
+            "ecContrib": 398150
+        }
+    },
+    "calculatedTotalContribution": 7968377
+}

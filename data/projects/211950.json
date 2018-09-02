@@ -1,0 +1,53 @@
+{
+    "rcn": "211950",
+    "acronym": "RESOLVD",
+    "topics": "LCE-01-2016-2017",
+    "title": "Renewable penetration levered by Efficient Low Voltage Distribution grids",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2020",
+    "objective": "RESOLVD aims to contribute to setting the next generation of competitive technologies and services for smart grids addressed in the topic LCE-01-2016-2017 (Area: 4- Intelligent electricity distribution grid). The objective is to improve the efficiency and the hosting capacity of distribution networks, in a context of highly distributed renewable generation by introducing flexibility and control in the low voltage grid.\nAn innovative advanced power electronics device, with integrated storage management capabilities, will provide both switching and energy balancing capacities to operate the grid optimally. Continuous power flow control between storage and the grid, and also between phases, will result in a flatter and reduced demand curve at the substation level with an associated loss reduction and an improved voltage control and quality of supply.\nThe enhanced observability of RESOLVD, provided through cost-effective PMUs and state-of-the-art short-term forecasting algorithms that predict demand and renewable generation, will permit a reduction of uncertainty in grid operation and an increased efficiency. RESOLVD proposes hardware and software technologies to improve low voltage grid monitoring with wide area monitoring capabilities and automatic fault detection and isolation.\nThis improved observability and monitoring system combined with the capability of actuating on the grid will benefit from robust scheduling methods to support self-healing and grid reconfiguration. This will allow efficient grid operation and a maximised renewable hosting capacity. \nThe integration of these technologies, allowing interoperability with legacy systems and third parties in a cyber secure way, envisions new business models that will be analysed during the project. Some of them focused on the role of the DSO as a facilitator, but others simply to exploit a second-life of certain types of batteries.",
+    "totalCost": "3876750",
+    "ecMaxContribution": "3876750",
+    "coordinator": "UNIVERSITAT DE GIRONA",
+    "coordinatorCountry": "ES",
+    "participants": "JOANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT MBH;SMART INNOVATION NORWAY AS;INTRACOM SA TELECOM SOLUTIONS;UNIVERSITAT POLITECNICA DE CATALUNYA;COMSENSUS, KOMUNIKACIJE IN SENZORIKA, DOO;ESTABANELL Y PAHISA ENERGIA SA",
+    "participantCountries": "AT;NO;EL;ES;SI",
+    "projectParticipants": {
+        "999981537": {
+            "orgId": "999981537",
+            "orgName": "JOANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT MBH",
+            "ecContrib": 401250
+        },
+        "950648016": {
+            "orgId": "950648016",
+            "orgName": "SMART INNOVATION NORWAY AS",
+            "ecContrib": 764625
+        },
+        "937154831": {
+            "orgId": "937154831",
+            "orgName": "COMSENSUS, KOMUNIKACIJE IN SENZORIKA, DOO",
+            "ecContrib": 415125
+        },
+        "999895983": {
+            "orgId": "999895983",
+            "orgName": "UNIVERSITAT DE GIRONA",
+            "ecContrib": 648500
+        },
+        "952615370": {
+            "orgId": "952615370",
+            "orgName": "ESTABANELL Y PAHISA ENERGIA SA",
+            "ecContrib": 431000
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 684375
+        },
+        "999969994": {
+            "orgId": "999969994",
+            "orgName": "INTRACOM SA TELECOM SOLUTIONS",
+            "ecContrib": 531875
+        }
+    },
+    "calculatedTotalContribution": 3876750
+}

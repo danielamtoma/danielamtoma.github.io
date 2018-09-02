@@ -1,0 +1,28 @@
+{
+    "rcn": "204237",
+    "acronym": "Oceanid",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "Large-scale piloting and market maturation of a disruptive technology comprising a fully automatic survey system dramatically reducing the operational cost of handling swarms of autonomous sensornodes",
+    "startDate": "01/05/2016",
+    "endDate": "31/08/2018",
+    "objective": "The ambition of the Oceanid-project is to commercialise our disruptive system for cost-efficient ocean-bottom data acquisition. An automatic Oceanid-system will compliment a large swarm of autonomous Oceanid-nodes, and facilitate a novel launch- and recovery system, incl. inductive re-charging and simultaneous data-transfer, for retrievable of said subsea sensors, enabling a short turnaround on deck. This will reducing operational duration versus similar survey-system with up to 63%, and thus reduce seafloor survey OPEX with more than 50% compared to competitors. The Oceanid is directly contributing to solving the worldwide industrial and societal challenge of unlocking new resources in deep water by provide an effective means for large area exploring of the ocean floor. The innovative Oceanid-concept consist of a large quantity of retrievable and fully autonomous underwater vehicles [AUVs], which in one scenario has an Ocean Bottom Node [OBN, Oceanid-OBN] fully integrated with a novel wireless power and data transmission system [Oceanid-Link]. The handling system topside will automatically deploy the Oceanid-OBNs LARS-type multi-node basket, and recover the nodes safely back on deck after surfacing. A minimum configuration of two standard ISO-containers is developed, comprising the deployable launch and recovery skid (LARS), combined with means of re-filling the novel salt-ballast tanks on the vehicles, and a container for storing of 250x nodes with simultaneous downloading of data and re-charging of batteries. The Oceanid-OBNs has the capacity to log sensor data down to the design depth of 3,000m, and will self-guide upon release from an over-boarding basket to a predetermined location on the seafloor. Upon received acoustic command the vehicle releases the salt-ballast, gain net positive buoyancy and returns to the surface of the water, where the recovery system is recovering the numerous nodes released. A GPS-fix is relayed to the ship via VHF.",
+    "totalCost": "3289320",
+    "ecMaxContribution": "2302524,01",
+    "coordinator": "Abyssus Marine Services AS",
+    "coordinatorCountry": "NO",
+    "participants": "PARTNER PLAST AS",
+    "participantCountries": "NO",
+    "projectParticipants": {
+        "921210165": {
+            "orgId": "921210165",
+            "orgName": "PARTNER PLAST AS",
+            "ecContrib": 1180500
+        },
+        "984756417": {
+            "orgId": "984756417",
+            "orgName": "Abyssus Marine Services AS",
+            "ecContrib": 1122024
+        }
+    },
+    "calculatedTotalContribution": 2302524
+}

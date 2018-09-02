@@ -1,0 +1,23 @@
+{
+    "rcn": "202836",
+    "acronym": "DECODE",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Allele-specific Deconvolution of Tumour DNA Methylation and Expression Data toReveal Underlying Cell Populations",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2018",
+    "objective": "Owing to advances in sequencing technology, we are now beginning to understand the molecular mechanisms underlying cancer development and evolution. Tumours however are heterogeneous, often containing admixed normal cells and different (sub)clones, confounding interpretation of the massive amounts of data flowing from large initiatives such as the International Cancer Genome Consortium.\nTo address this issue, I will develop methods that disentangle tumour bulk gene expression (RNA-Seq) and DNA methylation (Bisulphite-Seq) data to accurately reveal the states of the distinct underlying cell populations. The innovative algorithms will derive estimates of the allele-specific expression/methylation rates and tumour copy number profiles from the data and use them to separate the signal coming from the tumour from that of the normal cells. In a second step, the method leverages the wealth of available cancer ëomics data using a recommender-system approach to complete the deconvolution. Careful validation will come from teasing apart computationally mixed pure samples as well as from ongoing and planned collaborative single-cell sequencing projects. A detailed analysis of tumour expression and DNA methylation heterogeneity on these single-cell datasets will guide further methodological advances. As an intrinsic part of the project, massive pan-cancer datasets will be deconvoluted. Drawing on the pure transcriptomes and epigenomes, I will construct a more comprehensive taxonomy of cancers, laying the basis for significant improvements in clinical prognostic prediction and personalised treatment.\nThis project will shift the paradigm of genomic tumour heterogeneity to include the more actionable transcriptome and epigenome. In turn this will lead to a better understanding of how (epi)genomic alterations translate into the transcriptomic (and proteomic, interactomic, Ö) changes driving cancer evolution.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "THE FRANCIS CRICK INSTITUTE LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "936426070": {
+            "orgId": "936426070",
+            "orgName": "THE FRANCIS CRICK INSTITUTE LIMITED",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

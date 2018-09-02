@@ -1,0 +1,73 @@
+{
+    "rcn": "193353",
+    "acronym": "BONVOYAGE",
+    "topics": "MG-7.2a-2014",
+    "title": "From Bilbao to Oslo, intermodal mobility solutions and interfaces for people and goods, supported by an innovative communication network",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "BONVOYAGE will design, develop and test a platform optimizing multimodal door-to-door transport of passengers and goods. The platform integrates travel information, planning and ticketing services, by automatically analysing non-real-time data from heterogeneous databases (on road, railway and urban transport systems); real-time measured data (traffic, weather forecasts); user profiles; user feedback.\nThe platform is supported by an innovative information-centric communication network that collects and distributes all the data required. The highly heterogeneous, distributed and mobile nature of data, coming from data-centers, sensors, vehicles, goods and people on the move, calls for an innovative networking paradigm. Current networks (e.g. Internet) limit themselves to ìjustî providing communication channels between hosts. Our paradigm, called Internames, allows communications among entities identified by names, without the constraint of a static binding to a particular location.\nThe request of a ìuserî (be it a person or a parcel) to travel from source to destination is managed by the platform with several tools: Metadata Handler collects and elaborates data related to the request and generates a corresponding Context; User Profiler creates a personalized profile, conveying requirements including Quality of Experience parameters and special needs; Multi-Objective Optimizer develops personalized travel instructions, optimal for the Context and User Profile. The user may give feedback, before accepting the travel itinerary. If a trip is not available at request time, the user is notified if it becomes available later on. An Actuator triggers the necessary services. A Tariff Scheme Designer exploits platform data to define multi-part tariff schemes.\nBONVOYAGE will trial and demonstrate the platform and communication network in integrated, large-scale, real life application scenarios, incorporated into the normal business operations of our transport operator partners.",
+    "totalCost": "4000000",
+    "ecMaxContribution": "4000000",
+    "coordinator": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+    "coordinatorCountry": "IT",
+    "participants": "STATENS VEGVESEN;STIFTELSEN SINTEF;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;TRENITALIA SPA;CONSORZIO PER LA RICERCA NELL' AUTOMATICA E NELLE TELECOMUNICAZIONI C.R.A.T.;ATOS SPAIN SA;AYUNTAMIENTO DE BILBAO;ASOCIACION CLUSTER DE MOVILIDAD Y LOGISTICA DE EUSKADI;FLUIDTIME DATA SERVICES GMBH;TRANSPORTES AZKAR S.A.",
+    "participantCountries": "NO;FR;IT;ES;AT",
+    "projectParticipants": {
+        "999949624": {
+            "orgId": "999949624",
+            "orgName": "TRENITALIA SPA",
+            "ecContrib": 400000
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 680750
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 373750
+        },
+        "997580302": {
+            "orgId": "997580302",
+            "orgName": "AYUNTAMIENTO DE BILBAO",
+            "ecContrib": 135000
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 535000
+        },
+        "999655229": {
+            "orgId": "999655229",
+            "orgName": "CONSORZIO PER LA RICERCA NELL' AUTOMATICA E NELLE TELECOMUNICAZIONI C.R.A.T.",
+            "ecContrib": 401750
+        },
+        "999661340": {
+            "orgId": "999661340",
+            "orgName": "STATENS VEGVESEN",
+            "ecContrib": 177500
+        },
+        "997628414": {
+            "orgId": "997628414",
+            "orgName": "TRANSPORTES AZKAR S.A.",
+            "ecContrib": 81250
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 766000
+        },
+        "997688263": {
+            "orgId": "997688263",
+            "orgName": "FLUIDTIME DATA SERVICES GMBH",
+            "ecContrib": 277500
+        },
+        "997297062": {
+            "orgId": "997297062",
+            "orgName": "ASOCIACION CLUSTER DE MOVILIDAD Y LOGISTICA DE EUSKADI",
+            "ecContrib": 171500
+        }
+    },
+    "calculatedTotalContribution": 4000000
+}

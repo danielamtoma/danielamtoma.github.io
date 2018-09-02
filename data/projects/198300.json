@@ -1,0 +1,68 @@
+{
+    "rcn": "198300",
+    "acronym": "HAoS",
+    "topics": "MSCA-ITN-2015-ETN",
+    "title": "Holistic Approach of Spray Injection through a Generalized Multi-phase Framework",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2019",
+    "objective": "Development of fuel injection equipment (FIE) able to reduce pollutant emissions from liquid-fueled transportation and power generation systems is a top industrial priority in order to meet the forthcoming EU 2020 emission legislations. However, design of new FIE is currently constrained by the incomplete physical understanding of complex micro-scale processes, such as in-nozzle cavitation, primary and secondary atomization. Unfortunately, todayís computing power does not allow for an all-scale analysis of these processes. The proposed program aims to develop a large eddy simulation (LES) CFD model that will account for the influence of unresolved sub-grid-scale (SGS) processes to engineering scales at affordable computing time scales. The bridging parameter between SGS and macro-scales flow processes is the surface area generation/destruction occurring during fuel atomisation; relevant SGS closure models will be developed through tailored experiments and DNS and will be implemented into the LES model predicting the macroscopic spray development as function of the in-nozzle flow and surrounding air conditions. Validation of the new simulation tool, currently missing from todayís state-of-the-art models, will be performed against new benchmark experimental data to be obtained as part of the programme, in addition to those provided by the industrial partners. This will demonstrate the applicability of the model as an engineering design tool suitable for IC engines, gas turbines, fuel burners and even rocket engine fuel injectors. The proposed research and training programme will be undertaken by 15ESRs funded by the EU and one ESR funded independently from an Australian partner; ESRs will be recruited/seconded by universities, research institutes and multinational fuel injection and combustion systems manufacturers that will represent in the best possible way the international, interdisciplinary and intersectoral requirements of the Marie Curie Action guidelines.",
+    "totalCost": "3857734,84",
+    "ecMaxContribution": "3857734,84",
+    "coordinator": "CITY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;KARLSRUHER INSTITUT FUER TECHNOLOGIE;DELPHI AUTOMOTIVE SYSTEMS LUXEMBOURG SA;UNIVERSITAET STUTTGART;UNIVERSITY COLLEGE LONDON;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;MITSUBISHI HITACHI POWER SYSTEMS EUROPE GMBH;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "EL;UK;DE;LU;FR;SE",
+    "projectParticipants": {
+        "999842730": {
+            "orgId": "999842730",
+            "orgName": "CITY UNIVERSITY OF LONDON",
+            "ecContrib": 819864
+        },
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 273288
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 527319
+        },
+        "949131615": {
+            "orgId": "949131615",
+            "orgName": "MITSUBISHI HITACHI POWER SYSTEMS EUROPE GMBH",
+            "ecContrib": 249216
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 730210
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 249216
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 0
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 273288
+        },
+        "999427958": {
+            "orgId": "999427958",
+            "orgName": "DELPHI AUTOMOTIVE SYSTEMS LUXEMBOURG SA",
+            "ecContrib": 250560
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 484774
+        }
+    },
+    "calculatedTotalContribution": 3857735
+}

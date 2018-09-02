@@ -1,0 +1,58 @@
+{
+    "rcn": "199421",
+    "acronym": "SEO-DWARF",
+    "topics": "MSCA-RISE-2015",
+    "title": "Semantic EO Data Web Alert and Retrieval Framework",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "Technological advances in remote sensing have increased the availability of satellite images with different spatiotemporal and spectral characteristics.There is difficulty for retrieving the most appropriate data for each user's needs.One key challenge is to connect the quantitative information of the EO images with the qualitative (high-level user queries) and be able to mine these connections in big archives.An inherent question arises; how to retrieve EO images based on user semantically aware questions.Content based EO image retrieval techniques have been introduced for bridging the gap between low-level image features and high-level queries.The main constraint of the existing approaches is the generalization of the problem.The formulated ontologies are not focused on the constraints of EO images.The main objective of SEO-DWARF is to realize the content-based search of EO images on an application specific basis.The marine application domain and data from Sentinels 1,2,3, ENVISAT will be used.Queries such as ìCalculate the rate of increasing chlorophyll in the NATURA areaî will be answered by the SEO-DWARF, helping users to retrieve the appropriate EO images for their specific needs or alert them when a specific phenomenon occurs.The research contains the:a) ontology formalization for the specific research topics,b) determination of the semantic queries for the application domains,c) algorithm development for extracting metadata from the EO images,d) design of an architecture of the platform to perform the semantic image retrieval and storage and management of the extracted metadata.All four aspects will be integrated in an innovative and user-friendly web based platform enabling the users to retrieve images for marine applications or register for a semantic alert.A strong and experienced research team, of 4 academic and 5 industrial partners, coming from Greece(3), Italy(2), Germany(1), France(1), Cyprus(1) and Switzerland(1) constitute the projectís consortium.",
+    "totalCost": "1584000",
+    "ecMaxContribution": "1584000",
+    "coordinator": "PLANETEK ITALIA SRL",
+    "coordinatorCountry": "IT",
+    "participants": "TECHNOLOGIKO PANEPISTIMIO KYPROU;CLOUDSIGMA AG;NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA;I-SEA;TWT GMBH SCIENCE & INNOVATION;PLANETEK HELLAS ETAIREIA PERIORISMENIS EFTHYNIS YPIRESIES CHARTOGRAFISIS MESO DORYFOROU;UNIVERSITA DEGLI STUDI DI BARI ALDO MORO;PANEPISTIMIO AIGAIOU",
+    "participantCountries": "CY;CH;EL;FR;DE;IT",
+    "projectParticipants": {
+        "928289225": {
+            "orgId": "928289225",
+            "orgName": "I-SEA",
+            "ecContrib": 54000
+        },
+        "998881363": {
+            "orgId": "998881363",
+            "orgName": "PLANETEK ITALIA SRL",
+            "ecContrib": 216000
+        },
+        "999597223": {
+            "orgId": "999597223",
+            "orgName": "TECHNOLOGIKO PANEPISTIMIO KYPROU",
+            "ecContrib": 189000
+        },
+        "999771823": {
+            "orgId": "999771823",
+            "orgName": "TWT GMBH SCIENCE & INNOVATION",
+            "ecContrib": 162000
+        },
+        "969018264": {
+            "orgId": "969018264",
+            "orgName": "CLOUDSIGMA AG",
+            "ecContrib": 216000
+        },
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 252000
+        },
+        "999840596": {
+            "orgId": "999840596",
+            "orgName": "UNIVERSITA DEGLI STUDI DI BARI ALDO MORO",
+            "ecContrib": 171000
+        },
+        "998526343": {
+            "orgId": "998526343",
+            "orgName": "PLANETEK HELLAS ETAIREIA PERIORISMENIS EFTHYNIS YPIRESIES CHARTOGRAFISIS MESO DORYFOROU",
+            "ecContrib": 162000
+        }
+    },
+    "calculatedTotalContribution": 1422000
+}

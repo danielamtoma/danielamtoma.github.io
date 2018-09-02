@@ -1,0 +1,38 @@
+{
+    "rcn": "204500",
+    "acronym": "DART",
+    "topics": "Sesar-02-2015",
+    "title": "Data-driven AiRcraft Trajectory prediction research",
+    "startDate": "20/06/2016",
+    "endDate": "19/06/2018",
+    "objective": "'DART (Data-driven AiRcraft Trajectory prediction research) addresses the topic ìER-02-2015 - Data Science in ATMî exploring the applicability of data science and complexity science techniques to the ATM domain. DART will deliver understanding on the suitability of applying big data techniques for predicting multiple correlated aircraft trajectories based on data driven models and accounting for ATM network complexity effects.\nDART will blend computer science non-ATM specific expertise from University of Piraeus Research Center (UPRC, Greece) and Fraunhofer-Gesellschaft zur Fˆrderung der angewandten Forschung e.V. (FRHF, Germany) and ATM state of the art and business needs knowledge from Centro de Referencia de InvestigaciÛn, Desarrollo e InnovaciÛn (CRIDA, Spain) and Boeing Research and Technology Europe (BR&T-E, Spain) in a two years long effort.\nData Science is being pervasively applied to many businesses today has even make room for provoking proposals like the now famous form Anderson, Chris: 'The end of theory: The Data Deluge Makes the Scientific Method Obsolete.' Wired magazine 16.7 (2008): 16-07. DART aims to avoid this hype and present to the ATM community an understanding on what can be achieved today in trajectory prediction using data-driven models.\n'",
+    "totalCost": "598523,75",
+    "ecMaxContribution": "598523,75",
+    "coordinator": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+    "coordinatorCountry": "EL",
+    "participants": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.",
+    "participantCountries": "ES;DE",
+    "projectParticipants": {
+        "999648730": {
+            "orgId": "999648730",
+            "orgName": "BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.",
+            "ecContrib": 162532
+        },
+        "999586941": {
+            "orgId": "999586941",
+            "orgName": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+            "ecContrib": 170000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 145491
+        },
+        "997605619": {
+            "orgId": "997605619",
+            "orgName": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+            "ecContrib": 120500
+        }
+    },
+    "calculatedTotalContribution": 598523
+}

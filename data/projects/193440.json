@@ -1,0 +1,118 @@
+{
+    "rcn": "193440",
+    "acronym": "C2NET",
+    "topics": "FoF-01-2014",
+    "title": "Cloud Collaborative Manufacturing Networks (C2NET)",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The goal of C2NET Project is the creation of cloud-enabled tools for supporting the supply network optimization of manufacturing and logistic assets based on collaborative demand, production and delivery plans. C2NET Project will provide a scalable real-time architecture, platform and software to allow the supply network partners: to master complexity and data security of the supply network, to store product, process and logistic data, to optimize the manufacturing assets by the collaborative computation of production plans, to optimize the logistics assets through efficient delivery plans and to render the complete set of supply chain management information on the any digital mobile device (PC, tablets, smartphones,Ö) of decision makers enabling them to monitor, visualize, control, share and collaborate.\nThe Project results will be: i) the C2NET Data Collection Framework for IoT-based continuous data collection from supply network resources; ii) the C2NET Optimizer for the optimization of manufacturing and logistics assets of the supply network by the collaborative computation of production, replenishment and delivery plans; iii) the C2NET Collaboration Tools for providing support to the collaborative processes of the supply network, and iv) the C2NET Cloud Platform (C2NET CPL) to integrate the data module, the optimizers and the collaborative tools in the cloud.\nC2NET will be designed to comprehensively cover the entire supply chain considering all stages of manufacturing, distribution and sales to supply a product to market. Different actors in the supply network as plant managers, planners, carriers, shop floor workers, shop assistants or customers are potential users of the services that will be offered by C2NET. A distinguishing feature of these services is to have complete visibility and real-time status of the entire supply chain at all times looking for an optimal response to maximize both local and global benefit.",
+    "totalCost": "7126495",
+    "ecMaxContribution": "7126494,75",
+    "coordinator": "ATOS IT SOLUTIONS AND SERVICES SRO",
+    "coordinatorCountry": "SK",
+    "participants": "Teknologian tutkimuskeskus VTT Oy;TTY-SAATIO;LABORATOIRE VIRTUEL EUROPEEN DANS LE DOMAINE DE L'INTEROPERABILITE DESENTREPRISES;LINAGORA GRAND SUD OUEST SA;PLASTIC OMNIUM AUTOMOTIVE ESPANA SA;UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO;ATOS SPAIN SA;ASSOCIATION POUR LA RECHERCHE ET LE DEVELOPPEMENT DES METHODES ET PROCESSUS INDUSTRIELS;ASSOCIACAO UNIVERSIDADE EMPRESA PARA DESENVOLVIMENTO TECMINHO;PIERRE FABRE DERMO-COSMETIQUE SAS;INSTITUTO TECNOLOGICO DE INFORMATICA;UNIVERSITAT POLITECNICA DE VALENCIA;FLUIDHOUSE OY - FH;FLEXEFELINA SA;ANTONIO ABREU METALOMECANICA,LDA.;NOVATEC DISE—O E INDUSTRIALIZACION SL;TEKNOLOGIAN TUTKIMUSKESKUS VTT;CAIXA MAGICA SOFTWARE SA;IKERLAN S COOP",
+    "participantCountries": "FI;BE;FR;ES;PT",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 534772
+        },
+        "999581315": {
+            "orgId": "999581315",
+            "orgName": "IKERLAN S COOP",
+            "ecContrib": 550588
+        },
+        "949965233": {
+            "orgId": "949965233",
+            "orgName": "PLASTIC OMNIUM AUTOMOTIVE ESPANA SA",
+            "ecContrib": 254438
+        },
+        "998527022": {
+            "orgId": "998527022",
+            "orgName": "LABORATOIRE VIRTUEL EUROPEEN DANS LE DOMAINE DE L'INTEROPERABILITE DESENTREPRISES",
+            "ecContrib": 282500
+        },
+        "999633889": {
+            "orgId": "999633889",
+            "orgName": "UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO",
+            "ecContrib": 610000
+        },
+        "942960863": {
+            "orgId": "942960863",
+            "orgName": "FLEXEFELINA SA",
+            "ecContrib": 160625
+        },
+        "943067369": {
+            "orgId": "943067369",
+            "orgName": "ANTONIO ABREU METALOMECANICA,LDA.",
+            "ecContrib": 160625
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 585925
+        },
+        "945027739": {
+            "orgId": "945027739",
+            "orgName": "NOVATEC DISEÑO E INDUSTRIALIZACION SL",
+            "ecContrib": 155406
+        },
+        "951843056": {
+            "orgId": "951843056",
+            "orgName": "PIERRE FABRE DERMO-COSMETIQUE SAS",
+            "ecContrib": 354688
+        },
+        "999708870": {
+            "orgId": "999708870",
+            "orgName": "CAIXA MAGICA SOFTWARE SA",
+            "ecContrib": 478125
+        },
+        "952858452": {
+            "orgId": "952858452",
+            "orgName": "LINAGORA GRAND SUD OUEST SA",
+            "ecContrib": 562750
+        },
+        "994906012": {
+            "orgId": "994906012",
+            "orgName": "ASSOCIACAO UNIVERSIDADE EMPRESA PARA DESENVOLVIMENTO TECMINHO",
+            "ecContrib": 162375
+        },
+        "999981246": {
+            "orgId": "999981246",
+            "orgName": "ASSOCIATION POUR LA RECHERCHE ET LE DEVELOPPEMENT DES METHODES ET PROCESSUS INDUSTRIELS",
+            "ecContrib": 392714
+        },
+        "998565337": {
+            "orgId": "998565337",
+            "orgName": "INSTITUTO TECNOLOGICO DE INFORMATICA",
+            "ecContrib": 456978
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 434550
+        },
+        "990343811": {
+            "orgId": "990343811",
+            "orgName": "TTY-SAATIO",
+            "ecContrib": 701862
+        },
+        "999901706": {
+            "orgId": "999901706",
+            "orgName": "TEKNOLOGIAN TUTKIMUSKESKUS VTT",
+            "ecContrib": 0
+        },
+        "990993420": {
+            "orgId": "990993420",
+            "orgName": "FLUIDHOUSE OY - FH",
+            "ecContrib": 236625
+        },
+        "955208471": {
+            "orgId": "955208471",
+            "orgName": "ATOS IT SOLUTIONS AND SERVICES SRO",
+            "ecContrib": 50950
+        }
+    },
+    "calculatedTotalContribution": 7126496
+}

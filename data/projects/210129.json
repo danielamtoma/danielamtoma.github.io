@@ -1,0 +1,23 @@
+{
+    "rcn": "210129",
+    "acronym": "ToRH",
+    "topics": "ERC-2016-STG",
+    "title": "A Theory of Reliable Hardware",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2022",
+    "objective": "The complexity of computing hardware keeps increasing at a rapid pace, with no end in sight. With growing number of components and ongoing miniaturization, hardware engineers struggle with an increasing number and variety of faults, yet must guarantee correct operation of the system as a whole. This is hindered by a concurrent increase in design complexity, i.e., the trend of integrating ever more diverse circuits into larger systems, which results in a higher complexity of verifying the correctness of a given design -- especially when providing for the possibility that some components may fail.\n\nThe goal of this project is to develop a holistic mathematical approach to modeling fault-tolerant circuits and demonstrate its usefulness in practice. Such a framework will exhibit several advantages over the present methods, which are largely based on simulation and experimentation: \n\n(i)   mathematical proofs offer parametrized guarantees, which implies that the derived building blocks can easily be re-used in varying configurations and translated to different technologies;\n  \n(ii)  it permits statements about general fault types, entailing that claimed properties do not rely on specific fault behavior (which depends on operational parameters and technology); and\n  \n(iii) abstract, parametrized reasoning enables to design and optimize for long-term scalability.\n\nWhile this approach to fault-tolerance has been successfully applied in the area of distributed computing for decades, transferring it to low-level hardware design introduces new obstacles, such as very limited computational capabilities of the basic components and the potential for metastability. Overcoming these challenges will pave the way for highly dependable and scalable systems, and thus help in further sustaining the exponential growth in available computing power commonly referred to as Moore's Law.",
+    "totalCost": "1472000",
+    "ecMaxContribution": "1472000",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1472000
+        }
+    },
+    "calculatedTotalContribution": 1472000
+}

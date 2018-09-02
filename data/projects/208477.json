@@ -1,0 +1,23 @@
+{
+    "rcn": "208477",
+    "acronym": "WakeOpColl",
+    "topics": "ERC-2016-COG",
+    "title": "Learning and collective intelligence for optimized operations in wake flows",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Physics dictate that a flow device has to leave a wake or the signature of it producing sustentation forces, extracting energy, or simply moving through the medium; these flow structures can then impact negatively or favorably another device downstream. Wake turbulence between aircraft in air traffic and wake losses within wind farms are prime examples of this phenomenon, and incidentally constitute pivotal challenges to their respective fields of transportation and wind energy. These are highly complex and unsteady flows, and distributed control based on affordable wake models has failed to produce robust schemes that can alleviate turbulence effects and achieve efficiency at the scale of the system of devices. \nThis project proposes an Artificial Intelligence and bio-inspired paradigm for the control of flow devices subjected to wake effects. To each flow device, we associate an intelligent agent that pursues given goals of efficiency or turbulence alleviation. Every one of these flow agents now relies on machine-learning tools to learn how to make the right decision when confronted with wake or turbulent flow structures. At a system level, we employ Multi-Agent System and Distributed Learning paradigms. Based on Game Theory, we build a system of interactions that incite the emergence of collaborative behaviors between the agents and achieve global optimized operation among the devices. We claim that the design of a system that learns how to control the flow, is simpler than the design of the control scheme and will yield a more robust scheme. \nThe learning of formation flying among aircraft and of wake alleviation between wind turbines will constitute our study cases. The investigation will essentially be carried by means of large-scale numerical simulations; such simulations will produce the first ever realizations of self-organized systems in a turbulent flow. We will then apply our learning frameworks to a small-scale wind farm.",
+    "totalCost": "1999591,25",
+    "ecMaxContribution": "1999591,25",
+    "coordinator": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 1999591
+        }
+    },
+    "calculatedTotalContribution": 1999591
+}

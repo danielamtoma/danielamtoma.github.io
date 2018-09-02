@@ -1,0 +1,23 @@
+{
+    "rcn": "193687",
+    "acronym": "BASTION",
+    "topics": "ERC-StG-2014",
+    "title": "Leveraging Binary Analysis to Secure the Internet of Things",
+    "startDate": "01/03/2015",
+    "endDate": "29/02/2020",
+    "objective": "We are in the midst of the shift towards the Internet of Things (IoT), where more and more (legacy) devices are connected to the Internet and communicate with each other.  This paradigm shift brings new security challenges and unfortunately many current security solutions are not applicable anymore, e.g., because of a lack of clear network boundaries or resource-constrained devices. However, security plays a central role: In addition to its classical function in protecting against manipulation and fraud, it also enables novel applications and innovative business models. \n\nWe propose a research program that leverages binary analysis techniques to improve the security within the IoT. We concentrate on the software level since this enables us to both analyze a given device for potential security vulnerabilities and add security features to harden the device against future attacks. More specifically, we concentrate on the firmware (i.e., the combination of persistent memory together with program code and data that powers such devices) and develop novel mechanism for binary analysis of such software. We design an intermediate language to abstract away from the concrete assembly level and this enables an analysis of many different platforms within a unified analysis framework. We transfer and extend program analysis techniques such as control-/data-flow analysis or symbolic execution and apply them to our IL. Given this novel toolset, we can analyze security properties of a given firmware image (e.g., uncovering undocumented functionality and detecting memory corruption or logical vulnerabilities,). We also explore how to harden a firmware by retrofitting security mechanisms (e.g., adding control-flow integrity or automatically eliminating unnecessary functionality). This research will deepen our fundamental understanding of binary analysis methods and apply it to a novel area as it lays the foundations of performing this analysis on the level of intermediate languages.",
+    "totalCost": "1472268,75",
+    "ecMaxContribution": "1472268,75",
+    "coordinator": "RUHR-UNIVERSITAET BOCHUM",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 1472269
+        }
+    },
+    "calculatedTotalContribution": 1472269
+}

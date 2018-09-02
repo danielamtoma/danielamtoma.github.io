@@ -1,0 +1,48 @@
+{
+    "rcn": "199918",
+    "acronym": "VISION",
+    "topics": "MG-1.8-2015",
+    "title": "Validation of Integrated Safety-enhanced Intelligent flight cONtrol",
+    "startDate": "01/03/2016",
+    "endDate": "31/08/2019",
+    "objective": "To enhance air transport safety, the main objective of VISION is to validate smarter technologies for aircraft Guidance, Navigation and Control (GN&C) by including 1/ vision-based systems 2/ advanced detection and resilient methods. Critical flight situations are targeted, especially during near-ground operation phases (half of 169 fatal accidents in the last decade during approach or landing). Actually, despite continuous improvements in reliability and performance, the complexity of Flight Control Systems also requires to use many sources likely to suffer from faults and environmental conditions. To overcome these anomalies, recent projects have evaluated advanced solutions, but their transfer to the industry is slowed down by lack of flight validations, limitations of on-board computers or certification issues. The TRL reached by both sides are rather equivalent, with dissimilar pros and cons. Accordingly, VISION aims at capitalizing on the know-how and experience independently acquired to make a significant improvement and maturation of the TRL achieved. To demonstrate the solutions, complementary efforts will be undertaken and two scenarios are considered: i) Flight control recovery, ii) Navigation and guidance recovery during the final approach phase. In i), Fault Detection and Diagnosis and Fault Tolerant Control techniques will be implemented in faulty situations. In ii), vision will be used to estimate and modify the aircraft glide path when local navigation data is denied, or when unexpected obstacles are detected. In both cases, the GN&C systems will be tested on real aircraft platforms and their performance evaluated. VISION will result in flight-validated GN&C solutions with increased TRL, with benefits for the European aircraft industry.",
+    "totalCost": "1796877,5",
+    "ecMaxContribution": "1796877,5",
+    "coordinator": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+    "coordinatorCountry": "FR",
+    "participants": "THE UNIVERSITY OF EXETER;UNMANNED SOLUTIONS SL;MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET;DASSAULT AVIATION;UNIVERSITY OF BRISTOL",
+    "participantCountries": "UK;ES;HU;FR",
+    "projectParticipants": {
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 652193
+        },
+        "999864555": {
+            "orgId": "999864555",
+            "orgName": "THE UNIVERSITY OF EXETER",
+            "ecContrib": 356264
+        },
+        "952540680": {
+            "orgId": "952540680",
+            "orgName": "UNMANNED SOLUTIONS SL",
+            "ecContrib": 112671
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 350126
+        },
+        "999957675": {
+            "orgId": "999957675",
+            "orgName": "DASSAULT AVIATION",
+            "ecContrib": 75561
+        },
+        "999651252": {
+            "orgId": "999651252",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET",
+            "ecContrib": 250062
+        }
+    },
+    "calculatedTotalContribution": 1796877
+}

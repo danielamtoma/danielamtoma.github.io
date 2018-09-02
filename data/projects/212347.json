@@ -1,0 +1,63 @@
+{
+    "rcn": "212347",
+    "acronym": "LOTER.CO2M",
+    "topics": "NMBP-19-2017",
+    "title": "CRM-free Low Temperature Electrochemical Reduction of CO2 to Methanol",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "LOTER.CO2M aims to develop advanced, low-cost electro-catalysts and membranes for the direct electrochemical reduction of CO2 to methanol by low temperature CO2-H2O co-electrolysis. The materials will be developed using sustainable, non-toxic and non-critical raw materials.  They will be scaled-up, integrated into a gas phase electrochemical reactor, and the process validated for technical and economic feasibility under industrially relevant conditions. The produced methanol can be used as a chemical feedstock or for effective chemical storage of renewable energy.  The demonstration of the new materials at TRL5 level, and the potential of this technology for market penetration, will be assessed by achieving a target electrochemical performance > 50 A/g at 1.5  V/cell, a CO2 conversion rate > 60%,  and a selectivity > 90% towards methanol production with an enthalpy efficiency for the process > 86%. A significant increase in durability under intermittent operation in combination with renewable power sources is also targeted in the project through several stabilization strategies to achieve a degradation rate of < 1%/1000 h at stack level. The developed low-temperature CO2 conversion reactor will offer fast response (frequency > 2-5 Hz) to electrical current fluctuations typical of intermittent power sources and a wide operating range in terms of input power, i.e. from 10% to full power in less than a second. Such aspects are indicative of an excellent dynamic behaviour as necessary to operate with renewable power sources. A life cycle assessment of the CO2 electrolysis system, which will compile information at different levels from materials up to the CO2 electrolysis system including processing resources, will complete the assessment of this technology for large-scale application. Field testing of the co-electrolysis system in an industrial relevant environment will enable to evaluate the commercial competitiveness and the development of a forward exploitation plan.",
+    "totalCost": "4264452,5",
+    "ecMaxContribution": "4264452,5",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "NV BEKAERT SA;HYDROGENICS EUROPE NV;CONSIGLIO NAZIONALE DELLE RICERCHE;RWE POWER AG;DANMARKS TEKNISKE UNIVERSITET;UNIVERSITAT POLITECNICA DE VALENCIA;EWII FUEL CELLS A/S;JOHNSON MATTHEY PLC",
+    "participantCountries": "BE;IT;DE;DK;ES;UK",
+    "projectParticipants": {
+        "968717855": {
+            "orgId": "968717855",
+            "orgName": "HYDROGENICS EUROPE NV",
+            "ecContrib": 589250
+        },
+        "999947102": {
+            "orgId": "999947102",
+            "orgName": "JOHNSON MATTHEY PLC",
+            "ecContrib": 443165
+        },
+        "998129225": {
+            "orgId": "998129225",
+            "orgName": "EWII FUEL CELLS A/S",
+            "ecContrib": 352215
+        },
+        "999931873": {
+            "orgId": "999931873",
+            "orgName": "NV BEKAERT SA",
+            "ecContrib": 150000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 350000
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 400000
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 290598
+        },
+        "999936529": {
+            "orgId": "999936529",
+            "orgName": "RWE POWER AG",
+            "ecContrib": 499240
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 1189985
+        }
+    },
+    "calculatedTotalContribution": 4264453
+}

@@ -1,0 +1,63 @@
+{
+    "rcn": "194285",
+    "acronym": "UMOBILE",
+    "topics": "ICT-05-2014",
+    "title": "Universal, mobile-centric and opportunistic communications architecture",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "Cars, sensors, home appliances, every device in the daily life of citizens is becoming a constituent in Future Internet, adding to the need to reconsider requirements and assumptions in terms of network availability and affordability to support the ever increasing traffic demand. Still, the current Internet can only evolve adequately, if its infrastructure can be devised to accommodate the emerging services. The increased cost of adding new infrastructure and capacity has a drastic effect on rural and remote communities as well as nomadic users as they become marginalized by not gaining access to crucial Internet services. Our goal is to make the Future Internet universally pervasive supporting a diverse set of services. To achieve this, we develop a universal mobile-centric and opportunistic communications architecture, which integrates the principles of Delay Tolerant Networking (DTN) and Information Centric Networking (ICN) in a common framework. We utilize the benefits of both ICN and DTN to enable resource exploitation at minimal bandwidth, opportunistic access to information and more localized access to information through novel caching strategies. UMOBILE focuses on assisting users in getting access to the content they want or content that may be of shared interest to their trust circles. By relying on an instance of the UMOBILE architecture, users are able to share information directly with other peers without relying on infrastructure or expensive connectivity services. The proposed architecture targets the mobile part of the networks, extends Internet connectivity to regions that are not typically covered enhancing network resilience and is fully backward compatible with the current Internet architecture. We will validate our architecture in a real world trial as well as participate strategically in carefully planned dissemination, standardization and exploitation activities to ensure that our architecture transcends from the lab to real world deployments.",
+    "totalCost": "3013043,75",
+    "ecMaxContribution": "3010742",
+    "coordinator": "ATHINA-EREVNITIKO KENTRO KAINOTOMIAS STIS TECHNOLOGIES TIS PLIROFORIAS, TON EPIKOINONION KAI TIS GNOSIS",
+    "coordinatorCountry": "EL",
+    "participants": "COPELABS - ASSOCIACAO PARA A INVESTIGACAO E DESENVOLVIMENTO EM COGNICAO E COMPUTACAO CENTRADA NAS PESSOAS;THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;AFA SYSTEMS SRL;FON TECHNOLOGY SL;FUNDACION TECNALIA RESEARCH & INNOVATION;DEMOCRITUS UNIVERSITY OF THRACE;SENCEPTION LDA;TEKEVER II AUTONOMOUS SYSTEMS LDA;UNIVERSITY COLLEGE LONDON",
+    "participantCountries": "PT;UK;IT;ES;EL",
+    "projectParticipants": {
+        "947041750": {
+            "orgId": "947041750",
+            "orgName": "SENCEPTION LDA",
+            "ecContrib": 167500
+        },
+        "950742979": {
+            "orgId": "950742979",
+            "orgName": "AFA SYSTEMS SRL",
+            "ecContrib": 320250
+        },
+        "952923830": {
+            "orgId": "952923830",
+            "orgName": "FON TECHNOLOGY SL",
+            "ecContrib": 231201
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 279250
+        },
+        "958744412": {
+            "orgId": "958744412",
+            "orgName": "TEKEVER II AUTONOMOUS SYSTEMS LDA",
+            "ecContrib": 319000
+        },
+        "999659109": {
+            "orgId": "999659109",
+            "orgName": "DEMOCRITUS UNIVERSITY OF THRACE",
+            "ecContrib": 184557
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 447000
+        },
+        "940756635": {
+            "orgId": "940756635",
+            "orgName": "COPELABS - ASSOCIACAO PARA A INVESTIGACAO E DESENVOLVIMENTO EM COGNICAO E COMPUTACAO CENTRADA NAS PESSOAS",
+            "ecContrib": 266250
+        }
+    },
+    "calculatedTotalContribution": 2215008
+}

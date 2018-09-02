@@ -1,0 +1,58 @@
+{
+    "rcn": "212942",
+    "acronym": "XDC",
+    "topics": "EINFRA-21-2017",
+    "title": "eXtreme DataCloud",
+    "startDate": "01/11/2017",
+    "endDate": "31/01/2020",
+    "objective": "The eXtreme DataCloud (XDC) project will develop scalable technologies for federating storage resources and managing data in highly distributed computing environments. The services provided will be capable of operating at the unprecedented scale required by the most demanding, data intensive, research experiments in Europe and Worldwide. XDC will be based on existing tools (TRL8\\) that the project will enrich with new functionalities and plugins already available as prototypes (TRL6). The targeted platforms are the current and next generation e-Infrastructures deployed in Europe, such as the European Open Science Cloud (EOSC), the European Grid Infrastructure (EGI), the Worldwide LHC Computing Grid (WLCG) and the computing infrastructures that will be funded by the upcoming H2020 EINFRA-12 call. The main high-level topics addressed by the project include: federation of storage resources with standard protocols, smart caching solutions, policy driven data management based on Quality of Service, data lifecycle management, metadata handling and manipulation, data preprocessing and encryption during ingestion, optimized data management based on access patterns. All the developments will be driven and  tested against real life use cases provided by the consortium partners representing research communities belonging to a variety of scientific domains: Life Science, Astrophysics, High Energy Physics, Photon Science and Clinical Research. The XDC software will be released as Open Source platforms available for general exploitation.",
+    "totalCost": "3396875",
+    "ecMaxContribution": "3077000",
+    "coordinator": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "coordinatorCountry": "IT",
+    "participants": "ECRIN EUROPEAN CLINICAL RESEARCH INFRASTRUCTURE NETWORK;AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE;STICHTING EGI;EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH;UNIVERSIDAD DE CANTABRIA;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;STIFTUNG DEUTSCHES ELEKTRONEN-SYNCHROTRON DESY",
+    "participantCountries": "FR;PL;NL;CH;ES;DE",
+    "projectParticipants": {
+        "999880075": {
+            "orgId": "999880075",
+            "orgName": "UNIVERSIDAD DE CANTABRIA",
+            "ecContrib": 287875
+        },
+        "999986969": {
+            "orgId": "999986969",
+            "orgName": "STIFTUNG DEUTSCHES ELEKTRONEN-SYNCHROTRON DESY",
+            "ecContrib": 403875
+        },
+        "999844573": {
+            "orgId": "999844573",
+            "orgName": "AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE",
+            "ecContrib": 580000
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 583000
+        },
+        "948646712": {
+            "orgId": "948646712",
+            "orgName": "ECRIN EUROPEAN CLINICAL RESEARCH INFRASTRUCTURE NETWORK",
+            "ecContrib": 223500
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 345000
+        },
+        "989221715": {
+            "orgId": "989221715",
+            "orgName": "STICHTING EGI",
+            "ecContrib": 147000
+        },
+        "999988133": {
+            "orgId": "999988133",
+            "orgName": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+            "ecContrib": 506750
+        }
+    },
+    "calculatedTotalContribution": 3077000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "207877",
+    "acronym": "MicroCyFly",
+    "topics": "ERC-2016-STG",
+    "title": "Microcircuitry of the Drosophila visual system",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "Neural networks process sensory inputs into outputs that guide behavioral responses. The computations that take place can be complex, suggesting intricate circuit architecture. While we are starting to unravel the circuit components of a specific neural computation, the extraction of visual motion cues, we realize that the circuits are more complex than anticipated. Here, we aim to reveal the full microcircuitry of behaviorally relevant motion-detecting pathways with complex physiological properties. \n  To understand the network implementation of a critical computation, we are studying motion detection in Drosophila. A hallmark is the extraction of direction-selective (DS) signals, which is achieved by spatiotemporal correlations of inputs. Neurons that are sufficient to set up DS signals have been identified, but are often not behaviorally necessary, suggesting redundant circuits at minimum. We have isolated a core visual pathway that is required for behavioral responses to motion cues, but displays physiological properties that are not in line with current models of motion detection. Recent data also show that DS neurons have complex receptive fields. Further, single neuronal inputs feed into both ON and OFF pathways, which later converge to control the behavioral output. What are the microcircuits that shape such receptive fields? And how do individual neurons, or individual synaptic connections contribute to one specific pathway and what is their specific computational role? We will dissect how complex receptive field properties and behavior are shaped by individual neurons. Further, we will develop a new tool to conditionally inactivate specific synaptic connection, Flp-TEV. This will allow to determine how individual synapses contribute to distinct downstream circuit properties, and behavior. We are thus proposing to map the circuit architecture of a behaviorally relevant visual pathway and understand how complex microcircuits perform relevant computation",
+    "totalCost": "1497712",
+    "ecMaxContribution": "1497712",
+    "coordinator": "UNIVERSITAETSMEDIZIN GOETTINGEN - GEORG-AUGUST-UNIVERSITAET GOETTINGEN - STIFTUNG OEFFENTLICHEN RECHTS",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999492657": {
+            "orgId": "999492657",
+            "orgName": "UNIVERSITAETSMEDIZIN GOETTINGEN - GEORG-AUGUST-UNIVERSITAET GOETTINGEN - STIFTUNG OEFFENTLICHEN RECHTS",
+            "ecContrib": 1497712
+        }
+    },
+    "calculatedTotalContribution": 1497712
+}

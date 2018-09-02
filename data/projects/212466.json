@@ -1,0 +1,88 @@
+{
+    "rcn": "212466",
+    "acronym": "MATHROCKS",
+    "topics": "MSCA-RISE-2017",
+    "title": "Multiscale Inversion of Porous Rock Physics using High-Performance Simulators: Bridging the Gap between Mathematics and Geophysics",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2022",
+    "objective": "We will develop and exchange knowledge on applied mathematics, high-performance computing (HPC), and geophysics  to better characterize the Earth¥s subsurface. We aim to better understand porous rocks physics in the context of elasto-acoustic wave propagation phenomena. We will develop parallel high-continuity isogeometric analysis (IGA) simulators for geophysics. We will design and implement fast and robust parallel solvers for linear equations to model multi-physics electromagnetic and elasto-acoustic phenomena. We seek to develop a parallel joint inversion workflow for electromagnetic and seismic geophysical measurements. To verify and validate these tools and methods, we will apply the results to: characterise hydrocarbon reservoirs, determine optimal locations for geothermal energy production, analyze earthquake propagation, and jointly invert deep-azimuthal resistivity and elasto-acoustic borehole measurements. \nOur target computer architectures for the  simulation and inversion software infrastructure consists of distributed-memory parallel machines that incorporate the latest Intel Xeon Phi processors. Thus, we will build a hybrid OpenMP and MPI software framework.\nWe will widely disseminate our collaborative research results through publications, workshops, postgraduate courses to train new researchers, a dedicated webpage with regular updates, and visits to companies working in the area. Therefore, we will perform a significant role in technology transfer between the most advanced numerical methods and mathematics, the latest super-computer architectures, and the area of applied geophysics.",
+    "totalCost": "765000",
+    "ecMaxContribution": "765000",
+    "coordinator": "UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;BCAM - BASQUE CENTER FOR APPLIED MATHEMATICS;REPSOL SA;UNIVERSITAT POLITECNICA DE CATALUNYA;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "FR;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 121500
+        },
+        "998156579": {
+            "orgId": "998156579",
+            "orgName": "BCAM - BASQUE CENTER FOR APPLIED MATHEMATICS",
+            "ecContrib": 207000
+        },
+        "999768913": {
+            "orgId": "999768913",
+            "orgName": "REPSOL SA",
+            "ecContrib": 40500
+        },
+        "971506411": {
+            "orgId": "971506411",
+            "orgName": "CURTIN UNIVERSITY OF TECHNOLOGY",
+            "ecContrib": 0
+        },
+        "999854952": {
+            "orgId": "999854952",
+            "orgName": "PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO",
+            "ecContrib": 0
+        },
+        "998697257": {
+            "orgId": "998697257",
+            "orgName": "UNIVERSIDAD CENTRAL DE VENEZUELA",
+            "ecContrib": 0
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 126000
+        },
+        "996467906": {
+            "orgId": "996467906",
+            "orgName": "MACQUARIE UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999865234": {
+            "orgId": "999865234",
+            "orgName": "UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA",
+            "ecContrib": 175500
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 94500
+        },
+        "968428116": {
+            "orgId": "968428116",
+            "orgName": "THE UNIVERSITY OF TEXAS SYSTEM",
+            "ecContrib": 0
+        },
+        "999643201": {
+            "orgId": "999643201",
+            "orgName": "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE",
+            "ecContrib": 0
+        },
+        "999878814": {
+            "orgId": "999878814",
+            "orgName": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+            "ecContrib": 0
+        },
+        "999881336": {
+            "orgId": "999881336",
+            "orgName": "UNIVERSIDAD DE BUENOS AIRES",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 765000
+}

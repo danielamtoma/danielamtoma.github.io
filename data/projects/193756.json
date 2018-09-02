@@ -1,0 +1,48 @@
+{
+    "rcn": "193756",
+    "acronym": "DREAM",
+    "topics": "FETPROACT-2-2014",
+    "title": "Deferred Restructuring of Experience in Autonomous Machines",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "A holy grail in robotics and artificial intelligence is to design a machine that can accumulate adaptations on developmental time scales of months and years. From infancy through adult- hood, such a system must continually consolidate and bootstrap its knowledge, to ensure that the learned knowledge and skills are compositional, and organized into meaningful hierarchies. Consolidation of previous experience and knowledge appears to be one of the main purposes of sleep and dreams for humans, that serve to tidy the brain by removing excess information, to recombine concepts to improve information processing, and to consolidate memory.\nOur approach ñ Deferred Restructuring of Experience in Autonomous Machines (DREAM) ñ incorporates sleep and dream-like processes within a cognitive architecture. This enables an individual robot or groups of robots to consolidate their experience into more useful and generic formats, thus improving their future ability to learn and adapt. DREAM relies on Evo- lutionary Neurodynamic ensemble methods (Fernando et al, 2012 Frontiers in Comp Neuro; Bellas et al., IEEE-TAMD, 2010 ) as a unifying principle for discovery, optimization, re- structuring and consolidation of knowledge. This new paradigm will make the robot more autonomous in its acquisition, organization and use of knowledge and skills just as long as they comply with the satisfaction of pre-established basic motivations.\nDREAM will enable robots to cope with the complexity of being an information-processing entity in domains that are open-ended both in terms of space and time. It paves the way for a new generation of robots whose existence and purpose goes far beyond the mere execution of dull tasks.",
+    "totalCost": "2784240,94",
+    "ecMaxContribution": "2730241,94",
+    "coordinator": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+    "coordinatorCountry": "FR",
+    "participants": "STICHTING VU;ASSOCIATION POUR LA RECHERCHE ET LE DEVELOPPEMENT DES METHODES ET PROCESSUS INDUSTRIELS;QUEEN MARY UNIVERSITY OF LONDON;UNIVERSIDADE DA CORUNA;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "NL;FR;UK;ES",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 883651
+        },
+        "999629718": {
+            "orgId": "999629718",
+            "orgName": "UNIVERSIDADE DA CORUNA",
+            "ecContrib": 539998
+        },
+        "954530344": {
+            "orgId": "954530344",
+            "orgName": "STICHTING VU",
+            "ecContrib": 446693
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 237096
+        },
+        "999981246": {
+            "orgId": "999981246",
+            "orgName": "ASSOCIATION POUR LA RECHERCHE ET LE DEVELOPPEMENT DES METHODES ET PROCESSUS INDUSTRIELS",
+            "ecContrib": 512480
+        },
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 110324
+        }
+    },
+    "calculatedTotalContribution": 2730242
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "199172",
+    "acronym": "MPAT",
+    "topics": "ICT-19-2015",
+    "title": "Multi-platform application toolkit",
+    "startDate": "01/12/2015",
+    "endDate": "31/12/2017",
+    "objective": "The project will deliver MPAT ñ an extensible platform for the simple creation of interactive multi-media applications.\n\nIn recent years the convergence of TV and online media has been increasing with dramatic pace. The boundaries between TV and personal media are dissolving rapidly. HbbTV is a key driver in this; enabling media companies to deploy interactive services for TV to a wide audience by building on top of a single  standard. In many European markets, over 90% of Connected TVs, sold today, are HbbTV-enabled. Features including catch-up TV and interactive advertisements have already proved to be a great success because of their accessibility to the consumer and integration with the TV. Another recent milestone was the publication of HbbTV release 2.0, moving to state-of-the-art HTML5 and offering built in support for bi-directional multi-screen services as well as media and application synchronisation.\n\n Developing HbbTV applications from scratch requires considerable resources and for this reason they are often simply too costly for single formats or shows to contemplate.\n\nMPAT is the solution; motivated by a WordPress-like technical and business approach, MPAT makes application development affordable and sustainable while creating a new eco-system for content creators, theme and plug-in developers alike. With MPAT, media companies can semi-automatically author their set of customised applications that are then populated with content by the editorial staff or by linking MPAT to existing content management solutions.\n\nThe open-source MPAT core will provide all the essential features to create compelling multi-screen experiences for HbbTV and other HTML5-based devices. The Consortium comprises key stakeholders from the HbbTV and media domain who will jointly deliver a sound and close-to-market solution thoroughly validated through an exhaustive set of pilots.",
+    "totalCost": "3295480",
+    "ecMaxContribution": "2980517,5",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "RETI TELEVISIVE ITALIANE SPA;LEADIN OY;FINCONS S.P.A.;INSTITUT FUR RUNDFUNKTECHNIK GMBH;RUNDFUNK BERLIN-BRANDENBURG;INSTITUT MINES-TELECOM;LANCASTER UNIVERSITY",
+    "participantCountries": "IT;FI;DE;FR;UK",
+    "projectParticipants": {
+        "999638254": {
+            "orgId": "999638254",
+            "orgName": "RUNDFUNK BERLIN-BRANDENBURG",
+            "ecContrib": 414062
+        },
+        "949804213": {
+            "orgId": "949804213",
+            "orgName": "FINCONS S.P.A.",
+            "ecContrib": 307738
+        },
+        "940675543": {
+            "orgId": "940675543",
+            "orgName": "LEADIN OY",
+            "ecContrib": 187250
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 275464
+        },
+        "999644656": {
+            "orgId": "999644656",
+            "orgName": "INSTITUT FUR RUNDFUNKTECHNIK GMBH",
+            "ecContrib": 408138
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 756250
+        },
+        "999840984": {
+            "orgId": "999840984",
+            "orgName": "LANCASTER UNIVERSITY",
+            "ecContrib": 391691
+        },
+        "931552014": {
+            "orgId": "931552014",
+            "orgName": "RETI TELEVISIVE ITALIANE SPA",
+            "ecContrib": 239925
+        }
+    },
+    "calculatedTotalContribution": 2980518
+}

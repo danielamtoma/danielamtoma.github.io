@@ -1,0 +1,43 @@
+{
+    "rcn": "193390",
+    "acronym": "MASAI",
+    "topics": "MG-7.2a-2014",
+    "title": "MOBILITY BASED ON AGGREGATION OF SERVICES AND APPLICATIONS INTEGRATION",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2018",
+    "objective": "MOBILITY BASED ON AGGREGATION OF SERVICES AND APPLICATIONS INTEGRATION \nMASAI addresses the interconnection of digital services to facilitate mobility in heterogeneous and varying environment. MASAI designs, prototypes and pilots in the field a MObility Open Network of Services (MOONS) as an interconnected distributed environment, on which any service module can be easily plugged to interact with others (using principles such as DNS-SD). MASAI feeds the mobile apps ecosystem. MASAI investigates also app-2-app direct communication, app being able to call/feed other apps (iOS 8 promise). MASAI is an alternative to having centralized integration platforms ñ showing their limits. MOONS is then instrumental in favouring plug & play services (trip planners, ticketing, community services, infotainment,Ö) in an open ecosystem.\nIn this way, a ìConciergeî app (or access app which is the user entry point, a trip-planner for example) in a NFC Phone address the citizen need by combining output of several services related to ticketing , trip planners, city guide, etc, provided by modules from service operators. A set of existing (SIRI, NETEX,Ö) and under development (such as TS13149-part9) standards are paving the way. MASAI in return will target results that may feed this standardization process. \nMASAI vision is supported by a consortium composed by innovative SMEs previously involved in such developments (MTA, DIGIMOBEE, CARD4B, CHESS IX), completing partial approaches by enlarging the full scope to the mobility eco-system within a plug & play mobility services vision. It includes  DB Systel (Deutsche Bahn - IT) as a key user reference which has identified MASAI as an open, innovative and consistent approach for building a seamless services experience for their customers, open to any applications supplier.\nMASAI vision is demonstrated in a variety of environments inducing cross-fertilisation in terms of delivery of independent plug & play services capable of being aggregated on any MASAI environment through open and public specifications.",
+    "totalCost": "3309968,75",
+    "ecMaxContribution": "3309968,75",
+    "coordinator": "MTA-MOBILITY, TICKETING & APPLICATIONS SPRL",
+    "coordinatorCountry": "BE",
+    "participants": "DB SYSTEL GMBH;CARD4B - SYSTEMS, S.A.;CHESS IT INTERNATIONAL BV;DIGIMOBEE",
+    "participantCountries": "DE;PT;NL;FR",
+    "projectParticipants": {
+        "950289601": {
+            "orgId": "950289601",
+            "orgName": "DIGIMOBEE SAS",
+            "ecContrib": 0
+        },
+        "950497666": {
+            "orgId": "950497666",
+            "orgName": "DB SYSTEL GMBH",
+            "ecContrib": 495000
+        },
+        "983112461": {
+            "orgId": "983112461",
+            "orgName": "CARD4B - SYSTEMS, S.A.",
+            "ecContrib": 802125
+        },
+        "954732880": {
+            "orgId": "954732880",
+            "orgName": "CHESS IT INTERNATIONAL BV",
+            "ecContrib": 612219
+        },
+        "983152328": {
+            "orgId": "983152328",
+            "orgName": "MTA-MOBILITY, TICKETING & APPLICATIONS SPRL",
+            "ecContrib": 704375
+        }
+    },
+    "calculatedTotalContribution": 2613719
+}

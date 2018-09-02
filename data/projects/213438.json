@@ -1,0 +1,23 @@
+{
+    "rcn": "213438",
+    "acronym": "COMANFLO",
+    "topics": "ERC-2017-COG",
+    "title": "Computation and analysis of statistical solutions of fluid flow",
+    "startDate": "01/08/2018",
+    "endDate": "31/07/2023",
+    "objective": "Entropy (admissible) weak solutions are widely considered to be the standard solution framework for hyperbolic systems of conservation laws and incompressible Euler equations. However, the lack of global existence results in several space dimensions, the recent demonstration of non-uniqueness of these solutions and computations showing the lack of convergence of state of the art numerical methods to them, have reinforced the need to seek alternative solution paradigms. \n\nAlthough one can show that numerical approximations of these nonlinear PDEs converge to measure-valued solutions i.e Young measures, these solutions are not unique and we need to constrain them further. Statistical solutions i.e, time-parametrized probability measures on spaces of integrable functions, are a promising framework in this regard as they can be characterized as a measure-valued solution that also contains information about all possible multi-point spatial correlations. So far, well-posedness of statistical solutions has been shown only in the case of scalar conservation laws.\n\nThe main aim of the proposed project is to analyze statistical solutions of systems of conservation laws and incompressible Euler equations and to design efficient numerical approximations for them. We aim to prove global existence of statistical solutions in several space dimensions, by showing convergence of these numerical approximations, and to identify suitable additional admissibility criteria for statistical solutions that can ensure uniqueness. We will use these numerical methods to compute statistical quantities of interest and relate them to existing theories (and observations) for unstable and turbulent fluid flows. Successful completion of this project aims to establish statistical solutions as the appropriate solution paradigm for inviscid fluid flows, even for deterministic initial data, and will pave the way for applications to astrophysics, climate science and uncertainty quantification.",
+    "totalCost": "1959323",
+    "ecMaxContribution": "1959323",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 1959323
+        }
+    },
+    "calculatedTotalContribution": 1959323
+}

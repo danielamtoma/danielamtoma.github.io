@@ -1,0 +1,63 @@
+{
+    "rcn": "206343",
+    "acronym": "SPECIAL",
+    "topics": "ICT-18-2016",
+    "title": "Scalable Policy-awarE linked data arChitecture for prIvacy, trAnsparency and compLiance",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The SPECIAL project will address the contradiction between Big Data innovation and privacy-aware data protection by proposing a technical solution that makes both of these goals realistic. We will develop technology that: (i) supports the acquisition of user consent at collection time and the recording of both data and metadata (consent, policies, event data, context) according to legislative and user-specified policies; (ii) caters for privacy-aware, secure workflows that include usage/access control, transparency and compliance verification; (iii) demonstrates robustness in terms of performance, scalability and security all of which are necessary to support privacy preserving innovation in Big Data environments; and (iv) provides a dashboard with feedback and control features that make privacy in Big Data comprehensible and manageable for data subjects, controllers, and processors. SPECIAL shall allow citizens and organisations to share more data, while guaranteeing data protection compliance, thus enabling both trust and the creation of valuable new insights from shared data. Our vision will be realised and validated via real world use cases that - in order to be viable - need to overcome current challenges concerning the processing and sharing of data in a privacy preserving manner. In order to realise this vision, we will combine and significantly extend big data architectures to handle Linked Data, harness them with sticky policies as well as scalable queryable encryption, and develop advanced user interaction and control features: SPECIAL will build on top of the Big Data Europe and PrimeLife Projects, exploit their results, and further advance the state of the art of privacy enhancing technologies.",
+    "totalCost": "3991388,75",
+    "ecMaxContribution": "3991388,75",
+    "coordinator": "GEIE ERCIM",
+    "coordinatorCountry": "FR",
+    "participants": "THOMSON REUTERS GROUP LIMITED;TENFORCE BVBA;Centro Regionale Information Communication Technology scrl;UNABHAENGIGES LANDESZENTRUM FUER DATENSCHUTZ;PROXIMUS;TECHNISCHE UNIVERSITAET BERLIN;WIRTSCHAFTSUNIVERSITAT WIEN;DEUTSCHE TELEKOM AG",
+    "participantCountries": "UK;BE;IT;DE;AT",
+    "projectParticipants": {
+        "999936335": {
+            "orgId": "999936335",
+            "orgName": "DEUTSCHE TELEKOM AG",
+            "ecContrib": 281250
+        },
+        "999616138": {
+            "orgId": "999616138",
+            "orgName": "WIRTSCHAFTSUNIVERSITAT WIEN",
+            "ecContrib": 650738
+        },
+        "999593828": {
+            "orgId": "999593828",
+            "orgName": "GEIE ERCIM",
+            "ecContrib": 672170
+        },
+        "998995532": {
+            "orgId": "998995532",
+            "orgName": "PROXIMUS",
+            "ecContrib": 265500
+        },
+        "919193147": {
+            "orgId": "919193147",
+            "orgName": "THOMSON REUTERS GROUP LIMITED",
+            "ecContrib": 345000
+        },
+        "999579181": {
+            "orgId": "999579181",
+            "orgName": "UNABHAENGIGES LANDESZENTRUM FUER DATENSCHUTZ",
+            "ecContrib": 361950
+        },
+        "986394262": {
+            "orgId": "986394262",
+            "orgName": "Centro Regionale Information Communication Technology scrl",
+            "ecContrib": 449375
+        },
+        "985890347": {
+            "orgId": "985890347",
+            "orgName": "TENFORCE BVBA",
+            "ecContrib": 622406
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 343000
+        }
+    },
+    "calculatedTotalContribution": 3991389
+}

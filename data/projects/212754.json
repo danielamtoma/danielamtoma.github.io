@@ -1,0 +1,23 @@
+{
+    "rcn": "212754",
+    "acronym": "ATOMICAR",
+    "topics": "ERC-2017-STG",
+    "title": "ATOMic Insight Cavity Array Reactor",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "The goal of ATOMICAR is to achieve the ultimate sensitivity limit in heterogeneous catalysis: \nQuantitative measurement of chemical turnover on a single catalytic nanoparticle.\n\nMost heterogeneous catalysis occurs on metal nanoparticle in the size range of 3 nm - 10 nm. Model studies have established that there is often a strong coupling between nanoparticle size & shape - and catalytic activity. The strong structure-activity coupling renders it probable that ìsuper-activeî nanoparticles exist. However, since there is no way to measure catalytic activity of less than ca 1 million nanoparticles at a time, any super-activity will always be hidden by ìensemble smearingî since one million nanoparticles of exactly identical size and shape cannot be made. The state-of-the-art in catalysis benchmarking is microfabricated flow reactors with mass-spectrometric detection, but the sensitivity of this approach cannot be incrementally improved by six orders of magnitude. This calls for a new measurement paradigm where the activity of a single nanoparticle can be benchmarked ñ the ultimate limit for catalytic measurement.\n\nA tiny batch reactor is the solution, but there are three key problems: How to seal it; how to track catalytic turnover inside it; and how to see the nanoparticle inside it? Graphene solves all three problems: A microfabricated cavity with a thin SixNy bottom window, a single catalytic nanoparticle inside, and a graphene seal forms a gas tight batch reactor since graphene has zero gas permeability. Catalysis is then tracked as an internal pressure change via the stress & deflection of the graphene seal. Crucially, the electron-transparency of graphene and SixNy enables subsequent transmission electron microscope access with atomic resolution so that active nanoparticles can be studied in full detail.\n\nATOMICAR will re-define the experimental limits of catalyst benchmarking and lift the field of basic catalysis research into the single-nanoparticle age.",
+    "totalCost": "1496000",
+    "ecMaxContribution": "1496000",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 1496000
+        }
+    },
+    "calculatedTotalContribution": 1496000
+}

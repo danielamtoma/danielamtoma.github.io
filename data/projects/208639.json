@@ -1,0 +1,23 @@
+{
+    "rcn": "208639",
+    "acronym": "SPEAKER DICE",
+    "topics": "MSCA-IF-2016",
+    "title": "Robust SPEAKER DIariazation systems using Bayesian inferenCE and deep learning methods",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2019",
+    "objective": "The proposed project deals with Speaker Diarization (SD) which is commonly defined as the task of answering the question ìwho spoke when?î in a speech recording. The first objective of the proposal is to optimize the Bayesian approach to SD, which has shown to be promising for the tasks. For Variational Bayes (VB) inference, that is very sensitive to initialization, we will develop new fast ways of obtaining a good starting point. We will also explore alternative inference methods, such as collapsed VB or collapsed Gibbs Sampling, and investigate into alternative priors similar to those introduced for Bayesian speaker recognition models.\n\nThe second part of the proposal is motivated by the huge performance gains that, in recent years, have been brought to other recognition tasks by Deep Neural Networks (DNNs). In the context of SD, DNNs have been used in the computation of i-vectors, but their potential was never explored for other stages of SD. We will study ways of integrating DNNs in the different stages of SD systems.\n\nThe objectives of the proposal will be achieved by theoretical work, implementation, and careful testing on real speech data. The outcomes of the project are intended not only for scientific publications, but eagerly awaited by European speech data mining industry (for example Czech Phonexia or Spanish Agnitio).\n\nThe project is proposed by an excellent female researcher, Dr. Mireia Diez, having finished her thesis in the GTTS group of University of the Basque Country, one of the most important European labs dealing with speaker recognition and diarization. The proposed host is the Speech@FIT group of Brno University of Technology, with a 20-year track of top speech data mining research. The proposed research training and combination of skills of Dr. Diez and the host institution have chances to advance the state-of-the-art in speaker diarization, provide the applicant with improved career opportunities and benefit European industry.",
+    "totalCost": "142720,8",
+    "ecMaxContribution": "142720,8",
+    "coordinator": "VYSOKE UCENI TECHNICKE V BRNE",
+    "coordinatorCountry": "CZ",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999873091": {
+            "orgId": "999873091",
+            "orgName": "VYSOKE UCENI TECHNICKE V BRNE",
+            "ecContrib": 142721
+        }
+    },
+    "calculatedTotalContribution": 142721
+}

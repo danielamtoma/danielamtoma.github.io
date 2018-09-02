@@ -1,0 +1,78 @@
+{
+    "rcn": "193369",
+    "acronym": "AEROGUST",
+    "topics": "MG-1.1-2014",
+    "title": "Aeroelastic Gust Modelling",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "Encounters with atmospheric turbulence are a vitally important in the design and certification of many manmade structures such as aircraft and wind turbines. Gusts cause rapid changes in the flow about the structures which leads to rigid and flexible unsteady responses. Knowledge of aircraft/gust interactions is therefore vital for loads estimation during aircraft design as it impacts on control systems and often defines the maximum loads that these structures will experience in service.  At present industry typically uses the linear doublet lattice method with static loads corrections from expensive wind tunnel data. The wind tunnel data is created using the final aerodynamic surface in the predicted cruise shape. This means that gust loads come relatively late when the design options have been narrowed. Increased competition and environmental concerns are likely to lead to the adoption of more flexible materials and the consideration of novel configurations, in which case the linear assumptions of the current gust loads process will become unacceptable.  To introduce non-linearity into the gust loads process without significantly increasing the cost and time, this project has three main objectives: to carry out investigations using CFD so that the non-linearities in gust interactions are understood; to create a gust loads process that does not require wind tunnel data and hence reduces the need for wind tunnel testing; to develop updated reduced order models for gust prediction that account for non-linearity at an acceptable cost. These investigations will reduce the need for expensive wind tunnel testing and hence lead to time and cost savings at the design stage therefore ensuring that the European aerospace and defence industry remain competitive in the future. The wind turbine industry has similar concerns, with gusts and wind shear restricting the locations available for wind farms.  The project will also address these issues using common methodology.",
+    "totalCost": "4289986,25",
+    "ecMaxContribution": "4237652",
+    "coordinator": "UNIVERSITY OF BRISTOL",
+    "coordinatorCountry": "UK",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;UNIVERSITY OF CAPE TOWN;AIRBUS DEFENCE AND SPACE GMBH;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;PIAGGIO AERO INDUSTRIES SPA;DASSAULT AVIATION;Optimad engineering s.r.l.;THE UNIVERSITY OF LIVERPOOL;VALEOL SAS;NUMERICAL MECHANICS APPLICATIONS INTERNATIONAL SA",
+    "participantCountries": "FR;NL;ZA;DE;IT;UK;BE",
+    "projectParticipants": {
+        "952406335": {
+            "orgId": "952406335",
+            "orgName": "VALEOL SAS",
+            "ecContrib": 318750
+        },
+        "999505073": {
+            "orgId": "999505073",
+            "orgName": "PIAGGIO AERO INDUSTRIES SPA",
+            "ecContrib": 219375
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 827425
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 341550
+        },
+        "999991819": {
+            "orgId": "999991819",
+            "orgName": "AIRBUS DEFENCE AND SPACE GMBH",
+            "ecContrib": 68750
+        },
+        "999957675": {
+            "orgId": "999957675",
+            "orgName": "DASSAULT AVIATION",
+            "ecContrib": 383864
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 286268
+        },
+        "998649921": {
+            "orgId": "998649921",
+            "orgName": "Optimad engineering s.r.l.",
+            "ecContrib": 304250
+        },
+        "998755942": {
+            "orgId": "998755942",
+            "orgName": "NUMERICAL MECHANICS APPLICATIONS INTERNATIONAL SA",
+            "ecContrib": 344625
+        },
+        "999849229": {
+            "orgId": "999849229",
+            "orgName": "UNIVERSITY OF CAPE TOWN",
+            "ecContrib": 324375
+        },
+        "999980567": {
+            "orgId": "999980567",
+            "orgName": "THE UNIVERSITY OF LIVERPOOL",
+            "ecContrib": 350216
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 468204
+        }
+    },
+    "calculatedTotalContribution": 4237652
+}

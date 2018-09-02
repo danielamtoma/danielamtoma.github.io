@@ -1,0 +1,28 @@
+{
+    "rcn": "210332",
+    "acronym": "ACFD",
+    "topics": "MSCA-IF-2016",
+    "title": "Acoustical and Canonical Fluid Dynamics in numerical general relativity",
+    "startDate": "15/08/2017",
+    "endDate": "30/09/2020",
+    "objective": "The motion of strongly gravitating fluid bodies is described by the Euler-Einstein system of partial differential equations, combining fluid dynamics with general relativity. Centuries after their advent, the solution to these equations remains mathematically and computationally difficult, and the break-down of well-posedness on the boundary interface between fluid and vacuum remains a challenging open problem. The problem manifests itself in numerical simulations of binary neutron-star inspiral. The program will focus on formulating and implementing novel, well-posed Hamiltonian hydrodynamic schemes, suitable for inspiral simulations and gravitational-wave detector applications, with promising mathematical and computational applications in academia and industry. The scheme will use a variational principle by Carter-Lichnerowicz stating that barotropic fluid motions are conformally geodesic, a corollary of Kelvin's circulation theorem stating that initially irrotational flows remain irrotational, and Christodoulou's acoustic metric approach adopted to 3\\1 numerical general relativity, in order to evolve the canonical momentum of a fluid element via Hamilton's equations. The recent observation of the inspiral and merger of binary black holes by the LIGO-Virgo collaboration, which marked the beginning of the era of gravitational wave astronomy, makes this work very timely: additional observations from binary neutron star or black holeñneutron star binary mergers are anticipated over the next years. The proposed research represents a coherent program aimed at mathematically and computationally exploring the theory of neutron stars, in order to improve our understanding of fundamental physical laws and reveal how nature operates on scales where our current understanding breaks down. Improvements in calibrated semi-analytical neutron-star gravitational waveforms can be directly deployed in the LIGO-Virgo search and parameter estimation pipelines.",
+    "totalCost": "251857,8",
+    "ecMaxContribution": "251857,8",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999598969": {
+            "orgId": "999598969",
+            "orgName": "THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS",
+            "ecContrib": 0
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "209049",
+    "acronym": "STEADY",
+    "topics": "MSCA-IF-2016",
+    "title": "SaTEllyte synthetic Aperture radar interferometry to model Dam stabilitY",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "Analyses of surface deformation can help to define the evolution of areas, structures and infrastructures menaced by hazardous phenomena. To this end, space-borne Synthetic Aperture Radar (SAR) data provides direct measures of surface movements. Specific techniques to handle SAR data have been recently applied to monitor not only natural hazardous phenomena, such as earthquakes, subsidence and landslides, but even structural health of buildings and infrastructure. The large spread of these techniques is supported by the non-invasiveness of radar signals, the possibility to cover vast areas and the availability of a large database of data acquired since the ë90s, despite they do not give any indication about the triggering factors and the strain source or the tensile condition of a structure. STEADY Project (SaTEllyte synthetic Aperture radar interferometry to model Dam stability) is aimed to use SAR data to monitor dam structural health and, even more, to apply an innovative approach, exploiting deformation fields as a starting point to re-create a simplified analytical model, providing preliminary hints about the stress-strain status of the dam in a short time if compared with traditional finite element models. The relevance of this process emerges when environmental or logistic conditions do not allow to monitor dams through traditional geodetic and numerical techniques. In such cases, results obtained from SAR data combined with an analytical model constitute a reliable diagnostic tool of dam structural health to avoid any extraordinary failure that may lead to loss of lives. The method will be tested on an emblematic real case, the Mosul dam, facing the following goals: (i) analysis of satellite SAR data available over the area, (ii) identification of an analytical model to reproduce dam deformation behaviour and tensile condition, (iii) implementation of a semi-automatic tool to perform numerical simulations, applicable to further cases.",
+    "totalCost": "175419,6",
+    "ecMaxContribution": "175419,6",
+    "coordinator": "SARMAP SA",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "997851029": {
+            "orgId": "997851029",
+            "orgName": "SARMAP SA",
+            "ecContrib": 175420
+        }
+    },
+    "calculatedTotalContribution": 175420
+}

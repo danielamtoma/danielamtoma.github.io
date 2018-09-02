@@ -1,0 +1,23 @@
+{
+    "rcn": "202570",
+    "acronym": "OPTIM",
+    "topics": "ERC-StG-2015",
+    "title": "Optimized drug combinations for effective cancer treatment: a personalised approach.",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2020",
+    "objective": "This project aims to improve the treatment of metastasized colorectal carcinoma (mCRC), as treatment options after first line chemotherapy are desperately needed. The key to improvement of cancer therapy resides in optimal combination of drugs. Optimally combining drugs is non-trivial due to the large number of possibilities, especially when more than two drugs are combined at various doses. In the current research program I propose to use a differential evolution guided stochastic search algorithm to guide the way in finding optimal combination therapies. In previous research I have applied this feedback system control (FSC) technique to navigate through the enormous parametric space of nine angiostatic drugs at four doses. The straightforward iterative approach of in vitro cell viability testing and algorithm-based analysis identified optimal synergistic low-dose drug combinations. In vivo translation by maintaining the drug dose ratio led to effective anti-cancer activity, without evidence of side-effects.\n     A new screen for optimal targeted combination treatment of advanced CRC will be performed. A series of 7 genetically different human CRC cell lines will be used in this screen, thus simulating personalized treatment. The optimized combinations will be ëratiometricallyí translated into orthotopic and metastasizing preclinical CRC mouse models and tested in parallel to standard chemotherapy regimens. Development of a method for a personalized screen using freshly isolated tumor cells will prepare the technology for application in the clinic. \n     Using an innovative strategy I previously identified a series of novel markers of the tumor endothelium. After validation of these targets, this project aims for the design of new drugs to be used in a screen for optimal combination therapy for mCRC. The translational and multidisciplinary nature of the current proposal aims for preparing an improved therapeutic combination regimen for testing in cancer patients.",
+    "totalCost": "1199436",
+    "ecMaxContribution": "1199436",
+    "coordinator": "UNIVERSITE DE GENEVE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974650": {
+            "orgId": "999974650",
+            "orgName": "UNIVERSITE DE GENEVE",
+            "ecContrib": 1199436
+        }
+    },
+    "calculatedTotalContribution": 1199436
+}

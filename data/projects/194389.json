@@ -1,0 +1,43 @@
+{
+    "rcn": "194389",
+    "acronym": "C-FOOT-CTRL",
+    "topics": "MSCA-RISE-2014",
+    "title": "Developing on line tools to monitor, control and mitigate GHG emissions in WWTPs",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2019",
+    "objective": "C-FOOT-CTRL aims to develop, test and validate a new software tool for the online monitoring, control and mitigation of the carbon footprint of wastewater treatment plants (WWTPs). Gaseous emissions are emitted from various stages of treatment in a WWTP. Currently, in developed countries the energy required for wastewater treatment accounts for approximately 3% of the total electrical load. Also, WWTPs are the biggest single energy consumers of municipalities with a share of 20% of the total energy consumption. The typical energy efficiency of WWTPs in Europe is less than 50%, when energy efficiency is defined as the ratio of electricity generated at WWTP to the electricity needed from grid to operate the WWTP. Strategies to decrease the required amount of energy may in fact cause greater harm due to the increase of GHG emissions. Various greenhouse gas emissions are associated with the construction and operation of WWTPs. These include carbon dioxide, methane, nitrous oxide, with nitrous oxide being 298 times more harmful than CO2. The development of a tool that will be able to accurately record on line the various gaseous emissions during the construction and in the different treatment processes of WWTPs is important in order to (i) track the emissions at the moment of occurrence (ii) immediately apply measures to reduce gaseous contaminants and to (iii) link the gaseous emission with a particular activity in the plant. \n\nThe on line GHG emissions monitoring and control system will be an innovative, low cost and flexible system based on wireless sensor networks for monitoring and ësupervisingí activities aiming to reduce GHG emissions during the operation of WWTPs at all stages (pre-treatment, primary treatment, biological treatment, tertiary treatment).",
+    "totalCost": "711000",
+    "ecMaxContribution": "711000",
+    "coordinator": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+    "coordinatorCountry": "EL",
+    "participants": "UNISENSOR SENSORSYSTEME GMBH;BRUNEL UNIVERSITY LONDON;UNIVERSITAT AUTONOMA DE BARCELONA;AERIS TECNOLOGIAS AMBIENTALES SL",
+    "participantCountries": "DE;UK;ES",
+    "projectParticipants": {
+        "999986484": {
+            "orgId": "999986484",
+            "orgName": "UNIVERSITAT AUTONOMA DE BARCELONA",
+            "ecContrib": 162000
+        },
+        "952613430": {
+            "orgId": "952613430",
+            "orgName": "AERIS TECNOLOGIAS AMBIENTALES SL",
+            "ecContrib": 67500
+        },
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 234000
+        },
+        "950756365": {
+            "orgId": "950756365",
+            "orgName": "UNISENSOR SENSORSYSTEME GMBH",
+            "ecContrib": 94500
+        },
+        "999749610": {
+            "orgId": "999749610",
+            "orgName": "BRUNEL UNIVERSITY LONDON",
+            "ecContrib": 153000
+        }
+    },
+    "calculatedTotalContribution": 711000
+}

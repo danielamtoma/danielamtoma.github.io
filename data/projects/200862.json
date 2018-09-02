@@ -1,0 +1,43 @@
+{
+    "rcn": "200862",
+    "acronym": "RETINA",
+    "topics": "Sesar-06-2015",
+    "title": "Resilient Synthetic Vision for Advanced Control Tower Air Navigation Service Provision",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "The increasing interest in Synthetic Vision (SV) and Augmented Reality (AR) technologies has led various analysts to positively esteem the adoption of new tools enabling pilots and controllers to seamlessly operate under Visual Meteorological Conditions and Instrument Meteorological Conditions. The RETINA project will investigate the potential and applicability of SV tools and Virtual/Augmented Reality (V/AR) display techniques for the Air Traffic Control (ATC) service provision by the airport control tower. Within the project, several concepts and basic principles that have been observed in different areas (e.g. Remote Tower, Synthetic Vision Systems, AR, Information Technologies, etc.) will be brought to the level of maturity required for the Applied Research that will be conducted in SESAR V1-V3 (Applied Research, Industrial Research & Validation). To this end, a 3D airport model will be developed, along with V/AR based human-computer interfaces. The digital model will provide controllers with precise positioning for both aerial and terrestrial objects, drawing information from multiple, simulated, data sources, such as the System Wide Information Management (SWIM) network, Remote Towers sensing technologies and other well-established surveillance systems ñ e.g. Airport Surveillance Radar (ASR) and the Surface Movement Radar (SMR). The interface design will be based on the Ecological Interface Design approach. Finally, the project will investigate the impact of the newly conceived tools on the control tower air traffic management procedures. On the whole, those tasks that are negatively affected by poor visibility conditions, such as bad weather, fog, smoke, dust or any other kind of environmental occlusion, will become weather-independent. The RETINA project primarily relates to SESAR ER-06-2015 - High Performing Airport Operations - Improved Visualisation and Awareness, but also has a secondary relationship to SESAR ER-03-2015 - Information Management in ATM.",
+    "totalCost": "1072910",
+    "ecMaxContribution": "949160",
+    "coordinator": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+    "coordinatorCountry": "IT",
+    "participants": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.;ENAV SPA;LUCIAD NV;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+    "participantCountries": "ES;IT;BE",
+    "projectParticipants": {
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 320062
+        },
+        "975216273": {
+            "orgId": "975216273",
+            "orgName": "LUCIAD NV",
+            "ecContrib": 215322
+        },
+        "998197513": {
+            "orgId": "998197513",
+            "orgName": "ENAV SPA",
+            "ecContrib": 224225
+        },
+        "997605619": {
+            "orgId": "997605619",
+            "orgName": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+            "ecContrib": 189550
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 949159
+}

@@ -1,0 +1,118 @@
+{
+    "rcn": "212141",
+    "acronym": "eTRANSAFE",
+    "topics": "IMI2-2016-09-04",
+    "title": "Enhacing TRANslational SAFEty Assessment through Integrative Knowledge Management",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Drug safety assessment is a knowledge-intensive process that demands advancement in data handling methods and tools for facilitating data sharing, mining, analysis and predictive modelling. This need is not restricted to any specific type of data and real advancement requires integrating information of different types and from different sources (e.g. publicly available biomedical knowledge, proprietary preclinical and clinical data, evidence from post-marketing studies) for addressing drug safety assessment from a holistic perspective.\n\nThe eTRANSAFE project will address these needs by developing a powerful data integration infrastructure (Knowledge Hub) and a collection of computational tools (exploitation modules) for making optimal use of these data. The proposed system will be a flexible and expandable framework, built on previous experience and applying state-of-the-art methods and technologies for providing the most advanced solutions for data sharing, interoperability and exploitation. An experienced honest broker will guarantee the confidentiality of any proprietary data. The project will develop in silico tools for data mining, visualisation, and prediction of potential toxicity, with specific attention to the assessment of the preclinical to clinical predictivity and the discovery of safety biomarkers. The CDISC-SEND format will be supported, facilitating the preparation of regulatory-compliant documentation. This infrastructure will be underpinned by development of open standards and guidelines recognised by regulatory agencies and international organisations.\n\nThe eTRANSAFE consortium brings together 13 organizations that mobilize an unprecedented capacity and resources, uniquely placed to leverage the experience of eTOX and other EU projects and initiatives. The project partners are six prestigious academic institutions, six highly skilled small-medium enterprises (SME) and one European infrastructure (ELIXIR), bringing in this way a perfect balance.",
+    "totalCost": "39490899",
+    "ecMaxContribution": "20000000",
+    "coordinator": "FUNDACIO INSTITUT MAR D INVESTIGACIONS MEDIQUES IMIM",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSIDAD POMPEU FABRA;UNIVERSITEIT LEIDEN;ABBVIE INC;SANOFI-AVENTIS DEUTSCHLAND GMBH;EUROPEAN MOLECULAR BIOLOGY LABORATORY;CERTARA UK LIMITED;CLARIVATE ANALYTICS (UK) LIMITED;UNIVERSITAT WIEN;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;NOVARTIS PHARMA AG;IPSEN INNOVATION S.A.S.;ASTRAZENECA AB;Molecular Networks GmbH - Computerchemie;F. HOFFMANN-LA ROCHE AG;LIVERPOOL JOHN MOORES UNIVERSITY;PDS COMPUTER SOFTWARE LIMITED;Boehriger Ingelheim International GmbH;BAYER AKTIENGESELLSCHAFT;OPTIBRIUM LIMITED;ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM;INSTITUT DE RECHERCHE INTERNATIONAL SERVIER;Synapse Research Management Partners S.L;LHASA LIMITED;JANSSEN PHARMACEUTICA NV;Merck KGaA",
+    "participantCountries": "ES;NL;US;DE;UK;AT;CH;FR;SE;BE",
+    "projectParticipants": {
+        "999941379": {
+            "orgId": "999941379",
+            "orgName": "ASTRAZENECA AB",
+            "ecContrib": 0
+        },
+        "998079949": {
+            "orgId": "998079949",
+            "orgName": "LIVERPOOL JOHN MOORES UNIVERSITY",
+            "ecContrib": 528875
+        },
+        "999866883": {
+            "orgId": "999866883",
+            "orgName": "UNIVERSITAT WIEN",
+            "ecContrib": 878000
+        },
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 1504500
+        },
+        "999988424": {
+            "orgId": "999988424",
+            "orgName": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+            "ecContrib": 2169750
+        },
+        "997658387": {
+            "orgId": "997658387",
+            "orgName": "INSTITUT DE RECHERCHES INTERNATIONALES SERVIER",
+            "ecContrib": 0
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 1972375
+        },
+        "997701455": {
+            "orgId": "997701455",
+            "orgName": "LHASA LIMITED",
+            "ecContrib": 2930750
+        },
+        "999965241": {
+            "orgId": "999965241",
+            "orgName": "MERCK KOMMANDITGESELLSCHAFT AUF AKTIEN",
+            "ecContrib": 0
+        },
+        "918285906": {
+            "orgId": "918285906",
+            "orgName": "PDS COMPUTER SOFTWARE LIMITED",
+            "ecContrib": 553375
+        },
+        "999601782": {
+            "orgId": "999601782",
+            "orgName": "F. HOFFMANN-LA ROCHE AG",
+            "ecContrib": 0
+        },
+        "997731137": {
+            "orgId": "997731137",
+            "orgName": "SANOFI-AVENTIS DEUTSCHLAND GMBH",
+            "ecContrib": 0
+        },
+        "916600143": {
+            "orgId": "916600143",
+            "orgName": "CLARIVATE ANALYTICS (UK) LIMITED",
+            "ecContrib": 0
+        },
+        "951849361": {
+            "orgId": "951849361",
+            "orgName": "OPTIBRIUM LIMITED",
+            "ecContrib": 531500
+        },
+        "951044649": {
+            "orgId": "951044649",
+            "orgName": "ABBVIE INC",
+            "ecContrib": 0
+        },
+        "998047066": {
+            "orgId": "998047066",
+            "orgName": "Molecular Networks GmbH - Computerchemie",
+            "ecContrib": 954125
+        },
+        "957780426": {
+            "orgId": "957780426",
+            "orgName": "IPSEN INNOVATION S.A.S.",
+            "ecContrib": 0
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 451000
+        },
+        "999974553": {
+            "orgId": "999974553",
+            "orgName": "UNIVERSITEIT LEIDEN",
+            "ecContrib": 1332125
+        },
+        "999585680": {
+            "orgId": "999585680",
+            "orgName": "FUNDACIO INSTITUT MAR D INVESTIGACIONS MEDIQUES IMIM",
+            "ecContrib": 2849625
+        }
+    },
+    "calculatedTotalContribution": 16656000
+}

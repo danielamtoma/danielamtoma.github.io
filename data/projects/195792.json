@@ -1,0 +1,28 @@
+{
+    "rcn": "195792",
+    "acronym": "smSTRUCT",
+    "topics": "MSCA-IF-2014-GF",
+    "title": "Fuse smFRET and modeling to a new structural biology method and solve the functional ESCRT assembly structure",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "We seek to develop a new structural biology method that is able to overcome barriers to solving very complex functional protein assemblies that are variable enough in their composition and conformation to defeat current methodologies. \nI intend to combine high-throughput single molecule FRET (smFRET) experiments with computational modeling to achieve this goal. SmFRET will be used to derive individual building block structures as well as distances between these blocks on a molecule-to-molecule level. Computational modeling is used to fuse this information into a full atomistic model of the protein assembly.\nThe yeast ESCRT machinery is proposed as a model system to develop the new methodology. The ESCRT machinery is particularly important because of its role in HIV infections: HIV seizes control of the cellís ESCRTs to get released from infected cells. The ESCRT assembliesí size and flexibility lead to the fact that their assembled structure on membranes is largely unknown. Individual ESCRT proteins will be labeled by Cy3/Cy5. The ESCRT assembly will then be reconstructed on invaginated supported lipid bilayers and imaged via TIRF microscopy. FRET efficiencies will be recorded and the label-label distance determined. High-throughput biochemistry and labeling technology will allow us to generate > 100 distinct labeling sites, resulting in overdetermined structures. Stepwise photobleaching will reveal the stoichiometry within full assemblies. Alterations in FRET efficiency due to local contact formations within the assembly will reveal these local contacts. Based on the experimental data of the individual complexes, their copy number in the assembly and their local contacts, the full assembly will be determined computationally, based on replica exchange Monte Carlo simulations.",
+    "totalCost": "257860,8",
+    "ecMaxContribution": "257860,8",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999467340": {
+            "orgId": "999467340",
+            "orgName": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+            "ecContrib": 0
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 257861
+        }
+    },
+    "calculatedTotalContribution": 257861
+}

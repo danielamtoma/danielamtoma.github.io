@@ -1,0 +1,63 @@
+{
+    "rcn": "199865",
+    "acronym": "METRO4-3D",
+    "topics": "ICT-25-2015",
+    "title": "Metrology for future 3D-technologies",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "Within the food chain of equipment delivery for the semiconductor industry, Europe has kept a very strong position in the metrology area with many companies establishing themselves as main leaders in the field. Hence in line with the objectives of the ICT25 call for innovation action  to overcome the (initial) barriers for the successful commercialization of novel European products, this project aims at exploring for a number of metrology solutions their technological readiness, reliability and relevance of the developed protocols, and the COO. The portfolio within the project covers new metrology concepts addressing specifically the processing challenges linked to 3D-Devices and range from probing basic layer properties (composition, electrical properties) in FEOL to control of metallization in BEOL up to issues linked to die stacking. \nDue to the specific processing steps which need to be addressed, three separate metrology tools will be assessed in this project i.e a Tofsims system (IonTOF) with build-in Scanning Probe stage and FIB column for true 3D-composition profiling, a completely automated micro-Hall and sheet resistance measurement tool (Capres) with additional capabilities for measurements on  dedicated test structures (prior to full BEOL) and an GHz acoustic Microscope (Tepla) for probing voids in TSVís and stacked dies. As some of them (IonTOf, Capres) are addressing partly complementary information (composition versus electrical properties), their co-existence in this project creates additional value as beyond the tool assessment also a methodology based on combining these concepts can be explored and certified. Moreover a significant efficiency gain is created as they can employ similar test structures and devices. For each of these tools, the basic metrology concepts are existing and validated in the lab on selected applications but their general applicability field within the semiconductor industry still needs to be established",
+    "totalCost": "3349813,75",
+    "ecMaxContribution": "2689035",
+    "coordinator": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+    "coordinatorCountry": "BE",
+    "participants": "CAPRES AS;PVA TEPLA ANALYTICAL SYSTEMS GMBH;LAM RESEARCH BELGIUM;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;ION-TOF TECHNOLOGIES GMBH;MATERIALS CENTER LEOBEN FORSCHUNG GMBH;DANMARKS TEKNISKE UNIVERSITET;EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+    "participantCountries": "DK;DE;BE;FR;AT;CH",
+    "projectParticipants": {
+        "998862448": {
+            "orgId": "998862448",
+            "orgName": "ION-TOF TECHNOLOGIES GMBH",
+            "ecContrib": 117600
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 1137904
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 249221
+        },
+        "987078015": {
+            "orgId": "987078015",
+            "orgName": "PVA TEPLA ANALYTICAL SYSTEMS GMBH",
+            "ecContrib": 101500
+        },
+        "936809705": {
+            "orgId": "936809705",
+            "orgName": "LAM RESEARCH BELGIUM",
+            "ecContrib": 0
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 300474
+        },
+        "928946303": {
+            "orgId": "928946303",
+            "orgName": "CAPRES AS",
+            "ecContrib": 301875
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 246325
+        },
+        "999907138": {
+            "orgId": "999907138",
+            "orgName": "EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 2454899
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "212615",
+    "acronym": "MAGSPEC",
+    "topics": "MSCA-IF-2016",
+    "title": "Spectra of Molecules in Strong Magnetic Fields",
+    "startDate": "15/02/2018",
+    "endDate": "14/02/2020",
+    "objective": "Electronic spectroscopy is one among several types of spectroscopy employed to study molecules in stellar objects. Strong magnetic fields, as in white-dwarfs and neutron stars, can severely distort these spectra. To accurately interpret the data, we must understand the forces shaping the spectra in situations so far removed from terrestrial conditions. Such strong fields also imply a breakdown of the perturbative mechanism commonly used for studying magnetic phenomena in the pertinent regimes on earth. We shall focus on the intermediate regime of field strengths (~10^5 T), where, neither the magnetic field nor the inter-particle interaction can be treated as a perturbation leading to novel physics and chemistry, that remains little explored for molecules. This project seeks to develop the methodology to compute excitation energies and potential energy surfaces in the presence of strong uniform and non-uniform magnetic fields, included non-perturbatively, at varying levels of theoretical complexity (Hartree-Fock, Density Functional Theory, Random Phase Approximation, SRCC and MRCC) and study the distortion of these spectra across a range of magnetic field strengths. We shall focus on analysing the source of these distortions at the microscopic level, ie. which of orbital effects, spin effects, correlation effects  and relativistic effects play the determining role. This project is multidisciplinary using principles of quantum chemistry in tackling astrochemical problems. The study is fundamental and is expected to reveal interesting results relevant even for the weaker fields on earth. The benchmarking of the standard DFT exchange-correlation functionals against CC in the regime of strong magnetic fields will have a long-term impact as most existing DFT approximations have been formulated within DFT or collinear spin DFT (SDFT); practical DFT functionals to describe molecules in magnetic fields (e.g. at the CDFT or non-collinear SDFT level) are much less developed.",
+    "totalCost": "208400,4",
+    "ecMaxContribution": "208400,4",
+    "coordinator": "UNIVERSITETET I OSLO",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 208400
+        }
+    },
+    "calculatedTotalContribution": 208400
+}

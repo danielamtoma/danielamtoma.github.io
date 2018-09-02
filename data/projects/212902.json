@@ -1,0 +1,73 @@
+{
+    "rcn": "212902",
+    "acronym": "EWC",
+    "topics": "COMPET-4-2017",
+    "title": "Enabling Weak lensing Cosmology",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2022",
+    "objective": "Our understanding of cosmology and fundamental physics continues to be challenged by ever more precise experiments. The resulting ìstandardî model of cosmology describes the data well, but is unable to explain the origin of the main constituents of our Universe, namely dark matter and dark energy. More than an order of magnitude improvement in the quality and quantity of observational data is needed. This has motivated ESA to select Euclid as the second mission of its cosmic vision program, with a scheduled launch in 2020. It is designed to accurately measure the alignments of distant galaxies due to the differential deflection of light-rays by intervening structures, a phenomenon called gravitational lensing. Euclid will measure this signal by imaging 1.5 billion galaxies with a resolution similar to that of the Hubble Space Telescope.\nAlthough Euclid is designed to minimize observational systematics the observations are still compromised by two factors. Various instrumental effects need to be corrected for, and the tremendous improvement in precision has to be matched with comparable advances in the modelling of astrophysical effects that affect the signal. The objective of this proposal is to make significant progress on both fronts. To do so, we will (i) quantify the morphology of galaxies using archival HST observations; (ii) carry out a unique narrow-band photometric redshift survey to obtain state-of-the-art constraints on the intrinsic alignments of galaxies that arise due to tidal interactions, and would otherwise contaminate the cosmological signal; (iii) integrate these results into the end-to-end simulation pipeline; (iv) perform a spectroscopic redshift survey to calibrate the photometric redshift technique. The Euclid Consortium has identified these as critical issues, which need to be addressed before launch, in order to maximise the science return of this exciting mission, and enable the dark energy science objectives of Europe.",
+    "totalCost": "1587154,04",
+    "ecMaxContribution": "1587153,75",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "FCIENCIAS.ID - ASSOCIACAO PARA A INVESTIGACAO E DESENVOLVIMENTO DE CIENCIAS;UNIVERSITEIT LEIDEN;UNIVERSITY OF DURHAM;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;CENTRO DE INVESTIGACIONES ENERGETICAS, MEDIOAMBIENTALES Y TECNOLOGICAS-CIEMAT;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;ISTITUTO NAZIONALE DI ASTROFISICA;RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN;INSTITUTO DE FISICA DE ALTAS ENERGIAS;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "PT;NL;UK;DE;ES;IT;FR",
+    "projectParticipants": {
+        "915056194": {
+            "orgId": "915056194",
+            "orgName": "FCIENCIAS.ID - ASSOCIACAO PARA A INVESTIGACAO E DESENVOLVIMENTO DE CIENCIAS",
+            "ecContrib": 29219
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 49061
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 267742
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 190490
+        },
+        "999980276": {
+            "orgId": "999980276",
+            "orgName": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+            "ecContrib": 134706
+        },
+        "999866010": {
+            "orgId": "999866010",
+            "orgName": "UNIVERSITY OF DURHAM",
+            "ecContrib": 180885
+        },
+        "999614877": {
+            "orgId": "999614877",
+            "orgName": "CENTRO DE INVESTIGACIONES ENERGETICAS, MEDIOAMBIENTALES Y TECNOLOGICAS-CIEMAT",
+            "ecContrib": 163168
+        },
+        "999868920": {
+            "orgId": "999868920",
+            "orgName": "ISTITUTO NAZIONALE DI ASTROFISICA",
+            "ecContrib": 145875
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 234090
+        },
+        "999974553": {
+            "orgId": "999974553",
+            "orgName": "UNIVERSITEIT LEIDEN",
+            "ecContrib": 28750
+        },
+        "999613907": {
+            "orgId": "999613907",
+            "orgName": "INSTITUTO DE FISICA DE ALTAS ENERGIAS",
+            "ecContrib": 163168
+        }
+    },
+    "calculatedTotalContribution": 1587154
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "211415",
+    "acronym": "CerQUIT",
+    "topics": "MSCA-IF-2016",
+    "title": "Certifying Large-scale Quantum Information Technologies",
+    "startDate": "11/06/2018",
+    "endDate": "10/06/2020",
+    "objective": "Our modern society and economy depend upon the constant, high-speed transmission and processing of information. Since every instance of computation or communication is realised by some physical device, it is the laws of physics that set the ultimate limits on performance. Applying this reasoning to quantum theory has led to a plethora of algorithms and protocols that achieve previously impossible levels of computational power and security. Realising the full promise of quantum information technologies will require theoretical tools, tailor-made to specific applications, which quantify the performance of a given protocol in a manner  that is practical, efficient and satisfying to a sceptical end-user. This problem is particularly pressing in systems that admit a formal description only in terms of infinite dimensions. Experimental progress in such systems has shown them to be extremely promising as quantum technology platforms, but the technical difficulties in the analysis have severely constrained their application for cryptographic and information processing applications.\n\nThis proposal aims to significantly advance the state-of-the-art in the theoretical understanding of quantum mechanical systems in infinite dimensions. I intend to design innovative and efficient tools for the characterisation of quantum states and processes. Here there will be two complementary foci: the theoretical rigour and direct operational interpretation necessary for cryptographic and computational applications; and direct experimental applicability, in the sense of proposing techniques that are ëlaboratory-readyí. I will then apply these tools to specific applications in secure communication and computation. These tools will be adapted to specific protocols and physical systems to maximise efficiency and performance in large-scale, networked architectures. Finally, the analysis will be applied to uncovering new protocols for quantum enhanced simulation and computation.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "FREIE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999994826": {
+            "orgId": "999994826",
+            "orgName": "FREIE UNIVERSITAET BERLIN",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

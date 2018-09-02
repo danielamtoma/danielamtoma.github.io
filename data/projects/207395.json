@@ -1,0 +1,28 @@
+{
+    "rcn": "207395",
+    "acronym": "QD-NOMS",
+    "topics": "ERC-2016-STG",
+    "title": "Elementary quantum dot networks enabled by on-chip nano-optomechanical systems",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "Is there any limit to the size of a quantum system? How large and how small can it be? Both questions are related to scalability, a most critical issue in quantum technologies. A scalable quantum network, which can be extended almost infinitely, is built by entangling individual quantum systems, e.g. atoms. It will provide thrilling opportunities across a range of intellectual and technical frontiers in quantum information science. Building such a network is however a great challenge, in both physics and engineering.\n\nOften referred to as artificial atoms, semiconductor quantum dots (QDs) are among the most promising single and entangled photon sources to build a photonic quantum network. However there is a longstanding and yet unsolved challenge on scalability, since, unlike real atoms, every QD is different. By engineering individual QDs with an innovative nano-optomechanical system (NOMS), elementary QD networks will be built via scalable interactions of single or entangled photons, in a fashion similar to that of real atoms.\n \nThe scientific goals are to upscale QD networks with the first demonstrations of (1) indistinguishable entangled photons from different QDs, (2) deterministic entanglement swapping, purification and graph states with multiple QDs (3) deterministic Boson sampling with more than 4 QDs on chip.\n \nThe technological goals are (1) to downscale the footprint (<50 µm) of individual QD sources with full tunabilities, and to realize (2) arrays (>4◊4) of tunable single and entangled photon sources, (3) waveguide integration on III-V/silicon chips, and (4) compact quantum LED demonstrators.\n \nQD-NOMS will address the physical and technological challenges in building a solid-state QD-based quantum network. Its success does not only provide a novel toolkit to realize scalable QD systems for cutting-edge fundamental researches but also brings the semiconductor QD based platforms, after a decade of development, to the attention of practical applications.",
+    "totalCost": "1774693",
+    "ecMaxContribution": "1774693",
+    "coordinator": "GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+    "coordinatorCountry": "DE",
+    "participants": "LEIBNIZ-INSTITUT FUER FESTKOERPER- UND WERKSTOFFFORSCHUNG DRESDEN E.V.",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999981828": {
+            "orgId": "999981828",
+            "orgName": "GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+            "ecContrib": 1397853
+        },
+        "999544746": {
+            "orgId": "999544746",
+            "orgName": "LEIBNIZ-INSTITUT FUER FESTKOERPER- UND WERKSTOFFFORSCHUNG DRESDEN E.V.",
+            "ecContrib": 376840
+        }
+    },
+    "calculatedTotalContribution": 1774693
+}

@@ -1,0 +1,228 @@
+{
+    "rcn": "197088",
+    "acronym": "NanoREG II",
+    "topics": "NMP-26-2014",
+    "title": "Development and implementation of Grouping and Safe-by-Design approaches within regulatory frameworks",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "One of the greatest challenges facing regulators in the ever changing landscape of novel nano-materials is how to design and implement a regulatory process which is robust enough to deal with a rapidly diversifying system of manufactured nanomaterials (MNM) over time. Not only does the complexity of the MNM present a problem for regulators, the validity of data decreases with time, so that the well-known principle of the half-life of facts (Samuel Arbesman, 2012) means that what is an accepted truth now is no longer valid in 20 or 30 years time. The challenge is to build a regulatory system which is flexible enough to be able to deal with new targets and requirements in the future, and this can be helped by the development and introduction of Safe by Design (SbD) principles.   \n\nThe credibility of such a regulatory system, underpinned by the implementation of SbD, is essential for industry, who while accepting the need for regulation demand it is done in a cost effective and rapid manner. \n\nThe NANoREG II project, built around the challenge of coupling SbD to the regulatory process, will demonstrate and establish new principles and ideas based on data from value chain implementation studies to establish SbD as a fundamental pillar in the validation of a novel MNM. \n\nIt is widely recognized by industries as well as by regulatory agencies that grouping strategies for NM are urgently needed. ECETOC has formed a task force on NM grouping and also within the OECD WPMN a group works on NM categorisation. However, so far no reliable and regulatory accepted grouping concepts could be established. Grouping concepts that will be developed by NanoREG II can be regarded as a major innovation therefore as guidance documents on NM grouping will not only support industries or regulatory agencies but would also strongly support commercial launch of new NM.",
+    "totalCost": "11933317,52",
+    "ecMaxContribution": "9995703,75",
+    "coordinator": "INSTITUT NATIONAL DE L ENVIRONNEMENT ET DES RISQUES INERIS",
+    "coordinatorCountry": "FR",
+    "participants": "BUNDESINSTITUT FUER RISIKOBEWERTUNG;NORDIC QUANTUM COMPUTING GROUP AS;NANOMAKERS;ROUMEN TSANEV INSTITUTE OF MOLECULAR BIOLOGY BULGARIAN ACADEMY OF SCIENCES;NANOGAP SUB-NM-POWDER SA;VENETO NANOTECH SOCIETA CONSORTILEPER AZIONI;HIQ-NANO SRL;AVANZARE INNOVACION TECNOLOGICA SL;ASSOCIATION SAINT YVES;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;UNIVERSITAT BASEL;IDEACONSULT LIMITED LIABILITY COMPANY;ARISTOTELIO PANEPISTIMIO THESSALONIKIS;ASSOCIATION FRANCAISE DE NORMALISATION;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;TEMAS AG TECHNOLOGY AND MANAGEMENT SERVICES;ISTITUTO SUPERIORE DI SANITA;NANOTECH PARTNER SRO;ECAMRICERT SRL;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;NORSK INSTITUTT FOR LUFTFORSKNING STIFTELSE;INSTITUTE OF OCCUPATIONAL MEDICINE;DSM CHEMICAL TECHNOLOGY R & D BV;INSTITUTO NACIONAL DE INVESTIGACION Y TECNOLOGIA AGRARIA Y ALIMENTARIA OA MP;FUNDACION GAIKER;PINEXT BV;UNIWERSYTET GDANSKI;LEIBNIZ-INSTITUT FUER NEUE MATERIALIEN GEMEINNUETZIGE GMBH;GRUPO ANTOLIN-INGENIERIA SA;FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA;RIJKSINSTITUUT VOOR VOLKSGEZONDHEID EN MILIEU;INSTITUTUL DE CHIMIE FIZICA ILIE MURGULESCU;KAROLINSKA INSTITUTET;NANOTECHNOLOGY INDUSTRIES ASSOCIATION;UNIVERSITEIT UTRECHT;HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;DET NATIONALE FORSKNINGSCENTER FORARBEJDSMILJO;EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT;EUROPEAN VIRTUAL INSTITUTE FOR INTEGRATED RISK MANAGEMENT EU VRI EWIV;JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+    "participantCountries": "DE;NO;FR;BG;ES;IT;NL;CH;EL;CZ;UK;PL;RO;SE;BE;DK",
+    "projectParticipants": {
+        "999985805": {
+            "orgId": "999985805",
+            "orgName": "UNIVERSITEIT UTRECHT",
+            "ecContrib": 316250
+        },
+        "999992304": {
+            "orgId": "999992304",
+            "orgName": "JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+            "ecContrib": 350000
+        },
+        "968504358": {
+            "orgId": "968504358",
+            "orgName": "ROUMEN TSANEV INSTITUTE OF MOLECULAR BIOLOGY BULGARIAN ACADEMY OF SCIENCES",
+            "ecContrib": 281425
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 50375
+        },
+        "999967375": {
+            "orgId": "999967375",
+            "orgName": "EUROPEAN VIRTUAL INSTITUTE FOR INTEGRATED RISK MANAGEMENT EU VRI EWIV",
+            "ecContrib": 173000
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 344150
+        },
+        "935458786": {
+            "orgId": "935458786",
+            "orgName": "PINEXT BV",
+            "ecContrib": 142500
+        },
+        "998937914": {
+            "orgId": "998937914",
+            "orgName": "IDEACONSULT LIMITED LIABILITY COMPANY",
+            "ecContrib": 138500
+        },
+        "998346893": {
+            "orgId": "998346893",
+            "orgName": "TEMAS AG TECHNOLOGY AND MANAGEMENT SERVICES",
+            "ecContrib": 0
+        },
+        "999464818": {
+            "orgId": "999464818",
+            "orgName": "INSTITUTE OF OCCUPATIONAL MEDICINE",
+            "ecContrib": 384961
+        },
+        "998771171": {
+            "orgId": "998771171",
+            "orgName": "BUNDESINSTITUT FUER RISIKOBEWERTUNG",
+            "ecContrib": 322030
+        },
+        "947076670": {
+            "orgId": "947076670",
+            "orgName": "ECAMRICERT SRL",
+            "ecContrib": 180000
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 250515
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 165250
+        },
+        "936588545": {
+            "orgId": "936588545",
+            "orgName": "INSTITUTUL DE CHIMIE FIZICA ILIE MURGULESCU",
+            "ecContrib": 117500
+        },
+        "999479659": {
+            "orgId": "999479659",
+            "orgName": "HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE",
+            "ecContrib": 0
+        },
+        "999610900": {
+            "orgId": "999610900",
+            "orgName": "LEIBNIZ-INSTITUT FUER NEUE MATERIALIEN GEMEINNUETZIGE GMBH",
+            "ecContrib": 320250
+        },
+        "941311087": {
+            "orgId": "941311087",
+            "orgName": "HIQ-NANO SRL",
+            "ecContrib": 105000
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 200000
+        },
+        "999596447": {
+            "orgId": "999596447",
+            "orgName": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+            "ecContrib": 315000
+        },
+        "966192266": {
+            "orgId": "966192266",
+            "orgName": "DSM CHEMICAL TECHNOLOGY R & D BV",
+            "ecContrib": 200000
+        },
+        "999991431": {
+            "orgId": "999991431",
+            "orgName": "RIJKSINSTITUUT VOOR VOLKSGEZONDHEID EN MILIEU",
+            "ecContrib": 418299
+        },
+        "999978530": {
+            "orgId": "999978530",
+            "orgName": "KAROLINSKA INSTITUTET",
+            "ecContrib": 239355
+        },
+        "999654162": {
+            "orgId": "999654162",
+            "orgName": "NORSK INSTITUTT FOR LUFTFORSKNING STIFTELSE",
+            "ecContrib": 192375
+        },
+        "999462587": {
+            "orgId": "999462587",
+            "orgName": "INSTITUTO NACIONAL DE INVESTIGACIONY TECHNOLOGIA AGRARIA Y ALIMENTARIA OA MP",
+            "ecContrib": 0
+        },
+        "998561748": {
+            "orgId": "998561748",
+            "orgName": "DET NATIONALE FORSKNINGSCENTER FORARBEJDSMILJO",
+            "ecContrib": 344586
+        },
+        "928259737": {
+            "orgId": "928259737",
+            "orgName": "NANOMAKERS",
+            "ecContrib": 262375
+        },
+        "999978821": {
+            "orgId": "999978821",
+            "orgName": "ISTITUTO SUPERIORE DI SANITA",
+            "ecContrib": 171522
+        },
+        "940200049": {
+            "orgId": "940200049",
+            "orgName": "NANOTECH PARTNER SRO",
+            "ecContrib": 102000
+        },
+        "999876001": {
+            "orgId": "999876001",
+            "orgName": "UNIWERSYTET GDANSKI",
+            "ecContrib": 200938
+        },
+        "996891505": {
+            "orgId": "996891505",
+            "orgName": "VENETO NANOTECH SOCIETA CONSORTILEPER AZIONI",
+            "ecContrib": 0
+        },
+        "997826294": {
+            "orgId": "997826294",
+            "orgName": "AVANZARE INNOVACION TECNOLOGICA SL",
+            "ecContrib": 159931
+        },
+        "992092042": {
+            "orgId": "992092042",
+            "orgName": "NANOGAP SUB-NM-POWDER SA",
+            "ecContrib": 120750
+        },
+        "986948035": {
+            "orgId": "986948035",
+            "orgName": "NANOTECHNOLOGY INDUSTRIES ASSOCIATION",
+            "ecContrib": 946250
+        },
+        "999615071": {
+            "orgId": "999615071",
+            "orgName": "FUNDACION GAIKER",
+            "ecContrib": 405252
+        },
+        "952406044": {
+            "orgId": "952406044",
+            "orgName": "NORDIC QUANTUM COMPUTING GROUP AS",
+            "ecContrib": 0
+        },
+        "999907914": {
+            "orgId": "999907914",
+            "orgName": "UNIVERSITAT BASEL",
+            "ecContrib": 0
+        },
+        "998510532": {
+            "orgId": "998510532",
+            "orgName": "ASSOCIATION FRANCAISE DE NORMALISATION",
+            "ecContrib": 99868
+        },
+        "998425463": {
+            "orgId": "998425463",
+            "orgName": "ASSOCIATION SAINT YVES",
+            "ecContrib": 93948
+        },
+        "999907138": {
+            "orgId": "999907138",
+            "orgName": "EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+            "ecContrib": 0
+        },
+        "998785721": {
+            "orgId": "998785721",
+            "orgName": "GRUPO ANTOLIN-INGENIERIA SA",
+            "ecContrib": 200444
+        },
+        "999958063": {
+            "orgId": "999958063",
+            "orgName": "INSTITUT NATIONAL DE L ENVIRONNEMENT ET DES RISQUES INERIS",
+            "ecContrib": 1568605
+        }
+    },
+    "calculatedTotalContribution": 9883204
+}

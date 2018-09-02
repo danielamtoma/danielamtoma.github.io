@@ -1,0 +1,113 @@
+{
+    "rcn": "198334",
+    "acronym": "OpenDreamKit",
+    "topics": "EINFRA-9-2015",
+    "title": "Open Digital Research Environment Toolkit for the Advancement of Mathematics",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2019",
+    "objective": "OpenDreamKit will deliver a flexible toolkit enabling research groups to set up Virtual Research Environments, customised to meet the varied needs of research projects in pure mathematics and applications and supporting the full research life-cycle from exploration, through proof and publication, to archival and sharing of data and code.\n\nOpenDreamKit will be built out of a sustainable ecosystem of community-developed open software, databases, and services, including popular tools such as LinBox, MPIR, Sage(sagemath.org), GAP, PariGP, LMFDB, and Singular. We will extend the Jupyter Notebook environment to provide a flexible UI. By improving and unifying existing building blocks, OpenDreamKit will maximise both sustainability and impact, with beneficiaries extending to scientific computing, physics, chemistry, biology and more and including researchers, teachers, and industrial practitioners. We will define a novel component-based VRE architecture and the adapt existing mathematical software, databases, and UI components to work well within it on varied platforms.  Interfaces to standard HPC and grid services will be built in.  Our architecture will be informed by recent research into the sociology of mathematical collaboration, so as to properly support actual research practice. The ease of set up, adaptability and global impact will be demonstrated in a variety of demonstrator VREs.\n\nWe will ourselves study the social challenges associated with large-scale open source code development and of publications based on executable documents, to ensure sustainability.\n\nOpenDreamKit will be conducted by a Europe-wide demand-steered collaboration, including leading mathematicians, computational researchers, and software developers long track record of delivering innovative open source software solutions for their respective communities. All produced code and tools will be open source.",
+    "totalCost": "7643071,25",
+    "ecMaxContribution": "7633845,5",
+    "coordinator": "UNIVERSITE PARIS-SUD",
+    "coordinatorCountry": "FR",
+    "participants": "UNIWERSYTET SLASKI;FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG;LOGILAB;THE UNIVERSITY OF SHEFFIELD;UNIVERSITEIT GENT;SIMULA RESEARCH LABORATORY AS;THE UNIVERSITY COURT OF THE UNIVERSITY OF ST ANDREWS;JACOBS UNIVERSITY BREMEN GGMBH;UNIVERSITAT ZURICH;TECHNISCHE UNIVERSITAET KAISERSLAUTERN;UNIVERSITE JOSEPH FOURIER GRENOBLE 1;UNIVERSITY OF SOUTHAMPTON;UNIVERSITE GRENOBLE ALPES;THE UNIVERSITY OF WARWICK;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;EUROPEAN X-RAY FREE-ELECTRON LASERFACILITY GMBH;UNIVERSITE DE VERSAILLES SAINT-QUENTIN-EN-YVELINES.",
+    "participantCountries": "PL;DE;FR;UK;BE;NO;CH",
+    "projectParticipants": {
+        "999907429": {
+            "orgId": "999907429",
+            "orgName": "UNIVERSITE JOSEPH FOURIER GRENOBLE 1",
+            "ecContrib": 0
+        },
+        "995915976": {
+            "orgId": "995915976",
+            "orgName": "SIMULA RESEARCH LABORATORY AS",
+            "ecContrib": 492161
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 122741
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 568250
+        },
+        "999976784": {
+            "orgId": "999976784",
+            "orgName": "THE UNIVERSITY OF WARWICK",
+            "ecContrib": 217148
+        },
+        "999995408": {
+            "orgId": "999995408",
+            "orgName": "FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG",
+            "ecContrib": 437500
+        },
+        "999885895": {
+            "orgId": "999885895",
+            "orgName": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+            "ecContrib": 568375
+        },
+        "999897147": {
+            "orgId": "999897147",
+            "orgName": "JACOBS UNIVERSITY BREMEN GGMBH",
+            "ecContrib": 129550
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 797730
+        },
+        "999907235": {
+            "orgId": "999907235",
+            "orgName": "UNIVERSITE PARIS-SUD",
+            "ecContrib": 1032297
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 283576
+        },
+        "948455525": {
+            "orgId": "948455525",
+            "orgName": "LOGILAB",
+            "ecContrib": 452265
+        },
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 161000
+        },
+        "974524469": {
+            "orgId": "974524469",
+            "orgName": "EUROPEAN X-RAY FREE-ELECTRON LASERFACILITY GMBH",
+            "ecContrib": 332623
+        },
+        "999837104": {
+            "orgId": "999837104",
+            "orgName": "UNIVERSITE DE VERSAILLES SAINT-QUENTIN-EN-YVELINES.",
+            "ecContrib": 123612
+        },
+        "999917614": {
+            "orgId": "999917614",
+            "orgName": "UNIWERSYTET SLASKI",
+            "ecContrib": 161235
+        },
+        "999984253": {
+            "orgId": "999984253",
+            "orgName": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ST ANDREWS",
+            "ecContrib": 902271
+        },
+        "924833212": {
+            "orgId": "924833212",
+            "orgName": "UNIVERSITE GRENOBLE ALPES",
+            "ecContrib": 548000
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 303511
+        }
+    },
+    "calculatedTotalContribution": 7633845
+}

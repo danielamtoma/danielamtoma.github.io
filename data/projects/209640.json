@@ -1,0 +1,23 @@
+{
+    "rcn": "209640",
+    "acronym": "HPA4CF",
+    "topics": "MSCA-IF-2016",
+    "title": "Collectiveware: Highly-parallel algorithms for collective intelligence",
+    "startDate": "16/06/2017",
+    "endDate": "15/06/2019",
+    "objective": "In recent years, more and more scenarios pose challenges that require collective intelligence solutions based on networks (knowledge networks, social networks, sensor networks). New forms of collaborative consumption, collaborative making, collaborative production, all rely on a common task, the formation of collectives. This task is crucial in many real-world applications domains. Notable examples of actual-world collective formation scenarios are Collective Energy Purchasing (CEP), a collaborative consumption scenario, and Team Formation (TF), a collaborative production scenario. Within the Artificial Intelligence literature, current state of the art algorithms cannot provide the level of scalability and the solution\nquality required by actual-world collective formation problems, hence novel algorithms are needed to tackle these problems. To achieve this objective, we aim at proposing novel algorithms that are capable to exploit modern highly-parallel architectures. On the one hand, highly-parallel architectures have been successfully applied in many different scenarios so to achieve tremendous performance improvements. These advancements encourage the investigation of parallelisation also in collective formation, with the objective of achieving the same benefits. On the other hand, our past research indicates that considering the structure of the collective formation problem leads to notable benefits in terms of scalability and solution quality. Thus, we propose to take a novel algorithmic design approach that considers both the structure of the scenario and at the same time exploits modern highly-parallel architectures. Our algorithms will be evaluated in two prominent collective intelligence application domains: the CEP and TF domains. The choice of these two application domains will serve to show the generality of our algorithmic design approach, since they are representative of two structurally different families of actual-world collective formation problems.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

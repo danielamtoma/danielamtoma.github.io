@@ -1,0 +1,38 @@
+{
+    "rcn": "199868",
+    "acronym": "SEE.4C",
+    "topics": "ICT-16-2015",
+    "title": "SpatiotEmporal ForEcasting: Coopetition to meet Current Cross-modal Challenges",
+    "startDate": "01/01/2016",
+    "endDate": "31/03/2018",
+    "objective": "Fast, accurate forecasting of spatiotemporal data is needed in critical industrial domains such as energy (prediction of spatiotemporal patterns in renewable generation, usage and traffic) as well as in public policy.  The task is so challenging in scale and scope however as to have been confined mainly to research, while past prize competitions have been limited to forecasts of single dimensional values. Building on our proven success in numerous prize-driven past data challenges, attracting hundreds of participants, we aim to compile and test data grounded on large-scale open European datasets and including specially prepared grid traffic data from Europeís largest Transportation System Operator. The competition evaluates forecasting algorithms on a cloud platform, tracking accuracy and computational efficiency. Emphasizing cross-specialization knowledge transfer and openness to novel technologies which may spring from different subsectors, we aim to build a platform allowing for coopetitions: the ad-hoc coalescence of competing teams during a challenge aimed at forming sustainable partnerships past the prize scheme itself. We will provide comprehensive documentation for a freely extensible open-source cloud-based specialized computing platform (assembling existing, well tested tools) allowing automated evaluation and feedback as in our latest competitions, but scaled to big data needs. We aim to test this platform and provide baseline results in a smaller scale mini-competition (hackathon). Thus we shall lay the groundwork for a larger prize competition in which evaluation data for predictions may arrive in real or near-real time. We also aim to use our wide contacts with industry, domain and data experts and past participants and winners in order to organize focused meetings of panels to refine value chains in data and algorithms as well as conference workshops, talks and newsletters dedicated to widely advertising challenges to past and new participants.",
+    "totalCost": "760806,25",
+    "ecMaxContribution": "760806,25",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSITAT DE BARCELONA;RTE RESEAU DE TRANSPORT D ELECTRICITE SA;UNIVERSITE D'AIX MARSEILLE",
+    "participantCountries": "ES;FR",
+    "projectParticipants": {
+        "999954183": {
+            "orgId": "999954183",
+            "orgName": "RTE RESEAU DE TRANSPORT D ELECTRICITE SA",
+            "ecContrib": 17125
+        },
+        "955518483": {
+            "orgId": "955518483",
+            "orgName": "UNIVERSITE D'AIX MARSEILLE",
+            "ecContrib": 201125
+        },
+        "999986387": {
+            "orgId": "999986387",
+            "orgName": "UNIVERSITAT DE BARCELONA",
+            "ecContrib": 212556
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 330000
+        }
+    },
+    "calculatedTotalContribution": 760806
+}

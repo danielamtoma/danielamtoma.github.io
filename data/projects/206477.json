@@ -1,0 +1,23 @@
+{
+    "rcn": "206477",
+    "acronym": "PowAlgDO",
+    "topics": "ERC-2016-STG",
+    "title": "Power of Algorithms in Discrete Optimisation",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "Convex relaxations, such as linear and semidefinite programming, constitute one of the most powerful techniques for designing efficient algorithms, and have been studied in theoretical computer science, operational research, and applied mathematics. We seek to establish the power convex relaxations through the lens of, and with the extensions of methods designed for, Constraint Satisfaction Problems (CSPs).\n\nOur goal is twofold. First, to provide precise characterisations of the applicability of convex relaxations such as which problems can be solved by linear programming relaxations. Secondly, to derive computational complexity consequences such as for which classes of problems the considered algorithms are optimal in that they solve optimally everything that can be solved in polynomial time. For optimisation problems, we aim to characterise the limits of linear and semidefinite programming relaxations for exact, approximate, and robust solvability. For decision problems, we aim to characterise the limits of local consistency methods, one of the fundamental techniques in artificial intelligence, which strongly relates to linear programming relaxations.\n\nRecent years have seen some remarkable progress on characterising the power of algorithms for a very important type of problems known as non-uniform constraint satisfaction problems and their optimisation variants. The ultimate goal of this project is to develop new techniques and establish novel results on the limits of convex relaxations and local consistency methods in a general setting going beyond the realm of non-uniform CSPs.",
+    "totalCost": "1437367",
+    "ecMaxContribution": "1437367",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 1437367
+        }
+    },
+    "calculatedTotalContribution": 1437367
+}

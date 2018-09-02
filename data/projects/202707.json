@@ -1,0 +1,58 @@
+{
+    "rcn": "202707",
+    "acronym": "DiSIEM",
+    "topics": "DS-04-2015",
+    "title": "Diversity Enhancements for SIEMs",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2019",
+    "objective": "Security Information and Event Management (SIEM) systems are a fundamental component of the ubiquitous ICT infrastructures that form the backbone of our digital society. These systems are mostly used to monitor infrastructures using many types of sensors and tools and correlate the obtained events to discover possible threats (attacks, vulnerabilities, etc.) to the organization. The DiSIEM project aims to enhance existing SIEM systems with diversity-related technology. More specifically, we want to (1) enhance the quality of events collected using a diverse set of sensors and novel anomaly detectors, (2) add support for collecting infrastructure-related information from open-source intelligence data available on diverse sources from the internet, (3) create new ways for visualising the information collected in the SIEM and provide high-level security metrics and models for improving security-related decision project, and (4) allow the use of multiple storage clouds for secure long-term archival of the raw events feed to the SIEM. Given the high costs of deployment of SIEM infrastructures, all these enhancements will be developed in a SIEM-independent way, as extensions to currently available systems, and will be validated through the deployed in three large-scale production environments.",
+    "totalCost": "4020018,75",
+    "ecMaxContribution": "3445875,75",
+    "coordinator": "FCIENCIAS.ID - ASSOCIACAO PARA A INVESTIGACAO E DESENVOLVIMENTO DE CIENCIAS",
+    "coordinatorCountry": "PT",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;AMADEUS IT GROUP SA;EDP - ENERGIAS DE PORTUGAL SA;ATOS SPAIN SA;CITY UNIVERSITY OF LONDON;FUNDACAO DA FACULDADE DE CIENCIAS DA UNIVERSIDADE DE LISBOA FP;DIGITALMR LIMITED",
+    "participantCountries": "DE;ES;PT;UK",
+    "projectParticipants": {
+        "999842730": {
+            "orgId": "999842730",
+            "orgName": "CITY UNIVERSITY OF LONDON",
+            "ecContrib": 910376
+        },
+        "915056194": {
+            "orgId": "915056194",
+            "orgName": "FCIENCIAS.ID - ASSOCIACAO PARA A INVESTIGACAO E DESENVOLVIMENTO DE CIENCIAS",
+            "ecContrib": 619777
+        },
+        "999580539": {
+            "orgId": "999580539",
+            "orgName": "FUNDACAO DA FACULDADE DE CIENCIAS DA UNIVERSIDADE DE LISBOA FP",
+            "ecContrib": 94286
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 415188
+        },
+        "968722026": {
+            "orgId": "968722026",
+            "orgName": "EDP - ENERGIAS DE PORTUGAL SA",
+            "ecContrib": 207294
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 481770
+        },
+        "949722151": {
+            "orgId": "949722151",
+            "orgName": "DIGITALMR LIMITED",
+            "ecContrib": 257075
+        },
+        "940448660": {
+            "orgId": "940448660",
+            "orgName": "AMADEUS IT GROUP SA",
+            "ecContrib": 460110
+        }
+    },
+    "calculatedTotalContribution": 3445876
+}

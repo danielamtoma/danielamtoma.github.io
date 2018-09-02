@@ -1,0 +1,48 @@
+{
+    "rcn": "194185",
+    "acronym": "HyVar",
+    "topics": "ICT-09-2014",
+    "title": "Scalable Hybrid Variability for Distributed Evolving Software Systems",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "HyVar proposes a development framework for continuous and individualized evolution of distributed software applications running on remote devices in heterogeneous environments. The framework will combine variability modeling from software product lines with formal methods and software upgrades, and be integrated in existing software development processes. HyVar's objectives are (O1) to develop a Domain Specific Variability Language (DSVL) and tool chain to support software variability for such applications; (O2) to develop a cloud infrastructure that exploits software variability as described in the DSVL to track the software configurations deployed on remote devices and to enable (i) the collection of data from the devices to monitor their behavior; and (ii) secure and efficient customized updates; (O3) to develop a technology for over-the-air updates of distributed applications which enables continuous software evolution after deployment on complex remote devices that incorporate a system of systems; and (O4) to test HyVar's approach as described in the above objectives in an industry-led demonstrator to assess in quantifiable ways its benefits. HyVar goes beyond the state-of-the-art by proposing hybrid variability;  i.e., the automatic generation and deployment of software updates combines the variability model  describing  possible software configurations  with sensor data collected from the device. HyVar's scalable cloud infrastructure will elastically support monitoring and customization for numerous application instances. Software analysis will exploit the structure of the variability models. Upgrades will be seamless and sufficiently nonintrusive to enhance the user quality experience, without compromising the robustness, reliability and resilience of the distributed application instances. To maximize impact and innovation, the consortium balances carefully selected academic and industrial partners ensuring both technology pull and push.",
+    "totalCost": "2793870",
+    "ecMaxContribution": "2793870",
+    "coordinator": "SANTER REPLY SPA",
+    "coordinatorCountry": "IT",
+    "participants": "ATBROX AS;UNIVERSITA DEGLI STUDI DI TORINO;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;UNIVERSITETET I OSLO;MAGNETI MARELLI S.P.A.",
+    "participantCountries": "NO;IT;DE",
+    "projectParticipants": {
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 703750
+        },
+        "965122453": {
+            "orgId": "965122453",
+            "orgName": "ATBROX AS",
+            "ecContrib": 397120
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 495000
+        },
+        "999861936": {
+            "orgId": "999861936",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TORINO",
+            "ecContrib": 386750
+        },
+        "992762021": {
+            "orgId": "992762021",
+            "orgName": "SANTER REPLY SPA",
+            "ecContrib": 511250
+        },
+        "995531856": {
+            "orgId": "995531856",
+            "orgName": "MAGNETI MARELLI S.P.A.",
+            "ecContrib": 300000
+        }
+    },
+    "calculatedTotalContribution": 2793870
+}

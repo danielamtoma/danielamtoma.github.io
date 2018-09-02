@@ -1,0 +1,23 @@
+{
+    "rcn": "193650",
+    "acronym": "BUCOPHSYS",
+    "topics": "ERC-StG-2014",
+    "title": "Bottom-up hybrid control and planning synthesis with application to multi-robot multi-human coordination",
+    "startDate": "01/03/2015",
+    "endDate": "29/02/2020",
+    "objective": "Current control applications necessitate the treatment of systems with multiple interconnected components, rather than the traditional single component paradigm that has been studied extensively. The individual subsystems may need to fulfil different and possibly conflicting specifications in a real-time manner.  At the same time, they may need to fulfill coupled constraints that are defined as relations between their states.  Towards this end, the need for methods for decentralized control at the continuous level and planning at the task level becomes apparent.  We aim here towards unification of these two complementary approaches. Existing solutions rely on a top down centralized approach. We instead consider here a decentralized, bottom-up solution to the problem. The approach relies on three layers of interaction. In the first layer, agents aim at coordinating in order to fulfil their coupled constraints with limited communication exchange of their state information and design of appropriate feedback controllers; in the second layer, agents coordinate in order to mutually satisfy their discrete tasks through exchange of the corresponding plans in the form of automata; in the third and most challenging layer, the communication exchange for coordination now includes both continuous state and discrete plan/abstraction information. The results will be demonstrated in a scenario involving multiple (possibly human) users and multiple robots.\nThe unification will yield a completely  decentralized system, in which the bottom up approach to define tasks, the consideration of coupled constraints and their combination towards distributed hybrid control and planning in a coordinated  fashion require for \nnew ways of thinking and approaches to analysis and constitute the proposal a beyond the SoA and  groundbreaking  approach to the fields of control and computer science.",
+    "totalCost": "1498729",
+    "ecMaxContribution": "1498729",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 1498729
+        }
+    },
+    "calculatedTotalContribution": 1498729
+}

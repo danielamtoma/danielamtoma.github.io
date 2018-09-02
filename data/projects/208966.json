@@ -1,0 +1,23 @@
+{
+    "rcn": "208966",
+    "acronym": "ORIGAMI",
+    "topics": "MSCA-IF-2016",
+    "title": "The origin of the Galactic magnetic field",
+    "startDate": "01/06/2017",
+    "endDate": "29/11/2019",
+    "objective": "Magnetic fields lie at the heart of essentially all the outstanding problems in galactic evolution. However, the measurement of interstellar magnetic fields is very challenging.  We can either measure the strength or the direction of the magnetic field vector in different regions of the Milky Way.  Clearly, in order to assess the impact of the magnetic field in the core processes of galactic evolution, such as star formation and stellar feedback, we need to complement the observations with simulations of the magnetic field evolution.\n\nThe most successful simulations of the galactic magnetic field evolution show that tiny magnetic seeds of cosmic origin were amplified to their current values through a dynamo process. In a dynamo, large-scale galactic processes such as differential rotation and turbulence twist magnetic field lines, and small-scale processes like Ohmic diffusion reconnect them.  However, simulations of this process so far lack the simultaneous modeling of the processes that generate turbulence and the realistic small-scale diffusion that drives the dynamo.\n\nThis ambitious project will develop the first simulations that will include all the core processes of galactic evolution, such as a multi-phase interstellar medium, time-dependent star formation and stellar feedback, and the realistic non-ideal MHD terms necessary for modeling a dynamo.  The simulations will be performed with the RAMSES code, a throughly tested tool for galaxy evolution simulations.  The Adaptive Mesh Refinement technique employed in the code will allow capturing the self-consistent generation of turbulence by stellar feedback, and its zoom-in capabilities will allow re-simulating regions of interest with enough resolution to model the magnetic field diffusion.\n\nThe outcome will be the first self-consistent model of the Galactic magnetic field, an essential input for cosmological, galaxy-evolution, and star-formation theories, and a reference tool for observational studies.",
+    "totalCost": "152653,2",
+    "ecMaxContribution": "152653,2",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 152653
+        }
+    },
+    "calculatedTotalContribution": 152653
+}

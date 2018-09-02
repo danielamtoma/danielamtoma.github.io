@@ -1,0 +1,23 @@
+{
+    "rcn": "214153",
+    "acronym": "NEQC",
+    "topics": "MSCA-IF-2017",
+    "title": "Noise-Enhanced Quantum Control",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2020",
+    "objective": "Operating state-of-the-art quantum circuits is typically limited by noise, especially if they work in the microwave domain like superconducting quantum bits, qubits. Instead of trying to avoid the omnipresent fluctuations, I will implement a circuit architecture, which is suitable to profit from noise. To this end, I will realize two main objectives based on an intense, bidirectional knowledge transfer between my host organization, QCD Labs and me. The first objective is to implement a superconducting qubit with in-situ tunable decay and dephasing rates. The dephasing rate of a qubit is tunable through photon shot-noise induced by a dispersively coupled microwave resonator. I will add to this scenario the innovative concept to control the decay rate in-situ by coupling the qubit to a pair of superconductor-insulator-normal metal (SIN) junctions, such that photon-assisted single-electron tunneling can be used to control the qubit decay. With these fully controllable qubits, I will implement a fast reset of the qubit state, which is a prerequisite for quantum computing. In addition, I will generate new insights in non-Markovian qubit dynamics. The second objective is the coherent coupling of two qubits with tunable decoherence rates. The resulting fundamental building block of a transversely coupled Ising model will serve to study remote-cooling of one qubit via the other and to simulate multi-dimensional master equations. My results will have strong impact on quantum engineering, quantum computing, and the simulation of chemical compounds. To realize my two objectives, I will create a European network of distinguished researchers related to open dissipative quantum systems. The fellowship will advance my career plans because I will become an expert in single-electron tunneling and get leadership and management-oriented training. In return, I will transfer my knowledge on superconducting qubits obtained during my PhD to QCD Labs generating a win-win situation.",
+    "totalCost": "179325,6",
+    "ecMaxContribution": "179325,6",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

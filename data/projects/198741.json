@@ -1,0 +1,28 @@
+{
+    "rcn": "198741",
+    "acronym": "ChemSniff",
+    "topics": "DRS-17-2014",
+    "title": "Chemical sniffer device for multi-mode analysis of threat compounds",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "ChemSniff will develop a multi-mode sniffer device for real-time detection of chemical compounds contained in CBRN-E substances. This will enable high throughput screening of soft targets such as vehicles, people and their personal effects.  \n\nThe technology is based on a linear ion trap (LIT) mass spectrometer (MS) operating in a non-scanning mode. A non-scanning LIT allows selective ion monitoring of target threat molecules using optimal voltages for each ion mass without performing a full mass spectral scan. This result is higher sensitivity, simpler control electronics, smaller size, lower power consumption and cost. The limits of detection of LIT-MS instrument are in low parts per billion (ppb) with parts per trillion (ppt) levels achievable with suitable analyte enrichment provided by a pre-concentrator. Once the MS fingerprint of an unknown substance is measured, it can be compared online with a database of known substances enabling real-time rapid identification. \n\nIn 2014 pre-prototype instrument was demonstrated in FP7 Project SNIFFLES. ChemSniff will develop a more compact MS-based than existing instruments on the market with extra capability for rapid scans of solid surfaces using suitable atmospheric ionisation inlet.  Methods for miniaturisation will be applied to all key components including the vacuum system, which is the most robust part. This will be done through improved designs based on results from numerical modelling, operational designs, novel low-cost 3D printing manufacturing, electronics simplification and vacuum system optimisation. \n\nThe final instrument will allow reduced acquisition/operating costs, greater mobility, user friendliness and flexibility. Performance will be benchmarked against a state-of-the-art conventional MS system for in-field analysis The project outcome will be an automated portable MS-based sniffer device, tested and evaluated for a range of security applications and markets by end-users.",
+    "totalCost": "2262000",
+    "ecMaxContribution": "1577030",
+    "coordinator": "DA VINCI LABORATORY SOLUTIONS BV",
+    "coordinatorCountry": "NL",
+    "participants": "Q TECHNOLOGIES LTD",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "950838330": {
+            "orgId": "950838330",
+            "orgName": "DA VINCI LABORATORY SOLUTIONS BV",
+            "ecContrib": 1325905
+        },
+        "967706436": {
+            "orgId": "967706436",
+            "orgName": "Q TECHNOLOGIES LTD",
+            "ecContrib": 251125
+        }
+    },
+    "calculatedTotalContribution": 1577030
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "194208",
+    "acronym": "MUSA",
+    "topics": "ICT-07-2014",
+    "title": "MUlti-cloud Secure Applications",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The most challenging applications in heterogeneous cloud ecosystems are those that are able to maximise the benefits of the combination of the cloud resources in use: multi-cloud applications. They have to deal with the security of the individual components as well as with the overall application security including the communications and the data flow between the components.\n\nThe main objective of MUSA is to support the security-intelligent lifecycle management of distributed applications over heterogeneous cloud resources, through a security framework that includes: security-by-design mechanisms to allow application self-protection at runtime, and methods and tools for the integrated security assurance in both the engineering and operation of multi-cloud applications.\n\nThe MUSA framework leverages security-by-design, agile and DevOps approaches in multi-cloud applications, and enables the security-aware development and operation of multi-cloud applications. The framework will be composed of a) an IDE for creating the multi-cloud application taking into account its security requirements together with functional and business requirements, b) a set of security mechanisms embedded in the multi-cloud application components for self-protection, c) an automated deployment environment that, based on an intelligent decision support system, will allow for the dynamic distribution of the components according to security needs, and d) a security assurance platform in form of a SaaS that will support multi-cloud application runtime security control and transparency to increase user trust.\n\nThe project will demonstrate and evaluate the economic viability and practical usability of the MUSA framework in highly relevant industrial applications representative of multi-cloud application development potential in Europe. \n\nThe project duration will be 36 months, with an overall budget of 3,574,190 euros.",
+    "totalCost": "3574190",
+    "ecMaxContribution": "3574190",
+    "coordinator": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+    "coordinatorCountry": "ES",
+    "participants": "LUFTHANSA SYSTEMS GMBH & CO KG;TTY-SAATIO;Centro Regionale Information Communication Technology scrl;AIMES GRID SERVICES COMMUNITY INTEREST COMPANY;MONTIMAGE EURL;LUFTHANSA SYSTEMS AG;CA TECHNOLOGIES DEVELOPMENT SPAIN SA",
+    "participantCountries": "DE;FI;IT;UK;FR;ES",
+    "projectParticipants": {
+        "972159221": {
+            "orgId": "972159221",
+            "orgName": "CA TECHNOLOGIES DEVELOPMENT SPAIN SA",
+            "ecContrib": 495000
+        },
+        "927065376": {
+            "orgId": "927065376",
+            "orgName": "LUFTHANSA SYSTEMS GMBH & CO KG",
+            "ecContrib": 496195
+        },
+        "954831044": {
+            "orgId": "954831044",
+            "orgName": "LUFTHANSA SYSTEMS AG",
+            "ecContrib": 0
+        },
+        "956000476": {
+            "orgId": "956000476",
+            "orgName": "AIMES GRID SERVICES COMMUNITY INTEREST COMPANY",
+            "ecContrib": 329656
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 685870
+        },
+        "990343811": {
+            "orgId": "990343811",
+            "orgName": "TTY-SAATIO",
+            "ecContrib": 582594
+        },
+        "999716242": {
+            "orgId": "999716242",
+            "orgName": "MONTIMAGE EURL",
+            "ecContrib": 545500
+        },
+        "986394262": {
+            "orgId": "986394262",
+            "orgName": "Centro Regionale Information Communication Technology scrl",
+            "ecContrib": 439375
+        }
+    },
+    "calculatedTotalContribution": 3574190
+}

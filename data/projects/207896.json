@@ -1,0 +1,23 @@
+{
+    "rcn": "207896",
+    "acronym": "PROCSYS",
+    "topics": "ERC-2016-COG",
+    "title": "Towards programmable cyber-physical systems: a symbolic control approach",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Cyber-physical systems (CPS) consist of computational elements monitoring and controlling physical entities. The main objective of the PROCSYS project is to propose a general framework for the design of programmable CPS that will allow engineers to develop advanced functionalities using a high-level programming language for specifying the behaviours of a CPS while abstracting the details of the physical dynamics. Controllers enforcing the specified behaviours will be generated from a high-level program using an automated model-based synthesis tool. Correctness of the controllers will be guaranteed by following the correct by construction synthesis paradigm through the use of symbolic control techniques: the continuous physical dynamics is abstracted by a symbolic model, which is a purely discrete dynamical system; an interface consisting of low-level controllers is designed such that the physical system and the symbolic model behaves identically; a high-level symbolic controller is then synthesized automatically from the high-level program and the symbolic model. We will develop a high-level programming language, based on the intuitive formalism of hybrid automata, which will enable to specify a rich set of behaviours while enabling the development of efficient controller synthesis algorithms. The project will also tackle the two main bottlenecks in the area of symbolic control, which will enable its use in challenging real-life applications. Firstly, scalability of symbolic control will be achieved by the computation of more compact symbolic models and by controller synthesis algorithms that require only partial exploration of the symbolic models. Secondly, robustness will be ensured at all levels of control by developing novel algorithms for the synthesis of robust interfaces and of symbolic controllers. The algorithms developed in the project will be implemented in a symbolic control toolbox, which will enable the use of our approach by systems engineers.",
+    "totalCost": "1266731",
+    "ecMaxContribution": "1266731",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1266731
+        }
+    },
+    "calculatedTotalContribution": 1266731
+}

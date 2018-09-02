@@ -1,0 +1,28 @@
+{
+    "rcn": "211226",
+    "acronym": "ITUL",
+    "topics": "ERC-2016-COG",
+    "title": "Information Theory with Uncertain Laws",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2022",
+    "objective": "Shannon's Information Theory paved the way for the information era by providing the mathematical foundations of digital information systems. A key underlying assumption of Shannon's key results is that the probability law that governing system is known, allowing to optimize the codebook and decoder accordingly. \n\nThere are a number of important situations where perfectly estimating the system law is impossible; in these situations the codebook and decoder must be designed without complete (or no) knowledge of the system law.\nThe vast majority of the Information Theory literature makes strong simplifying assumptions on the model. Theoretical studies that provide a general treatment of information processing with uncertain laws are hence urgently needed. For general systems, standard asymptotic techniques cannot be invoked and new techniques must be sought. A fundamental understanding of the impact of uncertainty in general systems is crucial to harvesting the potential gains in practice. \n\nThis project is aimed at contributing towards the ambitious goal of providing a unified framework for the study of Information Theory with uncertain laws. A general framework based on hypothesis testing will be developed and code designs and constructions that naturally follow from the hypothesis testing formulation will be derived.\nThis unconventional and challenging treatment of Information Theory will advance the area and will contribute to Information Sciences and Systems disciplines where Information Theory is relevant.\n\nA comprehensive study of the fundamental limits and optimal code design with law uncertainty for general models will represent a major step forward in the field, with the potential to provide new tools and techniques to solve open problems in close disciplines. Therefore, the outcomes of this project will not only benefit communications, but also areas such as probability theory, statistics, physics, computer science and economics.",
+    "totalCost": "1888033",
+    "ecMaxContribution": "1888033",
+    "coordinator": "UNIVERSIDAD POMPEU FABRA",
+    "coordinatorCountry": "ES",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 1213654
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1213654
+}

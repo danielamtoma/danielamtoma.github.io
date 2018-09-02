@@ -1,0 +1,118 @@
+{
+    "rcn": "196807",
+    "acronym": "PRIMAVERA",
+    "topics": "SC5-01-2014",
+    "title": "PRocess-based climate sIMulation: AdVances in high resolution modelling and European climate Risk Assessment",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2019",
+    "objective": "The goal of PRIMAVERA is to deliver novel, advanced and well-evaluated high-resolution global climate models (GCMs), capable of simulating and predicting regional climate with unprecedented fidelity, out to 2050. This capability will deliver innovative climate science and a new generation of advanced Earth System Models. Sector-specific end-users in policy and business will be identified and engaged individually, with iterative feedback, to ensure that new climate information is tailored, actionable and strengthening societal risk management decisions.\nThese goals will be achieved through the development of coupled GCMs from seven groups across Europe, with sufficient resolution to reproduce realistic weather and climate features (~25km mesh size), in addition to enhanced process parameterisation. Thorough assessment will use innovative process-based metrics and the latest observational and reanalysis datasets. Targeted experimental design will reduce inter-model spread and produce robust projections, forming the European contribution to the CMIP6 High-Resolution Model Intercomparison Project, led by PRIMAVERA. \nIt is the first time that high-resolution coupled GCMs will be used under a single experimental protocol. Coordination, and the underlying process-understanding, will significantly increase the robustness of our findings. Our new capabilities will be used to improve understanding of the drivers of variability and change in European climate, including extremes, since such regional changes continue to be characterised by high uncertainty. \nWe will also explore the frontiers of climate modelling and of high performance computing to produce simulations with a reduced reliance on physical parameterisations. These will explicitly resolve key processes such as ocean eddies, and will include new stochastic parameterisations to represent sub-grid scale processes. These ìfrontiersî simulations will further our understanding of the robustness of climate projections.",
+    "totalCost": "14967969,5",
+    "ecMaxContribution": "14967969,5",
+    "coordinator": "MET OFFICE",
+    "coordinatorCountry": "UK",
+    "participants": "THE UNIVERSITY OF READING;ADMINISTRATIA NATIONALA DE METEOROLOGIE R.A.;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;UNIVERSITE CATHOLIQUE DE LOUVAIN;DEUTSCHES KLIMARECHENZENTRUM GMBH;UNIVERSITY OF LEEDS;SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT;ALFRED-WEGENER-INSTITUT HELMHOLTZ-ZENTRUM FUR POLAR- UND MEERESFORSCHUNG;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE;PREDICTIA INTELLIGENT DATA SOLUTIONS SL;CONSIGLIO NAZIONALE DELLE RICERCHE;KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;STOCKHOLMS UNIVERSITET;NATURAL ENVIRONMENT RESEARCH COUNCIL",
+    "participantCountries": "UK;RO;DE;BE;SE;FR;ES;IT;NL",
+    "projectParticipants": {
+        "998692310": {
+            "orgId": "998692310",
+            "orgName": "DEUTSCHES KLIMARECHENZENTRUM GMBH",
+            "ecContrib": 138375
+        },
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 1277425
+        },
+        "999975426": {
+            "orgId": "999975426",
+            "orgName": "UNIVERSITY OF LEEDS",
+            "ecContrib": 464500
+        },
+        "999518944": {
+            "orgId": "999518944",
+            "orgName": "KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI",
+            "ecContrib": 1263516
+        },
+        "999419422": {
+            "orgId": "999419422",
+            "orgName": "FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI",
+            "ecContrib": 882500
+        },
+        "999984156": {
+            "orgId": "999984156",
+            "orgName": "THE UNIVERSITY OF READING",
+            "ecContrib": 1670944
+        },
+        "999892685": {
+            "orgId": "999892685",
+            "orgName": "MET OFFICE",
+            "ecContrib": 1613162
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1240250
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 1194166
+        },
+        "999885022": {
+            "orgId": "999885022",
+            "orgName": "STOCKHOLMS UNIVERSITET",
+            "ecContrib": 172550
+        },
+        "999989200": {
+            "orgId": "999989200",
+            "orgName": "NATURAL ENVIRONMENT RESEARCH COUNCIL",
+            "ecContrib": 384045
+        },
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 738000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 645000
+        },
+        "999940118": {
+            "orgId": "999940118",
+            "orgName": "CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE",
+            "ecContrib": 708896
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 176245
+        },
+        "999628457": {
+            "orgId": "999628457",
+            "orgName": "ADMINISTRATIA NATIONALA DE METEOROLOGIE R.A.",
+            "ecContrib": 32500
+        },
+        "999497507": {
+            "orgId": "999497507",
+            "orgName": "ALFRED-WEGENER-INSTITUT HELMHOLTZ-ZENTRUM FUR POLAR- UND MEERESFORSCHUNG",
+            "ecContrib": 721425
+        },
+        "972502310": {
+            "orgId": "972502310",
+            "orgName": "PREDICTIA INTELLIGENT DATA SOLUTIONS SL",
+            "ecContrib": 91500
+        },
+        "999507983": {
+            "orgId": "999507983",
+            "orgName": "SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT",
+            "ecContrib": 1096250
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 456720
+        }
+    },
+    "calculatedTotalContribution": 14967969
+}

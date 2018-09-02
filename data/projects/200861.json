@@ -1,0 +1,38 @@
+{
+    "rcn": "200861",
+    "acronym": "AURORA",
+    "topics": "Sesar-11-2015",
+    "title": "Advanced User-centric efficiency metRics for air traffic perfORmance Analytics",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "This project will propose advanced metrics to assess the operational efficiency of the ATM system (challenge of the topic ER-11-2015). These new metrics will be developed with the aim of encapsulating the airspace usersí operational objectives, considering fuel consumption, schedule adherence and cost efficiency of the flights. User-preferred trajectories will be defined as references for performance analysis purposes. AURORA will also propose metrics to measure how fairly the inefficiencies in the system are distributed among the different airspace users.\nThe other main research area will consist of exploring and testing techniques borrowed from the data science and information management fields for the collection and aggregation of data. These techniques will allow AURORA to propose a new framework for ATM decision-making based on real-time performance monitoring of user-centric efficiency indicators, where the airspace users could take an active role.\nAURORA will validate all these advanced user-centric efficiency metrics (and the proposed methods to obtain them) at European and local level by comparing them with todayís Flight Efficiency indicator used by the Performance Review Commission. AURORA will also assess the benefits for the performance-oriented operational concepts (e.g. SESAR) of using the real-time ATM performance monitoring framework to identify opportunities to improve system efficiency and better cater for the usersí operational needs.\nThe innovative method to assess the metrics will be based on defining a generic advanced trajectory-based airline cost model that captures, to the extent required for air traffic efficiency assessment, the impact of different aspects of the trajectory (e.g. fuel burn or departure and arrival times) on the airlinesí operational costs. The model will be characterized by not requiring sensitive information from the airspace users and by the fact that it will be applicable to both recorded and streaming data.",
+    "totalCost": "829312,5",
+    "ecMaxContribution": "829312,5",
+    "coordinator": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN;Flightradar24 AB;BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.",
+    "participantCountries": "IE;SE;ES",
+    "projectParticipants": {
+        "999648730": {
+            "orgId": "999648730",
+            "orgName": "BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.",
+            "ecContrib": 222854
+        },
+        "930511301": {
+            "orgId": "930511301",
+            "orgName": "Flightradar24 AB",
+            "ecContrib": 95625
+        },
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 211459
+        },
+        "997605619": {
+            "orgId": "997605619",
+            "orgName": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+            "ecContrib": 299375
+        }
+    },
+    "calculatedTotalContribution": 829313
+}

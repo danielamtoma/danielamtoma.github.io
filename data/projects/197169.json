@@ -1,0 +1,23 @@
+{
+    "rcn": "197169",
+    "acronym": "CLOUD DIAGNOSIS",
+    "topics": "SIE-01-2014-1",
+    "title": "Providing Predictive Maintenance for Wind Turbines Over Cloud",
+    "startDate": "01/05/2015",
+    "endDate": "31/10/2015",
+    "objective": "At least 3% of wind production downtime due to breakdowns and maintenance problems that can reach up to 40%. This leads to production losses of over Ä2.9 billion worldwide annually. \n\nOur current SmartCast remotely connects SCADA and sensor data with a virtual database to monitor wind turbines. It involves algorithms based AI, cloud computing and data mining. The SmartGear product is a low cost Condition Monitoring System based on IoT technology which acquires raw data and connects with SmartCast Platform for further processing. \n\nThe overall objective of the future Phase II Cloud Diagnosis project is to scale-up our SmartGear technology by introducing communication protocols that allow us to extract data from multiple devices allocated in the wind turbines and additional transducers. Additionally, SmartCast cloud diagnosis algorithms need to be improved. \n\nOur innovative solution will allow faster detection of wind turbine system failures through complex algorithms implementing intelligent sensor fusion, therefore, optimizing the performance of wind turbines. It does not require onsite visits but provides information online. In this way, our technology will be able to: \n\nReduce wind turbine maintenance cost by 20%: Ä44 million annually in the Spanish market, Ä190 million per year in Europe and Ä440 million annually in the world market. \n\nReduce wind turbine operation cost and component replacement of cost by 20%: A standard park of 50 MW (16 turbines) installation power working 2,100 hours per year faces production losses of at least Ä378,000 annually. Our system enables 20% savings of Ä75,600 (Ä4,725 per turbine). \n\nCurrently, our SmartCast platform processes real-time data from SCADA and sensors by means of SVM (support vector machine) in 300 turbines. Our SmartGear Solution is present in two wind farms and is being rolled out in five more.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ITESTIT SL",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "934511775": {
+            "orgId": "934511775",
+            "orgName": "ITESTIT SL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

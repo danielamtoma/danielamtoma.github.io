@@ -1,0 +1,23 @@
+{
+    "rcn": "213498",
+    "acronym": "D-SynMA",
+    "topics": "ERC-2017-COG",
+    "title": "Distributed Synthesis: from Single to Multiple Agents",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2023",
+    "objective": "Computing is changing from living on our desktops and in dedicated devices to being everywhere. In phones, sensors, appliances, and robots ñ computers (from now on devices) are everywhere and affecting all aspects of our lives. The techniques to make them safe and reliable are investigated and are starting to emerge and consolidate. However, these techniques enable devices to work in isolation or co-exist. We currently do not have techniques that enable development of real autonomous collaboration between devices. Such techniques will revolutionize all usage of devices and, as consequence, our lives. Manufacturing, supply chain, transportation, infrastructures, and earth- and space exploration would all transform using techniques that enable development of collaborating devices. \nWhen considering isolated (and co-existing) devices, reactive synthesis ñ automatic production of plans from high level specification ñ is emerging as a viable tool for the development of robots and reactive software. This is especially important in the context of safety-critical systems, where assurances are required and systems need to have guarantees on performance. The techniques that are developed today to support robust, assured, reliable, and adaptive devices rely on a major change in focus of reactive synthesis. The revolution of correct-by-construction systems from specifications is occurring and is being pushed forward.\nHowever, to take this approach forward to work also for real collaboration between devices the theoretical frameworks that will enable distributed synthesis are required. Such foundations will enable the correct-by-construction revolution to unleash its potential and allow a multiplicative increase of utility by cooperative computation. \nd-SynMA will take distributed synthesis to this new frontier by considering novel interaction and communication concepts that would create an adaptable framework of correct-by-construction application of collaborating devices.",
+    "totalCost": "1871272",
+    "ecMaxContribution": "1871272",
+    "coordinator": "UNIVERSITY OF LEICESTER",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985514": {
+            "orgId": "999985514",
+            "orgName": "UNIVERSITY OF LEICESTER",
+            "ecContrib": 1871272
+        }
+    },
+    "calculatedTotalContribution": 1871272
+}

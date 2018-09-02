@@ -1,0 +1,73 @@
+{
+    "rcn": "200151",
+    "acronym": "SMARTool",
+    "topics": "PHC-30-2015",
+    "title": "Simulation Modeling of coronary ARTery disease: a tool for clinical decision support",
+    "startDate": "01/01/2016",
+    "endDate": "30/06/2019",
+    "objective": "SMARTool aims at developing a platform based on cloud technology, for the management of patients with coronary artery disease (CAD) by standardizing and integrating heterogeneous health data, including those from key enabling technologies. The platform includes existing multiscale and multilevel ARTreat (FP7-224297) models of coronary plaque progression based on non-invasive coronary CT angiography (CCTA) and fractional flow reserve computation, refined by heterogeneous patient-specific non-imaging data (history, lifestyle, exposome, biohumoral data, genotyping) and cellular/molecular markers derivable from a microfluidic device for on-chip blood analysis. SMARTool models will be applied and validated by historical and newly acquired CCTA imaging plus non-imaging health data from the EVINCI project (FP7-222915) population. \nSMARTool cloud-based platform, through Human Computer Interaction techniques, 3D visual representation and artery models,  will use heterogeneous data in a standardized format as input, providing as output a CDSS - assisted by a microfluidic device as a point of care testing of inflammatory markers ñ for:\n i) Patient specific CAD stratification - existing models, based on clinical risk factors, will be implemented by patient genotyping and phenotyping to stratify patients with non-obstructive CAD, obstructive CAD and those without CAD, ii) site specific plaque progression prediction - existing multiscale and multilevel ARTreat tools of CAD progression prediction will be refined by genotyping and phenotyping parameters and tested by baseline and follow CCTA and integrated by non-imaging patient-specific data, iii) patient-specific CAD diagnosis and treatment - life style changes, standard or high intensity medical therapy and a virtual angioplasty tool to provide the optimal stent type(s) and site(s) for appropriate deployment.",
+    "totalCost": "5007858,75",
+    "ecMaxContribution": "4800858,75",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "ACADEMISCH ZIEKENHUIS LEIDEN;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;FONDAZIONE TOSCANA GABRIELE MONASTERIO PER LA RICERCA MEDICA E DI SANITA PUBBLICA;MICRONIT MICROTECHNOLOGIES BV;ALACRIS THERANOSTICS GMBH;BIOTRONICS 3D LIMITED;UNIVERSITAT ZURICH;FAKULTET INZENJERSKIH NAUKA UNIVERZITETA U KRAGUJEVCU;EXPRIVIA HEALTHCARE IT SRL;TURUN YLIOPISTO",
+    "participantCountries": "NL;EL;IT;DE;UK;CH;RS;FI",
+    "projectParticipants": {
+        "999990849": {
+            "orgId": "999990849",
+            "orgName": "ACADEMISCH ZIEKENHUIS LEIDEN",
+            "ecContrib": 220000
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 675000
+        },
+        "951982348": {
+            "orgId": "951982348",
+            "orgName": "FAKULTET INZENJERSKIH NAUKA UNIVERZITETA U KRAGUJEVCU",
+            "ecContrib": 319500
+        },
+        "998303534": {
+            "orgId": "998303534",
+            "orgName": "FONDAZIONE TOSCANA GABRIELE MONASTERIO PER LA RICERCA MEDICA E DI SANITA PUBBLICA",
+            "ecContrib": 343476
+        },
+        "940609777": {
+            "orgId": "940609777",
+            "orgName": "EXPRIVIA HEALTHCARE IT SRL",
+            "ecContrib": 318952
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 1200411
+        },
+        "985094171": {
+            "orgId": "985094171",
+            "orgName": "BIOTRONICS 3D LIMITED",
+            "ecContrib": 331375
+        },
+        "987731989": {
+            "orgId": "987731989",
+            "orgName": "MICRONIT MICROTECHNOLOGIES BV",
+            "ecContrib": 372695
+        },
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 0
+        },
+        "986091428": {
+            "orgId": "986091428",
+            "orgName": "ALACRIS THERANOSTICS GMBH",
+            "ecContrib": 811375
+        },
+        "999903064": {
+            "orgId": "999903064",
+            "orgName": "TURUN YLIOPISTO",
+            "ecContrib": 208074
+        }
+    },
+    "calculatedTotalContribution": 4800858
+}

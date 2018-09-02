@@ -1,0 +1,23 @@
+{
+    "rcn": "210794",
+    "acronym": "cis-CONTROL",
+    "topics": "ERC-2016-COG",
+    "title": "Decoding and controlling cell-state switching: A bottom-up approach based on enhancer logic",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2022",
+    "objective": "Cell-state switching in cancer allows cells to transition from a proliferative to an invasive and drug-resistant phenotype. This plasticity plays an important role in cancer progression and tumour heterogeneity. We have made a striking observation that cancer cells of different origin can switch to a common survival state. During this epigenomic reprogramming, cancer cells re-activate genomic enhancers from specific regulatory programs, such as wound repair and epithelial-to-mesenchymal transition.\n\nThe goal of my project is to decipher the enhancer logic underlying this canalization effect towards a common survival state. We will then employ this new understanding of enhancer logic to engineer synthetic enhancers that are able to monitor and manipulate cell-state switching in real time. Furthermore, we will use enhancer models to identify cis-regulatory mutations that have an impact on cell-state switching and drug resistance. Such applications are currently hampered because there is a significant gap in our understanding of how enhancers work.\n\nTo tackle this problem we will use a combination of in vivo massively parallel enhancer-reporter assays, single-cell genomics on microfluidic devices, computational modelling, and synthetic enhancer design. Using these approaches we will pursue the following aims: (1) to identify functional enhancers regulating cell-state switching by performing in vivo genetic screens in mice; (2) to elucidate the dynamic trajectories whereby cells of different cancer types switch to a common survival cell-state, at single-cell resolution; (3) to create synthetic enhancer circuits that specifically kill cancer cells undergoing cell-state switching. \n\nOur findings will have an impact on genome research, characterizing how cellular decision making is implemented by the cis-regulatory code; and on cancer research, employing enhancer logic in the context of cancer therapy.",
+    "totalCost": "1999660",
+    "ecMaxContribution": "1999660",
+    "coordinator": "VIB",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999651931": {
+            "orgId": "999651931",
+            "orgName": "VIB",
+            "ecContrib": 1999660
+        }
+    },
+    "calculatedTotalContribution": 1999660
+}

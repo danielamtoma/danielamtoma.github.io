@@ -1,0 +1,43 @@
+{
+    "rcn": "213819",
+    "acronym": "IMBALS",
+    "topics": "JTI-CS2-2017-CFP06-LPA-03-09",
+    "title": "IMage BAsed Landing Solutions",
+    "startDate": "01/03/2018",
+    "endDate": "31/08/2022",
+    "objective": "The IMBALS project aims to develop, validate and verify a certifiable Image Processing Platform (IPP) and demonstrate it in a Vision Landing System (VLS) that is capable of autolanding the Large Passenger Aircraft (LPA) based on images supplied by a camera system and without support of ground based precision instrument landing aids. The VLS will additionally enhance the situational awareness for the crew during any autolanding by supporting a Combined Vision System (CVS) based HMI in the Disruptive Cockpit.\nThe project will start from the Concept of Operations (CONOPS) of the Disruptive Cockpit and VLS in particular and derive from there the requirements for VLS as system and the IPP as equipment within that system. The IPP technology bricks will be prototyped, validated and finally integrated to an IPP prototype. The IPP prototyped will be verified against its requirements, integrated in the Disruptive Cockpit simulator and evaluated in operational scenarios and finally, the IPP will be integrated with a camera system on a flight test bed to evaluate its performance in real flight. The project will put a strong emphasis on safety and certifiability of the system, including addressing the challenges of certifying the image processing algorithms.\nThe IMBALS project is conducted by a heterogeneous consortium of a large and two small specialized and highly skilled industry entities in close collaboration with the University of Leuven, highly recognized in vision based 3D motion control for robotics and with Airbus as the topic leader. IMBALS is prone to have a direct positive impact on global aviation safety and mobility, competitiveness of the EU aeronautical industry, the global environmental impact of aviation, the competitiveness of the industrial partners, the scientific knowledge within the university and the employment in Europe in general.",
+    "totalCost": "2718778,75",
+    "ecMaxContribution": "1919852,5",
+    "coordinator": "ESTERLINE BELGIUM",
+    "coordinatorCountry": "BE",
+    "participants": "TEKEVER ASDS;(UN)MANNED;KATHOLIEKE UNIVERSITEIT LEUVEN;ESTERLINE AVIONICS & CONTROLS FRANCE",
+    "participantCountries": "PT;BE;FR",
+    "projectParticipants": {
+        "931670257": {
+            "orgId": "931670257",
+            "orgName": "ESTERLINE BELGIUM",
+            "ecContrib": 355512
+        },
+        "958942292": {
+            "orgId": "958942292",
+            "orgName": "TEKEVER ASDS",
+            "ecContrib": 349125
+        },
+        "912294022": {
+            "orgId": "912294022",
+            "orgName": "ESTERLINE AVIONICS & CONTROLS FRANCE",
+            "ecContrib": 357000
+        },
+        "911717842": {
+            "orgId": "911717842",
+            "orgName": "(UN)MANNED",
+            "ecContrib": 263944
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 594271
+        }
+    },
+    "calculatedTotalContribution": 1919852
+}

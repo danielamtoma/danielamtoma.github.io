@@ -1,0 +1,23 @@
+{
+    "rcn": "206524",
+    "acronym": "IMAGO",
+    "topics": "ERC-PoC-2016",
+    "title": "Image Analysis Online Services for in-vitro experiments",
+    "startDate": "01/09/2017",
+    "endDate": "28/02/2019",
+    "objective": "Image analysis has become a powerful tool in multiple biomedical applications, ranging from clinical cases to cellular experiments. The main purpose of IMAGO is to extract relevant information from image-based analysis to perform comparative studies in 3D cell cultures. Most of the cell-based experiments have been performed in 2D, but 3D conditions are biologically more relevant. IMAGO presents the development of a tool for image analysis focused on, but not limited to, the quantification of cell behavior under different conditions. Indeed, IMAGO goes further by providing, when applicable, an image-based finite element analysis (FEA). There exist different professional software solutions, but either they donít allow post-processing data analyses or they require specialized formation and/or experience to be used efficiently. Furthermore, to the best of our knowledge, none of them permits the extraction of mechanical clues by means of a linked FEA. IMAGO brings together all these features and offers them through an online service that allows the user to customize his own analysis. During the ERC project INSILICO-CELL, we have developed our own software to quantitatively analyze specific in-vitro tests involving particle transport, cell migration, angiogenic sprouting, actin flow, dendritic protrusions and traction force microscopy among others. But, this software is flexible and can be adapted and extended to a wide variety of in-vitro experiments. Thus, it is worth exploring market opportunities to offer our knowledge and expertise to other laboratories, so they can process images from in-vitro tests and analyze their results, either by using an existing function in our software or by developing a new one on request. Therefore, the expected outcome of IMAGO is to demonstrate the potential feasibility of our software by offering our services to external laboratories, and developing a business strategy plan to eventually make our services available to the market.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSIDAD DE ZARAGOZA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999898214": {
+            "orgId": "999898214",
+            "orgName": "UNIVERSIDAD DE ZARAGOZA",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

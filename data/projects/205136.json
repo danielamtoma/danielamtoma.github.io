@@ -1,0 +1,23 @@
+{
+    "rcn": "205136",
+    "acronym": "SmarTrip",
+    "topics": "SMEInst-10-2016-2017",
+    "title": "SMARt platform to optimise TRIP management",
+    "startDate": "01/08/2016",
+    "endDate": "30/11/2016",
+    "objective": "The SmarTrip business innovation project is led by AutoTrip; a British company that aims to provide a tool for optimising the management of road fleets by implementing cutting-edge technologies in mileage tracking and data processing.\nSmarTrip is mainly comprised by: 1) a cloud infrastructure which serves as the basis for communications, data storage and processing; 2) a plug-and-play device, which is connected to the On-Board Diagnostics (OBD) connector of the vehicle (present in all vehicles made since 1996) and which acquires the trip information and then sends it to the cloud infrastructure; and 3) web and mobile-based applications for configuration and managing the information.\nEvery year millions of hours of productivity are lost on vehicle based administration. SmarTripís mission is to connect cars used for business to the cloud to fully automate the reporting of business mileage and unlock cost savings of up to 35%. Today, less than 5% of mileage claims submitted are automated by GPS systems, and is estimated that 96% of submissions still require significant manual activity (paper, excel, postcode logging etc.). We calculate that within the next 10 years, 80% of mileage reclaims submitted will be automated as a result of the Internet of Cars.\nA connected business fleet can offer cost savings through: reduced administrative costs, since the need for manual input is removed as a result of SmarTripís end-to-end automation; accurate mileage reclaims, since thanks to a better triangulation that combines GPS/GSM data, SmarTrip can accurately measure business mileage completed in private vehicles and company cars; reducing business fuel used on trips, since for company cars with fuel cards, SmarTrip will automatically invoice employees for any fuel used on private trips by accurately correlating business mileage against fuel card usage; and tax compliance, since taking the UK as example, the average fine for inaccurate mileage records is near Ä23,000 per driver.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "AUTOTRIP LTD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "930438648": {
+            "orgId": "930438648",
+            "orgName": "AUTOTRIP LTD",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

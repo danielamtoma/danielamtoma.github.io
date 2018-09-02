@@ -1,0 +1,23 @@
+{
+    "rcn": "196528",
+    "acronym": "SPACE-DSP",
+    "topics": "Space-SME-2014-1",
+    "title": "REPROGRAMMABLE GENERAL PURPOSE INSTRUMENT FOR DIGITAL SIGNAL PROCESSING IN SPACE",
+    "startDate": "01/05/2015",
+    "endDate": "31/10/2015",
+    "objective": "The emergence of reconfigurable FPGAs with space qualification opens up new opportunities in space missions. Until recently, implementing high-speed Digital Signal Processing (DSP) algorithms for space was only possible with anti-fusible technology devices. These devices are resistant to radiation but can be programmed only once. Up to now, this fact has determined the development of space instruments, as designs are optimized for a concrete functionality.\n\nThe system proposed herein is a general purpose instrument which is reprogrammable in orbit and multi-experiment. It has a programming memory that is remotely configured via radio link with Earth, so the functionality of the instrument can be totally modified from Earth. The DSP algorithms of the FPGA can then be updated or corrected depending on the space missionís requirements or clientsí interests. It offers a completely new business outlook: the instrument can either be sold to companies that want to optimise the resources of their satellite or be rented and exploited by different companies in a multi-experiment distribution or validation hardware.\n\nThis document is to request a feasibility study according to phase 1 of the Common Conditions of Horizon 2020 and its dedicated Work Programme 2014-2015. In particular, it refers to SME-SPACE-1-2014/2015: SME instrument, and offers a transversal range of applicability within this topic. This feasibility study (phase 1 of SME instrument) will be guided by the Spanish company AD TELECOM and is expected to include other members and subcontracted members in a future phase 2.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "AD TELECOM SL",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "935599436": {
+            "orgId": "935599436",
+            "orgName": "AD TELECOM SL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

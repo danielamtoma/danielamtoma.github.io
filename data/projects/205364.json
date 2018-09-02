@@ -1,0 +1,23 @@
+{
+    "rcn": "205364",
+    "acronym": "FORECASTING",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Forecasting with large datasets: A time varying covariance matrix",
+    "startDate": "06/09/2016",
+    "endDate": "05/09/2018",
+    "objective": "Recently there has been considerable focus on methods that enable time varying estimation of parameters in econometric models in the presence of, possibly stochastic, structural change. An interesting strand of this literature dispenses with the, computationally expensive and theoretically unclear, standard Bayesian estimation methods in favour of kernel estimation. In this project we intend to extend that strand of the literature to the case of large dimensional datasets and perhaps the most commonly explored problem of covariance estimation. Our primary focus will be to combine kernel estimation with fixed coefficient estimation methods for large dimensional covariance matrices. We will then try to provide theoretical results that allow for time variation in the large data generating process. This is a novel extension in the literature. To strengthen our theoretical results, we aim to provide an extensive Monte Carlo analysis and illustrate the utility of our methods in terms of out of sample forecasting. The proposed estimators have many interesting empirical applications. On top of the theoretical paper, our aim is to provide, two empirical papers, in the area of Macroeconomic Forecasting and Optimal portfolio allocation. To this end, we will use the proposed estimators, to forecast key macro variables with large dimensional linear regression, and compare with similar, data rich methods, that are currently used in the literature. Finally we will combine our methodological advancements with optimal portfolio allocation theories. Our preliminary empirical results show that the benefits from the proposed estimators are expected to be high and significant.",
+    "totalCost": "151648,8",
+    "ecMaxContribution": "151648,8",
+    "coordinator": "UNIVERSITY OF CYPRUS",
+    "coordinatorCountry": "CY",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999835843": {
+            "orgId": "999835843",
+            "orgName": "UNIVERSITY OF CYPRUS",
+            "ecContrib": 151649
+        }
+    },
+    "calculatedTotalContribution": 151649
+}

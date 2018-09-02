@@ -1,0 +1,53 @@
+{
+    "rcn": "206390",
+    "acronym": "Dreams4Cars",
+    "topics": "ICT-26-2016",
+    "title": "Dream-like simulation abilities for automated cars",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Dreams4Cars takes inspiration from the Simulation Hypothesis of Cognition ñ notably in the sense of Hesslow ñ and in particular from the idea that thoughts are chains of simulated actions and simulated perceptions. \nThe main objective of Dreams4Cars is to set up an offline simulation mechanism in which robots, by recombining aspects of real-world experience, can produce an emulated world, with which they can collectively interact to safely develop and improve their Perception-Action systems, in particular focusing on the analysis of rare events. The Perception Action systems trained by simulations in this way will then be used for sensorimotor control in real interactions. \nThe application domain of Dream4Cars is automated driving, which ñ besides being a major economic sector for the EU ñ also poses the issue of developing systems capable of dealing with arbitrary and open-ended circumstances. Accidents are rare events and, to demonstrate that autonomous systems are safe enough (i.e. significantly safer than humans ñ which is not achieved today at high and full automation levels), extensive field operation tests would normally be required. The solution offered by Dreams4Cars, by focusing on variations of much more frequent near-miss accidents, can develop safe behaviours for hypothetical/unexperienced situations. Hence Dream4Cars will contribute by solving both the problem of discovering critical situations and the problem of updating safely the software.\nDreams4Cars will compare the driving agents evolved by the simulation technology to a baseline agent which will have the same State of the Art skills developed by the latest EU project in driving automation (AdaptIVe), hence concretely verifying the added value of the robotic technology (with target TRL 6).",
+    "totalCost": "4302865",
+    "ecMaxContribution": "4302865",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI TRENTO",
+    "coordinatorCountry": "IT",
+    "participants": "THE UNIVERSITY OF SHEFFIELD;CENTRO RICERCHE FIAT SCPA;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;HOGSKOLAN I SKOVDE;MIDDLESEX UNIVERSITY HIGHER EDUCATION CORPORATION;HEICH CONSULT GMBH",
+    "participantCountries": "UK;IT;DE;SE",
+    "projectParticipants": {
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 781938
+        },
+        "999587814": {
+            "orgId": "999587814",
+            "orgName": "HOGSKOLAN I SKOVDE",
+            "ecContrib": 656375
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 587482
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 495000
+        },
+        "999841954": {
+            "orgId": "999841954",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRENTO",
+            "ecContrib": 858570
+        },
+        "999883470": {
+            "orgId": "999883470",
+            "orgName": "MIDDLESEX UNIVERSITY HIGHER EDUCATION CORPORATION",
+            "ecContrib": 532500
+        },
+        "935142469": {
+            "orgId": "935142469",
+            "orgName": "HEICH CONSULT GMBH",
+            "ecContrib": 391000
+        }
+    },
+    "calculatedTotalContribution": 4302865
+}

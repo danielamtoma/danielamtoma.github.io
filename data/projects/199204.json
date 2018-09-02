@@ -1,0 +1,63 @@
+{
+    "rcn": "199204",
+    "acronym": "REMINDER",
+    "topics": "ICT-25-2015",
+    "title": "Revolutionary embedded memory for internet of things devices and energy reduction",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "REMINDER aims to develop an embedded DRAM solution optimized for ultra-low-power consumption and\nvariability immunity, specifically focused on Internet of Things cut-edge devices. The objectives of REMINDER are :\ni) Investigation (concept, design, characterization, simulation, modelling), selection and optimization of a\nFloating-Body memory bit cell in terms of low power and low voltage, high reliability, robustness\n(variability), speed, reduced footprint and cost.\nii) Design and fabrication in FDSOI 28nm (FD28) and FDSOI 14nm (FD14) technology nodes of a\nmemory matrix based on the optimized bit-cells developed. Matrix memory subcircuits,\nblocks and architectures will be carefully analysed from the power-consumption point of view.\nIn addition variability tolerant design techniques underpinned by variability analysis and statistical\nsimulation technology will be considered.\niii) Demonstration of a system on chip application using the developed memory solution and\nbenchmarking with alternative embedded memory blocks.\nThe eventual replacement of Si by strained Si/SiGe and III-V materials in future CMOS circuits would also\nrequire the redesign of different applications, including memory cells, and therefore we also propose the evaluation\nof the optimized bit cells developed in FD28 and FD14 technology nodes using these alternative\nmaterials. \nThe fulfilment of the objectives above will also imply the development of:\ni) New techniques for the electrical characterization of ultimate CMOS nanometric devices. This will\nallow us to improve the CMOS technology by boosting device performance.\nii) New behavioural models, incorporating variability effects, to reach a deep understanding of\nnanoelectronics devices\niii) Advanced simulation tools for nanoelectronic devices for state of the art, and emerging devices.\niv) Extreme low power solutions\nThe consortium supporting this proposal is ideally balanced with 2 industrial partners, 2 SMEs, 2 research centers and 3 universities.",
+    "totalCost": "4543793,75",
+    "ecMaxContribution": "3597418,75",
+    "coordinator": "UNIVERSIDAD DE GRANADA",
+    "coordinatorCountry": "ES",
+    "participants": "STMICROELECTRONICS S.A.;SURECORE LTD;INSTITUT POLYTECHNIQUE DE GRENOBLE;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;IBM RESEARCH GMBH;Gold Standard Simulations ltd;Korea Institute of Science and Technology;UNIVERSITY OF GLASGOW",
+    "participantCountries": "FR;UK;CH;KR",
+    "projectParticipants": {
+        "984534481": {
+            "orgId": "984534481",
+            "orgName": "Gold Standard Simulations ltd",
+            "ecContrib": 344938
+        },
+        "987630042": {
+            "orgId": "987630042",
+            "orgName": "Korea Institute of Science and Technology",
+            "ecContrib": 0
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "936927269": {
+            "orgId": "936927269",
+            "orgName": "SURECORE LTD",
+            "ecContrib": 495750
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 761596
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 350000
+        },
+        "999882015": {
+            "orgId": "999882015",
+            "orgName": "UNIVERSIDAD DE GRANADA",
+            "ecContrib": 606250
+        },
+        "999875225": {
+            "orgId": "999875225",
+            "orgName": "INSTITUT POLYTECHNIQUE DE GRENOBLE",
+            "ecContrib": 501385
+        },
+        "999909175": {
+            "orgId": "999909175",
+            "orgName": "STMICROELECTRONICS S.A.",
+            "ecContrib": 537500
+        }
+    },
+    "calculatedTotalContribution": 3597419
+}

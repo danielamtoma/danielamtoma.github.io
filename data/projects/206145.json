@@ -1,0 +1,23 @@
+{
+    "rcn": "206145",
+    "acronym": "MiMo",
+    "topics": "ERC-2016-STG",
+    "title": "Inference in Microeconometric Models",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "Unobserved differences between economic agents are an important driver behind the differences in their economic outcomes such as schooling decisions, wages, and employment durations. Allowing for such unobserved heterogeneity in economic modeling equips the specification with an additional dimension of realism but presents major challenges for econometric practice.  Hence, reconciling heterogeneity in the data with econometric models is an issue of utmost importance.\n\nThe aim of this project is to develop inference methods for models with unobserved heterogeneity by exploiting the identifying power of longitudinal (panel) data. The project consists of three blocks. Together, they span the largest part of modern applications of panel data.\n\nThe first block deals with inference on nonlinear models and enhances the performance of statistical hypothesis tests. So far, the literature has focused on point estimation. However, it is statistical inference that accounts for uncertainty in the data and forms the basis for testing economic restrictions. The second block makes progress on the estimation of models for network data. The importance of social and economic connections is well established but few formal results are available. We exploit the fact that network data can be seen as a type of panel data to derive such results. The third block uses panel data to non-parametrically estimate dynamic discrete-choice models with unobserved type heterogeneity and/or latent state variables. Such results are inexistent even though dynamic discrete-choice models are a workhorse tool in labor economics and industrial organization. \n\nThe performance of the tools will be assessed theoretically and via simulation, and they will be applied to various empirical problems. Two examples of applications that we will study are the extensive margin of labor force participation and the determinants of the import and export behavior of firms and countries.",
+    "totalCost": "1294739",
+    "ecMaxContribution": "1294739",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "FONDATION NATIONALE DES SCIENCES POLITIQUES",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999957869": {
+            "orgId": "999957869",
+            "orgName": "FONDATION NATIONALE DES SCIENCES POLITIQUES",
+            "ecContrib": 102042
+        }
+    },
+    "calculatedTotalContribution": 102042
+}

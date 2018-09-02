@@ -1,0 +1,63 @@
+{
+    "rcn": "206196",
+    "acronym": "RECAP",
+    "topics": "ICT-06-2016",
+    "title": "Reliable Capacity Provisioning and Enhanced Remediation for Distributed Cloud Applications",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Large-scale computing systems are today built as distributed systems (for reasons of scale, heterogeneity, cost and energy efficiency) where components and services are distributed and accessed remotely through clients and devices. In some systems, in particular latency-sensitive or high availability systems, components are also placed closer to end-users (in, e.g., radio base stations and other systems on the edge of access networks) in order to increase reliability and reduce latency - a style of computing often referred to as edge or fog computing.\nHowever, while recent years have seen significant advances in system instrumentation as well as data centre energy efficiency and automation, computational resources and network capacity are often provisioned using best effort provisioning models and coarse-grained quality of service (QoS) mechanisms, even in state-of-the-art data centres. These limitations are seen as a major hindrance in the face of the coming evolution of(IoT and the networked society, and have even today manifested in, e.g., a limited cloud adoption of systems with high reliability requirements such as telecommunications infrastructure and emergency services systems.\nRECAP goes beyond the current state of the art and develop the next generation of cloud/edge/fog computing capacity provisioning via targeted research advances in cloud infrastructure optimization, simulation and automation. Building on advanced machine learning, optimization and simulation techniques. The overarching result of RECAP is the next generation of agile and optimized cloud computing systems. The outcomes of the project will pave the way for a radically novel concept in the provision of cloud services, where services are instantiated and provisioned close to the users that actually need them by self-configurable cloud computing systems.",
+    "totalCost": "4607871,25",
+    "ecMaxContribution": "4607871,25",
+    "coordinator": "UNIVERSITAET ULM",
+    "coordinatorCountry": "DE",
+    "participants": "SISTEMAS AVANZADOS DE TECNOLOGIA SA;TIETO SWEDEN SUPPORT SERVICES AB;DUBLIN CITY UNIVERSITY;FUNDACION IMDEA NETWORKS;UMEA UNIVERSITET;INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED;BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY;LINKNOVATE SCIENCE SL",
+    "participantCountries": "ES;SE;IE;UK",
+    "projectParticipants": {
+        "936119647": {
+            "orgId": "936119647",
+            "orgName": "UNIVERSITAET ULM",
+            "ecContrib": 658125
+        },
+        "987086066": {
+            "orgId": "987086066",
+            "orgName": "INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED",
+            "ecContrib": 760500
+        },
+        "999892588": {
+            "orgId": "999892588",
+            "orgName": "DUBLIN CITY UNIVERSITY",
+            "ecContrib": 677281
+        },
+        "999651058": {
+            "orgId": "999651058",
+            "orgName": "FUNDACION IMDEA NETWORKS",
+            "ecContrib": 450250
+        },
+        "940278231": {
+            "orgId": "940278231",
+            "orgName": "LINKNOVATE SCIENCE SL",
+            "ecContrib": 236875
+        },
+        "999908593": {
+            "orgId": "999908593",
+            "orgName": "BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+            "ecContrib": 321840
+        },
+        "952569780": {
+            "orgId": "952569780",
+            "orgName": "SISTEMAS AVANZADOS DE TECNOLOGIA SA",
+            "ecContrib": 310000
+        },
+        "999881821": {
+            "orgId": "999881821",
+            "orgName": "UMEA UNIVERSITET",
+            "ecContrib": 710125
+        },
+        "919657583": {
+            "orgId": "919657583",
+            "orgName": "TIETO SWEDEN SUPPORT SERVICES AB",
+            "ecContrib": 482875
+        }
+    },
+    "calculatedTotalContribution": 4607871
+}

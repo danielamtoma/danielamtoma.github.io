@@ -1,0 +1,78 @@
+{
+    "rcn": "199908",
+    "acronym": "DESIREE",
+    "topics": "PHC-30-2015",
+    "title": "Decision Support and Information Management System for Breast Cancer",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "Breast cancer is the most common type of cancer affecting woman in the EU. Multidisciplinary Breast Units (BUs) were introduced in order to deal efficiently with breast cancer cases, setting guideline-based quality procedures and a high standard of care. However, daily practice in the BUs is hampered by the complexity of the disease, the vast amount of patient and disease data available in the digital era, the difficulty in coordination, the pressure exerted by the system and the difficulty in deciding on cases that guidelines do not reflect.\nDESIREE aims to alleviate this situation by providing a web-based software ecosystem for the personalized, collaborative and multidisciplinary management of primary breast cancer (PBC) by specialized BUs.  Decision support will be provided on the available therapy options by incorporating experience from previous cases and outcomes into an evolving knowledge model, going beyond the limitations of the few existing guideline-based decision support systems (DSS). Patient cases will be represented by a novel digital breast cancer patient (DBCP) data model, incorporating variables relevant for decision and novel sources of information and biomarkers of diagnostic and prognostic value, providing a holistic view of the patient presented to the BU through specialized visual exploratory interfaces. The influence of new variables and biomarkers in current and previous cases will be explored by a set of data mining and visual analytics tools, leveraging large amounts of retrospective data.\nIintuitive web-based tools for multi-modality image analysis and fusion will be developed, providing advanced imaging biomarkers for breast and tumor characterization. Finally, a predictive tool for breast conservative therapy will be incorporated, based on a multi-scale physiological model, allowing to predict the aesthetic outcome of the intervention and the healing process, with important clinical and psychological implications for the patients.",
+    "totalCost": "3340720",
+    "ecMaxContribution": "3340720",
+    "coordinator": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+    "coordinatorCountry": "ES",
+    "participants": "BILBOMATICA SA;INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE;SISTEMAS GENOMICOS SL;MEDICAL INNOVATION AND TECHNOLOGY SINGLE MEMBER PC;ASSISTANCE PUBLIQUE - HOPITAUX DE PARIS;FUNDACION ONKOLOGIKOA FUNDAZIOA;UNIVERSITY OF HOUSTON SYSTEM;ARIVIS AG;THE METHODIST HOSPITAL RESEARCH INSTITUTE;UNIVERSITY OF ULSTER;Exploraciones RadiolÛgicas Especiales S.L.",
+    "participantCountries": "ES;FR;EL;US;DE;UK",
+    "projectParticipants": {
+        "998862351": {
+            "orgId": "998862351",
+            "orgName": "SISTEMAS GENOMICOS SL",
+            "ecContrib": 99125
+        },
+        "957294456": {
+            "orgId": "957294456",
+            "orgName": "UNIVERSITY OF HOUSTON SYSTEM",
+            "ecContrib": 0
+        },
+        "935122487": {
+            "orgId": "935122487",
+            "orgName": "MEDICAL INNOVATION AND TECHNOLOGY SINGLE MEMBER PC",
+            "ecContrib": 261466
+        },
+        "950797396": {
+            "orgId": "950797396",
+            "orgName": "Exploraciones Radiológicas Especiales S.L.",
+            "ecContrib": 168975
+        },
+        "999885313": {
+            "orgId": "999885313",
+            "orgName": "UNIVERSITY OF ULSTER",
+            "ecContrib": 513625
+        },
+        "955552336": {
+            "orgId": "955552336",
+            "orgName": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+            "ecContrib": 586624
+        },
+        "929527527": {
+            "orgId": "929527527",
+            "orgName": "FUNDACION ONKOLOGIKOA FUNDAZIOA",
+            "ecContrib": 155115
+        },
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 402035
+        },
+        "999645432": {
+            "orgId": "999645432",
+            "orgName": "ASSISTANCE PUBLIQUE - HOPITAUX DE PARIS",
+            "ecContrib": 194375
+        },
+        "953764044": {
+            "orgId": "953764044",
+            "orgName": "THE METHODIST HOSPITAL RESEARCH INSTITUTE",
+            "ecContrib": 356305
+        },
+        "949831664": {
+            "orgId": "949831664",
+            "orgName": "ARIVIS AG",
+            "ecContrib": 350250
+        },
+        "969118465": {
+            "orgId": "969118465",
+            "orgName": "BILBOMATICA SA",
+            "ecContrib": 252825
+        }
+    },
+    "calculatedTotalContribution": 3340720
+}

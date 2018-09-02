@@ -1,0 +1,28 @@
+{
+    "rcn": "208306",
+    "acronym": "321",
+    "topics": "ERC-2016-COG",
+    "title": "from Cubic To Linear complexity in computational electromagnetics",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Computational Electromagnetics (CEM) is the scientific field at the origin of all new modeling and simulation tools required by the constantly arising design challenges of emerging and future technologies in applied electromagnetics. As in many other technological fields, however, the trend in all emerging technologies in electromagnetic engineering is going towards miniaturized, higher density and multi-scale scenarios. Computationally speaking this translates in the steep increase of the number of degrees of freedom. Given that the design cost (the cost of a multi-right-hand side problem dominated by matrix inversion) can scale as badly as cubically with these degrees of freedom, this fact, as pointed out by many, will sensibly compromise the practical impact of CEM on future and emerging technologies. \n\nFor this reason, the CEM scientific community has been looking for years for a FFT-like paradigm shift: a dynamic fast direct solver providing a design cost that would scale only linearly with the degrees of freedom. Such a fast solver is considered today a Holy Grail of the discipline.\n\nThe Grand Challenge of 321 will be to tackle this Holy Grail in Computational Electromagnetics by investigating a dynamic Fast Direct Solver for Maxwell Problems that would run in a linear-instead-of-cubic complexity for an arbitrary number and configuration of degrees of freedom. \n\nThe failure of all previous attempts will be overcome by a game-changing transformation of the CEM classical problem that will leverage on a recent breakthrough  of the PI. Starting from this, the project will investigate an entire new paradigm for impacting algorithms to achieve this grand challenge. \n\nThe impact of the FFTís quadratic-to-linear paradigm shift shows how computational complexity reductions can be groundbreaking on applications. The cubic-to-linear paradigm shift, which the 321 project will aim for, will have such a rupturing impact on electromagnetic science and technology.",
+    "totalCost": "2000000",
+    "ecMaxContribution": "2000000",
+    "coordinator": "POLITECNICO DI TORINO",
+    "coordinatorCountry": "IT",
+    "participants": "INSTITUT MINES-TELECOM",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 2000000
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 2000000
+}

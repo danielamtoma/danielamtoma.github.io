@@ -1,0 +1,78 @@
+{
+    "rcn": "197339",
+    "acronym": "5G-XHaul",
+    "topics": "ICT-14-2014",
+    "title": "Dynamically Reconfigurable Optical-Wireless Backhaul/Fronthaul with Cognitive Control Plane for Small Cells and Cloud-RANs",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2018",
+    "objective": "Small Cells, Cloud-Radio Access Networks (C-RAN), Software Defined Networks (SDN) and Network Function Virtualization (NVF) are key enablers to address the demand for broadband connectivity with low cost and flexible implementations. Small Cells, in conjunction with C-RAN, SDN, NVF pose very stringent requirements on the transport network. Here flexible wireless solutions are required for dynamic backhaul and fronthaul architectures alongside very high capacity optical interconnects. However, there is no consensus on how both technologies can be most efficiently combined.\n5G-XHaul proposes a converged optical and wireless network solution able to flexibly connect Small Cells to the core network. Exploiting user mobility, our solution allows the dynamic allocation of network resources to predicted and actual hotspots. To support these novel concepts, we will develop:\n1) Dynamically programmable, high capacity, low latency, point-to-multipoint mm-Wave transceivers, cooperating with sub-6-GHz systems;\n2) A Time Shared Optical Network offering elastic and fine granular bandwidth allocation, cooperating with advanced passive optical networks;\n3) A software-defined cognitive control plane, able to forecast traffic demand in time and space, and the ability to reconfigure network components.\nThe well balanced 5G-XHaul consortium of industrial and research partners with unique expertise and skills across the constituent domains of communication systems and networks will create impact through:\na) Developing novel converged optical/wireless architectures and network management algorithms for mobile scenarios;\nb) Introduce advanced mm-Wave and optical transceivers and control functions;\nc) Support the development of international standards through technical and techno-economic contributions.\n5G-XHaul technologies will be integrated in a city-wide testbed in Bristol (UK). This will uniquely support the evaluation of novel optical and wireless elements and end-to-end performance.",
+    "totalCost": "7233887,5",
+    "ecMaxContribution": "7233887,5",
+    "coordinator": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+    "coordinatorCountry": "DE",
+    "participants": "AIRRAYS GMBH;HUAWEI TECHNOLOGIES DUESSELDORF GMBH;COSMOTE KINITES TILEPIKOINONIES AE;BLU WIRELESS TECHNOLOGY LIMITED;TELEFONICA INVESTIGACION Y DESARROLLO SA;TES ELECTRONIC SOLUTIONS GMBH;UNIVERSITY OF BRISTOL;PANEPISTIMIO THESSALIAS;ADVA OPTICAL NETWORKING SE;FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "DE;EL;UK;ES",
+    "projectParticipants": {
+        "999943610": {
+            "orgId": "999943610",
+            "orgName": "TES ELECTRONIC SOLUTIONS GMBH",
+            "ecContrib": 560010
+        },
+        "999654550": {
+            "orgId": "999654550",
+            "orgName": "COSMOTE KINITES TILEPIKOINONIES AE",
+            "ecContrib": 244875
+        },
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 781250
+        },
+        "936541694": {
+            "orgId": "936541694",
+            "orgName": "AIRRAYS GMBH",
+            "ecContrib": 912500
+        },
+        "999811787": {
+            "orgId": "999811787",
+            "orgName": "ADVA OPTICAL NETWORKING SE",
+            "ecContrib": 633125
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 298428
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 848500
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 569750
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 588750
+        },
+        "986152150": {
+            "orgId": "986152150",
+            "orgName": "PANEPISTIMIO THESSALIAS",
+            "ecContrib": 623750
+        },
+        "942111240": {
+            "orgId": "942111240",
+            "orgName": "BLU WIRELESS TECHNOLOGY LIMITED",
+            "ecContrib": 591700
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 581250
+        }
+    },
+    "calculatedTotalContribution": 7233888
+}

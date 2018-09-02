@@ -1,0 +1,103 @@
+{
+    "rcn": "203300",
+    "acronym": "SUCCESS",
+    "topics": "DRS-12-2015",
+    "title": "Securing Critical Energy InfrastructuresSUCCESS - Securing Critical Energy Infrastructures",
+    "startDate": "01/05/2016",
+    "endDate": "31/10/2018",
+    "objective": "Living in a safe and secure society is a fundamental human need.  The security of critical infrastructures must be maintained so that supplies of power, water or other resources are secured.  Modern critical infrastructures are increasingly complex and they are turning into Cyber-Physical Infrastructures because ICT is growing in importance in infrastructure management.\nThe SUCCESS project will develop an overarching approach to threat and countermeasure analysis with special focus on the vulnerabilities introduced by Smart Meters. The main challenge is to create the conditions in Europe for the future energy system to be as reliable as todays.\nStarting from a security by design approach and placing resiliency and survivability in focus, a new joint design of Energy Infrastructure and ICT is proposed. Following on the research results, an implementation approach is pursued based on the definition of a New-generation Open Real-time smart Meter (NORM) as a key building block. NORM aims to secure the end nodes of the energy system while providing innovative services in a customer centric grid. At systems level, a cloud-approach, based on double virtualization, is proposed.\nSUCCESS will provide concrete guidelines to support the design of energy systems and linked communications networks to guide short, medium and long term initiatives. Countermeasures will include specifications and open source software for Next Generation Open Real time smart Meters and Security Monitoring Centres at DSO and Pan-European levels, secure communications solutions using NFV, LTE and 5G technologies complemented by data privacy studies to ensure the acceptability of the results by consumers. Trials will be run in Ireland, Italy and Romania. As a result, new business opportunities for energy providers, SMEís and start-ups will generate economic growth in the energy and ICT sectors. SUCCESS combines the dedicated work of leading research and commercial organisations in these sectors.",
+    "totalCost": "4999946,25",
+    "ecMaxContribution": "4999946,25",
+    "coordinator": "ERICSSON GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "P3 ENERGY & STORAGE GMBH;ESB NETWORKS LTD;KUNGLIGA TEKNISKA HOEGSKOLAN;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;DNV GL NETHERLANDS B.V.;VRIJE UNIVERSITEIT BRUSSEL;SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA;CENTRUL ROMAN AL ENERGIEI - CRE;KEMA NEDERLAND BV;SOCIETATEA ENERGETICA ELECTRICA SA;P3 COMMUNICATIONS GMBH;Istituto Superiore Mario Boella;ENGINEERING - INGEGNERIA INFORMATICA SPA;OY L M ERICSSON AB;TW - TEAMWARE SRL;ASM TERNI SPA",
+    "participantCountries": "DE;IE;SE;NL;BE;EL;RO;IT;FI",
+    "projectParticipants": {
+        "999931679": {
+            "orgId": "999931679",
+            "orgName": "KEMA NEDERLAND BV",
+            "ecContrib": 0
+        },
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 271062
+        },
+        "940893308": {
+            "orgId": "940893308",
+            "orgName": "CENTRUL ROMAN AL ENERGIEI - CRE",
+            "ecContrib": 199938
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 196250
+        },
+        "952604700": {
+            "orgId": "952604700",
+            "orgName": "ASM TERNI SPA",
+            "ecContrib": 175429
+        },
+        "996096008": {
+            "orgId": "996096008",
+            "orgName": "SOCIETATEA ENERGETICA ELECTRICA SA",
+            "ecContrib": 56700
+        },
+        "957208417": {
+            "orgId": "957208417",
+            "orgName": "P3 COMMUNICATIONS GMBH",
+            "ecContrib": 528562
+        },
+        "992927988": {
+            "orgId": "992927988",
+            "orgName": "ESB NETWORKS LTD",
+            "ecContrib": 321875
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 471942
+        },
+        "999942931": {
+            "orgId": "999942931",
+            "orgName": "OY L M ERICSSON AB",
+            "ecContrib": 105000
+        },
+        "999599357": {
+            "orgId": "999599357",
+            "orgName": "ISTITUTO SUPERIORE MARIO BOELLA SULLE TECNOLOGIE DELL'INFORMAZIONE E DELLE  TELECOMUNICAZIONI ASSOCIAZIONE",
+            "ecContrib": 0
+        },
+        "949744655": {
+            "orgId": "949744655",
+            "orgName": "TW - TEAMWARE SRL",
+            "ecContrib": 245000
+        },
+        "926314887": {
+            "orgId": "926314887",
+            "orgName": "P3 ENERGY & STORAGE GMBH",
+            "ecContrib": 399562
+        },
+        "999902094": {
+            "orgId": "999902094",
+            "orgName": "VRIJE UNIVERSITEIT BRUSSEL",
+            "ecContrib": 91875
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 478750
+        },
+        "999944386": {
+            "orgId": "999944386",
+            "orgName": "ERICSSON GMBH",
+            "ecContrib": 990500
+        },
+        "916816162": {
+            "orgId": "916816162",
+            "orgName": "DNV GL NETHERLANDS B.V.",
+            "ecContrib": 189000
+        }
+    },
+    "calculatedTotalContribution": 4721445
+}

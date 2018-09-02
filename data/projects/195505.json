@@ -1,0 +1,23 @@
+{
+    "rcn": "195505",
+    "acronym": "NITEC",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "NITEC: a Negative Ion Time Expansion Chamber for directional Dark Matter search",
+    "startDate": "04/05/2015",
+    "endDate": "03/05/2017",
+    "objective": "The goal of this project is the construction of a Negative Ion Time Projection Chamber (NITPC) with triple Gas Electron Multiplier amplification and pixel readout (GEMPix) for directional Dark Matter (DM) searches. DM is 5 times as prevalent as normal matter in the Universe, but its identity remains unknown. Its mere existence implies that our inventory of the basic building blocks of nature is incomplete: deciphering its nature is one of the most compelling tasks for fundamental physics and astronomy. Weakly Interacting Massive Particles (WIMP) are well motivated DM candidates, independently predicted by Standard Model extensions and Big Bang cosmology. Direct detection experiments aim at observing very low energy (10-100 keV) nuclear recoil of WIMP scattering in the matter. While today leading experiments have managed to reach excellent rejection for electromagnetic components, other background sources (such as neutrinos and environmental radioactivity) will forbid to even think larger mass next-generation detectors without a drastic change in technology. We believe that the combination of the large volumes and improved position and energy resolution provided by the negative ion technique, together with the excellent performances of the GEMPix can offer a significant contribution to this research field. In a NITPC, negative ions drift rather than free electrons, drastically reducing diffusion thanks to their higher mass. This is why we want to combine for the first time this idea with one of the most advanced readout, the GEMPix: a triple GEM detector coupled to a Medipix ASIC board, able to provide excellent spatial, energy and time resolutions. Its sensitivity to single ionization cluster will allow this NITPC, together with the slow motion of the anions, to function effectively as a Time Expansion Chamber, hence NITEC. It's worth noticing how NITEC could work also as neutrinoless double beta decay detector, X-ray polarimeter and microdosimeter for hadrotherapy.",
+    "totalCost": "168277,2",
+    "ecMaxContribution": "168277,2",
+    "coordinator": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 168277
+        }
+    },
+    "calculatedTotalContribution": 168277
+}

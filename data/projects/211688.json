@@ -1,0 +1,48 @@
+{
+    "rcn": "211688",
+    "acronym": "microSPIRE",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "micro-crystals Single Photon InfraREd detectors",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "µSPIRE aims at establishing a technological platform for homo- and hetero- structure based photonic and electronic devices using the self-assembling of epitaxial crystals on patterned Si substrates.\nEmerging micro-electronic and photonic devices strongly require the integration on Si of a variety of semiconducting materials such as Ge, GaAs, GaN and SiC, in order to add novel functionalities to the Si platform. µSPIRE pursues this goal employing a novel deposition approach, which we termed vertical hetero-epitaxy (VHE). VHE exploits the patterning of conventional Si substrates, in combination with epitaxial deposition, to attain the self-assembly of arrays of Ge and GaAs epitaxial micro-crystals elongated in the vertical direction, featuring structural and electronic properties unparalleled by ìconventionalî epitaxial growth.\nAs a concrete demonstration of VHE potentialities, we will deliver a complete set of novel photon counting detectors: VHE micro-crystals will be used as the elementary microcells for single-photon detectors with performances far beyond those of current state-of-the-art devices, namely:\n- High photon detection efficiency (> 80%), thanks to the use of several µm thick micro-crystals; \n- High photon-number-resolving capability, thanks to the high density of micro-crystals;\n- High fill-factor (> 90%), thanks to the almost complete surface coverage attained by VHE;\n- Extended sensitivity from visible (350 ñ 900 nm) to NIR (800 ñ 1800 nm) and MIR (up to 10µm), thanks to the integration on Si of Ge and GaAs quantum wells.\nAs a first action towards real applications, the Si and Ge devices will be tested on phantoms closely mimicking breast tissue in order to assess the improvement in signal level with respect to state of the art detectors, and investigate the potential extension to a presently unexplored, but appealing, long-wavelength spectral range (1500nm\\) of breast imaging and optical assessment of breast cancer risk.",
+    "totalCost": "3106381,25",
+    "ecMaxContribution": "3106381",
+    "coordinator": "POLITECNICO DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "PHILIPPS UNIVERSITAET MARBURG;MICRO PHOTON DEVICES S.R.L.;UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA;UNIVERSITY OF GLASGOW;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "DE;IT;UK",
+    "projectParticipants": {
+        "999923531": {
+            "orgId": "999923531",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+            "ecContrib": 729752
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 737271
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 892232
+        },
+        "999552700": {
+            "orgId": "999552700",
+            "orgName": "MICRO PHOTON DEVICES S.R.L.",
+            "ecContrib": 200625
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 230000
+        },
+        "999848938": {
+            "orgId": "999848938",
+            "orgName": "PHILIPPS UNIVERSITAET MARBURG",
+            "ecContrib": 316500
+        }
+    },
+    "calculatedTotalContribution": 3106380
+}

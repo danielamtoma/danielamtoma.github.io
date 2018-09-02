@@ -1,0 +1,23 @@
+{
+    "rcn": "198627",
+    "acronym": "Code4Memory",
+    "topics": "ERC-CoG-2014",
+    "title": "Neural oscillations - a code for memory",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "Episodic memory refers to the fascinating human ability to remember past events in a highly associative and information rich way. But how are these memories coded in human brains? Any mechanism accounting for episodic memory must accomplish at least two functions: to build novel associations, and to represent the information constituting the memory. Neural oscillations, regulating the synchrony of neural assemblies, are ideally suited to accomplish these two functions, but in opposing ways. On the one hand, neurophysiological work suggests that increased synchrony strengthens synaptic connections and thus forms the basis for associative memory. Neurocomputational work, on the other hand, suggests that decreased synchrony is necessary to flexibly express information rich patterns in a neural assembly. Therefore, a conundrum exists as to how oscillations code episodic memory. The aim of this project is to propose and test a new framework that has the potential to reconcile this conflict. The central idea is that synchronization and desynchronization cooperatively code episodic memories, with synchronized activity in the hippocampus in the theta (~4 Hz) and gamma (~ 40-60 Hz) frequency range mediating the building of associations, and neocortical desynchronization in the alpha (~10 Hz) and beta (~15 Hz) frequency range mediating the representation of mnemonic information. Importantly the two modules, with their respective synchronous/asynchronous behaviours, must interact during the formation and retrieval of episodic memories, but how and whether this is the case remains untested to date.  I will test these fundamental questions using a multidisciplinary and multi-method approach, including human single cell recordings, neuroimaging, brain stimulation, and computational modelling. The results from these experiments have the potential to reveal the neural code that human episodic memory is based on, which is still one of the biggest mysteries of the human mind.",
+    "totalCost": "1897751,12",
+    "ecMaxContribution": "1897750,99",
+    "coordinator": "THE UNIVERSITY OF BIRMINGHAM",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 1897751
+        }
+    },
+    "calculatedTotalContribution": 1897751
+}

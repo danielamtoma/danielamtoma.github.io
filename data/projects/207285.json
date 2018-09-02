@@ -1,0 +1,63 @@
+{
+    "rcn": "207285",
+    "acronym": "ALFA",
+    "topics": "BES-04-2015",
+    "title": "Advanced Low Flying Aircrafts Detection and Tracking",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The last decades witnessed the ever growing effectiveness of Europe-subsidized border protection projects like SIVE and SIVICC. As maritime smuggling from Morocco towards the European borders of Portugal and Spain was combatted more effectively, the criminal modus operandi changed drastically, approaching air routes with cheap and small planes. New drone technology opens opportunity to both manned and unmanned airborne drug transports. Launched from any location and moving at low altitude and speed to mask their presence with the present clutter environment, drones can autonomously reach any landing site under nearly all circumstances.\nThe ALFA system bridges this detection capability gap by drastically improving the situational awareness through the detection of LSS (Low, Small and Slow) manned and unmanned aircraft. ALFA is future-ready as technologies for drone detection will be a part of the system, which will use heterogeneous, easy-to-deploy mobile sensors based on several novel technologies. All sensor data, augmented by other existing sources of information, will be combined using evolved data fusion, providing accurate positional data for targets including eventual indication of the air vehicle type and reliable prediction of its landing site. This information will be communicated to the regional law enforcement units using a secure communication link and mobile device application, drastically improving the reaction time.\nFinal ALFA capabilities will be demonstrated in a realistic operational context using relevant targets and in close cooperation with two principal end users taking part in the consortium. With their active participation, the ALFA system will make a significant contribution to the development of EUROSUR (in particular, cooperating with SIVE and SIVICC) and be suitable for a range of other missions and scenarios such as homeland and event protection and the protection of critical infrastructure.",
+    "totalCost": "4613831,25",
+    "ecMaxContribution": "4613831,25",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;ATOS SPAIN SA;MINISTERIO DA ADMINISTRACAO INTERNA;THALES NEDERLAND BV;MINISTERIO DEL INTERIOR;ENGINEERING - INGEGNERIA INFORMATICA SPA;INOV INESC INOVACAO - INSTITUTO DE NOVAS TECNOLOGIAS",
+    "participantCountries": "NL;DE;ES;PT;IT",
+    "projectParticipants": {
+        "999833709": {
+            "orgId": "999833709",
+            "orgName": "MINISTERIO DA ADMINISTRACAO INTERNA",
+            "ecContrib": 242500
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 799706
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 607750
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 494875
+        },
+        "999827501": {
+            "orgId": "999827501",
+            "orgName": "MINISTERIO DEL INTERIOR",
+            "ecContrib": 158750
+        },
+        "999480241": {
+            "orgId": "999480241",
+            "orgName": "THALES NEDERLAND BV",
+            "ecContrib": 736750
+        },
+        "999620503": {
+            "orgId": "999620503",
+            "orgName": "INOV INESC INOVACAO - INSTITUTO DE NOVAS TECNOLOGIAS",
+            "ecContrib": 568750
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 376000
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 628750
+        }
+    },
+    "calculatedTotalContribution": 4613831
+}

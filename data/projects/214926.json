@@ -1,0 +1,17 @@
+{
+    "rcn": "214926",
+    "acronym": "DeepInternal",
+    "topics": "ERC-2017-ADG",
+    "title": "Going Deep and Blind with Internal Statistics",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2023",
+    "objective": "Unsupervised visual inference can often be performed by exploiting the internal redundancy inside a single visual datum (an image or a video). The strong repetition of patches inside a single image/video provides a powerful data-specific prior for solving a variety of vision tasks in a ìblindî manner: (i) Blind in the sense that sophisticated unsupervised inferences can be made with no prior examples or training; (ii) Blind in the sense that complex ill-posed Inverse-Problems can be solved, even when the forward degradation is unknown.\n\nWhile the above fully unsupervised approach achieved impressive results, it relies on internal data alone, hence cannot enjoy the ìwisdom of the crowdî which Deep-Learning (DL) so wisely extracts from external collections of images, yielding state-of-the-art (SOTA) results.  Nevertheless, DL requires huge amounts of training data, which restricts its applicability. Moreover, some internal image-specific information, which is clearly visible, remains unexploited by today's DL methods. One such example is shown in Fig.1.\n\nWe propose to combine the power of these two complementary approaches ñ unsupervised Internal Data Recurrence, with Deep Learning, to obtain the best of both worlds. If successful, this will have several important outcomes including:\nï A wide range of low-level & high-level inferences (image & video).\nï A continuum between Internal & External training ñ a platform to explore theoretical and practical tradeoffs between amount of available training data and optimal Internal-vs-External training.\nï Enable totally unsupervised DL when no training data are available.\nï Enable supervised DL with modest amounts of training data.\nï New applications, disciplines and domains, which are enabled by the unified approach.\nï A platform for substantial progress in video analysis (which has been lagging behind so far due to the strong reliance on exhaustive supervised training data).",
+    "totalCost": "2466940",
+    "ecMaxContribution": "2466940",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

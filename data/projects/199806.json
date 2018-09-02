@@ -1,0 +1,23 @@
+{
+    "rcn": "199806",
+    "acronym": "PAAL-POC",
+    "topics": "ERC-PoC-2015",
+    "title": "Practical Approximation Algorithms - Proof of Concept",
+    "startDate": "01/11/2015",
+    "endDate": "30/04/2017",
+    "objective": "Nowadays, we witness that more and more information is stored and managed in a digital way. Moreover, very often processes are executed and planed by computers. This allows applying computer methods to optimize performance of our actions on an unprecedented scale. This is clearly visible in the case of eCommerce, where the main arena of operation of companies is handled solely using computers. Typically, machine learning tools and algorithms are widely used, e.g., for the prediction of user behavior, user classification, or in recommendation systems. When applying such tools one needs to base his computations on existing historical data. This limits the prediction power of such systems, as we cannot predict the reaction of the users nor of the markets to changes in our strategy. In the case of bidding for Ads in online auctions, we only have full information about the auctions we have won, but in the case of lost auctions we only know that we have lost. Hence, it is almost impossible to predict which auctions we would win using only plain historical data. This problem calls for a novel approach that could extrapolate missing information. Here, we propose the development of such framework together with the programming library that would support such extrapolation. This new framework will incorporate algorithmic game theory into the existing approximation and machine learning algorithms. Game theory gives the right tools to talk about incentives of strategic agents and allows predicting response of market actors to changing conditions. Our idea is to describe these incentives and to build a force feedback loop between market models and algorithmic optimization methods. We will first extract and learn the parameters of the market models from the historical data, only then the extrapolated model will be used as the benchmark for the optimization methods. This novel idea will allow to use optimization tools in the previously intractable parameter range.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIWERSYTET WARSZAWSKI",
+    "coordinatorCountry": "PL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999572294": {
+            "orgId": "999572294",
+            "orgName": "UNIWERSYTET WARSZAWSKI",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

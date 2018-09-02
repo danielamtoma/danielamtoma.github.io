@@ -1,0 +1,23 @@
+{
+    "rcn": "211534",
+    "acronym": "UNIFY",
+    "topics": "ERC-2016-ADG",
+    "title": "A Unified Framework for the Assessment and Application of Cognitive Models",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Cognitive models formalize substantive theory about how people reason, learn, decide, and act. Cognitive models also serve as measurement tools that explain observed behavior in terms of constituent psychological processes. Because of their unique ability to estimate latent processes, cognitive models are increasingly applied throughout cognitive neuroscience and clinical psychology. Despite their theoretical appeal and growing popularity, however, the field of cognitive modeling presents an often bewildering proliferation of ideas and techniques. Current applications appear idiosyncratic, and the state-of-the-art remains unclear. This lack of systematicity makes it difficult for researchers and practitioners to develop, understand, and apply important cognitive models.\n This proposal outlines a unified program for the assessment and application of cognitive models. Based on the foundations of Bayesian inference, a Quantitative Development Team develops new generic methods to assess absolute and relative goodness-of-fit, explores efficient algorithms to estimate model parameters, and examines how the models can be applied to data from popular experimental designs. A Core Application Team focuses on three classes of cognitive models of particular impact: the drift decision models, the stop-signal race models, and the reinforcement learning models. These model classes are enriched by the construction of plausible parameter priors, the development of diagnostic experiments, the assessment of Bayes factors for hierarchical designs, and the model-averaged assessment of changes in parameters. \n The proposed work aims to set a new standard for cognitive modeling. Practical relevance is enhanced by incorporating the techniques in JASP, a user-friendly statistical software package developed in my lab (jasp-stats.org). By adding the new techniques to JASP, the cognitive models and associated new methodology become available for students, researchers, and practitioners.",
+    "totalCost": "2493318",
+    "ecMaxContribution": "2493318",
+    "coordinator": "UNIVERSITEIT VAN AMSTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 2493318
+        }
+    },
+    "calculatedTotalContribution": 2493318
+}

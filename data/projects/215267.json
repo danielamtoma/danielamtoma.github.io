@@ -1,0 +1,17 @@
+{
+    "rcn": "215267",
+    "acronym": "AdaptiveSTED",
+    "topics": "MSCA-IF-2017",
+    "title": "Real-time automatic aberration correction for easy high-resolution imaging in complex specimens, by STED and other point-scanning microscopy techniques",
+    "startDate": "01/01/2019",
+    "endDate": "31/12/2020",
+    "objective": "Super-resolution methods have recently given new life to fluorescence microscopy; they promise molecular-scale resolution, while maintaining all the benefits of traditional diffraction limited techniques, such as robust labeling methods and three-dimensional imaging capability. However, the current super-resolution techniques only work reliably with thin, brightly labeled, low background samples. STimulated Emission Depletion (STED) super-resolution microscopy in principle is exceptionally well suited for deep imaging, because point-illumination makes it possible to use an optical pinhole that significantly reduces the out-of-focus background signal. However, current STED microscope implementations suffer from very low signal-to-noise ratio (SNR), and the STED depletion beam intensity distribution ñ that is used to reduce the size of the effective fluorescence volume at the focus ñ is extremely sensitive to optical aberrations. In AdaptiveSTED project both of these issues will be addressed. The main goal of the AdaptiveSTED project is to develop a real-time aberration correction scheme for STED (and other point-scanning microscopes) that will allow robust, high resolution imaging deep inside complex, aberrating samples. A novel Single Photon Avalanche diode (SPAD) array detector, will make it possible to combine real-time wavefront sensing with high-SNR fluorescence recording into a single detector. The aberration correction scheme will be compatible with any poin-scanning microscopy technique: it will be thoroughly tested with a variety of biological samples in an open-access setting (anyone can use), in STED, two-photon and confocal imaging modes. The aberration correction system will be realized in collaboration with Prof. Martin J. Boothís group at University of Oxford.",
+    "totalCost": "180277,2",
+    "ecMaxContribution": "180277,2",
+    "coordinator": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "207853",
+    "acronym": "APROCS",
+    "topics": "ERC-2016-STG",
+    "title": "Automated Linear Parameter-Varying Modeling and Control Synthesis for Nonlinear Complex Systems",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Linear Parameter-Varying (LPV) systems are flexible mathematical models capable of representing Nonlinear (NL)/Time-Varying (TV) dynamical behaviors of complex physical systems (e.g., wafer scanners, car engines, chemical reactors), often encountered in engineering, via a linear structure. The LPV framework provides computationally efficient and robust approaches to synthesize digital controllers that can ensure desired operation of such systems - making it attractive to (i) high-tech mechatronic, (ii) automotive and (iii) chemical-process applications. Such a framework is important to meet with the increasing operational demands of systems in these industrial sectors and to realize future technological targets. However, recent studies have shown that, to fully exploit the potential of the LPV framework, a number of limiting factors of the underlying theory ask a for serious innovation, as currently it is not understood how to (1) automate exact and low-complexity LPV modeling of real-world applications and how to refine uncertain aspects of these models efficiently by the help of measured data, (2) incorporate control objectives directly into modeling and to develop model reduction approaches for control, and (3) how to see modeling & control synthesis as a unified, closed-loop system synthesis approach directly oriented for the underlying NL/TV system. Furthermore, due to the increasingly cyber-physical nature of applications, (4) control synthesis is needed in a plug & play fashion, where if sub-systems are modified or exchanged, then the control design and the model of the whole system are only incrementally updated. This project aims to surmount Challenges (1)-(4) by establishing an innovative revolution of the LPV framework supported by a software suite and extensive empirical studies on real-world industrial applications; with a potential to ensure a leading role of technological innovation of the EU in the high-impact industrial sectors (i)-(iii).",
+    "totalCost": "1493561",
+    "ecMaxContribution": "1493561",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 1493561
+        }
+    },
+    "calculatedTotalContribution": 1493561
+}

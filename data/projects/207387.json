@@ -1,0 +1,23 @@
+{
+    "rcn": "207387",
+    "acronym": "SPACEVAR",
+    "topics": "ERC-2016-STG",
+    "title": "Quantitative analysis of variability and robustness in spatial pattern formation",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "During embryonic development a single cell turns into a complex organism. This process is characterized by an antagonism between variation and stability. On the one hand, development is a tightly controlled process; tissues need to be specified at the right time, at the correct spatial position, and with a defined size. On the other hand, regulation should not be too rigid, since embryos need to adjust to environmental perturbations and correct errors caused by noisy gene expression. We will study variation and stability during pattern formation in the zebrafish heart. We seek to understand the origin of embryo-to-embryo variability as well as robustness against perturbation.\nThe zebrafish heart is a powerful model system for studying variability, since heart positioning is inverted along the left/right axis in 5-10% of wildtype embryos. We aim to identify the mechanism underlying variability in heart positioning and understand its function. To this end, we will combine two innovative approaches: Tomo-seq, a novel method for spatially-resolved transcriptomics developed by the applicant; and single-molecule FISH, a technique that allows absolute quantification of gene expression in single cells.\nTo expand our study of embryo-to-embryo variability beyond gene expression analysis, we will optimize a method for massively parallel single-cell lineage tracing based on CRISPR-Cas. This novel approach will allow us to study embryo-to-embryo variability in developmental lineage specification on the single cell level. We will use this strategy to systematically explore the corrective capacity of the zebrafish heart upon perturbation of progenitor cell pools, and to determine which mechanisms for error correction are activated in the embryo.\nThese quantitative experiments will provide unprecedented insight into variability and robustness during development. The concepts developed here will also be relevant for improving our understanding of variable outcomes in human disease.",
+    "totalCost": "1499883",
+    "ecMaxContribution": "1499883",
+    "coordinator": "MAX-DELBRUCK-CENTRUM FUR MOLEKULAREMEDIZIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990461": {
+            "orgId": "999990461",
+            "orgName": "MAX-DELBRUCK-CENTRUM FUR MOLEKULAREMEDIZIN",
+            "ecContrib": 1499883
+        }
+    },
+    "calculatedTotalContribution": 1499883
+}

@@ -1,0 +1,98 @@
+{
+    "rcn": "210094",
+    "acronym": "DEEP-EST",
+    "topics": "FETHPC-01-2016",
+    "title": "DEEP - Extreme Scale Technologies",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2020",
+    "objective": "The DEEP-EST (ìDEEP - Extreme Scale Technologiesî) project will create a first incarnation of the Modular Supercomputer Architecture (MSA) and demonstrate its benefits. In the spirit of the DEEP and DEEP-ER projects, the MSA integrates compute modules with different performance characteristics into a single heterogeneous system. Each module is a parallel, clustered system of potentially large size. A federated network connects the module-specific interconnects. MSA brings substantial benefits for heterogeneous applications/workflows: each part can be run on an exactly matching system, improving time to solution and energy use. This is ideal for supercomputer centres running heterogeneous application mixes (higher throughput and energy efficiency). It also offers valuable flexibility to the compute providers, allowing the set of modules and their respective size to be tailored to actual usage.\n\nThe DEEP-EST prototype will include three modules: general purpose Cluster Module and Extreme Scale Booster supporting the full range of HPC applications, and Data Analytics Module specifically designed for high-performance data analytics (HPDA) workloads. Proven programming models and APIs from HPC (combining MPI and OmpSs) and HPDA will be extended and combined with a significantly enhanced resource management and scheduling system to enable straightforward use of the new architecture and achieve highest system utilisation and performance. Scalability projections will be given up to the Exascale performance class. The DEEP-EST prototype will be defined in close co-design between applications, system software and system component architects. Its implementation will employ European integration, network and software technologies. Six ambitious and highly relevant European applications from HPC and HPDA domains will drive the co-design, serving to evaluate the DEEP EST prototype and demonstrate the benefits of its innovative Modular Supercomputer Architecture.",
+    "totalCost": "15873341,25",
+    "ecMaxContribution": "14998342",
+    "coordinator": "FORSCHUNGSZENTRUM JULICH GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "STICHTING ASTRON, NETHERLANDS INSTITUTE FOR RADIO ASTRONOMY;MEGWARE COMPUTER VERTRIEB UND SERVICE GMBH;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG;INTEL DEUTSCHLAND GMBH;BAYERISCHE AKADEMIE DER WISSENSCHAFTEN;NORGES MILJO-OG BIOVITENSKAPLIGE UNIVERSITET;AURORA SRL;EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH;\"ASSOCIATION \"\"NATIONAL CENTRE FOR SUPERCOMPUTING APPLICATIONS\";EXTOLL GMBH;KATHOLIEKE UNIVERSITEIT LEUVEN;HASKOLI ISLANDS;THE UNIVERSITY OF EDINBURGH;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "NL;DE;NO;IT;CH;BG;BE;IS;UK;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 1076250
+        },
+        "952408275": {
+            "orgId": "952408275",
+            "orgName": "MEGWARE COMPUTER VERTRIEB UND SERVICE GMBH",
+            "ecContrib": 229218
+        },
+        "999492754": {
+            "orgId": "999492754",
+            "orgName": "STICHTING ASTRON, NETHERLANDS INSTITUTE FOR RADIO ASTRONOMY",
+            "ecContrib": 410748
+        },
+        "999884246": {
+            "orgId": "999884246",
+            "orgName": "HASKOLI ISLANDS",
+            "ecContrib": 387860
+        },
+        "988967963": {
+            "orgId": "988967963",
+            "orgName": "\"ASSOCIATION \"\"NATIONAL CENTRE FOR SUPERCOMPUTING APPLICATIONS\"",
+            "ecContrib": 215788
+        },
+        "999580054": {
+            "orgId": "999580054",
+            "orgName": "BAYERISCHE AKADEMIE DER WISSENSCHAFTEN",
+            "ecContrib": 1032529
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 326239
+        },
+        "932879071": {
+            "orgId": "932879071",
+            "orgName": "AURORA SRL",
+            "ecContrib": 823379
+        },
+        "999902967": {
+            "orgId": "999902967",
+            "orgName": "NORGES MILJO-OG BIOVITENSKAPLIGE UNIVERSITET",
+            "ecContrib": 310591
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 372259
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 323708
+        },
+        "967538432": {
+            "orgId": "967538432",
+            "orgName": "INTEL DEUTSCHLAND GMBH",
+            "ecContrib": 866440
+        },
+        "999987648": {
+            "orgId": "999987648",
+            "orgName": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+            "ecContrib": 299201
+        },
+        "950337810": {
+            "orgId": "950337810",
+            "orgName": "EXTOLL GMBH",
+            "ecContrib": 1007590
+        },
+        "999988133": {
+            "orgId": "999988133",
+            "orgName": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+            "ecContrib": 380082
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 6936462
+        }
+    },
+    "calculatedTotalContribution": 14998344
+}

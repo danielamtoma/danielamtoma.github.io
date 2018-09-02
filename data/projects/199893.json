@@ -1,0 +1,58 @@
+{
+    "rcn": "199893",
+    "acronym": "POWER2DM",
+    "topics": "PHC-28-2015",
+    "title": "POWER2DM - Predictive model-based decision support for diabetes patient empowerment",
+    "startDate": "01/02/2016",
+    "endDate": "31/07/2019",
+    "objective": "The main objective of POWER2DM is to develop and validate a personalized self-management support system (SMSS) for T1 and T2 diabetes patients that combines and integrates (1) a decision support system (DSS) based on leading European predictive personalized models for diabetes interlinked with predictive computer models, (2) automated e-coaching functionalities based on Behavioural Change Theories, and (3) real-time Personal Data processing and interpretation.\nThe DSS will be based on the complementary combination of proven predictive models for short term plasma glucose prediction, medium term diabetes progression, and long term risk scoring for diabetes complications. These models will be integrated in adaptive personalized behavior change interventions to increase adherence of the patients to their care  program and improve their interaction with health professionals. A cloud-based Data Integration Service, collecting and processing data from personal devices and EHR/PHR in real-time feeds the DSS.\nThe results of the SMSS with respect to clinical parameters, awareness, acceptance and empowerment of the patient to participate in the care process will be evaluated in three studies in NL, DE and ES.\nThe deliverables of the project will  increase self-management capabilities and participation of the patient in the care process, resulting in better self-control and management of the disease. This will lead to better glucose management, thereby preventing severe episodes and long-term complications. POWER2DM will reinforce the prevention sector in healthcare by raising the acceptance of SMSS based on DSS that use predictive models fed by data from personal devices. POWER2DM will challenge individuals towards more frequent and long-term use of personal devices for self-monitoring, boosting the development of these devices. POWER2DM will thereby make an essential step forward in empowering  the patient, advancing prevention and decreasing disease burden and costs.",
+    "totalCost": "4981553,75",
+    "ecMaxContribution": "4981553,75",
+    "coordinator": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+    "coordinatorCountry": "NL",
+    "participants": "ACADEMISCH ZIEKENHUIS LEIDEN;INSTITUT FUR DIABETES GERHARDT KATSCH KARLSBURG EV;SRDC YAZILIM ARASTIRMA VE GELISTIRME VE DANISMANLIK TICARET ANONIM SIRKETI;PRIME DATA B.V.;SERVICIO ANDALUZ DE SALUD;SALZBURG RESEARCH FORSCHUNGSGESELLSCHAFT M.B.H.;IHEALTHLABS EUROPE",
+    "participantCountries": "NL;DE;TR;ES;AT;FR",
+    "projectParticipants": {
+        "999683553": {
+            "orgId": "999683553",
+            "orgName": "SRDC YAZILIM ARASTIRMA VE GELISTIRME VE DANISMANLIK TICARET ANONIM SIRKETI",
+            "ecContrib": 640400
+        },
+        "999990849": {
+            "orgId": "999990849",
+            "orgName": "ACADEMISCH ZIEKENHUIS LEIDEN",
+            "ecContrib": 831020
+        },
+        "998853621": {
+            "orgId": "998853621",
+            "orgName": "SERVICIO ANDALUZ DE SALUD",
+            "ecContrib": 456250
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 1138869
+        },
+        "999594119": {
+            "orgId": "999594119",
+            "orgName": "SALZBURG RESEARCH FORSCHUNGSGESELLSCHAFT M.B.H.",
+            "ecContrib": 581000
+        },
+        "928626300": {
+            "orgId": "928626300",
+            "orgName": "IHEALTHLABS EUROPE",
+            "ecContrib": 376250
+        },
+        "947202479": {
+            "orgId": "947202479",
+            "orgName": "PRIME DATA B.V.",
+            "ecContrib": 425890
+        },
+        "941405662": {
+            "orgId": "941405662",
+            "orgName": "INSTITUT FUR DIABETES GERHARDT KATSCH KARLSBURG EV",
+            "ecContrib": 531875
+        }
+    },
+    "calculatedTotalContribution": 4981554
+}

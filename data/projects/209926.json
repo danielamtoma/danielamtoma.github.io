@@ -1,0 +1,28 @@
+{
+    "rcn": "209926",
+    "acronym": "microKIc",
+    "topics": "ERC-2016-COG",
+    "title": "Microscopic Origins of Fracture Toughness",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2022",
+    "objective": "The resistance to crack propagation is undoubtedly one of the most important properties of structural materials. However, our current mechanistic understanding of the fracture processes in typical semi-brittle materials like steels, refractory metals or semiconductors is not sufficiently advanced to predict the fracture toughness KIc and its dependence on the microstructure, temperature and strain rate. Therefore, KIc is commonly regarded as a phenomenological material parameter for fracture mechanics models that require experimental calibration. \n\nThe aim of microKIc is to study fracture in model materials in order to gain a detailed understanding of the microscopic crack-tip processes during fracture initiation, propagation and arrest, and to systematically study the interactions of cracks with constituents of the microstructure like dislocations, voids, precipitates and grain boundaries. To this end, we will perform fully 3D, large-scale atomistic simulations on cracks in bcc-based materials (W, NiAl) with varying crack orientation, crack front quality, and in the presence of dislocations and microstructural obstacles. The obtained criteria for crack advance and dislocation nucleation at crack tips will be implemented in a coupled finite element - discrete dislocation dynamics code, which will allow for the first time a fully 3D study of fracture and crack-tip plasticity at the mesoscale. The simulations will be compared to in-situ micro-mechanical tests on well-characterized fracture specimens produced by focused ion beam milling.\n\nThe ultimate goal of microKIc is to use this experimentally validated multiscale modelling framework to develop a microstructure-sensitive, physics-based micromechanical model of the fracture toughness, which will be tested against macroscopic fracture experiments. Such predictive models are crucial for the development of new failure-resistant materials and for improved design guidelines for safety-relevant structures and components.",
+    "totalCost": "1996570",
+    "ecMaxContribution": "1996570",
+    "coordinator": "FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG",
+    "coordinatorCountry": "DE",
+    "participants": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999995408": {
+            "orgId": "999995408",
+            "orgName": "FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG",
+            "ecContrib": 1699175
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 297395
+        }
+    },
+    "calculatedTotalContribution": 1996570
+}

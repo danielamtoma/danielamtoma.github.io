@@ -1,0 +1,73 @@
+{
+    "rcn": "193457",
+    "acronym": "ADALAM",
+    "topics": "FoF-01-2014",
+    "title": "Sensor based adaptive laser micromachining using ultrashort pulse lasers for zero-failure manufacturing",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Miniaturization, advanced high performance materials and functional surface structures are all drivers behind key enabling technologies in high added value production. It is in such areas that ultrashort pulse lasers have enabled completely new machining concepts, where the big advantages of laser machining are combined with a quasi non-thermal and therefore mild process, which can be used to machine any material with high precision.\nAn important obstacle however that hinders the full exploitation of the unique process characteristics, is the lack of a smart / adaptive machining technology. The laser process in principle is very accurate, but small deviations, e.g. in the materials to be processed, can compromise the accuracy to a very large extend. Therefore feedback systems are needed to keep the process accurate.\n\nWithin this project the goal is to develop an adaptive laser micromachining system, based on ultrashort pulsed laser ablation and a novel depth measurement sensor, together with advanced data analysis software and automated system calibration routines. The sensor can be used inline with the laser ablation process, enabling adaptive processes by fast and accurate 3D surface measurements.\n \nThe integrated sensor can be used to:\n    ï Measure the surface topography while machining a part, in order to adapt the micromachining process, leading to highly increased machining accuracies and no defects.\n    ï Measure the surface topography before machining, to scan for existing surface defects that can be removed in an automatically generated machining process.\n    ï Measure complex shaped objects prior to machining, to precisely align the machining pattern to the workpiece.\n    ï Quickly validate results after machining.\n\nTherefore, the main objective of this project is to develop a sensor based adaptive micro machining system using ultra short pulsed lasers for zero failure manufacturing.",
+    "totalCost": "4201510",
+    "ecMaxContribution": "3764635",
+    "coordinator": "UNIMETRIK SA",
+    "coordinatorCountry": "ES",
+    "participants": "Lightmotif B.V.;Sill Optics GmbH & Co. KG;AB SANDVIK COROMANT;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;LUMENTUM SWITZERLAND AG;CONSULTORES DE AUTOMATIZACION YROBOTICA SA;DEMCON ADVANCED MECHATRONICS BV;DEMCON FOCAL BV;XYCARB CERAMICS BV;DATAPIXEL SL",
+    "participantCountries": "NL;DE;SE;CH;ES",
+    "projectParticipants": {
+        "998281709": {
+            "orgId": "998281709",
+            "orgName": "DEMCON ADVANCED MECHATRONICS BV",
+            "ecContrib": 623868
+        },
+        "985822253": {
+            "orgId": "985822253",
+            "orgName": "AB SANDVIK COROMANT",
+            "ecContrib": 117500
+        },
+        "961020323": {
+            "orgId": "961020323",
+            "orgName": "DEMCON FOCAL BV",
+            "ecContrib": 369844
+        },
+        "985086023": {
+            "orgId": "985086023",
+            "orgName": "Sill Optics GmbH & Co. KG",
+            "ecContrib": 310001
+        },
+        "998424590": {
+            "orgId": "998424590",
+            "orgName": "DATAPIXEL SL",
+            "ecContrib": 387500
+        },
+        "999597029": {
+            "orgId": "999597029",
+            "orgName": "LUMENTUM SWITZERLAND AG",
+            "ecContrib": 0
+        },
+        "999500417": {
+            "orgId": "999500417",
+            "orgName": "CONSULTORES DE AUTOMATIZACION YROBOTICA SA",
+            "ecContrib": 156750
+        },
+        "998501511": {
+            "orgId": "998501511",
+            "orgName": "Lightmotif B.V.",
+            "ecContrib": 746250
+        },
+        "986591463": {
+            "orgId": "986591463",
+            "orgName": "XYCARB CERAMICS BV",
+            "ecContrib": 212916
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 432256
+        },
+        "973065783": {
+            "orgId": "973065783",
+            "orgName": "UNIMETRIK SA",
+            "ecContrib": 407750
+        }
+    },
+    "calculatedTotalContribution": 3764635
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "197435",
+    "acronym": "AppIOS",
+    "topics": "ICT-37-2015-1",
+    "title": "AppIOS: Platform for Building Next Generation Enterprise Software",
+    "startDate": "01/06/2015",
+    "endDate": "31/10/2015",
+    "objective": "Our innovation project is developing and delivering tools and a platform for building next generation enterprise software. Enterprise software is a big market which delivers solutions for building IT infrastructures to support organisationsí business and daily routines. The market is characterized with a high failure rate, small number of players, and low customer satisfaction. We aim to change how enterprise software is built and satisfy customer needs. Our idea is that complex enterprise software solutions can be built from small building blocks, apps, which can be developed by domain experts. It was proven in the mobile app market that small vendors and individuals can be very successful in implementing specialized apps. To bring our idea to life, we develop tools to create apps efficiently, as well as a platform to run the independently-created apps together, constituting a single software system.\nThe core of our platform is our high-performing ACID-compliant in-memory database management system (DBMS) with a built-in application server. The DBMS is being designed to support real world ontologies, which play important role in our solution. The communication between the server and clients is being implemented according to a Model View ViewModel (MVVM) pattern. The client part of our platform is built with Web Components and provides the ability to mix user interfaces (UIs) of independently-developed apps into a single UI representing a software package.\nOur approach benefits these core audiences in the following ways:\n- Developers: Simple and fast way to develop apps;\n- Software providers: Fast time-to-market and expansion of their business;\n- Customers: Satisfied needs and requirements, fast track from idea to working infrastructure, reduced cost of ownership, and ability to adapt to requirements, changes, and business expansion.\nThis feasibility project will result in an elaborated business plan outlining the necessary development work and marketing strategy.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "STARCOUNTER AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "931193405": {
+            "orgId": "931193405",
+            "orgName": "STARCOUNTER AB",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "195218",
+    "acronym": "StillNoFace",
+    "topics": "MSCA-IF-2014-GF",
+    "title": "Identity matching from still images without face information",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2017",
+    "objective": "In computer vision, human identity matching from images and/or video has been an active research topic for more than two decades and its popularity is increasing with the increase in computing power. The state of the art techniques are based on face images and gait recognition from long video sequences. However, in many real applications only some static images of the subject may be available where face information is missing (e.g. posterior views). These scenarios have not been addressed by the research community as they are difficult to handle. In this action, we propose a method for matching identities from a set of 2D images of a person without any facial information. The method consists of two steps: at first, the human body is modelled by a 3D articulated model whose pose is estimated by its 2D projections onto the images. Then, biometric features are computed by fitting 3D deformable models to the image data, thus capturing the form and size of the main parts of the anatomy. The overall framework works under a probabilistic framework, with a learning step, in order to encode pose and anatomy variations between a set of individuals that are to be identified.",
+    "totalCost": "168391,8",
+    "ecMaxContribution": "168391,8",
+    "coordinator": "PANEPISTIMIO IOANNINON",
+    "coordinatorCountry": "EL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999852818": {
+            "orgId": "999852818",
+            "orgName": "PANEPISTIMIO IOANNINON",
+            "ecContrib": 168392
+        }
+    },
+    "calculatedTotalContribution": 168392
+}

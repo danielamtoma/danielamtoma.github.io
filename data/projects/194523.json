@@ -1,0 +1,23 @@
+{
+    "rcn": "194523",
+    "acronym": "DiODe",
+    "topics": "ERC-CoG-2014",
+    "title": "Distributed Algorithms for Optimal Decision-Making",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2020",
+    "objective": "This grant will develop and translate a unifying framework for optimal decision-theory, and observations of natural systems, to design distributed algorithms for decentralised decision-making. This will enable a technological step-change in techniques for controlling distributed systems, primarily demonstrated during the grant by decentralised control of robot swarms. These algorithms and associated methodology will also provide hypotheses and tools to change the way scientists think about and interrogate natural decision mechanisms, from intracellular regulatory networks, via neural decision circuits, to decision-making populations of animals. Specific objectives are:\n\n1. Distributed value-sensitive decision-making: undertake optimality analyses of the applicantís existing decentralised decision-making algorithms based on observations of collective iterated voting-processes in honeybees, and extend these.\n\n2. Distributed sampling and decision-making: design distributed mechanisms that implement optimal compromises between sampling information and making decisions based on that information.\n\n3. Individual-confidence and distributed decision-making: translate machine learning theory to collective behaviour models, designing mechanisms in which weak decision-makers optimally combine their decisions to optimise group performance.\n\n4. Optimal distributed decision-making in collective robotics: translate theory from objective 1 to 3 towards practical applications in artificial systems, demonstrated using collectively-deciding robots.\n\n5. Development of tools for life scientists and validation of theoretical predictions in natural systems: interact with named collaborators to investigate identified decision mechanisms in single cells, in neural circuits, and in social groups. Develop accessible modelling tools to facilitate investigations by life scientists.",
+    "totalCost": "1413705",
+    "ecMaxContribution": "1413705",
+    "coordinator": "THE UNIVERSITY OF SHEFFIELD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 1413705
+        }
+    },
+    "calculatedTotalContribution": 1413705
+}

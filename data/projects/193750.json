@@ -1,0 +1,23 @@
+{
+    "rcn": "193750",
+    "acronym": "LatinOCR",
+    "topics": "ERC-PoC-2014",
+    "title": "Digital Bridge: Optical Character Recognition for Early Printed Books in Latin",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2016",
+    "objective": "This project aims to provide the first viable and accurate solution for digitising early printed books in Latin using Optical Character Recognition. Our basic OCR package will be free and open-source, in order to ensure affordability, longevity, and openness for improvement (three failures of our commercial competitors). Our Company Limited by Guarantee will market costumisation, training, support, and further development tailored to specific collections of books (the standard failure of open-source solutions). Customisation services are essential in our market. Early printed Latin cannot be successfully digitised using standard OCR packages (whether open-source or commercial): these currently have an accuracy of no more than 15%. We plan to modify the open-source Tesseract engine, by training it to account for Latin grammar and early typography: this will increase its accuracy of recognition to about 80%. Customisation tailored to specific collections of books will further improve accuracy to about 95% to 98%. \n\nOur company will address the needs of libraries, digital publishers, researchers, learned societies, and private collectors of early books. Our commercialisation plan is modelled on that of other successful businesses based on open-source software.\n\nThe demand for Latin OCR is strong, as publishers and libraries switch to digital publication and storage. From the invention of printing in the Renaissance until well into the 19th century, Latin was the European language of every intellectual discourse: the natural sciences, mathematics, philosophy, theology, law, literary criticism, geography, archaeology, music, medicine. The subsequent shift to using the vernacular languages was a seismic event. We are now experiencing a revolution of similar proportions: the advent of digital publication is bringing opportunities and risks whose outlines are still unclear. This project aims to offer a solid technical bridge between the digital future and the Latin past.",
+    "totalCost": "148178",
+    "ecMaxContribution": "148178",
+    "coordinator": "UNIVERSITY OF DURHAM",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999866010": {
+            "orgId": "999866010",
+            "orgName": "UNIVERSITY OF DURHAM",
+            "ecContrib": 148178
+        }
+    },
+    "calculatedTotalContribution": 148178
+}

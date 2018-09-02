@@ -1,0 +1,43 @@
+{
+    "rcn": "204166",
+    "acronym": "BEST",
+    "topics": "Sesar-03-2015",
+    "title": "Achieving the BEnefits of SWIM by making smart use of Semantic Technologies",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2018",
+    "objective": "BEST will determine how semantic technologies can be used effectively to maximise the benefits of adopting SWIM, one of the major results of SESAR.\n\nSWIM offers an ìinformation sharingî approach to ATM information management and its adoption offers advantages for better situational awareness and information management.  But the full benefits of SWIM can only be achieved if advanced support can be provided for developing smart SWIM-based applications that manage information effectively, and semantic technologies offer a promising way to do that.   BEST identifies a set of focused research questions about how to exploit semantic technologies in a practical way in an ATM setting, and will produce concrete results that help address these.\n\nThe project will experiment with use of semantic technologies with several use cases, and build on that experience to produce guidelines (aimed at practitioners) about how to use ontologies in flexible ways to describe meta-data, and how these can be used in innovative yet scalable ways.\n\nBEST envisages use of multiple modular ontologies to maximise flexibility and applicability to specific application scenarios, but within a framework where compliance with the wider requirements of SWIM and the SESAR AIRM can be assured.  This involves both technical compliance testing and governance aspects.\n\nWhile BEST is primarily a research-oriented project, it is also designed to ensure relevance to and suitability for ATM operations, through project activities and the involvement of a Reference Group of key stakeholders.\n\nThe consortium includes a mixture of research and industrial partners (including one SME), all with extensive ATM experience.  Several project partners have had leading roles in AIRM and SWIM work in SESAR, but some partners are new to SESAR and offer ìnew bloodî.  The consortium also provides leading expertise on semantic technologies.\n\nThe project duration will be 24 months, with a requested funding of just under 600 KÄ.",
+    "totalCost": "643698,75",
+    "ecMaxContribution": "593128,75",
+    "coordinator": "STIFTELSEN SINTEF",
+    "coordinatorCountry": "NO",
+    "participants": "SLOT CONSULTING KERESKEDELMI, SZOLGALTATO, TANACSADO KFT;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;UNIVERSITAT LINZ;FREQUENTIS AG",
+    "participantCountries": "HU;BE;AT",
+    "projectParticipants": {
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 261076
+        },
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 135815
+        },
+        "999539508": {
+            "orgId": "999539508",
+            "orgName": "SLOT CONSULTING KERESKEDELMI, SZOLGALTATO, TANACSADO KFT",
+            "ecContrib": 54712
+        },
+        "998307317": {
+            "orgId": "998307317",
+            "orgName": "FREQUENTIS AG",
+            "ecContrib": 141525
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 593128
+}

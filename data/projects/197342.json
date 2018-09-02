@@ -1,0 +1,93 @@
+{
+    "rcn": "197342",
+    "acronym": "5G NORMA",
+    "topics": "ICT-14-2014",
+    "title": "5G NOvel Radio Multiservice adaptive network Architecture",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2017",
+    "objective": "The key objective of 5G NORMA is to develop a conceptually novel, adaptive and future-proof 5G mobile network architecture. The architecture is enabling unprecedented levels of network customisability, ensuring stringent performance, security, cost and energy requirements to be met; as well as providing an API-driven architectural openness, fuelling economic growth through over-the-top innovation. With 5G NORMA, leading players in the mobile ecosystem aim to underpin Europeís leadership position in 5G.\nRelevant to strands 'Radio network architecture and technologies' and 'Convergence beyond last mile', the 5G NORMA architecture will provide the necessary adaptability able to efficiently handle the diverse requirements and traffic demand fluctuations resulting from heterogeneous and changing service portfolios. Not following the ëone system fits all servicesí paradigm of current architectures, 5G NORMA will allow for adapting the mechanisms executed for a given service to the specific service requirements, resulting in a novel service- and context-dependent adaptation of network functions paradigm.\nThe technical approach is based on the innovative concept of adaptive (de)composition and allocation of mobile network functions, which flexibly decomposes the mobile network functions and places the resulting functions in the most appropriate location. By doing so, access and core functions no longer (necessarily) reside in different locations, which is exploited to jointly optimize their operation when possible. The adaptability of the architecture is further strengthened by the innovative software-defined mobile network control and mobile multi-tenancy concepts, and underpinned by corroborating demonstrations.\n5G NORMA will ensure economic sustainability of network operation and open opportunities for new players, while leveraging the efficiency of the architecture to do so in a cost- and energy- effective way.",
+    "totalCost": "7921868,75",
+    "ecMaxContribution": "7921868,75",
+    "coordinator": "NOKIA SOLUTIONS AND NETWORKS MANAGEMENT INTERNATIONAL GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "AZCOM TECHNOLOGY SRL;ORANGE SA;ATOS SPAIN SA;TELEFONICA INVESTIGACION Y DESARROLLO SA;TECHNISCHE UNIVERSITAET KAISERSLAUTERN;ALCATEL-LUCENT DEUTSCHLAND AG;NOMOR RESEARCH GMBH;REAL WIRELESS LIMITED;NOKIA SOLUTIONS AND NETWORKS OY;NEC EUROPE LTD;NOKIA BELL LABS FRANCE;DEUTSCHE TELEKOM AG;UNIVERSIDAD CARLOS III DE MADRID;KING'S COLLEGE LONDON",
+    "participantCountries": "IT;FR;ES;DE;UK;FI",
+    "projectParticipants": {
+        "999936335": {
+            "orgId": "999936335",
+            "orgName": "DEUTSCHE TELEKOM AG",
+            "ecContrib": 648000
+        },
+        "999666481": {
+            "orgId": "999666481",
+            "orgName": "NOMOR RESEARCH GMBH",
+            "ecContrib": 634734
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 216440
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 469375
+        },
+        "954016341": {
+            "orgId": "954016341",
+            "orgName": "AZCOM TECHNOLOGY SRL",
+            "ecContrib": 453750
+        },
+        "999885895": {
+            "orgId": "999885895",
+            "orgName": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+            "ecContrib": 380938
+        },
+        "999912376": {
+            "orgId": "999912376",
+            "orgName": "ALCATEL-LUCENT DEUTSCHLAND AG",
+            "ecContrib": 516925
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 443398
+        },
+        "996377696": {
+            "orgId": "996377696",
+            "orgName": "NOKIA BELL LABS FRANCE",
+            "ecContrib": 357960
+        },
+        "999925471": {
+            "orgId": "999925471",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS OY",
+            "ecContrib": 292482
+        },
+        "953152168": {
+            "orgId": "953152168",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS MANAGEMENT INTERNATIONAL GMBH",
+            "ecContrib": 1106800
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 584700
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 735000
+        },
+        "935339282": {
+            "orgId": "935339282",
+            "orgName": "REAL WIRELESS LIMITED",
+            "ecContrib": 600658
+        },
+        "999981052": {
+            "orgId": "999981052",
+            "orgName": "KING'S COLLEGE LONDON",
+            "ecContrib": 480710
+        }
+    },
+    "calculatedTotalContribution": 7921870
+}

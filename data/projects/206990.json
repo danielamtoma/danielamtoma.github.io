@@ -1,0 +1,23 @@
+{
+    "rcn": "206990",
+    "acronym": "BrainDyn",
+    "topics": "ERC-2016-STG",
+    "title": "Tracking information flow in the brain: A unified and general framework for dynamic communication in brain networks",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "The brain is composed of a set of areas specialized in specific computations whose outputs need to be transferred to other specialized areas for cognition to emerge.  To account for context-dependent behaviors, the information has to be flexibly routed through the fixed anatomy of the brain. The aim of my proposal is to test a general framework for flexible communication between brain areas based on nested oscillations which I recently developed.  The general idea is that internally-driven slow oscillations (<20Hz) either set-up or prevent the communication between brain areas. Stimulus-driven gamma oscillations (>30Hz), nested in the slow oscillations, can then be directed to task-relevant areas of the network.  I plan to use a multimodal, multi-scale and transversal (human and monkey) approach in experiments manipulating visual processing, attention and memory to test core predictions of my framework. The theoretical approach and the methodological development used in my project will provide the basis for future fundamental and clinical research.",
+    "totalCost": "1333718",
+    "ecMaxContribution": "1333718",
+    "coordinator": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 1333718
+        }
+    },
+    "calculatedTotalContribution": 1333718
+}

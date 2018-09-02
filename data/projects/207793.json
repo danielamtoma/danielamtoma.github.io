@@ -1,0 +1,28 @@
+{
+    "rcn": "207793",
+    "acronym": "RoSTBiDFramework",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Optimised Framework based on Rough Set Theory for Big Data Pre-processing in Certain and Imprecise Contexts",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2019",
+    "objective": "'Over the last decades, the amount of data has increased in an unprecedented rate, leading to a new terminology: 'Big Data'. Big data are specified by their Volume, Variety, Velocity and by their Veracity/Imprecision. Based on these 4V specificities, it has become difficult to quickly acquire the most useful information from the huge amount of data at hand. Thus, it is necessary to perform data (pre-)processing as a first step.  In spite of the existence of  many techniques  for this task, most of the state-of-the-art methods require additional information  for thresholding and are neither able to deal with the big data veracity aspect nor with their computational requirements. This project's overarching aim is to fill these major research gaps with an optimised framework for big data pre-processing in certain and imprecise contexts. Our approach is based on Rough Set Theory (RST) for data pre-processing and Randomised Search Heuristics for optimisation and will be implemented under the Spark MapReduce model.\n\nThe project combines the expertise of the experienced researcher Dr Zaineb Chelly Dagdia in machine learning, rough set theory and information extraction with the knowledge in optimisation and randomised search heuristics of the supervisor Dr Christine Zarges at the University of Birmingham (UoB). Further expertise is provided by internal and external collaborators from academic and non-academic institutions, namely Prof Tino (UoB), Prof Merelo (University of Granada), Prof Lebbah (University of Paris 13) and Philippe Barra (Arrow Group). The involvement of Arrow Group, an SME based in France specialised in Big data, Banking, Finance & Insurance is of particular importance to ensure that real-world requirements are met throughout the development of the framework.'",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "ABERYSTWYTH UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "THE UNIVERSITY OF BIRMINGHAM",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 0
+        },
+        "999853012": {
+            "orgId": "999853012",
+            "orgName": "ABERYSTWYTH UNIVERSITY",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

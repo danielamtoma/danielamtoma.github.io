@@ -1,0 +1,28 @@
+{
+    "rcn": "207704",
+    "acronym": "TR4EMACS",
+    "topics": "JTI-CS2-2016-CFP03-AIR-02-17",
+    "title": "Flexible Test Rig of Aircraft Control Surfaces powered by EMAs",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2020",
+    "objective": "The objective of this project is the design, manufacture and power on of a flexible and complete test rig for the on ground complete evaluation and validation of electromechanical actuators (EMA) and corresponding control units that will equip the control surfaces of the wings of the Clean Sky 2 Regional FTB2 demonstrator (A/C). The test rig will allow an on ground complete testing under realistic flight conditions, in terms of mechanical performance, performance of EMA control systems, and EMA electrical consumption and its impact in the A/C electrical network. Additionally for the aileron, the impacts of the combined actuation EMA/HA will be considered. Test rig will be composed of three double test benches (left and right wings) to target every A/C control surface (aileron, spoiler, flap-tab, and winglet tab). Flap and winglet tabs EMAs will share the same test bench. Test benches and control system will be designed in a modular way to ease their integration into a complete test rig. Two operation modes will be implemented to maximize the number of testing analysis. In the stand-alone mode, test benches will be connected to industrial power supplies (270 VDV and 28 VDC). In the integrated mode, the test rig will be connected to a representative and existing A/C electrical generation and distribution rig. The control system will generate representative equivalent antagonist loads corresponding to real flight conditions. In integrated model, the control system will have the capability of implementing A/C model simulation or receive corresponding load parameters from external A/C model simulations. Antagonist loads will be applied by means of a rig of hydraulic servo-actuators connected to an existing hydraulic supply. Mechanical links and interfaces will be representative of the real A/C equipment. A complete documentation (user manuals, electrical drawings, mechanical designs, open software code, etc.) will be also delivered to the topic manager.",
+    "totalCost": "509583,75",
+    "ecMaxContribution": "509583,75",
+    "coordinator": "CENTRO DE ENSAYOS Y ANALISIS CETEST SL",
+    "coordinatorCountry": "ES",
+    "participants": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+    "participantCountries": "ES",
+    "projectParticipants": {
+        "964696235": {
+            "orgId": "964696235",
+            "orgName": "CENTRO DE ENSAYOS Y ANALISIS CETEST SL",
+            "ecContrib": 261868
+        },
+        "999605662": {
+            "orgId": "999605662",
+            "orgName": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+            "ecContrib": 247716
+        }
+    },
+    "calculatedTotalContribution": 509584
+}

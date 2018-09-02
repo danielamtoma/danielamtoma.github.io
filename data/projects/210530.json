@@ -1,0 +1,313 @@
+{
+    "rcn": "210530",
+    "acronym": "AutoDrive",
+    "topics": "ECSEL-2016-1",
+    "title": "Advancing fail-aware, fail-safe, and fail-operational electronic components, systems, and architectures for fully automated driving to make future mobility safer, affordable, and end-user acceptable.",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "Automated driving is a disruptive technology which opens the door to future multi-billion markets providing business opportunities to value chains in automotive and semiconductor industry.The European industry has leading competitive strength in the development and manufacturing of highly reliable electro-mechanical systems. In order to preserve this capability Europe needs to setup European standards for high level control such as real-time computing or big data processing. In order to respond on the global challenge AutoDrive has gathered Europeís leading semiconductor companies, suppliers, OEMs, and research institutes committed to create a pan-European eco-system, which has the critical mass to initiate standards and provides the components and subsystems for automated driving. Currently, even the most sophisticated vehicle automation technology on the road is not able to surpass human driving capabilities ñ especially considering context awareness in any situation. Moreover, there is no common agreement on quantifiable dependability measures which hardware and embedded software have to achieve to allow safe automated driving for SAE Levels 3-5. AutoDrive aims for the design of (i) fail-aware (self-diagnostics), (ii) fail-safe, (iii) fail-operational (HW and SW redundancy) electronic components and systems architecture that enable the introduction of automated driving in all car categories. AutoDrive results will significantly contribute to safer and more efficient mobility. It will raise end-user acceptance and comfort by supporting drivers in highly challenging situations (active safety) as well as in regular driving situations. Combining both will reduce the number of road fatalities especially in rural scenarios and under adverse weather conditions. AutoDrive will contribute to Europeís Vision Zero and to improved efficiency. This will sustain Leadership and even grow the market position of all AutoDrive partners.",
+    "totalCost": "65100049,17",
+    "ecMaxContribution": "16250000",
+    "coordinator": "INFINEON TECHNOLOGIES AG",
+    "coordinatorCountry": "DE",
+    "participants": "Infineon Technologies Romania and CO. Societate in Comandita Simpla;GEORGII KOBOLD GMBH & CO. KG;MURATA ELECTRONICS OY;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;TECHNISCHE UNIVERSITAET GRAZ;OKMETIC OY;UAB METIS BALTIC;INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE INCORPORATED;INFINEON TECHNOLOGIES AUSTRIA  AG;KUNGLIGA TEKNISKA HOEGSKOLAN;IDEAS & MOTION SRL;XENOMATIX;ROBERT BOSCH GMBH;QRTECH AKTIEBOLAG;VAERSTE AS;FORSCHUNGSZENTRUM JULICH GMBH;CENTRO RICERCHE FIAT SCPA;STIFTELSEN SINTEF;Teknologian tutkimuskeskus VTT Oy;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;FUNDACION TECNALIA RESEARCH & INNOVATION;NXTECH AS;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;ON SEMICONDUCTOR BELGIUM BVBA;COMLIGHT AS;JAC ITALY DESIGN CENTER SRL;VYSOKE UCENI TECHNICKE V BRNE;SINTEF AS;DAIMLER AG;OSTBAYERISCHE TECHNISCHE HOCHSCHULEAMBERG-WEIDEN;Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH;UNIVERSITA DI PISA;TECHNISCHE UNIVERSITAT DORTMUND;UNIVERSIDAD DE ALCALA;VDL ENABLING TRANSPORT SOLUTIONS BV;POLITECNICO DI TORINO;LANGE RESEARCH AIRCRAFT GMBH;AVL LIST GMBH;KROMBERG & SCHUBERT GMBH & CO KG KABEL-AUTOMOBILTECHNIK;MICROELETRONICA MASER SL;POLITECNICO DI MILANO;TTTECH COMPUTERTECHNIK AG;HELIOX BV;ZF FRIEDRICHSHAFEN AG;ELEKTRONIKAS UN DATORZINATNU INSTITUTS;VILNIAUS GEDIMINO TECHNIKOS UNIVERSITETAS;FLANDERS MAKE VZW;TECHNISCHE UNIVERSITEIT EINDHOVEN;STMICROELECTRONICS SRL;VI-GRADE SRL;TENNECO AUTOMOTIVE EUROPE BVBA;AVL SOFTWARE AND FUNCTIONS GMBH;MAGNETI MARELLI S.P.A.;FEV EUROPE GMBH;AYUNTAMIENTO DE MALAGA;INFINEON TECHNOLOGIES DRESDEN GMBH;IRIZAR S COOP;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "RO;DE;FI;AT;LT;TW;SE;IT;BE;NO;ES;CZ;NL;LV",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 311262
+        },
+        "999978918": {
+            "orgId": "999978918",
+            "orgName": "INFINEON TECHNOLOGIES AG",
+            "ecContrib": 1722563
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 531876
+        },
+        "918007807": {
+            "orgId": "918007807",
+            "orgName": "VDL ENABLING TRANSPORT SOLUTIONS BV",
+            "ecContrib": 201892
+        },
+        "951655458": {
+            "orgId": "951655458",
+            "orgName": "TENNECO AUTOMOTIVE EUROPE BVBA",
+            "ecContrib": 465150
+        },
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 96046
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 4069
+        },
+        "968991589": {
+            "orgId": "968991589",
+            "orgName": "UAB METIS BALTIC",
+            "ecContrib": 141375
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 396042
+        },
+        "999709064": {
+            "orgId": "999709064",
+            "orgName": "DAIMLER AG",
+            "ecContrib": 203759
+        },
+        "988428061": {
+            "orgId": "988428061",
+            "orgName": "OKMETIC OY",
+            "ecContrib": 113201
+        },
+        "910945140": {
+            "orgId": "910945140",
+            "orgName": "SINTEF AS",
+            "ecContrib": 223520
+        },
+        "996719524": {
+            "orgId": "996719524",
+            "orgName": "ON SEMICONDUCTOR BELGIUM BVBA",
+            "ecContrib": 470151
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 75649
+        },
+        "998417800": {
+            "orgId": "998417800",
+            "orgName": "MICROELETRONICA MASER SL",
+            "ecContrib": 129750
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 365255
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 157820
+        },
+        "955248338": {
+            "orgId": "955248338",
+            "orgName": "QRTECH AKTIEBOLAG",
+            "ecContrib": 220137
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 0
+        },
+        "999943901": {
+            "orgId": "999943901",
+            "orgName": "MURATA ELECTRONICS OY",
+            "ecContrib": 190002
+        },
+        "997829883": {
+            "orgId": "997829883",
+            "orgName": "ELEKTRONIKAS UN DATORZINATNU INSTITUTS",
+            "ecContrib": 85918
+        },
+        "938094179": {
+            "orgId": "938094179",
+            "orgName": "HELIOX BV",
+            "ecContrib": 252479
+        },
+        "983310438": {
+            "orgId": "983310438",
+            "orgName": "AYUNTAMIENTO DE MALAGA",
+            "ecContrib": 79362
+        },
+        "917299028": {
+            "orgId": "917299028",
+            "orgName": "GEORGII KOBOLD GMBH & CO. KG",
+            "ecContrib": 105862
+        },
+        "953813126": {
+            "orgId": "953813126",
+            "orgName": "NXTECH AS",
+            "ecContrib": 144670
+        },
+        "950600680": {
+            "orgId": "950600680",
+            "orgName": "IRIZAR S COOP",
+            "ecContrib": 482500
+        },
+        "937089259": {
+            "orgId": "937089259",
+            "orgName": "VI-GRADE SRL",
+            "ecContrib": 134412
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 242638
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 411736
+        },
+        "997885852": {
+            "orgId": "997885852",
+            "orgName": "Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH",
+            "ecContrib": 319355
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 100077
+        },
+        "999848453": {
+            "orgId": "999848453",
+            "orgName": "TECHNISCHE UNIVERSITAT DORTMUND",
+            "ecContrib": 82679
+        },
+        "999647857": {
+            "orgId": "999647857",
+            "orgName": "VILNIAUS GEDIMINO TECHNIKOS UNIVERSITETAS",
+            "ecContrib": 76749
+        },
+        "996588380": {
+            "orgId": "996588380",
+            "orgName": "Infineon Technologies Romania and CO. Societate in Comandita Simpla",
+            "ecContrib": 0
+        },
+        "949777732": {
+            "orgId": "949777732",
+            "orgName": "LANGE RESEARCH AIRCRAFT GMBH",
+            "ecContrib": 457198
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 1126341
+        },
+        "937262695": {
+            "orgId": "937262695",
+            "orgName": "JAC ITALY DESIGN CENTER SRL",
+            "ecContrib": 337719
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 86681
+        },
+        "999835746": {
+            "orgId": "999835746",
+            "orgName": "UNIVERSIDAD DE ALCALA",
+            "ecContrib": 116220
+        },
+        "996701288": {
+            "orgId": "996701288",
+            "orgName": "INFINEON TECHNOLOGIES DRESDEN GMBH",
+            "ecContrib": 334915
+        },
+        "937210121": {
+            "orgId": "937210121",
+            "orgName": "VAERSTE AS",
+            "ecContrib": 48299
+        },
+        "989177871": {
+            "orgId": "989177871",
+            "orgName": "ZF FRIEDRICHSHAFEN AG",
+            "ecContrib": 579269
+        },
+        "999652416": {
+            "orgId": "999652416",
+            "orgName": "OSTBAYERISCHE TECHNISCHE HOCHSCHULEAMBERG-WEIDEN",
+            "ecContrib": 179550
+        },
+        "999432808": {
+            "orgId": "999432808",
+            "orgName": "FEV EUROPE GMBH",
+            "ecContrib": 199443
+        },
+        "922739855": {
+            "orgId": "922739855",
+            "orgName": "XENOMATIX",
+            "ecContrib": 226787
+        },
+        "992251995": {
+            "orgId": "992251995",
+            "orgName": "INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE INCORPORATED",
+            "ecContrib": 0
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 582150
+        },
+        "995531856": {
+            "orgId": "995531856",
+            "orgName": "MAGNETI MARELLI S.P.A.",
+            "ecContrib": 388659
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 334131
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 361744
+        },
+        "988038024": {
+            "orgId": "988038024",
+            "orgName": "AVL SOFTWARE AND FUNCTIONS GMBH",
+            "ecContrib": 559291
+        },
+        "937202167": {
+            "orgId": "937202167",
+            "orgName": "COMLIGHT AS",
+            "ecContrib": 71366
+        },
+        "999873091": {
+            "orgId": "999873091",
+            "orgName": "VYSOKE UCENI TECHNICKE V BRNE",
+            "ecContrib": 300125
+        },
+        "996435896": {
+            "orgId": "996435896",
+            "orgName": "FLANDERS MAKE VZW",
+            "ecContrib": 137926
+        },
+        "999791029": {
+            "orgId": "999791029",
+            "orgName": "TTTECH COMPUTERTECHNIK AG",
+            "ecContrib": 225638
+        },
+        "951805323": {
+            "orgId": "951805323",
+            "orgName": "IDEAS & MOTION SRL",
+            "ecContrib": 118371
+        },
+        "999705087": {
+            "orgId": "999705087",
+            "orgName": "INFINEON TECHNOLOGIES AUSTRIA  AG",
+            "ecContrib": 509519
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 189822
+        },
+        "920312818": {
+            "orgId": "920312818",
+            "orgName": "KROMBERG & SCHUBERT GMBH & CO KG KABEL-AUTOMOBILTECHNIK",
+            "ecContrib": 240879
+        }
+    },
+    "calculatedTotalContribution": 16249999
+}

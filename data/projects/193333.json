@@ -1,0 +1,53 @@
+{
+    "rcn": "193333",
+    "acronym": "DexROV",
+    "topics": "BG-06-2014",
+    "title": "Dexterous ROV: effective dexterous ROV operations in presence of communication latencies.",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2018",
+    "objective": "Underwater operations (e.g. oil industry) are demanding and costly activities for which ROV based setups are often deployed in addition to deep divers ñ contributing to operations risks and costs cutting.\nHowever the operation of a ROV requires significant off-shore dedicated manpower ñ such a setup typically requires a crew consisting of: (1) an intendant, (2) an operator, and (3) a navigator. This is a baseline, and extra staffing is often provisioned. Furthermore, customers representatives often wish to be physically present at the off-shore location in order to advise on, or to observe the course of the operations. Associated costs are high.\nIn order to reduce the burden of operations, DexROV will work out more cost effective and time efficient ROV operations, where manned support is in a large extent delocalized onshore (i.e. from a ROV control center), possibly at a large distance from the actual operations - thus with latencies in the communication. As a main strategy to mitigate them, DexROV will develop a real time simulation environment to accommodate operatorsí requests on the onshore side with no delays. The simulated environment will exploit cm accuracy 3D models of the environment built online by the ROV, using data acquired with underwater sensors (3D sonar and vision based). A dedicated cognitive engine will analyse userís control requests as done in the simulated environment, and will turn them into primitives that the ROV can execute autonomously in the real environment, despite the communication latencies.\nEffective user interfaces will be developed for dexterous manipulation, including a double advanced arm and hand force feedback exoskeleton. The ROV will be equipped with a pair of new force sensing capable manipulators and dexterous end-effectors: they will be integrated within a modular skid.\nThe outcomes of the project will be integrated and evaluated in a series of tests and evaluation campaigns, culminating with a realistic offshore trial.",
+    "totalCost": "5336006,25",
+    "ecMaxContribution": "4631182,5",
+    "coordinator": "SPACE APPLICATIONS SERVICES NV",
+    "coordinatorCountry": "BE",
+    "participants": "GRAAL TECH SRL;JACOBS UNIVERSITY BREMEN GGMBH;FONDATION DE L'INSTITUT DE RECHERCHE IDIAP;UNIVERSITA DEGLI STUDI DI GENOVA;COMPAGNIE MARITIME D EXPERTISES SA;EJR-QUARTZ BV",
+    "participantCountries": "IT;DE;CH;FR;NL",
+    "projectParticipants": {
+        "937786786": {
+            "orgId": "937786786",
+            "orgName": "EJR-QUARTZ BV",
+            "ecContrib": 118320
+        },
+        "999897147": {
+            "orgId": "999897147",
+            "orgName": "JACOBS UNIVERSITY BREMEN GGMBH",
+            "ecContrib": 652925
+        },
+        "999976687": {
+            "orgId": "999976687",
+            "orgName": "UNIVERSITA DEGLI STUDI DI GENOVA",
+            "ecContrib": 636875
+        },
+        "999644074": {
+            "orgId": "999644074",
+            "orgName": "FONDATION DE L'INSTITUT DE RECHERCHE IDIAP",
+            "ecContrib": 0
+        },
+        "999757467": {
+            "orgId": "999757467",
+            "orgName": "SPACE APPLICATIONS SERVICES NV",
+            "ecContrib": 1438438
+        },
+        "960432406": {
+            "orgId": "960432406",
+            "orgName": "COMPAGNIE MARITIME D EXPERTISES SA",
+            "ecContrib": 787125
+        },
+        "998374053": {
+            "orgId": "998374053",
+            "orgName": "GRAAL TECH SRL",
+            "ecContrib": 997500
+        }
+    },
+    "calculatedTotalContribution": 4631183
+}

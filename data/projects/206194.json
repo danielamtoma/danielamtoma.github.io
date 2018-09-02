@@ -1,0 +1,63 @@
+{
+    "rcn": "206194",
+    "acronym": "PhasmaFOOD",
+    "topics": "ICT-03-2016",
+    "title": "Portable photonic miniaturised smart system for on-the-spot food quality sensing",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The main objective of the project is to design and implement a parameterized, knowledge-based, multi-target food sensitive mini-portable system, with heterogeneous micro-scale photonics for on-the-spot food quality sensing and shelf-life prediction. In particular, the miniaturized smart integrated system will be able to detect food hazards, spoilage (incl. early sign of spoilage) and food fraud through the combined bio-chemical data analysis and additionally will be able to perform food components/additives analysis, food identification and prediction of food shelf-life.\nThe following use case will be addressed during the project: Use case 1: Detection of mycotoxins in various grains and nuts. Aflatoxins detection. A simple, convenient ultraviolet test makes it possible to detect the possible presence of aflatoxin. Use case 2: Detection of early sign of spoilage and spoilage in fruits, vegetables, meat, fish: combined with estimation on product expiration date. Use case 3: Detection of food fraud: Adulteration of alcoholic beverages, oil, milk and meat. 3 sensor devices will be integrated in the miniaturised smart sensor node: i) a MEMS-based near IR spectrometer (950-1900 nm), ii) a UV-VIS spectrometer (450-900 nm) and iii) a micro-camera. Moreover 3 light sources will also be integrated to support the sensing functionality: i) UV-LED, ii) white LED and iii) a miniaturised IR emitter. Smart signal processing of the spectrum images will be performed by an advanced microcontroller, integrated in the sensing device.  The data will be communicated to a smartphone device, where the spectroscopy analysis will take place with the help of a cloud-base application connected to a reference database. Advanced detection algorithms will be deployed both in the level of cloud and the smartphone application. PhasmaFOOD system will enable common consumers for on the spot food quality sensing and shelf-life prediction.",
+    "totalCost": "3095825",
+    "ecMaxContribution": "3095825",
+    "coordinator": "INTRASOFT INTERNATIONAL SA",
+    "coordinatorCountry": "BE",
+    "participants": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA;WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;FONDACIJA VIZLORE LABS;CONSIGLIO NAZIONALE DELLE RICERCHE;AGRICULTURAL UNIVERSITY OF ATHENS;FREIE UNIVERSITAET BERLIN;STICHTING WAGENINGEN RESEARCH",
+    "participantCountries": "IT;EL;DE;RS;NL",
+    "projectParticipants": {
+        "999702371": {
+            "orgId": "999702371",
+            "orgName": "INTRASOFT INTERNATIONAL SA",
+            "ecContrib": 506250
+        },
+        "999844864": {
+            "orgId": "999844864",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA",
+            "ecContrib": 208750
+        },
+        "999872218": {
+            "orgId": "999872218",
+            "orgName": "AGRICULTURAL UNIVERSITY OF ATHENS",
+            "ecContrib": 261750
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 209688
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 555952
+        },
+        "929717647": {
+            "orgId": "929717647",
+            "orgName": "FONDACIJA VIZLORE LABS",
+            "ecContrib": 319375
+        },
+        "999547365": {
+            "orgId": "999547365",
+            "orgName": "STICHTING WAGENINGEN RESEARCH",
+            "ecContrib": 351125
+        },
+        "952269953": {
+            "orgId": "952269953",
+            "orgName": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE",
+            "ecContrib": 435000
+        },
+        "999994826": {
+            "orgId": "999994826",
+            "orgName": "FREIE UNIVERSITAET BERLIN",
+            "ecContrib": 247935
+        }
+    },
+    "calculatedTotalContribution": 3095825
+}

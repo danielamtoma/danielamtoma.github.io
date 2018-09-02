@@ -1,0 +1,78 @@
+{
+    "rcn": "194142",
+    "acronym": "INTO-CPS",
+    "topics": "ICT-01-2014",
+    "title": "INtegrated TOol chain for model-based design of CPSs",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The aim of the INTO-CPS project is to create an integrated tool chain for comprehensive model-based design of Cyber-Physical Systems (CPSs). The tool chain will support the multidisciplinary, collaborative modelling of CPSs from requirements, through design, down to realisation in hardware and software. This will enable traceability at all stages of the development.\nINTO-CPS will support the holistic modelling of CPSs, allowing system models to be built and analysed that would otherwise not be possible using standalone tools. We will integrate existing industry-strength tools with high Technology Readiness Levels (TRL 6ñ9) in their application domains. The solution will be based centrally around Functional Mockup Interface (FMI)-compatible co-simulation. The project focuses on the pragmatic integration of these tools, making extensions in areas where a need has been recognised. The tool chain will be underpinned by a well-founded semantic foundations that ensures the results of analysis can be trusted.\nThe tool chain will provide powerful analysis techniques for CPSs, including connection to SysML; generation and static checking of FMI interfaces; model checking; Hardware-in-the-Loop (HiL) and Software-in-the-Loop (SiL) simulation, supported by code generation. The tool chain will allow for both Test Automation (TA) and Design Space Exploration (DSE) of CPSs. The INTO-CPS technologies will be accompanied by a comprehensive set of method guidelines that describe how to adopt the INTO-CPS approach, lowering entry barriers for CPS development. The tool chain will be tested with case studies in railways, agriculture, building and automotive.\nThe consortium has 4 academic and 7 industrial partners. The industrial partners comprise both tool vendors and case study owners. The INTO-CPS technology will enable experimenting with design alternatives enabling radical innovation where the overall concept is right first time, even when hardware prototypes does not yet exists.",
+    "totalCost": "7956805,25",
+    "ecMaxContribution": "7956804,25",
+    "coordinator": "AARHUS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "LINKOPINGS UNIVERSITET;SOFTEAM;KONGSKILDE INDUSTRIES AS;AGRO INTELLIGENCE APS;UNIVERSITY OF NEWCASTLE UPON TYNE;VERIFIED SYSTEMS INTERNATIONAL GMBH;UNIVERSITY OF YORK;TWT GMBH SCIENCE & INNOVATION;CLEARSY SAS;CONTROLLAB PRODUCTS B.V.;UNITED TECHNOLOGIES RESEARCH CENTRE IRELAND, LIMITED",
+    "participantCountries": "SE;FR;DK;UK;DE;NL;IE",
+    "projectParticipants": {
+        "888897696": {
+            "orgId": "888897696",
+            "orgName": "LINKOPINGS UNIVERSITET",
+            "ecContrib": 691901
+        },
+        "926270364": {
+            "orgId": "926270364",
+            "orgName": "AGRO INTELLIGENCE APS",
+            "ecContrib": 418635
+        },
+        "999916062": {
+            "orgId": "999916062",
+            "orgName": "CLEARSY SAS",
+            "ecContrib": 572250
+        },
+        "999771823": {
+            "orgId": "999771823",
+            "orgName": "TWT GMBH SCIENCE & INNOVATION",
+            "ecContrib": 859750
+        },
+        "969261734": {
+            "orgId": "969261734",
+            "orgName": "VERIFIED SYSTEMS INTERNATIONAL GMBH",
+            "ecContrib": 758711
+        },
+        "999978336": {
+            "orgId": "999978336",
+            "orgName": "UNIVERSITY OF YORK",
+            "ecContrib": 951158
+        },
+        "999779001": {
+            "orgId": "999779001",
+            "orgName": "SOFTEAM",
+            "ecContrib": 738500
+        },
+        "992302047": {
+            "orgId": "992302047",
+            "orgName": "CONTROLLAB PRODUCTS B.V.",
+            "ecContrib": 567544
+        },
+        "999985417": {
+            "orgId": "999985417",
+            "orgName": "UNIVERSITY OF NEWCASTLE UPON TYNE",
+            "ecContrib": 717821
+        },
+        "952590441": {
+            "orgId": "952590441",
+            "orgName": "KONGSKILDE INDUSTRIES AS",
+            "ecContrib": 0
+        },
+        "971136162": {
+            "orgId": "971136162",
+            "orgName": "UNITED TECHNOLOGIES RESEARCH CENTRE IRELAND, LIMITED",
+            "ecContrib": 577501
+        },
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 1103034
+        }
+    },
+    "calculatedTotalContribution": 7956805
+}

@@ -1,0 +1,48 @@
+{
+    "rcn": "213193",
+    "acronym": "EVOAtm",
+    "topics": "SESAR-ER3-06-2016",
+    "title": "Evolutionary ATM. A modelling framework to assess the impact of ATM evolutions",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2019",
+    "objective": "The overall goal of EvoATM is to build a framework to better understand and model how architectural and design choices influence the ATM system and its behaviors, and vice versa how the expected ATM overall performances drive the design choices.\n The EvoATM project will model a specific part of ATM system combining the agent based paradigms with evolutionary computing. Specifically it will  define a solver which finds an optimal tuning of the design of new/modified ATM components to accomplish the expected performances. It will adopt sensitivity analysis strategies in order to understand the influence of ATM components parameters on the behaviours at component performances level (behaviours of other components) and at whole system performances level. It will test the framework by using known scenarios and quantitative indicators to validate its effectiveness in terms of: change impact assessment, support to design and support to strategic thinking. \nThe project will provide methodological guidelines to extend the proposed frameowrk to any part of ATM to be modelled.\nThe EvoATM consortium involves a multidisciplinary group of experts representing the different expertise classes: complex systems modelling, evolutionary computing, ATM modelling, human aspects, aerospace engineering, verification and validation. The  chosen Advisory Board will guarantee the coordination/dialogue with the impacted stakeholders domains: ASDA (Association for the Scientific Development of ATM in Europe),ENAV (Italian air navigation service provider), EUROCONTROL, LEONARDO (Italian industry).",
+    "totalCost": "968880",
+    "ecMaxContribution": "968880",
+    "coordinator": "CENTRO ITALIANO RICERCHE AEROSPAZIALI SCPA",
+    "coordinatorCountry": "IT",
+    "participants": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.;ASLOGIC 2011, S.L.;UNIVERSITAT AUTONOMA DE BARCELONA;PROJECTO, EMPREENDIMENTOS, DESENVOLVIMENTO E EQUIPAMENTOS CIENTIFICOS E DE ENGENHARIA;INSTITUTE FOR SUSTAINABLE SOCIETY AND INNOVATION",
+    "participantCountries": "ES;PT;IT",
+    "projectParticipants": {
+        "999986484": {
+            "orgId": "999986484",
+            "orgName": "UNIVERSITAT AUTONOMA DE BARCELONA",
+            "ecContrib": 151250
+        },
+        "917201349": {
+            "orgId": "917201349",
+            "orgName": "INSTITUTE FOR SUSTAINABLE SOCIETY AND INNOVATION",
+            "ecContrib": 166625
+        },
+        "999789768": {
+            "orgId": "999789768",
+            "orgName": "CENTRO ITALIANO RICERCHE AEROSPAZIALI SCPA",
+            "ecContrib": 234812
+        },
+        "997542181": {
+            "orgId": "997542181",
+            "orgName": "PROJECTO, EMPREENDIMENTOS, DESENVOLVIMENTO E EQUIPAMENTOS CIENTIFICOS E DE ENGENHARIA",
+            "ecContrib": 128125
+        },
+        "997605619": {
+            "orgId": "997605619",
+            "orgName": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+            "ecContrib": 149318
+        },
+        "937648755": {
+            "orgId": "937648755",
+            "orgName": "ASLOGIC 2011, S.L.",
+            "ecContrib": 138750
+        }
+    },
+    "calculatedTotalContribution": 968880
+}

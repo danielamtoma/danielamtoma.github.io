@@ -1,0 +1,93 @@
+{
+    "rcn": "211061",
+    "acronym": "5G-MoNArch",
+    "topics": "ICT-07-2017",
+    "title": "5G Mobile Network Architecture for diverse services, use cases, and applications in 5G and beyond",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2019",
+    "objective": "Motivation: The expected diversity of services and use cases in 5G requires a flexible, adaptable, and programmable architecture. While the design of such an architecture has been addressed by 5G-PPP Phase 1 at a conceptual level, it must be brought into practice in Phase 2. To this end, 5G-MoNArch will (i) evolve 5G-PPP Phase 1 concepts to a fully-fledged architecture, (ii) develop prototype implementations and (iii) apply these prototypes to representative use cases.\n\nApproach: 5G-MoNArch architecture design will combine Phase 1 concepts (such as virtualisation, slicing and orchestration of access and core functions) with three enabling innovations that fill gaps not ad-dressed in Phase 1: (i) inter-slice control and cross-domain management, to enable the coordination across slices and domains, (ii) experiment-driven optimization, to leverage experimental results to design highly performing algorithms, and (iii) cloud-enabled protocol stack, to gain flexibility in the orchestration of virtualised functions.\n\nTestbeds: The devised architecture will be deployed in two testbeds: (i) the sea port, representative of a vertical industry use case, and (ii) the touristic city, representative of a mobile operator deployment. For each testbed, 5G-MoNArch will instantiate the architecture and complement it with a use case specific functionality ñ the two functional innovations of 5G-MoNArch: (i) resilience and security, needed to meet the sea port requirements, and (ii) resource elasticity, to make an efficient use of the resources in the touristic city. \n\nImpact: 5G-MoNArch has a very high potential for commercial impact, including enhanced products (e.g., orchestrators or edge-cloud RAN), novel services (enabled by network slicing) and opportunities for new market players. To exploit this potential, 5G-MoNArch has elaborated a thorough and realistic innovation plan that includes patents and standards.",
+    "totalCost": "7681088,75",
+    "ecMaxContribution": "7681088,75",
+    "coordinator": "NOKIA SOLUTIONS AND NETWORKS MANAGEMENT INTERNATIONAL GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "HAMBURG PORT AUTHORITY;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;HUAWEI TECHNOLOGIES DUESSELDORF GMBH;ATOS SPAIN SA;TECHNISCHE UNIVERSITAET KAISERSLAUTERN;NOMOR RESEARCH GMBH;REAL WIRELESS LIMITED;NOKIA BELL LABS FRANCE;SAMSUNG ELECTRONICS (UK) LIMITED;TELECOM ITALIA SPA;DEUTSCHE TELEKOM AG;UNIVERSIDAD CARLOS III DE MADRID;MOBICS TELECOMMUNICATION AND CONSULTING SERVICES SA",
+    "participantCountries": "DE;EL;FR;ES;UK;IT",
+    "projectParticipants": {
+        "999936335": {
+            "orgId": "999936335",
+            "orgName": "DEUTSCHE TELEKOM AG",
+            "ecContrib": 769304
+        },
+        "999765712": {
+            "orgId": "999765712",
+            "orgName": "SAMSUNG ELECTRONICS (UK) LIMITED",
+            "ecContrib": 575938
+        },
+        "999666481": {
+            "orgId": "999666481",
+            "orgName": "NOMOR RESEARCH GMBH",
+            "ecContrib": 460452
+        },
+        "998160265": {
+            "orgId": "998160265",
+            "orgName": "MOBICS TELECOMMUNICATION AND CONSULTING SERVICES SA",
+            "ecContrib": 269854
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 428959
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 472500
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 560634
+        },
+        "999885895": {
+            "orgId": "999885895",
+            "orgName": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+            "ecContrib": 307875
+        },
+        "996377696": {
+            "orgId": "996377696",
+            "orgName": "NOKIA BELL LABS FRANCE",
+            "ecContrib": 337620
+        },
+        "996525427": {
+            "orgId": "996525427",
+            "orgName": "HAMBURG PORT AUTHORITY",
+            "ecContrib": 308334
+        },
+        "953152168": {
+            "orgId": "953152168",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS MANAGEMENT INTERNATIONAL GMBH",
+            "ecContrib": 0
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 340729
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 690771
+        },
+        "935339282": {
+            "orgId": "935339282",
+            "orgName": "REAL WIRELESS LIMITED",
+            "ecContrib": 571290
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 598229
+        }
+    },
+    "calculatedTotalContribution": 6692489
+}

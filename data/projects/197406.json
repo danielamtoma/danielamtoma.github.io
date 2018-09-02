@@ -1,0 +1,33 @@
+{
+    "rcn": "197406",
+    "acronym": "PALADIN",
+    "topics": "Space-SME-2015-1",
+    "title": "Plasma Antenna for secure LAnDIng and Navigation",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2015",
+    "objective": "The PALADIN antenna exploits the electronically reconfigurable features of several plasma discharges along with DSP\nalgorithms to create narrow beamwidth and multi-lobes radiation pattern. These features allows the PALADIN antenna to\nlock and track up to 4 navigation satellites (each lobe for a distinct satellite) to achieve higher signal to noise ratio, and to\ncreate nulls in the directions of electromagnetic interference including jamming, spoofing and multi-path reflections. Such\nfeatures can be proficiently adopted either on board of an aircraft or on the ground replacing GBAS reference antennas. In\nthe former case, the antenna can be embedded in the wing structure providing a drag-free solution, which can achieve better\naccuracy in position estimation thanks to the many GNSS satellites being tracked, and can  integrate different antenna into one solution thanks to the tuneable properties offered by plasma discharges. In the latter case, the antenna can be used in place of actual landing system reference antennas thanks to its null steering in the directions of interferences and jamming resistant operations.\nThe proposed study project PALADIN has the following high-level objectives:\n1) Technical Assessment of the technology addressing antenna design and simulation;\n2) Exploitation plan including commercial feasibility, business plan and preparation of Phase 2 activities.\nTechnical assessment will focus in the update of the existing simulation software for plasma antenna performance evaluation\nand the design of a Smart Plasma Antenna for secure landing and navigation operation. Technical assessment will also\ninclude the evaluation of critical technologies required for prototyping and industrialization.\nCommercial Feasibility and Business Plan will provide a preliminary market assessment and positioning of the expected\nproduct with specific regard to aviation and the preparation of phase 2 activities.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ALMA SISTEMI SRL",
+    "coordinatorCountry": "IT",
+    "participants": "LTG ELETTRONICA S.R.L.;TECHNOLOGY FOR PROPULSION AND INNOVATION SRL",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "938861643": {
+            "orgId": "938861643",
+            "orgName": "TECHNOLOGY FOR PROPULSION AND INNOVATION SRL",
+            "ecContrib": 0
+        },
+        "934852730": {
+            "orgId": "934852730",
+            "orgName": "LTG ELETTRONICA S.R.L.",
+            "ecContrib": 0
+        },
+        "952884254": {
+            "orgId": "952884254",
+            "orgName": "ALMA SISTEMI SRL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

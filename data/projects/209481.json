@@ -1,0 +1,43 @@
+{
+    "rcn": "209481",
+    "acronym": "MoNIfly",
+    "topics": "MG-1-4-2016-2017",
+    "title": "Mobile-Network Infrastructure for Cooperative Surveillance of low flying drones",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2020",
+    "objective": "The number of drones in commercial and recreational use is expected to grow significantly within the next years. Currently the most dynamic market is in low flying remotely piloted and autonomous aerial vehicles. In 2016 the European Aviation Safety Agency (EASA) has published three different categories of such drones: an open category, a specific category and a certified category. The MoNIfly project (Mobile-Network Infrastructure for Cooperative Surveillance of Low Flying Drones) targets the open and specific categories by proposing a drone traffic management system based on mobile network infrastructure. The main challenge will be the acceptance of low flying devices by the general public. Therefore innovative solutions must be found, developed and demonstrated to allow safe and society friendly as well as aviation-harmonized drone operations. The MoNIfly concept will enable applications with virtual barriers (so-called geo fence applications) that use static databases as well as high-dynamic update rates to support moving vehicles. This means that the risk of collisions of drones with static obstacles but also other drones or aircraft/helicopters will be greatly reduced. Additionally this concept will allow protection of privacy sensitive areas like private houses/gardens or even scenes of an accident or incident. Another area of operation could be the TV market where during sports events the target of interest (e.g. downhill skier or car racer) would be protected by a fast moving geo-fenced area. The MoNIfly consortium consists of a Mobile Infrastructure provider (Nokia), a drone manufacturer (Aerial Tronics Group), a drone operator (UAV International) and two universities (Royal Military Academy Brussels and TU Braunschweig) with excellent background in current air traffic management and drone operations. The project aims to develop the applications described above and will demonstrate their feasibility in a relevant environment. The goal is to enhance the technology readiness level (TRL) from 2 (technology concept formulated) to a TRL of 4 (technology validated in lab) or 5 (technology validated in relevant environment).",
+    "totalCost": "2021250",
+    "ecMaxContribution": "2021250",
+    "coordinator": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+    "coordinatorCountry": "DE",
+    "participants": "ECOLE ROYALE MILITAIRE - KONINKLIJKE MILITAIRE SCHOOL;HONEYWELL INTERNATIONAL SRO;AERIAL GROUP BV;NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG;UAV INTERNATIONAL BV",
+    "participantCountries": "BE;CZ;NL;DE",
+    "projectParticipants": {
+        "922594840": {
+            "orgId": "922594840",
+            "orgName": "AERIAL GROUP BV",
+            "ecContrib": 0
+        },
+        "923164521": {
+            "orgId": "923164521",
+            "orgName": "UAV INTERNATIONAL BV",
+            "ecContrib": 273500
+        },
+        "999831575": {
+            "orgId": "999831575",
+            "orgName": "ECOLE ROYALE MILITAIRE - KONINKLIJKE MILITAIRE SCHOOL",
+            "ecContrib": 298000
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 952000
+        },
+        "999940603": {
+            "orgId": "999940603",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1523500
+}

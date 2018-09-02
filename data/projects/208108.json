@@ -1,0 +1,23 @@
+{
+    "rcn": "208108",
+    "acronym": "SWORD",
+    "topics": "ERC-2016-COG",
+    "title": "Security Without Obscurity for Reliable Devices",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Cryptographic implementations are traditionally evaluated based on a trade-off between security and efficiency. However, when it comes to physical security against attacks exploiting side-channel leakages or fault insertions, this approach is limited by the difficulty to define the adversaries (e.g. their knowledge about the target implementation) and to specify sound physical assumptions. Quite naturally, the problem becomes even more challenging in contexts where implementations can be maliciously modified during design or fabrication via so-called hardware Trojans. To a large extent, these vulnerabilities echo the general challenge of restoring trust that is faced by cryptographic research in view of the recent Snowden revelations. In this context, we believe that the design of small components able to perform secure computations locally will be an important building block of future information systems. For this purpose, the SWORD project envisions a paradigm shift in embedded security, by adding trust as an essential element in the evaluation of physically secure objects. Our two main ingredients to reach this ambitious goal are a good separation between mathematics and physics, and improved transparency in security evaluations. That is, we want cryptographic implementations to rely on physical assumptions that can be empirically verified, in order to obtain sound security guarantees based on mathematical proofs or arguments. And we want to make the empirical verification of physical assumptions more transparent, by considering open source hardware and software. By allowing adversaries and evaluators to know implementation details, we expect to enable a better understanding of the fundamentals of physical security, therefore leading to improved security, efficiency and trust in the longer term. That is, we hope to establish security guarantees based on a good understanding of the physics, rather than the (relative) misunderstanding caused by closed systems.",
+    "totalCost": "1997661,34",
+    "ecMaxContribution": "1997661,34",
+    "coordinator": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 1997661
+        }
+    },
+    "calculatedTotalContribution": 1997661
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "207596",
+    "acronym": "POPSTAR",
+    "topics": "ERC-2016-STG",
+    "title": "Reasoning about Physical properties Of security Protocols with an Application To contactless Systems",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "The shrinking size of microprocessors as well as the ubiquity of wireless communication have led to the proliferation of portable computing devices with novel security requirements. Whereas traditional security protocols achieve their security goals relying solely on cryptographic primitives like  encryptions and hash functions, the protocols employed to secure these devices establish and rely in addition on properties of the physical world. \nFor instance, they may use, as  basic building blocks, protocols for ensuring physical proximity, secure localisation, or secure neighbourhood discovery.\n\nUnfortunately, we often hear about ill-conceived systems, and portable computing devices raise some serious concerns about privacy.To draw meaningful conclusions, the security analysis of these systems has to be done taking into account physical properties, such as transmission delay, network topology, and node positions. This contrasts sharply with standard models used to analyse traditional protocols.\n\nThe main objective of the POPSTAR project is to develop foundations and practical tools to analyse modern security protocols that establish and rely on physical properties. In particular, we will:\n- devise models and develop techniques to make possible a rigorous analysis of cryptographic protocols that establish and rely on physical properties;\n- develop foundations and practical tools for formally verifying security properties, as well as privacy properties that play a prominent role is many applications;\n- experiment the developed techniques for analysing the security of modern contactless systems.\n\nThe POPSTAR project will significantly advance the use of formal verification to contribute to the security analysis of protocols that rely on physical properties. This project is bold and ambitious, and answers the forthcoming expectation from consumers and citizens for high level of trust and confidence about contactless nomadic devices.",
+    "totalCost": "1499750",
+    "ecMaxContribution": "1499750",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1499750
+        }
+    },
+    "calculatedTotalContribution": 1499750
+}

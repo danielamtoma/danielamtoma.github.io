@@ -1,0 +1,33 @@
+{
+    "rcn": "207651",
+    "acronym": "ALC",
+    "topics": "JTI-CS2-2016-CFP03-LPA-03-07",
+    "title": "Aircraft Light Communication",
+    "startDate": "01/01/2017",
+    "endDate": "30/06/2021",
+    "objective": "The ambition of ALC is to show evidence that LiFi connection solutions can successfully address current RF transmission drawbacks and are mature enough to successfully operate connected devices in the highly demanding environment of a cockpit. The targeted breakthroughs to be reached are:\n- Interfacing an existing LiFi module to the aircraft server\n- Implementing the currently existing secure and robust LiFi connection used for offices into the severe environmental conditions of an aircraft\n- Reducing current consumption of the connected devices, to save battery and increase autonomy.\n\nAs compared to currently implemented solutions (e.g. WiFi, Bluetooth), ALC will demonstrate that LiFi is:\n- Fully secure for data transmission with no possible threat of malevolent action\n- Fully reliable with no risk of interference or propagation effects, fully compliant with normal conditions (e.g. sun or artificial lights, obstacles) and abnormal conditions (e.g. smoke) as well as  DO160-G compliant for power management \n\nThe project will therefore deliver, test and validate up to TRL5 applications integrating LiFi communication with: \n1/ A flight crew wireless audio headset integrating LiFi connection\n2/ An EFB tablet integrating LiFi connection to the A/C\n3/ A connected headset, gathering health monitoring and behaviour/motion signals\n4/ One or several other LiFi applications, to be identified by FACTEM and LUCIOM, replacing existing wired connections, or providing new services or functions\n\nFor each application, a comprehensive analysis of the impact of the proposed solution versus legacy wireless technology will be performed and quantitative and qualitative indicators will be used as TRL5 pass/fail criteria. \nThe solutions will be standard solutions, i.e. not LiFi proprietary.",
+    "totalCost": "1451812,86",
+    "ecMaxContribution": "1098771,63",
+    "coordinator": "FACTEM",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITE DE LIMOGES;PURELIFI LIMITED",
+    "participantCountries": "FR;UK",
+    "projectParticipants": {
+        "956566471": {
+            "orgId": "956566471",
+            "orgName": "PURELIFI LIMITED",
+            "ecContrib": 266484
+        },
+        "998267838": {
+            "orgId": "998267838",
+            "orgName": "UNIVERSITE DE LIMOGES",
+            "ecContrib": 275009
+        },
+        "919388117": {
+            "orgId": "919388117",
+            "orgName": "FACTEM",
+            "ecContrib": 557279
+        }
+    },
+    "calculatedTotalContribution": 1098772
+}

@@ -1,0 +1,63 @@
+{
+    "rcn": "194207",
+    "acronym": "SCISSOR",
+    "topics": "ICT-32-2014",
+    "title": "Security In trusted SCADA and smart-grids",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "In traditional industrial control systems and critical infrastructures, security was implicitly assumed by the reliance on proprietary technologies (security by obscurity), physical access protection and disconnection from the Internet. The massive move, in the last decade, towards open standards and IP connectivity, the growing integration of Internet of Things technologies, and the disruptiveness of targeted cyber-attacks, calls for novel, designed-in, cyber security means. Taking an holistic approach, SCISSOR designs a new generation SCADA security monitoring framework, comprising four layers: i) a monitoring layer supporting traffic probes providing programmable traffic analyses up to layer 7, new ultra low cost/energy pervasive sensing technologies, system and software integrity verification, and smart camera surveillance solutions for automatic detection and object classification; ii) a control and coordination layer adaptively orchestrating remote probes/sensors, providing a uniform representation of monitoring data gathered from heterogeneous sources, and enforcing cryptographic data protection, including certificate-less identity/attribute-based encryption schemes; iii) a decision and analysis layer in the form of an innovative SIEM fed by both highly heterogeneous monitoring events as well as the native control processesí signals, and supporting advanced correlation and detection methodologies; iv) a human-machine layer devised to present in real time the system behavior to the human end user in a simple and usable manner. SCISSORís framework will leverage easy-to-deploy cloud-based development and integration, and will be designed with resilience and reliability in mind (no single point of failure). SCISSOR will be assessed via i) an off-field SCADA platform, to highlight its ability to detect and thwart targeted threats, and ii) an on-field, real world deployment within a running operational smart grid, to showcase usability, viability and deployability.",
+    "totalCost": "3989850",
+    "ecMaxContribution": "3534850",
+    "coordinator": "ASSYSTEM ENGINEERING AND OPERATION SERVICES",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;SIXSQ SARL;AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE;SEA SOCIET¿ ELETTRICA DI FAVIGNANA SPA;RADIO6ENSESRL;SALZBURG RESEARCH FORSCHUNGSGESELLSCHAFT M.B.H.;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI;KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "participantCountries": "FR;CH;PL;IT;AT;BE",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 426450
+        },
+        "950651896": {
+            "orgId": "950651896",
+            "orgName": "RADIO6ENSESRL",
+            "ecContrib": 211075
+        },
+        "999844573": {
+            "orgId": "999844573",
+            "orgName": "AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE",
+            "ecContrib": 300625
+        },
+        "999594119": {
+            "orgId": "999594119",
+            "orgName": "SALZBURG RESEARCH FORSCHUNGSGESELLSCHAFT M.B.H.",
+            "ecContrib": 468750
+        },
+        "996552684": {
+            "orgId": "996552684",
+            "orgName": "SIXSQ SARL",
+            "ecContrib": 0
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 517325
+        },
+        "945495667": {
+            "orgId": "945495667",
+            "orgName": "ASSYSTEM ENGINEERING AND OPERATION SERVICES",
+            "ecContrib": 1247750
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 201875
+        },
+        "940570977": {
+            "orgId": "940570977",
+            "orgName": "SEA SOCIETÀ ELETTRICA DI FAVIGNANA SPA",
+            "ecContrib": 161000
+        }
+    },
+    "calculatedTotalContribution": 3534850
+}

@@ -1,0 +1,93 @@
+{
+    "rcn": "210138",
+    "acronym": "MeBeSafe",
+    "topics": "MG-3.5-2016",
+    "title": "Measures for behaving safely in traffic",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2020",
+    "objective": "Navigating traffic is mostly habitual; Our behaviour neither requires a lot of elaborate conscious decision-making, nor is it purely automatic/reflexive. However, most current measures intended to get traffic users to behave safer appeal to our deliberate self (awareness campaigns, speed signs), act autonomously on our behalf (autonomous braking, traffic lights), or seek to ìassistî us by presenting feedback/information (Forward Collision Warning, roadside speed displays). However, the latter category of measures is often not effective as users either switch them off or do not act on the information provided.\nMeBeSafe is looking to directly change our habitual traffic behaviour using ìnudgingî. This concept from behavioural economics relates to subconsciously stimulating us to make a desired choice, without forcing us if we want to go a different way. Nudging measures are less invasive, give the user choice (but predispose him to make a desired choice) and can be provided earlier in the chain of events leading to a critical situation.\nWe plan to implement nudging feedback both for in-vehicle Advanced Driver Assistance Systems (ADAS, existing or close-to-market), and through roadside infrastructure (e.g. measures directed at cyclists). Currently no roadside equivalent of ADAS exists, and we will prototype and demonstrate one version.\nWe will prospectively analyse the effectiveness of suggested nudging measures first by modelling, followed by controlled experiments. We will furthermore conduct a field trial to evaluate the long-term learning effect for one proposed nudging measure.\nOur consortium includes automotive OEMs and suppliers, road infrastructure and fleet owners, SMEís involved in traffic data analysis, and leading organisations in traffic safety research and modelling.",
+    "totalCost": "7136979",
+    "ecMaxContribution": "7136979",
+    "coordinator": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "coordinatorCountry": "DE",
+    "participants": "SHELL INTERNATIONAL BV;VOLVO PERSONVAGNAR AB;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;STICHTING WETENSCHAPPELIJK ONDERZOEK VERKEERSVEILIGHEID;VERKEHRSUNFALLFORSCHUNG AN DER TU DRESDEN GMBH;UNIVERSITA DEGLI STUDI DI FIRENZE;Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH;OFFIS EV;HEIJMANS WEGEN BV;HEIJMANS INFRA BV;FIAT CHRYSLER AUTOMOBILES ITALY SPA;CYGNIFY BV;CRANFIELD UNIVERSITY;BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "NL;SE;DE;IT;AT;UK",
+    "projectParticipants": {
+        "945065181": {
+            "orgId": "945065181",
+            "orgName": "HEIJMANS WEGEN BV",
+            "ecContrib": 0
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 923436
+        },
+        "999437852": {
+            "orgId": "999437852",
+            "orgName": "BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT",
+            "ecContrib": 330025
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 506459
+        },
+        "999945065": {
+            "orgId": "999945065",
+            "orgName": "VOLVO PERSONVAGNAR AB",
+            "ecContrib": 838556
+        },
+        "997993231": {
+            "orgId": "997993231",
+            "orgName": "STICHTING WETENSCHAPPELIJK ONDERZOEK VERKEERSVEILIGHEID",
+            "ecContrib": 324609
+        },
+        "997740643": {
+            "orgId": "997740643",
+            "orgName": "FIAT CHRYSLER AUTOMOBILES ITALY SPA",
+            "ecContrib": 299050
+        },
+        "999895789": {
+            "orgId": "999895789",
+            "orgName": "UNIVERSITA DEGLI STUDI DI FIRENZE",
+            "ecContrib": 54926
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 1417031
+        },
+        "997885852": {
+            "orgId": "997885852",
+            "orgName": "Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH",
+            "ecContrib": 276750
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 229470
+        },
+        "937182961": {
+            "orgId": "937182961",
+            "orgName": "CYGNIFY BV",
+            "ecContrib": 333896
+        },
+        "999594313": {
+            "orgId": "999594313",
+            "orgName": "OFFIS EV",
+            "ecContrib": 190981
+        },
+        "999931291": {
+            "orgId": "999931291",
+            "orgName": "SHELL INTERNATIONAL BV",
+            "ecContrib": 862959
+        },
+        "948791630": {
+            "orgId": "948791630",
+            "orgName": "VERKEHRSUNFALLFORSCHUNG AN DER TU DRESDEN GMBH",
+            "ecContrib": 96740
+        }
+    },
+    "calculatedTotalContribution": 6684888
+}

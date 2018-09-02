@@ -1,0 +1,23 @@
+{
+    "rcn": "200876",
+    "acronym": "SCouT",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Sparse Composite Likelihood Inference in Count Time Series",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2018",
+    "objective": "The availability of many interesting datasets consisting of count time series has motivated a steadily increasing research activity towards the development of appropriate statistical models. Nowadays, a variety of time series models constructed on the basis of the integer-valued property of count data is available. However, their practical usefulness is often limited because of difficulties to implement efficient estimation procedures. These difficulties grow significantly when higher-order autoregressive and moving average terms are included in the model or when multivariate time series data are considered. The SCouT project aims to enhance the flexibility of time series models for counts and facilitate their application to data characterized by complex dependence structures. To this end, the SCouT project proposes an innovative methodological approach that integrates two powerful statistical tools, that is sparsity techniques and composite likelihood methods. The project will provide a unified framework for simultaneous order selection and estimation of autoregressive and moving average terms in count time series models, reducing considerably the computational burden of traditional model selection approaches and improving the predictive performance of the fitted model. The potential of the suggested methodology will be further highlighted by investigating its extensions to spatial and spatio-temporal data that are usually characterized by complex dependence structures. Such data are often met in the field of temporal and spatial analysis of public health surveillance data that will be the main application field of the project.  The simultaneous order selection and estimation procedure established by the SCouT project will offer great support to statistical methods for public health surveillance and significantly contribute to the achievement of the effective and timely detection of disease outbreaks.",
+    "totalCost": "168277,2",
+    "ecMaxContribution": "168277,2",
+    "coordinator": "UNIVERSITA CA' FOSCARI VENEZIA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999897341": {
+            "orgId": "999897341",
+            "orgName": "UNIVERSITA CA' FOSCARI VENEZIA",
+            "ecContrib": 168277
+        }
+    },
+    "calculatedTotalContribution": 168277
+}

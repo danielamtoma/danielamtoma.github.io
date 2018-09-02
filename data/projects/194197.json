@@ -1,0 +1,53 @@
+{
+    "rcn": "194197",
+    "acronym": "WITDOM",
+    "topics": "ICT-32-2014",
+    "title": "empoWering prIvacy and securiTy in non-trusteD envirOnMents",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The advent of the Future Internet prompts fundamental transformations in whole ICT ecosystems, while bringing new opportunities to stakeholders in the availability and rational use of physical resources with large-scale savings in IT investments. It will also pose new security challenges especially for ensuring robust protection of privacy and integrity of personal information, which are a fundamental part of the societal acceptance of new ICT schemes, services and solutions. The consolidation of highly complex Cloud computing paradigms materializes the long-held dream of computing as an on-demand automatically managed utility, but at the same time it calls for the materialisation of technologies to enable tangible levels of trustworthiness and end-to-end security in the new ICT platforms and architectures.\nWhile currently there are solid  bases for homomorphic cryptography and secure processing of data, research in WITDOM will go further, aiming at truly efficient and practical privacy enhancing techniques and efficient signal and data processing in the encrypted domain, and develop a holistic security-by-design framework for quantitative evaluation of end-to-end security and privacy, aiming at guaranteing efficient and verifiable provision of privacy in the context of ICT services owned by third-party providers of distributed processing and storage, thereby maximizing independence from stated security and privacy commitments by respective providers. Focusing on specific added-value scenarios, we will deliver automatic and efficient privacy provisioning solutions, which will cover varying needs of privacy for data that must be handled by non-trusted third parties, providing a greater malleability by dynamic adaptation to user needs and privacy preferences.\nIn summary, privacy is preserved by keeping data confidential (encrypted and privacy-protected) in the un-trusted environment, while the data owner can operate with and make use of the data in the encrypted domain.",
+    "totalCost": "4020281,25",
+    "ecMaxContribution": "2764031,25",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO;IBM RESEARCH GMBH;FONDAZIONE CENTRO SAN RAFFAELE;BANCO BILBAO VIZCAYA ARGENTARIA SA*;KATHOLIEKE UNIVERSITEIT LEUVEN;UNIVERSIDAD DE VIGO",
+    "participantCountries": "SI;CH;IT;ES;BE",
+    "projectParticipants": {
+        "953402428": {
+            "orgId": "953402428",
+            "orgName": "BANCO BILBAO VIZCAYA ARGENTARIA SA*",
+            "ecContrib": 0
+        },
+        "999773375": {
+            "orgId": "999773375",
+            "orgName": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO",
+            "ecContrib": 416500
+        },
+        "953371388": {
+            "orgId": "953371388",
+            "orgName": "FONDAZIONE CENTRO SAN RAFFAELE",
+            "ecContrib": 517500
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 701500
+        },
+        "999630494": {
+            "orgId": "999630494",
+            "orgName": "UNIVERSIDAD DE VIGO",
+            "ecContrib": 538688
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 589844
+        }
+    },
+    "calculatedTotalContribution": 2764032
+}

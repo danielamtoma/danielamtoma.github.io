@@ -1,0 +1,23 @@
+{
+    "rcn": "213610",
+    "acronym": "REVOsdr",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "REVOsdr - taking drones beyond and bringing them safely back",
+    "startDate": "01/02/2018",
+    "endDate": "31/07/2018",
+    "objective": "The use of professional drones for the inspection of infrastructure and surveying has been increasing dramatically over the last years. However, there are technological limitations in the wireless communication systems that connect the drone and its operator. The inspection drone can't fly further than a few hundred meters from the operator, resulting in economically unviable services. If an inspection drone attempts to cover longer distances (kms), the limitations of current communication systems endanger the infrastructure, people on the ground, and the drone itself. From the market perspective, these limitations bound innovation and growth of drone-based businesses.\nThe majority of the drone manufacturers adopted communication systems based on readily available Wi-Fi solutions, which is not a reliable technology for real-time remote operation of vehicles. Wi-Fi is highly susceptible to interference and was designed for short-range communication with intermittent transmission. A drone requires a continuous long-range data link. Alternative communication solutions, such as cellular and satellite, depend on the coverage of the services providers and lack flexibility.\nTWEVO is a high-tech start-up that has developed a wireless modem for drone communications called REVOsdr, which provides reliable and secure long-range real-time connectivity. REVOsdr allows an inspection drone to safely cover several kilometres, reducing inspection OPEX by as much as 50%. REVOsdr is a wireless communication technology that enables and scales the commercial value of drone-based services. With our innovation, we want to disrupt this 140MÄ-worth drone data link market and its Wi-Fi trend.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "TWEVO LDA",
+    "coordinatorCountry": "PT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "913672586": {
+            "orgId": "913672586",
+            "orgName": "TWEVO LDA",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

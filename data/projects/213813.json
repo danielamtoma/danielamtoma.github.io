@@ -1,0 +1,38 @@
+{
+    "rcn": "213813",
+    "acronym": "PRODIGE",
+    "topics": "JTI-CS2-2017-CFP06-AIR-01-25",
+    "title": "PRediction of aerOdynamics and hinge moment loaDs at hIgh mach and fliGht rEynolds number",
+    "startDate": "01/03/2018",
+    "endDate": "31/08/2020",
+    "objective": "According to the requirements of the topic, the proposal PRODIGE will produce experimentally accurate loads and hinge moment data at high Mach and flight Reynolds numbers. The data will be the result of an experimental test campaign performed in the European Transonic Wind (ETW) tunnel; as a result they will be available for other future programmes to improve the loads and efficiency prediction of control surfaces.\nAt this aim, the consortium PRODIGE has, first of all, to perform the design of the experimental setup. This means to design/ modify and manufacture all the required parts of an existing 1/16 scale model of a business jet according to technical requirements provided by the Topic Manager.\nIn parallel, the consortium PRODIGE will design and manufacture a prototype hinge moment balance for the ailerons of the wind tunnel model including all the instrumentation necessary for the experiments. This hinge moment balance will be tested for calibration and validation in the cryogenic climate room VTCR by using a simplified mock-up and a suitable jig for loads application and for providing a connection to the chamber floor. The mock-up will be equipped with the aileron of the model or a similar control surface suitably modified to allow applying calibration loads.\nThe validated design of the hinge moment balance concept will be then implemented in the final design of the wind tunnel model. A critical design review will close the design phase. Successively the model parts will be manufactured and the model assembled and sent to ETW premises where it will be tested against static loads in the climate room (VTCR) for measuring the elastic deformation of the wing, and then finally tested at several Reynolds and Mach numbers (flight conditions) and at several aileron deflection angles (the test matrix will be defined in agreement with the topic Manager) inside ETW.",
+    "totalCost": "2211276,24",
+    "ecMaxContribution": "2211276,24",
+    "coordinator": "IBK-INNOVATION GMBH & CO. KG",
+    "coordinatorCountry": "DE",
+    "participants": "DEHARDE GMBH;DREAM INNOVATION SRL;TECHNISCHE UNIVERSITAT DARMSTADT",
+    "participantCountries": "DE;IT",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 121952
+        },
+        "991776016": {
+            "orgId": "991776016",
+            "orgName": "IBK-INNOVATION GMBH & CO. KG",
+            "ecContrib": 1337360
+        },
+        "930253669": {
+            "orgId": "930253669",
+            "orgName": "DREAM INNOVATION SRL",
+            "ecContrib": 161054
+        },
+        "951628395": {
+            "orgId": "951628395",
+            "orgName": "DEHARDE GMBH",
+            "ecContrib": 590910
+        }
+    },
+    "calculatedTotalContribution": 2211276
+}

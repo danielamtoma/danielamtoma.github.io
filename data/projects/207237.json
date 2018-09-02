@@ -1,0 +1,48 @@
+{
+    "rcn": "207237",
+    "acronym": "PECSYS",
+    "topics": "FCH-02-3-2016",
+    "title": "Technology demonstration of large-scale photo-electrochemical system for solar hydrogen production",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "The objective of the project PECSYS is the demonstration of a system for the solar driven electrochemical hydrogen generation with an area >10 m≤. The efficiency of the system will be >6% and it will operate for six month showing a degradation below <10%. Therefore, the consortium will test various established PV materials (thin-film Silicon, crystalline Silicon and CIGS) as well as high potential material combinations (Perovskite/Silicon). It will study and develop innovative device concepts for integrated photoelectrochemical devices that will go far beyond the current state of the art and will allow to reduce Ohmic transport losses in the electrolyte and membranes. The best concepts will be scaled up to prototype size (>100 cm≤) and will be subject to extensive stability optimization. Especially, the use of innovative ALD based metal oxide sealing layers will be studied. The devices will have the great advantage compared to decoupled systems that they will have reduced Ohmic transport losses. Another advantage for application in sunny, hot regions will be that these devices have a positive temperature coefficient, because the improvements of the electrochemical processes overcompensate the reduced PV conversion efficiency. With these results, an in-depth socio-techno-economic model will be developed to predict the levelized cost of hydrogen production, which will be below 5Ä/Kg Hydrogen in locations with high solar irradiation, as preliminary back of the envelope calculations have revealed. Based on these findings, the most promising technologies will be scaled to module size. The final system will consist of several planar modules and will be placed in J¸lich. No concentration or solar tracking will be necessary and therefore the investment costs will be low. It will have an active area >10 m≤ and will produce more than 10 Kg of hydrogen over six month period.",
+    "totalCost": "2499992,5",
+    "ecMaxContribution": "2499992,5",
+    "coordinator": "HELMHOLTZ-ZENTRUM BERLIN FUR MATERIALIEN UND ENERGIE GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "3SUN SRL;FORSCHUNGSZENTRUM JULICH GMBH;SOLIBRO RESEARCH AB;UPPSALA UNIVERSITET;CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "participantCountries": "IT;DE;SE",
+    "projectParticipants": {
+        "999985029": {
+            "orgId": "999985029",
+            "orgName": "UPPSALA UNIVERSITET",
+            "ecContrib": 509000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 358125
+        },
+        "999446000": {
+            "orgId": "999446000",
+            "orgName": "HELMHOLTZ-ZENTRUM BERLIN FUR MATERIALIEN UND ENERGIE GMBH",
+            "ecContrib": 715562
+        },
+        "996109685": {
+            "orgId": "996109685",
+            "orgName": "SOLIBRO RESEARCH AB",
+            "ecContrib": 150088
+        },
+        "951723843": {
+            "orgId": "951723843",
+            "orgName": "3SUN SRL",
+            "ecContrib": 175000
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 592218
+        }
+    },
+    "calculatedTotalContribution": 2499993
+}

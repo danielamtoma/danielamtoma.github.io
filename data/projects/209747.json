@@ -1,0 +1,23 @@
+{
+    "rcn": "209747",
+    "acronym": "ACOUSEQ",
+    "topics": "ERC-PoC-2016",
+    "title": "Acoustics for Next Generation Sequencing",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2018",
+    "objective": "Since completion of the first human genome sequence, the demand for cheaper and faster sequencing methods has increased enormously. This need has driven the development of second-generation sequencing methods, or next-generation sequencing (also known as NGS or high throughput sequencing). The creation of these platforms has made sequencing accessible to more laboratories, rapidly increasing the volume of research, including clinical diagnostics and its use in directing treatment (precision medicine).  The applications of NGS are also allowing rapid advances in clinically related fields such as public health and epidemiology.  Such developments illustrate why sequencing is now the fastest-growing area in genomics (\\23% p.a.). The activity is said to be worth $2.5B this year, and poised to reach ~$9B by 2020. In any workflow, prior to the sequencing reactions, a number of pre-sequencing steps are required, including the fragmentation of the DNA into smaller sizes for processing, size selection, library preparation and target enrichment. This proposal is specifically concerned with this latter area, namely DNA fragmentation ñ now widely acknowledged across the industry as being the most important technological bottleneck in the pre-sequencing workflow. Our new method for DNA fragmentation ñ involving using surface acoustic waves will enable sample preparation from lower sample volumes using lower powers. It also has the potential to allow the seamless integration of fragmentation into sequencing instrumentation, opening up the possibility of ìsample to answerî diagnostics. In the near term this will enable the implementation of sample preparation pre-sequencing steps within the NGS instruments. In the longer term, our techniques will also enable us to develop methods for field-based DNA sequencing ñ as may be required for determining ìmicrobial resistanceî and informing the treatment of infectious disease in the face of the emergence of drug resistance.",
+    "totalCost": "149995",
+    "ecMaxContribution": "149995",
+    "coordinator": "UNIVERSITY OF GLASGOW",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 149995
+        }
+    },
+    "calculatedTotalContribution": 149995
+}

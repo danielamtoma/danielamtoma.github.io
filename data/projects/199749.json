@@ -1,0 +1,63 @@
+{
+    "rcn": "199749",
+    "acronym": "IDentIFY",
+    "topics": "PHC-11-2015",
+    "title": "Improving Diagnosis by Fast Field-Cycling MRI",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "Many diseases are inadequately diagnosed, or not diagnosed early enough by current imaging methods. Examples of unmet clinical needs arise in thromboembolic disease, osteoarthritis, cancer, sarcopenia, and many more areas. Our solution, Fast Field-Cycling (FFC) MRI, can measure quantitative information that is invisible to standard MRI. FFC scanners switch magnetic field while scanning the patient, obtaining new diagnostic information. FFC-MRI has been demonstrated by us, but many challenges must be solved before clinical adoption.\nObjectives:\nUnderstand the mechanisms determining FFC signals in tissues;\nCreate technology to measure and correct for environmental magnetic fields, enabling FFC at ultra-low fields;\nInvestigate contrast agents for FFC, to increase sensitivity and to allow molecular imaging;\nImprove FFC technology, in order to extend its range of clinical applications;\nTest FFC-MRI on tissue samples and on patients.\nAchieved by:\nDeveloping the theory of relaxation in tissue at ultra-low fields, leading to models and biomarkers;\nDeveloping magnetometers for FFC-MRI, and environmental-field correction;\nCreating and in vitro testing of new FFC contrast agents; studying existing clinical agents for FFC-MRI sensitivity;\nImproving technology to monitor and stabilise magnetic fields in FFC; improving magnet power supply stability; investigating better radiofrequency coils and acquisition pulse sequences;\nTesting FFC methods on tissue samples from surgery and tissue banks; proof-of-principle scans on patients.\nFFC-MRI is a paradigm-shifting technology which will generate new, quantitative disease biomarkers, directly informing and improving clinical diagnosis, treatment decisions and treatment monitoring. Its lower cost contributes to healthcare sustainability. The proposal consolidates the EU lead in FFC technology and uses new concepts from world-leading teams to deliver solutions based on innovations in theory, modelling, physics, chemistry and engineering.",
+    "totalCost": "6597377,5",
+    "ecMaxContribution": "6597377,5",
+    "coordinator": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ABERDEEN",
+    "coordinatorCountry": "UK",
+    "participants": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;UNIWERSYTET WARMINSKO MAZURSKI W OLSZTYNIE;UNIVERSITA DEGLI STUDI DI TORINO;INTERNATIONAL ELECTRIC COMPANY OY;STELAR SRL;TECHNISCHE UNIVERSITAET ILMENAU;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR;PL;IT;FI;DE",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1173041
+        },
+        "999861936": {
+            "orgId": "999861936",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TORINO",
+            "ecContrib": 584750
+        },
+        "935434827": {
+            "orgId": "935434827",
+            "orgName": "INTERNATIONAL ELECTRIC COMPANY OY",
+            "ecContrib": 692548
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 367560
+        },
+        "999575204": {
+            "orgId": "999575204",
+            "orgName": "TECHNISCHE UNIVERSITAET ILMENAU",
+            "ecContrib": 442250
+        },
+        "999929448": {
+            "orgId": "999929448",
+            "orgName": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ABERDEEN",
+            "ecContrib": 1479854
+        },
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 633625
+        },
+        "999853109": {
+            "orgId": "999853109",
+            "orgName": "UNIWERSYTET WARMINSKO MAZURSKI W OLSZTYNIE",
+            "ecContrib": 321000
+        },
+        "972802428": {
+            "orgId": "972802428",
+            "orgName": "STELAR SRL",
+            "ecContrib": 902750
+        }
+    },
+    "calculatedTotalContribution": 6597378
+}

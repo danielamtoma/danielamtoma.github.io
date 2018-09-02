@@ -1,0 +1,23 @@
+{
+    "rcn": "207291",
+    "acronym": "QHYDRO",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Quantum Hydrodynamics: Applications to nanoplasmonics",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2018",
+    "objective": "Recent years have witnessed a remarkable surge in interest for the electronic properties of new materials, particularly when excited by electromagnetic radiation. This is a very vast domain of research that encompasses all sorts of nano-objects (metallic films and nanoparticles, carbon nanotubes, semiconductor quantum dots,Ö), new materials like graphene, as well as metamaterials whose structure can be engineered so as to display some particular optical properties.  In this project, we will focus our attention on metallic nano-objects and the composite metamaterials that can be constructed out of them, such as networks of interacting nanoparticles. \nStandard methods to study the electron response ñ such as the time-dependent density functional theory or Hartree-Fock equations ñ are computationally very costly in terms of run time and memory storage. On the other hand, recent approaches rely on much  simpler methods based on improvements of the classical Mie theory.\nHere, we propose to develop and implement a set of quantum hydrodynamic (QHD) models that are sufficiently simple to be run on standard computers (desktop PC or small university cluster), but contain enough physics to study the electron response beyond the Mie model ñ in particular nonlinear, nonlocal, and quantum effects. The combination of flexibility and accuracy of QHD models makes them an ideal tool to investigate many open problems in the emerging field of nanoplasmonics.\nUsing this approach, several configurations of nano-objects will be studied, including dimers and trimers of metallic nanoparticles and nanorods, metal-dielectric multilayers, nanoparticles in the vicinity of a thin metal film, and arrays of nanoparticles interacting via the dipole force.",
+    "totalCost": "173076",
+    "ecMaxContribution": "173076",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 173076
+        }
+    },
+    "calculatedTotalContribution": 173076
+}

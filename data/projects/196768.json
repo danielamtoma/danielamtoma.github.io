@@ -1,0 +1,23 @@
+{
+    "rcn": "196768",
+    "acronym": "ImmRisk",
+    "topics": "ERC-StG-2014",
+    "title": "Defining how environmental factors influence downstream effects of immune-mediated disease risk-SNPs",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "In the last few years genome-wide association studies have revealed thousands of genetic variants associated to immune-mediated diseases, such as rheumatoid arthritis and Crohn's disease. Although it is evident that non-genetic factors can also trigger these diseases, presumably by interacting with the risk SNPs, we do not know what these factors are or how they affect risk-SNPs.\n\nI hypothesize that environmental factors that increase disease risk also mediate the downstream molecular effects of disease-associated genetic variants. Since I am able to identify the downstream molecular effects of many risk-SNPs, and can identify molecular pathways regulated by specific exogenous factors like viral, bacterial or fungal stimuli, I now propose to combine these two approaches into a new analytical framework that will allow me to identify some of the exogenous factors that interact with risk-SNPs and together predispose to immune-mediated diseases.\n\nMy aim is to determine how exogenous triggers alter molecular pathways that are critical in immune-mediated diseases. For this we will generate single-cell RNA-seq data on white blood cells from 100 individuals (~1,000 cells per person) and conduct expression QTL analyses. We will then use this information to identify exogenous risk factors for immune-mediated diseases by re-analysing public RNA-seq data from >20,000 samples generated in the presence and absence of different (disease) stimuli.\n\nThis project is given direction by three developments by my research group: (1) our collection and integration of large functional genomics datasets, (2) our ability to develop computational frameworks for identifying the downstream consequences of SNPs using such datasets, and (3) my methodology to identify context-specific eQTLs.\n\nThis research will improve insight into the complex interplay between risk-SNPs and exogenous factors in modulating the molecular pathways that are crucial for the development of immune-mediated diseases.",
+    "totalCost": "1496690",
+    "ecMaxContribution": "1496690",
+    "coordinator": "ACADEMISCH ZIEKENHUIS GRONINGEN",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999914801": {
+            "orgId": "999914801",
+            "orgName": "ACADEMISCH ZIEKENHUIS GRONINGEN",
+            "ecContrib": 1496690
+        }
+    },
+    "calculatedTotalContribution": 1496690
+}

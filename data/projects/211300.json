@@ -1,0 +1,88 @@
+{
+    "rcn": "211300",
+    "acronym": "PROPHESY",
+    "topics": "FOF-09-2017",
+    "title": "Platform for rapid deployment of self-configuring and optimized predictive maintenance services",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2020",
+    "objective": "The advent of Industrie4.0 provides opportunities for adopting predictive maintenance (PdM), which represents the ultimate maintenance vision for manufacturers and machine vendors. Nevertheless, there are still barriers to successful deployment including the issues of data fragmentation, limited data interoperability, poor deployment of advanced analytics and lack of effective integration with other systems at the enterprise and field levels. PROPHESY will deliver and validate (in two complex demonstrators) in real plants a PdM services platform, which will alleviate these issues based on the following innovations:\nï A CPS platform optimized for PdM activities (PROPHESY-CPS), which will enable maintenance driven real-time control, large scale distributed data collection and processing, as well as improved production processes driven by maintenance predictions and FMECA activities. \nï Novel Machine Learning and Statistical Data processing techniques for PdM (PROPHESY-ML), which will be able to identify invisible patterns associated with machine degradation and assets depreciation, while at the same time using them to optimize FMECA activities. \nï Visualization, knowledge sharing and augmented reality (AR) services (PROPHESY-AR), which will enable remotely supported maintenance that can optimize maintenance time and costs, while increasing the safety of maintenance tasks.  \nï A PdM service optimization engine (PROPHESY-SOE), which will enable composition of optimal PdM solutions based on the capabilities provided by PROPHESY-CPS, PROPHESY-ML and PROPHESY-AR. Service optimization aspects will consider the whole range of factors that impact PdM effectiveness (e.g., OEE, EOL, MTBF and more). \nPROPHESY will establish and expand an ecosystem of PdM stakeholders around the PROPHESY-SOE, which will serve as a basis for the wider update of the projectís results, as it will offer to the CPS manufacturing community access to innovative, turn-key solutions for PdM operations.",
+    "totalCost": "7067765",
+    "ecMaxContribution": "5528318,51",
+    "coordinator": "INTRASOFT INTERNATIONAL SA",
+    "coordinatorCountry": "BE",
+    "participants": "SENSAP MICROSYSTEMS ANONIMI ETAIRIA ILEKTRONIKON SYSTIMATON KAI EFARMOGON LOGISMIKOU;UNPARALLEL INNOVATION LDA;MARPOSS MONITORING SOLUTIONS GMBH;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;MONDRAGON GOI ESKOLA POLITEKNIKOA JOSE MARIA ARIZMENDIARRIETA S COOP;MAG IAS GMBH;PHILIPS CONSUMER LIFESTYLE B.V.;RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES;JAGUAR LAND ROVER LIMITED;OCULAVIS GMBH;TECHNISCHE UNIVERSITEIT EINDHOVEN;INDUSTRIAL CONSULTING AUTOMATION RESEARCH ENGINEERING;NOVA ID FCT - ASSOCIACAO PARA A INOVACAO E DESENVOLVIMENTO DA FCT",
+    "participantCountries": "EL;PT;DE;ES;NL;UK;BE",
+    "projectParticipants": {
+        "999582382": {
+            "orgId": "999582382",
+            "orgName": "RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES",
+            "ecContrib": 413125
+        },
+        "936670219": {
+            "orgId": "936670219",
+            "orgName": "INDUSTRIAL CONSULTING AUTOMATION RESEARCH ENGINEERING",
+            "ecContrib": 321081
+        },
+        "999702371": {
+            "orgId": "999702371",
+            "orgName": "INTRASOFT INTERNATIONAL SA",
+            "ecContrib": 545125
+        },
+        "949701102": {
+            "orgId": "949701102",
+            "orgName": "MAG IAS GMBH",
+            "ecContrib": 341954
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 354058
+        },
+        "953318426": {
+            "orgId": "953318426",
+            "orgName": "UNPARALLEL INNOVATION LDA",
+            "ecContrib": 301718
+        },
+        "999778807": {
+            "orgId": "999778807",
+            "orgName": "PHILIPS CONSUMER LIFESTYLE B.V.",
+            "ecContrib": 698512
+        },
+        "999681516": {
+            "orgId": "999681516",
+            "orgName": "SENSAP MICROSYSTEMS ANONIMI ETAIRIA ILEKTRONIKON SYSTIMATON KAI EFARMOGON LOGISMIKOU",
+            "ecContrib": 304500
+        },
+        "953485945": {
+            "orgId": "953485945",
+            "orgName": "MARPOSS MONITORING SOLUTIONS GMBH",
+            "ecContrib": 328125
+        },
+        "916491988": {
+            "orgId": "916491988",
+            "orgName": "OCULAVIS GMBH",
+            "ecContrib": 293125
+        },
+        "937405091": {
+            "orgId": "937405091",
+            "orgName": "NOVA ID FCT - ASSOCIACAO PARA A INOVACAO E DESENVOLVIMENTO DA FCT",
+            "ecContrib": 401562
+        },
+        "999855146": {
+            "orgId": "999855146",
+            "orgName": "MONDRAGON GOI ESKOLA POLITEKNIKOA JOSE MARIA ARIZMENDIARRIETA S COOP",
+            "ecContrib": 401970
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 365562
+        },
+        "986480786": {
+            "orgId": "986480786",
+            "orgName": "JAGUAR LAND ROVER LIMITED",
+            "ecContrib": 457901
+        }
+    },
+    "calculatedTotalContribution": 5528318
+}

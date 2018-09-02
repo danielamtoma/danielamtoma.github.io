@@ -1,0 +1,58 @@
+{
+    "rcn": "213060",
+    "acronym": "Haeolus",
+    "topics": "FCH-02-4-2017",
+    "title": "Hydrogen-Aeolic Energy with Optimised eLectrolysers Upstream of Substation",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "The Haeolus project will install a 2 MW electrolyser in the remote region of Varanger, Norway, inside the Raggovidda wind farm, whose growth is limited by grid bottlenecks.\nThe electrolyser will be based on PEM technology and will be integrated with the wind farm, hydrogen storage and a smaller fuel cell for re-electrification.\nTo maximise relevance to wind farms across the EU and the world, the plant will be operated in multiple emulated configurations (energy storage, mini-grid, fuel production).\nLike many large wind farms, especially offshore, Raggovidda is difficult to access, in particular in winter: Haeolus will therefore deploy a remote monitoring and control system allowing the system to operate without personnel on site.\nMaintenance requirements will be minimised by a specially developed diagnostic and prognostic system for the electrolyser and BoP systems.\n\nThe containerised electrolyser is a standard model carried by project partner Hydrogenics. The integrated system will be housed in a specially erected hall to protect it from the Arctic winter and allow year-round access. The integrated system of electrolyser, fuel cells, and wind farm will be designed for flexibility in demonstration, to allow emulating different operating modes and grid services.\n\nHaeolus answers the AWP's challenge with the widest possible project scope, with operation modes not limited to the site's particular needs but extended to all major use cases, and several in-depth analyses (released as public reports) on the business case of electrolysers in wind farms, their impact on energy systems and the environment, and their applicability in a wide range of conditions.",
+    "totalCost": "6921215",
+    "ecMaxContribution": "4997738,63",
+    "coordinator": "SINTEF AS",
+    "coordinatorCountry": "NO",
+    "participants": "KES KNOWLEDGE ENVIRONMENT SECURITY SRL;STIFTELSEN SINTEF;FUNDACION TECNALIA RESEARCH & INNOVATION;HYDROGENICS EUROPE NV;UNIVERSITA DEGLI STUDI DEL SANNIO;COMMUNAUTE D' UNIVERSITES ET ETABLISSEMENTS UNIVERSITE BOURGOGNE - FRANCHE - COMTE;VARANGER KRAFTVIND AS",
+    "participantCountries": "IT;NO;ES;BE;FR",
+    "projectParticipants": {
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 0
+        },
+        "938898891": {
+            "orgId": "938898891",
+            "orgName": "NEW NEL HYDROGEN AS",
+            "ecContrib": 0
+        },
+        "910945140": {
+            "orgId": "910945140",
+            "orgName": "SINTEF AS",
+            "ecContrib": 597750
+        },
+        "973862444": {
+            "orgId": "973862444",
+            "orgName": "UNIVERSITA DEGLI STUDI DEL SANNIO",
+            "ecContrib": 298750
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 222140
+        },
+        "920180801": {
+            "orgId": "920180801",
+            "orgName": "COMMUNAUTE D' UNIVERSITES ET ETABLISSEMENTS UNIVERSITE BOURGOGNE - FRANCHE - COMTE",
+            "ecContrib": 318125
+        },
+        "914013444": {
+            "orgId": "914013444",
+            "orgName": "VARANGER KRAFTVIND AS",
+            "ecContrib": 870625
+        },
+        "966688421": {
+            "orgId": "966688421",
+            "orgName": "KES KNOWLEDGE ENVIRONMENT SECURITY SRL",
+            "ecContrib": 225750
+        }
+    },
+    "calculatedTotalContribution": 2533140
+}

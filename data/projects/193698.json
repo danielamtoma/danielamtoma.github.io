@@ -1,0 +1,38 @@
+{
+    "rcn": "193698",
+    "acronym": "SCREEN",
+    "topics": "COMPET-06-2014",
+    "title": "Space Cognitive Radio for Electromagnetic Environment maNagement",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2016",
+    "objective": "The SCREEN project brings the concept of cognitive radio to Space and exploits the benefits that this technology has already shown in the terrestrial domain. The project will look into analysing, developing, implementing and testing cognitive radio algorithms. The ground breaking element in SCREEN is however the implementation and testing. Even though some of the underlying technologies for the individual stages are not novel, the incorporation of all stages in a radio transceiver has never been done to the full extent of a cognitive, and not adaptive, system.\n\nThe key enabling technology for cognitive radio is Software-Defined Radio (SDR), which provides the required flexibility to reconfigure the radio parameters autonomously and without any changes in the transceiver hardware. The Consortium will make use of proprietary SDR technology and use it for the implementation and testing. In fact, the project approach is to make use of terrestrial research results in cognitive radio at all levels (technological, market and regulatory) and capitalise the previous work done in different projects, avoiding unnecessary duplication of efforts. The target spectrum band for this project is S-band, which is underexplored and has a strong potential for future niche applications both in satcom and in ISLs for multi-satellite missions. It also brings advantages regarding regulatory concerns.\n\nThis project clearly fits the topic, not only because its main goal is to evolve an innovative technology up to TRL4/5, but also because cognitive radio is a key enabling technology for the areas identified by the topic. This technology will lead to a new generation of satcom payloads and also have massive impact on ISLs and downlink subsystems. It also brings a terrestrial technology to space, together with new players, which has the possibility to dramatically improve the performance, efficiency and versatility of space communications.",
+    "totalCost": "999976,25",
+    "ecMaxContribution": "999976",
+    "coordinator": "TEKEVER ASDS",
+    "coordinatorCountry": "PT",
+    "participants": "MUNICH INNOVATION LABS GmbH;INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA;AVANTI COMMUNICATIONS LTD;MUNICH INNOVATION GROUP GMBH",
+    "participantCountries": "DE;PT;UK",
+    "projectParticipants": {
+        "941912390": {
+            "orgId": "941912390",
+            "orgName": "MUNICH INNOVATION GROUP GMBH",
+            "ecContrib": 83076
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 148750
+        },
+        "989367991": {
+            "orgId": "989367991",
+            "orgName": "AVANTI COMMUNICATIONS LTD",
+            "ecContrib": 246351
+        },
+        "958942292": {
+            "orgId": "958942292",
+            "orgName": "TEKEVER ASDS",
+            "ecContrib": 355500
+        }
+    },
+    "calculatedTotalContribution": 833677
+}

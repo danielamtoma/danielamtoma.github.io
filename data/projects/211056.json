@@ -1,0 +1,53 @@
+{
+    "rcn": "211056",
+    "acronym": "WORTECS",
+    "topics": "ICT-09-2017",
+    "title": "Wireless Optical/Radio TErabit Communications",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "5G promises increased connectivity, high data rates, and ultimately new services. The first 5G release standard in 3GPP will be available by June 2018 with pre-commercial deployment in Korea soon after. Whilst 5G will meet current demand, the exponential rise in demand for wireless connectivity will ultimately require Tbps connectivity in indoor spaces. The future network will use an all optical fibre core, and an ultra-high data rate wireless ëbridgeí to the User.\n\nWORTECS focuses on the goal of ultra-high data rate wireless. High-frequency mm-wave (in the band above 90 GHz) radio communications will be combined with optical wireless communications in the infrared and visible regions of the optical spectrum, using novel heterogeneous networking concepts. A compelling virtual reality application will be used to showcase the capability of the WORTECS network. The project will deliver two Proof-of-Concept demonstrations. An ultra-high density LiFi/Radio network providing multi-Gbps to virtual reality terminals will be developed, and an ultra-high data rate Proof-of-Concept capable of Tbps networking will also be targeted.\n\nWORTECS brings together innovative, world leading LiFi SMEs Oledcomm (France) and PureLiFi (UK), Global telecommunications operator Orange (France) and research institutes BCOM (France) and IHP (Germany). These are joined by university research leaders in optical wireless communications from the University of Oxford (UK) and the University of Las Palmas (Spain). The consortium has the dual ambition of proposing new scientific solutions beyond 5G while transferring these technologies from research labs to industrial world. A successful project will both showcase technologies required to alleviate the radio spectrum crunch, and provide substantial benefits to EU citizens through the exploitation of results by WORTECS commercial partners.",
+    "totalCost": "2999155",
+    "ecMaxContribution": "2999155",
+    "coordinator": "ORANGE SA",
+    "coordinatorCountry": "FR",
+    "participants": "B-COM;UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA;IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK;PURELIFI LIMITED;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;OLEDCOMM SAS",
+    "participantCountries": "FR;ES;DE;UK",
+    "projectParticipants": {
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 378129
+        },
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 626250
+        },
+        "956566471": {
+            "orgId": "956566471",
+            "orgName": "PURELIFI LIMITED",
+            "ecContrib": 509062
+        },
+        "916612074": {
+            "orgId": "916612074",
+            "orgName": "OLEDCOMM SAS",
+            "ecContrib": 410000
+        },
+        "999929739": {
+            "orgId": "999929739",
+            "orgName": "UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA",
+            "ecContrib": 243750
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 442558
+        },
+        "948011362": {
+            "orgId": "948011362",
+            "orgName": "B-COM",
+            "ecContrib": 389406
+        }
+    },
+    "calculatedTotalContribution": 2999155
+}

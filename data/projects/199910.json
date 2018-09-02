@@ -1,0 +1,63 @@
+{
+    "rcn": "199910",
+    "acronym": "ROBUST",
+    "topics": "SC5-11d-2015",
+    "title": "Robotic subsea exploration technologies",
+    "startDate": "01/12/2015",
+    "endDate": "31/01/2020",
+    "objective": "There is a need to develop an autonomous, reliable, cost effective technology to map vast terrains, in terms of mineral and raw material contents which will aid in reducing the cost of mineral exploration, currently performed by ROVs and dedicated SSVs and crew. Furthermore there is a need to identify, in an efficient and non-intrusive manner (minimum impact to the environment), the most rich mineral sites. This technology will aid the seabed mining industry, reduce the cost of exploration and especially the detailed identification of the raw materials contained in a mining sites and enable targeted mining only of the richest resources existing. \n\nThe ROBUST proposal aims to tackle the aforementioned issue by developing sea bed in situ material identification through the fusion of two technologies, namely laser-based in-situ element-analyzing capability merged with underwater AUV (Autonomous Underwater Vehicle) technologies for sea bed 3D mapping. This will enable resource identification done by robotic control enabled by the synergy between AUV hovering and manipulator capabilities. The underwater robotic laser process is the Laser Induced Breakdown Spectroscopy (LIBS), used for identification of materials on the sea bed. The AUV Robotic vehicle will dive, identify the resources that are targeted for LIBS scanning through 3D real time mapping of the terrain (hydro-acoustically, laser scanners, photogrammetry) and position the LIBS in the required locations of mineral deposits on the ocean floor to autonomously perform qualitative and quantitative analyses.",
+    "totalCost": "5986722,5",
+    "ecMaxContribution": "5986722,5",
+    "coordinator": "TWI LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "NEOLASE GMBH;GRAAL TECH SRL;CORONIS COMPUTING SL;CGG SERVICES SAS;UNIVERSITA DEGLI STUDI DI GENOVA;LZH LASER ZENTRUM HANNOVER E.V.;HELMHOLTZ ZENTRUM FUR OZEANFORSCHUNG KIEL;ALS MARINE CONSULTANTS LTD",
+    "participantCountries": "DE;IT;ES;FR;CY",
+    "projectParticipants": {
+        "999588590": {
+            "orgId": "999588590",
+            "orgName": "LZH LASER ZENTRUM HANNOVER E.V.",
+            "ecContrib": 1204688
+        },
+        "999662019": {
+            "orgId": "999662019",
+            "orgName": "CGG SERVICES SAS",
+            "ecContrib": 13750
+        },
+        "999976687": {
+            "orgId": "999976687",
+            "orgName": "UNIVERSITA DEGLI STUDI DI GENOVA",
+            "ecContrib": 900130
+        },
+        "986090458": {
+            "orgId": "986090458",
+            "orgName": "HELMHOLTZ ZENTRUM FUR OZEANFORSCHUNG KIEL",
+            "ecContrib": 549000
+        },
+        "998094984": {
+            "orgId": "998094984",
+            "orgName": "NEOLASE GMBH",
+            "ecContrib": 190644
+        },
+        "952193129": {
+            "orgId": "952193129",
+            "orgName": "ALS MARINE CONSULTANTS LTD",
+            "ecContrib": 663250
+        },
+        "952555521": {
+            "orgId": "952555521",
+            "orgName": "CORONIS COMPUTING SL",
+            "ecContrib": 609875
+        },
+        "999912764": {
+            "orgId": "999912764",
+            "orgName": "TWI LIMITED",
+            "ecContrib": 1076636
+        },
+        "998374053": {
+            "orgId": "998374053",
+            "orgName": "GRAAL TECH SRL",
+            "ecContrib": 778750
+        }
+    },
+    "calculatedTotalContribution": 5986723
+}

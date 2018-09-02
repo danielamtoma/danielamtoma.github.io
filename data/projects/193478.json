@@ -1,0 +1,23 @@
+{
+    "rcn": "193478",
+    "acronym": "FLEXILOG",
+    "topics": "ERC-StG-2014",
+    "title": "Formal lexically informed logics for searching the web",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2020",
+    "objective": "Semantic search engines use structured knowledge to improve traditional web search, e.g. by directly answering questions from users. Current approaches to semantic search rely on the unrealistic assumption that all true facts about a given domain are explicitly stated in their knowledge base or on the web. To reach their full potential, semantic search engines need the ability to reason about known facts. However, existing logics cannot adequately deal with the imperfect nature of knowledge from the web. One problem is that relevant information tends to be distributed over several heterogeneous knowledge bases that are inconsistent with each other. Moreover, domain theories are seldom complete, which means that a form of so-called plausible reasoning is needed. Finally, as relevant logical theories do not exist for many domains, reasoning may need to rely on imperfect probabilistic theories that have been learned from the web. \n\nTo overcome these challenges, FLEXILOG will introduce a family of logics for robust reasoning with messy real-world knowledge, based on vector-space representations of natural language terms (i.e. of lexical knowledge). In particular, we will use lexical knowledge to estimate the plausibility of logical models, using conceptual simplicity as a proxy for plausibility (i.e. Occamís razor). This will enable us to implement various forms of commonsense reasoning, equipping classical logic with the ability to draw plausible conclusions based on regularities that are observed in a knowledge base. We will then generalise our approach to probabilistic logics, and show how we can use the resulting lexically informed probabilistic logics to learn accurate and comprehensive domain theories from the web. This project will enable a robust data-driven approach to logic-based semantic search, and more generally lead to fundamental progress in a variety of knowledge-intensive applications for which logical inference has traditionally been too brittle.",
+    "totalCost": "1451656",
+    "ecMaxContribution": "1451656",
+    "coordinator": "CARDIFF UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979694": {
+            "orgId": "999979694",
+            "orgName": "CARDIFF UNIVERSITY",
+            "ecContrib": 1451656
+        }
+    },
+    "calculatedTotalContribution": 1451656
+}

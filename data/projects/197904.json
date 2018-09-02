@@ -1,0 +1,63 @@
+{
+    "rcn": "197904",
+    "acronym": "OSIRIS",
+    "topics": "ECSEL-01-2014",
+    "title": "Optimal SIC substR ates for Integrated Microwave and Power CircuitS",
+    "startDate": "01/05/2015",
+    "endDate": "30/11/2018",
+    "objective": "OSIRIS project, a Research and Innovation Action (RIA), aims at improving substantially the cost effectiveness and performance of gallium nitride (GaN) based millimetre wave components. The project proposes to elaborate innovative SiC material using isotopic sources. This material will offer thermal conductivity improvement of 30% which is important for devices dissipating a lot of power, in particular in SiC power electronics and in microwave device using GaN high electron mobility transistors (HEMT) grown on SiC semi-insulating substrates. OSIRIS project will allow reinforcing GaN technology penetration into the market by cost effectiveness of the SiC substrates and circuit performances improvement thanks to better heat spreading close to the dissipative area.\nFor microwave GaN/SiC HEMT this isotopic approach could create a complete shift in the currently used substrate / GaN epi-wafer technology; it intends to grow high thermal conductivity (\\30%) semi-insulating SiC on top of low cost semiconducting SiC substrates (widely used by the power electronics and LED industries). Reduced layer thickness is necessary as only the top 50 to 100µm SiC wafer is really useful as the substrate itself is currently thinned to realise microstrip waveguided microwave circuits. \nFor power electronics, this isotopic innovation will be essentially focused on thermal improvement, i.e. better electron mobility at a given power dissipation as mobility and drift mobility decrease with temperature and also better carrier transport thanks to lower scattering rates. Schottky and p-i-n diodes will be tested using this material, which however will have to be doped while microwave devices need semi-insulating materials.\nThe improved thermal SiC properties will be obtained by using single isotopic atoms for silicon and carbon, namely 28Si and 12C. The SiC wafer size will be targeted to 100mm (4-inches) which is today widely used on industry.",
+    "totalCost": "4487117,5",
+    "ecMaxContribution": "1819212",
+    "coordinator": "III-V LAB",
+    "coordinatorCountry": "FR",
+    "participants": "SLOVENSKA TECHNICKA UNIVERZITA V BRATISLAVE;LINKOPINGS UNIVERSITET;NORSTEL AB;UNITED MONOLITHIC SEMICONDUCTORS SAS;INTRASPEC TECHNOLOGIES;ASCATRON AB;ISOSILICON AS;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "SK;SE;FR;NO",
+    "projectParticipants": {
+        "888897696": {
+            "orgId": "888897696",
+            "orgName": "LINKOPINGS UNIVERSITET",
+            "ecContrib": 316161
+        },
+        "948694727": {
+            "orgId": "948694727",
+            "orgName": "INTRASPEC TECHNOLOGIES",
+            "ecContrib": 73042
+        },
+        "952906370": {
+            "orgId": "952906370",
+            "orgName": "ASCATRON AB",
+            "ecContrib": 147202
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 164396
+        },
+        "999868823": {
+            "orgId": "999868823",
+            "orgName": "SLOVENSKA TECHNICKA UNIVERZITA V BRATISLAVE",
+            "ecContrib": 110517
+        },
+        "997456336": {
+            "orgId": "997456336",
+            "orgName": "NORSTEL AB",
+            "ecContrib": 169919
+        },
+        "996281278": {
+            "orgId": "996281278",
+            "orgName": "UNITED MONOLITHIC SEMICONDUCTORS SAS",
+            "ecContrib": 46591
+        },
+        "951171525": {
+            "orgId": "951171525",
+            "orgName": "ISOSILICON AS",
+            "ecContrib": 153500
+        },
+        "999971546": {
+            "orgId": "999971546",
+            "orgName": "III-V LAB",
+            "ecContrib": 637884
+        }
+    },
+    "calculatedTotalContribution": 1819212
+}

@@ -1,0 +1,68 @@
+{
+    "rcn": "200820",
+    "acronym": "DD-DeCaF",
+    "topics": "BIOTEC-2-2015",
+    "title": "Bioinformatics Services for Data-Driven Design of Cell Factories and Communities",
+    "startDate": "01/03/2016",
+    "endDate": "29/02/2020",
+    "objective": "Omics data is not leveraged effectively in the biotechnology industry due to lack of tools to rapidly access public and private data and to design cellular manipulations or interventions based on the data. With this project we aim to make a broad spectrum of omics data useful to the biotechnology industry covering application areas ranging from industrial biotechnology to human health. We will develop novel approaches for integrative model-based omics data analysis to enable 1) Identification of novel enzymes and pathways by mining metagenomic data, 2) Data-driven design of cell factories for the production of chemicals and proteins, and 3) Analysis and design of microbial communities relevant to human health, industrial biotechnology and agriculture. All research efforts will be integrated in an interactive web-based platform that will be available for the industrial and academic research and development communities, in particular enhancing the competitiveness of biotech SMEs by economizing resources and reducing time-to-market within their respective focus areas. The platform will be composed of standardized and interoperable components that service-oriented bioinformatics SMEs involved in the project can reuse in their own products. An important aspect of the platform will be implementation of different access levels to data and software tools allowing controlling access to proprietary data and analysis tools. Two end-user companies will be involved in practical testing of the platform built within the project using proprietary omics data generated at the companies.",
+    "totalCost": "7091021,25",
+    "ecMaxContribution": "6250636,25",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "UNIVERSIDADE DO MINHO;DSM FOOD SPECIALTIES BV;EUROPEAN MOLECULAR BIOLOGY LABORATORY;GENIALIS D.O.O;BIOSYNTIA APS;BIOBYTE SOLUTIONS GMBH;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;SILICOLIFE LDA;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "PT;NL;DE;SI;DK;CH;SE",
+    "projectParticipants": {
+        "960208336": {
+            "orgId": "960208336",
+            "orgName": "SILICOLIFE LDA",
+            "ecContrib": 347500
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 861412
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 1562048
+        },
+        "951498512": {
+            "orgId": "951498512",
+            "orgName": "BIOSYNTIA APS",
+            "ecContrib": 250000
+        },
+        "999995505": {
+            "orgId": "999995505",
+            "orgName": "UNIVERSIDADE DO MINHO",
+            "ecContrib": 341691
+        },
+        "998827431": {
+            "orgId": "998827431",
+            "orgName": "DSM FOOD SPECIALTIES BV",
+            "ecContrib": 323750
+        },
+        "986470504": {
+            "orgId": "986470504",
+            "orgName": "BIOBYTE SOLUTIONS GMBH",
+            "ecContrib": 251250
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 1776110
+        },
+        "948450287": {
+            "orgId": "948450287",
+            "orgName": "GENIALIS D.O.O",
+            "ecContrib": 536875
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 6250636
+}

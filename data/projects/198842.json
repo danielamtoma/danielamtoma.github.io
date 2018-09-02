@@ -1,0 +1,43 @@
+{
+    "rcn": "198842",
+    "acronym": "NANOxCOMP",
+    "topics": "MSCA-RISE-2015",
+    "title": "Synthesis and Performance Optimization of a Switching Nano-crossbar Computer",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2019",
+    "objective": "The main goal of this project is developing a complete synthesis and optimization methodology for switching nano-crossbar arrays that leads to the design and construction of an emerging nanocomputer. New computing models for diode, FET, and four-terminal switch based nanoarrays are developed. The proposed methodology implements both arithmetic and memory elements, necessitated by achieving a computer, by considering performance parameters such as area, delay, power dissipation, and reliability. With combination of arithmetic and memory elements a synchronous state machine (SSM), representation of a computer, is realized. The proposed methodology targets variety of emerging technologies including nanowire/nanotube crossbar arrays, magnetic switch-based structures, and crossbar memories. The results of this project will be a foundation of nano-crossbar based circuit design techniques and greatly contribute to the construction of emerging computers beyond CMOS. \n\nThe topic of this project can be considered under the research area of ìEmerging Computing Modelsî or ìComputational Nanoelectronicsî, more specifically the design, modeling, and simulation of new nanoscale switches beyond CMOS. The topic is well addressed and fit in H2020 work programmes FET (Future and Emerging Technologies) and ICT-25 (Generic Micro- and Nano-electronic Technologies).",
+    "totalCost": "724500",
+    "ecMaxContribution": "643500",
+    "coordinator": "ISTANBUL TEKNIK UNIVERSITESI",
+    "coordinatorCountry": "TR",
+    "participants": "INSTITUT POLYTECHNIQUE DE GRENOBLE;IROC TECHNOLOGIES SA;KARLSRUHER INSTITUT FUER TECHNOLOGIE;UNIVERSITA DEGLI STUDI DI MILANO",
+    "participantCountries": "FR;DE;IT",
+    "projectParticipants": {
+        "997941433": {
+            "orgId": "997941433",
+            "orgName": "IROC TECHNOLOGIES SA",
+            "ecContrib": 0
+        },
+        "999866592": {
+            "orgId": "999866592",
+            "orgName": "ISTANBUL TEKNIK UNIVERSITESI",
+            "ecContrib": 270000
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 166500
+        },
+        "999875225": {
+            "orgId": "999875225",
+            "orgName": "INSTITUT POLYTECHNIQUE DE GRENOBLE",
+            "ecContrib": 108000
+        },
+        "999995796": {
+            "orgId": "999995796",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MILANO",
+            "ecContrib": 99000
+        }
+    },
+    "calculatedTotalContribution": 643500
+}

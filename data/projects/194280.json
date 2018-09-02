@@ -1,0 +1,48 @@
+{
+    "rcn": "194280",
+    "acronym": "COMANOID",
+    "topics": "ICT-23-2014",
+    "title": "Multi-contact Collaborative Humanoids in Aircraft Manufacturing",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "COMANOID investigates the deployment of robotic solutions in well-identified Airbus airliner assembly operations that are laborious or tedious for human workers and for which access is impossible for wheeled or rail-ported robotic platforms. As a solution to these constraints a humanoid robot is proposed to achieve the described tasks in real-use cases provided by Airbus Group. At a first glance, a humanoid robotic solution appears extremely risky, since the operations to be conducted are in highly constrained aircraft cavities with non-uniform (cargo) structures. Furthermore, these tight spaces are to be shared with human workers. Recent developments, however, in multi-contact planning and control suggest that this is a much more plausible solution than current alternatives such as a manipulator mounted on multi-legged base. Indeed, if humanoid robots can efficiently exploit their surroundings in order to support themselves during motion and manipulation, they can ensure balance and stability, move in non-gaited (acyclic) ways through narrow passages, and also increase operational forces by creating closed-kinematic chains. Bipedal robots are well suited to narrow environments specifically because they are able to perform manipulation using only small support areas. Moreover, the stability benefits of multi-legged robots that have larger support areas are largely lost when the manipulator must be brought close, or even beyond, the support borders. COMANOID aims at assessing clearly how far the state-of-the-art stands from such novel technologies. In particular the project focuses on implementing a real-world humanoid robotics solution using the best of research and innovation. The main challenge will be to integrate current scientific and technological advances including multi-contact planning and control; advanced visual-haptic servoing; perception and localization; human-robot safety and the operational efficiency of cobotics solutions in airliner manufacturing.",
+    "totalCost": "4244481,25",
+    "ecMaxContribution": "4244481,25",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;AIRBUS SAS;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;AIRBUS GROUP SAS;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "participantCountries": "FR;DE;IT",
+    "projectParticipants": {
+        "999980082": {
+            "orgId": "999980082",
+            "orgName": "AIRBUS GROUP SAS",
+            "ecContrib": 0
+        },
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 719215
+        },
+        "999963010": {
+            "orgId": "999963010",
+            "orgName": "AIRBUS SAS",
+            "ecContrib": 800071
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1156538
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 795998
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 772660
+        }
+    },
+    "calculatedTotalContribution": 4244482
+}

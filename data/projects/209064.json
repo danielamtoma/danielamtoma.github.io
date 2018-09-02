@@ -1,0 +1,23 @@
+{
+    "rcn": "209064",
+    "acronym": "DUF",
+    "topics": "MSCA-IF-2016",
+    "title": "Deep Learning UAV Networks for Autonomous Forest Firefighting",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2019",
+    "objective": "Thousands of hectares of forest lands are lost to wildfires every year. Utilization of Unmanned Aerial Vehicles (UAVs) is an efficient tool for fighting fires, however the state-of-the-art techniques lack in ability to predict fire spread direction and coordinate multiple UAVs to suppress the fire under limited communication. DUF project aims to apply powerful tools from artificial intelligence domain to UAV firefighting problem, creating an innovative solution for autonomous firefighting, which will reduce the amount of lands lost to fires. DUF will use the deep learning techniques for estimating the fire spread direction from infrared camera streams obtained from UAVs. Deep learning is a mature technology for classical image recognition, but the use of deep learning to learn predictive models for fire spread is a novel approach. After the model is learned, a decentralized approximate dynamic planning algorithm will be utilized to coordinate UAV actions for suppressing the fire. The algorithm development, simulations and first phase of the flight experiments will be conducted at Istanbul Technical University (ITU) Aerospace Research Center (ARC). The project will conclude with flight tests conducted on natural forest fires, with operational support from Forest of Ministry of Turkey. Prof. Ure earned his Ph.D. degree from Massachusetts Institute of Technology, working on advanced UAV projects and collaborating with leading researchers in the world. He has extensive experience on autonomous systems and published more than 30 critically acclaimed journal and conference papers in this subject. Prof. Ure is currently working as assistant professor in ITU and through this innovative multidisciplinary research and with the help of experimental infrastructure provided by the ITU, Prof. Ure is expected to gain maturity in managing research projects and advance his career toward being an esteemed professor in the field of aeronautics and artificial intelligence in Europe.",
+    "totalCost": "145845,6",
+    "ecMaxContribution": "145845,6",
+    "coordinator": "ISTANBUL TEKNIK UNIVERSITESI",
+    "coordinatorCountry": "TR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999866592": {
+            "orgId": "999866592",
+            "orgName": "ISTANBUL TEKNIK UNIVERSITESI",
+            "ecContrib": 145846
+        }
+    },
+    "calculatedTotalContribution": 145846
+}

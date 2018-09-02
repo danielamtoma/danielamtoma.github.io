@@ -1,0 +1,38 @@
+{
+    "rcn": "213199",
+    "acronym": "ENVISION",
+    "topics": "SESAR-ER3-05-2016",
+    "title": "Enhanced Situational Awareness through Video Integration with ADS-B Surveillance Infrastructure on Airports",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2019",
+    "objective": "The constant growth of air traffic will put regional and local airports under ever more pressure for increasing their capacity. However, safety and efficiency gains allowed by the deployment of A-SMGCS systems currently remain out of most small to medium size platformsí reach because of prohibitive infrastructure costs. Due to the intrinsic attributes of current surveillance technologies and airport surface coverage constraints, airports are required to deploy complex and costly infrastructures involving multiple sensors of different kinds: ADS-B, MLAT, SMR.\n\nENVISION is an ATM application-oriented research project, under the SESAR 2020 Programme ìEnabling Aviation Infrastructure: CNSî topic which aims at making use of technical progress in CCTV cameras, LIDAR technology and image processing techniques, and at taking advantage of reduced equipment costs, to provide regional and local airports safe and affordable surface movements surveillance capabilities for ATC and A-CDM services.\n\nIn a stepwise approach, in two airports, the consortium will evaluate and demonstrate the operational, technical and economic feasibility of implementing CCTV and LIDAR technology in complement of ADS-B on the airport surface in providing identification and positioning data in A-SMGCS. Additionally, the project will assess the benefits of using this technical solution to feed A-CDM (Airport Collaborative Decision Making) milestones and provide a surveillance display to airport stakeholders.",
+    "totalCost": "1259325",
+    "ecMaxContribution": "983083",
+    "coordinator": "ALTYS TECHNOLOGIES SAS",
+    "coordinatorCountry": "FR",
+    "participants": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;ECOLE NATIONALE DE L AVIATION CIVILE;GRAFFICA LTD",
+    "participantCountries": "BE;FR;UK",
+    "projectParticipants": {
+        "973330205": {
+            "orgId": "973330205",
+            "orgName": "GRAFFICA LTD",
+            "ecContrib": 86983
+        },
+        "997626571": {
+            "orgId": "997626571",
+            "orgName": "ALTYS TECHNOLOGIES SAS",
+            "ecContrib": 420600
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        },
+        "996375756": {
+            "orgId": "996375756",
+            "orgName": "ECOLE NATIONALE DE L AVIATION CIVILE",
+            "ecContrib": 475500
+        }
+    },
+    "calculatedTotalContribution": 983083
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "212352",
+    "acronym": "TABEDE",
+    "topics": "EE-12-2017",
+    "title": "TowArds Building rEady for Demand rEsponse",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "TABEDE aims to allow all buildings equipped with Building Energy Management Systems to integrate energy grid demand response schemes, overcoming limitations linked to missing interoperability, at reducedcost. For that purpose, TABEDE will allow connection of all dispatchable loads to the Building Energy System through a dedicated TABEDE interface, whatever the communication protocol. A dedicated smart grid communication protocol translator will be provided to ease the acceptance of the TABEDE system as well as a database of dispatchable load drivers. Moreover, in order to improve building efficiency, novel building energy management strategies will be proposed, in terms of electric load and thermal management, adapting to the evolving environment, as well as building continuous monitoring.\nTABEDE solution will be demonstrated and assessed through extensive simulation-based testing.  The proposed solutions will be deployed on three test sites (residential and tertiary)  that are representative of EU building stocks and conditions.",
+    "totalCost": "3760485",
+    "ecMaxContribution": "3125469,38",
+    "coordinator": "TRACTEBEL ENGINEERING",
+    "coordinatorCountry": "BE",
+    "participants": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;SCHNEIDER ELECTRIC INDUSTRIES SAS;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;Schneider Electric SPA;R2M SOLUTION SRL;CARDIFF UNIVERSITY",
+    "participantCountries": "CH;FR;IT;UK",
+    "projectParticipants": {
+        "952850110": {
+            "orgId": "952850110",
+            "orgName": "R2M SOLUTION SRL",
+            "ecContrib": 184100
+        },
+        "998086739": {
+            "orgId": "998086739",
+            "orgName": "TRACTEBEL ENGINEERING",
+            "ecContrib": 641572
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 392875
+        },
+        "963864363": {
+            "orgId": "963864363",
+            "orgName": "Schneider Electric SPA",
+            "ecContrib": 333156
+        },
+        "999444448": {
+            "orgId": "999444448",
+            "orgName": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
+            "ecContrib": 322875
+        },
+        "999979694": {
+            "orgId": "999979694",
+            "orgName": "CARDIFF UNIVERSITY",
+            "ecContrib": 378305
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 872586
+        }
+    },
+    "calculatedTotalContribution": 3125469
+}

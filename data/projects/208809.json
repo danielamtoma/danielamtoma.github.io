@@ -1,0 +1,23 @@
+{
+    "rcn": "208809",
+    "acronym": "BG-BB-AS",
+    "topics": "ERC-2016-COG",
+    "title": "Birational Geometry, B-branes and Artin Stacks",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Derived categories of coherent sheaves on a variety are a fundamental tool in algebraic geometry. They also arise in String Theory, as the category of B-branes in a quantum field theory whose target space is the variety. This connection to physics has been extraordinarily fruitful, providing deep insights and conjectures.\n An Artin stack is a sophisticated generalization of a variety, they encode the idea of equivariant geometry. A simple example is a vector space carrying a linear action of a Lie group. In String Theory this data defines a Gauged Linear Sigma Model, which is a basic tool in the subject. A GLSM should also give rise to a category of B-branes, but surprisingly it is not yet understood what this should be. An overarching goal of this project is to develop an understanding of this category (more accurately, system of categories), and to extend this understanding to more general Artin stacks.\n The basic importance of this question is that in certain limits a GLSM reduces to a sigma model, whose target is a quotient of the vector space by the group. This quotient must be taken using Geometric Invariant Theory. Thus this project is intimately connected with the question of how derived categories change under variation-of-GIT, and birational maps in general.\n For GLSMs with abelian groups this approach has already produced spectacular results, in the non-abelian case we understand only a few remarkable examples. We will develop these examples into a wide-ranging general theory.\n Our key objectives are to:\n- Provide powerful new tools for controlling the behaviour of derived categories under birational maps.\n- Understand the category of B-branes on a large class of Artin stacks.\n- Prove and apply a striking new duality between GLSMs.\n- Construct completely new symmetries of derived categories.",
+    "totalCost": "1358925",
+    "ecMaxContribution": "1358925",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 1358925
+        }
+    },
+    "calculatedTotalContribution": 1358925
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "199513",
+    "acronym": "COHEGRAPH",
+    "topics": "ERC-StG-2015",
+    "title": "Electron quantum optics in Graphene",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2021",
+    "objective": "Quantum computing is based on the manipulation of quantum bits (qubits) to enhance the efficiency of information processing. In solid-state systems, two approaches have been explored: \n\nï static qubits, coupled to quantum buses used for manipulation and information transmission,\nï flying qubits which are mobile qubits propagating in quantum circuits for further manipulation.\n\n Flying qubits research led to the recent emergence of the field of electron quantum optics, where electrons play the role of photons in quantum optic like experiments. This has recently led to the development of electronic quantum interferometry as well as single electron sources. As of yet, such experiments have only been successfully implemented in semi-conductor heterostructures cooled at extremely low temperatures. Realizing electron quantum optics experiments in graphene, an inexpensive material showing a high degree of quantum coherence even at moderately low temperatures, would be a strong evidence that quantum computing in graphene is within reach.\nOne of the most elementary building blocks necessary to perform electron quantum optics experiments is the electron beam splitter, which is the electronic analog of a beam splitter for light. However, the usual scheme for electron beam splitters in semi-conductor heterostructures is not available in graphene because of its gapless band structure. I propose a breakthrough in this direction where pn junction plays the role of electron beam splitter. This will lead to the following achievements considered as important steps towards quantum computing:\n\nï electronic Mach Zehnder interferometry used to study the quantum  coherence properties of graphene,\nï two electrons Aharonov Bohm interferometry used to generate entangled states as an elementary quantum gate,\nï the implementation of on-demand electronic sources in the GHz range for graphene flying qubits.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

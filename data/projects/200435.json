@@ -1,0 +1,23 @@
+{
+    "rcn": "200435",
+    "acronym": "FastFlowSim",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Fast particle-based time integrator for incompressible flows simulations",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2018",
+    "objective": "The FastFlowSim projectís aim is to develop a fast and accurate particle-based time integrator for the simulation of incompressible flows. The developments will be done within the framework of the particle finite element method and using a semi-Lagrangian semi-implicit formulation of the flow equations. The principal strategy used to attain a faster method is to push further the stability limit of the time integrator which allows us to take larger time steps without deteriorating the accuracy.\nFollowing this line, we present a new concept: the fluid particle position and velocity are integrated within a time step using analytical solutions to an explicit second-order system of differential equations for the acceleration. Our hypothesis is that the trajectories computed in this manner approximate better the exact pathlines. It is expected to provide better stability and accuracy when using large time steps.\nThe analytical solution of the particle trajectories involves computing certain small and fixed-size matrix functions. The development of numerically stable algorithms for the robust computation these matrix functions is a specific objective. Prof. Higham is an expert in this highly specialized area and my knowledge of matrix functions and error analysis will be significantly expanded and enriched during the implementation of this project. This project will serve as a mechanism for the host to demonstrate cross-disciplinary impact of the research on the theory of matrix functions.\nThe end users are CFD engineers who assist product-design engineers working in but not limited to offshore technologies, sea defence structures and sea-worthiness analysis of watercrafts. It will provide them deeper insight into the performance of innovative product designs at a faster rate. Further, it will widen the scope and suitability of incompressible flow simulation tools to a larger set of cutting-edge technology products subjected to challenging physical conditions.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "THE UNIVERSITY OF MANCHESTER",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

@@ -1,0 +1,148 @@
+{
+    "rcn": "206256",
+    "acronym": "PJ03b SAFE",
+    "topics": "SESAR.IR-VLD.Wave1-06-2015",
+    "title": "Airport Safety Nets",
+    "startDate": "01/11/2016",
+    "endDate": "31/12/2019",
+    "objective": "Safety is aviationís top priority. To work for even safer airports, Project 03b SAFE will define, consolidate and validate additional safety bareers to mitigate the risks of runway incursion, runway excursion and more generally the risk of incidents and accidents involving aircraft at the airport. They will be declined into four Solutions:\n\nSolution ëEnhanced airport safety support tools for controllersí will provide Air Traffic Controllers with means to prevent the delivery of conflicting clearances and detect non-conformance to clearances on the entire airport.\n\nSolution ëConformance monitoring alerts for pilotsí will warn pilots when an inconsistency between the aircraft behaviour with either ATC Clearance or procedure is detected. \n\nSolution ëTraffic alerts for pilots for airport operationsí is a key feature to significantly decrease the risk of collision with any mobile on runway and taxiways, improving safety on airport surface. \n\nSolution ëSafety support tools for avoiding runway excursionsí will address the most frequent type of runway safety accident (22% of all accidents over the 2010-2014 period according to IATA Safety Report). The work will focus on how the risk of runway excursion can be mitigated by on-board and ground systems that could warn pilots, controllers or both when appropriate. This solution requires a better knowledge of runway braking conditions, and can improve the runway capacity and environmental aspects through a better management of decontamination operations. \n\nDedicated tasks to support standardization activities will be performed in each solution when appropriate.\nPJ03b Consortium involves key stakeholders of Airborne Industry, Ground ATM Industry, Service Providers (ATM and Airports), Aerospace Research and EUROCONTROL. Those members of the SJU will cooperate for implementing SESAR 2020 in an efficient, open and timely manner, providing a wide range of expertise and committing together to deliver high-quality results.",
+    "totalCost": "13542193,39",
+    "ecMaxContribution": "5014079,38",
+    "coordinator": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+    "coordinatorCountry": "FR",
+    "participants": "AIRBUS SAS;POLSKA AGENCJA ZEGLUGI POWIETRZNEJ;HUNGAROCONTROL MAGYAR LEGIFORGALMISZOLGALAT ZARTKORUEN MUKODO RESZVENYTARSASAG;RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK;STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;FLUGHAFEN ZURICH AG;SWEDAVIA AB;ENAV SPA;HONEYWELL AEROSPACE;FLUGHAFEN MUNCHEN GMBH;VALSTYBES IMONE ORO NAVIGACIJA;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;ATOS BELGIUM;AEROPORTS DE PARIS;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;AVINOR AS;THALES AVS FRANCE SAS;FREQUENTIS AG;INDRA SISTEMAS SA;HEATHROW AIRPORT LIMITED;THALES LAS FRANCE SAS;DASSAULT AVIATION;LETOVE PREVADZKOVE SLUZBY SLOVENSKEJ REPUBLIKY, STATNY PODNIK;LEONARDO - SOCIETA PER  AZIONI;DFS DEUTSCHE FLUGSICHERUNG GMBH;SCHIPHOL NEDERLAND B.V.",
+    "participantCountries": "FR;PL;HU;CZ;NL;CH;SE;IT;DE;LT;BE;NO;AT;ES;UK;SK",
+    "projectParticipants": {
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 350082
+        },
+        "995562023": {
+            "orgId": "995562023",
+            "orgName": "POLSKA AGENCJA ZEGLUGI POWIETRZNEJ",
+            "ecContrib": 232449
+        },
+        "999936820": {
+            "orgId": "999936820",
+            "orgName": "DFS DEUTSCHE FLUGSICHERUNG GMBH",
+            "ecContrib": 237766
+        },
+        "919915991": {
+            "orgId": "919915991",
+            "orgName": "VALSTYBES IMONE ORO NAVIGACIJA",
+            "ecContrib": 0
+        },
+        "957126452": {
+            "orgId": "957126452",
+            "orgName": "LETOVE PREVADZKOVE SLUZBY SLOVENSKEJ REPUBLIKY, STATNY PODNIK",
+            "ecContrib": 155306
+        },
+        "944977784": {
+            "orgId": "944977784",
+            "orgName": "FLUGHAFEN MUNCHEN GMBH",
+            "ecContrib": 0
+        },
+        "999963010": {
+            "orgId": "999963010",
+            "orgName": "AIRBUS SAS",
+            "ecContrib": 865297
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 399651
+        },
+        "968723384": {
+            "orgId": "968723384",
+            "orgName": "HEATHROW AIRPORT LIMITED",
+            "ecContrib": 0
+        },
+        "957080474": {
+            "orgId": "957080474",
+            "orgName": "AEROPORTS DE PARIS",
+            "ecContrib": 187684
+        },
+        "923041331": {
+            "orgId": "923041331",
+            "orgName": "HONEYWELL AEROSPACE",
+            "ecContrib": 444834
+        },
+        "999984447": {
+            "orgId": "999984447",
+            "orgName": "THALES AVS FRANCE SAS",
+            "ecContrib": 92624
+        },
+        "928673636": {
+            "orgId": "928673636",
+            "orgName": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+            "ecContrib": 551961
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 37834
+        },
+        "984282281": {
+            "orgId": "984282281",
+            "orgName": "SWEDAVIA AB",
+            "ecContrib": 0
+        },
+        "999957675": {
+            "orgId": "999957675",
+            "orgName": "DASSAULT AVIATION",
+            "ecContrib": 395939
+        },
+        "998307317": {
+            "orgId": "998307317",
+            "orgName": "FREQUENTIS AG",
+            "ecContrib": 233691
+        },
+        "938275375": {
+            "orgId": "938275375",
+            "orgName": "AVINOR AS",
+            "ecContrib": 0
+        },
+        "999931388": {
+            "orgId": "999931388",
+            "orgName": "SCHIPHOL NEDERLAND B.V.",
+            "ecContrib": 0
+        },
+        "923069461": {
+            "orgId": "923069461",
+            "orgName": "ATOS BELGIUM",
+            "ecContrib": 0
+        },
+        "998197513": {
+            "orgId": "998197513",
+            "orgName": "ENAV SPA",
+            "ecContrib": 35552
+        },
+        "999961555": {
+            "orgId": "999961555",
+            "orgName": "THALES LAS FRANCE SAS",
+            "ecContrib": 574630
+        },
+        "954552363": {
+            "orgId": "954552363",
+            "orgName": "RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK",
+            "ecContrib": 159123
+        },
+        "999594992": {
+            "orgId": "999594992",
+            "orgName": "FLUGHAFEN ZURICH AG",
+            "ecContrib": 0
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 59657
+        }
+    },
+    "calculatedTotalContribution": 5014080
+}

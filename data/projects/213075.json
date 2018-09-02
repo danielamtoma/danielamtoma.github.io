@@ -1,0 +1,23 @@
+{
+    "rcn": "213075",
+    "acronym": "CATALOG",
+    "topics": "ERC-2017-PoC",
+    "title": "Computational catalog of multiscale materials: a plugin library for industrial finiteelement codes",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2019",
+    "objective": "The Proof of Concept CATALOG will explore the industrial applicability and potential for commercialization of a prototype of a ìcomputational multiscale material catalogî, to exploit HPROM (high?performance reduced order modeling), a technology developed in the ERC Advanced Grant COMP-DES-MAT for advanced material simulation. CATALOG will provide extremely fast and accurate multiscale capabilities to existing commercial Finite Element Analysis Solvers (FEAS), greatly enhancing their standard simulation performance. This solution effectively addresses the current need for high-performance simulations, currently not provided by established multiscale approaches.\n\nThe efficient and accurate material multiscale simulation technology HPROM ócore technology behind CATALOGó is capable of outperforming state-of-the-art solutions by 1000x in computational cost at same precision. This software will provide the user with a rich selection of validated multiscale material models, and customizable accuracy-speedup, at unprecedented performance. CATALOG will be the first product able to fulfill the industrial requirement for time, accuracy and offer of models, enabling a new set of routine analysis in currently available FEAS.\n\nPresented as a pluginónoninvasive and adaptable to most popular commercial FEAS toolsóthe computational techniques used in CATALOG will be welcomed by the manufacturing sectors that heavily depend on detailed material simulations for design and analysis of new materials and optimization of production processes.",
+    "totalCost": "149991",
+    "ecMaxContribution": "149991",
+    "coordinator": "CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999658721": {
+            "orgId": "999658721",
+            "orgName": "CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA",
+            "ecContrib": 149991
+        }
+    },
+    "calculatedTotalContribution": 149991
+}

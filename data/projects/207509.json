@@ -1,0 +1,23 @@
+{
+    "rcn": "207509",
+    "acronym": "MPM",
+    "topics": "ERC-CoG-2015",
+    "title": "Modern Pattern Matching",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "The advances in technology over the last decade and the massive amount of data passing through the internet has intrigued and challenged computer scientists, as the old models of computation used before this era are now less relevant or too slow. New computational models have been suggested to tackle these technological advances. In the most basic sense, these modern models allow one to scan the input only once, possible with small auxiliary memory. Nevertheless, modern techniques have also been introduced such as sparse recovery which has proven to be a very useful tool for dealing with modern challenges, and the very popular notion of conditional lower bounds which has provided evidence of hardness for various algorithmic tasks based on very popular conjectures.\n\nPattern matching plays a crucial role in many computing applications that can be seen in day to day life. However, its research community has only recently started gaining insight on what can be done in modern models, and is lagging behind in this respect. In particular, there are no algorithms for pattern matching problems that have utilized ideas from sparse recovery, and only recently has there been progress in proving conditional lower bounds for string problems. Furthermore, conditional lower bounds suffer from the lack of hardness conjectures which address time/space tradeoffs.\n\nThis proposal will close this gap for many important pattern matching problems within the new models of computation, and will be the first to utilize modern algorithmic techniques, such as sparse recovery, and adapting them into the pattern matching world. Furthermore, this proposal will focus on developing a theory for proving conditional time/space lower bounds, based on new hardness conjectures. This will greatly influence not only the pattern matching sub-field, but the entire algorithmic field at large.",
+    "totalCost": "1994609",
+    "ecMaxContribution": "1994609",
+    "coordinator": "BAR ILAN UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999886574": {
+            "orgId": "999886574",
+            "orgName": "BAR ILAN UNIVERSITY",
+            "ecContrib": 1994609
+        }
+    },
+    "calculatedTotalContribution": 1994609
+}

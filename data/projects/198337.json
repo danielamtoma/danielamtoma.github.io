@@ -1,0 +1,48 @@
+{
+    "rcn": "198337",
+    "acronym": "MuG",
+    "topics": "EINFRA-9-2015",
+    "title": "Multi-Scale Complex Genomics",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2018",
+    "objective": "Genomics is probably the fastest evolving field in current science. A decade ago our main concern was to obtain the sequence (the 1D code) of the genome; but today the big challenges are to determine how genotype information is transferred into phenotype, and how pathological phenotypic changes can be predicted from genome alterations. While investigating these points, we have realized that a part of the regulation of gene expression is implicitly coded in the way in which chromatin is folded. As technology has advanced and information of the folded state of chromatin has emerged, a new branch of genomics (3D/4D genomics) has emerged. Hundreds of laboratories are now defining a young and active community that, though in the end concerned with the same scientific problem, uses many different approaches to study it that individually target radically different length and timescales. The community faces severe practical problems related to: i) how huge, noisy, and diverse data related to widely different size and time scales can be integrated, ii) the lack of standardized analysis and simulation tools, iii) the complete disconnection of associated informatics databases, and iv) the lack of validated and flexible visualization engines. MuG is born at the critical point in the evolution of the field, in a bottom-up approach from the biologist who are suffering severe IT problemes. MuG, supported by European leaders in the field, join three different expertise: biologist with interest in chromatin structure, methods developers and HPC facilities with strong history of supporting Bio-computational problems. We believe that MuG will be a steep-forward in approaching the potential of High Performance Computing to the development of 3D/4D genomics, and will contribute to give a structure to this new and exciting field.",
+    "totalCost": "2961163,75",
+    "ecMaxContribution": "2961163",
+    "coordinator": "FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA)",
+    "coordinatorCountry": "ES",
+    "participants": "EUROPEAN MOLECULAR BIOLOGY LABORATORY;THE UNIVERSITY OF NOTTINGHAM;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;FUNDACIO CENTRE DE REGULACIO GENOMICA;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "DE;UK;FR;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 470250
+        },
+        "999544455": {
+            "orgId": "999544455",
+            "orgName": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+            "ecContrib": 510695
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 335547
+        },
+        "999541836": {
+            "orgId": "999541836",
+            "orgName": "FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA)",
+            "ecContrib": 668625
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 567955
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 408091
+        }
+    },
+    "calculatedTotalContribution": 2961163
+}

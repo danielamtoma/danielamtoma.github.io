@@ -1,0 +1,68 @@
+{
+    "rcn": "194326",
+    "acronym": "U-Test",
+    "topics": "ICT-01-2014",
+    "title": "Testing Cyber-Physical Systems under Uncertainty: Systematic, Extensible, and Configurable Model-based and Search-based Testing Methodologies",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Uncertainty is intrinsic in Cyber-Physical Systems (CPSs) due to novel interactions of embedded systems, networking equipment, cloud infrastructures, and humans. CPSs have become predominant in critical domains and necessitate the implementation of proper mechanisms to deal with uncertainty during their operation at an acceptable cost avoiding unwarranted threats to its users and environment. One way to guarantee the correct implementation of such mechanisms is via automated and systematic Model-Based Testing (MBT)óa way of improving dependability.\nU-Test will improve the dependability of CPSs by defining extensible MBT frameworks supporting holistic MBT of CPSs under uncertainty in a cost-effective manner. More specifically our objectives are: 1) Provide a comprehensive and extensible taxonomy of uncertainties classifying uncertainties, their properties, and relationships; 2) An Uncertainty Modelling Framework (UMF) to support modelling uncertainties at various levels relying on exiting modelling/testing standards; 3) Defining an intelligent way to evolve uncertainty models developed using UMF towards realistic unknown uncertainty models using search algorithms (e.g., Genetic Algorithms); 4) Generating cost-effective test cases from uncertainty and evolved models. \nU-Test consortium encompasses domain experts from various facets of CPSs, i.e., software, embedded systems, distributed systems, and cloud infrastructure. We have chosen two case studies from diverse domains including Handling Systems and Geo Sports to assess the cost-effectiveness of U-Test. The solutions will be integrated into two key commercial tools available in the market: ModelBus/Fokus!MBT and CertifyIt. Moreover, the solutions will be deployed into the actual practise in addition to standardization to achieve a wider impact within Logistics, Geo Sports, and Healthcare domains and further facilitate interoperability among tools and technologies.",
+    "totalCost": "3713233,75",
+    "ecMaxContribution": "3713233,75",
+    "coordinator": "NORWAY HEALTH TECH",
+    "coordinatorCountry": "NO",
+    "participants": "V‰rmlands l‰ns landsting;TECHNISCHE UNIVERSITAET WIEN;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;SIMULA RESEARCH LABORATORY AS;ULMA MANUTENCION S. COOP.;FUTURE POSITION X IDEELL FORENING;NORDIC MEDTEST AB;EASY GLOBAL MARKET SAS;IKERLAN S COOP",
+    "participantCountries": "SE;AT;DE;NO;ES;FR",
+    "projectParticipants": {
+        "999581315": {
+            "orgId": "999581315",
+            "orgName": "IKERLAN S COOP",
+            "ecContrib": 333062
+        },
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 348375
+        },
+        "995915976": {
+            "orgId": "995915976",
+            "orgName": "SIMULA RESEARCH LABORATORY AS",
+            "ecContrib": 829008
+        },
+        "950644233": {
+            "orgId": "950644233",
+            "orgName": "NORWAY HEALTH TECH",
+            "ecContrib": 488992
+        },
+        "942703425": {
+            "orgId": "942703425",
+            "orgName": "ULMA MANUTENCION S. COOP.",
+            "ecContrib": 238125
+        },
+        "941555527": {
+            "orgId": "941555527",
+            "orgName": "Värmlands läns landsting",
+            "ecContrib": 103453
+        },
+        "993992078": {
+            "orgId": "993992078",
+            "orgName": "FUTURE POSITION X IDEELL FORENING",
+            "ecContrib": 141319
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 528039
+        },
+        "915586687": {
+            "orgId": "915586687",
+            "orgName": "NORDIC MEDTEST AB",
+            "ecContrib": 182861
+        },
+        "972455847": {
+            "orgId": "972455847",
+            "orgName": "EASY GLOBAL MARKET SAS",
+            "ecContrib": 520000
+        }
+    },
+    "calculatedTotalContribution": 3713234
+}

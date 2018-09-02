@@ -1,0 +1,68 @@
+{
+    "rcn": "194256",
+    "acronym": "DICE",
+    "topics": "ICT-09-2014",
+    "title": "Developing Data-Intensive Cloud Applications with Iterative Quality Enhancements",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "The rapid increase in demand for data-intensive applications capable of exploiting Big Data technologies such as Hadoop/MapReduce, NoSQL, cloud-based storage, and stream processing is creating massive growth opportunities for European independent software vendors (ISVs). However, developing software that meets the high-quality standards expected for business-critical cloud applications remains a barrier to this market for many small and medium ISVs, which often lack resources and expertise for advanced quality engineering.\n\nDICE will tackle this challenge by defining a quality-driven development methodology and related tools that will markedly accelerate the development of business-critical data-intensive applications running on public or private clouds. Building on the principles of model-driven development (MDD) and on popular standards such as UML, MARTE and TOSCA, the project will first define a novel MDD methodology that can describe data and data-intensive technologies in cloud applications. A quality engineering toolchain offering simulation, verification, and numerical optimisation will leverage these extensions to drive the early design stages of the application development and guide software quality evolution.\n\nDevOps-inspired methods for deployment, testing, continuous integration and monitoring feedback analysis will be used to accelerate the incorporation of quality in data-intensive cloud application both in public and private deployments, enhancing the capability of small and medium European ISVs to enter the Big Data market.",
+    "totalCost": "3954484",
+    "ecMaxContribution": "3954484",
+    "coordinator": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "coordinatorCountry": "UK",
+    "participants": "ATHENS TECHNOLOGY CENTER ANONYMI BIOMICHANIKI EMPORIKI KAI TECHNIKI ETAIREIA EFARMOGON YPSILIS TECHNOLOGIAS;UNIVERSIDAD DE ZARAGOZA;XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO;INSTITUTUL E-AUSTRIA TIMISOARA;PRODEVELOP;NETFECTIVE TECHNOLOGY SA;FLEXIANT LIMITED;FLEXIOPS LIMITED;POLITECNICO DI MILANO",
+    "participantCountries": "EL;ES;SI;RO;FR;UK;IT",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 712059
+        },
+        "999773375": {
+            "orgId": "999773375",
+            "orgName": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO",
+            "ecContrib": 356262
+        },
+        "999624674": {
+            "orgId": "999624674",
+            "orgName": "INSTITUTUL E-AUSTRIA TIMISOARA",
+            "ecContrib": 295375
+        },
+        "986084444": {
+            "orgId": "986084444",
+            "orgName": "FLEXIANT LIMITED",
+            "ecContrib": 0
+        },
+        "999751744": {
+            "orgId": "999751744",
+            "orgName": "ATHENS TECHNOLOGY CENTER ANONYMI BIOMICHANIKI EMPORIKI KAI TECHNIKI ETAIREIA EFARMOGON YPSILIS TECHNOLOGIAS",
+            "ecContrib": 425500
+        },
+        "999898214": {
+            "orgId": "999898214",
+            "orgName": "UNIVERSIDAD DE ZARAGOZA",
+            "ecContrib": 319200
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 530613
+        },
+        "916061405": {
+            "orgId": "916061405",
+            "orgName": "FLEXIOPS LIMITED",
+            "ecContrib": 344500
+        },
+        "996571696": {
+            "orgId": "996571696",
+            "orgName": "PRODEVELOP",
+            "ecContrib": 403100
+        },
+        "990694078": {
+            "orgId": "990694078",
+            "orgName": "NETFECTIVE TECHNOLOGY SA",
+            "ecContrib": 567875
+        }
+    },
+    "calculatedTotalContribution": 3954484
+}

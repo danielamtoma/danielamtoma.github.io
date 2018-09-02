@@ -1,0 +1,53 @@
+{
+    "rcn": "206071",
+    "acronym": "MINOTOR",
+    "topics": "COMPET-3-2016-b",
+    "title": "MagnetIc NOzzle thruster with elecTron cyclOtron Resonance",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "MINOTORís strategic objective is to demonstrate the feasibility of the ECRA technology as a disruptive game-changer in electric propulsion, and to prepare roadmaps paving the way for the 2nd EPIC call, in close alignment with the overall SRC-EPIC strategy.\nBased on electron cyclotron resonance (ECR) as the sole ionization and acceleration process, ECRA is a cathodeless thruster with magnetic nozzle, allowing thrust vectoring. It has a considerable advantage in terms of global system cost, where a reduction of at least a factor of 2 is expected, and reliability compared to mature technologies. It is also scalable and can potentially be considered for all electric propulsion applications, from microsatellites to space tugs. \nAlthough the first results obtained with ECRA have been encouraging, the complexity of the physics at play has been an obstacle for the understanding and development of the technology. Thus an in-depth numerical and experimental investigation plan has been devised for the project, in order to bring the technology from TRL3 to TRL5. The strong consortium is composed of academic experts to perform the research activities on ECRA, including alternative propellants, along with experienced industrial partners to quantify its disruptive advantages on the propulsion subsystem and its market positioning.\nECRAís advantages as an electric thruster technology can be a disruptive force in a mostly cost-driven satellite market. It would increase European competitiveness, help develop low-cost satellite missions such as constellations, provide end-of-life propulsion, and pave the way for future emerging electric propulsion technologies.\nThe 36 months MINOTOR project requests a total EC grant of 1 485 809 MÄ for an experienced consortium of 7 partners from 4 countries: ONERA (FR, Coordinator), industries Thales Alenia Space (BE), Thales Microelectronics (FR), SNECMA (FR), Universities Carlos III (ES) and Giessen (GE), and SME L-up (FR).",
+    "totalCost": "1485809,5",
+    "ecMaxContribution": "1485809,5",
+    "coordinator": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+    "coordinatorCountry": "FR",
+    "participants": "L - UP SAS;SAFRAN AIRCRAFT ENGINES;THALES ALENIA SPACE BELGIUM S.A.;THALES MICROELECTRONICS SAS;JUSTUS-LIEBIG-UNIVERSITAET GIESSEN;UNIVERSIDAD CARLOS III DE MADRID",
+    "participantCountries": "FR;BE;DE;ES",
+    "projectParticipants": {
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 599065
+        },
+        "999987163": {
+            "orgId": "999987163",
+            "orgName": "SAFRAN AIRCRAFT ENGINES",
+            "ecContrib": 70276
+        },
+        "986589038": {
+            "orgId": "986589038",
+            "orgName": "THALES ALENIA SPACE BELGIUM S.A.",
+            "ecContrib": 115059
+        },
+        "999840111": {
+            "orgId": "999840111",
+            "orgName": "JUSTUS-LIEBIG-UNIVERSITAET GIESSEN",
+            "ecContrib": 153750
+        },
+        "999773957": {
+            "orgId": "999773957",
+            "orgName": "L - UP SAS",
+            "ecContrib": 86907
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 310481
+        },
+        "925816307": {
+            "orgId": "925816307",
+            "orgName": "THALES MICROELECTRONICS SAS",
+            "ecContrib": 150271
+        }
+    },
+    "calculatedTotalContribution": 1485809
+}

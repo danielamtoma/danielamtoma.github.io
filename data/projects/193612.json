@@ -1,0 +1,23 @@
+{
+    "rcn": "193612",
+    "acronym": "OPT4SMART",
+    "topics": "ERC-StG-2014",
+    "title": "Distributed Optimization Methods for Smart Cyber-Physical Networks",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "The combination of embedded electronics and communication capability in almost any mobile or portable device has turned this century into the age of cyber-physical networks. Smart communicating devices with their sensing, computing and control capabilities promise to make our cities, transportation systems, factories and living environments more intelligent, energy-efficient, safe and secure. This extremely complex system has raised a number of new challenges involving ICT disciplines. In particular, a novel peer-to-peer distributed computational model is appearing as a new opportunity in which a service is built-up cooperatively by peers, rather than by a unique provider that knows and owns all data. The interdisciplinary ìOptimization Communityî is facing this revolution sharing a common need: to find new theories, methodologies and tools to optimize over this complex network system. With this in mind, OPT4SMART has a twofold objective. First, to provide a comprehensive theoretical framework to solve distributed optimization problems over peer-to-peer networks. Second, to develop effective numerical tools, based on this framework, to solve estimation, learning, decision and control problems in cyber-physical networks. To achieve this twofold objective, we will take a systems-theory perspective. Specific problems from these four areas will be abstracted to a common mathematical set-up, and addressed by means of interdisciplinary methodologies arising from a synergic combination of optimization, controls, and graph theories. In particular, OPT4SMART will face the challenge of solving optimization problems under severe communication limitations, very-large-scale problem and data size, and real-time computational constraints. The expected result will be a combination of strong theoretical methods and effective numerical toolboxes available to people in Engineering, Computer Science, Mathematics and other areas, who are facing optimization in cyber-physical networks.",
+    "totalCost": "1488750",
+    "ecMaxContribution": "1488750",
+    "coordinator": "UNIVERSITA DEL SALENTO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999863585": {
+            "orgId": "999863585",
+            "orgName": "UNIVERSITA DEL SALENTO",
+            "ecContrib": 1488750
+        }
+    },
+    "calculatedTotalContribution": 1488750
+}

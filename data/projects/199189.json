@@ -1,0 +1,53 @@
+{
+    "rcn": "199189",
+    "acronym": "HAMLET",
+    "topics": "ICT-27-2015",
+    "title": "Heterogeneous Advancement and hybrid integration of polymer and tripLEx platform for Integrated Microwave PhoTonics",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "Microwave photonics technology (MWP) has the potential to create a huge commercial impact by bringing together the worlds of microwave engineering and photonics and by enabling processing functionalities in microwave systems that are complex or totally impossible in the microwave domain. The main reason for not having achieved this so far has been the lack of a photonic integration technology that could address the specific needs of MWP. HAMLET aims to fill this gap and develop a disruptive photonic integration platform that will enable the development of very large scale photonic integrated circuits (VLSPICs) with cascaded stages of tunable structures for analog and digital signal processing, variety of optical processing functionalities and ultra-low optical loss. To this end, HAMLET will employ two integration levels. At the first one, it will develop a disruptive PZT-based phase-shifter technology on TriPleX platform with lower power consumption compared to thermal phase-shifters by almost one million times. At the same level HAMLET will incorporate the deposition of graphene films as a standard step in the fabrication process of polymer platform and will develop arrays of electro-absorption modulators with high bandwidth (>25 GHz). At the second integration level, HAMLET will bring together the two platforms under a 3D hybrid integration engine, and will develop circuits with record scale of integrated components (>300), record scale of functionalities with optical beamforming for 64-element antenna arrays at first place, and novel use as the interface between the wireless and the optical part at the antenna units of emerging 5G networks. Finally, in parallel with the system-related exploitation, HAMLET will also work on the unification of the two platforms under a multi-project wafer run type of services to external users, where the 3D integration engine will be used for provision of supersets of components and tools already available in the two platforms.",
+    "totalCost": "3487401,25",
+    "ecMaxContribution": "3487401,25",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "SATRAX BV;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;SOLMATES BV;LIONIX BV;LIONIX INTERNATIONAL BV;Linkra S.R.L.",
+    "participantCountries": "NL;DE;IT",
+    "projectParticipants": {
+        "968725712": {
+            "orgId": "968725712",
+            "orgName": "SATRAX BV",
+            "ecContrib": 0
+        },
+        "918272908": {
+            "orgId": "918272908",
+            "orgName": "LIONIX INTERNATIONAL BV",
+            "ecContrib": 765031
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 520000
+        },
+        "999659206": {
+            "orgId": "999659206",
+            "orgName": "LIONIX BV",
+            "ecContrib": 0
+        },
+        "998782035": {
+            "orgId": "998782035",
+            "orgName": "SOLMATES BV",
+            "ecContrib": 877500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 826984
+        },
+        "990657703": {
+            "orgId": "990657703",
+            "orgName": "Linkra S.R.L.",
+            "ecContrib": 497886
+        }
+    },
+    "calculatedTotalContribution": 3487401
+}

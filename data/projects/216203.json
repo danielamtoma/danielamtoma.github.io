@@ -1,0 +1,17 @@
+{
+    "rcn": "216203",
+    "acronym": "ALPHA",
+    "topics": "ERC-2017-ADG",
+    "title": "Alpha Shape Theory Extended",
+    "startDate": "01/07/2018",
+    "endDate": "30/06/2023",
+    "objective": "Alpha shapes were invented in the early 80s of last century, and their implementation in three dimensions in the early 90s was at the forefront of the exact arithmetic paradigm that enabled fast and correct geometric software. In the late 90s, alpha shapes motivated the development of the wrap algorithm for surface reconstruction, and of persistent homology, which was the starting point of rapidly expanding interest in topological algorithms aimed at data analysis questions. \n\nWe now see alpha shapes, wrap complexes, and persistent homology as three aspects of a larger theory, which we propose to fully develop. This viewpoint was a long time coming and finds its clear expression within a generalized\nversion of discrete Morse theory. This unified framework offers new opportunities, including\n(I) the adaptive reconstruction of shapes driven by the cavity structure;\n\n(II) the stochastic analysis of all aspects of the theory;\n(III) the computation of persistence of dense data, both in scale and in depth;\n\n(IV) the study of long-range order in periodic and near-periodic point configurations.\nThese capabilities will significantly deepen as well as widen the theory and enable new applications in the  sciences. To gain focus, we concentrate on low-dimensional applications in structural molecular biology and particle systems.",
+    "totalCost": "1678432",
+    "ecMaxContribution": "1678432",
+    "coordinator": "Institute of Science and Technology Austria",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

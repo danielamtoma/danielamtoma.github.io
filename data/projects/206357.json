@@ -1,0 +1,58 @@
+{
+    "rcn": "206357",
+    "acronym": "CloudPerfect",
+    "topics": "ICT-06-2016",
+    "title": "Enabling CLoud Orchestration, Performance and Cost Efficiency Tools for QoE Enhancement and Provider Ranking",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2018",
+    "objective": "Cloud environments are notorious for their lack of stability in performance characteristics, a feature that makes it extremely difficult for owners of time-critical applications to make the decisive step for migration and owners of SaaS to be unable to present performance vs cost tradeoffs to their customers when acting as IaaS customers. CLOUDPERFECT aims at delivering a set of tools and processes that will enable a) Cloud providers to enhance the stability and performance effectiveness of their infrastructures, through modelling/understanding of the overheads, optimal groupings of concurrently running services, runtime analysis and adaptation, thus gaining a competitive advantage  b) Cloud adopters to understand the computational nature of their applications, investigate abstracted and understandable QoS metrics for providers ranking, minimize the time of procurement and provider selection processes, automate deployment and orchestration processes, balance their selection between cost and performance to optimize their competitiveness, define according SLA levels (if on the SaaS level) and monitor the maintenance of their SLA  c) 3rd parties to act as independent validators of Cloud QoS features, through a constant monitoring, benchmarking and evaluation process, filling a gap in the current brokerage/consultancy domain for performance evaluation and SLA auditing.  The innovation action starts from mature existing prototypes derived from previous EC funded projects and aims at extending their TRL levels in order to support a spin-off entity to be created for the role of QoE Assessment Broker and Toolkit Consultant. The project will cover extensive experimentation with relation to the applicability of the envisioned toolkits in 4 facilities, while focusing on two heavy-weight industrial cases such as CFD and ERP/CRM, for which the overall value chain has been represented in the consortium, targeting domains such as manufacturing and telecom.",
+    "totalCost": "2923375",
+    "ecMaxContribution": "2309237,5",
+    "coordinator": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITAET ULM;COGNITY UK LIMITED;COSMOTE KINITES TILEPIKOINONIES AE;VALEO SYSTEMES THERMIQUES SAS;PHITEC INGEGNERIA SRL;ICON TECHNOLOGY & PROCESS CONSULTING LIMITED;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "participantCountries": "DE;UK;EL;FR;IT",
+    "projectParticipants": {
+        "999654550": {
+            "orgId": "999654550",
+            "orgName": "COSMOTE KINITES TILEPIKOINONIES AE",
+            "ecContrib": 207112
+        },
+        "937891643": {
+            "orgId": "937891643",
+            "orgName": "PHITEC INGEGNERIA SRL",
+            "ecContrib": 160562
+        },
+        "998208765": {
+            "orgId": "998208765",
+            "orgName": "VALEO SYSTEMES THERMIQUES SAS",
+            "ecContrib": 207375
+        },
+        "936119647": {
+            "orgId": "936119647",
+            "orgName": "UNIVERSITAET ULM",
+            "ecContrib": 426875
+        },
+        "919199840": {
+            "orgId": "919199840",
+            "orgName": "COGNITY UK LIMITED",
+            "ecContrib": 203000
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 449375
+        },
+        "998704726": {
+            "orgId": "998704726",
+            "orgName": "ICON TECHNOLOGY & PROCESS CONSULTING LIMITED",
+            "ecContrib": 314562
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 340375
+        }
+    },
+    "calculatedTotalContribution": 2309236
+}

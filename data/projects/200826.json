@@ -1,0 +1,63 @@
+{
+    "rcn": "200826",
+    "acronym": "CanPathPro",
+    "topics": "BIOTEC-2-2015",
+    "title": "Generation of the CanPath prototype - a platform for predictive cancer pathway modeling",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2021",
+    "objective": "Recent developments in omics technologies demand implementation of systems biology approaches to facilitate analysis and interpretation of the generated complex datasets.This is essential for biotechnological as well as preclinical and clinical applications. In comparison to previous approaches, most cancer relevant studies are confined to pattern recognition or at best modelling of single pathways, rather than the complex pathways and cross-talk determining cancer progression and drug response. Systematic tools that evaluate and validate personalised medicine approaches on a preclinical level are missing; an important prerequisite for translation into clinical practice. The overall objective of CanPathPro is to build and validate a new biotechnological application: a combined experimental and systems biology platform, which will be utilized in testing cancer signaling hypotheses in biomedical research and life sciences. Thus, the proposed project will focus on developing and refining bioinformatic and experimental tools for the evaluation of systems biology modelling predictions. Components comprise a highly controlled mouse experimental system, NGS, a quantitative proteomics based read-out of changes in pathway signalling and an integrative systems biology model for data integration. Testable hypotheses about biological systems will be generated and experimentally validated. The developed system tools will be made available to researchers, SMEs and industry for practical applications. Following this project, a commercial platform for interpretation and analysis of complex omics data and for deriving and testing new hypotheses will be set up by the participating companies and academic partners. CanPathPro will enhance the competitive potential of the SMEs involved expanding in the field of biotechnology, personalised medicine and drug development and also provide new opportunities for other SMEs working in the field of bioinformatics and biomedical applications.",
+    "totalCost": "10713058,48",
+    "ecMaxContribution": "9862545,98",
+    "coordinator": "ALACRIS THERANOSTICS GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "BIOGNOSYS AG;HELMHOLTZ ZENTRUM MUENCHEN DEUTSCHES FORSCHUNGSZENTRUM FUER GESUNDHEIT UND UMWELT GMBH;SIMULA RESEARCH LABORATORY AS;FINOVATIS;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;CENTRE EUROPEEN DE RECHERCHE EN BIOLOGIE ET MEDECINE;STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS;LEIBNIZ-INSTITUT FUR ALTERNSFORSCHUNG - FRITZ-LIPMANN-INSTITUT EV (FLI) LEIBNIZ INSTITUTE ON AGING - FRITZ LIPMANN INSTITUTE EV (FLI)",
+    "participantCountries": "CH;DE;NO;FR;ES;NL",
+    "projectParticipants": {
+        "999984738": {
+            "orgId": "999984738",
+            "orgName": "STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS",
+            "ecContrib": 885625
+        },
+        "995915976": {
+            "orgId": "995915976",
+            "orgName": "SIMULA RESEARCH LABORATORY AS",
+            "ecContrib": 784940
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 603939
+        },
+        "999994729": {
+            "orgId": "999994729",
+            "orgName": "HELMHOLTZ ZENTRUM MUENCHEN DEUTSCHES FORSCHUNGSZENTRUM FUER GESUNDHEIT UND UMWELT GMBH",
+            "ecContrib": 1054200
+        },
+        "990193946": {
+            "orgId": "990193946",
+            "orgName": "LEIBNIZ-INSTITUT FUR ALTERNSFORSCHUNG - FRITZ-LIPMANN-INSTITUT EV (FLI) LEIBNIZ INSTITUTE ON AGING - FRITZ LIPMANN INSTITUTE EV (FLI)",
+            "ecContrib": 1815440
+        },
+        "990511815": {
+            "orgId": "990511815",
+            "orgName": "FINOVATIS",
+            "ecContrib": 239688
+        },
+        "999993177": {
+            "orgId": "999993177",
+            "orgName": "CENTRE EUROPEEN DE RECHERCHE EN BIOLOGIE ET MEDECINE",
+            "ecContrib": 1054844
+        },
+        "986091428": {
+            "orgId": "986091428",
+            "orgName": "ALACRIS THERANOSTICS GMBH",
+            "ecContrib": 3423871
+        },
+        "973024170": {
+            "orgId": "973024170",
+            "orgName": "BIOGNOSYS AG",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 9862547
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "199093",
+    "acronym": "SAFEPOWER",
+    "topics": "ICT-04-2015",
+    "title": "Safe and secure mixed-criticality systems with low power requirements",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Critical Real-Time Embedded Systems (CRTES) such as railway, aerospace, automotive and energy generation systems face a disruptive challenge caused by the massive irruption of mixed-criticality systems based on multicore processors. At the same time  low-power is an intensifying demand in many market segments, a competitive advantage for CRTES that have to operate with limited energy (e.g., battery powered systems), an enabler for higher availability  and a desired feature towards near-zero emission in systems with tens/hundreds of devices. Power is also a key aspect in mixed-criticality systems as another resource (together with time and space) that has to be shared among different applications and has to be strictly controlled not to cause undesired interferences.\nThe main objective of SAFEPOWER is to enable the development of mixed-criticality systems with low power, energy and temperature  in combination with safety, real-time and security support by a reference architecture orchestrating different local power-management techniques. SAFEPOWER builds a comprehensive suite of multi-core platform technologies as well as analysis, simulation and verification tools for low-power mixed-criticality systems, including hardware and software reference platforms assisting the implementation, observation and test of such applications. SAFEPOWER will demonstrate the benefits through two industrial use-cases and a cross-domain public demonstrator. The safety concept of SAFEPOWER will be assessed by an external certification authority and consider reference domains and safety standards (e.g. industrial IEC-61508, railway, automotive, aerospace).\nSAFEPOWE brings significant improvements w.r.t. power, energy, temperature, availability and lifetime of CRTES as well as new types of competitive products operating with limited energy. Impact and exploitation will also be facilitated by the strong collaboration  with other related projects in the cluster of mixed-criticality systems.",
+    "totalCost": "4003625",
+    "ecMaxContribution": "3621050",
+    "coordinator": "IKERLAN S COOP",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSITAET SIEGEN;IMPERAS SOFTWARE LIMITED;SAAB AKTIEBOLAG;KUNGLIGA TEKNISKA HOEGSKOLAN;FENT INNOVATIVE SOFTWARE SOLUTIONSSL;OFFIS EV;CAF SIGNALLING S.L",
+    "participantCountries": "DE;UK;SE;ES",
+    "projectParticipants": {
+        "941689969": {
+            "orgId": "941689969",
+            "orgName": "IMPERAS SOFTWARE LIMITED",
+            "ecContrib": 270375
+        },
+        "999581315": {
+            "orgId": "999581315",
+            "orgName": "IKERLAN S COOP",
+            "ecContrib": 1033125
+        },
+        "999959615": {
+            "orgId": "999959615",
+            "orgName": "SAAB AKTIEBOLAG",
+            "ecContrib": 179200
+        },
+        "999849617": {
+            "orgId": "999849617",
+            "orgName": "UNIVERSITAET SIEGEN",
+            "ecContrib": 547750
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 396875
+        },
+        "974670454": {
+            "orgId": "974670454",
+            "orgName": "CAF SIGNALLING S.L",
+            "ecContrib": 181125
+        },
+        "965848110": {
+            "orgId": "965848110",
+            "orgName": "FENT INNOVATIVE SOFTWARE SOLUTIONSSL",
+            "ecContrib": 261975
+        },
+        "999594313": {
+            "orgId": "999594313",
+            "orgName": "OFFIS EV",
+            "ecContrib": 750625
+        }
+    },
+    "calculatedTotalContribution": 3621050
+}

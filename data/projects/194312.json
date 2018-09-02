@@ -1,0 +1,48 @@
+{
+    "rcn": "194312",
+    "acronym": "ORCHESTRA",
+    "topics": "ICT-06-2014",
+    "title": "Optical peRformanCe monitoring enabling dynamic networks using a Holistic cross-layEr, Self-configurable Truly flexible appRoAch",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "An optical network, like any system, has to be observable before it can become controllable and be subject to optimization, and this is the first capability ORCHESTRA introduces. ORCHESTRAís high observability relies on information provided by the coherent transceivers that are extended, almost for free, to operate as software defined multi-impairment optical performance monitors (soft-OPM). Information from multiple soft-OPMs are correlated using network kriging and statistical estimation methods to infer information for unmonitored or un-established paths, effectively support alien wavelength, and localize QoT problems and failures. \nHigh rate optical transmission with coherent detection promises to address the continuous growth of Internet traffic. However, the current control and monitoring (C&M) infrastructure is absolutely not adequate to support this growth. In ORCHESTRA, a new C&M architecture that exploits the monitoring and reconfigurability capabilities of enhanced tubable transceivers will be designed, implemented and validated. The network is viewed as a continuously running process that perceives current conditions, decides, and acts on those conditions. ORCHESTRAís advanced cross-layer optimization procedures will be implemented within a new specifically designed library module, called DEPLOY. A new dynamic and hierarchical C&M infrastructure will be then created to interconnect the multiple soft-OPMs and the proposed virtual and real C&M entities running the DEPLOY algorithms. At the top of the hierarchical infrastructure, a novel OAM Handler prototype will be implemented, as part of the SDN-based ABNO architecture. The proposed C&M infrastructure will be enriched with active-control functionalities, closing the control loop, and enabling the network to be truly dynamic and self-optimized.\nThe ORCHESTRA solutions are planned to be industrialized, given the expected improvements in service level validations, CAPEX, energy consumption and OPEX.",
+    "totalCost": "2620831,25",
+    "ecMaxContribution": "2620331",
+    "coordinator": "INSTITOUTO TECHNOLOGIAS YPOLOGISTONKAI EKDOSEON DIOFANTOS",
+    "coordinatorCountry": "EL",
+    "participants": "NEXTWORKS;SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA;NOKIA BELL LABS FRANCE;TELECOM ITALIA SPA;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "participantCountries": "IT;FR;EL",
+    "projectParticipants": {
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 339500
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 266250
+        },
+        "996377696": {
+            "orgId": "996377696",
+            "orgName": "NOKIA BELL LABS FRANCE",
+            "ecContrib": 770256
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 515075
+        },
+        "999884731": {
+            "orgId": "999884731",
+            "orgName": "SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA",
+            "ecContrib": 337500
+        },
+        "999643783": {
+            "orgId": "999643783",
+            "orgName": "INSTITOUTO TECHNOLOGIAS YPOLOGISTONKAI EKDOSEON DIOFANTOS",
+            "ecContrib": 391750
+        }
+    },
+    "calculatedTotalContribution": 2620331
+}

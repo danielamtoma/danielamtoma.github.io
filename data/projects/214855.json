@@ -1,0 +1,17 @@
+{
+    "rcn": "214855",
+    "acronym": "ASTRID",
+    "topics": "DS-07-2017",
+    "title": "AddreSing ThReats for virtualIseD services",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2021",
+    "objective": "The growing adoption of cloud technologies and the trend to virtualise applications are inexorably re-shaping the traditional security paradigms, due to the increasing usage of infrastructures outside of the enterprise perimeter and shared with other users. The need for more agility in software development and maintenance has also fostered the transition to micro-services architectures, and the wide adoption of this paradigm has led service developers to protect their applications by including virtualised instances of security appliances in their design. Unfortunately, this often results in security being managed by people without enough skills or specific expertise, it may not be able to cope with threats coming from the virtualization layer itself (e.g., hypervisor bugs), and also exposes security appliances to the same threats as the other application components. It also complicates legal interception and investigation when some applications or services are suspected of illegal activity.\nTo overcome the above limitations, the ASTRID project aims at shifting the detection and analysis logic outside of the service graph, by leveraging descriptive context models and their usage in ever smarter orchestration logic, hence shifting the responsibility for security, privacy, and trustworthiness from developers or end users to service providers. This approach brings new opportunities for situational awareness in the growing domain of virtualised services: unified access and encryption management, correlation of events and information among different services/applications, support for legal interception and forensics investigation.\nASTRID will develop a common approach easily portable to different virtualisation scenarios. In this respect, the technology developed by the Project will be validated in two relevant domains, i.e., plain cloud applications and Network Function Virtualisation, which typically exploits rather different chaining and orchestration models.",
+    "totalCost": "2932297,5",
+    "ecMaxContribution": "2932297,5",
+    "coordinator": "ERICSSON TELECOMUNICAZIONI",
+    "coordinatorCountry": "IT",
+    "participants": "GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS;TECHNISCHE UNIVERSITAET BERLIN;INFOCOM S.R.L.;AGENTSCAPE AG;POLITECNICO DI TORINO;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI;UNIVERSITY OF SURREY",
+    "participantCountries": "EL;DE;IT;UK",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "210005",
+    "acronym": "Domognostics",
+    "topics": "ERC-PoC-2016",
+    "title": "Intelligent Building Automation Diagnostics",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2018",
+    "objective": "The emergence of networked cyber-physical systems, in which sensor/actuator networks are integrated with software algorithms, facilitates the development of advanced Building Management Systems (BMS) aimed at enhancing energy efficiency in buildings, which accounts for 40% of the energy consumption in the EU. When a fault arises in some of the components, or an unexpected event occurs in the building, this may lead to a serious degradation in performance or, even worse, to situations that would endanger peopleís lives.  Studies estimate that 20% of the energy consumed in commercial buildings for heating, ventilation, air conditioning, lighting and water heating can be attributed to various faults. Therefore, there is a market need for an intelligent building automation diagnostic system which integrates with existing BMS to facilitate continuous and effective monitoring of the buildings.\n\nThe objective of the proposed proof of concept is to develop the Domognostics platform, a novel solution for monitoring building automation systems, detecting and diagnosing any component faults and/or unexpected events, and providing remedial reconfiguration actions, aiming at improving operational efficiency. Domognostics will interoperate with existing BMS to extend their capabilities, and will integrate directly with heterogeneous sensor types, such as IoT devices, mobile sensors, wearables, etc., to increase redundancy of the available information and measurements. The Domognostics platform will utilise intelligent fault diagnosis algorithms with machine learning capabilities to boost its capacity to learn from experience, and semantically enhanced reasoning to facilitate the flexibility of adding new sensors or replacing faulty components, as needed. The theoretical foundations of these techniques were developed as part of the ERC Advanced Grant project Fault-Adaptive, which started in April 2012, and is currently being carried out at the University of Cyprus.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSITY OF CYPRUS",
+    "coordinatorCountry": "CY",
+    "participants": "PHOEBE RESEARCH AND INNOVATION LTD",
+    "participantCountries": "CY",
+    "projectParticipants": {
+        "999835843": {
+            "orgId": "999835843",
+            "orgName": "UNIVERSITY OF CYPRUS",
+            "ecContrib": 81875
+        },
+        "917899070": {
+            "orgId": "917899070",
+            "orgName": "PHOEBE RESEARCH AND INNOVATION LTD",
+            "ecContrib": 68125
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

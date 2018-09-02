@@ -1,0 +1,23 @@
+{
+    "rcn": "195547",
+    "acronym": "seQureNet",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Secure information processing in quantum networks",
+    "startDate": "15/04/2015",
+    "endDate": "14/04/2017",
+    "objective": "The promise of future quantum computers to substantially speed up computations has been advertised widely since the early days of the field. But there is a novel and fundamental aspect of devices based on quantum-mechanical principles that has just started to be explored: Quantum computers can preserve the privacy of computations. This aspect is a distinct new advantage of quantum computers over their classical counterparts. An entire class of unprecedented computations becomes feasible, in which the user data and the whole computation remain perfectly private ñ a feature impossible to achieve with classical computers. The main focus of this project is to exploit this feature and to implement secure photonic quantum information processing in distributed quantum networks. These networks consist of clients and small-scale quantum computers connected by communication channels. Photons are chosen as they are the ideal carriers for sending information over long distances. The clients can securely delegate computations to the quantum computers, such that neither the data nor the computation is revealed to the computers or any potential eavesdropper. The project will, first, elucidate how quantum resources boost the security of classical computations; second, demonstrate secure quantum computations over long distances and study their verification; and third, examine practical security aspects of implementations. The research will leverage the experimental state-of-the-art by adapting new photonic quantum technologies such as integrated photon sources and waveguide quantum circuits. Moreover, highly-efficient superconducting detectors will be applied to achieve excellent quantum control of the photons. This research is highly innovative and will be pivotal in the researcherís career development and for becoming an independent research group leader, as it enables acquiring both key scientific knowledge and developing complementary skills.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

@@ -1,0 +1,63 @@
+{
+    "rcn": "211738",
+    "acronym": "RAINBOW",
+    "topics": "MSCA-ITN-2017",
+    "title": "Rapid Biomechanics Simulation for Personalized Clinical Design",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2022",
+    "objective": "Clinical experts make design decisions on treatments, interventions, or on devices. ICT empowers them with patient-specific simulation models that enable better-informed design decisions. But patient-specific computational medicine is currently cumbersome, slow, and unintuitive; it relies on complex processing by technical experts, and it is hence far from reaching its full potential on clinical design, and scarcely used.\nRAINBOW envisions next-generation biomechanics simulation and optimization tools for personalized clinical design that are rapidly setup for a particular patient, have a fast learning curve, are easy-to-use by clinical experts, and do not require intervention by a technical team. Research objectives entail automated processing of patient data; automated setup of representations and parameters, capability to manage variance across patients; robust and accurate simulation as a latent part of design tools; and fast optimization methods that allow intuitive exploration of the design space. Novel computational methods will be created to reach the objective of rapid biomechanics simulation. RAINBOW will apply research solutions for diagnosis, prognosis, monitoring, surgical training, planning, guidance, design of prosthetics, implants, and medical devices, and will address health conditions such as osteoarthritis, scoliosis, hearing impairment, cardiovascular diseases, obesity etc.\nRAINBOW has 5 excellent academic participants: UCPH (medical imagine, machine learning), URJC (data-driven modeling), UL (computational mechanics), CARDIFF (model reduction), AAU and one hospital HH (bone modeling) and 8 industries 3Shape (prosthesis), Kitware (imaging), Insimo (surgical simulation), GMV (eHealth), Simpleware (CAD/CAE), inuTech (numerics), Anatascope (Patient specific modeling) and Next-Limit (CFD). This combined expertise will ensure diverse impact and training of highly qualified individuals.",
+    "totalCost": "4013444,88",
+    "ecMaxContribution": "4013444,88",
+    "coordinator": "KOBENHAVNS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "REGION HOVEDSTADEN;GMV SOLUCIONES GLOBALES INTERNET SAU;3SHAPE TRIOS AS;SYNOPSYS (NORTHERN EUROPE) LIMITED;UNIVERSITE DU LUXEMBOURG;UNIVERSIDAD REY JUAN CARLOS;AALBORG UNIVERSITET;CARDIFF UNIVERSITY",
+    "participantCountries": "DK;ES;UK;LU",
+    "projectParticipants": {
+        "997512402": {
+            "orgId": "997512402",
+            "orgName": "GMV SOLUCIONES GLOBALES INTERNET SAU",
+            "ecContrib": 247873
+        },
+        "934241921": {
+            "orgId": "934241921",
+            "orgName": "3SHAPE TRIOS AS",
+            "ecContrib": 290082
+        },
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 751680
+        },
+        "999886283": {
+            "orgId": "999886283",
+            "orgName": "UNIVERSIDAD REY JUAN CARLOS",
+            "ecContrib": 743619
+        },
+        "968598157": {
+            "orgId": "968598157",
+            "orgName": "SYNOPSYS (NORTHERN EUROPE) LIMITED",
+            "ecContrib": 546576
+        },
+        "999979694": {
+            "orgId": "999979694",
+            "orgName": "CARDIFF UNIVERSITY",
+            "ecContrib": 273288
+        },
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 580164
+        },
+        "999654744": {
+            "orgId": "999654744",
+            "orgName": "REGION HOVEDSTADEN",
+            "ecContrib": 290082
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 290082
+        }
+    },
+    "calculatedTotalContribution": 4013446
+}

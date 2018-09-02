@@ -1,0 +1,23 @@
+{
+    "rcn": "204499",
+    "acronym": "DENDRITECIRCUITS",
+    "topics": "ERC-ADG-2015",
+    "title": "The origins of dendritic computation within mammalian neural circuits",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "This proposal aims to address a simple question: what is the fundamental unit of computation in the brain? Answering this question is crucial not only for understanding how the brain works, but also if we are to build accurate models of brain function, which require abstraction based on identification of the essential elements for carrying out computations relevant to behaviour. In this proposal, we will build on recent work demonstrating that dendrites are highly electrically excitable to test the possibility that single dendritic branches may act as individual computational units during behaviour, challenging the classical view that the neuron is the fundamental unit of computation. We will address this question using a combination of electrophysiolgical, anatomical, imaging, molecular, and modeling approaches to probe dendritic integration in pyramidal cells and Purkinje cells in mouse cortex and cerebellum.\n\nWe will first define the computational rules for integration of synaptic input in single and multiple dendrites by examining the somatic and dendritic responses to different spatiotemporal patterns of excitatory and inhibitory inputs in brain slices. Next, we will determine how these rules are engaged by patterns of sensory stimulation in vivo, by using various strategies to map the spatiotemporal patterns of synaptic inputs onto single dendrites. To understand how physiological patterns of activity in the circuit engage these dendritic computations, we will use anatomical approaches to map the wiring diagram of synaptic inputs to individual dendrites. Finally, we will perturb the dendritic computational rules by manipulating dendritic function using molecular and optogenetic tools, in order to provide causal links between specific dendritic computations and sensory processing relevant to behaviour. \n\nThese experiments will provide us with deeper insights into how single neurons act as computing devices.",
+    "totalCost": "2495563",
+    "ecMaxContribution": "2495563",
+    "coordinator": "University College London",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

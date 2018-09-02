@@ -1,0 +1,108 @@
+{
+    "rcn": "211556",
+    "acronym": "ALADDIN",
+    "topics": "SEC-12-FCT-2016-2017",
+    "title": "Advanced hoListic Adverse Drone Detection, Identification Neutralization",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "ALADDIN will study, design, develop, and evaluate, in series of complementary pilots, a counter UAV system as a complete solution to the growing UAV threat problem, building upon a state-of-the-art system and enhancing it by researching on various technologies and functionalities. ALADDIN will follow a holistic and heavily user-centred methodology involving a large number of LEAs and critical infrastructure operators, as well as an expert Advisory Board panel ensuring end-user diversity, as they all face different kinds of threats and work within different regulatory frameworks. This diversity is important to shape EU-wide system specifications and the innovative training curricula and training that will be realised to share the knowledge gained and raise awareness. Furthermore, within the project all regulations, social, ethical and legal elements will be studied thoroughly and continuously with an impact assessment produced and its results monitored during the projectís lifetime.\nALADDINís sensing arsenal is comprised of a set of custom, innovative, and unique technologies as well as established and standard sensors used for UAV detection and localisation: 1) 2D/3D paired radars; 2) Innovative optro and thermal panoramic imaging; 3) Custom designed acoustic sensors. These will be fused through novel deep learning techniques in order to provide excellent detection accuracy.\nFurther, ALADDIN will study and offer a set of neutralization effectors (jammers, physical and hacking). These sensing and countering capabilities will be operated through an advanced command and control (C2) system. The C2 will achieve great detection and classification accuracy within a large range, by fusing data acquired from all sensors through state-of-the-art deep learning techniques. Operatorís efficiency will be enhanced through a novel mixed reality interface with 3D cartographic and situational elements and will be complemented by support to operations like investigation and trainings",
+    "totalCost": "4998240",
+    "ecMaxContribution": "4998240",
+    "coordinator": "DIGINEXT",
+    "coordinatorCountry": "FR",
+    "participants": "SIRC SP ZOO;FUNDACION ANDALUZA PARA EL DESARROLLO AEROESPACIAL;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;MINISTERO DELL'INTERNO;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;VRIJE UNIVERSITEIT BRUSSEL;MinistÈrio da JustiÁa;AYUNTAMIENTO DE MADRID;HGH SYSTEMES INFRAROUGES;KENTRO MELETON ASFALEIAS;CS SYSTEMES D'INFORMATION SA;PRZEMYSLOWY INSTYTUT AUTOMATYKI I POMIAROW PIAP;MICROWAVE CHARACTERIZATION CENTER;I.D.S. - INGEGNERIA DEI SISTEMI - S.P.A.;MINISTERE DE L'INTERIEUR;ACCIONA CONSTRUCCION SA;HOME OFFICE",
+    "participantCountries": "PL;ES;EL;IT;DE;BE;PT;FR;UK",
+    "projectParticipants": {
+        "999816540": {
+            "orgId": "999816540",
+            "orgName": "MINISTERO DELL'INTERNO",
+            "ecContrib": 91250
+        },
+        "999549984": {
+            "orgId": "999549984",
+            "orgName": "PRZEMYSLOWY INSTYTUT AUTOMATYKI I POMIAROW PIAP",
+            "ecContrib": 208000
+        },
+        "999812854": {
+            "orgId": "999812854",
+            "orgName": "ACCIONA CONSTRUCCION SA",
+            "ecContrib": 108750
+        },
+        "999823136": {
+            "orgId": "999823136",
+            "orgName": "MINISTERE DE L'INTERIEUR",
+            "ecContrib": 129050
+        },
+        "999827307": {
+            "orgId": "999827307",
+            "orgName": "KENTRO MELETON ASFALEIAS",
+            "ecContrib": 317750
+        },
+        "999832351": {
+            "orgId": "999832351",
+            "orgName": "HOME OFFICE",
+            "ecContrib": 190502
+        },
+        "999938275": {
+            "orgId": "999938275",
+            "orgName": "CS SYSTEMES D'INFORMATION SA",
+            "ecContrib": 700938
+        },
+        "997513178": {
+            "orgId": "997513178",
+            "orgName": "AYUNTAMIENTO DE MADRID",
+            "ecContrib": 84750
+        },
+        "999617496": {
+            "orgId": "999617496",
+            "orgName": "I.D.S. - INGEGNERIA DEI SISTEMI - S.P.A.",
+            "ecContrib": 657550
+        },
+        "918025655": {
+            "orgId": "918025655",
+            "orgName": "HGH SYSTEMES INFRAROUGES",
+            "ecContrib": 141800
+        },
+        "998189850": {
+            "orgId": "998189850",
+            "orgName": "FUNDACION ANDALUZA PARA EL DESARROLLO AEROESPACIAL",
+            "ecContrib": 292250
+        },
+        "999719443": {
+            "orgId": "999719443",
+            "orgName": "MICROWAVE CHARACTERIZATION CENTER",
+            "ecContrib": 156250
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 277500
+        },
+        "983734231": {
+            "orgId": "983734231",
+            "orgName": "Ministério da Justiça",
+            "ecContrib": 81750
+        },
+        "999902094": {
+            "orgId": "999902094",
+            "orgName": "VRIJE UNIVERSITEIT BRUSSEL",
+            "ecContrib": 156250
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 526250
+        },
+        "952295464": {
+            "orgId": "952295464",
+            "orgName": "SIRC SP ZOO",
+            "ecContrib": 185000
+        },
+        "992532034": {
+            "orgId": "992532034",
+            "orgName": "DIGINEXT",
+            "ecContrib": 692650
+        }
+    },
+    "calculatedTotalContribution": 4998240
+}

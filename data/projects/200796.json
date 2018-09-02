@@ -1,0 +1,23 @@
+{
+    "rcn": "200796",
+    "acronym": "TOCNeT",
+    "topics": "ERC-CoG-2015",
+    "title": "Teaching Old Crypto New Tricks",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "The bulk of the research in modern cryptography goes into constructing new schemes for which stronger security guarantees can be proven. However, often it is not clear if simple existing schemes already provide the required security, and we just donít know how to prove it. As these new schemes are usually less efficient, they are not being applied resulting in a large discrepancy between the security that applied schemes are supposed to provide and what is actually proven. This project aims at closing this gap in different contexts: we will revisit simple schemes (including widely deployed ones) using new tools, developed by us and others in the last years, towards proving much stronger security properties than what is currently known. Three research directions in which we have already made substantial progress and which we will further investigate are: \nAdaptive Security: Often we can prove a scheme secure against selective adversaries, while in practice stronger adaptive security is required. Until recently this was the case for constrained PRFs, the popular LKH multicast encryption and all known proxy re-encryption schemes. Last year we introduced the ìnested hybridsî proof technique, which allowed us to prove adaptive security of these schemes. We will further develop and apply this technique. \nSymmetric Cryptography: Although symmetric schemes are the work horses of crypto, for most of them we only have non-tight security proofs which leave a huge gap to the best known attacks. We recently proved tight security bounds for HMAC (used for authentication in SSL/TLS, SSH and IPsec) and the Sponge family used in the SHA3 standard. \nPseudoentropy: Computational notions of entropy have found many applications in the last few years. The tools available to manipulate pseudoentropy yield poor quantitative bounds, resulting in impractical schemes. We will continue our research towards establishing the exact necessary security degradation for manipulating pseudoentropy.",
+    "totalCost": "1882244",
+    "ecMaxContribution": "1882244",
+    "coordinator": "Institute of Science and Technology Austria",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "996479740": {
+            "orgId": "996479740",
+            "orgName": "Institute of Science and Technology Austria",
+            "ecContrib": 1882244
+        }
+    },
+    "calculatedTotalContribution": 1882244
+}

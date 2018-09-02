@@ -1,0 +1,48 @@
+{
+    "rcn": "199398",
+    "acronym": "INSIGHT",
+    "topics": "ICT-25-2015",
+    "title": "Integration of III-V Nanowire Semiconductors for next Generation High Performance CMOS SOC Technologies",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "Overall objective: to enhance advanced CMOS RF and logic capability through the use of III-V heterostructure nanowires monolithically integrated on a silicon platform.\n\nINSIGHT will focus on:\n-Development and evaluation of the performance of silicon based, 94 GHz III-V nanowire MOSFET low-noise amplifiers. The technology opens a path for cost reduction of key mm-wave components for high bandwidth wireless applications.\n-Development of III-V nanowire MOSFETs on Si with breakdown voltage of 6 V, and evaluation of their performance in millimeter wave (90 GHz) power amplifier circuits. These devices will increase output power available from Si CMOS compatible mm-wave technologies with benefits for transceiver range and sensitivity. \n-Realisation of basic building blocks for future RF-circuits including mixers, Voltage-Controlled Oscillators, and frequency dividers for prescalers using silicon based III-V nanowire MOSFETS. \n-Development of science and technology for all-III-V nanowire CMOS on silicon targeting future technology nodes for 10 nm and below.  This will be validated by the implementation and dynamic characterisation  of a flip-flop as demonstration of the co-integration of III-V n- and p-type nanowire MOSFETs.\n\nINSIGHT is a strong consortium consisting of 7 partners with complimentary and well-documented experience in III-V MOS technology and millimeter-wave circuit design and implementation. Our main outcomes include : a)Technology toolbox including, materials, processes and integration for III-V n- and p-channel MOSFETs on a silicon platform, b) III-V nanowire MOSFET RF-transistor technology, c) Circuit design library, d) Circuit demonstrators with a clear technology path towards higher TRLs and commercialization.  \nOur vision is to use III-V nanowire CMOS technology for millimeter-wave applications in a System-on-Chip approach, combining RF- and logic on one Si chip. Additionally, applications for logic at the 10 nm node and beyond are foreseen.",
+    "totalCost": "4244996,25",
+    "ecMaxContribution": "3524433,75",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;IBM RESEARCH GMBH;UNIVERSITY OF GLASGOW;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+    "participantCountries": "DE;FR;CH;UK;IE",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 1206549
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 622764
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 542155
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 518242
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 634724
+        }
+    },
+    "calculatedTotalContribution": 3524434
+}

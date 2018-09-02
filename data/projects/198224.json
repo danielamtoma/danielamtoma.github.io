@@ -1,0 +1,23 @@
+{
+    "rcn": "198224",
+    "acronym": "VARMET",
+    "topics": "ERC-ADG-2014",
+    "title": "Variational Metadynamics",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "We propose to extend the time scale accessible to atomistic-based simulation methods from the current   range to millisecond and beyond without special-purpose machines.  We shall do this by combining and extending two recent developments: a recent reformulation of the enhanced sampling problem into a powerful variational principle that opens a wealth of possibilities and provides a novel and fruitful standpoint for new developments; and a procedure for extracting rates from enhanced runs.  We shall apply the methods thus developed to two major problems of great practical interest. One is the lifetime of a ligand-protein bound state.  This quantity is not easily accessible experimentally and yet it is crucial in drug design to determine the potency of a drug.  We plan to develop a viable and widely applicable way to compute it.  The other is a study of crystallization from solution, for which we wish to determine the nucleation mechanism and nucleation rates and understand and control crystal growth.  These are all issues of great relevance in engineering, pharmacology and nanotechnology.  Besides being relevant on their own merits, these two applications present different challenges to the enhanced methods.  We also believe that new methods should not be developed in an abstract way but in close interaction with real-life applications.",
+    "totalCost": "2488827",
+    "ecMaxContribution": "2488827",
+    "coordinator": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999585874": {
+            "orgId": "999585874",
+            "orgName": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+            "ecContrib": 2488827
+        }
+    },
+    "calculatedTotalContribution": 2488827
+}

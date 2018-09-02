@@ -1,0 +1,73 @@
+{
+    "rcn": "202687",
+    "acronym": "C3ISP",
+    "topics": "DS-04-2015",
+    "title": "Collaborative and Confidential Information Sharing and Analysis for Cyber Protection",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "C3ISP mission is to define a collaborative and confidential information sharing, analysis and protection framework as a service for cyber security management. C3ISP innovation is the possibility to share information in a flexible and controllable manner inside a collaborative multi-domain environment to improve detection of cyber threats and response capabilities, still preserving the confidentiality of the shared information. C3ISP paradigm is collect, analyse, inform, and react.\nIn order to achieve the aforementioned goals, the project aims to create an efficient and flexible framework for secure data analytics where data access and data analytics operations are regulated by multi-stakeholders data sharing agreements. In particular, C3ISP will: \nï facilitate the definition, analysis, management, enforcement and dissolution of data sharing agreements; going from high level descriptions (close to natural language) to system enforceable data usage policies;  \nï consider the most appropriate data protection techniques used in the analytics infrastructure, from data centric policy enforcement mechanisms to homomorphic encryption techniques that enable to work directly on encrypted data (considering also intermediate solutions as anonymization techniques);\nï address key challenges for compliant sharing of cyber security related information. By taking a ìcompliance by designî approach, the project places an early emphasis on understanding and incorporating regulatory requirements into the data sharing agreements. \nï validate the framework through four Pilots covering several relevant areas as enterprise security, governmental CERTS, Internet Service Providers (ISPs) and, in particular, for SMEs interested in holistic cyber protection solutions (including managed security services).\nThe project Consortium combines strong industry players with research institutions that will deliver high quality innovation; it also includes SMEs and digital innovation promoters.",
+    "totalCost": "5000045",
+    "ecMaxContribution": "4176445,63",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "3D REPO LTD;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;SAP SE;CHINO SOCIETA A RESPONSABILITA LIMITATA SEMPLIFICATA;GRIDPOCKET SYSTEMS SPOLKA AKCYJNA;HEWLETT PACKARD ITALIANA SRL;UNIVERSITY OF KENT;BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY;ISTITUTO SUPERIORE DELLE COMUNICAZIONI E DELLE TECNOLOGIE DELL'INFORMAZIONE;DIGITAL CATAPULT",
+    "participantCountries": "UK;FR;DE;IT;PL",
+    "projectParticipants": {
+        "947642277": {
+            "orgId": "947642277",
+            "orgName": "DIGITAL CATAPULT",
+            "ecContrib": 416250
+        },
+        "927979989": {
+            "orgId": "927979989",
+            "orgName": "3D REPO LTD",
+            "ecContrib": 198034
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 403750
+        },
+        "999909951": {
+            "orgId": "999909951",
+            "orgName": "HEWLETT PACKARD ITALIANA SRL",
+            "ecContrib": 414312
+        },
+        "999841275": {
+            "orgId": "999841275",
+            "orgName": "UNIVERSITY OF KENT",
+            "ecContrib": 535000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 603464
+        },
+        "999911212": {
+            "orgId": "999911212",
+            "orgName": "SAP SE",
+            "ecContrib": 412562
+        },
+        "951535760": {
+            "orgId": "951535760",
+            "orgName": "GRIDPOCKET SYSTEMS SPOLKA AKCYJNA",
+            "ecContrib": 201250
+        },
+        "999908593": {
+            "orgId": "999908593",
+            "orgName": "BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+            "ecContrib": 496160
+        },
+        "928335591": {
+            "orgId": "928335591",
+            "orgName": "CHINO SOCIETA A RESPONSABILITA LIMITATA SEMPLIFICATA",
+            "ecContrib": 199412
+        },
+        "999617593": {
+            "orgId": "999617593",
+            "orgName": "ISTITUTO SUPERIORE DELLE COMUNICAZIONI E DELLE TECNOLOGIE DELL'INFORMAZIONE",
+            "ecContrib": 296250
+        }
+    },
+    "calculatedTotalContribution": 4176444
+}

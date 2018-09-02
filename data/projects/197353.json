@@ -1,0 +1,108 @@
+{
+    "rcn": "197353",
+    "acronym": "FANTASTIC-5G",
+    "topics": "ICT-14-2014",
+    "title": "Flexible Air iNTerfAce for Scalable service delivery wiThin wIreless Communication networks of the 5th Generation",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2017",
+    "objective": "5G will have to cope with a high degree of heterogeneity in terms of: (a) services (mobile broadband, massive machine and mission critical communications, broad-/multicast services and vehicular communications); (b) device classes (low-end sensors to high-end tablets); (c) deployment types (macro and small cells); (d) environments (low-density to ultra-dense urban); (e) mobility levels (static to high-speed transport).\nConsequently, diverse and often contradicting Key Performance Indicators need to be supported, such as high capacity/user-rates, low latency, high reliability, ubiquitous coverage, high mobility, massive number of devices, low cost/energy consumption. 4G is not designed to meet such a high degree of heterogeneity efficiently. Moreover, having multiple radio access technologies for multi-service support below 6GHz will be too costly.\nFANTASTIC-5G will develop a new multi-service Air Interface (AI) for below 6 GHz through a modular design. To allow the system to adapt to the anticipated heterogeneity, the pursued properties are: flexibility, scalability, versatility, efficiency, future-proofness. To this end, we will develop the technical AI components (e.g. flexible waveform and frame design, scalable multiple access procedures, adaptive retransmission schemes, enhanced multi-antenna schemes with/without cooperation, advanced multi-user detection, interference coordination, support for ultra-dense cell layouts, multi-cell radio resource management, device-to-device) and integrate them into an overall AI framework where adaptation to the above described sources of heterogeneity will be accomplished. Our work will also comprise intense validation and system level simulations.\nFANTASTIC-5G includes partners being active in forerunning projects like METIS, 5GNOW and EMPATHIC ensuring the exploitation of the respective outcomes. The consortium possesses the main stakeholders for innovation and impacting standardization, maintaining Europe at the forefront.",
+    "totalCost": "7986858,75",
+    "ecMaxContribution": "7986858",
+    "coordinator": "ALCATEL-LUCENT DEUTSCHLAND AG",
+    "coordinatorCountry": "DE",
+    "participants": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE;ORANGE SA;CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;HUAWEI TECHNOLOGIES DUESSELDORF GMBH;INTEL DEUTSCHLAND GMBH;NOKIA SOLUTIONS AND NETWORKS MANAGEMENT INTERNATIONAL GMBH;POLITECNICO DI BARI;UNIVERSITAET BREMEN;INSTITUT MINES-TELECOM;NOKIA SOLUTIONS AND NETWORKS OY;SAMSUNG ELECTRONICS (UK) LIMITED;TELECOM ITALIA SPA;AALBORG UNIVERSITET;SEQUANS COMMUNICATIONS SA;NOKIA SOLUTIONS AND NETWORKS DANMARK AS",
+    "participantCountries": "EL;FR;ES;DE;IT;FI;UK;DK",
+    "projectParticipants": {
+        "999765712": {
+            "orgId": "999765712",
+            "orgName": "SAMSUNG ELECTRONICS (UK) LIMITED",
+            "ecContrib": 609110
+        },
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 407000
+        },
+        "999687821": {
+            "orgId": "999687821",
+            "orgName": "SEQUANS COMMUNICATIONS SA",
+            "ecContrib": 455750
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 653012
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 150000
+        },
+        "999987454": {
+            "orgId": "999987454",
+            "orgName": "UNIVERSITAET BREMEN",
+            "ecContrib": 250750
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 665031
+        },
+        "999431159": {
+            "orgId": "999431159",
+            "orgName": "POLITECNICO DI BARI",
+            "ecContrib": 98750
+        },
+        "999912376": {
+            "orgId": "999912376",
+            "orgName": "ALCATEL-LUCENT DEUTSCHLAND AG",
+            "ecContrib": 951412
+        },
+        "999925471": {
+            "orgId": "999925471",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS OY",
+            "ecContrib": 131801
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 483188
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 464110
+        },
+        "953152168": {
+            "orgId": "953152168",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS MANAGEMENT INTERNATIONAL GMBH",
+            "ecContrib": 190231
+        },
+        "967538432": {
+            "orgId": "967538432",
+            "orgName": "INTEL DEUTSCHLAND GMBH",
+            "ecContrib": 585242
+        },
+        "952269953": {
+            "orgId": "952269953",
+            "orgName": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE",
+            "ecContrib": 316500
+        },
+        "996116087": {
+            "orgId": "996116087",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS DANMARK AS",
+            "ecContrib": 474688
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 424532
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 675750
+        }
+    },
+    "calculatedTotalContribution": 7986857
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "196544",
+    "acronym": "SIMPLE",
+    "topics": "Space-SME-2014-1",
+    "title": "Spacefibre IMPLementation design  test Equipment",
+    "startDate": "01/05/2015",
+    "endDate": "31/10/2015",
+    "objective": "The forthcoming European Space missions both for earth observation and science (e.g. Euclid, Metop-SG) are more and more demanding very high-speed data transmission (above Gbps) within the different units in satellite payloads and platform. As SpaceWire standard (ECSS-E-ST-50-12C) is no longer capable to meet such stringent requirements the European Space Agency (ESA) is finalizing a new standard for high-speed data links called SpaceFibre. Among the main features SpaceFibre defines high reliable and fast point-to-point or network connections \nThe definition of this new standard opens up a considerable business opportunity related to the implementation of Intellectual Property (IP) and systems compliant to it. In order to guarantee a high reliable transmission the SpaceFibre is rather complex, thus 2 main issues are expected to be faced by any developer: on one side the design and implementation of a system compliant with the standard and on the other side the need for a test equipment capable of validating such a design. \nThe proposed innovation project has the ambitious goal to solve both the problems by:\n1) Design, Development and Testing of a point-to-point interface controller IP, both synthesizable HW macrocell and relevant SW/Firmware, compliant with the new High Speed Serial Link standard developed by ESA under the name of SpaceFibre;\n2) Development of a test equipment (SpaceFibre Analyser) based on the outcome of the previous activity which serves as reference equipment for testing any design/product related to SpaceFibre.\nThe final aim of the project is to provide the customer with a powerful instrument to simplify the development of his own system based on SpaceFibre technology, thus the acronym SIMPLE. \nThe company IngeniArs through the commercialization of the SpaceFibre technology is aiming to achieve 10% of the forecasted market size reaching a positive EBITDA during the first year of product commercialization and reaching the breakeven after 2 years.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "INGENIARS SRL",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "937397622": {
+            "orgId": "937397622",
+            "orgName": "INGENIARS SRL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

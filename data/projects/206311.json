@@ -1,0 +1,23 @@
+{
+    "rcn": "206311",
+    "acronym": "CyBioSys",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "An affordable Cyber Biological System combining swarming biosensors and robotics",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2018",
+    "objective": "Bio-inspiration is a main driving force for the development of innovative and adapted artificial systems. Going one step further, the fundamental goal of this proposal is to design a cyber biological system (CBS) that interfaces a swarm of animals with a distributed artificial system. Our objective is to demonstrate that such CBS can benefit from advantages of both artificial and natural systems and outperform their constituents. Here, the goal of the CBS is to explore the environment searching for resources and to exploit them as soon as discovered. For this purpose, we integrate a model organism of biological societies, the ants, with an artificial system based on mobile robots, the Thymio. More specifically, the CBS will be composed by an ant nest coupled to static sensors that communicate with mobile robots. The ants will explore the environment and evaluate potential food sources. Once a source is discovered, static sensors placed at the nest exits will detect the increasing flow of ants recruited toward the resource and transmit this information to the mobile robots. Once alerted, the mobile robots will navigate in the environment and follow the ants until the food source to convey it to the nest. Thus, the CBS will benefit from the efficient exploration pattern of the ants to discover and evaluate potential resources and the ability of the robots to rapidly convey these resources to the nest. This synergy will save the energy that should be consumed by the robots for constantly exploring the environment and quicken the collect of the food, making the ants more rapidly available for further exploration. This project is the first to consider an insect swarm as a biosensor and to embed in a robot the ability to extract data from such swarm. In addition, this interdisciplinary project at the crossroads of biology and robotics ensures the development of skills and transfer of knowledge for the ER as well as the host organisation.",
+    "totalCost": "175419,6",
+    "ecMaxContribution": "175419,6",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 175420
+        }
+    },
+    "calculatedTotalContribution": 175420
+}

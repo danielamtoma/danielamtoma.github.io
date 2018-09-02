@@ -1,0 +1,33 @@
+{
+    "rcn": "207586",
+    "acronym": "TIC-AUV",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Towards Intelligent Cognitive AUVs",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2019",
+    "objective": "In recent years, long-term autonomy and persistent autonomy have ecome key areas of interest for marine robotics researchers. Ocean observatories require autonomous robot deployments over months or years. Deep-water oilfield inspection and intervention with autonomous vehicles is now a commercial reality, but fielded robots rely heavily on accurate a priori models of the subsea assets. Robustness to errors in autonomous contact tasks requires detection of execution errors.\n\nToday, our current generations of Autonomous Underwater Vehicles (AUVs) are generally limited to preplanned missions, or to limited forms of autonomy involving script switching and re-parametrisation in response to preprogrammed events.\n\nThe work envisaged in this project wants to address the need of greater autonomy and capabilities, improving the cognitive and intelligent layer of marine robotics. Research activities will focus on three main interconnected areas:\nï semantic world representation and reasoning, in order to represent the operating environment, taking into account uncertainty at different layers (sensor data, partial view, system evolution);\nï intelligent active localisation techniques, in order to define a specific set of actions aiming at robot localisation in the environment;\nï fault management, in order to detect, classify and react to possible in-mission faults and various problems.\n\nCombining the research results in those areas and integrating them into real marine robots will result in a great increase of autonomy and intelligent cognitive capabilities, essential skills for persistent autonomy for robotics and autonomous systems.",
+    "totalCost": "159795,6",
+    "ecMaxContribution": "159795,6",
+    "coordinator": "JACOBS UNIVERSITY BREMEN GGMBH",
+    "coordinatorCountry": "DE",
+    "participants": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "998096827": {
+            "orgId": "998096827",
+            "orgName": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 0
+        },
+        "999897147": {
+            "orgId": "999897147",
+            "orgName": "JACOBS UNIVERSITY BREMEN GGMBH",
+            "ecContrib": 159796
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 159796
+}

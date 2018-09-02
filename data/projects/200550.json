@@ -1,0 +1,53 @@
+{
+    "rcn": "200550",
+    "acronym": "HV-EPSA",
+    "topics": "COMPET-03-2015",
+    "title": "High Voltage Electrical Power System Architecture",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2017",
+    "objective": "The main objective of the HV-EPSA project is to break the current state-of-the-art in satellite electrical & power subsystem, expand the present application domain of the classical technologies and perform a full system analysis and validation to optimize the electrical chain including the new electrical propulsion units and communication systems\n\nThe electrical & power subsystem (EPS) is mainly devoted to provide electrical power to all the active systems of a satellite. It generates and distributes a ìprimary power busî whose characteristics are optimized to the mission needs. This bus is usually generated from solar arrays and electrochemical batteries. These power sources are controlled by a Power Conditioning Unit (PCU) which delivers the power bus. EPS is a major constituent of a satellite : its cost may reach up to 30% of the total platform cost.\n\nThere is a large design variety of power buses, with voltage levels typically ranging from 28 to 100V. This state-of-the-art is well adapted to past and current needs in term of power conditioning & distribution for science and telecommunication satellites. Nevertheless, a short-term need is raising for higher operating voltages, especially for the new electrical propulsion systems and high power payloads\n\nIncreasing the bus voltage represents a real technical challenge. During its life, the satellite has to face many ìharshî environment constraints (radiations, pressure, plasma,Ö) which limit the choice of high voltage electronic parts and favor destructive electrical discharges or arcs. This study will consider: solar arrays, power conditioning and distribution units (PCDU), cables and connectors, up to the main driving units for high voltage feeds: the EPCs (Electrical Power Conditioner for radio frequency amplifiers  supply) and PPUs (Plasma Propulsion Unit for electric thrusters).\n\nThis study will enable a full system analysis including units optimization and materials testing within representative environment.",
+    "totalCost": "1423127,74",
+    "ecMaxContribution": "1000743",
+    "coordinator": "THALES ALENIA SPACE FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "SITAEL SPA;THALES ALENIA SPACE BELGIUM S.A.;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES;IONIX SYSTEMS LIMITED;RUAG Schweiz AG",
+    "participantCountries": "IT;BE;CH;FR;UK",
+    "projectParticipants": {
+        "929299189": {
+            "orgId": "929299189",
+            "orgName": "IONIX SYSTEMS LIMITED",
+            "ecContrib": 23780
+        },
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 190175
+        },
+        "986589038": {
+            "orgId": "986589038",
+            "orgName": "THALES ALENIA SPACE BELGIUM S.A.",
+            "ecContrib": 250000
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 411863
+        },
+        "985510204": {
+            "orgId": "985510204",
+            "orgName": "SITAEL SPA",
+            "ecContrib": 124925
+        },
+        "999932358": {
+            "orgId": "999932358",
+            "orgName": "RUAG Schweiz AG",
+            "ecContrib": 0
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1000743
+}

@@ -1,0 +1,17 @@
+{
+    "rcn": "215360",
+    "acronym": "HTS-STABTHERAPRO",
+    "topics": "MSCA-IF-2017",
+    "title": "High-throughput directed evolution to engineer thermostable therapeutic proteins",
+    "startDate": "01/07/2018",
+    "endDate": "30/06/2020",
+    "objective": "The project will establish a novel high-throughput directed evolution platform for evaluating large libraries of therapeutic protein (TP) variants for increased thermostability, slower global or local unfolding rates, and minimised aggregation propensity. This will require several recent advances to be coupled into a single system. Directed evolution can be carried out by encapsulating single plasmids, each encoding a unique protein variant, into droplets of an emulsion, then using cell-free expression to generate the protein in each droplet.  This project will extend this approach to incorporate non-natural amino-acid fluorophores into the protein to create a FRET-based signal that would give a direct report on protein expression levels, and then also on the stability (denaturation) of the protein (FRET-loss) upon stimulation by heating. Such heating will initially be applied to droplets in bulk for defined periods of time to allow global unfolding and aggregation, and then recooled prior to FACS sorting for variants that best retain the FRET signal. Aggregation under native (low temperature) conditions is known to be linked to local protein unfolding events that are relatively rare. To extend the screening approach for directly evolving slower local unfolding events, a fast IR-induced temperature-jump perturbation will be used to cause only local unfolding prior to FACS sorting.  Such a platform would be used to directly evolve TPs with increased thermostability (slow global unfolding), and then slower local unfolding, which will combine to decrease aggregation propensity. An enzymatic system (bovine enterokinase) will be used initially to establish and validate the set-up, taking advantage of the simple fluorescent assay for enzyme activity. Once established, the set-up will then be applied to therapeutic antibody fragment proteins, using FRET to screen for retention of folded structure upon heating.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

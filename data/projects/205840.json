@@ -1,0 +1,38 @@
+{
+    "rcn": "205840",
+    "acronym": "CepBin",
+    "topics": "ERC-ADG-2015",
+    "title": "A sub-percent distance scale from binaries and Cepheids",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2021",
+    "objective": "We propose to carry out a project which will produce a decisive step towards improving the accuracy of the Hubble constant as determined from the Cepheid-SN Ia method to 1%, by using 28 extremely rare eclipsing binary systems in the LMC which offer the potential to determine their distances to 1%. To achieve this accuracy we will reduce the main error in the binary method by interferometric angular diameter measurements of a sample of red clump stars which resemble the stars in our binary systems. We will check on our calibration with similar binary systems close enough to determine their orbits from interferometry. We already showed the feasibility of our method which yielded the best-ever distance determination to the LMC of 2.2% from 8 such binary systems. With 28 systems and the improved angular diameter calibration we will push the LMC distance uncertainty down to 1% which will allow to set the zero point of the Cepheid PL relation with the same accuracy using the large available LMC Cepheid sample. We will determine the metallicity effect on Cepheid luminosities by a) determining a 2% distance to the more metal-poor SMC with our binary method, and by b) measuring the distances to LMC and SMC with an improved Baade-Wesselink (BW) method. We will achieve this improvement by analyzing 9 unique Cepheids in eclipsing binaries in the LMC our group has discovered which allow factor- of-ten improvements in the determination of all basic physical parameters of Cepheids. These studies will also increase our confidence in the Cepheid-based H0 determination. Our project bears strong synergy to the Gaia mission by providing the best checks on possible systematic uncertainties on Gaia parallaxes with 200 binary systems whose distances we will measure to 1-2%. We will provide two unique tools for 1-3 % distance determinations to individual objects in a volume of 1 Mpc, being competitive to Gaia already at a distance of 1 kpc from the Sun.",
+    "totalCost": "2360500",
+    "ecMaxContribution": "2360500",
+    "coordinator": "CENTRUM ASTRONOMICZNE IM. MIKOLAJAKOPERNIKA POLSKIEJ AKADEMII NAUK",
+    "coordinatorCountry": "PL",
+    "participants": "OBSERVATOIRE DE PARIS;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;UNIVERSIDAD DE CONCEPCION",
+    "participantCountries": "FR;CL",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 380225
+        },
+        "996416011": {
+            "orgId": "996416011",
+            "orgName": "UNIVERSIDAD DE CONCEPCION",
+            "ecContrib": 506200
+        },
+        "999623122": {
+            "orgId": "999623122",
+            "orgName": "OBSERVATOIRE DE PARIS",
+            "ecContrib": 122850
+        },
+        "999457543": {
+            "orgId": "999457543",
+            "orgName": "CENTRUM ASTRONOMICZNE IM. MIKOLAJAKOPERNIKA POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 1351225
+        }
+    },
+    "calculatedTotalContribution": 2360500
+}

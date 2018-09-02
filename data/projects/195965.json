@@ -1,0 +1,23 @@
+{
+    "rcn": "195965",
+    "acronym": "ARCSENN",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "ANALYSIS OF RC STRUCTURES EMPLOYING NEURAL NETWORKS",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2017",
+    "objective": "The primary objective of the proposed project is to develop a radically new structural analysis procedure capable of accurately predicting the nonlinear behaviour of reinforced concrete structures. The proposed approach will be developed within the Soft Computing framework and as a result will require significantly less computational resources than those of more traditional methods of structural analysis. The proposed procedure will simulate each RC element, the beam-column joints included, with a single neural network, which has first to be appropriately trained. The training process will be based on the combined use of published test data, numerical predictions obtained from nonlinear finite-element analyses and the predicted behaviour of published physical models of RC structural elements at their ultimate limit state. In order to model intricate structures, the individual Neural Networks will be combined through a new solution strategy so as to provide a representative model of the structure considered. The stability and robustness of the proposed structural analysis method, as well as the validity and objectivity of its predictions, will be ensured through a comparative study of the predicted behaviour of RC frames with its counterparts established experimentally and numerically via nonlinear finite element analysis. Throughout these studies, attention will be focussed on identifying parameters affecting the overall structural response of RC frames (such as the effect of crack-formation within the joint regions) as well as their implications on practical structural analysis and design. Overall, the proposed work will lead to a stable, robust and computationally efficient numerical procedure capable of realistically and objectively predicting the nonlinear response of RC structures and suitable, not only for research and practical applications, but also for solving design optimization and reliability problems which require extensive parametric investigations.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "HERIOT-WATT UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999853400": {
+            "orgId": "999853400",
+            "orgName": "HERIOT-WATT UNIVERSITY",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

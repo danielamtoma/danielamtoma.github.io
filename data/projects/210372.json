@@ -1,0 +1,48 @@
+{
+    "rcn": "210372",
+    "acronym": "TERRA",
+    "topics": "RPAS-04",
+    "title": "Technological European Research for RPAS in ATM",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2019",
+    "objective": "TERRA Project addresses the research topic H2020-SESAR-2016-1 RPAS04: Ground-based technology, focusing on the performance requirements associated with the UTM concept, and identifying the technologies (existing and new) which could meet these requirements. TERRA proposes a technical architecture to support VLL RPAS operations, which are assumed to encompass interaction with VFR traffic.\nThe main project objectives are the following:\nï Requirements identification: A set of operational and functional ground-based system requirements will be defined for three representative RPAS operational business cases, considering operator requirements but also potential impacts on stakeholders. \nï Technological applicability: Analysis of applicability of existing CNS/ATM technologies which could be applied to UTM, identification and development of new technologies (e.g. machine learning classification of flight trajectories) and analysis of their applicability, considering in both cases the performance provided by these technologies with the requirements imposed upon their use. \nï Architecture proposal and proof of concept: Identification of the most appropriate technologies, comparing their performance and applicability with the user requirements and definition of a technical architecture, which will be evaluated by means of a proof of concept demonstration.\n\nTo achieve these objectives, the Consortium consists of a range of companies bringing complementary expertise (research, operational, industrial) covering all the elements of ground-based technologies for UTM; additionally, an Advisory Board of stakeholders and developers has been formed to assist the consortium on the requirements identification and proposals validation. Finally, a proof of concept demonstration of the proposed architecture will be conducted, leveraging existing simulation platforms previously developed by members of the consortium. TERRA aims to safely facilitate up to 1 million VLL RPAS fligths by 2025.",
+    "totalCost": "937000",
+    "ecMaxContribution": "937000",
+    "coordinator": "INGENIERIA Y ECONOMIA DEL TRANSPORTE SME MP SA",
+    "coordinatorCountry": "ES",
+    "participants": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.;STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;CHPR CENTER FOR HUMAN PERFORMANCE RESEARCH BV;C-ASTRAL PROIZVODNJA ZRACNIH IN VESOLJSKIH PLOVIL DOO;LEONARDO - SOCIETA PER  AZIONI",
+    "participantCountries": "ES;NL;SI;IT",
+    "projectParticipants": {
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 257250
+        },
+        "999537568": {
+            "orgId": "999537568",
+            "orgName": "INGENIERIA Y ECONOMIA DEL TRANSPORTE SME MP SA",
+            "ecContrib": 186750
+        },
+        "927646988": {
+            "orgId": "927646988",
+            "orgName": "CHPR CENTER FOR HUMAN PERFORMANCE RESEARCH BV",
+            "ecContrib": 88500
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 175750
+        },
+        "951396856": {
+            "orgId": "951396856",
+            "orgName": "C-ASTRAL PROIZVODNJA ZRACNIH IN VESOLJSKIH PLOVIL DOO",
+            "ecContrib": 115500
+        },
+        "997605619": {
+            "orgId": "997605619",
+            "orgName": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+            "ecContrib": 113250
+        }
+    },
+    "calculatedTotalContribution": 937000
+}

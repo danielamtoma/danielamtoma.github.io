@@ -1,0 +1,53 @@
+{
+    "rcn": "193295",
+    "acronym": "CDS-QUAMRI",
+    "topics": "PHC-32-2014",
+    "title": "A Clinical Decision Support system based on Quantitative multimodal brain MRI for personalized treatment in neurological and psychiatric disorders",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "A large number of neurological and psychiatric disorders lack objective criteria for primary diagnoses, early differential diagnosis with regard to subtypes in treatment response and disease progression or effective therapy monitoring resulting in a tremendous negative socio-economic impact. Scientific studies based on advanced MRI methods indicate that related patients show specific subtle changes in multiple MRI readouts that are only detectable by quantitative approaches. Existing tools for MRI data analysis are largely insufficient to maximise the use of advanced modality based, diverse and complex MRI data with deficiencies existing mainly in interoperability as well as data organisation, integration, analysis and exploitation in clinical decision making. \nHence, the development of a clinical decision support system for neurological and psychiatric disorders is envisioned that is based on multimodal quantitative magnetic resonance imaging, advanced feature extraction and multi-parametric classification. To that the quantitative analysis of structural, functional and metabolic MRI data (11 modalities) shall be fully integrated into a single software framework for the first time; support of large data, interoperability and access for non-expert users shall be enabled and a machine learning based classification module shall be developed. The quantification and feature extraction algorithms for metabolic, perfusion, diffusion and functional imaging shall be enhanced to access the full information content of the data independent of vendor specific scan protocols as required for future use in diagnostics, stratification and monitoring of patients. The envisioned clinical decision support system shall be tested, optimized and demonstrated for major depression and multiple sclerosis, but can be extended to additional disorders by enabling large scale clinical trials and more widespread use in neuroscience as a basis for the future clinical decision making.",
+    "totalCost": "3261125",
+    "ecMaxContribution": "2168125",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "ACADEMISCH ZIEKENHUIS LEIDEN;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;CHARITE - UNIVERSITAETSMEDIZIN BERLIN;EBERHARD KARLS UNIVERSITAET TUEBINGEN;UNIVERSITY COLLEGE LONDON;GYROTOOLS GMBH",
+    "participantCountries": "NL;CH;DE;UK",
+    "projectParticipants": {
+        "999990849": {
+            "orgId": "999990849",
+            "orgName": "ACADEMISCH ZIEKENHUIS LEIDEN",
+            "ecContrib": 345000
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 636250
+        },
+        "969176471": {
+            "orgId": "969176471",
+            "orgName": "GYROTOOLS GMBH",
+            "ecContrib": 0
+        },
+        "999992692": {
+            "orgId": "999992692",
+            "orgName": "CHARITE - UNIVERSITAETSMEDIZIN BERLIN",
+            "ecContrib": 269375
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 566250
+        },
+        "999991916": {
+            "orgId": "999991916",
+            "orgName": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+            "ecContrib": 351250
+        }
+    },
+    "calculatedTotalContribution": 2168125
+}

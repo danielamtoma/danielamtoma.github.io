@@ -1,0 +1,83 @@
+{
+    "rcn": "203295",
+    "acronym": "ROCSAFE",
+    "topics": "FCT-03-2015",
+    "title": "Remotely Operated CBRNe Scene Assessment  Forensic Examination",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2019",
+    "objective": "The overall goal of ROCSAFE is to fundamentally change how CBRNe events are assessed, in order to and ensure the safety of crime scene investigators by reducing the need for them to enter high-risk scenes when they have to determine the nature of threats and gather forensics. \nFor this, ROCSAFE will make use of cost-effective modern remotely-controlled robotic air and ground vehicles (RAVs/RGVs) that are designed for use in rain, wind, and challenging ground surfaces and obstacles. \nFirst, RAVs will assess the scene. These will have cameras and can carry an array of innovative new high-performance and rugged miniaturised sensor systems for RN, chemical and biological threats.\nTo reduce the scene commanderís cognitive load, ROCSAFE will include new Central Decision Management software and a Command Centre. All images and data will be streamed to this, where it will be analysed and displayed on a sophisticated and intuitive interface with maps and video, showing results of analytics and giving readings geographical context. This will enable the scene commander to assess the nature of threats, develop an Action Plan and an Evidence Plan, supported as needed by the Central Decision Management. It will also assist in coordinating sensors and mobile units. Its data analytics will provide fusion of multiple sensor data sources, to allow probabilistic reasoning about the most likely threats and likely locations of epicentres.\nAfter the scene is assessed, RGVs will be dispatched to collect forensic material/evidence, with automatically-optimised routes to avoid hazards. They will have innovative new equipment for forensics collection that will automate best practices. Forensic material will be collected, bagged, tagged, documented, and stored by the RGV.\nThus, ROCSAFE will ensure that CBRNe scenes are assessed more rapidly and thoroughly than is currently possible, and that forensic evidence is collected in a manner that stands up in court, without putting personnel at risk.",
+    "totalCost": "4781061,25",
+    "ecMaxContribution": "4781061,25",
+    "coordinator": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+    "coordinatorCountry": "IE",
+    "participants": "IBATECH TECNOLOGIA SL;CONSORZIO CREO-CENTRO RICERCHE ELETTRO OTTICHE;DEPARTMENT OF DEFENCE;HEALTH SERVICE EXECUTIVE HSE;AYUNTAMIENTO DE VALENCIA;AEORUM ESPANA S.L.;CONSIGLIO NAZIONALE DELLE RICERCHE;REAMDA LIMITED;SCORPION NETWORKS LTD;MICROFLUIDIC CHIPSHOP GMBH;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK;INOV INESC INOVACAO - INSTITUTO DE NOVAS TECNOLOGIAS",
+    "participantCountries": "ES;IT;IE;DE;PT",
+    "projectParticipants": {
+        "991972053": {
+            "orgId": "991972053",
+            "orgName": "CONSORZIO CREO-CENTRO RICERCHE ELETTRO OTTICHE",
+            "ecContrib": 520000
+        },
+        "993521919": {
+            "orgId": "993521919",
+            "orgName": "HEALTH SERVICE EXECUTIVE HSE",
+            "ecContrib": 89566
+        },
+        "945493533": {
+            "orgId": "945493533",
+            "orgName": "REAMDA LIMITED",
+            "ecContrib": 438750
+        },
+        "972574381": {
+            "orgId": "972574381",
+            "orgName": "SCORPION NETWORKS LTD",
+            "ecContrib": 287500
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 380125
+        },
+        "999620503": {
+            "orgId": "999620503",
+            "orgName": "INOV INESC INOVACAO - INSTITUTO DE NOVAS TECNOLOGIAS",
+            "ecContrib": 277375
+        },
+        "999978045": {
+            "orgId": "999978045",
+            "orgName": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+            "ecContrib": 926402
+        },
+        "951904845": {
+            "orgId": "951904845",
+            "orgName": "DEPARTMENT OF DEFENCE",
+            "ecContrib": 90000
+        },
+        "984507903": {
+            "orgId": "984507903",
+            "orgName": "AYUNTAMIENTO DE VALENCIA",
+            "ecContrib": 138125
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 375731
+        },
+        "925996921": {
+            "orgId": "925996921",
+            "orgName": "IBATECH TECNOLOGIA SL",
+            "ecContrib": 394988
+        },
+        "999691895": {
+            "orgId": "999691895",
+            "orgName": "MICROFLUIDIC CHIPSHOP GMBH",
+            "ecContrib": 435250
+        },
+        "938532813": {
+            "orgId": "938532813",
+            "orgName": "AEORUM ESPANA S.L.",
+            "ecContrib": 427249
+        }
+    },
+    "calculatedTotalContribution": 4781061
+}

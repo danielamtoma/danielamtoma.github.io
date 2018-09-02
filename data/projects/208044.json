@@ -1,0 +1,28 @@
+{
+    "rcn": "208044",
+    "acronym": "ENERGIZE",
+    "topics": "JTI-CS2-2016-CFP03-SYS-02-21",
+    "title": "Efficient Energy Management for Greener Aviation",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2021",
+    "objective": "The trend towards More Electric Aircraft with higher integration of different sub-systems into a common energy network requires innovative approaches for the energy management. First, a well-designed energy management saves energy by optimizing power split. Second and more important, it allows by its improved handling of loads to reduce the conservatism of the architectural design and hence weight and emissions.\n\nTherefore, energy management functions are a key enabling technology that needs to be available in early architectural design. They shall be of limited complexity in order to be quickly developed and potentially certifiable for on-board implementation.\n\nThe project Energize will create innovative model-based algorithms tailored to exactly meet these demands. The approach is based on the extensive model-base from DLR and NLR. From here, the vital non-linearities are concentrated into cost functions. The logic of supply and demand is then used to generate model-based algorithms for the energy management. This approach will provide a common solution for the electric and thermal domain while taking the domain-specific aspects into account.\n\nThe maturity and industry acceptance of this proposal has been demonstrated by preceding research activities. Hence, bringing this methodology up to TRL5 in cooperation with the topic manager, will optimize the design of future aircraft and contribute to Flightpath 2050 goals. Energizeís exploitation plan will improve the competitiveness of the European aviation industry but also ensure that vital methodological know-how reaches the scientific community and other European industry sectors. In addition, the use of model-based assessment and algorithms within aviation shall be facilitated as long-term impact.\n\nThe Energize consortium, consisting of DLR and NLR, is perfectly suited to cover all demanded skills and aspects of the call. The project duration will be 48 months consuming a total budget of 1243 kÄ.",
+    "totalCost": "940935",
+    "ecMaxContribution": "940935",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 97328
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 843608
+        }
+    },
+    "calculatedTotalContribution": 940936
+}

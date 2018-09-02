@@ -1,0 +1,43 @@
+{
+    "rcn": "212956",
+    "acronym": "ESBO DS",
+    "topics": "INFRADEV-01-2017",
+    "title": "European Stratospheric Balloon Observatory Design Study",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2021",
+    "objective": "Following the findings of the H2020-funded ORISON project, we propose the design and development of a new European astronomical research infrastructure for stratospheric balloon-based telescopes. Our approach is to provide a versatile community-accessible observatory capable of covering unserved scientific needs, including those of star- and planet formation studies and exoplanet research. These are particularly associated with requirements for high spatial and spectral resolution far-infrared (FIR) observations, high sensitivity UV observations, and highly accurate visible light photometry. To a certain extent, these needs could also be addressed by space missions. A balloon infrastructure, however, will offer a more cost-efficient and flexible approach, allowing instruments more adaptable to evolving needs (exchangeable and less risk-adverse), longer overall observation times (possibility to refill cooling fluids), and larger mirror sizes (less severe launcher restrictions). So far, stratospheric telescopes, with the exception of SOFIA, have mostly served a single purpose and did not fly more than a few times. The proposed infrastructure, in contrast, will provide regular flights, allowing it to operate as a true observatory.\nThe infrastructure will be prepared in two parts within the project:\n1) Conceptualization of the full distributed infrastructure with several flight platforms, including a suitable governance and operating structure for long-term operations and development. These will build upon a highly sensitive UV platform and lead to a next-generation FIR platform with unprecedented spatial resolution. A development roadmap will summarize the necessary development steps and funding needs.\n2) Technical demonstration of the manageability and safe recovery of a versatile high-performance astronomical balloon mission via a prototype carrying a next-generation UV-detector and a visible light camera for photometric tests.",
+    "totalCost": "3267158,11",
+    "ecMaxContribution": "3009563,61",
+    "coordinator": "UNIVERSITAET STUTTGART",
+    "coordinatorCountry": "DE",
+    "participants": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;SWEDISH SPACE CORPORATION;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+    "participantCountries": "DE;SE;ES",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 136469
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 263924
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 1152438
+        },
+        "995488012": {
+            "orgId": "995488012",
+            "orgName": "SWEDISH SPACE CORPORATION",
+            "ecContrib": 1123429
+        },
+        "999991916": {
+            "orgId": "999991916",
+            "orgName": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+            "ecContrib": 333304
+        }
+    },
+    "calculatedTotalContribution": 3009564
+}

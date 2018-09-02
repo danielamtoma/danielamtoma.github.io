@@ -1,0 +1,17 @@
+{
+    "rcn": "215834",
+    "acronym": "ASPIDE",
+    "topics": "FETHPC-02-2017",
+    "title": "ASPIDE: exAScale ProgramIng models for extreme Data procEssing",
+    "startDate": "15/06/2018",
+    "endDate": "14/12/2020",
+    "objective": "Extreme Data is an incarnation of Big Data concept distinguished by the massive amounts of data that must be queried, communicated and analyzed in (near) real-time by using a very large number of memory/storage elements and Exascale computing systems. Immediate examples are the scientific data produced at a rate of hundreds of gigabits-per-second that must be stored, filtered and analyzed, the millions of images per day that must be mined (analyzed) in parallel, the one billion of social data posts queried in real-time on an in-memory  components database. Traditional disks or commercial storage cannot handle nowadays the extreme scale of such application data. \n\nFollowing the need of improvement of current concepts and technologies, ASPIDEís activities focus on data-intensive applications running on systems composed of up to millions of computing elements (Exascale systems). Practical results will include the methodology and software prototypes that will be designed and used to implement Exascale applications.\n\nThe ASPIDE project will contribute with the definition of a new programming paradigms, APIs, runtime tools and methodologies for expressing data-intensive tasks on Exascale systems, which can  pave the way for the exploitation of massive parallelism over a simplified model of the system architecture, promoting high performance and efficiency, and offering powerful operations and mechanisms for processing extreme data sources at high speed and/or real-time.",
+    "totalCost": "2464093,75",
+    "ecMaxContribution": "2464093,75",
+    "coordinator": "UNIVERSIDAD CARLOS III DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUTUL E-AUSTRIA TIMISOARA;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;SERVICIO MADRILENO DE SALUD;BULL SAS;INTEGRIS SOCIETA PER AZIONI;UNIVERSITAET KLAGENFURT;UNIVERSITA DELLA CALABRIA",
+    "participantCountries": "RO;PL;ES;FR;IT;AT",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

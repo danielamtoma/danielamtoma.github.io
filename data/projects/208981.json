@@ -1,0 +1,23 @@
+{
+    "rcn": "208981",
+    "acronym": "ECO-H-MEM",
+    "topics": "MSCA-IF-2016",
+    "title": "Advanced Ecosystem for Broad Heterogeneous Memory Usage",
+    "startDate": "01/03/2018",
+    "endDate": "29/02/2020",
+    "objective": "Supercomputers are a key tool for professionals from many disciplines to address society challenges, enabling them to perform, e.g., climate change simulations or genome analysis. ECís HPC Strategy, implemented in H2020, devises the need to bring Europe's high-performance computing technology to the exascale era, being energy efficiency one of the major challenges. Since providing the required amount of memory for upcoming exascale applications is non-viable by means of top-performance technology only, due to energy consumption and dissipation constraints, vendors are incorporating a variety of additional memory subsystems built upon different technologies, which provide diverse features and limitations (e.g., Intelís Knights Landing processor). Deciding what data to host in each memory subsystem is far from trivial and poses notable performance implications. Recent research has focused on their use for specific purposes such as resilience or to host selected data objects based on some basic criteria. The aim of this project is to move a big step forward and develop technology to build an innovative generic software ecosystem to facilitate the efficient use of heterogeneous memory systems, what will be crucial to leverage the full potential of exascale platforms. BSC is an excellent institution to develop this research because of its top-level facilities and researchers, its multiple collaborations with industry, and the exceptional training, dissemination, and communication opportunities it offers. While Prof. AyguadÈ will supervise this fellowship bringing the experience of a brilliant consolidated career and leading roles in European projects, technology transfer to Intel will boost the impact of the project. This undoubtedly represents an outstanding opportunity for the candidate to complement his GPU Computing experience, consolidating his research career in system software for many-core architectures while reintegrating in a long-term position in Europe.",
+    "totalCost": "170121,6",
+    "ecMaxContribution": "170121,6",
+    "coordinator": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 170122
+        }
+    },
+    "calculatedTotalContribution": 170122
+}

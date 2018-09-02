@@ -1,0 +1,103 @@
+{
+    "rcn": "211729",
+    "acronym": "PreCoM",
+    "topics": "FOF-09-2017",
+    "title": "Predictive Cognitive Maintenance Decision Support System",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "Cheaper and more powerful sensors, together with big data analytics, offer an unprecedented opportunity to track machine-tool performance and health condition. However, manufacturers only spend 15% of their total maintenance costs on predictive (vs reactive or preventative) maintenance.\nThe project will deploy and test a predictive cognitive maintenance decision-support system able to identify and localize damage, assess damage severity, predict damage evolution, assess remaining asset life, reduce the probability of false alarms, provide more accurate failure detection, issue notices to conduct preventive maintenance actions and ultimately increase in-service efficiency of machines by at least 10%.\nThe platform includes 4 modules: 1) a data acquisition module leveraging external sensors as well as sensors directly embedded in the machine tool components, 2) an artificial intelligence module combining physical models, statistical models and machine-learning algorithms able to track individual health condition and supporting a large range of assets and dynamic operating conditions, 3) a secure integration module connecting the platform to production planning and maintenance systems via a private cloud and providing additional safety, self-healing and self-learning capabilities and 4) a human interface module including production dashboards and augmented reality interfaces for facilitating maintenance tasks.\nThe consortium includes 3 end-user factories, 3 machine-tool suppliers, 1 leading component supplier, 4 innovative SMEs, 3 research organizations and 3 academic institutions. Together, we will validate the platform in a broad spectrum of real-life industrial scenarios (low volume, high volume and continuous manufacturing). We will also demonstrate the direct impact of the platform on maintainability, availability, work safety and costs in order to document the results in detailed business cases for widespread industry dissemination and exploitation.",
+    "totalCost": "7263332,5",
+    "ecMaxContribution": "6146402,5",
+    "coordinator": "LINNEUNIVERSITETET",
+    "coordinatorCountry": "SE",
+    "participants": "OVERBECK GMBH;SAVVY DATA SYSTEMS SL;TECHNISCHE UNIVERSITAET MUENCHEN;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;SORALUCE S. COOP.;GOMA CAMPS SOCIEDAD ANONIMA;IDEKO S COOP;SPINEA SRO;CONSORCIO INSTITUTO TECNOLOXICO MATEMATICA INDUSTRIAL ITMATI;PARAGON ANONYMH ETAIREIA MELETON EREVNAS KAI EMPORIOU PROIGMENHS TEXNOLOGIAS;BOSCH REXROTH AG;SAKANA, SOCIEDAD COOPERATIVA;LANTIER SL;TECHNISCHE UNIVERSITAET CHEMNITZ;VERTECH GROUP;E-MAINTENANCE SWEDEN AB",
+    "participantCountries": "DE;ES;FR;SK;EL;SE",
+    "projectParticipants": {
+        "999546007": {
+            "orgId": "999546007",
+            "orgName": "IDEKO S COOP",
+            "ecContrib": 654500
+        },
+        "950972190": {
+            "orgId": "950972190",
+            "orgName": "SAKANA, SOCIEDAD COOPERATIVA",
+            "ecContrib": 199325
+        },
+        "999877844": {
+            "orgId": "999877844",
+            "orgName": "TECHNISCHE UNIVERSITAET CHEMNITZ",
+            "ecContrib": 559962
+        },
+        "920175369": {
+            "orgId": "920175369",
+            "orgName": "SAVVY DATA SYSTEMS SL",
+            "ecContrib": 206938
+        },
+        "951732476": {
+            "orgId": "951732476",
+            "orgName": "GOMA CAMPS SOCIEDAD ANONIMA",
+            "ecContrib": 171894
+        },
+        "997220432": {
+            "orgId": "997220432",
+            "orgName": "BOSCH REXROTH AG",
+            "ecContrib": 202370
+        },
+        "999545522": {
+            "orgId": "999545522",
+            "orgName": "SORALUCE S. COOP.",
+            "ecContrib": 218312
+        },
+        "915776225": {
+            "orgId": "915776225",
+            "orgName": "OVERBECK GMBH",
+            "ecContrib": 218312
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 470920
+        },
+        "986317632": {
+            "orgId": "986317632",
+            "orgName": "LINNEUNIVERSITETET",
+            "ecContrib": 749350
+        },
+        "916994254": {
+            "orgId": "916994254",
+            "orgName": "E-MAINTENANCE SWEDEN AB",
+            "ecContrib": 435444
+        },
+        "949609437": {
+            "orgId": "949609437",
+            "orgName": "CONSORCIO INSTITUTO TECNOLOXICO MATEMATICA INDUSTRIAL ITMATI",
+            "ecContrib": 302250
+        },
+        "914950367": {
+            "orgId": "914950367",
+            "orgName": "LANTIER SL",
+            "ecContrib": 213938
+        },
+        "958250294": {
+            "orgId": "958250294",
+            "orgName": "VERTECH GROUP",
+            "ecContrib": 289625
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 803250
+        },
+        "951648183": {
+            "orgId": "951648183",
+            "orgName": "SPINEA SRO",
+            "ecContrib": 129500
+        },
+        "999691313": {
+            "orgId": "999691313",
+            "orgName": "PARAGON ANONYMH ETAIREIA MELETON EREVNAS KAI EMPORIOU PROIGMENHS TEXNOLOGIAS",
+            "ecContrib": 320512
+        }
+    },
+    "calculatedTotalContribution": 6146402
+}

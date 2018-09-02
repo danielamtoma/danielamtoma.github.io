@@ -1,0 +1,48 @@
+{
+    "rcn": "197538",
+    "acronym": "ALLScale",
+    "topics": "FETHPC-1-2014",
+    "title": "An Exascale Programming, Multi-objective Optimisation and Resilience Management Environment Based on Nested Recursive Parallelism",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "Extreme scale HPC systems impose significant challenges for developers aiming at obtaining applications efficiently utilising all available resources. In particular, the development of such applications is accompanied by the complex and labour-intensive task of managing parallel control flows, data dependencies and underlying hardware resources ñ each of these obligations constituting challenging problems on its own. The AllScale environment, the focus of this project, will provide a novel, sophisticated approach enabling the decoupling of the specification of parallelism from the associated management activities during program execution. Its foundation is a parallel programming model based on nested recursive parallelism, opening up the potential for a variety of compiler and runtime system based techniques adding to the capabilities of resulting applications. These include the (i) automated porting of application from small- to extreme scale architectures, (ii) the flexible tuning of the program execution to satisfy trade-offs among multiple objectives including execution time, energy and resource usage, (iii) the management of hardware resources and associated parameters (e.g. clock speed), (iv) the integration of resilience management measures to compensate for isolated hardware failures and (v) the possibility of online performance monitoring and analysis. All these services will be provided in an application independent, reusable fashion by a combination of sophisticated, modular, and customizable compiler and runtime system based solutions.\n\nAllScale will boost the development productivity, portability, and runtime, energy, and resource efficiency of parallel applications targeting small to extreme scale parallel systems by leveraging the inherent advantages of nested recursive parallelism, and will be validated with applications from fluid dynamics, environmental hazard and space weather simulations provided by SME, industry and scientific partners.",
+    "totalCost": "3366196",
+    "ecMaxContribution": "3366196",
+    "coordinator": "UNIVERSITAET INNSBRUCK",
+    "coordinatorCountry": "AT",
+    "participants": "FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG;KUNGLIGA TEKNISKA HOEGSKOLAN;IBM IRELAND LIMITED;THE QUEEN'S UNIVERSITY OF BELFAST;NUMERICAL MECHANICS APPLICATIONS INTERNATIONAL SA",
+    "participantCountries": "DE;SE;IE;UK;BE",
+    "projectParticipants": {
+        "999869114": {
+            "orgId": "999869114",
+            "orgName": "UNIVERSITAET INNSBRUCK",
+            "ecContrib": 830750
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 533875
+        },
+        "999995408": {
+            "orgId": "999995408",
+            "orgName": "FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG",
+            "ecContrib": 509868
+        },
+        "998755942": {
+            "orgId": "998755942",
+            "orgName": "NUMERICAL MECHANICS APPLICATIONS INTERNATIONAL SA",
+            "ecContrib": 457375
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 595750
+        },
+        "999992013": {
+            "orgId": "999992013",
+            "orgName": "THE QUEEN'S UNIVERSITY OF BELFAST",
+            "ecContrib": 438578
+        }
+    },
+    "calculatedTotalContribution": 3366196
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "204692",
+    "acronym": "Observable Stability",
+    "topics": "ERC-StG-2015",
+    "title": "Evolutionary stability, observability, and efficiency",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "The existing literature mainly focuses on two kinds of interactions: short-term interactions in which the behavior today does not influence the future, and long-term interactions with the same partner. In the former model, the only stable outcomes are Nash equilibria (which are typically non-efficient), while the latter model allows one to achieve efficient outcomes. Many interesting situations lie somewhere in between, typically when people engage in short-term interactions but future partners may obtain some information about the behavior today. For example, how do people behave when interacting in one-off purchases in an online site with a feedback mechanism (e.g., eBay)?\nIn this project I will fill the large gap in the literature, by characterizing evolutionary stable outcomes when players have limited information about the partnerís past, and how this stable behavior depends on the richness and the structure of the observed information. This will shed new light on indirect reciprocity and its use to achieve efficiency in social dilemmas.\nThe evolutionary stable outcomes capture the long run behavior in a dynamic process of cultural learning. Agents are randomly matched in each round to play a game with a new partner. Each agent may observe some information about the partnerís past behavior. New agents, who join the interactions, usually mimic one of the existing behaviors, with a larger tendency to choose more successful incumbents. Occasionally, few agents experiment with a new behavior.\nThe research agenda includes several theoretical subprojects with various research questions, such as:\n(1) Would non-material preferences be stable?\n(2) What will be the influence of non-verifiable reports about past behavior?\n(3) Which of the (locally) stable outcomes would be selected?\n(4) What will happen in asymmetric interactions between professional sellers and non-experienced buyers?\nThe final subproject experimentally tests the various predictions and key implications.",
+    "totalCost": "831487,99",
+    "ecMaxContribution": "831487,99",
+    "coordinator": "BAR ILAN UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999886574": {
+            "orgId": "999886574",
+            "orgName": "BAR ILAN UNIVERSITY",
+            "ecContrib": 831488
+        }
+    },
+    "calculatedTotalContribution": 831488
+}

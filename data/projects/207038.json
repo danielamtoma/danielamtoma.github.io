@@ -1,0 +1,33 @@
+{
+    "rcn": "207038",
+    "acronym": "LAMBDA",
+    "topics": "MSCA-RISE-2016",
+    "title": "Learning and Analysing Massive / Big complex Data",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2021",
+    "objective": "'LAMBDA aims at transferring game changing technologies to the European industry in critical areas of Machine learning. Based on recent algorithmic breakthroughs, we adapt sophisticated methods to targeted industries, with a twofold goal: First, to help turn cutting edge tools into innovative software products and processes, tailored to real-world issues. Second, based on the available data, to organise open data repositories and benchmarks, or to simulate data with the same statistical properties, when such data is confidential, following 'anonymisation'.\n\nLAMBDA focuses on two distinct application domains: 3D shape analysis and unstructured data mining. They share challenging features such as inherent complexity in modeling the data, high dimensionality which raises the issue of curse of dimensionality, and the need to address such datasets at a massive scale. Moreover, they correspond to the expertise of the participants. LAMBDA is characterised by a unique blend of theoretically rigorous and geometrically inclined methods, thus supporting a strong aspect of interdisciplinarity between Theory of Algorithms and Machine Learning. This shall be supported by advanced software development, ranging from public-domain prototype implementations to licensed software and integrated libraries, where the latter is based on the highly-optimised platform BIDMach, developed at UC Berkeley.\n\nLAMBDA strengthens existing links within Europe and across the Atlantic, while creating new synergies in the directions of two industrial domains, namely 3D shape search and insurance data. The two clusters are organised around representative companies in the respective domains. The Project is built so as to support knowledge transfer beyond its lifetime. Besides inter-sectoral collaborations, we exploit the international dimension by associating leading USA Universities, so as to bring state-of-the-art methods developed at the global level into the European framework.'",
+    "totalCost": "337500",
+    "ecMaxContribution": "337500",
+    "coordinator": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+    "coordinatorCountry": "EL",
+    "participants": "3D INDUSTRIES LIMITED;GIE AXA",
+    "participantCountries": "UK;FR",
+    "projectParticipants": {
+        "963794426": {
+            "orgId": "963794426",
+            "orgName": "GIE AXA",
+            "ecContrib": 36000
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 180000
+        },
+        "919403346": {
+            "orgId": "919403346",
+            "orgName": "3D INDUSTRIES LIMITED",
+            "ecContrib": 121500
+        }
+    },
+    "calculatedTotalContribution": 337500
+}

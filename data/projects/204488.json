@@ -1,0 +1,23 @@
+{
+    "rcn": "204488",
+    "acronym": "CloudRadioNet",
+    "topics": "ERC-ADG-2015",
+    "title": "Cloud Wireless Networks: An Information Theoretic Framework",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "This five years research proposal is focused on the development of novel information theoretic concepts and techniques and their usage, as to identify the ultimate communications limits and potential of different cloud radio network structures, in which the central signal processing is migrated to the cloud (remote central units), via fronthaul/backhaul infrastructure links. Moreover, it is also directed to introduce and study the optimal or close to optimal strategies for those systems that are to be motivated by the developed theory. We plan to address wireless networks, having future cellular technology in mind, but the basic tools and approaches to be built and researched are relevant to other communication networks as well. Cloud communication networks motivate novel information theoretic views, and perspectives that put backhaul/fronthaul connections in the center, thus deviating considerably from standard theoretical studies of communications links and networks, which are applied to this domain. Our approach accounts for the fact that in such networks information theoretic separation concepts are no longer optimal, hence isolating simple basic components of the network is essentially suboptimal. The proposed view incorporates, in a unified way, under the general cover of information theory: Multi-terminal distributed networks; Basic and timely concepts of distributed coding and communications; Network communications and primarily network coding, Index coding, as associated with interference alignment and caching; Information-Estimation relations and signal processing, addressing the impact of distributed channel state information directly; A variety of fundamental concepts in optimization and random matrix theories. This path provides a natural theoretical framework directed towards better understanding the potential and limitation of cloud networks on one hand and paves the way to innovative communications design principles on the other.",
+    "totalCost": "1981782",
+    "ecMaxContribution": "1981782",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 1981782
+        }
+    },
+    "calculatedTotalContribution": 1981782
+}

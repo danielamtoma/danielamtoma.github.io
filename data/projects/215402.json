@@ -1,0 +1,17 @@
+{
+    "rcn": "215402",
+    "acronym": "OTmeetsDFT",
+    "topics": "MSCA-IF-2017",
+    "title": "Multi-marginal Optimal Transport and Density Functional Theory: a mathematical setting for physical ideas",
+    "startDate": "01/05/2019",
+    "endDate": "30/04/2021",
+    "objective": "Accurately predicting electronic structure from first principles is crucial for many research areas such as chemistry, solid-state physics, biophysics and material sciences. In principle, the electronic structure is determined by the Schrˆdinger equation, which can only be solved in practice for few electrons. Kohn-Sham (KS) Density functional theory (DFT) has been a real breakthrough for electronic structure calculations. KS DFT uses the one-electron density and a non-interacting wave function as basic variables, much simpler quantities than many-electron wave-functions, allowing to treat realistic large systems.\n\nHowever, present-day KS DFT is not yet able to accurately capture the physics of systems in which electronic correlation plays a prominent role (e.g. transition metals). In recent years, the hosting group has developed a formalism to deal with density functional theory for strongly correlated systems (SCE), based on the exact DFT limit of infinite coupling strength, linking SCE DFT to Optimal Transport Theory with Coulomb costs.\n\nThis project creates a mathematical framework toward a rigorous SCE DFT theory, proposed by Gori-Giorgi and co-authors, combining the fellow's expertise in optimal transport and the host researcher experience in SCE DFT. This relies to (i) the study of a new instance of optimal transport problem with finitely many marginals and Coulomb cost; (ii) the computation of higher-order terms of the Levy-Lieb (Hohenberg-Kohn) functional around the infinite coupling strength limit. \n\nThe problems arising in multi-marginal optimal transport and SCE DFT requires novel combinations of ideas from three research communities: chemists, physicists and mathematics. Our goal is to turn numerical results and physical ideas developed by P. Gori-Giorgi's group (host researcher) into theorems.\n\nThe researcher is a mathematician and the site of research is the Theoretical Chemistry section of the Vrije Universiteit Amsterdam.",
+    "totalCost": "177598,8",
+    "ecMaxContribution": "177598,8",
+    "coordinator": "STICHTING VU",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

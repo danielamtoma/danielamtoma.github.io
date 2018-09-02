@@ -1,0 +1,28 @@
+{
+    "rcn": "205559",
+    "acronym": "CuraBone",
+    "topics": "MSCA-ITN-2016",
+    "title": "Predictive models and simulations in bone regeneration: a multiscale patient-specific approach",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2021",
+    "objective": "Bone injuries represent a high cost for the European health system, requiring corrective surgery to fix the bones. Traditionally, their treatment relies on classical orthopaedic techniques but, nowadays, it is possible to design and fabricate custom-made implants. Thanks to the current advance in image-based technologies, the reconstruction of models that are exact copies of patient specific bones is possible. Thus, this methodology is appropriate for preoperative surgical planning, but currently lacks of a predictive capacity. It presents a low impact for quantitatively determine the effectiveness of different treatments on bone regeneration and, consequently, the patient recovery. \nCURABONE aims to bridge this gap, integrating and extending numerical simulation technologies based on image analysis to achieve a predictive methodology, to optimize patient-specific treatment of bone injuries and rehabilitation therapies. Therefore, CURABONE will focus on the establishment of a currently non-existent, but essential multi-validation platform at different scale levels for the creation of bone models. At organ level, patient-specific loads will be quantified from image-based analysis and musculoskeletal rigid-body modelling. At implant level, Finite Element analyses (FEA) of bone and implant/scaffold will be evaluated. At cell level, in-vitro experiments will be developed under controlled microenvironmental conditions in bioreactors to estimate the cell response under different mechanical conditions. All this information obtained from validation at different scales will be integrated in a computational model with a predictive capacity. Hence, CURABONE will not only develop patient-specific musculoskeletal modelling based on FEA and bone adaptive algorithms, but will also bring a step-forward to validate these models at different scales together with supervision of different orthopaedic hospitals expert on bone injuries.",
+    "totalCost": "1247425,92",
+    "ecMaxContribution": "1247425,92",
+    "coordinator": "UNIVERSIDAD DE ZARAGOZA",
+    "coordinatorCountry": "ES",
+    "participants": "MATERIALISE NV",
+    "participantCountries": "BE",
+    "projectParticipants": {
+        "999898214": {
+            "orgId": "999898214",
+            "orgName": "UNIVERSIDAD DE ZARAGOZA",
+            "ecContrib": 495746
+        },
+        "998209541": {
+            "orgId": "998209541",
+            "orgName": "MATERIALISE NV",
+            "ecContrib": 751680
+        }
+    },
+    "calculatedTotalContribution": 1247426
+}

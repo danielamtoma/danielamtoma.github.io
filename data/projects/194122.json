@@ -1,0 +1,48 @@
+{
+    "rcn": "194122",
+    "acronym": "SWITCH",
+    "topics": "ICT-09-2014",
+    "title": "Software Workbench for Interactive, Time Critical and Highly self-adaptive cloud applications",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "The SWITCH project (Software Workbench for Interactive, Time Critical and Highly self-adaptive Cloud applications) addresses the urgent industrial need for developing and executing time critical applications in Clouds. Time critical applications such as disaster early warning, collaborative communication and live event broadcasting can only realise their expected business value when they meet critical requirements for performance and user experience. The very high requirements on network and computing services, particularly for well-tuned software architecture with sophisticated data communication optimisation, mean that development of such time critical applications is often customised to dedicated infrastructure, and system performance is difficult to maintain when infrastructure changes. This fatal weakness in the existing architecture and software tools yields very high development cost, and makes it difficult fully to utilize the virtualised, programmable services provided by networked Clouds to improve system productivity. SWITCH aims at improving the existing development and execution model of time critical applications by introducing a novel conceptual model (application-infrastructure co-programming and control model), in which application QoS/QoE, together with the programmability and controllability of the Cloud environments, can all be included in the complete lifecycle of applications. Based on this conceptual model, SWITCH provides an interactive environment for developing applications and controlling their execution, a real-time infrastructure planner for deploying applications in Clouds, and an autonomous system adaptation platform for monitoring and adapting system behaviour. The SWITCH consortium has well-balanced partners with complementary expertise from both academic and industrial backgrounds. By demonstrating the software using diverse use cases, the consortium specifically aims at exploitation of the business potential of the SWITCH results.",
+    "totalCost": "2922500",
+    "ecMaxContribution": "2922500",
+    "coordinator": "UNIVERSITEIT VAN AMSTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "BEIA CONSULT INTERNATIONAL SRL;WELLNESS TELECOM SL;MOG TECHNOLOGIES SA;UNIVERZA V LJUBLJANI;CARDIFF UNIVERSITY",
+    "participantCountries": "RO;ES;PT;SI;UK",
+    "projectParticipants": {
+        "991160066": {
+            "orgId": "991160066",
+            "orgName": "WELLNESS TELECOM SL",
+            "ecContrib": 331875
+        },
+        "951428381": {
+            "orgId": "951428381",
+            "orgName": "MOG TECHNOLOGIES SA",
+            "ecContrib": 494375
+        },
+        "999685687": {
+            "orgId": "999685687",
+            "orgName": "BEIA CONSULT INTERNATIONAL SRL",
+            "ecContrib": 354375
+        },
+        "999923240": {
+            "orgId": "999923240",
+            "orgName": "UNIVERZA V LJUBLJANI",
+            "ecContrib": 413750
+        },
+        "999979694": {
+            "orgId": "999979694",
+            "orgName": "CARDIFF UNIVERSITY",
+            "ecContrib": 548750
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 779375
+        }
+    },
+    "calculatedTotalContribution": 2922500
+}

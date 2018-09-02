@@ -1,0 +1,23 @@
+{
+    "rcn": "207414",
+    "acronym": "COMPUSAPIEN",
+    "topics": "ERC-2016-COG",
+    "title": "Computing Server Architecture with Joint Power and Cooling Integration at the Nanoscale",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2022",
+    "objective": "The soaring demand for computing power in the last years has grown faster than semiconductor technology evolution can sustain, and has produced as collateral undesirable effect a surge in power consumption and heat density in computing servers. Although computing servers are the foundations of the digital revolution, their current designs require 30-40% of the energy supplied to be dissipated in cooling. The remaining energy is used for computation, but their complex many-core designs produce very high operating temperatures. Thus, operating all the cores continuously at maximum performance levels results in system overheating and failures. This situation is limiting the benefits of technology scaling.\n\nThe COMPUSAPIEN proposal aims to completely revise the current computing server architecture. In particular, inspired by the mammalian brain, this proposal targets to design a disruptive three-dimensional (3D) computing server architecture that overcomes the prevailing worst-case power and cooling provisioning paradigm for servers. This new 3D server design champions a heterogeneous many-core architecture template with an integrated on-chip microfluidic fuel cell network for joint cooling delivery and power supply. Also, it will include a novel predictive controller based on holistic power-temperature models, which exploit the server software stack to achieve energy-scalable computing capabilities. Because of its integrated electronic-electrochemical architecture design, COMPUSAPIEN is clearly a high-risk high-reward proposal that will bring drastic energy savings with respect to current server design approaches, and will guarantee energy scalability in future server architectures. To realize this vision, COMPUSAPIEN will develop and integrate breakthrough innovations in heterogeneous computing architectures, cooling-power subsystem design, combined microfluidic power delivery and temperature management in computers.",
+    "totalCost": "1999281",
+    "ecMaxContribution": "1999281",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 1999281
+        }
+    },
+    "calculatedTotalContribution": 1999281
+}

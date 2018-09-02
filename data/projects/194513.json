@@ -1,0 +1,23 @@
+{
+    "rcn": "194513",
+    "acronym": "MODEST",
+    "topics": "ERC-CoG-2014",
+    "title": "Mathematical Optimization for clinical DEcision Support and Training",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2020",
+    "objective": "Physicians need to make many important decisions per day. One clinical example is the scheduling and dosage of chemotherapy treatments. A second example is the discrimination of atrial fibrillation from atypical atrial flutter, based on ECG data. Such important and complex decisions are usually based on expert knowledge, accumulated throughout the life of a physician and shaped by subjective (and sometimes unconscious) experience. It is not readily transferable and may be unavailable in rural areas. At the same time, the available imaging, laboratory, and basic clinical data is abundant and waits to be used. This data is not yet systematically integrated and often single data-points are used to make therapy decisions. \n\nMore and more clinical decision making tasks will be modeled in terms of mathematical relations. \nI propose a systematic approach that supports and trains individual decision making. The developed ideas, mathematical models, and optimization algorithms will be generic and widely applicable in medicine and beyond, but also exploit specific structures, resulting in a patient- and circumstance-specific personalized medicine.\n\nThis allows, e.g., a physician to first simulate the impact of his decisions on a computer and to consider optimized solutions.\nIn the future, it will be the rare and unwanted exception that an important decision can not be backed up by consultation of a model-driven decision support system or based upon a systematic model-driven training.\n\nMODEST has a mathematical core. It builds on a comprehensive, interdisciplinary work program, based on disciplinary expertise in mixed-integer optimal control and existing collaborations with medical and educational experts. It is both timely, given the increasing availability of data and the maturity of mathematical methods, models, and software; as well as high-impact, due to the large number of clinical areas that may benefit from optimization-based decision support and training tools.",
+    "totalCost": "1998500",
+    "ecMaxContribution": "1998500",
+    "coordinator": "OTTO-VON-GUERICKE-UNIVERSITAET MAGDEBURG",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999873285": {
+            "orgId": "999873285",
+            "orgName": "OTTO-VON-GUERICKE-UNIVERSITAET MAGDEBURG",
+            "ecContrib": 1998500
+        }
+    },
+    "calculatedTotalContribution": 1998500
+}

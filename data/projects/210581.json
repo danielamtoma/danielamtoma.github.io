@@ -1,0 +1,28 @@
+{
+    "rcn": "210581",
+    "acronym": "DSGE-RD",
+    "topics": "MSCA-IF-2016",
+    "title": "Estimating a DSGE Model with Rare Disasters",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2020",
+    "objective": "'This project will estimate a DSGE model with rare disasters using data from the Great Recession. Previous studies on rare disasters have been confined mainly to endowment economies. Extensions to production economies (business cycle models) have been limited. In particular, DSGE models with rare disasters have not been estimated before. The main obstacle is computational, as these models are very difficult to solve. \n\nIn a recent paper with Jesus Fernandez-Villaverde we have shown that the computational problem can be resolved by a new solution method called 'Taylor Projection', which is derived in my paper Levintal (2016). This method is able to solve large DSGE models with rare disasters in a few seconds only. This opens up the possibility of estimating rich DSGE models with rare disasters and conducting policy analysis.\n\nThe project will implement the new 'Taylor Projection' method to solve and estimate a DSGE model with rare disasters for the period of the Great Recession. This will require to extend the current solution method to allow for a ZLB constraint on the interest rate and for Markov-switching parameters, as described in the proposal. \n\nAn estimated model with rare disasters may help to explain the extraordinary dynamics of the Great Recession. We conjecture that the interaction of a big macroeconomic shock (disaster shock) with the ZLB constraint played a significant role in the recession. The question is what kind of a shock generated the recession. Was it a permanent drop in long term growth, as suggested by the 'Secular Stagnation' hypothesis of Summers (2014)? or an uncertainty shock that increased the demand for safe assets, in line with the 'Safe Assets' view of Caballero and Farhi (2014)? or a combination of both? The proposed project will shed light on these questions by studying the Great Recession through an estimated DSGE model with rare disasters.\n'",
+    "totalCost": "263385",
+    "ecMaxContribution": "263385",
+    "coordinator": "INTERDISCIPLINARY CENTER (IDC) HERZLIYA",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "997927853": {
+            "orgId": "997927853",
+            "orgName": "THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA CORP",
+            "ecContrib": 0
+        },
+        "999820323": {
+            "orgId": "999820323",
+            "orgName": "INTERDISCIPLINARY CENTER (IDC) HERZLIYA",
+            "ecContrib": 263385
+        }
+    },
+    "calculatedTotalContribution": 263385
+}

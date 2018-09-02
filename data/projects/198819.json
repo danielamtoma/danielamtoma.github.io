@@ -1,0 +1,48 @@
+{
+    "rcn": "198819",
+    "acronym": "COMRADES",
+    "topics": "ICT-10-2015",
+    "title": "Collective Platform for Community Resilience and Social Innovation during Crises",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Response to crisis often reveals organisational and technological shortcomings, which threaten community recovery and sustainable. Even though some technological solutions exist, challenges of communication, interoperability, and data analytics remain. The deployment and use of technologies, and the social structures in which they are adopted, are interdependent. Hence it is imperative to develop human-centred technologies that take into account actual real world practices of affected populations and responders. The rise of social media as an information channel during crisis has become key to community resilience and response. However, existing crisis awareness applications, such as Ushahidi, while vital for information gathering, often struggle to address the challenges of real-time social data analysis and aggregation of crisis micro-events, and filtering of unverified content and reporters. This project will build an intelligent collective resilience platform to help communities to reconnect, respond, and recover from crisis situations. COMRADES will achieve this through an interdisciplinary, socio-technical approach, which will draw on the latest advances in computational social science, social computing, real-time analytics, text and social media analysis, and Linked Open Data. The platform specifications and design requirements will be derived through participatory design workshops with existing activist, responder, and reporter communities. The open source COMRADES platform will go beyond the now standard data collection, mapping, and manual analysis functions provided by the underpinning, widely used Ushahidi crisis mapping tool, to include new intelligent algorithms aimed at helping communities, citizens, and humanitarian services with analysing, verifying, monitoring, and responding to emergency events. COMRADES platform will be deployed and evaluated with multiple, local and distributed, communities, using collective multilingual crisis information.",
+    "totalCost": "1999021,25",
+    "ecMaxContribution": "1999021,25",
+    "coordinator": "THE OPEN UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "THE UNIVERSITY OF SHEFFIELD;UNIVERSITETET I AGDER;I-HUB LIMITED;TECHNISCHE UNIVERSITEIT DELFT;Government To You",
+    "participantCountries": "UK;NO;KE;NL;BE",
+    "projectParticipants": {
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 321250
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 258526
+        },
+        "985062452": {
+            "orgId": "985062452",
+            "orgName": "Government To You",
+            "ecContrib": 71250
+        },
+        "998822969": {
+            "orgId": "998822969",
+            "orgName": "UNIVERSITETET I AGDER",
+            "ecContrib": 73596
+        },
+        "999923337": {
+            "orgId": "999923337",
+            "orgName": "THE OPEN UNIVERSITY",
+            "ecContrib": 660649
+        },
+        "951513159": {
+            "orgId": "951513159",
+            "orgName": "I-HUB LIMITED",
+            "ecContrib": 613750
+        }
+    },
+    "calculatedTotalContribution": 1999021
+}

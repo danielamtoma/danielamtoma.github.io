@@ -1,0 +1,33 @@
+{
+    "rcn": "205606",
+    "acronym": "REPRISE",
+    "topics": "JTI-CS2-2015-CFP02-SYS-03-01",
+    "title": "Reliable Electromechanical actuator for PRImary SurfacE with health monitoring",
+    "startDate": "01/07/2016",
+    "endDate": "31/12/2018",
+    "objective": "The REPRISE project responds to the call JTI-CS2-2015-CFP02-SYS-03-01. \nThe objective of the project is the design and development of an innovative electromechanical actuation system with health monitoring for primary-control-surface of a small aircraft. It is well-known that the electromechanical actuation will lead to weight saving and life-cycle cost reduction but some critical issues of this technology need to be addressed. The REPRISE project will thus be focused on overcoming these issues and improving technology performance, reliability and safety using new technologies and health-management algorithms.\nProject activities will start testing an available EMA (electromechanical actuator) and ECU (electronic control unit), which meets in general the requirements reported in the CfP, on an available test rig until mechanical failures occur. These tests will allow the development of a Health Monitoring System (HMS) able to detect degradations of the mechanical components before they will evolve into failures. New sensors will be added, to those already embedded into the available EMA, to verify their capability to detect part degradation. The EMA will be then redesigned in order to improve reliability and reduce weight and envelope through the introduction of new technologies into EMA/ECU, new sensors and the HMS. Finally, the improved EMA and ECU will be tested to demonstrate both performances and effectiveness of HMS.\nPointing at the success of the project, the REPRISE consortium strength lies in the association of different expertise, from different type of active members (SME, academia and industry). This association will benefit to all involved partners by sharing resources, skills and competencies on a high technological field with a major growth potential. From a wider point of view, this challenging project opens the small aircraft market sector to cutting edge technologies and will be beneficial to the whole aeronautical market as well.",
+    "totalCost": "1309062,5",
+    "ecMaxContribution": "995468,75",
+    "coordinator": "UMBRAGROUP SPA",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITA' DEGLI STUDI DI BERGAMO;ZETTLEX UK LIMITED",
+    "participantCountries": "IT;UK",
+    "projectParticipants": {
+        "972978192": {
+            "orgId": "972978192",
+            "orgName": "UMBRAGROUP SPA",
+            "ecContrib": 545344
+        },
+        "999595380": {
+            "orgId": "999595380",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI BERGAMO",
+            "ecContrib": 263750
+        },
+        "952783374": {
+            "orgId": "952783374",
+            "orgName": "ZETTLEX UK LIMITED",
+            "ecContrib": 186375
+        }
+    },
+    "calculatedTotalContribution": 995469
+}

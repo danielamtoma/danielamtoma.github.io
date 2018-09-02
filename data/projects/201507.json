@@ -1,0 +1,23 @@
+{
+    "rcn": "201507",
+    "acronym": "ECogNeT",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Embodied Cognitive Neuromorphic Technology",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "Biological neuronal networks allow humans and animals to build representations of objects, complex scenes, and temporal sequences and to use these representations to plan and execute goal-directed actions, learn new skills, and constantly adapt to changing situations.   Neuronal systems have evolved to be extremely powerful in perceiving and acting in complex and dynamic real-world environments. The field of neuromorphic engineering is realising neuronal computation in a new generation of hardware systems, aiming to enable computation with high efficiency and low energy cost, comparable to biological neuronal networks. In order to use this hardware to implement systems that can solve perceptual, motor, and cognitive tasks, cognitive architectures have to be developed, which integrate elementary cognitive processes in a coherent computational framework.  The ECogNeT project aims to develop such a computational framework by realising neural-dynamic models of  embodied cognition in neuromorphic hardware. In particular, the computational and conceptual framework of Dynamic Neural Fields will be used to create cognitive computational primitives in neuromorphic hardware, which will organise the hardware  neurons in attractor-networks, capable to generate discrete, cognitive representations from sensory inputs. The developed neuromorphic cognitive architecture will be integrated with sensors and motors of a robotic agent  and its capability to represent environmental situations and temporal sequences of events will be validated in benchmark scenarios, exploiting the potential of this new technology in development of  novel, low-power, fast, and smart devices capable to work in real-world settings in order to advance future prosthetic systems, smart environments, and assistive robots.",
+    "totalCost": "187419,6",
+    "ecMaxContribution": "187419,6",
+    "coordinator": "UNIVERSITAT ZURICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 187420
+        }
+    },
+    "calculatedTotalContribution": 187420
+}

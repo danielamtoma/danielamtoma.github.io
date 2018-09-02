@@ -1,0 +1,133 @@
+{
+    "rcn": "212978",
+    "acronym": "NoMADS",
+    "topics": "MSCA-RISE-2017",
+    "title": "Nonlocal Methods for Arbitrary Data Sources",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2022",
+    "objective": "In NoMADS we focus on data processing and analysis techniques which can feature potentially very complex, nonlocal, relationships within the data. In this context, methodologies such as spectral clustering, graph partitioning, and convolutional\nneural networks have gained increasing attention in computer science and engineering within the last years, mainly from a combinatorial point of view. However, the use of nonlocal methods is often still restricted to academic pet projects. There is a large gap between the academic theories for nonlocal methods and their practical application to real-world problems. The reason these methods work so well in practice is far from fully understood.\nOur aim is to bring together a strong international group of researchers from mathematics (applied and computational analysis, statistics, and optimisation), computer vision, biomedical imaging, and remote sensing, to fill the current gaps between theory and applications of nonlocal methods. We will study discrete and continuous limits of nonlocal models by means of mathematical analysis and optimisation techniques, resulting in investigations on scale-independent\nproperties of such methods, such as imposed smoothness of these models and their stability to noisy input data, as well as the development of resolution-independent, efficient and reliable computational techniques which scale well\nwith the size of the input data. As an overarching applied theme we focus in particular on image data arising in biology and medicine, which offers a rich playground for structured data processing and has direct impact on society, as well as discrete point clouds, which represent an ambitious target for unstructured data processing. Our long-term vision is to discover fundamental mathematical principles for the characterisation of nonlocal operators, the development of new robust and efficient algorithms, and the implementation of those in high quality software products for real-world application.",
+    "totalCost": "1111500",
+    "ecMaxContribution": "1111500",
+    "coordinator": "WESTFAELISCHE WILHELMS-UNIVERSITAET MUENSTER",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSIDAD POMPEU FABRA;Ecole Polytechnique of Paris;CAMELOT BIOMEDICAL SYSTEMS SRL;ASTRAZENECA UK LIMITED;THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;UNIVERSITE LYON 1 CLAUDE BERNARD;UNIVERSITEIT TWENTE;DATEXIM;ECOLE NATIONALE SUPERIEURE D'INGENIEURS DE CAEN;UNIVERSITE DE BORDEAUX;CLK GMBH;THE MATHWORKS LIMITED;POLITECNICO DI MILANO;UNIVERSITE DE CAEN NORMANDIE;THE UNIVERSITY OF NOTTINGHAM;CLINICAL SCIENCE SYSTEMS;MEDIGUIDE LTD;TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY;UNIVERSITA DEGLI STUDI DI GENOVA;INSTITUTO SUPERIOR TECNICO",
+    "participantCountries": "ES;FR;IT;UK;NL;DE;IL;PT",
+    "projectParticipants": {
+        "986038369": {
+            "orgId": "986038369",
+            "orgName": "ECOLE NATIONALE SUPERIEURE D'INGENIEURS DE CAEN",
+            "ecContrib": 54000
+        },
+        "918743261": {
+            "orgId": "918743261",
+            "orgName": "CLINICAL SCIENCE SYSTEMS",
+            "ecContrib": 0
+        },
+        "999467340": {
+            "orgId": "999467340",
+            "orgName": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+            "ecContrib": 0
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 81000
+        },
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 22500
+        },
+        "928669174": {
+            "orgId": "928669174",
+            "orgName": "THE MATHWORKS LIMITED",
+            "ecContrib": 0
+        },
+        "968424139": {
+            "orgId": "968424139",
+            "orgName": "CAMELOT BIOMEDICAL SYSTEMS SRL",
+            "ecContrib": 27000
+        },
+        "918817078": {
+            "orgId": "918817078",
+            "orgName": "MEDIGUIDE LTD",
+            "ecContrib": 27000
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "941133286": {
+            "orgId": "941133286",
+            "orgName": "CLK GMBH",
+            "ecContrib": 0
+        },
+        "999976687": {
+            "orgId": "999976687",
+            "orgName": "UNIVERSITA DEGLI STUDI DI GENOVA",
+            "ecContrib": 40500
+        },
+        "999864264": {
+            "orgId": "999864264",
+            "orgName": "ECOLE POLYTECHNIQUE",
+            "ecContrib": 0
+        },
+        "999902579": {
+            "orgId": "999902579",
+            "orgName": "UNIVERSITE LYON 1 CLAUDE BERNARD",
+            "ecContrib": 31500
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 4500
+        },
+        "888897707": {
+            "orgId": "888897707",
+            "orgName": "WESTFAELISCHE WILHELMS-UNIVERSITAET MUENSTER",
+            "ecContrib": 229500
+        },
+        "999992983": {
+            "orgId": "999992983",
+            "orgName": "INSTITUTO SUPERIOR TECNICO",
+            "ecContrib": 54000
+        },
+        "998178404": {
+            "orgId": "998178404",
+            "orgName": "ASTRAZENECA UK LIMITED",
+            "ecContrib": 0
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 36000
+        },
+        "999900833": {
+            "orgId": "999900833",
+            "orgName": "UNIVERSITEIT TWENTE",
+            "ecContrib": 112500
+        },
+        "998083538": {
+            "orgId": "998083538",
+            "orgName": "CARNEGIE MELLON UNIVERSITY",
+            "ecContrib": 0
+        },
+        "998737124": {
+            "orgId": "998737124",
+            "orgName": "UNIVERSITE DE CAEN NORMANDIE",
+            "ecContrib": 36000
+        },
+        "949735440": {
+            "orgId": "949735440",
+            "orgName": "UNIVERSITE DE BORDEAUX",
+            "ecContrib": 76500
+        },
+        "919466202": {
+            "orgId": "919466202",
+            "orgName": "DATEXIM",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 832500
+}

@@ -1,0 +1,233 @@
+{
+    "rcn": "198519",
+    "acronym": "ELIXIR-EXCELERATE",
+    "topics": "INFRADEV-3-2015",
+    "title": "ELIXIR-EXCELERATE: Fast-track ELIXIR implementation and drive early user exploitation across the life-sciences.",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2019",
+    "objective": "The life sciences are undergoing a transformation. Modern experimental tools study the molecules, reactions, and organisation of life in unprecedented detail. The precipitous drop in costs for high-throughput biology has enabled European research laboratories to produce an ever-increasing amount of data. Life scientists are rapidly generating the most complex and heterogeneous datasets that science can currently imagine, with unprecedented volumes of biological data to manage.\nData will only generate long-term value if it is Findable, Accessible, Interoperable and Re-usable (FAIR). This requires a scalable infrastructure that connects local, national and European efforts and provides standards, tools and training for data stewardship.\nFormally established as a legal entity in January 2014, ELIXIR - the European life science Infrastructure for Biological Information - is a distributed organisation comprising national bioinformatics research infrastructures and the European Bioinformatics Institute (EMBL-EBI). This coordinated infrastructure includes data standards, exchange, interoperability, storage, security and training.\nRecognising the importance of a data foundation for European life sciences, the ESFRI and European Council named ELIXIR as one of Europeís priority Research Infrastructures. In response ELIXIR have developed ELIXIR-EXCELERATE. The project will fast-track ELIXIRís early implementation phase by i) coordinate and enhance existing resources into a world-leading data service for academia and industry, ii) grow bioinformatics capacity and competence across Europe, and iii) complete the management processes needed for a large distributed infrastructure.\nELIXIR-EXCELERATE will deliver a step-change in the life sciences. It will enable cost-effective and sustainable management and re-use of data for millions of users across the globe and improve the competitiveness of European life science industries through accessible data and robust standards and tools.",
+    "totalCost": "19051482",
+    "ecMaxContribution": "19051482",
+    "coordinator": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+    "coordinatorCountry": "DE",
+    "participants": "FUNDACION CENTRO NACIONAL DE INVESTIGACIONES ONCOLOGICAS CARLOS III;UNIVERSIDAD POMPEU FABRA;CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB;UNIVERSITETET I TROMSOE;Stichting Netherlands Bioinformatics Centre;LINKOPINGS UNIVERSITET;TARTU ULIKOOL;THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;Masarykova univerzita;THE UNIVERSITY OF MANCHESTER;NACIONALNI INSTITUT ZA BIOLOGIJO;FUNDACAO CALOUSTE GULBENKIAN;ATHINA-EREVNITIKO KENTRO KAINOTOMIAS STIS TECHNOLOGIES TIS PLIROFORIAS, TON EPIKOINONION KAI TIS GNOSIS;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;SWISS INSTITUTE OF BIOINFORMATICS;USTAV ORGANICKE CHEMIE A BIOCHEMIE, AV CR, V.V.I.;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;CONSIGLIO NAZIONALE DELLE RICERCHE;FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA);CENTRO DE CIENCIAS DO MAR DO ALGARVE;INSTITUT PASTEUR;FUNDACION DE LA COMUNIDAD VALENCIANA CENTRO DE INVESTIGACION PRINCIPEFELIPE;VIB;UNIVERSITETET I OSLO;CENTRE DE COOPERATION INTERNATIONALE EN RECHERCHE AGRONOMIQUE POUR LEDEVELOPPEMENT - C.I.R.A.D. EPIC;BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING;DANMARKS TEKNISKE UNIVERSITET;FUNDACIO INSTITUT MAR D INVESTIGACIONS MEDIQUES IMIM;UNIVERSIDAD DE MALAGA;THE HEBREW UNIVERSITY OF JERUSALEM;INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;INSTITUT NATIONAL DE LA RECHERCHE AGRONOMIQUE;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU;FUNDACIO CENTRE DE REGULACIO GENOMICA;EARLHAM INSTITUTE;THE UNIVERSITY OF EDINBURGH;UNIVERSITETET I BERGEN;INSTITUTO DE BIOLOGIA EXPERIMENTAL E TECNOLOGICA;UNIVERZA V LJUBLJANI;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY",
+    "participantCountries": "ES;CZ;NO;NL;SE;EE;UK;SI;PT;EL;CH;IT;FR;BE;DK;IL;FI",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 200000
+        },
+        "999544455": {
+            "orgId": "999544455",
+            "orgName": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+            "ecContrib": 440000
+        },
+        "888897696": {
+            "orgId": "888897696",
+            "orgName": "LINKOPINGS UNIVERSITET",
+            "ecContrib": 787500
+        },
+        "999629815": {
+            "orgId": "999629815",
+            "orgName": "SWISS INSTITUTE OF BIOINFORMATICS",
+            "ecContrib": 1456270
+        },
+        "999874643": {
+            "orgId": "999874643",
+            "orgName": "UNIVERSITETET I TROMSOE",
+            "ecContrib": 426640
+        },
+        "999547850": {
+            "orgId": "999547850",
+            "orgName": "FUNDACION CENTRO NACIONAL DE INVESTIGACIONES ONCOLOGICAS CARLOS III",
+            "ecContrib": 383750
+        },
+        "999898311": {
+            "orgId": "999898311",
+            "orgName": "UNIVERSIDAD DE MALAGA",
+            "ecContrib": 43750
+        },
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 123750
+        },
+        "999650476": {
+            "orgId": "999650476",
+            "orgName": "NACIONALNI INSTITUT ZA BIOLOGIJO",
+            "ecContrib": 120632
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 43750
+        },
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 160056
+        },
+        "999541836": {
+            "orgId": "999541836",
+            "orgName": "FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA)",
+            "ecContrib": 198000
+        },
+        "999895013": {
+            "orgId": "999895013",
+            "orgName": "TARTU ULIKOOL",
+            "ecContrib": 557502
+        },
+        "999789865": {
+            "orgId": "999789865",
+            "orgName": "INSTITUTO DE BIOLOGIA EXPERIMENTAL E TECNOLOGICA",
+            "ecContrib": 100000
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 40000
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 5331849
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 587500
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 247172
+        },
+        "998611994": {
+            "orgId": "998611994",
+            "orgName": "CENTRO DE CIENCIAS DO MAR DO ALGARVE",
+            "ecContrib": 80532
+        },
+        "999589463": {
+            "orgId": "999589463",
+            "orgName": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB",
+            "ecContrib": 123750
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 336500
+        },
+        "999651931": {
+            "orgId": "999651931",
+            "orgName": "VIB",
+            "ecContrib": 247500
+        },
+        "987496085": {
+            "orgId": "987496085",
+            "orgName": "EARLHAM INSTITUTE",
+            "ecContrib": 183750
+        },
+        "973678241": {
+            "orgId": "973678241",
+            "orgName": "Stichting Netherlands Bioinformatics Centre",
+            "ecContrib": 1227500
+        },
+        "999645820": {
+            "orgId": "999645820",
+            "orgName": "CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY",
+            "ecContrib": 892498
+        },
+        "999993274": {
+            "orgId": "999993274",
+            "orgName": "INSTITUT NATIONAL DE LA RECHERCHE AGRONOMIQUE",
+            "ecContrib": 120000
+        },
+        "999974456": {
+            "orgId": "999974456",
+            "orgName": "UNIVERSITETET I BERGEN",
+            "ecContrib": 223801
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 1107500
+        },
+        "999923240": {
+            "orgId": "999923240",
+            "orgName": "UNIVERZA V LJUBLJANI",
+            "ecContrib": 324538
+        },
+        "999455894": {
+            "orgId": "999455894",
+            "orgName": "FUNDACAO CALOUSTE GULBENKIAN",
+            "ecContrib": 183750
+        },
+        "999430965": {
+            "orgId": "999430965",
+            "orgName": "FUNDACION DE LA COMUNIDAD VALENCIANA CENTRO DE INVESTIGACION PRINCIPEFELIPE",
+            "ecContrib": 40000
+        },
+        "999880657": {
+            "orgId": "999880657",
+            "orgName": "Masarykova univerzita",
+            "ecContrib": 507500
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 633714
+        },
+        "999585680": {
+            "orgId": "999585680",
+            "orgName": "FUNDACIO INSTITUT MAR D INVESTIGACIONS MEDIQUES IMIM",
+            "ecContrib": 40000
+        },
+        "999458610": {
+            "orgId": "999458610",
+            "orgName": "BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING",
+            "ecContrib": 60000
+        },
+        "999613325": {
+            "orgId": "999613325",
+            "orgName": "INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA",
+            "ecContrib": 173750
+        },
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 187500
+        },
+        "999993565": {
+            "orgId": "999993565",
+            "orgName": "CENTRE DE COOPERATION INTERNATIONALE EN RECHERCHE AGRONOMIQUE POUR LEDEVELOPPEMENT - C.I.R.A.D. EPIC",
+            "ecContrib": 120846
+        },
+        "999512057": {
+            "orgId": "999512057",
+            "orgName": "USTAV ORGANICKE CHEMIE A BIOCHEMIE, AV CR, V.V.I.",
+            "ecContrib": 180000
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 242957
+        },
+        "999977851": {
+            "orgId": "999977851",
+            "orgName": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+            "ecContrib": 120000
+        },
+        "999993080": {
+            "orgId": "999993080",
+            "orgName": "INSTITUT PASTEUR",
+            "ecContrib": 179900
+        }
+    },
+    "calculatedTotalContribution": 18785907
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "200139",
+    "acronym": "FADAMS",
+    "topics": "ERC-CoG-2015",
+    "title": "Foundations of Factorized Data Management Systems",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "The objective of this project is to investigate scalability questions arising with a new wave of smart relational data management systems that integrate analytics and query processing. These questions will be addressed by a fundamental shift from centralized processing on tabular data representation, as supported by traditional systems and analytics software packages, to distributed and approximate processing on factorized data representation.\n\nFactorized representations exploit algebraic properties of relational algebra and the structure of queries and analytics to achieve radically better data compression than generic compression schemes, while at the same time allowing processing in the compressed domain. They can effectively boost the performance of relational processing by avoiding redundant computation in the one-server setting, yet they can also be naturally exploited for approximate and distributed processing. Large relations can be approximated by their subsets and supersets, i.e., lower and upper bounds, that factorize much better than the relations themselves. Factorizing relations, which represent intermediate results shuffled between servers in distributed processing, can effectively reduce the communication cost and improve the latency of the system.\n\nThe key deliverables will be novel algorithms that combine distribution, approximation, and factorization for computing mixed loads of queries and predictive and descriptive analytics on large-scale data. This research will result in fundamental theoretical contributions, such as complexity results for large-scale processing and tractable algorithms, and also in a scalable factorized data management system that will exploit these theoretical insights. We will collaborate with industrial partners, who are committed to assist in providing datasets and realistic workloads, infrastructure for large-scale distributed systems, and support for transferring the products of the research to industrial users.",
+    "totalCost": "1980966",
+    "ecMaxContribution": "1980966",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 1980966
+        }
+    },
+    "calculatedTotalContribution": 1980966
+}

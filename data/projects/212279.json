@@ -1,0 +1,23 @@
+{
+    "rcn": "212279",
+    "acronym": "TTNPred",
+    "topics": "MSCA-IF-2016",
+    "title": "Development of novel computational biology pipeline for the efficient classification of titin SNPs for clinical use",
+    "startDate": "01/01/2018",
+    "endDate": "28/02/2020",
+    "objective": "Mutations in the giant muscle protein titin are a major cause of heart disorders in human populations. Routine DNA screening of patient cohorts is now becoming feasible, with a staggering number of titin truncations and missense single nucleotide polymorphisms (mSNPs) rapidly accumulating in genomics databases (>17,000 mSNPs). While the link between titin truncation and disease is now becoming clarified, detecting the pathogenic potential of mSNPs remains a substantial challenge. In mSNPs classification, bioinformatics evaluation is a necessary first filtering step, but existing predictors are poorly reliable. To address this problem, we aim to develop a new titin-centric scoring function that predicts the mechanistic effect of an mSNP exchange in the titin protein by considering the specific characteristics of its poly-domain chain. For this work, we will build a medium-throughput molecular diagnostic pipeline that harvest existent structural models of titin components in estimating mSNPs-induced changes in free energy and conformational dynamics in the protein. Calculations will be benchmarked against experimentally obtained biophysical and biochemical data. To develop this methodology, we will use a clinically pertinent training set of 75 mSNPs. However, in a subsequent step, stable predictions will be extrapolated to the rest of the titin chain by exploiting the repetition of structural and functional loci within the chain. A titin map of vulnerability ìhot-spotsî so calculated will be distributed to the research community. Ultimately, we aim to produce a tool that can aid clinicians to identify patients at risk of developing a titin-based heart condition at early disease stages, where intervention is still possible.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "UNIVERSITAT KONSTANZ",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999866204": {
+            "orgId": "999866204",
+            "orgName": "UNIVERSITAT KONSTANZ",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

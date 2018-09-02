@@ -1,0 +1,23 @@
+{
+    "rcn": "193814",
+    "acronym": "TWIST",
+    "topics": "ERC-PoC-2014",
+    "title": "Terahertz wireless information systems and technologies",
+    "startDate": "01/03/2015",
+    "endDate": "29/02/2016",
+    "objective": "This project aims to develop a proof-of-concept prototype of a wireless communication link based on ultra-high bit rate serial THz pulses. THz transmitters are known to be able to produce sub-picosecond pulses with frequency bandwidths in excess of several THz. In principle, this makes THz pulses able to carry Tbit/s data. This project will utilise these features of THz pulses and exploit them by amplitude modulating the THz pulses and stacking them closely together in time, thus creating a serial time-multiplexed THz data stream. This will be achieved by triggering THz pulse emission with an optical pulsed data signal. Optical serial binary data signals have been demonstrated to reach a record bit rate of 1.28 Tbit/s (within the applicantís ERC project, SOCRATES), and applying these to THz transmitters with their inherent THz bandwidth, leads to the possibility of creating simple binary amplitude modulated baseband THz wireless signals at data rates of several 100s Gbit/s possibly approaching 1 Tbit/s. This is well beyond the currently commercialized 2.5 Gbit/s E-band (70/80 GHz) wireless technologies in microwave telecommunication backhaul, and also enables higher bit rate links than the so-called next generation wireless communication systems, which are mainly operating within sub-THz narrow-band frequency windows (200-300 GHz and 600-700 GHz), based on carrier modulation. \nThe THz frequency band is expected to play a significant role in future generations of wireless communication technology both due to the large unallocated frequency ranges and due to the huge available capacity when using THz waves for baseband data communication. This invention could find use for 4G-LTE small cell backhaul, ultra-high capacity wireless video transfer (e.g. of live sports events), ultra-fast transmission of large medical image files or setting up ultra-high capacity mobile communication units in disaster areas.",
+    "totalCost": "146400",
+    "ecMaxContribution": "146400",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 146400
+        }
+    },
+    "calculatedTotalContribution": 146400
+}

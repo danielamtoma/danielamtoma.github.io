@@ -1,0 +1,63 @@
+{
+    "rcn": "199720",
+    "acronym": "EuroPOND",
+    "topics": "PHC-02-2015",
+    "title": "Data-driven models for Progression Of Neurological Disease",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "EuroPOND will develop a data-driven statistical and computational modeling framework for neurological disease progression. This will enable major advances in differential and personalized diagnosis, prognosis, monitoring, and treatment and care decisions, positioning Europe as world leaders in one of the biggest societal challenges of 21st century healthcare. The inherent complexity of neurological disease, the overlap of symptoms and pathologies, and the high comorbidity rate suggests a systems medicine approach, which matches the specific challenge of this call. We take a uniquely holistic approach that, in the spirit of systems medicine, integrates a variety of clinical and biomedical research data including risk factors, biomarkers, and interactions. Our consortium has a multidisciplinary balance of essential expertise in mathematical/statistical/computational modelling; clinical, biomedical and epidemiological expertise; and access to a diverse range of datasets for sporadic and well-phenotyped disease types.\nThe project will devise and implement, as open-source software tools, advanced statistical and computational techniques for reconstructing long-term temporal evolution of disease markers from cross-sectional or short-term longitudinal data. We will apply the techniques to generate new and uniquely detailed pictures of a range of important diseases. This will support the development of new evidence-based treatments in Europe through deeper disease understanding, better patient stratification for clinical trials, and improved accuracy of diagnosis and prognosis. For example, Alzheimerís disease alone costs European citizens around Ä200B every year in care and loss of productivity. No disease modifying treatments are yet available. Clinical trials repeatedly fail because disease heterogeneity prevents bulk response. Our models enable fine stratification into phenotypes enabling more focussed analysis to identify subgroups that respond to putative treatments.",
+    "totalCost": "5498612,25",
+    "ecMaxContribution": "4975862",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "ICOMETRIX NV;INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE;STICHTING VU;UNIVERSITE DE GENEVE;PROVINCIA LOMBARDO VENETA - ORDINEOSPEDALIERO DI SAN GIOVANNI DI DIO- FATEBENEFRATELLI;STICHTING VUMC;ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM;FONDAZIONE IRCCS ISTITUTO NEUROLOGICO CARLO BESTA",
+    "participantCountries": "BE;FR;NL;CH;IT",
+    "projectParticipants": {
+        "999615168": {
+            "orgId": "999615168",
+            "orgName": "PROVINCIA LOMBARDO VENETA - ORDINEOSPEDALIERO DI SAN GIOVANNI DI DIO- FATEBENEFRATELLI",
+            "ecContrib": 423050
+        },
+        "919322739": {
+            "orgId": "919322739",
+            "orgName": "STICHTING VUMC",
+            "ecContrib": 486122
+        },
+        "999988424": {
+            "orgId": "999988424",
+            "orgName": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+            "ecContrib": 790250
+        },
+        "954530344": {
+            "orgId": "954530344",
+            "orgName": "STICHTING VU",
+            "ecContrib": 0
+        },
+        "999507110": {
+            "orgId": "999507110",
+            "orgName": "FONDAZIONE IRCCS ISTITUTO NEUROLOGICO CARLO BESTA",
+            "ecContrib": 337306
+        },
+        "963936434": {
+            "orgId": "963936434",
+            "orgName": "ICOMETRIX NV",
+            "ecContrib": 638625
+        },
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 655016
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 1645492
+        },
+        "999974650": {
+            "orgId": "999974650",
+            "orgName": "UNIVERSITE DE GENEVE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 4975861
+}

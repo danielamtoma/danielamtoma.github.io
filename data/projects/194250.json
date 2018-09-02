@@ -1,0 +1,68 @@
+{
+    "rcn": "194250",
+    "acronym": "VITAL",
+    "topics": "ICT-06-2014",
+    "title": "VIrtualized hybrid satellite-TerrestriAl systems for resilient and fLexible future networks",
+    "startDate": "01/02/2015",
+    "endDate": "31/07/2017",
+    "objective": "VITAL is an ambitious proposal addressing the combination of Terrestrial and Satellite networks by pursuing two key innovation areas, by bringing Network Functions Virtualization (NFV) into the satellite domain and by enabling Software-Defined-Networking (SDN)-based, federated resources management in hybrid SatCom-terrestrial networks. Enabling NFV into SatCom domain will provide operators with appropriate tools and interfaces in order to establish end-to-end fully operable virtualised satellite networks to be offered to third-party operators/service providers. Enabling SDN-based, federated resource management paves way for a unified control plane that would allow operators to efficiently manage and optimise the operation of the hybrid network. While innovations pursued by VITAL are transversal, the project will primarily focus on three key application scenarios: Satellite Virtual Network Operator (SVNO) services, Satellite backhauling and hybrid telecom service delivery.\nThe solutions developed in VITAL will bring, through flexible integration of satellite and terrestrial segments, improved coverage, optimised communication resources use and better network resilience, along with improved innovation capacity and business agility for deploying communications services over combined networks. VITAL will address the development of a hybrid architectural framework, the required mechanisms to enable virtualization of SatCom network components, including performance optimisation and implementation of a number of virtualised functions, and the design of an SDN-enabled, federated resources management framework, embedding strategies and algorithmic solutions to provide end-to-end communication services. \nProof of Concept validation of VITAL solutions and enabling technologies through a combination of real prototypes and emulators are also envisaged. The project aims to impact standardization initiatives and will contribute to open platform initiatives for SDN/NFV deployments.",
+    "totalCost": "2896855",
+    "ecMaxContribution": "2896855",
+    "coordinator": "CREATE-NET (CENTER FOR RESEARCH AND TELECOMMUNICATION EXPERIMENTATION FOR NETWORKED COMMUNITIES)",
+    "coordinatorCountry": "IT",
+    "participants": "INTECS SPA;SYNAPTEC;HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE);UNIVERSITAT POLITECNICA DE CATALUNYA;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";ONEACCESS;CENTRE NATIONAL D'ETUDES SPATIALES - CNES;ELLAS SAT ANONYMH ETAIREIA YPIRESIES DORYFORIKON SYSTIMATON KAI EPIKOINONION",
+    "participantCountries": "IT;FR;EL;ES",
+    "projectParticipants": {
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 483250
+        },
+        "951649444": {
+            "orgId": "951649444",
+            "orgName": "INTECS SPA",
+            "ecContrib": 325000
+        },
+        "940287834": {
+            "orgId": "940287834",
+            "orgName": "SYNAPTEC",
+            "ecContrib": 241000
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 335625
+        },
+        "999792581": {
+            "orgId": "999792581",
+            "orgName": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+            "ecContrib": 201250
+        },
+        "953343161": {
+            "orgId": "953343161",
+            "orgName": "ELLAS SAT ANONYMH ETAIREIA YPIRESIES DORYFORIKON SYSTIMATON KAI EPIKOINONION",
+            "ecContrib": 147495
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 403875
+        },
+        "949889185": {
+            "orgId": "949889185",
+            "orgName": "ONEACCESS",
+            "ecContrib": 483475
+        },
+        "999599163": {
+            "orgId": "999599163",
+            "orgName": "CENTRE NATIONAL D'ETUDES SPATIALES - CNES",
+            "ecContrib": 275885
+        },
+        "999575786": {
+            "orgId": "999575786",
+            "orgName": "CREATE-NET (CENTER FOR RESEARCH AND TELECOMMUNICATION EXPERIMENTATION FOR NETWORKED COMMUNITIES)",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 2896855
+}

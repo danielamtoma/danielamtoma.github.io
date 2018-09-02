@@ -1,0 +1,58 @@
+{
+    "rcn": "193801",
+    "acronym": "socSMCs",
+    "topics": "FETPROACT-2-2014",
+    "title": "Socialising Sensori-Motor Contingencies",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "As robots become more omnipresent in our society, we are facing the challenge of making them more socially competent. However, in order to safely and meaningfully cooperate with humans, robots must be able to interact in ways that humans find intuitive and understandable. Addressing this challenge, we propose a novel approach for understanding and modelling social behaviour and implementing social coupling in robots. Our approach presents a radical departure from the classical view of social cognition as mind-reading, mentalising or maintaining internal rep-resentations of other agents. This project is based on the view that even complex modes of social interaction are grounded in basic sensorimotor interaction patterns. SensoriMotor Contingencies (SMCs) are known to be highly relevant in cognition. Our key hypothesis is that learning and mastery of action-effect contingencies are also critical to enable effective coupling of agents in social contexts. We use ìsocSMCsî as a shorthand for such socially rele-vant action-effect contingencies. We will investigate socSMCs in human-human and human-robot social interaction scenarios. The main objectives of the project are to elaborate and investigate the concept of socSMCs in terms of information-theoretic and neurocomputational models, to deploy them in the control of humanoid robots (PR2, REEM-C) for social entrainment with humans, to elucidate the mechanisms for sustaining and exercising socSMCs in the human brain, to study their breakdown in patients with autism spectrum disorders, and to benchmark the socSMCs approach in several demonstrator scenarios. Our long term vision is to realize a new socially competent robot technology grounded in novel insights into mechanisms of functional and dysfunctional social behavior, and to test novel aspects and strategies for human-robot interaction and cooperation that can be applied in a multitude of assistive roles relying on highly compact computational solutions.",
+    "totalCost": "3778125",
+    "ecMaxContribution": "3778125",
+    "coordinator": "UNIVERSITAETSKLINIKUM HAMBURG-EPPENDORF",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSIDAD POMPEU FABRA;PAL ROBOTICS SL;THE UNIVERSITY OF HERTFORDSHIRE HIGHER EDUCATION CORPORATION;KUNGLIGA TEKNISKA HOEGSKOLAN;WHITEMATTER LABS GMBH;UNIVERSITAET OSNABRUECK;GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+    "participantCountries": "ES;UK;SE;DE",
+    "projectParticipants": {
+        "999857474": {
+            "orgId": "999857474",
+            "orgName": "UNIVERSITAETSKLINIKUM HAMBURG-EPPENDORF",
+            "ecContrib": 900625
+        },
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 556250
+        },
+        "999911115": {
+            "orgId": "999911115",
+            "orgName": "THE UNIVERSITY OF HERTFORDSHIRE HIGHER EDUCATION CORPORATION",
+            "ecContrib": 513750
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 570000
+        },
+        "999981828": {
+            "orgId": "999981828",
+            "orgName": "GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",
+            "ecContrib": 234375
+        },
+        "970666488": {
+            "orgId": "970666488",
+            "orgName": "PAL ROBOTICS SL",
+            "ecContrib": 350000
+        },
+        "942252860": {
+            "orgId": "942252860",
+            "orgName": "WHITEMATTER LABS GMBH",
+            "ecContrib": 44241
+        },
+        "999855049": {
+            "orgId": "999855049",
+            "orgName": "UNIVERSITAET OSNABRUECK",
+            "ecContrib": 608884
+        }
+    },
+    "calculatedTotalContribution": 3778125
+}

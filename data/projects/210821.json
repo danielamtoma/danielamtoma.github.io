@@ -1,0 +1,113 @@
+{
+    "rcn": "210821",
+    "acronym": "CORTEX",
+    "topics": "NFRP-1",
+    "title": "Core monitoring techniques and experimental validation and demonstration",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2021",
+    "objective": "The CORTEX project aims at developing an innovative core monitoring technique that allows detecting anomalies in nuclear reactors, such as excessive vibrations of core internals, flow blockage, coolant inlet perturbations, etc. The technique will be based on primarily using the inherent fluctuations in neutron flux recorded by in-core and ex-core instrumentation, from which the anomalies will be differentiated depending on their type, location and characteristics. The method is non-intrusive and does not require any external perturbation of the system. The project will result in a deepened understanding of the physical processes involved. This will allow utilities to detect operational problems at a very early stage and to take proper actions before such problems have any adverse effect on plant safety and reliability. With an ageing fleet of nuclear reactors utilizing more challenging fuel assembly designs, core loadings, and operating more often in load-follow, new operational problems have been observed during the last decade and will become more frequent in the future. By making the detection and characterization of anomalies possible, the availability of nuclear-generated electricity will be further improved. This will contribute to a lowering of the CO2 footprint to the environment and to a higher availability of cheap base-load electricity to the consumers. By implementing the technique in the existing fleet of reactors, the technique will have a major impact. Moreover, the technique, being generic in nature, can be applied to future reactor types and designs. In order to develop a method that can reach a high Technology Readiness Level, the consortium was strategically structured around the required core expertise from all the necessary actors of the nuclear industry, both within Europe and outside. The broad expertise of the consortium members ensures the successful development of new in-situ monitoring techniques.",
+    "totalCost": "5462113,75",
+    "ecMaxContribution": "5092626,81",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "UNIVERSITY OF LINCOLN;KERNKRAFTWERK GOSGEN-DANIKEN AG;PREUSSENELEKTRA GMBH;TECHNISCHE UNIVERSITAET MUENCHEN;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;TUV RHEINLAND ISTEC GMBH,INSTITUT FUR SICHERHEITSTECHNOLOGIE;LGI CONSULTING SARL;National University Corporation, Kyoto University;MAGYAR TUDOMANYOS AKADEMIA ENERGIATUDOMANYI KUTATOKOZPONT;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;ANALYSIS AND MEASUREMENT SERVICES CORPORATION;PAUL SCHERRER INSTITUT;UNIVERSITAT POLITECNICA DE VALENCIA;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;GESELLSCHAFT FUER ANLAGEN- UND REAKTORSICHERHEIT (GRS) MBH;UJV REZ, a. s.;UNIVERSIDAD POLITECNICA DE MADRID;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "UK;CH;DE;FR;JP;HU;US;ES;EL;CZ",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 132993
+        },
+        "999460162": {
+            "orgId": "999460162",
+            "orgName": "GESELLSCHAFT FUER ANLAGEN- UND REAKTORSICHERHEIT (GRS) MBH",
+            "ecContrib": 400000
+        },
+        "975258371": {
+            "orgId": "975258371",
+            "orgName": "TUV RHEINLAND ISTEC GMBH,INSTITUT FUR SICHERHEITSTECHNOLOGIE",
+            "ecContrib": 283600
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 908792
+        },
+        "999677733": {
+            "orgId": "999677733",
+            "orgName": "LGI CONSULTING SARL",
+            "ecContrib": 217019
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 405600
+        },
+        "918055725": {
+            "orgId": "918055725",
+            "orgName": "KERNKRAFTWERK GOSGEN-DANIKEN AG",
+            "ecContrib": 62475
+        },
+        "999994923": {
+            "orgId": "999994923",
+            "orgName": "PAUL SCHERRER INSTITUT",
+            "ecContrib": 338315
+        },
+        "999477428": {
+            "orgId": "999477428",
+            "orgName": "UJV REZ, a. s.",
+            "ecContrib": 140750
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 198375
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 308500
+        },
+        "954721919": {
+            "orgId": "954721919",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA ENERGIATUDOMANYI KUTATOKOZPONT",
+            "ecContrib": 83000
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 344750
+        },
+        "917527463": {
+            "orgId": "917527463",
+            "orgName": "ANALYSIS AND MEASUREMENT SERVICES CORPORATION",
+            "ecContrib": 0
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 325708
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 762750
+        },
+        "999882694": {
+            "orgId": "999882694",
+            "orgName": "UNIVERSITY OF LINCOLN",
+            "ecContrib": 180000
+        },
+        "991412072": {
+            "orgId": "991412072",
+            "orgName": "National University Corporation, Kyoto University",
+            "ecContrib": 0
+        },
+        "997543636": {
+            "orgId": "997543636",
+            "orgName": "PREUSSENELEKTRA GMBH",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 5092627
+}

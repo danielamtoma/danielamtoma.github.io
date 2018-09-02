@@ -1,0 +1,63 @@
+{
+    "rcn": "199492",
+    "acronym": "WIPE",
+    "topics": "ICT-27-2015",
+    "title": "Wafer scale Integration of Photonics and Electronics",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "The WIPE project aims at developing hybrid electronic-photonic chips as a key enabling technology for data transmission purposes. It aims at bringing photonics to a new level by developing a concept that can be well industrialised. This sustains EU leadership in photonics, as is the ambition of the work program.   \n\nA new wafer-scale technology will thus be developed for direct and intimate attachment of III-V Indium-Phosphide (InP) photonic integrated circuits (PICs) and BiCMOS electronic chips (ICs). The ICs contain the driver, receiver andcontrol electronics for the PIC and enable direct connection to polymer optical waveguides. This technology of ëwafer scale heterogeneous integrationí enables high-performance and high-density photonic-electronic (photronic) modules are created having a lower energy consumption, lower packaging complexity and lower cost compared to modules using more traditional interconnection techniques like wire bonding and laser welding of fibre connections. \n\nNext to the new bonding technology, an integrated module design technology is developed for efficient co-design of hybrid photonic and electronic modules. A library consisting of photonic/electronic standard modules, is created leveraging the process design kits (PDKs) of the most important European foundries of photonic chips in combination with a powerful BiCMOS. These tools are of significantimportance to industry, since they offer photronic module designers a standardised approach that highly facilitates the module design for SMEs and affordable manufacturing by photonic and electronic foundries. The PDK is demonstrated through the prototyping of a 400Gb/s transceiver for data centre applications.",
+    "totalCost": "3766097,5",
+    "ecMaxContribution": "3062997,5",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "EFFECT PHOTONICS LTD;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;IBM RESEARCH GMBH;EFFECT PHOTONICS BV;SMART PHOTONICS BV;BERENSCHOT GROEP BV;IMINDS",
+    "participantCountries": "UK;DE;BE;CH;NL",
+    "projectParticipants": {
+        "958624326": {
+            "orgId": "958624326",
+            "orgName": "EFFECT PHOTONICS BV",
+            "ecContrib": 537656
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 1030189
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 410438
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "998062295": {
+            "orgId": "998062295",
+            "orgName": "BERENSCHOT GROEP BV",
+            "ecContrib": 73500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 601148
+        },
+        "928923120": {
+            "orgId": "928923120",
+            "orgName": "EFFECT PHOTONICS LTD",
+            "ecContrib": 193562
+        },
+        "950758208": {
+            "orgId": "950758208",
+            "orgName": "SMART PHOTONICS BV",
+            "ecContrib": 216505
+        }
+    },
+    "calculatedTotalContribution": 3062998
+}

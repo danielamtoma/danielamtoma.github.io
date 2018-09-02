@@ -1,0 +1,58 @@
+{
+    "rcn": "207473",
+    "acronym": "ULTRACHIRAL",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "Ultrasensitive chiral detection by signal-reversing cavity polarimetry: applications to in-situ proteomics, single-molecule chirality, HPLC analysis, medical diagnostics, and atmospheric studies",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "Chirality is a fundamental property of life, making chiral sensing and analysis crucial to numerous scientific subfields of biology, chemistry, and medicine, and to the pharmaceutical, chemical, cosmetic, and food industries, constituting a market of 10s of billion Ä, and growing.\nDespite the tremendous importance of chiral sensing, its application remains very limited, as chiroptical signals are typically very weak, preventing important biological and medical applications. Recently, the project-coordinating FORTH team has introduced a new form of Chiral-Cavity-based Polarimetry (CCP) for chiral sensing, which has three groundbreaking advantages compared to commercial instruments: (a) The chiroptical signals are enhanced by the number of cavity passes (typically ~1000); (b) otherwise limiting birefringent backgrounds are suppressed;\n(c) rapid signal reversals give absolute polarimetry measurements, not requiring sample removal for a null-sample measurement. Together, these advantages allow improvement in chiral detection sensitivity by 3-6 orders of magnitude (depending on instrument complexity and price). ULTRACHIRAL aims to revolutionize existing applications of chiral sensing, but also to instigate important new domains which require sensitivities beyond current limits, including: (1) measuring protein structure in-situ, in solution, at surfaces, and within cells and membranes, thus realizing the ìholy-grailî of proteomics; (2) coupling to high performance liquid chromatography (HPLC) for chiral identification of the components of complex mixtures, creating new standards for the pharmaceutical and chemical analysis industries; (3) chiral analysis of human bodily fluids as a diagnostic tool in medicine; (4) measurement of single-molecule chirality, by adapting CCP to microresonators, which have already demonstrated single-molecule detection; and (5) real-time chiral monitoring of terpene emissions from individual trees and forests, as a probe of forest ecology.",
+    "totalCost": "3999250",
+    "ecMaxContribution": "3999250",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "THE UNIVERSITY OF EXETER;JOHANNES GUTENBERG-UNIVERSITAT MAINZ;PHOTEK LIMITED;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;PANEPISTIMIO KRITIS;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "participantCountries": "UK;DE;EL;CH",
+    "projectParticipants": {
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 722500
+        },
+        "999864555": {
+            "orgId": "999864555",
+            "orgName": "THE UNIVERSITY OF EXETER",
+            "ecContrib": 572000
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 237500
+        },
+        "997719109": {
+            "orgId": "997719109",
+            "orgName": "PHOTEK LIMITED",
+            "ecContrib": 318750
+        },
+        "999978627": {
+            "orgId": "999978627",
+            "orgName": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ",
+            "ecContrib": 501250
+        },
+        "999588978": {
+            "orgId": "999588978",
+            "orgName": "PANEPISTIMIO KRITIS",
+            "ecContrib": 544750
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 567500
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 535000
+        }
+    },
+    "calculatedTotalContribution": 3999250
+}

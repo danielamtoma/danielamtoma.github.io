@@ -1,0 +1,78 @@
+{
+    "rcn": "206750",
+    "acronym": "FASTGRID",
+    "topics": "NMBP-18-2016",
+    "title": "Cost effective FCL using advanced superconducting tapes for future HVDC grids",
+    "startDate": "01/01/2017",
+    "endDate": "30/06/2020",
+    "objective": "Sustainability of energy systems goes through high penetration of renewable energy with huge volumes of electricity to transmit over long distances. The most advanced solution is the HVDC Supergrid. But fault currents remain an issue even if DC circuit breakers have emerged. These are not satisfying, whereas Superconducting Fault Current Limiters (SCFCLs) using REBCO tapes bring an attractive solution. SCFCLs have already proved their outstanding performances in MVAC systems, with a few commercial devices in service. However, present REBCO conductors cannot be readily used at very high voltages: the electrical field under current limitation is too low and leads to too long tapes and high cost. FASTGRID aims to improve and modify the REBCO conductor, in particular its shunt, in order to significantly enhance (2 to 3 times) the electric field and so the economical SCFCL attractiveness. A commercial tape will be upgraded to reach a higher critical current and enhanced homogeneity as compared to todayís standards. For safer and better operation, the tapeís normal zone propagation velocity will be increased by at least a factor of 10 using the patented current flow diverter concept. The shunt surface will also be functionalized to boost the thermal exchanges with coolant. This advanced conductor will be used in a smart DC SCFCL module (1 kA ñ 50 kV). This one will include new functionalities and will be designed as sub-element of a real HVDC device. In parallel to this main line of work, developments will be carried out on a promising breakthrough path: ultra high electric field tapes based on sapphire substrates. FASTGRID will bring this to the next levels of technology readiness.\nIn conclusion, FASTGRID project aims at improving significantly existing REBCO conductor architecture to make SCFCLs economically attractive for HVDC Supergrids. However, availability of such an advanced conductor will have an impact on virtually all other applications of HTS tapes.",
+    "totalCost": "9031376,79",
+    "ecMaxContribution": "7248235,42",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "SLOVENSKA TECHNICKA UNIVERZITA V BRATISLAVE;CORPORATION DE L ECOLE POLYTECHNIQUE DE MONTREAL ASSOCIATION;THEVA DUENNSCHICHTTECHNIK GMBH;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;KARLSRUHER INSTITUT FUER TECHNOLOGIE;RICERCA SUL SISTEMA ENERGETICO - RSE SPA;TEL AVIV UNIVERSITY;SUPERGRID INSTITUTE;OXOLUTIA SL;Institute of Electrical Engineering, Slovak Academy of Sciences",
+    "participantCountries": "SK;CA;DE;CH;ES;IT;IL;FR",
+    "projectParticipants": {
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 669623
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 429953
+        },
+        "973592396": {
+            "orgId": "973592396",
+            "orgName": "THEVA DUENNSCHICHTTECHNIK GMBH",
+            "ecContrib": 1442438
+        },
+        "957524443": {
+            "orgId": "957524443",
+            "orgName": "CORPORATION DE L ECOLE POLYTECHNIQUE DE MONTREAL ASSOCIATION",
+            "ecContrib": 319601
+        },
+        "999868823": {
+            "orgId": "999868823",
+            "orgName": "SLOVENSKA TECHNICKA UNIVERZITA V BRATISLAVE",
+            "ecContrib": 100000
+        },
+        "997974607": {
+            "orgId": "997974607",
+            "orgName": "Institute of Electrical Engineering, Slovak Academy of Sciences",
+            "ecContrib": 399948
+        },
+        "999529420": {
+            "orgId": "999529420",
+            "orgName": "RICERCA SUL SISTEMA ENERGETICO - RSE SPA",
+            "ecContrib": 760074
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 759669
+        },
+        "934440674": {
+            "orgId": "934440674",
+            "orgName": "SUPERGRID INSTITUTE",
+            "ecContrib": 1226930
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        },
+        "967770456": {
+            "orgId": "967770456",
+            "orgName": "OXOLUTIA SL",
+            "ecContrib": 490001
+        },
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 650000
+        }
+    },
+    "calculatedTotalContribution": 7248237
+}

@@ -1,0 +1,48 @@
+{
+    "rcn": "211584",
+    "acronym": "COPAC",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "Coherent Optical Parallel Computing",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "COPAC is a transformative novel area in computing both because of the technology, coherent information transfer by ultrafast laser addressing of engineered quantum dots, QD, arrays and because of the specialized parallel processing of large amounts of information. We will make foundational experimental, theoretical and algorithmic innovations to demonstrate a new technological paradigm for ultrafast parallel multi-valued information processing. We aim to develop a ground-breaking nonlinear coherent spectroscopy combining optical addressing and spatially macroscopically resolved optical readout to achieve unprecedented levels of speed, density and complexity. Two key high-risk / high-reward pioneering elements are the quantum engineered coherent concatenation of units and the multidirectional optical detection. Experimental demonstrations on tailored multilayer QD arrays of increasing complexity, integration into a device and novel hardware and matched compilers will be delivered. Preliminary experimental demonstrations of the response of solutions and of QD films are available as is the validation of logic operation in parallel.\nWe use the dynamic response of the designed QD arrays to implement novel paradigms for parallel information processing. The discrete quantal level structure of nanosystems provides a memory at room temperature. Input will be provided simultaneously to all the levels by broadband laser pulses and the dynamical response will implement the logic in parallel. Disorder and environmental fluctuations are not detrimental because controlled level broadening is essential for the simultaneous multidirectional optical readout at the macroscopic level.\nThe long term vision of COPAC is the application of atomic and molecular state resolved controlled quantum dynamic processes towards information processing. Within this our targeted breakthrough is a novel prototype device for parallel logic engineered to industry standards and with suitable compilers.",
+    "totalCost": "2993640",
+    "ecMaxContribution": "2993640",
+    "coordinator": "UNIVERSITE DE LIEGE",
+    "coordinatorCountry": "BE",
+    "participants": "KILOLAMBDA TECHNOLOGIES LTD;UNIVERSITA DEGLI STUDI DI PADOVA;ELBIT SYSTEMS LTD;CONSIGLIO NAZIONALE DELLE RICERCHE;PROBAYES SAS;THE HEBREW UNIVERSITY OF JERUSALEM",
+    "participantCountries": "IL;IT;FR",
+    "projectParticipants": {
+        "999995602": {
+            "orgId": "999995602",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PADOVA",
+            "ecContrib": 715765
+        },
+        "999976105": {
+            "orgId": "999976105",
+            "orgName": "UNIVERSITE DE LIEGE",
+            "ecContrib": 468750
+        },
+        "937971571": {
+            "orgId": "937971571",
+            "orgName": "KILOLAMBDA TECHNOLOGIES LTD",
+            "ecContrib": 40950
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 341000
+        },
+        "999752326": {
+            "orgId": "999752326",
+            "orgName": "PROBAYES SAS",
+            "ecContrib": 390000
+        },
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 478125
+        }
+    },
+    "calculatedTotalContribution": 2434590
+}

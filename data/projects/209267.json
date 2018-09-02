@@ -1,0 +1,23 @@
+{
+    "rcn": "209267",
+    "acronym": "BioNetIllustration",
+    "topics": "MSCA-IF-2016",
+    "title": "BioNetIllustration: User centric illustrations of biological networks",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2019",
+    "objective": "In living systems, one molecule is commonly involved in several distinct physiological functions. The roles of molecules are commonly summarized in pathway diagrams, which, however, are abstract, hierarchically nested and thus is difficult to comprehend especially by non-expert audience. The primary goal of this research in visualization is to intuitively support the comprehensive understanding of relationships among biological networks using interactively computed illustrations. Illustrations, especially in textbooks of biology are carefully designed to clearly present reactions between organs as well as interactions within cells. Automatic generation of illustrative visualizations of biological networks is thus the technical content of this proposal. Automatic generation of hand-drawn illustrations has been a challenging task due to the difficulty of algorithmically describing a human creative process such as evaluating and selecting significant information and composing meaningful explanations in a visually plausible manner. Our high-level idea in BioNetIllustration is to simulate this process by decomposing the entire problem into multiple steps including content-driven layout and illustration design as well as spatio-temporal event transitions across multiple representations. As a pioneer study on illustrations, a new visualization framework for these network illustrations will be developed. This study can be achieved by matching the unique competences of the researcher and the host research group and allows an innovative synthesis to produce hand-drawn like illustrations of biological networks. The project also involves experts from several disciplines including network and medical visualization, data mining, systems biology as well as perceptual psychology. The result will provide a new direction for physiological process analysis and accelerate the knowledge transfer not only within experts but also to the public.",
+    "totalCost": "166156,8",
+    "ecMaxContribution": "166156,8",
+    "coordinator": "TECHNISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 166157
+        }
+    },
+    "calculatedTotalContribution": 166157
+}

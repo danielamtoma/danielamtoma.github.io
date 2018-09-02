@@ -1,0 +1,188 @@
+{
+    "rcn": "203297",
+    "acronym": "ASGARD",
+    "topics": "FCT-01-2015",
+    "title": "Analysis System for Gathered Raw Data",
+    "startDate": "01/09/2016",
+    "endDate": "29/02/2020",
+    "objective": "ASGARD has a singular goal, contribute to Law Enforcement Agencies Technological Autonomy and effective use of technology. Technologies will be transferred to end users under an open source scheme focusing on Forensics, Intelligence and Foresight (Intelligence led prevention and anticipation). ASGARD will drive progress in the processing of seized data, availability of massive amounts of data and big data solutions in an ever more connected world. New areas of research will also be addressed. The consortium is configured with LEA end users and practitioners ìpullingî from the Research and Development community who will ìpushî transfer of knowledge and innovation. A Community of LEA users is the end point of ASGARD with the technology as a focal point for cooperation (a restricted open source community). In addition to traditional Use Cases and trials, in keeping with open source concepts and continuous integration approaches, ASGARD will use Hackathons to demonstrate its results. Vendor lock-in is addressed whilst also recognising their role and existing investment by LEAs. The project will follow a cyclical approach for early results. Data Set, Data Analytics (multimodal/ multimedia), Data Mining and Visual Analytics are included in the work plan. Technologies will be built under the maxim of ìIt worksî over ìItís the bestî. Rapid adoption/flexible deployment strategies are included. The project includes a licensing and IPR approach coherent with LEA realities and Ethical needs. ASGARD includes a comprehensive approach to Privacy, Ethics, Societal Impact respecting fundamental rights. ASGARD leverages existing trust relationship between LEAs and the research and development industry, and experiential knowledge in FCT research. ASGARD will allow its community of users leverage the benefits of agile methodologies, technology trends and open source approaches that are currently exploited by the general ICT sector and Organised Crime and Terrorist organisations.",
+    "totalCost": "11992556,25",
+    "ecMaxContribution": "11992553,25",
+    "coordinator": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+    "coordinatorCountry": "ES",
+    "participants": "TOTALFORSVARETS FORSKNINGSINSTITUT;L-1 Identity Solutions AG;SERVICE PUBLIC FEDERAL INTERIEUR;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;SECURIQ SISTEMAS SL;UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;DUBLIN CITY UNIVERSITY;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;BUNDESMINISTERIUM FUER INNERES;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;IBM IRELAND LIMITED;ADITESS ADVANCED INTEGRATED TECHNOLOGY SOLUTIONS & SERVICES LTD;ZENTRUM FUR RISIKO- UND KRISENMANAGEMENT - ZRK;MinistÈrio da JustiÁa;POLIISIHALLITUS;PDM E FC PROJECTO DESENVOLVIMENTO MANUTENCAO FORMACAO E CONSULTADORIALDA;KENTRO MELETON ASFALEIAS;RIKSKPOLISSTYRELSEN - RIKSKRIMINALPOLISEN NATIONAL;MINISTERO DELLA DIFESA;MINISTERIO DEL INTERIOR;UNIVERSITAT KONSTANZ;DE FEDERALE OVERHEIDSDIENST JUSTITIE - LE SERVICE PUBLIC FEDERAL JUSTICE;ENGINEERING - INGEGNERIA INFORMATICA SPA;UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA;MINISTERE DE L'INTERIEUR;POLISMYNDIGHETEN SWEDISH POLICE AUTHORITY;UNIVERSITY OF ULSTER;Netherlands Forensic Institute;INOV INESC INOVACAO - INSTITUTO DE NOVAS TECNOLOGIAS;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;UNIVERSITEIT VAN AMSTERDAM;HOME OFFICE",
+    "participantCountries": "SE;DE;BE;AT;ES;IE;EL;NL;FR;CY;PT;FI;IT;UK",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 198375
+        },
+        "951807457": {
+            "orgId": "951807457",
+            "orgName": "RIKSKPOLISSTYRELSEN - RIKSKRIMINALPOLISEN NATIONAL",
+            "ecContrib": 0
+        },
+        "921186788": {
+            "orgId": "921186788",
+            "orgName": "POLISMYNDIGHETEN SWEDISH POLICE AUTHORITY",
+            "ecContrib": 151750
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 790848
+        },
+        "999885313": {
+            "orgId": "999885313",
+            "orgName": "UNIVERSITY OF ULSTER",
+            "ecContrib": 546500
+        },
+        "963764453": {
+            "orgId": "963764453",
+            "orgName": "SERVICE PUBLIC FEDERAL INTERIEUR",
+            "ecContrib": 87188
+        },
+        "999823136": {
+            "orgId": "999823136",
+            "orgName": "MINISTERE DE L'INTERIEUR",
+            "ecContrib": 131875
+        },
+        "999827307": {
+            "orgId": "999827307",
+            "orgName": "KENTRO MELETON ASFALEIAS",
+            "ecContrib": 400800
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 551271
+        },
+        "999832351": {
+            "orgId": "999832351",
+            "orgName": "HOME OFFICE",
+            "ecContrib": 354688
+        },
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 310284
+        },
+        "999827501": {
+            "orgId": "999827501",
+            "orgName": "MINISTERIO DEL INTERIOR",
+            "ecContrib": 224000
+        },
+        "954502214": {
+            "orgId": "954502214",
+            "orgName": "ADITESS ADVANCED INTEGRATED TECHNOLOGY SOLUTIONS & SERVICES LTD",
+            "ecContrib": 194062
+        },
+        "999826434": {
+            "orgId": "999826434",
+            "orgName": "BUNDESMINISTERIUM FUER INNERES",
+            "ecContrib": 198350
+        },
+        "999526801": {
+            "orgId": "999526801",
+            "orgName": "L-1 Identity Solutions AG",
+            "ecContrib": 195375
+        },
+        "955552336": {
+            "orgId": "955552336",
+            "orgName": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+            "ecContrib": 1230458
+        },
+        "999620503": {
+            "orgId": "999620503",
+            "orgName": "INOV INESC INOVACAO - INSTITUTO DE NOVAS TECNOLOGIAS",
+            "ecContrib": 389625
+        },
+        "999892588": {
+            "orgId": "999892588",
+            "orgName": "DUBLIN CITY UNIVERSITY",
+            "ecContrib": 550375
+        },
+        "998203527": {
+            "orgId": "998203527",
+            "orgName": "Netherlands Forensic Institute",
+            "ecContrib": 559625
+        },
+        "999627875": {
+            "orgId": "999627875",
+            "orgName": "TOTALFORSVARETS FORSKNINGSINSTITUT",
+            "ecContrib": 759000
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 580250
+        },
+        "983734231": {
+            "orgId": "983734231",
+            "orgName": "Ministério da Justiça",
+            "ecContrib": 184000
+        },
+        "951920171": {
+            "orgId": "951920171",
+            "orgName": "POLIISIHALLITUS",
+            "ecContrib": 150750
+        },
+        "937685712": {
+            "orgId": "937685712",
+            "orgName": "ZENTRUM FUR RISIKO- UND KRISENMANAGEMENT - ZRK",
+            "ecContrib": 314625
+        },
+        "927665806": {
+            "orgId": "927665806",
+            "orgName": "SECURIQ SISTEMAS SL",
+            "ecContrib": 131375
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 474625
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 513375
+        },
+        "999840887": {
+            "orgId": "999840887",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA",
+            "ecContrib": 253500
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 581812
+        },
+        "960510394": {
+            "orgId": "960510394",
+            "orgName": "MINISTERO DELLA DIFESA",
+            "ecContrib": 118088
+        },
+        "984178103": {
+            "orgId": "984178103",
+            "orgName": "DE FEDERALE OVERHEIDSDIENST JUSTITIE - LE SERVICE PUBLIC FEDERAL JUSTICE",
+            "ecContrib": 158385
+        },
+        "999742335": {
+            "orgId": "999742335",
+            "orgName": "PDM E FC PROJECTO DESENVOLVIMENTO MANUTENCAO FORMACAO E CONSULTADORIALDA",
+            "ecContrib": 198375
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 303070
+        },
+        "999866204": {
+            "orgId": "999866204",
+            "orgName": "UNIVERSITAT KONSTANZ",
+            "ecContrib": 205875
+        }
+    },
+    "calculatedTotalContribution": 11992554
+}

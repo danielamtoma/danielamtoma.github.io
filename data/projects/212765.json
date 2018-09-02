@@ -1,0 +1,28 @@
+{
+    "rcn": "212765",
+    "acronym": "INFLUENCE",
+    "topics": "ERC-2017-STG",
+    "title": "Influence-based Decision-making in Uncertain Environments",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Decision-theoretic sequential decision making (SDM) is concerned with endowing an intelligent agent with the capability to choose actions that optimize task performance. SDM techniques have the potential to revolutionize many aspects of society and recent successes, e.g., agents that play Atari games†and beat a world champion in the game of Go, have sparked renewed interest in this field.\n\nHowever, despite these successes, fundamental problems of scalability prevents these methods from addressing other problems with hundreds or thousands of state variables. For instance, there is no principled way of computing an optimal or near-optimal traffic light control plan for an intersection that takes into account the current state of traffic in an entire city. I will develop one in this project.\n\nTo achieve this, I will develop a new class of influence-based SDM methods that overcome scalability issues for such problems by using novel ways of abstraction. Considered from a decentralized system perspective, the intersectionís local problem is manageable, but the influence that the rest of the network exerts on it is complex. The key idea is that by using (deep) machine learning methods, we can learn sufficiently accurate representations of such influence to facilitate near-optimal decisions.\n\nThis project will construct a theoretical framework for such approximate influence representations and SDM methods that use them. Scalability of these methods will be demonstrated by rigorous empirical evaluation on two simulated challenge domains: traffic lights control in an entire city, and robotic order picking in a large-scale autonomous warehouse.\n\nIf successful, INFLUENCE will produce a range of influence-based SDM algorithms that can, in a principled manner, deal with a broad range of very large complex problems consisting of hundreds or thousands of variables, thus making an important step towards realizing the promise of autonomous agent technology.",
+    "totalCost": "1475560",
+    "ecMaxContribution": "1475560",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "THE UNIVERSITY OF LIVERPOOL",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1475560
+        },
+        "999980567": {
+            "orgId": "999980567",
+            "orgName": "THE UNIVERSITY OF LIVERPOOL",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1475560
+}

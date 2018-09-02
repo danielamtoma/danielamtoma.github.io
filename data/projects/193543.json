@@ -1,0 +1,23 @@
+{
+    "rcn": "193543",
+    "acronym": "CONT-ACT",
+    "topics": "ERC-StG-2014",
+    "title": "Control of contact interactions for robots acting in the world",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2020",
+    "objective": "What are the algorithmic principles that would allow a robot to run through a rocky terrain, lift a couch while reaching for an object that rolled under it or manipulate a screwdriver while balancing on top of a ladder? Answering this seemingly naÔve question resorts to understanding the fundamental principles for robot locomotion and manipulation, which is very challenging. However, it is a necessary step towards ubiquitous robots capable of helping humans in an uncountable number of tasks. The fundamental aspect of both locomotion and manipulation is that the dynamic interaction of the robot with its environment through the creation of physical contacts is at the heart of the tasks. The planning of such interactions in a general manner is an unsolved problem. Moreover, it is not clear how sensory information (e.g. tactile and force sensors) can be included to improve the robustness of robot behaviors. Most of the time, it is simply discarded. CONT-ACT has the ambition to develop a consistent theoretical framework for motion generation and control where contact interaction is at the core of the approach and an efficient use of sensory information drives the development of high performance, adaptive and robust planning and control methods. CONT-ACT develops an architecture based on real-time predictive controllers that fully exploit contact interactions. In addition, the structure of sensory information during contact interactions is experimentally analyzed to create sensor representations adapted for control. It is then possible to learn predictive models in sensor space that are used to create very reactive controllers. The robot constantly improves its performance as it learns better sensory models. It is a step towards a general theory for robot movement that can be used to control any robot with legs and arms for both manipulation and locomotion tasks and that allows robots to constantly improve their performances as they experience the world.",
+    "totalCost": "1495500",
+    "ecMaxContribution": "1495500",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1495500
+        }
+    },
+    "calculatedTotalContribution": 1495500
+}

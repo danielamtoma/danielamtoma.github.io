@@ -1,0 +1,23 @@
+{
+    "rcn": "211826",
+    "acronym": "REACT",
+    "topics": "ERC-2017-STG",
+    "title": "Realizable Advanced Cryptography",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "In a free society, there is persistent tension between utility and privacy. Citizens have the basic right to keep their personal information private. However, sometimes keeping our data private could significantly reduce our ability to use this data to benefit ourselves or society. This tension is multiplied many times over in our modern data driven society, where data is utilized using remote algorithms. \n\nState of the art research suggests that new advanced cryptographic primitives can mitigate this tension. These include computing on encrypted data via fully homomorphic encryption, fine grained access control to encrypted data via attribute based encryption, and most recently general purpose program obfuscation, which on paper can solve many of cryptography's long standing problems. However, these primitives are largely either too complicated or not sufficiently founded to be considered for real world applications. \n\nProject REACT will apply foundational theoretical study towards removing the barriers between advanced cryptographic primitives and reality. My viewpoint, supported by my prior research success, is that orders-of-magnitude improvement in efficiency and security requires foundational theoretical study, rather than focusing on optimizations or heuristics. My projection is that progress in this direction will both allow for future realistic implementation of these primitives, reducing said tension, as well as contribute to basic cryptographic study by opening new avenues for future research.\n\nTo achieve this goal, I will pursue the following objectives: (i) Studying the computational complexity of underlying hardness assumptions, specifically lattice based, to better understand the level of security we can expect of proposed primitives. (ii) Simplifying and extending the LWE/trapdoor paradigm that underlies many of the new primitives, and that I find incomplete. (iii) Constructing cryptographic graded encoding schemes and obfuscators.",
+    "totalCost": "1493803",
+    "ecMaxContribution": "1493803",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 1493803
+        }
+    },
+    "calculatedTotalContribution": 1493803
+}

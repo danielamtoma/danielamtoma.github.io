@@ -1,0 +1,23 @@
+{
+    "rcn": "212286",
+    "acronym": "mrSANE",
+    "topics": "ERC-PoC-2016",
+    "title": "Magnetic Resonance Shimming Applications with Near-magnet Equipment",
+    "startDate": "01/10/2017",
+    "endDate": "31/03/2019",
+    "objective": "Magnetic resonance (MR) imaging and spectroscopy critically relies on the homogeneity of the main field. Despite of the best technological efforts magnetic field in MR examinations cannot be made homogeneous due to the presence of the object of investigation ñ the human or an animal ñ in the magnet. Heterogeneous and unique distribution of tissues with their characteristic magnetic susceptibilities requires the process of field homogenization, termed shimming, to be performed on a subject-by-subject basis. Shimming subsystems of the clinical MRI devices often show insufficient, leading to sub-optimal image quality and even failing diagnosis. Furthermore, numerous emerging methods, while showing their great potential in research settings, require even better shim fidelity. We therefore identify improved shimming as a current unmet need in MRI. Add-on hardware for more reliable shimming will greatly aid MRI research especially in the field of ultra-high imaging, such as 7T and above. A wider availability of improved shimming capabilities in the clinical machines will accelerate the transition of a multitude of current promising scientific applications of MRI to the clinical practise, allowing for a more precise diagnosis and improved patient outcomes. \n\nThe current project will aid a wider spread of the emerging shimming techniques, not based on spherical harmonics. As these techniques require a higher number of electrically controlled driving channels, the project addresses the scalability problem of the current shim amplifier technology by bringing the equipment closer to the magnet and eliminating a substantial number of expensive and error-prone components. It is therefore to expect that the novel system topology will make future MRI devices cheaper and more reliable, reducing the production, citing and maintenance costs. Collaboration with a European power amplifier manufacturer will ensure market-driven developments and a rapid dissemination of the results.",
+    "totalCost": "149937",
+    "ecMaxContribution": "149937",
+    "coordinator": "UNIVERSITAETSKLINIKUM FREIBURG",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999881918": {
+            "orgId": "999881918",
+            "orgName": "UNIVERSITAETSKLINIKUM FREIBURG",
+            "ecContrib": 149937
+        }
+    },
+    "calculatedTotalContribution": 149937
+}

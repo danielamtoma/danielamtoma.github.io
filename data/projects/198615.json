@@ -1,0 +1,23 @@
+{
+    "rcn": "198615",
+    "acronym": "PLASMA",
+    "topics": "ERC-CoG-2014",
+    "title": "Running away and radiating",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "Particle acceleration and radiation in plasmas has a wide variety of applications, ranging from cancer therapy and lightning initiation, to the improved design of fusion devices for large scale energy production. The goal of this project is to build a flexible ensemble of theoretical and numerical models that describes the acceleration processes and the resulting fast particle dynamics in two focus areas: magnetic fusion plasmas and laser-produced plasmas. This interdisciplinary approach is a new way of studying charged particle acceleration. It will lead to a deeper understanding of the complex interactions that characterise fast particle behaviour in plasmas. Plasmas are complex systems, with many kinds of interacting electromagnetic (EM) waves and charged particles. For such a system it is infeasible to build one model which captures both the small scale physics and the large scale phenomena. Therefore we aim to develop several complementary models, in one common framework, and make sure they agree in overlapping regions. The common framework will be built layer-by-layer, using models derived from first principles in a systematic way, with theory closely linked to numerics and validated by experimental observations. The key object of study is the evolution of the velocity-space particle distribution in time and space. The main challenge is the strong coupling between the distribution and the EM-field, which requires models with self-consistent coupling of Maxwellís equations and kinetic equations. For the latter we will use Vlasov-Fokker-Planck solvers extended with advanced collision operators. Interesting aspects include non-Maxwellian distributions, instabilities, shock-wave formation and avalanches. The resulting theoretical framework and the corresponding code-suite will be a novel instrument for advanced studies of charged particle acceleration. Due to the generality of our approach, the applicability will reach far beyond the two focus areas.",
+    "totalCost": "1948750",
+    "ecMaxContribution": "1948750",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 1948750
+        }
+    },
+    "calculatedTotalContribution": 1948750
+}

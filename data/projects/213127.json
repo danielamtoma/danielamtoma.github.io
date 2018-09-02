@@ -1,0 +1,73 @@
+{
+    "rcn": "213127",
+    "acronym": "ENACT",
+    "topics": "IoT-03-2017",
+    "title": "Trustworthy and Smart Actuation in IoT systems",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "To unleash the full potential of IoT, realizing the digital society and flourishing innovations in application domains such as eHealth, smart city, intelligent transport systems, and smart manufacturing, it is critical to facilitate the creation and operation of trustworthy Smart IoT Systems. Since smart IoT systems typically operate in a changing and often unpredictable environment, the ability of these systems to continuously evolve and adapt to their new environment is decisive to ensure and increase their trustworthiness, quality and user experience. The DevOps movement advocates a set of software engineering best practices and tools, to ensure Quality of Service whilst continuously evolving complex systems and foster agility, rapid innovation cycles, and ease of use . Therefore, DevOps has been widely adopted in the software industry . However, there is no complete DevOps support for trustworthy smart IoT systems today. \nThe main technical goal of ENACT is to develop novel IoT platform enablers to: \ni) Enable DevOps in the realm of trustworthy smart IoT systems, and enrich it with novel concepts for end-to-end security and privacy, resilience and robustness strengthening trustworthiness, taking into account the challenges related to ìcollaborativeî actuation and actuation conflicts. \nii) Facilitate the smooth integration of these to leverage DevOps for existing and new IoT platforms and approaches (e.g., FIWARE, SOFIA, and TelluCloud).\n\nThis will be accomplished by evolving current DevOps methods and techniques to support the agile development and operation of smart IoT systems, and provide a set of novel mechanisms to ensure quality assurance and trustworthiness, such as actuation conflict handling, continuous testing and delivery across IoT, edge and cloud spaces and end to end security and privacy management. Through this ENACT will provide a DevOps framework for smart IoT Systems",
+    "totalCost": "4928542,5",
+    "ecMaxContribution": "4928542,5",
+    "coordinator": "SINTEF AS",
+    "coordinatorCountry": "NO",
+    "participants": "EVIDIAN SA;STIFTELSEN SINTEF;FUNDACION TECNALIA RESEARCH & INNOVATION;BALTIC OPEN SOLUTIONS CENTER;TELLU IOT AS;UNIVERSITAET DUISBURG-ESSEN;INDRA SISTEMAS SA;TELLU AS;ELEKTRONIKAS UN DATORZINATNU INSTITUTS;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;CA TECHNOLOGIES DEVELOPMENT SPAIN SA;ISTITUTO PER SERVIZI DI RICOVERO E ASSISTENZA AGLI ANZIANI",
+    "participantCountries": "FR;NO;ES;LV;DE;IT",
+    "projectParticipants": {
+        "930262690": {
+            "orgId": "930262690",
+            "orgName": "ISTITUTO PER SERVIZI DI RICOVERO E ASSISTENZA AGLI ANZIANI",
+            "ecContrib": 118125
+        },
+        "990370001": {
+            "orgId": "990370001",
+            "orgName": "EVIDIAN SA",
+            "ecContrib": 469338
+        },
+        "972159221": {
+            "orgId": "972159221",
+            "orgName": "CA TECHNOLOGIES DEVELOPMENT SPAIN SA",
+            "ecContrib": 695750
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 0
+        },
+        "955534391": {
+            "orgId": "955534391",
+            "orgName": "TELLU AS",
+            "ecContrib": 0
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 397500
+        },
+        "997829883": {
+            "orgId": "997829883",
+            "orgName": "ELEKTRONIKAS UN DATORZINATNU INSTITUTS",
+            "ecContrib": 136250
+        },
+        "997636465": {
+            "orgId": "997636465",
+            "orgName": "BALTIC OPEN SOLUTIONS CENTER",
+            "ecContrib": 132080
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 366250
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 388494
+        },
+        "999843312": {
+            "orgId": "999843312",
+            "orgName": "UNIVERSITAET DUISBURG-ESSEN",
+            "ecContrib": 418750
+        }
+    },
+    "calculatedTotalContribution": 3122537
+}

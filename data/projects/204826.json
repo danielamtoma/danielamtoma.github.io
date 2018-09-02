@@ -1,0 +1,23 @@
+{
+    "rcn": "204826",
+    "acronym": "NEUROPOP",
+    "topics": "ERC-ADG-2015",
+    "title": "Large-scale analysis of neuronal population activity",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "The brain works through the activity of large, spatially distributed neuronal populations. Recent technological advances enable recordings of thousands of neurons from multiple brain structures, offering an unprecedented opportunity to understand neuronal population activity. However, mathematical and computational advances are also required to turn the resulting flood of data into concise principles summarizing brain function. Ideally, these principles would be not just be qualitative, but quantitative: simple formulae that capture the dynamics of neuronal populations, the underlying circuit mechanisms, and their behavioral impact.\n\nWe will combine large-scale neuronal recording with novel data analysis techniques to study the structure of population activity within and between areas. We will use twelve 960-site probes simultaneously to record from several regions of cortex, hippocampus, thalamus and other structures in awake mice, complemented by recordings combining single high-count probes with wide-field calcium imaging. Optogenetic stimulation of excitatory and inhibitory populations will probe the mechanistic basis of population activity, and experiments in mice performing a discrimination task will probe its effect on behavioral output. \n\nWe hypothesize that population activity can be quantitatively summarized by a two-level model: first, a low-dimensional dynamical system that captures the macroscopic activity of excitatory and inhibitory populations in each area as a function of brain state; and second, models predicting each neuronís activity from the interaction of macroscopic variables with specific signals such as sensory inputs. We will validate our models mechanistically by their ability to predict of the effect of optogenetic perturbations on neural firing and behavioral output. The resulting models will form a compact summary of the mechanisms underlying neuronal population activity across multiple brain areas, and their relation to behavior.",
+    "totalCost": "2499131",
+    "ecMaxContribution": "2499131",
+    "coordinator": "University College London",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

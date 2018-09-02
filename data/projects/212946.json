@@ -1,0 +1,68 @@
+{
+    "rcn": "212946",
+    "acronym": "DEEP-HybridDataCloud",
+    "topics": "EINFRA-21-2017",
+    "title": "Designing and Enabling E-infrastructures for intensive Processing in a Hybrid DataCloud",
+    "startDate": "01/11/2017",
+    "endDate": "30/04/2020",
+    "objective": "The key concept proposed in the DEEP Hybrid DataCloud project is the need to support intensive computing techniques that require specialized HPC hardware, like GPUs or low latency interconnects, to explore very large datasets. A Hybrid Cloud approach enables the access to such resources that are not easily reachable by the researchers at the scale needed in the current EU e-infrastructure. \n\nWe also propose to deploy under the common label of ìDEEP as a Serviceî a set of building blocks that enable the easy development of applications requiring these techniques: deep learning using neural networks, parallel post-processing of very large data, and analysis of massive online data streams. \n\nThree pilot applications exploiting very large datasets in Biology, Physics and Network Security are proposed, and further pilots for dissemination into other areas like Medicine, Earth Observation, Astrophysics, and Citizen Science will be supported in a testbed with significant HPC resources, including latest generation GPUs, to evaluate the performance and scalability of the solutions. \nA DevOps approach will be implemented to provide the chain to ensure the quality of the software and services released, that will also be offered to the developers of research applications. \n\nThe project will evolve to TRL8 existing services and technologies at TRL6\\, including relevant contributions to the EOSC by the INDIGO-DataCloud H2020 project, that the project will enrich with new functionalities already available as prototypes, notably the  support for GPUs and low latency interconnects. These services will be deployed in the project testbed, offered to the research communities linked to the project through pilot applications, and integrated under the EOSC framework, where they can be further scaled up in the future.",
+    "totalCost": "2988750",
+    "ecMaxContribution": "2988750",
+    "coordinator": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+    "coordinatorCountry": "ES",
+    "participants": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB;USTAV INFORMATIKY,  SLOVENSKA AKADEMIA VIED;HELMHOLTZ ZENTRUM MUENCHEN DEUTSCHES FORSCHUNGSZENTRUM FUER GESUNDHEIT UND UMWELT GMBH;LABORATORIO DE INSTRUMENTACAO E FISICA EXPERIMENTAL DE PARTICULAS;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;ATOS SPAIN SA;KARLSRUHER INSTITUT FUER TECHNOLOGIE;UNIVERSITAT POLITECNICA DE VALENCIA;ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "participantCountries": "CZ;SK;DE;PT;PL;ES;IT",
+    "projectParticipants": {
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 242500
+        },
+        "999661534": {
+            "orgId": "999661534",
+            "orgName": "LABORATORIO DE INSTRUMENTACAO E FISICA EXPERIMENTAL DE PARTICULAS",
+            "ecContrib": 362500
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 233750
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 531250
+        },
+        "999994729": {
+            "orgId": "999994729",
+            "orgName": "HELMHOLTZ ZENTRUM MUENCHEN DEUTSCHES FORSCHUNGSZENTRUM FUER GESUNDHEIT UND UMWELT GMBH",
+            "ecContrib": 260000
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 375000
+        },
+        "999593731": {
+            "orgId": "999593731",
+            "orgName": "USTAV INFORMATIKY,  SLOVENSKA AKADEMIA VIED",
+            "ecContrib": 271250
+        },
+        "999589463": {
+            "orgId": "999589463",
+            "orgName": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB",
+            "ecContrib": 233750
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 237500
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 241250
+        }
+    },
+    "calculatedTotalContribution": 2988750
+}

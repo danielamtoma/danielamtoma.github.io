@@ -1,0 +1,17 @@
+{
+    "rcn": "215169",
+    "acronym": "PABLO",
+    "topics": "MSCA-IF-2017",
+    "title": "Power Amplifier Design Through Behavioural Modelling",
+    "startDate": "01/02/2019",
+    "endDate": "31/01/2021",
+    "objective": "5G base-stations will make use of large antenna arrays (hundreds of elements), potentially with each radiating element fed independently, meaning 1 power amplifier (PA) per element. This situation, combined with the trend of removing the circulator from the PA output for cost and size reasons, the design of the PA needs to take into account for the interaction with the other array elements. As a consequence, the simulation in CAD using traditional transistor models with a large number of internal nodes could become inconvenient, and the use of a behavioral model for the transistor could be an interesting choice.\n\nThe project objective is to design 5G RF Doherty PAs for the 5G sub- 6 GHz band using transistor behavioral model. The Cardiff Model will be applied for the first time in a Doherty design, guiding the necessary model changes not only to adapt the model to this application, but also exploiting the advantages that the model can give. Moreover, thanks to his knowledge of Doherty, Jorge will identify a procedure to minimize the number of measurements needed to extract the model. In this way, Jorge will enhance his knowledge by working on behavioral modelling (model extraction, implementation in CAD, and modifications) and waveform measurements. CHFE will improve his range of expertise by hosting a design expert and developing the model for a timely and actual application.\n\nThis research program is framed in one of the EU2020 targets, which is the efficient use of energy, as an important issue related to the climate change and energy sustainability of the world.  The expansion and increasing pervasiveness of wireless networks has significantly increased the impact of their power consumption.  By delivering a method to design efficient 5G PAs, PABLO will contribute to green and economically viable 5G systems.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "CARDIFF UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

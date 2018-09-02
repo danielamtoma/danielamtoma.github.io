@@ -1,0 +1,98 @@
+{
+    "rcn": "197338",
+    "acronym": "SONATA",
+    "topics": "ICT-14-2014",
+    "title": "Service Programing and Orchestration for Virtualized Software Networks",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2017",
+    "objective": "Virtualisation and software networks are a major disruptive technology for communications networks, enabling services to be deployed as software functions running directly in the network on commodity hardware. However, deploying the more complex user-facing applications and services envisioned for 5G networks presents significant technological challenges for development and deployment. SONATA addresses both issues.\n\nFor service development, SONATA provides service patterns and description techniques for composed services. A customised SDK is developed to boost the efficiency of developers of network functions and composed services, by integrating catalogue access, editing, debugging, and monitoring analysis tools with service packaging for shipment to an operator.\n\nFor deployment, SONATA provides a novel service platform to manage service execution. The platform complements the SDK with functionality to validate service packages. Moreover, it improves on existing platforms by providing a flexible and extensible orchestration framework based on a plugin architecture. Thanks to SONATAís platform service developers can provide custom algorithms to steer the orchestration of their services: for continuous placement, scaling, life-cycle management and contextualization of services. These algorithms are overseen by executives in the service platform, ensuring trust and resolving any conflict between services.\n\nBy combining rapid development and deployment in an open and flexible manner, SONATA is realising an extended DevOps model for network stakeholders.\n\nSONATA validates its approach through novel use-case-driven pilot implementations and disseminates its results widely by releasing its key SDK and platform components as open source software, through scientific publications and standards contributions, which, together, will have a major impact on incumbent stakeholders including network operators and manufacturers and will open the market to third-party developers.",
+    "totalCost": "8256066,25",
+    "ecMaxContribution": "6657721,38",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "THALES COMMUNICATIONS & SECURITY SAS;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA;ALTICE LABS SA;TELEFONICA INVESTIGACION Y DESARROLLO SA;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";OPTARE SOLUTIONS SL;BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY;NEC EUROPE LTD;ALCATEL-LUCENT ISRAEL LTD;UNIVERSITY COLLEGE LONDON;FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA;UBIWHERE LDA;UNIVERSITAET PADERBORN;IMINDS",
+    "participantCountries": "FR;BE;EL;PT;ES;UK;IL;DE",
+    "projectParticipants": {
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 296538
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 593750
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 567000
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 314359
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 228886
+        },
+        "935159056": {
+            "orgId": "935159056",
+            "orgName": "ALCATEL-LUCENT ISRAEL LTD",
+            "ecContrib": 596750
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 437125
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 503000
+        },
+        "955546225": {
+            "orgId": "955546225",
+            "orgName": "OPTARE SOLUTIONS SL",
+            "ecContrib": 312812
+        },
+        "999911503": {
+            "orgId": "999911503",
+            "orgName": "ALTICE LABS SA",
+            "ecContrib": 272125
+        },
+        "991811906": {
+            "orgId": "991811906",
+            "orgName": "UBIWHERE LDA",
+            "ecContrib": 343612
+        },
+        "999908593": {
+            "orgId": "999908593",
+            "orgName": "BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+            "ecContrib": 200550
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 849375
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 596839
+        },
+        "999837492": {
+            "orgId": "999837492",
+            "orgName": "UNIVERSITAET PADERBORN",
+            "ecContrib": 545000
+        }
+    },
+    "calculatedTotalContribution": 6657721
+}

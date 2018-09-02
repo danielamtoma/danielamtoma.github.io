@@ -1,0 +1,23 @@
+{
+    "rcn": "214025",
+    "acronym": "ALBORA",
+    "topics": "SMEInst-10-2016-2017",
+    "title": "Next-generation navigation technologies for autonomous vehicles",
+    "startDate": "01/03/2018",
+    "endDate": "31/08/2018",
+    "objective": "One of the concepts that will drive the paradigm change in mobility is the Connected Autonomous Vehicle (CAV). Massive investments on the field and the latest advancements in Artificial Intelligence (AI) and sensors has moved relevant market uptakes for autonomous driving from 2035 to 2020. \nCAVs are equipped with a huge number of sensors that allow them to understand the environment and act accordingly. However, this technology is superfluous without knowing the location of the vehicle in real time. Technology used to position a mobile device on earth is known as Global Navigation Satellite System ñ GNSS (e.g. GPS or GALILEO). Despite it seems impossible, currently, there are not any GNSS solution that meet the requirements of vehicle manufacturers for autonomous driving, due to: 1) excessive cost to be implemented at scale (low margin sector) 2) unavailability to provide location updates in real time under hostile GNSS conditions (e.g. urban canyons) and 3) lack of a reliability measure to detect when a location is not accurate enough. \nAt Albora, we have built and patented the Albora Correlation Engine, which uses AI and, in particular, biologically inspired Deep Learning Networks to achieve the performance required by the sector. Moreover, our technology can be embedded on the electronics currently available on autonomous vehicles, allowing us to keep the costs extremely low (no additional HW required!)\nTo exploit our product, we plan to build SW packages of our algorithms and sell licenses through an easy to use API (SW company approach). This model is highly scalable and will allow us to tackle the huge market opportunity. In fact, SW will keep the largest market share for CAV, growing from Ä0.5 billion at 2015 to Ä25 billion in 2030. To this end, we need to assess the technical risks of migrating our code to more efficient programing languages, seek industrial partners to perform large pilots and fine-tune our business model using design thinking techniques.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ALBORA TECHNOLOGIES LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "910325407": {
+            "orgId": "910325407",
+            "orgName": "ALBORA TECHNOLOGIES LIMITED",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

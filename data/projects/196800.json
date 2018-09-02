@@ -1,0 +1,23 @@
+{
+    "rcn": "196800",
+    "acronym": "HOMOVIS",
+    "topics": "ERC-StG-2014",
+    "title": "High-level Prior Models for Computer Vision",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2020",
+    "objective": "Since more than 50 years, computer vision has been a very active research field but it is still far away from the abilities of the human visual system. This stunning performance of the human visual system can be mainly contributed to a highly efficient three-layer architecture: A low-level layer that sparsifies the visual information by detecting important image features such as image gradients, a mid-level layer that implements disocclusion and boundary completion processes and finally a high-level layer that is concerned with the recognition of objects.\nVariational methods are certainly one of the most successful methods for low-level vision. However, it is very unlikely that these methods can be further improved without the integration of high-level prior models. Therefore, we propose a unified mathematical framework that allows for a natural integration of high-level priors into low-level variational models. In particular, we propose to represent images in a higher-dimensional space which is inspired by the architecture for the visual cortex. This space performs a decomposition of the image gradients into magnitude and direction and hence performs a lifting of the 2D image to a 3D space. This has several advantages: Firstly, the higher-dimensional embedding allows to implement mid-level tasks such as boundary completion and disocclusion processes in a very natural way. Secondly, the lifted space allows for an explicit access to the orientation and the magnitude of image gradients. In turn, distributions of gradient orientations ñ known to be highly effective for object detection ñ can be utilized as high-level priors. This inverts the bottom-up nature of object detectors and hence adds an efficient top-down process to low-level variational models.\nThe developed mathematical approaches will go significantly beyond traditional variational models for computer vision and hence will define a new state-of-the-art in the field.",
+    "totalCost": "1473525",
+    "ecMaxContribution": "1473525",
+    "coordinator": "TECHNISCHE UNIVERSITAET GRAZ",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 1473525
+        }
+    },
+    "calculatedTotalContribution": 1473525
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "208495",
+    "acronym": "InstantScope",
+    "topics": "ERC-PoC-2016",
+    "title": "Development of high-resolution, high-throughput microscopy",
+    "startDate": "01/03/2017",
+    "endDate": "31/08/2018",
+    "objective": "Current 3D microscopy methods are limited in speed due to the need to scan the sample in the optical axis. Multifocus microscopy - or MFM- is a method that allows for the instant acquisition of a 3D volume without scanning, thus increasing acquisition speed by a factor of 10-100. MFM based on diffractive optics allows for easy optimization of the total volume acquired and the sampling rate. In our ERC-StG project, we developed an important expertise in the design and construction of diffractive elements key to MFM and invented a novel super-resolution imaging method based on this technology (patent pending). In this project, we propose to further improve the conception and fabrication methods of MFMís diffractive elements to considerably improve acquisition speed and resolution. In addition, we will employ these technologies in conjunction with valve-based microfluidics to develop and validate a microscopy-based high-resolution, high-throughput cell profiler (Hi2M). Hi2M will allow for the 3D acquisition of complete cell volumes in <10 ms, enabling the high-resolution, multi-color imaging of millions of cells/hour without the need for cell adhesion. Because of these important advantages over existing microscopies, we anticipate that the technologies developed in InstantScope should have a large impact in many fields of cell biology.",
+    "totalCost": "149788",
+    "ecMaxContribution": "149788",
+    "coordinator": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 149788
+        }
+    },
+    "calculatedTotalContribution": 149788
+}

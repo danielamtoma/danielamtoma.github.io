@@ -1,0 +1,53 @@
+{
+    "rcn": "211059",
+    "acronym": "DREAM",
+    "topics": "ICT-09-2017",
+    "title": "D-Band Radio solution Enabling up to 100 Gbps reconfigurable Approach for Meshed beyond 5G networks",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "Nowadays there is a shared vision among industry, operators and academy that beyond 5G wireless networks will have to provide wideband wireless access and ubiquitous computing anywhere and at any time. The human life of the majority of the EU citizen will be surrounded by intelligent wireless sensors, which will bring radical changes to the way we live and do things. Supporting this scenario is a challenge for network operators and wireless network infrastructures and it will demand a tremendous performance improvement of medium range wireless infrastructure. This challenge needs to be addressed by a convergence of advanced semiconductor nanotechnology and a robust wireless infrastructure meshed network with seamless fiber performances.\n\nThe DREAM project, through the exploitation of the radio spectrum in D-band (130-174.8 GHz) with beam steering functionality, will enable wireless links with data rate exceeding current V-band and E-band wireless backhaul solutions by at least a factor of 10 and thus, it will bring wireless systems to the speed of optical systems. The DREAM project vision and objectives rely on a power efficient and silicon based BiCMOS transceiver analog front end, operating in D-band and enabling cost efficient deployment of meshed networks with seamless fiber performance. A beam steering integrated antenna array using an intelligent low-cost packaging technology prototype will be developed for the implementation of the beyond 5G network proof of concept in a realistic environment.\n\nThe DREAM consortium has a well-balanced and complementary known-how in the relevant areas for designing and demonstrating the feasibility of a small cell cellular network architecture based on meshed D-band backhaul links. DREAM will therefore secure Europeís industrial leadership and pave the way towards the beyond 5G telecommunications networks.",
+    "totalCost": "2808571,25",
+    "ecMaxContribution": "2808571,25",
+    "coordinator": "Teknologian tutkimuskeskus VTT Oy",
+    "coordinatorCountry": "FI",
+    "participants": "ALCATEL-LUCENT ITALIA S.P.A.;Erzia Technologies SL;UNIVERSITA DEGLI STUDI DI PAVIA;III-V LAB;STMICROELECTRONICS SRL;ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+    "participantCountries": "IT;ES;FR",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 765632
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 300000
+        },
+        "999893752": {
+            "orgId": "999893752",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PAVIA",
+            "ecContrib": 299750
+        },
+        "999967569": {
+            "orgId": "999967569",
+            "orgName": "ALCATEL-LUCENT ITALIA S.P.A.",
+            "ecContrib": 324625
+        },
+        "999605662": {
+            "orgId": "999605662",
+            "orgName": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+            "ecContrib": 343521
+        },
+        "999971546": {
+            "orgId": "999971546",
+            "orgName": "III-V LAB",
+            "ecContrib": 421292
+        },
+        "996367996": {
+            "orgId": "996367996",
+            "orgName": "Erzia Technologies SL",
+            "ecContrib": 353750
+        }
+    },
+    "calculatedTotalContribution": 2808570
+}

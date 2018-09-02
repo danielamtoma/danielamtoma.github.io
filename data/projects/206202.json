@@ -1,0 +1,88 @@
+{
+    "rcn": "206202",
+    "acronym": "MH-MD",
+    "topics": "ICT-18-2016",
+    "title": "My Health - My Data",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "Issues of data subjectsí privacy and data security represent a crucial challenge in the biomedical sector more than in other industries. The current IT landscape in this field shows a myriad of isolated, locally hosted patient data repositories, managed by clinical centres and other organisations, which are subject to frequent and massive data breaches. Patients are disenfranchised in this process, and are not able to have a clear understanding of who uses their personal information and for what purposes. This makes it the ideal field to build and test new models of privacy and data protection, and the technologies that encode them. MyHealthMyData (MHMD) aims at changing the existing scenario by introducing a distributed, peer-to-peer architecture, based on Blockchain and Personal Data Accounts. This approach will determine new mechanisms of trust and of direct, value-based relationships between people, hospitals, research centres and businesses, in what will be the first open biomedical information network centred on the connection between organisations and the individual. The system will develop a comprehensive methodology to guide the implementation of data and identity protection systems, specifically defining approaches and tools to profile and classify sensitive data based on their informational and economic value, to assess the most suitable and robust de-identification and encryption technologies needed to secure different types of information, to allow advanced analytics, and to evaluate the overall reliability of a generic multi modular architecture. MHMD will also analyse usersí behavioural patterns alongside ethical and cultural orientations, to identify hidden dynamics in the interactions between humans and complex information services, to improve the design of data-driven platforms and to foster the development of a true information marketplace, in which individuals will be able to exercise full control on their personal data and leverage their value.",
+    "totalCost": "3944940",
+    "ecMaxContribution": "3456188,5",
+    "coordinator": "LYNKEUS",
+    "coordinatorCountry": "IT",
+    "participants": "MAAT France;ATHINA-EREVNITIKO KENTRO KAINOTOMIAS STIS TECHNOLOGIES TIS PLIROFORIAS, TON EPIKOINONION KAI TIS GNOSIS;NEGRI-CLEMENTI, TOFFOLETTO, MONTIRONI & SOCI;DIGI.ME LIMITED;CONSIGLIO NAZIONALE DELLE RICERCHE;DEUTSCHES HERZZENTRUM BERLIN;SIEMENS HEALTHCARE GMBH;HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE;UNIVERSITY COLLEGE LONDON;QUEEN MARY UNIVERSITY OF LONDON;UNIVERSITATEA TRANSILVANIA DIN BRASOV;SBA RESEARCH GEMEINNUTZIGE GMBH;OSPEDALE PEDIATRICO BAMBINO GESU;H W COMMUNICATIONS LIMITED",
+    "participantCountries": "FR;EL;IT;UK;DE;CH;RO;AT",
+    "projectParticipants": {
+        "927325239": {
+            "orgId": "927325239",
+            "orgName": "SIEMENS HEALTHCARE GMBH",
+            "ecContrib": 325937
+        },
+        "999479659": {
+            "orgId": "999479659",
+            "orgName": "HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE",
+            "ecContrib": 0
+        },
+        "999904131": {
+            "orgId": "999904131",
+            "orgName": "UNIVERSITATEA TRANSILVANIA DIN BRASOV",
+            "ecContrib": 147750
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 212250
+        },
+        "996421734": {
+            "orgId": "996421734",
+            "orgName": "LYNKEUS",
+            "ecContrib": 495000
+        },
+        "998837810": {
+            "orgId": "998837810",
+            "orgName": "OSPEDALE PEDIATRICO BAMBINO GESU",
+            "ecContrib": 116250
+        },
+        "952628368": {
+            "orgId": "952628368",
+            "orgName": "SBA RESEARCH GEMEINNUTZIGE GMBH",
+            "ecContrib": 244502
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 107000
+        },
+        "998399661": {
+            "orgId": "998399661",
+            "orgName": "MAAT France",
+            "ecContrib": 413750
+        },
+        "919542153": {
+            "orgId": "919542153",
+            "orgName": "DIGI.ME LIMITED",
+            "ecContrib": 197812
+        },
+        "998305765": {
+            "orgId": "998305765",
+            "orgName": "H W COMMUNICATIONS LIMITED",
+            "ecContrib": 356750
+        },
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 107812
+        },
+        "995002042": {
+            "orgId": "995002042",
+            "orgName": "DEUTSCHES HERZZENTRUM BERLIN",
+            "ecContrib": 108500
+        },
+        "919377738": {
+            "orgId": "919377738",
+            "orgName": "NEGRI-CLEMENTI, TOFFOLETTO, MONTIRONI & SOCI",
+            "ecContrib": 203500
+        }
+    },
+    "calculatedTotalContribution": 3036813
+}

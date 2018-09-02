@@ -1,0 +1,17 @@
+{
+    "rcn": "214946",
+    "acronym": "CARENET",
+    "topics": "ERC-2017-ADG",
+    "title": "Content-Aware Wireless Networks: Fundamental Limits, Algorithms, and Architectures",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2023",
+    "objective": "Wireless communication networks are the essential connectivity tissue of the modern digital age. Wireless data traffic is predicted to increase by almost three orders of magnitude in the next five years. It is unlikely that such increase can be tackled by an incremental ìmore-of-the-sameî approach. This proposal stems from the observation that the killer application for wireless networks is on-demand access to Internet content. CARENET advocates a novel content-aware approach to wireless networks design that can provably solve the scalability problem of current systems, thus supporting the paradigmatic shift ìfrom Gigabits per second for a few to Terabytes per month for allî.  CARENETís vision is to serve an arbitrarily large number of users with bounded transmission resources (bandwidth, number of transmit antennas, and power). The fundamental question is: how can such a per-user throughput scalability be achieved in the presence of on-demand requests, for which users do not access simultaneously the same content? CARENET builds on a novel information theoretic formulation of content-aware networks and on several recent results in information theory, network coding, channel coding, and protocol design, stimulated by the PIís recent work. Key elements of the proposed content-aware architectures are new caching strategies, where content is stored across the wireless network nodes. These strategies are supported by the ever-growing on-board memory of wireless devices and by the new features of the forthcoming 5G-like technology. Our thesis is that scalability is possible through the novel content-aware design, while it is information-theoretically impossible otherwise. Our overarching goal envisions the delivery of one Terabyte per month to each user at an affordable cost and good Quality of Experience, rather than the traditional Gigabit per second peak rates targeted by conventional technology development.",
+    "totalCost": "2497500",
+    "ecMaxContribution": "2497500",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,118 @@
+{
+    "rcn": "211088",
+    "acronym": "NRG-5",
+    "topics": "ICT-07-2017",
+    "title": "Enabling Smart Energy as a Service via 5G Mobile Network advances (NRG-5)",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2019",
+    "objective": "Despite a number of software frameworks and reference architectures have made available for 5G enabling technologies, there is a clear gap to bridge towards 5G seamless application with a number of ìverticalî sectors. Energy vertical represents undoubtedly one of the most significant ìtest casesî for 5G enabling technologies, due to the need of addressing a huge range of very diverse requirements to deal with across a variety of applications (stringent capacity for smart metering/AMI versus latency for supervisory control and fault localization).However, to effectively support energy utilities along their transition towards more decentralized renewable-oriented systems,  several open issues still remain as to 5G networks management automation, security, resilience, scalability and portability.  To face these issues, NRG-5 will research and develop a novel  5G PPP-compliant software framework specifically tailored to the energy domain, which combines i) trusted, scalable and lock-in free plug ëní play support for a  variety  of  constrained devices;  ii) 5G devicesí abstractions to demonstrate mMTC, uMTC and xMBB communications coupled with partially distributed, trusted, end-to-end security and MCM to enable secure, scalable and energy efficient communications; iii) extended Mobile Edge Computing (xMEC) micro-clouds to reduce backhaul load, increase the overall network capacity and reduce delays, while facilitating the deployment of generic MTC-related NFVs and utility-centric VNFs; iv) an extended 5G ETSI-MANO predictive analytics framework to support automated, dynamic, elastic VNF reconfiguration.  Extensive lab based validation will be complemented with real life demonstrations in two pilot sites (Italy, France) where proof-of-concept implementations for 5G-enabled electricity and gas distribution network optimized management will be offered, while offering support to 5G PPP phase III projects via demonstrating high replication potential towards other verticals.",
+    "totalCost": "6941275",
+    "ecMaxContribution": "6833775",
+    "coordinator": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;OPTIMUM ANONIMI ETAIRIA TECHNOLOGIES PLIROFORIKIS;INSTITUT JOZEF STEFAN;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;THALES COMMUNICATIONS & SECURITY SAS;INEO ENERGY AND SYSTEMS;WIND TRE SPA;CENTRUL ROMAN AL ENERGIEI - CRE;TECHNOLOGIKO EKPEDEFTIKO IDRIMA STEREAS ELLADAS;HISPASAT SA;SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS;POWER OPERATIONS LIMITED;BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY;SOCIETATEA NATIONALA DE GAZE NATURALE ROMGAZ SA;VISIONA INGENIERIA DE PROYECTOS SL;EMOTION SRL;RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY;SORBONNE UNIVERSITE;ASM TERNI SPA",
+    "participantCountries": "FR;EL;SI;DE;IT;RO;ES;UK;US",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "924736309": {
+            "orgId": "924736309",
+            "orgName": "POWER OPERATIONS LIMITED",
+            "ecContrib": 294000
+        },
+        "940893308": {
+            "orgId": "940893308",
+            "orgName": "CENTRUL ROMAN AL ENERGIEI - CRE",
+            "ecContrib": 243500
+        },
+        "950096959": {
+            "orgId": "950096959",
+            "orgName": "TECHNOLOGIKO EKPEDEFTIKO IDRIMA STEREAS ELLADAS",
+            "ecContrib": 240125
+        },
+        "952604700": {
+            "orgId": "952604700",
+            "orgName": "ASM TERNI SPA",
+            "ecContrib": 285575
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 602200
+        },
+        "922460204": {
+            "orgId": "922460204",
+            "orgName": "OPTIMUM ANONIMI ETAIRIA TECHNOLOGIES PLIROFORIKIS",
+            "ecContrib": 390125
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 367000
+        },
+        "919813947": {
+            "orgId": "919813947",
+            "orgName": "EMOTION SRL",
+            "ecContrib": 297500
+        },
+        "999882403": {
+            "orgId": "999882403",
+            "orgName": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
+            "ecContrib": 0
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 279500
+        },
+        "952089921": {
+            "orgId": "952089921",
+            "orgName": "INEO ENERGY AND SYSTEMS",
+            "ecContrib": 504500
+        },
+        "983282308": {
+            "orgId": "983282308",
+            "orgName": "SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS",
+            "ecContrib": 499250
+        },
+        "916619640": {
+            "orgId": "916619640",
+            "orgName": "SOCIETATEA NATIONALA DE GAZE NATURALE ROMGAZ SA",
+            "ecContrib": 135250
+        },
+        "952108351": {
+            "orgId": "952108351",
+            "orgName": "WIND TRE SPA",
+            "ecContrib": 235000
+        },
+        "999784530": {
+            "orgId": "999784530",
+            "orgName": "HISPASAT SA",
+            "ecContrib": 203500
+        },
+        "949743588": {
+            "orgId": "949743588",
+            "orgName": "VISIONA INGENIERIA DE PROYECTOS SL",
+            "ecContrib": 275000
+        },
+        "999908593": {
+            "orgId": "999908593",
+            "orgName": "BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+            "ecContrib": 578750
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 261750
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 1141250
+        }
+    },
+    "calculatedTotalContribution": 6833775
+}

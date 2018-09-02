@@ -1,0 +1,68 @@
+{
+    "rcn": "198312",
+    "acronym": "West-Life",
+    "topics": "EINFRA-9-2015",
+    "title": "World-wide E-infrastructure for structural biology",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2018",
+    "objective": "The focus of structural biology is shifting from single macromolecules produced by simpler prokaryotic organisms, to the macromolecular machinery of higher organisms, including systems of central relevance for human health. Structural biologists are expert in one or more techniques. They now often need to use complementary techniques in which they are less expert. Instruct supports them in using multiple experimental techniques, and visiting multiple experimental facilities, within a single project.\nThe Protein Data Bank is a public repository for the final structure. Journals require deposition as a precondition of publication. However, metadata is often incomplete.\nThis project will pilot an infrastructure for storing and processing data that supports the growing use of combined techniques. There are some technique-specific pipelines for data analysis and structure determination. Little is available in terms of automated pipelines to handle integrated datasets. Integrated management of structural biology data from different techniques is lacking altogether.\nThe proposed activity will integrate the data management facilities that already exist, and enable the provision of new ones. The resulting integration will provide users with an overview of the experiments performed at the different research infrastructures visited, and links to the different data stores. It will extend existing facilities for processing this data. As processing is performed, it will automatically capture metadata reflecting the history of the project. The effort will use existing metadata standards, and integrate with them new domain-specific metadata terms.\nThis proposal will develop application level service specific to uses cases in structural biology, enabling structural biologists to get the benefit of the generic services developed by EUDAT and the EGI.",
+    "totalCost": "3981125",
+    "ecMaxContribution": "3981125",
+    "coordinator": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+    "coordinatorCountry": "UK",
+    "participants": "Masarykova univerzita;EUROPEAN MOLECULAR BIOLOGY LABORATORY;LUNA SAS;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;CONSORZIO INTERUNIVERSITARIO RISONANZE MAGNETICHE DI METALLO PROTEINE;STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS;UNIVERSITEIT UTRECHT;INSTRUCT ACADEMIC SERVICES LIMITED;ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "participantCountries": "CZ;DE;FR;ES;IT;NL;UK",
+    "projectParticipants": {
+        "999985805": {
+            "orgId": "999985805",
+            "orgName": "UNIVERSITEIT UTRECHT",
+            "ecContrib": 392250
+        },
+        "999984738": {
+            "orgId": "999984738",
+            "orgName": "STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS",
+            "ecContrib": 194625
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 402500
+        },
+        "942974540": {
+            "orgId": "942974540",
+            "orgName": "LUNA SAS",
+            "ecContrib": 258000
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 641750
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 344000
+        },
+        "952324661": {
+            "orgId": "952324661",
+            "orgName": "INSTRUCT ACADEMIC SERVICES LIMITED",
+            "ecContrib": 152750
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 0
+        },
+        "999516810": {
+            "orgId": "999516810",
+            "orgName": "CONSORZIO INTERUNIVERSITARIO RISONANZE MAGNETICHE DI METALLO PROTEINE",
+            "ecContrib": 421250
+        },
+        "999880657": {
+            "orgId": "999880657",
+            "orgName": "Masarykova univerzita",
+            "ecContrib": 393250
+        }
+    },
+    "calculatedTotalContribution": 3200375
+}

@@ -1,0 +1,183 @@
+{
+    "rcn": "211582",
+    "acronym": "CloudiFacturing",
+    "topics": "FOF-12-2017",
+    "title": "Cloudification of Production Engineering for Predictive Digital Manufacturing",
+    "startDate": "01/10/2017",
+    "endDate": "31/03/2021",
+    "objective": "Information and Communication Technology (ICT) is essential for the digitalization of the manufacturing sector; notwithstanding, less than 25% of the manufacturing companies in Europe profit from ICT-enabled solutions. In order to democratically boost the competitiveness of the European manufacturers (especially Small and Medium-sized Enterprises - SMEs), innovative solutions need to consider technological and commercial scalability from the beginning. From this perspective, the cloudification of services has become the ideal enabler in the manufacturing digitalization. Successful European initiatives such us CloudFlow, cloudSME or Fortissimo have demonstrated the benefits of cloudification for engineering services, by means of combining HPC resources, computational tools, and cloud computing platforms. Manufacturing SMEs are empowered to compute and solve problems that cannot be tackled without cloud and HPC technology, making them more competitive by reducing development times for innovative product with better performance. The results of these initiatives are fostering the engineering and to some extend the prototyping processes within the manufacturing workflow; however, monitoring and optimizing production processes have not yet greatly benefited from an integrated information workflow and simulation loop based on on-line factory data. \nThe core partners of CloudFlow (eu-cloudflow.eu) and cloudSME (cloudsme.eu) are joining forces to leverage factory data with cloud-based engineering tools: \na) paving the way toward manufacturing analytics, \nb) enriching the manufacturing engineering process with on-line data, and \nc) simulating and optimizing the production process with the vision to support it in real-time. \nThe consolidated platform between CloudFlow and cloudSME with extended capabilities to process factory data is going to be accessed through a central interface, enabling the stakeholders to interact, and collaborate.",
+    "totalCost": "9712983",
+    "ecMaxContribution": "8712521,27",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "VYSOKA SKOLA BANSKA - TECHNICKA UNIVERZITA OSTRAVA;BAKONY ELEKTRONIKA VILLAMOSIPARI GYARTO, SZOLGALTATO KORLATOLT FELELOSSEGU TARSASAG;HANNING ELEKTRO-WERKE GMBH & CO.KG;CATMARINE SRL;CLOUDSIGMA AG;COOPERLAT SOCIETA COOPERATIVA AGRICOLA;SKA POLSKA SP (ZOO);STIFTELSEN SINTEF;INNOMINE GROUP KFT;CENTRO DI RICERCHE EUROPEO DI TECNOLOGIE DESIGN E MATERIALI;THE UNIVERSITY OF WESTMINSTER LBG;CLOUDSME UG;NABLADOT SL;ZANNINI-SPA;ENDEF ENGINEERING SL;LINZ CENTER OF MECHATRONICS GMBH;HYDAL ALUMINIUM PROFILER AS;DSS CONSULTING INFORMATIKAI ES TANACSADO KFT;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;CLESGO GMBH;FERRAM STROJIRNA SRO;MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET;THE UNIVERSITY OF NOTTINGHAM;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;MACHINEERING GMBH & CO KG;LUNDS UNIVERSITET;SCUOLA UNIVERSITARIA PROFESSIONALEDELLA SVIZZERA ITALIANA;INSOMNIA CONSULTING SOCIEDAD LIMITADA;SCALETOOLS AG;STAM SRL;PRIVREDNO DRUSTVO ZA PRUZANJE USLUGA ISTRAZIVANJE I RAZVOJ NISSATECH INNOVATION CENTRE DOO;CLOUDBROKER GMBH",
+    "participantCountries": "CZ;HU;DE;IT;CH;PL;NO;UK;ES;AT;SE;RS",
+    "projectParticipants": {
+        "941410124": {
+            "orgId": "941410124",
+            "orgName": "INSOMNIA CONSULTING SOCIEDAD LIMITADA",
+            "ecContrib": 162312
+        },
+        "915469705": {
+            "orgId": "915469705",
+            "orgName": "HYDAL ALUMINIUM PROFILER AS",
+            "ecContrib": 51319
+        },
+        "969094409": {
+            "orgId": "969094409",
+            "orgName": "DSS CONSULTING INFORMATIKAI ES TANACSADO KFT",
+            "ecContrib": 50203
+        },
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 380792
+        },
+        "949739514": {
+            "orgId": "949739514",
+            "orgName": "INNOMINE GROUP KFT",
+            "ecContrib": 112875
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 550000
+        },
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 199615
+        },
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 336115
+        },
+        "933485224": {
+            "orgId": "933485224",
+            "orgName": "ZANNINI-SPA",
+            "ecContrib": 40688
+        },
+        "917772194": {
+            "orgId": "917772194",
+            "orgName": "CATMARINE SRL",
+            "ecContrib": 36750
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 242985
+        },
+        "999500223": {
+            "orgId": "999500223",
+            "orgName": "CENTRO DI RICERCHE EUROPEO DI TECNOLOGIE DESIGN E MATERIALI",
+            "ecContrib": 47500
+        },
+        "999858250": {
+            "orgId": "999858250",
+            "orgName": "THE UNIVERSITY OF WESTMINSTER LBG",
+            "ecContrib": 745000
+        },
+        "916965542": {
+            "orgId": "916965542",
+            "orgName": "STAM SRL",
+            "ecContrib": 176750
+        },
+        "969018264": {
+            "orgId": "969018264",
+            "orgName": "CLOUDSIGMA AG",
+            "ecContrib": 123725
+        },
+        "915061432": {
+            "orgId": "915061432",
+            "orgName": "BAKONY ELEKTRONIKA VILLAMOSIPARI GYARTO, SZOLGALTATO KORLATOLT FELELOSSEGU TARSASAG",
+            "ecContrib": 35923
+        },
+        "949722927": {
+            "orgId": "949722927",
+            "orgName": "ENDEF ENGINEERING SL",
+            "ecContrib": 35197
+        },
+        "919697838": {
+            "orgId": "919697838",
+            "orgName": "CLOUDSME UG",
+            "ecContrib": 272912
+        },
+        "996537940": {
+            "orgId": "996537940",
+            "orgName": "LINZ CENTER OF MECHATRONICS GMBH",
+            "ecContrib": 57815
+        },
+        "915449820": {
+            "orgId": "915449820",
+            "orgName": "MACHINEERING GMBH & CO KG",
+            "ecContrib": 59872
+        },
+        "965052225": {
+            "orgId": "965052225",
+            "orgName": "PRIVREDNO DRUSTVO ZA PRUZANJE USLUGA ISTRAZIVANJE I RAZVOJ NISSATECH INNOVATION CENTRE DOO",
+            "ecContrib": 59062
+        },
+        "915434688": {
+            "orgId": "915434688",
+            "orgName": "COOPERLAT SOCIETA COOPERATIVA AGRICOLA",
+            "ecContrib": 32602
+        },
+        "999868144": {
+            "orgId": "999868144",
+            "orgName": "VYSOKA SKOLA BANSKA - TECHNICKA UNIVERZITA OSTRAVA",
+            "ecContrib": 255000
+        },
+        "915475331": {
+            "orgId": "915475331",
+            "orgName": "FERRAM STROJIRNA SRO",
+            "ecContrib": 48757
+        },
+        "999587620": {
+            "orgId": "999587620",
+            "orgName": "SCUOLA UNIVERSITARIA PROFESSIONALEDELLA SVIZZERA ITALIANA",
+            "ecContrib": 326050
+        },
+        "999651252": {
+            "orgId": "999651252",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET",
+            "ecContrib": 441000
+        },
+        "938098738": {
+            "orgId": "938098738",
+            "orgName": "NABLADOT SL",
+            "ecContrib": 57925
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 2796238
+        },
+        "972604354": {
+            "orgId": "972604354",
+            "orgName": "CLOUDBROKER GMBH",
+            "ecContrib": 231175
+        },
+        "998941503": {
+            "orgId": "998941503",
+            "orgName": "SKA POLSKA SP (ZOO)",
+            "ecContrib": 49000
+        },
+        "918066686": {
+            "orgId": "918066686",
+            "orgName": "CLESGO GMBH",
+            "ecContrib": 413000
+        },
+        "932456733": {
+            "orgId": "932456733",
+            "orgName": "HANNING ELEKTRO-WERKE GMBH & CO.KG",
+            "ecContrib": 53188
+        },
+        "972494356": {
+            "orgId": "972494356",
+            "orgName": "SCALETOOLS AG",
+            "ecContrib": 231175
+        }
+    },
+    "calculatedTotalContribution": 8712520
+}

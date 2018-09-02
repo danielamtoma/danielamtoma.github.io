@@ -1,0 +1,23 @@
+{
+    "rcn": "196357",
+    "acronym": "CARPE",
+    "topics": "ERC-PoC-2014",
+    "title": "Compliant Actuation Robotic Platform for Flexible Endoscopy",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2016",
+    "objective": "Prof Alfred Cuschieri, the overall coordinator of ERC grant Colonic Disease Investigation by Robotic Hydro-colonoscopy (CODIR - grant agreement 268519) has recently submitted the mid-term scientific report on behalf of the two participating Universities (Dundee and Leeds), which highlights several novel IPR (intellectual property rights) issues resulting from the CODIR research, which are pertinent to robotic flexible endoscopy. One of these is based on the ëactive tether robotí (ATR) idea for the provision of snake like locomotion; i.e., instead of the locomotive power for the active colonoscope being supplied to the back of the robot via a power cable, the design is turned on its head, and replaced by a motile segmented ëactive tetherí, which is itself an endoscope, and which can operate in both a gas and aqueous environment. The platform is based on a Mini Compliant Joint (MCJ), with two degree of freedoms (DoFs) using Shape Memory Alloy (SMA) wires as actuators and torsional springs, a synergistic combination which increases the energy efficiency and mechanical bandwidth performance; and at the same time, reduces heat production and stress on the SMA wires. The MJCs actuates by current-induced contraction of SMA wires, two hollow articulating rings with 2 DoFs. As the rings have intersecting axes, the two torsional springs provide roll and pitch. Such a chain of active MCJs provides sinusoidal motor-less locomotion. In essence, CARPE is a generic modular system (capable of translation into any type of flexible endoscope in current clinical use) consisting of independent segments (much like a biomimetic vertebral column), mechanics and electronics. The big advance of CARPE, when used to construct a colonoscope over the current equivalent endoscope, is that once, the end of the CARPE colonoscope is inserted through the anus, it would travel by its intrinsic snake-like locomotion to the caecum.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSITY OF DUNDEE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975523": {
+            "orgId": "999975523",
+            "orgName": "UNIVERSITY OF DUNDEE",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "195049",
+    "acronym": "DaRe",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Data Reliability in Networks and Storage Memories",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2017",
+    "objective": "Data networks and storage media play a key role in our modern every-day life. However, these systems are highly susceptible to errors which make successful reception/retrieval of the transmitted/stored data impossible. In data networks, errors occur due to interference with other users, due to multipath propagation of the signal, or due to component noise of the receiver. Data storage media like flash memories suffer from manufacturing imperfections, wearout, and fluctuating read/write errors. In order to transmit and store data reliably, high-performance error-correcting codes and efficient decoding algorithms are hence a necessary means.\nThe objective of this project is to provide novel and superior approaches for reliability in data networks and storage media. By means of error-correcting codes and information-theoretic analyses, we will make data transmission and storage more reliable against errors of different types. The first part of this project deals with the construction of better and more efficient coding schemes for networks. In particular, we want to construct subspace codes with high cardinality and low decoding complexity, and improve the reliability of multi-source networks. The second part of this project analyses the physical error model of non-volatile storage memories like flash memories with the objective of developing coding strategies which correct these errors and mask defect cells of the memory.\nThis project will take place at the Technion, in collaboration with Prof. Tuvi Etzion and Prof. Eitan Yaakobi. My experience in coding theory combined with the expertise of my supervisors in network coding/coding for memories is an ideal combination to achieve new excellent research results. The innovative nature of the project will boost my career possibilities and its inter-sectoral orientation will provide new opportunities for Europeís high-tech industry.",
+    "totalCost": "182509,2",
+    "ecMaxContribution": "182509,2",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 182509
+        }
+    },
+    "calculatedTotalContribution": 182509
+}

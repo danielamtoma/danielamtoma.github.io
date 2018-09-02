@@ -1,0 +1,23 @@
+{
+    "rcn": "210025",
+    "acronym": "EPICODE",
+    "topics": "ERC-2016-COG",
+    "title": "Programmable Readers, Writers, and Erasers of the Epigenetic Cytosine Code",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2022",
+    "objective": "Human DNA contains two types of biologically instructive information: the canonical nucleobases A, G, T, C, and the epigenetic nucleobases mC, hmC, fC, and caC. Canonical nucleobases encode the identity of all RNAs and proteins that are synthesized by a cell, whereas epigenetic nucleobases regulate this synthesis. This regulation shapes the phenotype of cells, and its perturbation is a key trigger of cancer.\nCanonical nucleobases can be decoded in a programmable manner by nucleic acids and their analogs via Watson-Crick-base pairing, and the simplicity of this recognition has enabled revolutionary developments in the biological sciences. In contrast, comparable developments in epigenetics have not yet been possible, since a molecular scaffold with  programmable recognition of epigenetic nucleobases does not exist. \nWe will establish the first class of molecules capable of the expanded programmable recognition of both canonical and epigenetic DNA nucleobases in vitro and in vivo. This is based on transcription-activator-like effectors (TALEs) that consist of four types of concatenated modules, each of which recognizes a canonical nucleobase. We have recently reported the detection of single epigenetic nucleobases by TALEs. \nIn this project, we will \n1. engineer a toolbox of TALE modules with selectivity for C, mC, hmC, fC, and caC,\n2. employ them for TALE-based in vitro typing and profiling (reading) of cancer biomarker mC/hmC, and \n3. design photoactivatable TALE-fusions that enable the writing and erasing of mC at user-defined genomic loci in vivo with spatiotemporal resolution. This will provide the first insights into the dynamic effects of de novo editing on chromatin regulation, and enables the imprinting of regulatory states.\nGiven the central role of epigenetic nucleobases in cancer and the universality of our approach, this project will provide enabling and broadly applicable methodology for cancer epigenetics research, diagnosis and therapy.",
+    "totalCost": "1979679",
+    "ecMaxContribution": "1979679",
+    "coordinator": "TECHNISCHE UNIVERSITAT DORTMUND",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999848453": {
+            "orgId": "999848453",
+            "orgName": "TECHNISCHE UNIVERSITAT DORTMUND",
+            "ecContrib": 1979679
+        }
+    },
+    "calculatedTotalContribution": 1979679
+}

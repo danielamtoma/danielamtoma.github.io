@@ -1,0 +1,43 @@
+{
+    "rcn": "199138",
+    "acronym": "UP-Drive",
+    "topics": "ICT-24-2015",
+    "title": "Automated Urban Parking and Driving",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "Automation of individual transport systems is considered an up-and-coming prospect with the potential of greatly mitigating many of the challenges associated with intensified urbanization, while at the same time offering additional benefits for the citizens and drastically increasing overall street safety. However, due to the lack of maturity of involved key technologies and persisting legal limitations, full automation of on-road driving remains a longer-term vision, particularly in urban environments.\n\nThe goal and ambition of UP-Drive is to address these technological challenges through the development of an automated valet parking service for city environments, aimed at relieving a car driver from the burden of finding a parking space in city centers. Instead, the fully automated car navigates on its own through urban neighborhoods, finds a parking space and returns on-demand.\n\nCreating such a system requires mastering all key technologies essential to automated urban driving beyond the current state-of-the-art: complete round-view perception of the vehicle environment, robust lifelong localization and mapping, sophisticated understanding of complex scenes as well as aggregation and integration of long-term semantic data over a cloud-based infrastructure. With this, we ensure that the research and development carried out in this project will directly be applicable to other urban driving use-cases such as driver assistance and safety systems on the one hand, and on the other hand to the transportation for elderly and citizens with handicaps, last-mile delivery of goods - and ultimately fully automated urban driving in general.\n\nThe consortium will continuously integrate the research and development from all partners into a fully functional vehicle platform and will showcase the end-product in its full extent to the general public.",
+    "totalCost": "7604893,75",
+    "ecMaxContribution": "4671896,25",
+    "coordinator": "VOLKSWAGEN AG",
+    "coordinatorCountry": "DE",
+    "participants": "IBM RESEARCH GMBH;UNIVERSITATEA TEHNICA CLUJ-NAPOCA;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;CESKE VYSOKE UCENI TECHNICKE V PRAZE",
+    "participantCountries": "CH;RO;CZ",
+    "projectParticipants": {
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999848744": {
+            "orgId": "999848744",
+            "orgName": "CESKE VYSOKE UCENI TECHNICKE V PRAZE",
+            "ecContrib": 753700
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "999939924": {
+            "orgId": "999939924",
+            "orgName": "VOLKSWAGEN AG",
+            "ecContrib": 3020488
+        },
+        "999897244": {
+            "orgId": "999897244",
+            "orgName": "UNIVERSITATEA TEHNICA CLUJ-NAPOCA",
+            "ecContrib": 897709
+        }
+    },
+    "calculatedTotalContribution": 4671897
+}

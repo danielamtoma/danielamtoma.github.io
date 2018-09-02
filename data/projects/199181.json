@@ -1,0 +1,68 @@
+{
+    "rcn": "199181",
+    "acronym": "VaVeL",
+    "topics": "ICT-16-2015",
+    "title": "Variety, Veracity, VaLue: Handling the Multiplicity of Urban Sensors",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "Urban environments are awash with data from fixed and mobile sensors and monitoring infrastructures from public, private, or industry sources. Making such data useful would enable developing novel big data applications to benefit the citizens of Europe in areas such as transportation, infrastructures, and crime prevention.  Urban data is heterogeneous, noisy, and unlabeled, which severely reduces its usability. Succinctly stated, urban data are difficult to understand. The goal of the VaVel project is to radically advance our ability to use urban data in applications that can identify and address citizen needs and improve urban life.  Our motivation comes from problems in urban transportation. This  project will develop a general purpose framework for managing and mining multiple heterogeneous urban data streams for cities become  more efficient, productive and resilient. The framework will be able to solve major issues that arise with urban transportation related data and are currently not dealt by existing stream management technologies. The project brings together two European cities that provide diverse large scale data of cross-country origin and real application needs, three major European companies in this space, and a strong group of researchers that have uniquely strong expertise in analyzing real-life urban data. VaVel aims at making fundamental advances in addressing the most critical inefficiencies of current (big) data management and stream frameworks to cope with emerging urban sensor data thus making European urban data more accessible and easy to use and enhancing European industries that use big data management and analytics. The consortium develops end-user driven concrete scenaria that are addressing real, important problems with the potential of enormous impact, and a large spectrum of technology requirements, thus enabling the realization of the fundamental capabilities required and the realistic evaluation of the success of our methods.",
+    "totalCost": "3999668,75",
+    "ecMaxContribution": "3999668,75",
+    "coordinator": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+    "coordinatorCountry": "EL",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ORANGE POLSKA SPOLKA AKCYJNA;IBM IRELAND LIMITED;MIASTO STOLECZNE WARSZAWA;TECHNISCHE UNIVERSITAT DORTMUND;POLITECHNIKA WARSZAWSKA;DUBLIN CITY COUNCIL;AGT GROUP (R&D) GMBH;TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "participantCountries": "DE;PL;IE;IL",
+    "projectParticipants": {
+        "994575630": {
+            "orgId": "994575630",
+            "orgName": "MIASTO STOLECZNE WARSZAWA",
+            "ecContrib": 248750
+        },
+        "954597856": {
+            "orgId": "954597856",
+            "orgName": "AGT GROUP (R&D) GMBH",
+            "ecContrib": 451250
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 541250
+        },
+        "992549979": {
+            "orgId": "992549979",
+            "orgName": "DUBLIN CITY COUNCIL",
+            "ecContrib": 212500
+        },
+        "999848453": {
+            "orgId": "999848453",
+            "orgName": "TECHNISCHE UNIVERSITAT DORTMUND",
+            "ecContrib": 446250
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 440069
+        },
+        "999884052": {
+            "orgId": "999884052",
+            "orgName": "POLITECHNIKA WARSZAWSKA",
+            "ecContrib": 356250
+        },
+        "999951079": {
+            "orgId": "999951079",
+            "orgName": "ORANGE POLSKA SPOLKA AKCYJNA",
+            "ecContrib": 367500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 434600
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 501250
+        }
+    },
+    "calculatedTotalContribution": 3999669
+}

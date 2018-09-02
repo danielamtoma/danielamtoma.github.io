@@ -1,0 +1,23 @@
+{
+    "rcn": "211329",
+    "acronym": "SENSE",
+    "topics": "SMEInst-10-2016-2017",
+    "title": "Affordable CFD simulation software for SMEs in the transportation industry",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "CFD simulation tools are key in the automotive industry, as they lead to faster development times, lower costs, higher added value and higher overall innovation capabilities. However, their complexity (requiring highly specialized engineers for preparation and data interpretation) and high license/hardware costs hinder their implementation by a larger number of companies, as SMEs cannot afford such investments.  \nIn response to this need identified by our customers in the automotive industry (Audi, Magna, AVL) for affordable and user-friendly CFD software, at ESS Steyr we are developing SENSE: an innovative modular CFD solver which uses Smoothed Particle Hydrodynamics (SPH) running on GPUs. The use of SPH together with our intuitive GUI simplifies the process, compared to the Finite Element Method and Finite Volume Method used in most current CFD tools, eliminating time consuming pre- and post-processing and reducing simulation run times to 1/10th. As the first modular CFD solution in the market, SENSE provides SENSE users easy-to-use modules targeted at the one application they require, optimized to their needs and with pre-set boundary conditions, instead of having to buy complex, predefined toolboxes with features they will never use. Moreover, as it runs on GPUs instead of CPUs, hardware requirements are much lower, reducing costs from Ä 400,000 to Ä 40,000. \nIn this way, we aim to disrupt the automotive market by facilitating the SMEs in the industry (over 2,500 only in Europe) with the access to the much-needed simulation software in their day-to-day operations: with SENSE, SMEs will operate more cost- and time efficient, become more competitive and be at the forefront of innovation, thereby boosting the efficiency and competitiveness of the European Automotive Industry. \nIn addition, SENSE will also boost the growth of our company, enabling revenues of Ä85.87 million, a Return of Investment of 8.4 and triplicating our current staff by 2023.",
+    "totalCost": "1414650",
+    "ecMaxContribution": "990255",
+    "coordinator": "ESS ENGINEERING SOFTWARE STEYR GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "933615010": {
+            "orgId": "933615010",
+            "orgName": "ESS ENGINEERING SOFTWARE STEYR GMBH",
+            "ecContrib": 990255
+        }
+    },
+    "calculatedTotalContribution": 990255
+}

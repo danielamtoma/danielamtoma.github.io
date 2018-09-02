@@ -1,0 +1,48 @@
+{
+    "rcn": "193815",
+    "acronym": "GEO VISION",
+    "topics": "GALILEO-2-2014",
+    "title": "GNSS driven EO and Verifiable Image and Sensor Integration for mission-critical Operational Networks",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2016",
+    "objective": "GEO-VISION is an user-driven project developing interactive mission-critical visual communications software solution. The focus is operationally relevant visual content from photos and video, based on GNSS, for reducing financial and humanitarian impacts of disasters. GNSS will provide trust in the data and in the communications. Networks may have low and unknown capacity.  \n\nA common operational picture is achieved via a web portal, live mapping and fusion with other data. It has broad applicability, for field users, operations centers and headquarters of different organizations, and is far beyond state of the art.  Relevant data can be shared between collaborating organizations. Customers can purchase the software or subscribe as a service. \n\nTechnical innovations are related to how GNSS is used for providing trust and confidentiality into data and communications. The concept of interactive mission-critical visual communications is fundamentally different from traditional approaches. GEO-VISION allows users to focus on relevant and trusted operational content. Bandwidth savings compared to sending full resolution is in the order of 100-1000 times, yet still keeping access to full resolution. \n\nTrust includes location, Galileo signal authentication, spoofing and jamming countermeasures. Integration with satcom, earth observation space elements and UAVs highlight the innovation. United Nations, EU Civil Protection, World Bank and insurance business provide user requirements and testing.\n\nGEO-VISION will develop pilot-level software. Analysis shows a ROI at 10X over net 7 years.  GEO-VISION targets fundamental challenges, markets are global and SW deliveries scalable.",
+    "totalCost": "1323315",
+    "ecMaxContribution": "999653,25",
+    "coordinator": "ANSUR TECHNOLOGIES AS",
+    "coordinatorCountry": "NO",
+    "participants": "RINA CONSULTING SPA;D.M.A.T. CONSULTING KG;JOHANNITER-UNFALL-HILFE EV;UNIVERSITAT AUTONOMA DE BARCELONA;UNITED NATIONS INSTITUTE FOR TRAINING AND RESEARCH",
+    "participantCountries": "IT;AT;DE;ES;CH",
+    "projectParticipants": {
+        "999986484": {
+            "orgId": "999986484",
+            "orgName": "UNIVERSITAT AUTONOMA DE BARCELONA",
+            "ecContrib": 71438
+        },
+        "999951467": {
+            "orgId": "999951467",
+            "orgName": "RINA CONSULTING SPA",
+            "ecContrib": 194250
+        },
+        "997623273": {
+            "orgId": "997623273",
+            "orgName": "ANSUR TECHNOLOGIES AS",
+            "ecContrib": 490000
+        },
+        "997621721": {
+            "orgId": "997621721",
+            "orgName": "JOHANNITER-UNFALL-HILFE EV",
+            "ecContrib": 92755
+        },
+        "997721825": {
+            "orgId": "997721825",
+            "orgName": "UNITED NATIONS INSTITUTE FOR TRAINING AND RESEARCH",
+            "ecContrib": 80250
+        },
+        "972552265": {
+            "orgId": "972552265",
+            "orgName": "D.M.A.T. CONSULTING KG",
+            "ecContrib": 70961
+        }
+    },
+    "calculatedTotalContribution": 999654
+}

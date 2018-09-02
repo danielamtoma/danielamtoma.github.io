@@ -1,0 +1,28 @@
+{
+    "rcn": "211402",
+    "acronym": "AGNOSTIC",
+    "topics": "ERC-2016-ADG",
+    "title": "Actively Enhanced Cognition based Framework for Design of Complex Systems",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Parameterized mathematical models have been central to the understanding and design of communication, networking, and radar systems. However, they often lack the ability to model intricate interactions innate in complex systems. On the other hand, data-driven approaches do not need explicit mathematical models for data generation and have a wider applicability at the cost of flexibility. These approaches need labelled data, representing all the facets of the system interaction with the environment. With the aforementioned systems becoming increasingly complex with intricate interactions and operating in dynamic environments, the number of system configurations can be rather large leading to paucity of labelled data. Thus there are emerging networks of systems of critical importance whose cognition is not effectively covered by traditional approaches. AGNOSTIC uses the process of exploration through system probing and exploitation of observed data in an iterative manner drawing upon traditional model-based approaches and data-driven discriminative learning to enhance functionality, performance, and robustness through the notion of active cognition. AGNOSTIC clearly departs from a passive assimilation of data and aims to formalize the exploitation/exploration framework in dynamic environments. The development of this framework in three applications areas is central to AGNOSTIC. The project aims to provide active cognition in radar to learn the environment and other active systems to ensure situational awareness and coexistence; to apply active probing in radio access networks to infer network behaviour towards spectrum sharing and self-configuration; and to learn and adapt to user demand for content distribution in caching networks, drastically improving network efficiency. Although these cognitive systems interact with the environment in very different ways, sufficient abstraction allows cross-fertilization of insights and approaches motivating their joint treatment.",
+    "totalCost": "2499595",
+    "ecMaxContribution": "2499595",
+    "coordinator": "UNIVERSITE DU LUXEMBOURG",
+    "coordinatorCountry": "LU",
+    "participants": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "participantCountries": "SE",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 656148
+        },
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 1843447
+        }
+    },
+    "calculatedTotalContribution": 2499595
+}

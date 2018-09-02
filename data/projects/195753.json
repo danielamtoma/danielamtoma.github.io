@@ -1,0 +1,23 @@
+{
+    "rcn": "195753",
+    "acronym": "STOMMAC",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Stochastic Multi-Scale Modelling for the Analysis of Closed-Loop Interactions among Brain Networks",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2017",
+    "objective": "Brain functions likely emerge from the concerted, context-dependent operations of its microscopic and macroscopic networks. Therefore, the organization and operational principles of such complex systems may be best investigated by using multi-modal approaches, including concurrent measurements of neural activity on multiple spatiotemporal scales. Performing and interpreting such multi-scale measures, though, presents enormous challenges for both experimental and mathematical neuroscientists. Existing analysis methods, however, make limited use of newly acquired concurrent multi-scale information. To dramatically advance analysis methods for these data, I propose a novel multi-scale model that bridges the gap between single cell statistics and neural mass signals. The model describes mixed discrete statistics, covering single cell and small population spike trains, as well as continuous statistics, such as those describing mesoscopic and macroscopic measures of mass neural activity in neuroimaging experiments. These elements are combined by means of copulas, describing multivariate interactions within and between scales of activity. I will extend this method to the level of efficient applicability and, in the course of a secondment with Prof. Logothetis at the Max Planck Institute in T¸bingen, exploit the technique to solve current problems of multi-scale analysis of interactions between cortical and subcortical brain areas. The new mathematical approach will lead to a set of new tools that I will disseminate in an Open Source format for maximal impact, and will be widely applicable to multi-modal recordings in animals and humans, in both research and clinical settings. My own application of this method to multi-modal datasets will establish a deeper general understanding of the mechanisms of large-scale communication among brain areas, with particular emphasis on the principles of communication among networks involved in the formation of declarative memory.",
+    "totalCost": "168277,2",
+    "ecMaxContribution": "168277,2",
+    "coordinator": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999596447": {
+            "orgId": "999596447",
+            "orgName": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+            "ecContrib": 168277
+        }
+    },
+    "calculatedTotalContribution": 168277
+}

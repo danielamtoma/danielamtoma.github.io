@@ -1,0 +1,123 @@
+{
+    "rcn": "197343",
+    "acronym": "SESAME",
+    "topics": "ICT-14-2014",
+    "title": "Small cEllS coordinAtion  for Multi-tenancy and  Edge services",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2017",
+    "objective": "SESAME targets innovations around three central elements in 5G: the placement of network intelligence and applications in the network edge through Network Functions Virtualisation (NFV) and Edge Cloud Computing; the substantial evolution of the Small Cell concept, already mainstream in 4G but expected to deliver its full potential in the challenging high dense 5G scenarios; and the consolidation of multi-tenancy in communications infrastructures, allowing several operators/service providers to engage in new sharing models of both access capacity and edge computing capabilities. \n\nSESAME proposes the Cloud-Enabled Small Cell (CESC) concept, a new multi-operator enabled Small Cell that integrates a virtualised execution platform (i.e., the Light DC) for deploying Virtual Network Functions (NVFs), supporting powerful self-x management and executing novel applications and services inside the access network infrastructure. The Light DC will feature low-power processors and hardware accelerators for time critical operations and will build a high manageable clustered edge computing infrastructure. This approach will allow new stakeholders to dynamically enter the value chain by acting as 'host-neutral' providers in high traffic areas where densification of multiple networks is not practical. The optimal management of a CESC deployment is a key challenge of SESAME, for which new orchestration, NFV management, virtualisation of management views per tenant, self-x features and radio access management techniques will be developed.\n \nAfter designing, specifying and developing the architecture and all the involved CESC modules, SESAME will culminate with a prototype with all functionalities for proving the concept in relevant use cases. Besides, CESC will be formulated consistently and synergistically with other 5G-PPP components through coordination with the corresponding projects.",
+    "totalCost": "8266932,76",
+    "ecMaxContribution": "7488432,76",
+    "coordinator": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+    "coordinatorCountry": "EL",
+    "participants": "CREATE-NET (CENTER FOR RESEARCH AND TELECOMMUNICATION EXPERIMENTATION FOR NETWORKED COMMUNITIES);SISTELBANDA SA;UNIVERSITY OF BRIGHTON;IP.ACCESS LIMITED;ITALTEL SPA;VIRTUAL OPEN SYSTEMS;ATOS SPAIN SA;FUJITSU LABORATORIES OF EUROPE LIMITED;UNIVERSITAT POLITECNICA DE CATALUNYA;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";FONDAZIONE BRUNO KESSLER;INCITES CONSULTING SARL;SMARTNET ANONYMI TOURISTIKI KAI KATASKEVASTIKI ETAIREIA PAROCHIS YPIRESION;STMICROELECTRONICS GRENOBLE 2 SAS;ZURCHER HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN;UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA;UNIVERSITY OF SURREY;FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA;ORION INNOVATIONS PRIVATE COMPANY;ATHONET SRL",
+    "participantCountries": "IT;ES;UK;FR;EL;LU;CH",
+    "projectParticipants": {
+        "949872307": {
+            "orgId": "949872307",
+            "orgName": "INCITES CONSULTING SARL",
+            "ecContrib": 204375
+        },
+        "999860481": {
+            "orgId": "999860481",
+            "orgName": "UNIVERSITY OF BRIGHTON",
+            "ecContrib": 331639
+        },
+        "998291506": {
+            "orgId": "998291506",
+            "orgName": "ZURCHER HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN",
+            "ecContrib": 0
+        },
+        "942321342": {
+            "orgId": "942321342",
+            "orgName": "ATHONET SRL",
+            "ecContrib": 196250
+        },
+        "968966466": {
+            "orgId": "968966466",
+            "orgName": "VIRTUAL OPEN SYSTEMS",
+            "ecContrib": 473750
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 481375
+        },
+        "999591500": {
+            "orgId": "999591500",
+            "orgName": "ITALTEL SPA",
+            "ecContrib": 521250
+        },
+        "935934959": {
+            "orgId": "935934959",
+            "orgName": "ORION INNOVATIONS PRIVATE COMPANY",
+            "ecContrib": 361812
+        },
+        "953757157": {
+            "orgId": "953757157",
+            "orgName": "IP.ACCESS LIMITED",
+            "ecContrib": 896250
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 454500
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 261750
+        },
+        "928013745": {
+            "orgId": "928013745",
+            "orgName": "SMARTNET ANONYMI TOURISTIKI KAI KATASKEVASTIKI ETAIREIA PAROCHIS YPIRESION",
+            "ecContrib": 86875
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 596250
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 617400
+        },
+        "999948363": {
+            "orgId": "999948363",
+            "orgName": "FUJITSU LABORATORIES OF EUROPE LIMITED",
+            "ecContrib": 339930
+        },
+        "997962094": {
+            "orgId": "997962094",
+            "orgName": "STMICROELECTRONICS GRENOBLE 2 SAS",
+            "ecContrib": 463928
+        },
+        "999792581": {
+            "orgId": "999792581",
+            "orgName": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+            "ecContrib": 451902
+        },
+        "941413907": {
+            "orgId": "941413907",
+            "orgName": "SISTELBANDA SA",
+            "ecContrib": 30634
+        },
+        "999865234": {
+            "orgId": "999865234",
+            "orgName": "UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA",
+            "ecContrib": 268750
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 449812
+        },
+        "999575786": {
+            "orgId": "999575786",
+            "orgName": "CREATE-NET (CENTER FOR RESEARCH AND TELECOMMUNICATION EXPERIMENTATION FOR NETWORKED COMMUNITIES)",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 7488432
+}

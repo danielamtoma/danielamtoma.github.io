@@ -1,0 +1,58 @@
+{
+    "rcn": "213111",
+    "acronym": "FENTEC",
+    "topics": "DS-06-2017",
+    "title": "Functional Encryption Technologies",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Functional encryption (FE), has been recently been introduced as a new paradigm of encryption systems to overcome all-or-nothing limitations of classical encryption. In an FE system the decryptor deciphers a function over the message plaintext: such functional decryptability makes it feasible to process encrypted data (e.g. on the Internet) and obtain a partial view of the message plaintext. This extra flexibility over classical encryption is a powerful enabler for many emerging security technologies (i.e. controlled access, searching and computing on encrypted data, program obfuscationÖ). \nFENTECís mission is to make the functional encryption paradigm ready for wide-range applications, integrating it in ICT technologies as naturally as classical encryption. The primary objective is the efficient and application-oriented development of functional encryption systems. FENTECís team of cryptographers, software and hardware experts and information technology industry partners that will document functional encryption needs of specific applications and subsequently design, develop, implement and demonstrate applied use of functional cryptography. \nUltimately, a functional encryption library for both SW and HW-oriented application will be documented and made public so that it may be used by European ICT entities. With it, the FENTEC team will build emerging security technologies that increase the trustworthiness of the European ICT services and products. Concretely, the FENTEC team will showcase the expressiveness and versatility of the functional encryption paradigm in 3 use cases:\nï Privacy-preserving digital currency, enforcing flexible auditing models\nï Anonymous data analytics enabling computation of statistics over encrypted data, protecting European Fundamental Rights of Data Protection and Privacy\nï Key and content distribution with improved performance & efficiency as foundational technology for establishing secure communication among a vast amount of IOT devices.",
+    "totalCost": "4223141,25",
+    "ecMaxContribution": "4223141,25",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "HELSINGIN YLIOPISTO;XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO;NAGRAVISION SA;ECOLE NORMALE SUPERIEURE;WALLIX;HOCHSCHULE FLENSBURG;KATHOLIEKE UNIVERSITEIT LEUVEN;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "FI;SI;CH;FR;DE;BE;UK",
+    "projectParticipants": {
+        "999773375": {
+            "orgId": "999773375",
+            "orgName": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO",
+            "ecContrib": 365000
+        },
+        "999854758": {
+            "orgId": "999854758",
+            "orgName": "ECOLE NORMALE SUPERIEURE",
+            "ecContrib": 531550
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 739375
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 329352
+        },
+        "972778081": {
+            "orgId": "972778081",
+            "orgName": "WALLIX",
+            "ecContrib": 387812
+        },
+        "954848213": {
+            "orgId": "954848213",
+            "orgName": "NAGRAVISION SA",
+            "ecContrib": 458719
+        },
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 390082
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 553750
+        }
+    },
+    "calculatedTotalContribution": 3755640
+}

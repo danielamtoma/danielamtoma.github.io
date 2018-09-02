@@ -1,0 +1,28 @@
+{
+    "rcn": "199368",
+    "acronym": "NOVOFLOP",
+    "topics": "ERC-PoC-2015",
+    "title": "Non-Volatile Magnetic Flip Flop",
+    "startDate": "01/03/2016",
+    "endDate": "31/08/2017",
+    "objective": "The physical limits of CMOS scaling and the prohibitively high costs of future technology nodes, allows to foresee the end of further progress of CMOS technology in the near future and emphasizes the dire need to explore alternative technologies and computational principles.\nSpin as an alternative degree of freedom for computation and information storage attracts much attention due to its nonvolatility, high endurance, fast operation, and CMOS compatibility. Even though first promising results are available, these CMOS/Spintronic hybrid solutions are only competitive in comparison to conventional CMOS technology with respect to power consumption and speed - up to now - they are not able to compete in integration density. Due to the need of continuous conversion between the CMOS and the spintronic signal domain additional transistors are required, which rather leads to an integration density decrease than a densification of the circuit layout.\nThis inspired us to avoid the signal conversion and carry out the complete device operation in the magnetic domain. The resulting non-volatile magnetic flip flop facilitates the spin transfer torque effect and magnetic exchange coupling for computation and thus enables an extremely dense layout. Instead of eight (non-clocked), twelve (clocked) or seven CMOS transistors and two magnetic tunnel junctions (CMOS/Spintronic hybrid) for a RS flip flop a footprint of only 10nmx40nm is sufficient. Furthermore, it can be stacked to a shift register which as well features a very small footprint. The device and its viability has been studied via extensive micromagnetic simulations.\nFor the next step towards market prototypes need to be manufactured and the device performance as well as the corresponding simulation tools need to be further developed. The results of NOVOFLOP will be essential to create a package comprising prototypes, TCAD models, and a manufacturing process for presenting our device to companies and venture capitalists.",
+    "totalCost": "149625",
+    "ecMaxContribution": "149625",
+    "coordinator": "TECHNISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "participantCountries": "SE",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 137125
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 12500
+        }
+    },
+    "calculatedTotalContribution": 149625
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "210207",
+    "acronym": "COMPECON",
+    "topics": "ERC-2016-ADG",
+    "title": "Complexity and Simplicity in Economic Mechanisms",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2022",
+    "objective": "As more and more economic activity is moving to the Internet, familiar economic mechanisms are being deployed at unprecedented scales of size, speed, and complexity. In many cases this new complexity becomes the defining feature of the deployed economic mechanism and the quantitative difference becomes a key qualitative one. A well-studied example of such situations is how the humble single-item auction suddenly becomes a billion-times repeated online ad auction, or even becomes a combinatorial auction with exponentially many possible outcomes. Similar complexity explosions occur with various markets, with information dissemination, with pricing structures, and with many other economic mechanisms.  \n\nThe aim of this proposal is to study the role and implications of such complexity and to start developing a coherent economic theory that can handle it. We aim to identify various measures of complexity that are crucial bottlenecks and study them. Examples of such complexities include the amount of access to data, the length of the description of a mechanism, its communication requirements, the cognitive complexity required from users, and, of course, the associated computational complexity. On one hand we will attempt finding ways of effectively dealing with complexity when it is needed, and on the other hand, attempt avoiding complexity, when possible, replacing it with 'simple' alternatives without incurring too large of a loss.",
+    "totalCost": "2026706",
+    "ecMaxContribution": "2026706",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 2026706
+        }
+    },
+    "calculatedTotalContribution": 2026706
+}

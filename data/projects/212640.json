@@ -1,0 +1,23 @@
+{
+    "rcn": "212640",
+    "acronym": "DARWIN",
+    "topics": "MSCA-IF-2016",
+    "title": "Dual capillary waveguide endoscope",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2019",
+    "objective": "Photoacoustic imaging, an emerging multi-wave imaging modality that couples light excitation to acoustic detection via the photoacoustic effect (sound generation via light absorption), relies on detecting ultrasound waves that are very weakly scattered in biological tissue. It provides acoustic-resolution images of optical absorption non-invasively at large depth (up to several cm). However, ultrasound attenuation increases with frequency, limiting the depth-to-resolution ratio to about 100. An alternative to overcome the dispersion of light in tissue due to scattering is using thin, micron-sized diameter optical fibers to both deliver and collect light from the sample. A novel idea and preliminary proof-of-concept experiment has just been demonstrated by Prof. Bossyís team where a dual waveguide allows also to remotely detect high frequency ultrasound with the same device as that used for guiding light. This device can act both as a multi-mode optical waveguide for the illumination and fluorescence collection using the outer cladding, and as a waveguide to guide the ultrasound out of the tissue using the core, avoiding the absorption by the tissue and increasing the penetration depth.\n\nThe overall objective of DARWIN is to study and develop a new type of dual-modality endoscope for optical-resolution photoacoustic and fluorescence microscopy based on a capillary waveguide. To do so, a high speed phase modulator will measure the transmission matrix and calibrate the endoscope providing a way to display any optical patterns at the distal tip. The fellow will explore different configurations where a thin hydrophone, based on a single mode fiber or a needle, is inserted inside the core improving the acoustic signal detection. Furthermore, bending compensation will be investigated. DARWIN will result in a prototype thin endoscope for dual microscopy imaging, an important tool for in-vivo experiments, such as the neuron imaging.",
+    "totalCost": "173076",
+    "ecMaxContribution": "173076",
+    "coordinator": "UNIVERSITE GRENOBLE ALPES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "924833212": {
+            "orgId": "924833212",
+            "orgName": "UNIVERSITE GRENOBLE ALPES",
+            "ecContrib": 173076
+        }
+    },
+    "calculatedTotalContribution": 173076
+}

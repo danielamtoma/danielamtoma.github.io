@@ -1,0 +1,73 @@
+{
+    "rcn": "198500",
+    "acronym": "oCPS",
+    "topics": "MSCA-ITN-2015-ETN",
+    "title": "Platform-aware Model-driven Optimization of Cyber-Physical Systems",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2019",
+    "objective": "Many modern industrial systems fall in the realm of Cyber-Physical Systems (CPS) because of the tight interaction between computation, communication and control elements (the cyber part), and physical processes such as motion, heating/cooling, vibration, wear and tear (the physical part) within these systems. Traditional design methods involve multiple, often isolated, design phases involving different disciplines (mechanical, electrical, control and software engineering). Requirements related to cost, quality and reliability enforce designs with over-provisioning of platform resources (computation, communication, memory) by large margins at each phase to be able to fulfill system-level requirements in the worst-case scenarios. To replace such overly conservative design process, there is an urgent need for integrative design trajectories that allow for tradeoffs between cost, quality and reliability coping with the tight coordination between the cyber and the physical components. This gives rise to the need for models that accurately capture the interaction between various components (e.g., software, electronics, mechanics, algorithms, power, energy, etc.) and novel design methods that exploit the artifacts of the underlying platforms. \nThe key scientific objective of the oCPS program is to enable the design of a new generation of cost-effective, quality-driven and reliable CPS by developing model-driven design methods that capture the interaction between different models at various design layers, that take into account physical constraints and processes, and that introduce platform-awareness at all levels. The program aims to train a generation of young researchers in cross-disciplinary thinking and deliver industrially validated tool chains. We bring together the state of the practice through six key industrial players, including SMEs, and the state of the art through four top universities and one research institute across Europe.",
+    "totalCost": "3820273,63",
+    "ecMaxContribution": "3820273,63",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "IMSYS AB;INCHRON GMBH;KUNGLIGA TEKNISKA HOEGSKOLAN;TECHNISCHE UNIVERSITAET MUENCHEN;FORTISS GMBH;TECHNISCHE UNIVERSITAT DORTMUND;ODYS SRL;TECHNOLUTION BV;INTEL BENELUX BV;PHILIPS MEDICAL SYSTEMS NEDERLAND BV",
+    "participantCountries": "SE;DE;IT;NL",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 1269778
+        },
+        "999608766": {
+            "orgId": "999608766",
+            "orgName": "PHILIPS MEDICAL SYSTEMS NEDERLAND BV",
+            "ecContrib": 255374
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 527319
+        },
+        "999848453": {
+            "orgId": "999848453",
+            "orgName": "TECHNISCHE UNIVERSITAT DORTMUND",
+            "ecContrib": 249216
+        },
+        "996290008": {
+            "orgId": "996290008",
+            "orgName": "FORTISS GMBH",
+            "ecContrib": 249216
+        },
+        "971362463": {
+            "orgId": "971362463",
+            "orgName": "IMSYS AB",
+            "ecContrib": 263659
+        },
+        "999751162": {
+            "orgId": "999751162",
+            "orgName": "TECHNOLUTION BV",
+            "ecContrib": 0
+        },
+        "952787933": {
+            "orgId": "952787933",
+            "orgName": "ODYS SRL",
+            "ecContrib": 258061
+        },
+        "999629039": {
+            "orgId": "999629039",
+            "orgName": "INCHRON GMBH",
+            "ecContrib": 249216
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 498433
+        },
+        "956514382": {
+            "orgId": "956514382",
+            "orgName": "INTEL BENELUX BV",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3820272
+}

@@ -1,0 +1,88 @@
+{
+    "rcn": "194324",
+    "acronym": "QT21",
+    "topics": "ICT-17-2014",
+    "title": "QT21: Quality Translation 21",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "A European Digital Single Market free of barriers, including language barriers, is a stated EU objective to be achieved by 2020. The findings of the META-NET Language White Papers show that currently only 3 of the EU-27 languages enjoy moderate to good support by our machine translation technologies, with either weak (at best fragmentary) or no support for the vast majority of the EU-27 languages. This lack is a key obstacle impeding the free flow of people, information and trade in the European Digital Single Market. Many of the languages not supported by our current technologies show common traits: they are morphologically complex, with free and diverse word order. Often there are not enough training resources and/or processing tools. Together this results in drastic drops in translation quality. The combined challenges of linguistic phenomena and resource scenarios have created a large and under-explored grey area in the language technology map of European languages. Combining support from key stakeholders, QT21 addresses this grey area developing (1) substantially improved statistical and machine-learning based translation models for challenging languages and resource scenarios, (2) improved evaluation and continuous learning from mistakes, guided by a systematic analysis of quality barriers, informed by human translators, (3) all with a strong focus on scalability, to ensure that learning and decoding with these models is efficient and that reliance on data (annotated or not) is minimised. To continuously measure progress, and to provide a platform for sharing and collaboration (QT21 internally and beyond), the project revolves around a series of Shared Tasks, for maximum impact co-organised with WMT. To support early technology transfer, QT21 proposes a Technology Bridge linking ICT-17(a) and (b) projects and opening up the possibility of showing technical feasibility of early research outputs in near to operational environments.",
+    "totalCost": "3997428",
+    "ecMaxContribution": "3977428",
+    "coordinator": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "THE UNIVERSITY OF SHEFFIELD;DUBLIN CITY UNIVERSITY;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;Hong Kong University of Science and Technology;TEXT & FORM GMBH;TAUS BV;KARLSRUHER INSTITUT FUER TECHNOLOGIE;TILDE SIA;FONDAZIONE BRUNO KESSLER;UNIVERZITA KARLOVA;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;THE UNIVERSITY OF EDINBURGH;UNIVERSITEIT VAN AMSTERDAM",
+    "participantCountries": "UK;IE;DE;HK;NL;LV;IT;CZ;FR",
+    "projectParticipants": {
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 932625
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 322500
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 290625
+        },
+        "997262918": {
+            "orgId": "997262918",
+            "orgName": "Hong Kong University of Science and Technology",
+            "ecContrib": 0
+        },
+        "994797857": {
+            "orgId": "994797857",
+            "orgName": "TAUS BV",
+            "ecContrib": 108750
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 314679
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 256318
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 358215
+        },
+        "952195845": {
+            "orgId": "952195845",
+            "orgName": "TEXT & FORM GMBH",
+            "ecContrib": 107500
+        },
+        "999892588": {
+            "orgId": "999892588",
+            "orgName": "DUBLIN CITY UNIVERSITY",
+            "ecContrib": 253503
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 359061
+        },
+        "996539686": {
+            "orgId": "996539686",
+            "orgName": "TILDE SIA",
+            "ecContrib": 116500
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 274089
+        },
+        "999923434": {
+            "orgId": "999923434",
+            "orgName": "UNIVERZITA KARLOVA",
+            "ecContrib": 283063
+        }
+    },
+    "calculatedTotalContribution": 3977428
+}

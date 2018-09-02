@@ -1,0 +1,63 @@
+{
+    "rcn": "194254",
+    "acronym": "RAPID-MIX",
+    "topics": "ICT-22-2014",
+    "title": "Realtime Adaptive Prototyping for Industrial Design of Multimodal Interactive eXpressive technology",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "RAPID-MIX brings together 3 leading research institutions with 4 dynamic creative industries SMEs and 1 leading wearable technology SME in a technology transfer consortium to bring to market innovative interface products for music, gaming, and e-Health applications.\nRAPID-MIX uses an intensely user-centric development process to gauge industry pull and end-user desire for new modes of interaction that integrate physiological human sensing, gesture and body language, and smart information analysis and adaptation. Physiological biosignals (EEG, EMG) are used in multimodal hardware configurations with motion sensors and haptic actuators. Advanced machine learning software adapts to expressive human variation, allowing fluid interaction and personalized experience.\nAn iterative, rapid development cycle of hardware prototyping, software development, and application integration accelerates the availability of advanced interface technologies to industry partners. An equally user-centric evaluation phase assures market validation and end-user relevance and usability, feeding back to subsequent design cycles and informing ultimate market deployment.\nThe RAPID-MIX consortium leverages contemporary dissemination channels such as crowd funding, industry trade shows, and contributions to the DIY community to raise awareness across the professional and consumer landscapes of novel interface technologies.\nProject output is encapsulated in an Open Source RAPID-API exposing application level access to software libraries, hardware designs, and middleware layers. This will enable creative partner SMEs to build a new range of products called Multimodal Interactive eXpressive systems (MIX). It also allows broader industries such as quantified self, and DIY communities, to use the API in their own products in cost effective ways. This assures the legacy of RAPID-MIX and marks its contribution to European competitiveness in rapidly evolving markets for embodied interaction technologies.",
+    "totalCost": "2682586,25",
+    "ecMaxContribution": "2330004",
+    "coordinator": "UNIVERSIDAD POMPEU FABRA",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUT DE RECHERCHE ET DE COORDINATION ACOUSTIQUE MUSIQUE - IRCAM;GOLDSMITHS' COLLEGE;SOMETHIN' ELSE SOUND DIRECTIONS LIMITED;ROLI Ltd;PLUX - WIRELESS BIOSIGNALS S.A.;REACTABLE SYSTEMS SL;ORBE;AUDIOGAMING",
+    "participantCountries": "FR;UK;PT;ES",
+    "projectParticipants": {
+        "941510422": {
+            "orgId": "941510422",
+            "orgName": "ORBE",
+            "ecContrib": 122208
+        },
+        "999594216": {
+            "orgId": "999594216",
+            "orgName": "INSTITUT DE RECHERCHE ET DE COORDINATION ACOUSTIQUE MUSIQUE - IRCAM",
+            "ecContrib": 399000
+        },
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 508050
+        },
+        "953722140": {
+            "orgId": "953722140",
+            "orgName": "REACTABLE SYSTEMS SL",
+            "ecContrib": 194250
+        },
+        "929470782": {
+            "orgId": "929470782",
+            "orgName": "AUDIOGAMING",
+            "ecContrib": 162003
+        },
+        "999882791": {
+            "orgId": "999882791",
+            "orgName": "GOLDSMITHS' COLLEGE",
+            "ecContrib": 600265
+        },
+        "952829837": {
+            "orgId": "952829837",
+            "orgName": "SOMETHIN' ELSE SOUND DIRECTIONS LIMITED",
+            "ecContrib": 790
+        },
+        "951588334": {
+            "orgId": "951588334",
+            "orgName": "ROLI Ltd",
+            "ecContrib": 124688
+        },
+        "960662393": {
+            "orgId": "960662393",
+            "orgName": "PLUX - WIRELESS BIOSIGNALS S.A.",
+            "ecContrib": 218750
+        }
+    },
+    "calculatedTotalContribution": 2330004
+}

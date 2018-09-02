@@ -1,0 +1,93 @@
+{
+    "rcn": "206078",
+    "acronym": "COLA",
+    "topics": "ICT-06-2016",
+    "title": "Cloud Orchestration at the Level of Application",
+    "startDate": "01/01/2017",
+    "endDate": "30/06/2019",
+    "objective": "SMEs and public sector organizations increasingly investigate the possibilities to use cloud computing services in their everyday business conduct. Accessing services and resources in the cloud on-demand and in a flexible and elastic way could result in significant cost savings due to more efficient and convenient resource utilization that also replaces large investment costs with long term operational costs. On the other hand, the take up of cloud computing by SMEs and the public sector is still relatively low due to limited application-level flexibility and also security concerns. The Cloud Orchestration at the Level of Application (COLA) project aims to increase the adoption of cloud computing services by the above mentioned two strategic target communities. Typical industry and public sector applications require resource scalability and efficient resource utilization in order to serve a variable number of customers with dynamic resource demands, and to suitably optimize resource consumption and costs. However, the dynamic and intelligent utilization of cloud infrastructure resources from the perspective of cloud applications is not trivial. Although there have been several efforts to support the intelligent and coordinated deployment, and to a smaller extent also the run-time orchestration of cloud applications, no comprehensive solution has emerged until now that could be applied in large scale near operational level industry trials. The overall objective of the COLA project is that by building on and extending current research results, it will define and provide a reference implementation of a generic and pluggable framework that supports the optimal and secure deployment and run-time orchestration of cloud applications. COLA will demonstrate the applicability and impact of the solution via large scale near operational level SME and public sector pilots and demonstrators, and will also define a clear pathway how the innovation can be delivered to the market.",
+    "totalCost": "4188703,75",
+    "ecMaxContribution": "2975081",
+    "coordinator": "THE UNIVERSITY OF WESTMINSTER LBG",
+    "coordinatorCountry": "UK",
+    "participants": "BALABIT-EUROPE KERESKEDELMI ES SZOFTVERFEJLESZTO KFT;THE AUDIENCE AGENCY;CLOUDSIGMA AG;INSTRUMENTACION Y COMPONENTES SA;SOCIEDAD ARAGONESA DE GESTION AGROAMBIENTAL SL;CLOUDSME UG;NOW:PENSIONS LTD;RISE SICS AB;OUTLANDISH LLP;MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET;BRUNEL UNIVERSITY LONDON;SAKER SOLUTIONS LIMITED;SCALETOOLS AG;CLOUDBROKER GMBH",
+    "participantCountries": "HU;UK;CH;ES;DE;SE",
+    "projectParticipants": {
+        "999858250": {
+            "orgId": "999858250",
+            "orgName": "THE UNIVERSITY OF WESTMINSTER LBG",
+            "ecContrib": 822188
+        },
+        "999588202": {
+            "orgId": "999588202",
+            "orgName": "RISE SICS AB",
+            "ecContrib": 369250
+        },
+        "937778153": {
+            "orgId": "937778153",
+            "orgName": "OUTLANDISH LLP",
+            "ecContrib": 197698
+        },
+        "969018264": {
+            "orgId": "969018264",
+            "orgName": "CLOUDSIGMA AG",
+            "ecContrib": 0
+        },
+        "919697838": {
+            "orgId": "919697838",
+            "orgName": "CLOUDSME UG",
+            "ecContrib": 237300
+        },
+        "919801822": {
+            "orgId": "919801822",
+            "orgName": "NOW:PENSIONS LTD",
+            "ecContrib": 0
+        },
+        "999651252": {
+            "orgId": "999651252",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET",
+            "ecContrib": 455000
+        },
+        "950464977": {
+            "orgId": "950464977",
+            "orgName": "SOCIEDAD ARAGONESA DE GESTION AGROAMBIENTAL SL",
+            "ecContrib": 73246
+        },
+        "951847906": {
+            "orgId": "951847906",
+            "orgName": "SAKER SOLUTIONS LIMITED",
+            "ecContrib": 159250
+        },
+        "925321413": {
+            "orgId": "925321413",
+            "orgName": "THE AUDIENCE AGENCY",
+            "ecContrib": 116378
+        },
+        "972604354": {
+            "orgId": "972604354",
+            "orgName": "CLOUDBROKER GMBH",
+            "ecContrib": 0
+        },
+        "999749610": {
+            "orgId": "999749610",
+            "orgName": "BRUNEL UNIVERSITY LONDON",
+            "ecContrib": 248750
+        },
+        "974142483": {
+            "orgId": "974142483",
+            "orgName": "INSTRUMENTACION Y COMPONENTES SA",
+            "ecContrib": 136719
+        },
+        "972494356": {
+            "orgId": "972494356",
+            "orgName": "SCALETOOLS AG",
+            "ecContrib": 0
+        },
+        "920849131": {
+            "orgId": "920849131",
+            "orgName": "BALABIT-EUROPE KERESKEDELMI ES SZOFTVERFEJLESZTO KFT",
+            "ecContrib": 159302
+        }
+    },
+    "calculatedTotalContribution": 2975081
+}

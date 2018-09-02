@@ -1,0 +1,23 @@
+{
+    "rcn": "211866",
+    "acronym": "APES",
+    "topics": "ERC-2017-STG",
+    "title": "Accuracy and precision for molecular solids",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "The description of high pressure phases or polymorphism of molecular solids represents a significant scientific challenge both for experiment and theory. Theoretical methods that are currently used struggle to describe the tiny energy differences between different phases. It is the aim of this project to develop a scheme that would allow accurate and reliable predictions of the binding energies of molecular solids and of the energy differences between different phases.\nTo reach the required accuracy, we will combine the coupled cluster approach, widely used for reference quality calculations for molecules, with the random phase approximation (RPA) within periodic boundary conditions. As I have recently shown, RPA-based approaches are already some of the most accurate and practically usable methods for the description of extended systems. However, reliability is not only a question of accuracy. Reliable data need to be precise, that is, converged with the numerical parameters so that they are reproducible by other researchers.\nReproducibility is already a growing concern in the field. It is likely to become a considerable issue for highly accurate methods as the calculated energies have a stronger dependence on the simulation parameters such as the basis set size. Two main approaches will be explored to assure precision. First, we will develop the so-called asymptotic correction scheme to speed-up the convergence of the correlation energies with the basis set size. Second, we will directly compare the lattice energies from periodic and finite cluster based calculations. Both should yield identical answers, but if and how the agreement can be reached for general system is currently far from being understood for methods such as coupled cluster. Reliable data will allow us to answer some of the open questions regarding the stability of polymorphs and high pressure phases, such as the possibility of existence of high pressure ionic phases of water and ammonia.",
+    "totalCost": "924375",
+    "ecMaxContribution": "924375",
+    "coordinator": "UNIVERZITA KARLOVA",
+    "coordinatorCountry": "CZ",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999923434": {
+            "orgId": "999923434",
+            "orgName": "UNIVERZITA KARLOVA",
+            "ecContrib": 924375
+        }
+    },
+    "calculatedTotalContribution": 924375
+}

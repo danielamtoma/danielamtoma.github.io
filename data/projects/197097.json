@@ -1,0 +1,23 @@
+{
+    "rcn": "197097",
+    "acronym": "ECLAIR",
+    "topics": "ERC-CoG-2014",
+    "title": "Emulation of subgrid-scale aerosol-cloud interactions in climate models: towards a realistic representation of aerosol indirect effect",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "I propose to develop an innovative interdisciplinary model framework to refine the estimate of aerosol indirect effect (i.e. influence of atmospheric aerosol particles on cloud properties), which remains the single largest uncertainty in the current drivers of climate change. \n\nA major reason for this uncertainty is that current climate models are unable to resolve the spatial scales for aerosol-cloud interactions. We will resolve this scale problem by using statistical emulation to build computationally fast surrogate models (i.e. emulators) that can reproduce the effective output of a detailed high-resolution cloud-resolving model. By incorporating these emulators into a state-of-the-science climate model, we will for the first time achieve the accuracy of a limited-area high-resolution model on a global scale with negligible computational cost.\n\nThe main scientific outcome of the project will be a highly refined and physically sound estimate of the aerosol indirect effect that enables more accurate projections of future climate change, and thus has high societal relevance. In addition, the developed emulators will help to quantify how the remaining uncertainties in aerosol properties propagate to predictions of aerosol indirect effect. This information will be used, together with an extensive set of remote sensing, in-situ and laboratory data from our collaborators, to improve the process-level understanding of aerosol-cloud interactions. \n\nThe comprehensive uncertainty analyses performed during this project will be highly valuable for future research efforts as they point to processes and interactions that most urgently need to be experimentally constrained. Furthermore, our pioneering model framework that incorporates emulators to represent subgrid- scale processes will open up completely new research opportunities also in other fields that deal with heterogeneous spatial scales.",
+    "totalCost": "1999511,25",
+    "ecMaxContribution": "1999511,25",
+    "coordinator": "ILMATIETEEN LAITOS",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999591306": {
+            "orgId": "999591306",
+            "orgName": "ILMATIETEEN LAITOS",
+            "ecContrib": 1999511
+        }
+    },
+    "calculatedTotalContribution": 1999511
+}

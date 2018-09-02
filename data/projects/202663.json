@@ -1,0 +1,23 @@
+{
+    "rcn": "202663",
+    "acronym": "ATTO",
+    "topics": "ERC-ADG-2015",
+    "title": "A new concept for ultra-high capacity wireless networks",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "The project will address the following key question: \n\nHow can we provide fibre-like connectivity to moving objects (robots, humans) with the following characteristics: very high dedicated bitrate of 100 Gb/s per object, very low latency of <10 ?s, very high reliability of 99.999%, very high density of more than one object per m2 and this at low power consumption? \n\nAchieving this would be groundbreaking and it requires a completely new and high-risk approach: applying close proximity wireless communications using low interference ultra-small cells (called ìATTO-cellsî) integrated in floors and connected to antennas on the (parallel) floor-facing surface of ground moving objects. This makes it possible to obtain very high densities with very good channel conditions. The technological challenges involved are groundbreaking in mobile networking (overall architecture, handover with extremely low latencies), wireless subsystems (60 GHz substrate integrated waveguide-based distributed antenna systems connected to RF transceivers integrated in floors, low crosstalk between ATTO-cells) and optical interconnect subsystems (simple non-blocking optical coherent remote selection of ATTO-cells, transparent low power 100 Gb/s coherent optical / RF transceiver interconnection using analogue equalization and symbol interleaving to support 4x4 MIMO). By providing this unique communication infrastructure in high density settings, the ATTO concept will not only support the highly demanding future 5G services (UHD streaming, cloud computing and storage, augmented and virtual reality, a range of IoT services, etc.), but also even more demanding services, that are challenging our imagination such as mobile robot swarms or brain computer interfaces with PFlops computing capabilities.\nThis new concept for ultra-high capacity wireless networks will open up many more opportunities in reconfigurable robot factories, intelligent hospitals, flexible offices, dense public spaces, etc.",
+    "totalCost": "2496250",
+    "ecMaxContribution": "2496250",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 2496250
+        }
+    },
+    "calculatedTotalContribution": 2496250
+}

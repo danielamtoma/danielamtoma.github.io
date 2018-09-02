@@ -1,0 +1,23 @@
+{
+    "rcn": "204312",
+    "acronym": "SuperEh",
+    "topics": "SMEInst-09-2016-2017",
+    "title": "Super Variable Vector Combnation for Voltage Optmisation Energy Saving Hub",
+    "startDate": "01/06/2016",
+    "endDate": "31/08/2016",
+    "objective": "SuperEH aims complete and commercialise the SVVC Energy Hub platform that PowerSines has developed during the last years. The Energy saving prototype shows good performance and there are not technical risk in completing the implementation of the project. SVVC is the electrical topology that gathers into a single design several Voltage optimisation techniques. It integrates two patented technologies developed and used by PowerSines: Induced Negative Voltage (INV) and Variable Vector Combination (VVC). The new topology reduces from four transformers into two transformers (3 phase). This architecture is controlled through eight switches commanded from the algorithm running as embedded SW in the uProcesor control board. We integrate all the power and control components into a single box. All the relevant variables of the installation are collected, monitored and controlled remotely. To get full advantage of all the possibilities we are making the Remote EMS: a complete set of SW tools, running on external webservers, allowing the communication with the local Hubs, monitoring and controlling energy, power analytics/decision making for both Administrative and User profiles, etc.) Added value of this combination SVVC Energy Hub \\ Remote EMS: - Implementation of cost-efficient E-saving solutions. (20%) - Short payback period. 1 to 3 years . - Simple installation, no modification of current electrical infrastructures. - Stabilisation of the system, detection of irregular consumption. - Proprietary automatic energy saving measurement algorithm unique (and patent pending). - Reduction of maintenance costs (40%) and extension of equipment lifetime (30-50%).",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "POWERSINES LTD",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "924095139": {
+            "orgId": "924095139",
+            "orgName": "POWERSINES LTD",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

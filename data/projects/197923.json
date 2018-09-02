@@ -1,0 +1,23 @@
+{
+    "rcn": "197923",
+    "acronym": "LASSO",
+    "topics": "ERC-ADG-2014",
+    "title": "Learning, Analysis, SynthesiS and Optimization of Cyber-Physical Systems",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2020",
+    "objective": "Cyber-physical systems (CPS) are emerging throughout society, e.g. traffic systems, smart grids, smart cities, and medical devices, and brings the promise to society of better solutions in terms of performance, efficiency and usability. However, CPS are often highly safety critical, e.g. cars or medical devices, thus the utmost care must be taken that optimization of performance does not hamper crucial safety conditions. Given the constant growth in complexity of CPS, this task is becoming increasingly demanding for companies to handle with existing methods. The principle barrier for mastering the engineering of complex CPS being both trustworthy and efficient is the lack of a theoretical well-founded framework for CPS engineering supported by powerful tools, that will enable companies to timely meet increasing market demands.\n\nWith his extensive contributions to model-driven methodologies, and as provider of one of the ìforemostî tools for embedded systems verification, the PI is well prepared to provide the missing framework. The LASSO framework will support the quantitative modeling of both cyber- and physical components, their efficient analysis, the learning of models for unknown components, as well as automatic synthesis and optimization of missing cyber-components from specifications. LASSO will provide the new generation of scalable tools for CPS, allowing trade-offs between safety constraints and performance measure to be made.\n\nLASSO will achieve its objective by ground-breaking and extensive combinations of two different research areas: model checking and machine learning. The framework will develop a complete metric approximation theory for quantitative models, allowing properties to be inferred from reduced or learned models with metric guarantees of their validity in the original system. Further, the applicability of the framework will be validated through a number of CPS case studies, and the tools developed will be made generally available.",
+    "totalCost": "2493751,25",
+    "ecMaxContribution": "2493750",
+    "coordinator": "AALBORG UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 2493750
+        }
+    },
+    "calculatedTotalContribution": 2493750
+}

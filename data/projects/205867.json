@@ -1,0 +1,58 @@
+{
+    "rcn": "205867",
+    "acronym": "WaveBoost",
+    "topics": "LCE-07-2016-2017",
+    "title": "Advanced Braking Module with Cyclic Energy Recovery System (CERS) for enhanced reliability and performance of Wave Energy Converters",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "WaveBoost aims at providing a step-change improvement to the reliability and performance of PTOs (Power-Take-Offs), by developing and validating an innovative braking module with a Cyclic Energy Recovery System (CERS). While built and tested on the platform of the existing CorPower technology, the CERS braking module can be integrated in many types of Wave Energy Converters (WECs). Especially for point absorbers - undisputedly the WEC type with best prospects for large-scale development - WaveBoost will solve a central reliability challenge, the so-called 'end-stop' problem (excessive, uncontrolled forces when linear movement reaches end of stroke). Further, dedicated reliability assessment methods will be developed and applied.\nCERS is an energy redistribution system that will allow WECs to absorb more energy from high energy wave cycles, temporarily storing excessive energy in the first step of the PTO chain, then releasing it for conversion through the remaining steps of the PTO in low energy wave cycles. Similar systems are being used in other sectors (e.g. automotive) but have not been applied to ocean energy. The additional damping force required to safely stop the motion of WECs in storm waves may be several times larger than the PTO force used to convert wave motion into electricity. By providing the extra damping needed from the CERS module, system survivability and reliability of critical components are significantly improved. Another consequence is a size reduction of the PTO for the same power rating, and an increase of the Annual Electricity Production (AEP). The technology allows WECS to operate at higher average loading, increasing average conversion efficiency. Further, the grid compliance of electricity produced is significantly improved through this new energy storage concept. The improvements described above are expected to significantly reduce shock loads on WECs, increase in AEP of 25% and reduce LCOE more than 30% compared to the state of art.",
+    "totalCost": "3988747,25",
+    "ecMaxContribution": "3988744",
+    "coordinator": "CORPOWER OCEAN AB",
+    "coordinatorCountry": "SE",
+    "participants": "G S HYDRO AKTIEBOLAG;PMC CYLINDERS AKTIEBOLAG;RISE RESEARCH INSTITUTES OF SWEDEN AB;WAVEC/OFFSHORE RENEWABLES - CENTRO DE ENERGIA OFFSHORE ASSOCIACAO;THE EUROPEAN MARINE ENERGY CENTRE LIMITED;THE UNIVERSITY OF EDINBURGH;EDP INOVACAO SA",
+    "participantCountries": "SE;PT;UK",
+    "projectParticipants": {
+        "994789806": {
+            "orgId": "994789806",
+            "orgName": "EDP INOVACAO SA",
+            "ecContrib": 67437
+        },
+        "920869889": {
+            "orgId": "920869889",
+            "orgName": "PMC CYLINDERS AKTIEBOLAG",
+            "ecContrib": 251062
+        },
+        "999493239": {
+            "orgId": "999493239",
+            "orgName": "THE EUROPEAN MARINE ENERGY CENTRE LIMITED",
+            "ecContrib": 521337
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 290437
+        },
+        "999543485": {
+            "orgId": "999543485",
+            "orgName": "WAVEC/OFFSHORE RENEWABLES - CENTRO DE ENERGIA OFFSHORE ASSOCIACAO",
+            "ecContrib": 257850
+        },
+        "999613422": {
+            "orgId": "999613422",
+            "orgName": "RISE RESEARCH INSTITUTES OF SWEDEN AB",
+            "ecContrib": 332937
+        },
+        "941915009": {
+            "orgId": "941915009",
+            "orgName": "CORPOWER OCEAN AB",
+            "ecContrib": 2090059
+        },
+        "920833223": {
+            "orgId": "920833223",
+            "orgName": "G S HYDRO AKTIEBOLAG",
+            "ecContrib": 177625
+        }
+    },
+    "calculatedTotalContribution": 3988744
+}

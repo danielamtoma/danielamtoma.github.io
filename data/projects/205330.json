@@ -1,0 +1,23 @@
+{
+    "rcn": "205330",
+    "acronym": "EPoCH",
+    "topics": "ERC-ADG-2015",
+    "title": "Exploring and Preventing Cryptographic Hardware Backdoors: Protecting the Internet of Things against Next-Generation Attacks",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "The digital landscape is currently undergoing an evolution towards the Internet of Things. The IoT comes with a dramatically increased threat potential, as attacks can endanger human life and can lead to a massive loss of privacy of (European) citizens. A particular dangerous class of attacks manipulates the cryptographic algorithms in the underlying hardware. Backdoors in the cryptography of IoT devices can lead to system-wide loss of security.  This proposal has the ambitious goal to comprehensively understand and counter low-level backdoor attacks. The required research consists of two major modules:\n\n1) The development of an encompassing understanding of how hardware manipulations of cryptographic functions can actually be performed, and what the consequences are for the system security.  Exploring attacks is fundamental for designing strong countermeasures, analogous to the role of cryptanalysis in cryptology.\n\n2) The development of hardware countermeasures that provide systematic protection against malicious manipulations. In contrast to detection-based methods which dominate the literature, our approach will be pro-active. We will develop solutions for instances of important problems, including hardware reverse engineering and hardware hiding. Little is known about the limits of and optimum approaches to both problems in specific settings.\n\nBeyond prevention of hardware Trojans, the research will have applications in IP protection and will spark research in the theory of computer science community.",
+    "totalCost": "2498286",
+    "ecMaxContribution": "2498286",
+    "coordinator": "RUHR-UNIVERSITAET BOCHUM",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 2498286
+        }
+    },
+    "calculatedTotalContribution": 2498286
+}

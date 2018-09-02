@@ -1,0 +1,43 @@
+{
+    "rcn": "200255",
+    "acronym": "FourCmodelling",
+    "topics": "MSCA-RISE-2015",
+    "title": "Conflict, Competition, Cooperation and Complexity: Using Evolutionary Game Theory to model realistic populations",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "'Real animals and human populations are complex, involving structural relationships depending upon space and time and varied interactions between potentially many individuals. Human societies feature family units, communities, companies and nations. Some animal also have complex societies, such as primate groups and social insect colonies. Single organisms themselves can be thought of as complex ecosystems, host to many interacting life forms. \n\nModels of populations are necessarily idealised, and most involve either simple pairwise interactions or 'well-mixed' structureless populations, or both. In this project we shall develop game-theoretical models, both general and focused on specific real population scenarios, which incorporate population structure and within population interactions which are both complex in character. We will focus on the themes of Conflict, Competition, Cooperation and Complexity inherent in the majority of real populations. \n\nThere will be four complementary subprojects within the overall project. The first will focus on developing a general theory of modelling multiplayer evolutionary games in structured populations, and will feed into each of the other three subprojects. The second will consider complex foraging games, in particular games under time constraints and involving sequential decisions relating to patch choice. The third will involve developing computational models of spatio-temporal dynamics for the modelling of pandemics. The final subproject will model cancer as a complex adaptive system, where a population of tumour, normal and immune cells evolve within a human ecosystem.\n\nThe four subprojects will be developed in parallel fostered by frequent research visits and interactions, each involving a team comprising of EU and North American researchers, and will feed into each other through regular interactions and meetings. The aim is to develop a rich, varied but consistent theory with wide applicability.'",
+    "totalCost": "243000",
+    "ecMaxContribution": "216000",
+    "coordinator": "CITY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "Biologicke centrum AV CR, v. v. i.;UNIVERSITA DEGLI STUDI DI TORINO;UNIVERSITEIT MAASTRICHT;EOTVOS LORAND TUDOMANYEGYETEM;Szegedi Tudomanyegyetem - Hungarian-Netherlands School of Educational Management",
+    "participantCountries": "CZ;IT;NL;HU",
+    "projectParticipants": {
+        "999842730": {
+            "orgId": "999842730",
+            "orgName": "CITY UNIVERSITY OF LONDON",
+            "ecContrib": 45000
+        },
+        "999896468": {
+            "orgId": "999896468",
+            "orgName": "EOTVOS LORAND TUDOMANYEGYETEM",
+            "ecContrib": 18000
+        },
+        "999975911": {
+            "orgId": "999975911",
+            "orgName": "UNIVERSITEIT MAASTRICHT",
+            "ecContrib": 49500
+        },
+        "999861936": {
+            "orgId": "999861936",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TORINO",
+            "ecContrib": 76500
+        },
+        "999520108": {
+            "orgId": "999520108",
+            "orgName": "Biologicke centrum AV CR, v. v. i.",
+            "ecContrib": 18000
+        }
+    },
+    "calculatedTotalContribution": 207000
+}

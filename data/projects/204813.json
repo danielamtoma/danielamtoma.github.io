@@ -1,0 +1,23 @@
+{
+    "rcn": "204813",
+    "acronym": "Scale-FreeBack",
+    "topics": "ERC-ADG-2015",
+    "title": "Scale-Free Control for Complex Physical Network Systems",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Technology achievements were typically built upon fundamental theoretical findings, but nowadays technology seems to be evolving faster than our ability to develop new concepts and theories. Intelligent traffic systems benefit from many technical innovations, for example. Mobile phones, radars, cameras and magnetometers can be used to measure traffic evolution and provide large sets of valuable data. Vehicles can communicate with the network infrastructure, as well as each other. However, these huge technological advances have not been used to the full so far. Traffic lights are far from functioning optimally and traffic management systems do not always prevent the occurrence of congestions.\nSo what is missing? Such systems affect our daily life; why arenít them on pace with technology advances? Possible because they have become far more complex than the analytical tools available for managing them. Systems have many components, communicate with each other, have self-decision-making mechanisms, share an enormous amount of information, and form networks. Research in control systems has challenged some of these features, but not in a very concerted way. There is a lack of ìglueî relating the solutions to each other.\nIn the Scale-FreeBack project, it is proposed to approach this problem with a new holistic vision. Scale-FreeBack will first investigate appropriate scale-free dynamic modeling approaches breaking down systemís complexity, and then develop control and observation algorithms which are specifically tailored for such models. Scale-FreeBack will also investigate new resilient issues in control which are urgently required because of the increasing connectivity between systems and the external world. Road traffic networks will be used in proof-of-concept studies based on field tests performed at our Grenoble Traffic Lab (GTL) and in a large-scale microscopic simulator.",
+    "totalCost": "2873601",
+    "ecMaxContribution": "2873601",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 2873601
+        }
+    },
+    "calculatedTotalContribution": 2873601
+}

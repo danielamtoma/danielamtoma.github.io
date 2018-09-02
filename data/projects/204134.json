@@ -1,0 +1,23 @@
+{
+    "rcn": "204134",
+    "acronym": "FLAMENCO",
+    "topics": "ERC-CoG-2015",
+    "title": "A Fully-Implantable MEMS-Based Autonomous Cochlear Implant",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "Sensorineural impairment, representing the majority of the profound deafness, can be restored using cochlear implants (CIs), which electrically stimulates the auditory nerve to repair hearing in people with severe-to-profound hearing loss. A conventional CI consists of an external microphone, a sound processor, a battery, an RF transceiver pair, and a cochlear electrode. The major drawback of conventional CIs is that, they replace the entire natural hearing mechanism with electronic hearing, even though most parts of the middle ear are operational. Also, the power hungry units such as microphone and RF transceiver cause limitations in continuous access to sound due to battery problems. Besides, damage risk of external components especially if exposed to water and aesthetic concerns are other critical problems. Limited volume of the middle ear is the main obstacle for developing fully implantable CIs.\nFLAMENCO proposes a fully implantable, autonomous, and low-power CI, exploiting the functional parts of the middle ear and mimicking the hair cells via a set of piezoelectric cantilevers to cover the daily acoustic band. FLAMENCO has a groundbreaking nature as it revolutionizes the operation principle of CIs. The implant has five main units: i) piezoelectric transducers for sound detection and energy harvesting, ii) electronics for signal processing and battery charging, iii) an RF coil for tuning the electronics to allow customization, iv) rechargeable battery, and v) cochlear electrode for neural stimulation. The utilization of internal energy harvesting together with the elimination of continuous RF transmission, microphone, and front-end filters makes this system a perfect candidate for next generation autonomous CIs. In this project, a multi-frequency self-powered implant for in vivo operation will be implemented, and the feasibility will be proven through animal tests.",
+    "totalCost": "1993750",
+    "ecMaxContribution": "1993750",
+    "coordinator": "MIDDLE EAST TECHNICAL UNIVERSITY",
+    "coordinatorCountry": "TR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999643492": {
+            "orgId": "999643492",
+            "orgName": "MIDDLE EAST TECHNICAL UNIVERSITY",
+            "ecContrib": 1993750
+        }
+    },
+    "calculatedTotalContribution": 1993750
+}

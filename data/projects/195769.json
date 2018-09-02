@@ -1,0 +1,23 @@
+{
+    "rcn": "195769",
+    "acronym": "CYBERNETS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Cybernetic Communication Networks: Fundamental Limits and Engineering Challenges",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2017",
+    "objective": "This Reintegration Panel proposal, CYBERNETS, focuses on the study of Cybernetic Communication Networks (CCN). CCNs are wireless networks that are context-aware, possess learning capabilities and artificial intelligence to guarantee reliability, efficiency and resilience to changes, failures or attacks via autonomous, self-configuring and self-healing individual and network behavior. Typical examples of CCNs are beyond-5G cellular systems and critical communication systems, e.g., law enforcement, disaster relief, body- area, medical instruments, space, and indoor/outdoor commercial applications. A practical implementation of a CCN requires extending classical communication systems to embrace the dynamics of fully decentralized systems whose components might exhibit either cooperative, non-cooperative or even malicious behaviors to improve individual and/or global performance. In this context, CYBERNETS aims to develop a relevant understanding of the interactions between information theory, game theory and signal processing to tackle two particular problems from both theoretical and practical perspectives: (I) use of feedback and (II) behavior adaptation in fully decentralized CCNs. In the former, the main objectives are: (i) to determine the fundamental limits of data transmission rates in CCNs with feedback; and (ii) to develop and test in real-systems, transmit-receive configurations to provide a proof-of-concept of feedback in CCNs. For the achievement of these practical objectives, CYBERNETS relies on the world-class testbed infrastructure of INRIA at the CITI Lab for fully closing the gap between theoretical analysis and real-system implementation. In the latter, the main objectives are: (i) to identify and explore alternatives for allowing transmitter-receiver pairs to learn equilibrium strategies in CCNs with and without feedback; (ii) to study the impact of network-state knowledge on scenarios derived from the malicious behavior of network components.",
+    "totalCost": "185076",
+    "ecMaxContribution": "185076",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 185076
+        }
+    },
+    "calculatedTotalContribution": 185076
+}

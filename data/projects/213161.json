@@ -1,0 +1,68 @@
+{
+    "rcn": "213161",
+    "acronym": "MEMMO",
+    "topics": "ICT-25-2016-2017",
+    "title": "Memory of Motion",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "What if we could generate complex movements for a robot with any combination of arms and legs interacting with a dynamic environment in real-time? MEMMO has the ambition to create such a motion-generation technology that will revolutionize the motion capabilities of robots and unlock a large range of industrial and service applications. Based on optimal-control theory, we develop a unified yet tractable approach to motion generation for complex robots with arms and legs. The approach relies on three innovative components. \n1) A massive amount of pre-computed optimal motions are generated offline and compressed into a 'memory of motion'. \n2) These trajectories are recovered during execution and adapted to new situations with real-time model predictive control. This allows generalization to dynamically changing environments. \n3) Available sensor modalities (vision, inertial, haptic) are exploited for feedback control which goes beyond the basic robot state with a focus on robust and adaptive behavior. \n\nTo demonstrate the generality of the approach, MEMMO is organized around 3 relevant industrial applications, where MEMMO technologies have a huge innovation potential. For each application, we will demonstrate the proposed technology in relevant industrial or medical environments, following specifications designed by the end-users partners of the project. \n1) A high-performance humanoid robot will perform advanced locomotion and industrial tooling tasks in a 1:1 scale demonstrator of a real aircraft assembly. \n2) An advanced exoskeleton paired with a paraplegic patient will demonstrate dynamic walking on flat floor, slopes and stairs, in a rehabilitation center under medical surveillance. \n3) A challenging inspection task in a real construction site will be performed with a quadruped robot. While challenging, these demonstrators are feasible, as assessed by preliminary results obtained by MEMMO partners, that are all experts or stakeholders of their domain.",
+    "totalCost": "4157151,75",
+    "ecMaxContribution": "3964818,75",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "AIRBUS SAS;PAL ROBOTICS SL;COSTAIN GROUP PLC;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;WANDERCRAFT;FONDATION DE L'INSTITUT DE RECHERCHE IDIAP;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;THE UNIVERSITY OF EDINBURGH;FEDERATION DES APAJH",
+    "participantCountries": "FR;ES;UK;DE;CH",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 595250
+        },
+        "999963010": {
+            "orgId": "999963010",
+            "orgName": "AIRBUS SAS",
+            "ecContrib": 0
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 913750
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 492971
+        },
+        "975046232": {
+            "orgId": "975046232",
+            "orgName": "COSTAIN GROUP PLC",
+            "ecContrib": 50000
+        },
+        "999644074": {
+            "orgId": "999644074",
+            "orgName": "FONDATION DE L'INSTITUT DE RECHERCHE IDIAP",
+            "ecContrib": 668780
+        },
+        "937453591": {
+            "orgId": "937453591",
+            "orgName": "WANDERCRAFT",
+            "ecContrib": 562500
+        },
+        "910936701": {
+            "orgId": "910936701",
+            "orgName": "FEDERATION DES APAJH",
+            "ecContrib": 68750
+        },
+        "970666488": {
+            "orgId": "970666488",
+            "orgName": "PAL ROBOTICS SL",
+            "ecContrib": 258750
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 354068
+        }
+    },
+    "calculatedTotalContribution": 3964819
+}

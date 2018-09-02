@@ -1,0 +1,28 @@
+{
+    "rcn": "199387",
+    "acronym": "iMPACT",
+    "topics": "ERC-CoG-2014",
+    "title": "innovative Medical Protons Achromatic Calorimeter and Tracker",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "The iMPACT project focuses on the realization of a proton Computed Tomography (pCT) scanner capable of acquiring a target full 3D image with 1s exposure, therefore opening the way to the practical application of proton imaging technique in medical radiotherapy treatments. Such cutting-edge particles scanner combines innovative ideas devised for the future High Energy Physics experiments together with original developments in the microelectronic field to enable charged particles imaging at the GHz scale.\n     \nIn recent years the use of hadrons (1H and 12C ions) for cancer radiation treatment has become an established technique and many facilities are currently operational or under construction worldwide. To fully exploit the therapeutic advantages offered by hadron therapy, precise target (body) imaging for accurate beam delivery is decisive. pCT systems, currently in their R&D phase, provide the ultimate in low dose (< 2 mGy), 3D imaging for hadrons treatment guidance. Key components of a pCT system are the detectors used to track the protons and measure their residual energy.\n\nThe iMPACT scanner, composed by a proprietary monolithic pixels tracking detector and an innovative achromatic calorimeter, will improve current pCT imaging speed by more than a factor 100, leading to potential recording times of about 1 second for a full 3D target image (compared to present ? 10 minutes). The iMPACT detector will also have higher spatial resolution (equal or better than 10 µm) and lower material budget (by a factor 10) respect to state of the art systems, further enhancing 3D imaging accuracy. \n\nNot least when considering actual industrial application, production costs will be far lower than existent systems, because all sensors will be designed with commercially available technologies, making it possible to move pCT from the academic research realm to that of viable medical equipment.",
+    "totalCost": "1810000",
+    "ecMaxContribution": "1810000",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI PADOVA",
+    "coordinatorCountry": "IT",
+    "participants": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "999995602": {
+            "orgId": "999995602",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PADOVA",
+            "ecContrib": 775000
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 1035000
+        }
+    },
+    "calculatedTotalContribution": 1810000
+}

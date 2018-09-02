@@ -1,0 +1,88 @@
+{
+    "rcn": "211731",
+    "acronym": "PUMP-HEAT",
+    "topics": "LCE-28-2017",
+    "title": "Performance Untapped Modulation for Power and Heat via Energy Accumulation Technologies",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "Natural gas fired Combined Cycle (CC) power plants are currently the backbone of EU electrical grid, providing most of regulation services necessary to increase the share of non-programmable renewable sources into the electrical grid. As a consequence, Original Equipment Manufacturers (OEMs) and Utilities are investigating new strategies and technologies for power flexibility. On the other hand, existing cogenerative CCs are usually constrained by thermal user demand, hence can provide limited services to the grid. At the same time, CHP plants are highly promoted for their high rate of energy efficiency (> 90%) and combined with district heating network are a pillar of the EU energy strategy.\nTo un-tap such unexploited reserve of flexibility, and to further enhance turn-down ratio and power ramp capabilities of power oriented CCs, this project proposes the demonstration of an innovative concept based on the coupling of a fast-cycling highly efficient heat pump (HP) with CCs. The integrated system features thermal storage and advanced control concept for smart scheduling. The HP will include an innovative expander to increase the overall efficiency of the HP. In such an integrated concept, the following advantages are obtained: \n- the HP is controlled to modulate power in order to cope with the CC primary reserve market constraints;\n- the high temperature heat can be exploited in the district heating network, when available; low temperature cooling power can be used for gas turbine inlet cooling or for steam condenser cooling, thus reducing the water consumption;\n- in both options, the original CC operational envelope is significantly expanded and additional power flexibility is achieved.\nIn general, the CC integration with a HP and a cold/hot thermal storage brings to a reduction of the Minimum Environmental Load (MEL) and to an increase in power ramp rates, while enabling power augmentation at full load and increasing electrical grid resilience and flexibility.",
+    "totalCost": "5904426,25",
+    "ecMaxContribution": "5904426,25",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI GENOVA",
+    "coordinatorCountry": "IT",
+    "participants": "NV MAYEKAWA EUROPE SA;LIMMAT SCIENTIFIC AG;KUNGLIGA TEKNISKA HOEGSKOLAN;ARISTOTELIO PANEPISTIMIO THESSALONIKIS;SIEMENS INDUSTRY SOFTWARE SAS;RINA CONSULTING SPA;POLSKI KONCERN NAFTOWY ORLEN SA;CLAUGER;IREN SPA;ALFA LAVAL LUND AB;NOVENER;ANSALDO ENERGIA SPA;MITSUBISHI HITACHI POWER SYSTEMS EUROPE GMBH",
+    "participantCountries": "BE;CH;SE;EL;FR;IT;PL;DE",
+    "projectParticipants": {
+        "999951467": {
+            "orgId": "999951467",
+            "orgName": "RINA CONSULTING SPA",
+            "ecContrib": 505000
+        },
+        "998354459": {
+            "orgId": "998354459",
+            "orgName": "ANSALDO ENERGIA SPA",
+            "ecContrib": 247250
+        },
+        "996072437": {
+            "orgId": "996072437",
+            "orgName": "SIEMENS INDUSTRY SOFTWARE SAS",
+            "ecContrib": 263750
+        },
+        "995894054": {
+            "orgId": "995894054",
+            "orgName": "POLSKI KONCERN NAFTOWY ORLEN SA",
+            "ecContrib": 108625
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 402500
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 322500
+        },
+        "932643264": {
+            "orgId": "932643264",
+            "orgName": "CLAUGER",
+            "ecContrib": 497416
+        },
+        "949131615": {
+            "orgId": "949131615",
+            "orgName": "MITSUBISHI HITACHI POWER SYSTEMS EUROPE GMBH",
+            "ecContrib": 302125
+        },
+        "916064121": {
+            "orgId": "916064121",
+            "orgName": "NOVENER",
+            "ecContrib": 359760
+        },
+        "999976687": {
+            "orgId": "999976687",
+            "orgName": "UNIVERSITA DEGLI STUDI DI GENOVA",
+            "ecContrib": 711250
+        },
+        "983194329": {
+            "orgId": "983194329",
+            "orgName": "ALFA LAVAL LUND AB",
+            "ecContrib": 343750
+        },
+        "928059238": {
+            "orgId": "928059238",
+            "orgName": "NV MAYEKAWA EUROPE SA",
+            "ecContrib": 857500
+        },
+        "917626985": {
+            "orgId": "917626985",
+            "orgName": "LIMMAT SCIENTIFIC AG",
+            "ecContrib": 412500
+        },
+        "974020360": {
+            "orgId": "974020360",
+            "orgName": "IREN SPA",
+            "ecContrib": 570500
+        }
+    },
+    "calculatedTotalContribution": 5904426
+}

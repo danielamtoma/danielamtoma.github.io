@@ -1,0 +1,23 @@
+{
+    "rcn": "198169",
+    "acronym": "ProFF",
+    "topics": "ERC-CoG-2014",
+    "title": "Programming in vitro evolution using molecular fitness functions",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Natural enzymes are awesome catalysts, in terms of their catalytic efficiency, selectivity, control mechanisms, etc. Revamped as laboratory or industrial tools, they have allowed more than a few breakthroughs, such as PCR, next generation sequencing or green chemistry. The next revolution will be brought by a new generation of extensively modified ìenzymaticî catalysts working in non-natural environments, possibly build from non-natural chemistries and targeting an unlimited range of non-natural functions. However, their design is still an arduous process; computational design lacks precision while the combinatorial approach, directed evolution, is limited by labor-intensive or ad hoc selection stages.\n\nWe will remove the selection bottleneck in directed evolution by introducing biochemical computers able to perform this step autonomously. Based on recent developments in DNA-based molecular programming, these molecular scouts will be co-compartmentalized with genetic libraries into billions of individual compartments in micrometric emulsions. At each generation and in each droplet, after expression of the genotype, these molecular programs will autonomously: i- evaluate the phenotypic signature of a candidate, ii- integrate this information into a predefined scoring function and iii- propagate the relevant genetic information according to this score.\n\nThe programmability of this approach will make directed evolution versatile, faster, and able to address more challenging problems. The evolution dynamics itself become tunable, offering new perspectives on the fitness landscape of biopolymer catalysts. A quantitative in silico model will be built and integrated in a computer-assisted tool for the fast set-up of in vitro experiments and tuning of the various experimental knobs. Overall, we will close a virtuous circle by evolving the molecular tools enabling the programmable selection of the next generation of catalytic tools.",
+    "totalCost": "2141379",
+    "ecMaxContribution": "2141379",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 2141379
+        }
+    },
+    "calculatedTotalContribution": 2141379
+}

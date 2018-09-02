@@ -1,0 +1,38 @@
+{
+    "rcn": "212139",
+    "acronym": "SWAMP",
+    "topics": "EUB-02-2017",
+    "title": "Smart Water Management Platform",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "The SWAMP project develops IoT based methods and approaches for smart water management in precision irrigation domain, and pilots them in Italy, Spain, and Brazil (2). \n\nWater is vital for ensuring food security to the worldís population, and agriculture is the biggest consumer amounting for 70% of freshwater. The water wastages are caused mainly by leakages in distribution and irrigation systems, and in the field application methods. The most common technique, surface irrigation wastes a high percentage of the water by wetting areas where no plants benefit from it. Localized irrigation can use water more efficiently and effectively, avoiding both under-irrigation and over-irrigation. However, in an attempt to avoid under-irrigation, farmers feed more water than is needed resulting not only to productivity losses, but also water is wasted. Therefore, technology should be developed and deployed for sensing the level of water needed by the plantation and for flowing the water to places where and when needed. The SWAMP project addresses these issues by use of the Internet of Things (IoT), data analytics, autonomous devices and other related technologies.\n\nThe challenges addressed by SWAMP project are following: 1) Reducing effort in software development for IoT-based smart applications. 2) Automating advanced platforms and integrating different technologies and components. 3) The integration of heterogeneous and advanced sensors, particularly flying sensors (drones) providing precision in the water supply for irrigation. 4) The use of a Software Platform together with technologies such as IoT, Big Data, Cloud/Fog and drones for the deployment of pilot applications for smart water management. 5) Proposing, testing and validating new business models for using IoT in smart water management settings. 6) Technological components must be flexible and adaptable enough in order to adapt to different contexts and to be replicable to different locations and contexts.",
+    "totalCost": "1478090",
+    "ecMaxContribution": "1478090",
+    "coordinator": "Teknologian tutkimuskeskus VTT Oy",
+    "coordinatorCountry": "FI",
+    "participants": "INTERCROP IBERICA SL;CONSORZIO DI BONIFICA DELL'EMILIA CENTRALE;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;QUATERNIUM TECHNOLOGIES SOCIEDAD LIMITADA",
+    "participantCountries": "ES;IT",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 601429
+        },
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 454375
+        },
+        "999428637": {
+            "orgId": "999428637",
+            "orgName": "INTERCROP IBERICA SL",
+            "ecContrib": 129411
+        },
+        "920267616": {
+            "orgId": "920267616",
+            "orgName": "CONSORZIO DI BONIFICA DELL'EMILIA CENTRALE",
+            "ecContrib": 132875
+        }
+    },
+    "calculatedTotalContribution": 1318090
+}

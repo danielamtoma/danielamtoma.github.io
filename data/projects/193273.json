@@ -1,0 +1,63 @@
+{
+    "rcn": "193273",
+    "acronym": "MedBioinformatics",
+    "topics": "PHC-32-2014",
+    "title": "Creating medically-driven integrative bioinformatics applications focused on oncology, CNS disorders and their comorbidities (MedBioinformatics)",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "Progress in biomedical research and healthcare requires profiting from the huge amount of data and knowledge that are generated. However, most of the potential users have no means to efficiently exploit this wealth of information. Up to now, many of the efforts done for developing bioinformatics methods and applications have not produced the expected societal impact for different reasons, including: 1) the deficit of integrative approaches that effectively combine different types of data from different sources; and 2) the lack of active involvement of the potential users (from experimental scientists to healthcare professionals) in the process of creating applications that mine, integrate, analyse and display biomedical information in a way that is immediately understandable and useful ('actionable') by the end users. The present project tries to overcome this issue by involving a multidisciplinary team of experienced bioinformaticians, and experimental and clinical scientists in the design and development of demanded bioinformatics applications. The bioinformaticians will develop medical-oriented integrative methods and applications (New Generation Genotype-Phenotype Explorations, Disease Biomarker Browser, Disease Trajectory Comorbidity Browser, Cancer Genome Interpreter, etc.), while the experimental and clinical partners will actively participate in the design and assessment of the applications, as well as in the curation of customized resources.  The experimental and clinical partners belong to two completely different medical specialties (oncology and psychiatry), which have a big impact in citizensí wellbeing. Moreover, the commonalities existing between the needs of these disparate specialties will facilitate the identification and design of applications likely to satisfy the needs of biomedical professionals in other areas. Finally, the project aims to setup a platform for the sustainable exploitation of the tools developed throughout its execution.",
+    "totalCost": "3463481,25",
+    "ecMaxContribution": "3463481",
+    "coordinator": "CONSORCIO MAR PARC DE SALUT DE BARCELONA",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSIDAD POMPEU FABRA;FUNDACIO PRIVADA INSTITUT D'INVESTIGACIO ONCOLOGICA DE VALL-HEBRON;HELSINGIN YLIOPISTO;EUROPEAN MOLECULAR BIOLOGY LABORATORY;BMD SOFTWARE LDA;KOBENHAVNS UNIVERSITET;FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA);THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;Synapse Research Management Partners S.L",
+    "participantCountries": "ES;FI;DE;PT;DK;UK",
+    "projectParticipants": {
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 565860
+        },
+        "999541836": {
+            "orgId": "999541836",
+            "orgName": "FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA)",
+            "ecContrib": 215540
+        },
+        "952818294": {
+            "orgId": "952818294",
+            "orgName": "BMD SOFTWARE LDA",
+            "ecContrib": 269208
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 258750
+        },
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 262000
+        },
+        "995163935": {
+            "orgId": "995163935",
+            "orgName": "FUNDACIO PRIVADA INSTITUT D'INVESTIGACIO ONCOLOGICA DE VALL-HEBRON",
+            "ecContrib": 186000
+        },
+        "985920320": {
+            "orgId": "985920320",
+            "orgName": "CONSORCIO MAR PARC DE SALUT DE BARCELONA",
+            "ecContrib": 891114
+        },
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 301750
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 237625
+        }
+    },
+    "calculatedTotalContribution": 3187847
+}

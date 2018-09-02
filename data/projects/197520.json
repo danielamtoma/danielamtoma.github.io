@@ -1,0 +1,93 @@
+{
+    "rcn": "197520",
+    "acronym": "RobustSENSE",
+    "topics": "ECSEL-01-2014",
+    "title": "Robust and Reliable Environment Sensing and Situation Prediction for Advanced Driver Assistance Systems and Automated Driving",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2018",
+    "objective": "Todayís driver assistance systems offer comfort and safety in sound environmental conditions. However, in harsh environment conditions ñ when needed most ñ systems stop working due to reduced sensor information quality. Targeting to the area of highly automated driving the improvement of perception, decision and planning under adverse conditions is one of the main challenges to be addressed. \nRobustSENSE is a project aiming at automated and safe mobility. Its goal is making systems able to cope with real world requirements under all environmental conditions. The RobustSENSE system introduces reliable, secure and trustable sensors and software by implementing self-diagnosis, adaptation and robustness. By managing diversity, complexity and safety it increases yield, robustness and reliability. \nRobustSENSE develops metrics to measures sensor system reliability on every level of assistance and automation systems as well as investigate approaches to improve the system. RobustSENSE thus aims at enhancing the robustness of all sensing methods and algorithms required for advanced driver assistance systems and automated driving. \nRobustSENSE moves from a platform consisting of several independent subsystems to a holistic approach. RobustSENSE introduces both, reliability measures and self monitoring across all levels of the system allowing two things: 1) Taking appropriate actions and algorithms on the respective system level to react on performance reduction caused by technical failure or changing environment conditions and 2) propagating reliability measures to a higher system level for decision making and taking appropriate actions therein. \nThus, the area of operation of highly automated driving functions is permanently adapted to the present available performance of the perception and decision making system in order to guarantee a safe driving status at any time.",
+    "totalCost": "8690331,95",
+    "ecMaxContribution": "3348357,55",
+    "coordinator": "DAIMLER AG",
+    "coordinatorCountry": "DE",
+    "participants": "EUROPEAN CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGIES GMBH;ROBERT BOSCH GMBH;STIFTUNG FZI FORSCHUNGSZENTRUM INFORMATIK AM KARLSRUHER INSTITUT FUR TECHNOLOGIE;CENTRO RICERCHE FIAT SCPA;SICK AG;Teknologian tutkimuskeskus VTT Oy;UNIVERSITAET ULM;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;AVL DEUTSCHLAND GMBH;FUNDACION PARA LA PROMOCION DE LA INNOVACION, INVESTIGACION Y DESARROLLO TECNOLOGICO EN LA INDUSTRIA DE AUTOMOCION DE GALICIA;OPLATEK GROUP OY;FICOMIRRORS SA;MODULIGHT OY;AVL LIST GMBH",
+    "participantCountries": "DE;IT;FI;ES;AT",
+    "projectParticipants": {
+        "985636013": {
+            "orgId": "985636013",
+            "orgName": "FICOMIRRORS SA",
+            "ecContrib": 201013
+        },
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 126750
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 109236
+        },
+        "951990496": {
+            "orgId": "951990496",
+            "orgName": "OPLATEK GROUP OY",
+            "ecContrib": 61165
+        },
+        "999709064": {
+            "orgId": "999709064",
+            "orgName": "DAIMLER AG",
+            "ecContrib": 335222
+        },
+        "999625353": {
+            "orgId": "999625353",
+            "orgName": "EUROPEAN CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGIES GMBH",
+            "ecContrib": 301296
+        },
+        "936119647": {
+            "orgId": "936119647",
+            "orgName": "UNIVERSITAET ULM",
+            "ecContrib": 347760
+        },
+        "999614101": {
+            "orgId": "999614101",
+            "orgName": "STIFTUNG FZI FORSCHUNGSZENTRUM INFORMATIK AM KARLSRUHER INSTITUT FUR TECHNOLOGIE",
+            "ecContrib": 495133
+        },
+        "999619145": {
+            "orgId": "999619145",
+            "orgName": "MODULIGHT OY",
+            "ecContrib": 101303
+        },
+        "936783903": {
+            "orgId": "936783903",
+            "orgName": "AVL DEUTSCHLAND GMBH",
+            "ecContrib": 82523
+        },
+        "990590094": {
+            "orgId": "990590094",
+            "orgName": "SICK AG",
+            "ecContrib": 303700
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 281125
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 202389
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 294849
+        },
+        "999603819": {
+            "orgId": "999603819",
+            "orgName": "FUNDACION PARA LA PROMOCION DE LA INNOVACION, INVESTIGACION Y DESARROLLO TECNOLOGICO EN LA INDUSTRIA DE AUTOMOCION DE GALICIA",
+            "ecContrib": 104894
+        }
+    },
+    "calculatedTotalContribution": 3348358
+}

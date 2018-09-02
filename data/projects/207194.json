@@ -1,0 +1,68 @@
+{
+    "rcn": "207194",
+    "acronym": "VESSEDIA",
+    "topics": "DS-01-2016",
+    "title": "VERIFICATION ENGINEERING OF SAFETY AND SECURITY CRITICAL DYNAMIC INDUSTRIAL APPLICATIONS",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The VESSEDIA project will bring safety and security to many new software applications and devices. In the fast evolving world we live in, the Internet has brought many benefits to individuals, organisations and industries. With the capabilities offered now (such as IPv6) to connect billions of devices and therefore humans together, the Internet brings new threats to the software developers and VESSEDIA will allow connected applications to be safe and secure. VESSEDIA proposes to enhance and scale up modern software analysis tools, namely the mostly open-source Frama-C Analysis platform, to allow developers to benefit rapidly from them when developing connected applications. At the forefront of connected applications is the IoT, whose growth is exponential and whose security risks are real (for instance in hacked smart phones). VESSEDIA will take this domain as a target for demonstrating the benefits of using our tools on connected applications.\nVESSEDIA will tackle this challenge by 1) developing a methodology that allows to adopt and use source code analysis tools efficiently and produce similar benefits than already achieved for highly-critical applications (i.e. an exhaustive analysis and extraction of faults), 2) enhancing the Frama-C toolbox to enable efficient and fast implementation, 3) demonstrating the new toolbox capabilities on typical IoT (Internet of Things) applications including an IoT Operating System (Contiki), 4) developing a standardisation plan for generalising the use of the toolbox, 5) contributing to the Common Criteria certification process, and 6) defining a label ìVerified in Europeî for validating software products with European technologies such as Frama-C.",
+    "totalCost": "4192058,75",
+    "ecMaxContribution": "4192058,75",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;FUNDACION DEUSTO;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;AMOSSYS SAS;TURUN AMMATTIKORKEAKOULU OY;DASSAULT AVIATION;SEARCH-LAB BIZTONSAGI ERTEKELO ELEMZO ES KUTATO LABORATORIUM KORLATOLT FELELOSSEGU TARSASAG;KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "participantCountries": "FR;ES;DE;FI;HU;BE",
+    "projectParticipants": {
+        "948193431": {
+            "orgId": "948193431",
+            "orgName": "TURUN AMMATTIKORKEAKOULU OY",
+            "ecContrib": 293469
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1022888
+        },
+        "999704893": {
+            "orgId": "999704893",
+            "orgName": "SEARCH-LAB BIZTONSAGI ERTEKELO ELEMZO ES KUTATO LABORATORIUM KORLATOLT FELELOSSEGU TARSASAG",
+            "ecContrib": 372500
+        },
+        "996823508": {
+            "orgId": "996823508",
+            "orgName": "FUNDACION DEUSTO",
+            "ecContrib": 352125
+        },
+        "999957675": {
+            "orgId": "999957675",
+            "orgName": "DASSAULT AVIATION",
+            "ecContrib": 366125
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 295952
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 557750
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 343750
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 285000
+        },
+        "954781962": {
+            "orgId": "954781962",
+            "orgName": "AMOSSYS SAS",
+            "ecContrib": 302500
+        }
+    },
+    "calculatedTotalContribution": 4192059
+}

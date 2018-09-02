@@ -1,0 +1,43 @@
+{
+    "rcn": "193510",
+    "acronym": "MaMMoTH-Up",
+    "topics": "COMPET-02-2014",
+    "title": "Massively extended Modular Monitoring for Upper Stages",
+    "startDate": "01/05/2015",
+    "endDate": "31/08/2018",
+    "objective": "Today, the amount of telemetry data from the sensors in the upper stages of a launch vehicle is very restricted, due to limited on-board-computing capacities combined with limited data bandwidth to ground. As a result, no detailed information about the various phases of the flight is available.\n\nMassively extended Modular Monitoring for Upper Stages (MaMMoTH-Up) will improve the amount of monitored data by a factor of more than 2500 by integrating four key objectives, which are \n1. a self-configuring monitoring framework that will selectively observe, pre-process, and compress sensor data,\n2. Components off the Shelf (COTS) that provide improved computing performance on a launcher,\n3. design solutions guaranteeing the required levels of dependability, even when using relatively unreliable COTS components, and\n4. a tight coupling with advanced dependability analysis.\nAchieving these 4 goals is scientifically and practically highly relevant. A demonstrator at TRL 6 will show the advantages of the new monitoring infrastructure and a virtual prototype proves the advanced dependability enhancements. Thus, MaMMoTH-Up will provide a framework and a proof-of-concept for next-generation avionics solutions for a launcher based on COTS. Moreover, the work plan provides the path to realization, potentially including a demo-flight at the end of the project. The proposed technology is complementary with on-going launcher developments. The usage of COTS will represent a direct advantage over competitors; this will decrease time-to-market and decrease the European dependence on external suppliers.\n\nMaMMoTH-Up directly addresses the call COMPET-2-2014 by providing an innovative avionics solution for safer and more reliable launch operations for conventional launching systems. The solution developed within MaMMoTH-Up strengthens competitiveness and cost-efficiency having an immediate commercial potential.",
+    "totalCost": "2784014",
+    "ecMaxContribution": "2784014",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "AAC MICROTEC AB;ARIANEGROUP GMBH;POLITECNICO DI TORINO;AIRBUS DS GMBH",
+    "participantCountries": "SE;DE;IT",
+    "projectParticipants": {
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 523250
+        },
+        "999436494": {
+            "orgId": "999436494",
+            "orgName": "AIRBUS DS GMBH",
+            "ecContrib": 158461
+        },
+        "931927113": {
+            "orgId": "931927113",
+            "orgName": "ARIANEGROUP GMBH",
+            "ecContrib": 462993
+        },
+        "985054304": {
+            "orgId": "985054304",
+            "orgName": "AAC MICROTEC AB",
+            "ecContrib": 670060
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 969250
+        }
+    },
+    "calculatedTotalContribution": 2784014
+}

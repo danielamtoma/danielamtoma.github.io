@@ -1,0 +1,23 @@
+{
+    "rcn": "201560",
+    "acronym": "SFM4VOT",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Building a computational basis for the brain response in the left ventral occipito-temporal cortex: Understanding the Sparse Familiarity Model of visual word recognition",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "The left ventral occipito-temporal cortex (lvOT) is an integral part of the ventral visual processing stream and is consistently activated in response to visual words. Recently, I developed a computational implementation of the lvOT functioning during visual word recognition, the sparse familiarity model (SFM). The single assumption of the SFM is that the statistical patterns of letter string familiarity are the fundament of lvOT functioning. The SFM is able to simulate prominent lvOT benchmark contrasts and its simulations predict brain activation of the lvOT in multiple fMRI studies. The main aim of the present proposal is to use the model to systematically investigate hotly debated topics in word recognition research concerning current theoretical approaches for the lvOT: (1) The influence of learning and (2) domain specificity (i.e. for words) vs. generalization (i.e., to face and object recognition) of lvOT function and neuronal populations. In the course of these investigations, the SFM will be developed into a learning model and a generalized model for word, face, and object recognition. Central to this will be high-density electrophysiological measurements (MEG) that sample brain activation with high temporal resolution and reasonable spatial resolution, to allow connectivity analysis at different time points. The MEG measurement, in addition to fMRI measures, will be essential to test theoretical assumptions concerning the proposed two stages of the SFM that differ fundamentally in terms of neuronal and cognitive mechanisms. Critical will be the association of these stages to different time windows and assumptions about the brain networks involved. The host, Prof. Fiebach at Frankfurt University, has a strong focus on the neurocognitive basis of language and access to an MEG, which is essential for realizing this project. To summarize, the goal of the project is to establish the sparse familiarity model and extend its functioning to resolve current debates.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "JOHANN WOLFGANG GOETHE-UNIVERSITATFRANKFURT AM MAIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999978724": {
+            "orgId": "999978724",
+            "orgName": "JOHANN WOLFGANG GOETHE-UNIVERSITATFRANKFURT AM MAIN",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

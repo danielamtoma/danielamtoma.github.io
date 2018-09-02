@@ -1,0 +1,23 @@
+{
+    "rcn": "203279",
+    "acronym": "CLIM",
+    "topics": "ERC-ADG-2015",
+    "title": "Computational Light fields IMaging",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Light fields technology holds great promises in computational imaging. Light fields cameras capture light rays as they interact with physical objects in the scene. The recorded flow of rays (the light field) yields a rich description of the scene enabling advanced image creation capabilities from a single capture. This technology is expected to bring disruptive changes in computational imaging. However, the trajectory to a deployment of light fields remains cumbersome. Bottlenecks need to be alleviated before being able to fully exploit its potential. Barriers that CLIM addresses are the huge amount of high-dimensional (4D/5D) data produced by light fields, limitations of capturing devices, editing and image creation capabilities from compressed light fields. These barriers cannot be overcome by a simple application of methods which have made the success of digital imaging in past decades. The 4D/5D sampling of the geometric distribution of light rays striking the camera sensors imply radical changes in the signal processing chain compared to traditional imaging systems.\n\nThe ambition of CLIM is to lay new algorithmic foundations for the 4D/5D light fields processing chain, going from representation, compression to rendering. Data processing becomes tougher as dimensionality increases, which is the case of light fields compared to 2D images. This leads to the first challenge of CLIM that is the development of methods for low dimensional embedding and sparse representations of 4D/5D light fields. The second challenge is to develop a coding/decoding architecture for light fields which will exploit their geometrical models while preserving the structures that are critical for advanced image creation capabilities. CLIM targets ground-breaking solutions which should open new horizons for a number of consumer and professional markets (photography, augmented reality, light field microscopy, medical imaging, particle image velocimetry).",
+    "totalCost": "2461086",
+    "ecMaxContribution": "2461086",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 2461086
+        }
+    },
+    "calculatedTotalContribution": 2461086
+}

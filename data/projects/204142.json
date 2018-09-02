@@ -1,0 +1,23 @@
+{
+    "rcn": "204142",
+    "acronym": "GraphInt",
+    "topics": "ERC-CoG-2015",
+    "title": "Principles of Graph Data Integration",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2021",
+    "objective": "The present proposal tackles fundamental problems in data management, leveraging expressive, large-scale and heterogeneous graph structures in order to integrate both unstructured (e.g., text) and structured (e.g., relational) content. Integrating heterogeneous content has become a key hurdle in the deployment of Big Data applications, due to the meteoric rise of both machine and user-generated data storing information in a variety of formats. Traditional integration techniques cleaning up, fusing and then mapping heterogeneous data onto rigid abstractions fall short of accurately capturing the complexity and wild heterogeneity of todayís information. Having closely followed the emergence of heterogeneous information sources online, I am convinced that only an interdisciplinary approach drawing both from classical data management and from large-scale Web information processing techniques can solve the formidable data integration challenges that they pose. The following project proposes an ambitious overhaul of information integration techniques embracing the scale and heterogeneity of todayís data. I propose the use of expressive and heterogeneous graphs of entities to continuously and dynamically interrelate disparate pieces of content while capturing their idiosyncrasies. The following project focuses on three core issues related to large-scale and heterogeneous information graphs: i) the effective extraction of fined-grained information from unstructured sources and their proper integration into large-scale heterogeneous and probabilistic graphs, ii) the creation of novel physical storage structures and primitives to durably and efficiently manage the profusion of data considered by such graphs using clusters of commodity machines, and iii) the development of logical data abstraction mechanisms facilitating the effective and efficient resolution of complex analytic and data integration queries on top of the physical layer.",
+    "totalCost": "1998339",
+    "ecMaxContribution": "1998339",
+    "coordinator": "UNIVERSITE DE FRIBOURG",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999855728": {
+            "orgId": "999855728",
+            "orgName": "UNIVERSITE DE FRIBOURG",
+            "ecContrib": 1998339
+        }
+    },
+    "calculatedTotalContribution": 1998339
+}

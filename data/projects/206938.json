@@ -1,0 +1,23 @@
+{
+    "rcn": "206938",
+    "acronym": "FAFC",
+    "topics": "ERC-2016-STG",
+    "title": "Foundations and Applications of Functional Cryptography",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "'Modern cryptography has successfully followed an 'all-or-nothing' design paradigm over the years. For example, the most fundamental task of data encryption requires that encrypted data be fully recoverable using the encryption key, but be completely useless without it. Nowadays, however, this paradigm is insufficient for a wide variety of evolving applications, and a more subtle approach is urgently needed. This has recently motivated the cryptography community to put forward a vision of 'functional cryptography': Designing cryptographic primitives that allow fine-grained access to sensitive data.\n\nThis proposal aims at making substantial progress towards realizing the premise of functional cryptography. By tackling challenging key problems in both the foundations and the applications of functional cryptography, I plan to direct the majority of our effort towards addressing the following three fundamental objectives, which span a broad and interdisciplinary flavor of research directions: (1) Obtain a better understanding of functional cryptography's building blocks, (2) develop functional cryptographic tools and schemes based on well-studied assumptions, and (3) increase the usability of functional cryptographic systems via algorithmic techniques.\n\nRealizing the premise of functional cryptography is of utmost importance not only to the development of modern cryptography, but in fact to our entire technological development, where fine-grained access to sensitive data plays an instrumental role. Moreover, our objectives are tightly related to two of the most fundamental open problems in cryptography: Basing cryptography on widely-believed worst-case complexity assumptions, and basing public-key cryptography on private-key primitives. I strongly believe that meaningful progress towards achieving our objectives will shed new light on these key problems, and thus have a significant impact on our understanding of modern cryptography.'",
+    "totalCost": "1307188",
+    "ecMaxContribution": "1307188",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1307188
+        }
+    },
+    "calculatedTotalContribution": 1307188
+}

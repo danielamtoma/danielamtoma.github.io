@@ -1,0 +1,48 @@
+{
+    "rcn": "200426",
+    "acronym": "PROTASIS",
+    "topics": "MSCA-RISE-2015",
+    "title": "Restoring Trust in the cyber space: a Systems Security Proposal",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2020",
+    "objective": "Fueled by a string of high profile attacks and recent revelations about unprecedented cyber surveillance, interest in systems security is rising-not just among industry and governments, but even among individual citizens across Europe. Corporate organizations worry about the viability of their businesses, nation states about cyber attacks by other nation states or terrorist groups, and citizens about the trustworthiness of the ICT infrastructures. The long list of recent security incidents is eroding people's trust in the digital economy and shows that more research is needed.\nUnfortunately, expertise is fragmented  across many places, while the exchange of knowledge is lacking. If one group specializes in code-reuse attacks and another in embedded systems, ideally they should team up to detect code-reuse vulnerabilities in embedded devices. Today, however, the flow of ideas is limited to publications and ad-hoc collaborations. A more efficient exchange would occur if a researcher temporarily joins the other group to collaborate directly on-site. \nOver the past few years Europe has created several world-class research centers in systems security. They publish in the most prestigious venues and have a significant impact on both the scientific community and society at large. Nevertheless, in terms of numbers, most top groups are still  in the US and the ability to collaborate with them would be a tremendous boost for security research in Europe. \nWe plan to foster such collaborations by supporting researchers from European institutes to spend time with their American counterparts in top universities. We will gather the research results in a repository that links all the exchanges and provides a valuable input for collaborative projects in itself.  We will focus our research efforts on both advanced attacks (e.g., exploits, malware, and exfiltration techniques), and defenses (e.g., developing secure software and protecting resource-constrained devices).",
+    "totalCost": "702000",
+    "ecMaxContribution": "702000",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "STICHTING VU;TELEFONICA INVESTIGACION Y DESARROLLO SA;RUHR-UNIVERSITAET BOCHUM;POLITECNICO DI MILANO;F-SECURE OYJ",
+    "participantCountries": "NL;ES;DE;IT;FI",
+    "projectParticipants": {
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 211500
+        },
+        "954530344": {
+            "orgId": "954530344",
+            "orgName": "STICHTING VU",
+            "ecContrib": 157500
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 18000
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 135000
+        },
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 153000
+        },
+        "954546349": {
+            "orgId": "954546349",
+            "orgName": "F-SECURE OYJ",
+            "ecContrib": 27000
+        }
+    },
+    "calculatedTotalContribution": 702000
+}

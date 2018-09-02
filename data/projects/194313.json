@@ -1,0 +1,53 @@
+{
+    "rcn": "194313",
+    "acronym": "ROAM",
+    "topics": "ICT-06-2014",
+    "title": "Revolutionising optical fibre transmission and networking using the Orbital Angular Momentum of light",
+    "startDate": "01/02/2015",
+    "endDate": "30/04/2018",
+    "objective": "The overall objective of the ROAM project is to investigate and demonstrate the use of the orbital angular momentum (OAM) modes of light for communications and networking. Two are the primary objectives.\nThe firs objective is to exploit the use of OAM modes in optical fibres as a disruptive means of increasing optical fibre transmission capacity for short-reach high data density applications. A transmission testbed utilising OAM multiplexing and wavelength division multiplexing (WDM) dimensions will be demonstrated. The target will be a 10x or more capacity increase by employing 10 or more OAM multiplexed channels over a conventional WDM system. The combination of 10x OAM states with 16 wavelength channels will provide a total of 160 multiplexed channels. Full compatibility with legacy technologies will be demonstrated. Speciality fibres will be employed to support OAM modes transmission in the range up to 2 km.\nThe second objective is to exploit the use of OAM domain as a switching resource in conjunctions with the wavelength domain to significantly improve the scalability and the power consumption of the switches in data-centres applications. A 10x improvement of the scalability of the data-centre switches will be targeted with the study and development of an OAM-based switch compatible with the WDM layer. A switch exploiting 10 OAM modes and 16 wavelengths as switching domains will be implemented. The developed two-layer switch will enable a more than 10x reduction of power consumption/Gb/s with respect to the current commercial switches. OAM switch configuration time of 100 ns will be demonstrated, with 8x improvement with respect to commercial switches.\nThe project goals will be enabled by integrated high performance OAM components build on silicon photonics technology.\nROAM consortium is composed by three universities, two research institutes, and two large companies, with the required knowledge and infrastructures to satisfy the project objectives.",
+    "totalCost": "3371155",
+    "ecMaxContribution": "2559405",
+    "coordinator": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+    "coordinatorCountry": "IT",
+    "participants": "IBM RESEARCH GMBH;HUAWEI TECHNOLOGIES DUESSELDORF GMBH;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;UNIVERSITY OF BRISTOL;UNIVERSITY OF GLASGOW;UNIVERSITE LAVAL",
+    "participantCountries": "CH;DE;PL;UK;CA",
+    "projectParticipants": {
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 276250
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 596250
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 630655
+        },
+        "998082180": {
+            "orgId": "998082180",
+            "orgName": "UNIVERSITE LAVAL",
+            "ecContrib": 0
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 732500
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 323750
+        }
+    },
+    "calculatedTotalContribution": 2559405
+}

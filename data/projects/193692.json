@@ -1,0 +1,88 @@
+{
+    "rcn": "193692",
+    "acronym": "SPICES",
+    "topics": "EO-1-2014",
+    "title": "Space-borne observations for detecting and forecasting sea ice cover extremes",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2018",
+    "objective": "The main objective of this proposal is to develop new methods to retrieve sea ice parameters from existing (and imminent) satellite sensors to provide enhanced products for polar operators and prediction systems, specifically addressing extreme and unexpected conditions. \nAutomatic remote sensing products traditionally provide general information on sea ice conditions such as ice extent and concentration. However, for ice charting, tactical navigation and management of off-shore activities much more important is to know and avoid hazardous sea ice conditions. In general, sea ice hazards are related to sea ice thickness. More often than not polar ships and off-shore platforms are only operating during summer seasons and certain regions. This is because they are designed to resist typical forces of induced by pack ice, but they are not designed to resist the extreme sea ice conditions. \n\nOngoing climate warming has manifested as shrinking and thinning of pack ice in the Arctic. This is a primary driver for the increasing shipping, oil and gas explorations and mining activities in the Arctic. However, severe sea ice conditions still exist and in consequence many locations are impossible for ship based operations. Moreover, year-to-year variability of sea ice is very large and hazardous multiyear ice (MYI) floes sometimes appear also in typically seasonally ice free regions.\n\nIn order to response needs of increase polar activities, we propose to focus on detection of sea ice extremes and automatic production of ìsea ice warningsî products. In particular, we aim for a detection of MYI floes in a area composed mostly first-year ice from synthetic aperture radar (SAR), heavily ridged ice regions from SAR, the thickest ice from radar altimeter (RA) thickness profiles, regional anomalies of thick or thin ice via passive microwave (PMW) data, sea ice areas vulnerable for the wave action, detection of early/late melting season and improving capabilities to forecast seasonal sea ice extremes.",
+    "totalCost": "2995678,75",
+    "ecMaxContribution": "2995678",
+    "coordinator": "ILMATIETEEN LAITOS",
+    "coordinatorCountry": "FI",
+    "participants": "UNIVERSITAET HAMBURG;DANMARKS METEOROLOGISKE INSTITUT;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;ISTANBUL TEKNIK UNIVERSITESI;ALFRED-WEGENER-INSTITUT HELMHOLTZ-ZENTRUM FUR POLAR- UND MEERESFORSCHUNG;UNIVERSITAET BREMEN;CONSIGLIO NAZIONALE DELLE RICERCHE;STIFTELSEN NANSEN SENTER FOR MILJOOG FJERNMALING;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;DANMARKS TEKNISKE UNIVERSITET;INSTITUT FRANCAIS DE RECHERCHE POUR L'EXPLOITATION DE LA MER;METEOROLOGISK INSTITUTT;UNIVERSITA POLITECNICA DELLE MARCHE",
+    "participantCountries": "DE;DK;TR;IT;NO;UK;FR",
+    "projectParticipants": {
+        "999510893": {
+            "orgId": "999510893",
+            "orgName": "METEOROLOGISK INSTITUTT",
+            "ecContrib": 199235
+        },
+        "999987454": {
+            "orgId": "999987454",
+            "orgName": "UNIVERSITAET BREMEN",
+            "ecContrib": 245375
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 245375
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 256250
+        },
+        "999477913": {
+            "orgId": "999477913",
+            "orgName": "STIFTELSEN NANSEN SENTER FOR MILJOOG FJERNMALING",
+            "ecContrib": 257193
+        },
+        "999866592": {
+            "orgId": "999866592",
+            "orgName": "ISTANBUL TEKNIK UNIVERSITESI",
+            "ecContrib": 68750
+        },
+        "999591306": {
+            "orgId": "999591306",
+            "orgName": "ILMATIETEEN LAITOS",
+            "ecContrib": 297500
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 93750
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 242750
+        },
+        "999497507": {
+            "orgId": "999497507",
+            "orgName": "ALFRED-WEGENER-INSTITUT HELMHOLTZ-ZENTRUM FUR POLAR- UND MEERESFORSCHUNG",
+            "ecContrib": 245375
+        },
+        "912924328": {
+            "orgId": "912924328",
+            "orgName": "UNIVERSITAET HAMBURG",
+            "ecContrib": 245375
+        },
+        "999509438": {
+            "orgId": "999509438",
+            "orgName": "DANMARKS METEOROLOGISKE INSTITUT",
+            "ecContrib": 248750
+        },
+        "999630300": {
+            "orgId": "999630300",
+            "orgName": "INSTITUT FRANCAIS DE RECHERCHE POUR L'EXPLOITATION DE LA MER",
+            "ecContrib": 162500
+        },
+        "999866689": {
+            "orgId": "999866689",
+            "orgName": "UNIVERSITA POLITECNICA DELLE MARCHE",
+            "ecContrib": 187500
+        }
+    },
+    "calculatedTotalContribution": 2995678
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "199612",
+    "acronym": "RHINOS",
+    "topics": "GALILEO-3-2015",
+    "title": "RHINOS - Railway High Integrity Navigation Overlay System will define a GNSS-based system to support the localization of trains respecting the challenging requirements of the railway safety standards.",
+    "startDate": "01/01/2016",
+    "endDate": "31/10/2017",
+    "objective": "RHINOS aims at increasing the use of EGNSS to support the safety-critical train localization function for train control in emerging regional and global markets. RHINOS adds value to EGNSS by leveraging the results from prior or existing projects, and develops a Railway High Integrity Navigation Overlay System to be used by the rail community. RHINOS pillar is the GNSS infrastructure realized for the aviation application with additional layers that meet the rail requirements in the difficult railway environments. RHINOS will feature an international cooperation with the Stanford University that has been involved in the aviation application since the birth of the GPS, gaining an undeniable knowledge of the GNSS performance and high-integrity applications. The ambition is a positive step beyond the proliferation of GNSS platforms, mainly tailored for regional applications, to favor a global solution to release the potential benefits of the EGNSS in the fast growing train signaling world market. The RHINOS work programme includes the investigation of candidate concepts for the provision of the high integrity needed to protect the detected position of the train, as required by the train control system application. The EGNSS (GALILEO and EGNOS) plus GPS and WAAS constitute the reference infrastructure that is available world-wide. Moreover, local augmentation elements, ARAIM techniques and other sensors on the train are the add-on specific assets for mitigating the hazards due to the environmental effects which dominate the rail application. A further objective of RHINOS is to contribute to the definition of a standard for the Railway High Integrity Navigation Overlay System leveraging on the EU-US Cooperation Agreement on ARAIM. The RHINOS dissemination plan includes three specific Workshops with the rail and satellite stakeholders, at Stanford University for the US community, in Roma for the Western European community and in Prague for the Eastern European community.",
+    "totalCost": "1676490",
+    "ecMaxContribution": "1523024",
+    "coordinator": "CONSORZIO UNIVERSITA INDUSTRIA - LABORATORI DI RADIOCOMUNICAZION I",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERZITA PARDUBICE;ANSALDO STS S.p.A.;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;THE UNIVERSITY OF NOTTINGHAM;SOGEI-SOCIETA GENERALE D'INFORMATICA SPA;BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY",
+    "participantCountries": "CZ;IT;DE;UK;US",
+    "projectParticipants": {
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 149997
+        },
+        "949108723": {
+            "orgId": "949108723",
+            "orgName": "SOGEI-SOCIETA GENERALE D'INFORMATICA SPA",
+            "ecContrib": 168078
+        },
+        "999466467": {
+            "orgId": "999466467",
+            "orgName": "BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY",
+            "ecContrib": 0
+        },
+        "998801823": {
+            "orgId": "998801823",
+            "orgName": "ANSALDO STS S.p.A.",
+            "ecContrib": 190001
+        },
+        "999453663": {
+            "orgId": "999453663",
+            "orgName": "UNIVERZITA PARDUBICE",
+            "ecContrib": 200000
+        },
+        "999585971": {
+            "orgId": "999585971",
+            "orgName": "CONSORZIO UNIVERSITA INDUSTRIA - LABORATORI DI RADIOCOMUNICAZION I",
+            "ecContrib": 640000
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 174948
+        }
+    },
+    "calculatedTotalContribution": 1523024
+}

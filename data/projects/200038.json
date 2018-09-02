@@ -1,0 +1,23 @@
+{
+    "rcn": "200038",
+    "acronym": "SIREN",
+    "topics": "ERC-StG-2015",
+    "title": "Securing Internet Routing from the Ground Up",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2021",
+    "objective": "The Internet is made up of dozens of thousands of smaller networks, called Autonomous Systems (ASes), ranging from multinational corporations to small businesses and schools, e.g., Google, Deutsche Telekom, AT&T, and Hebrew U. Routing between ASes is handled by the Border Gateway Protocol (BGP), which is the glue that holds the Internet together. Alarmingly, despite the Internet's critical societal and economic role, BGP routing is dangerously vulnerable to configuration errors and attacks, and, consequently, every year or so a major Internet outage makes the news.\n\nTo remedy BGPís many security vulnerabilities, researchers and practitioners have invested much effort into designing security solutions for BGP routing. Yet, despite over a decade of Herculean efforts, many technological, political, and economic hurdles hinder, and possibly even prevent, deployment. I argue that the reasons for this are deeply rooted in todayís centralized, top-down, hierarchical paradigm for securing Internet routing. The aim of the planned research project is to put forth and explore a radically new paradigm for securing routing on the Internet. The proposed alternative roadmap for securing the Internet consists of two steps:\n\n1) Jumpstarting BGP security: A novel approach to routing security that bypasses the obstacles facing todayís agenda. Specifically, the proposed design will be flat, decentralized, fully automated, avoid dependency on a single root-of-trust, and not require modifying/replacing legacy BGP routers. \n\n2) A long-term vision for Internet routing: Leveraging the vast computational resources in modern datacenters, and research on Secure Multi-Party Computation, to outsource routing to a small number of entities while retaining flexibility, autonomy and privacy.\n\nI believe that, put together, these can lead to a more secure Internet in the short-run, and outline a promising, yet uncharted, new direction for the future of Internet routing.",
+    "totalCost": "1468200,01",
+    "ecMaxContribution": "1468200",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1468200
+        }
+    },
+    "calculatedTotalContribution": 1468200
+}

@@ -1,0 +1,73 @@
+{
+    "rcn": "206164",
+    "acronym": "mF2C",
+    "topics": "ICT-06-2016",
+    "title": "Towards an Open, Secure, Decentralized and Coordinated Fog-to-Cloud Management Ecosystem",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Fog computing brings cloud computing capabilities closer to the end-device and users, while enabling location-dependent resource allocation, low latency services, and extending significantly the IoT services portfolio as well as market and business opportunities in the cloud sector.  With the number of devices exponentially growing globally, new cloud and fog models are expected to emerge, paving the way for shared, collaborative, extensible mobile, volatile and dynamic compute, storage and network infrastructure. When put together, cloud and fog computing create a new stack of resources, which we refer to as Fog-to-Cloud (F2C), creating the need for a new, open and coordinated management ecosystem. The mF2C proposal sets the goal of designing an open, secure, decentralized, multi-stakeholder management framework, including novel programming models, privacy and security, data storage techniques, service creation, brokerage solutions, SLA policies, and resource orchestration methods. The proposed framework is expected to set the foundations for a novel distributed system architecture, developing a proof-of-concept system and platform, to be tested and validated in real-world use cases, as envisioned by the industrial partners in the consortium with significant interest in rapid innovation in the cloud computing sector.",
+    "totalCost": "5440287,5",
+    "ecMaxContribution": "4677787,5",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "SIXSQ SARL;TISCALI ITALIA SPA;XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;UNITED KINGDOM RESEARCH AND INNOVATION;UNIVERSITAT POLITECNICA DE CATALUNYA;ENGINEERING SARDEGNA SRL;INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED;WORLDSENSING LIMITED;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "CH;IT;SI;DE;UK;ES;IE",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 451250
+        },
+        "999773375": {
+            "orgId": "999773375",
+            "orgName": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO",
+            "ecContrib": 418125
+        },
+        "911578356": {
+            "orgId": "911578356",
+            "orgName": "ENGINEERING SARDEGNA SRL",
+            "ecContrib": 491000
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 575000
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 437500
+        },
+        "948298773": {
+            "orgId": "948298773",
+            "orgName": "WORLDSENSING LIMITED",
+            "ecContrib": 507500
+        },
+        "987086066": {
+            "orgId": "987086066",
+            "orgName": "INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED",
+            "ecContrib": 685000
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 0
+        },
+        "996552684": {
+            "orgId": "996552684",
+            "orgName": "SIXSQ SARL",
+            "ecContrib": 0
+        },
+        "996501177": {
+            "orgId": "996501177",
+            "orgName": "TISCALI ITALIA SPA",
+            "ecContrib": 0
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 539500
+        }
+    },
+    "calculatedTotalContribution": 4104875
+}

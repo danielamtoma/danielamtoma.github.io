@@ -1,0 +1,53 @@
+{
+    "rcn": "193797",
+    "acronym": "QuProCS",
+    "topics": "FETPROACT-3-2014",
+    "title": "Quantum Probes for Complex Systems",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2018",
+    "objective": "We are on the verge of a new scientific and technological era as the first quantum simulators able to investigate physical systems that cannot be studied classically are about to be built in the laboratories. Controlling and probing complex quantum systems is of paramount importance for the implementation of these devices.\nQuantum simulators are controllable complex quantum systems that emulate the behaviour of other quantum systems whose properties cannot be easily tested. While several models of quantum simulators are currently under construction, the development of effective probing techniques is still lagging behind, despite their crucial role. In most of the quantum simulator experiments measurement techniques are invasive and destructive, destroying not only the very quantum properties from which the simulator stems, but often also the quantum system itself.\nQuProCS works on the development of a radically new approach to probe complex quantum systems for quantum simulations, based on the quantification and optimisation of the information that can be extracted by an immersed quantum probe as opposed to a classical one. \nThe team will theoretically investigate and experimentally implement quantum information probes to detect and characterise quantum correlations, quantum phase transitions, transport properties, and nonequilibrium phenomena in ultracold gases. By a shift in perspective to a complementary viewpoint, we will at the same time investigate experimentally, in a quantum optical platform, how changing the properties of the environment via reservoir engineering modifies the behaviour of the quantum probe. We will develop optimal probing strategies to read out and benchmark quantum simulators, thus providing the most crucial ingredient for commercial devices.",
+    "totalCost": "2268746,25",
+    "ecMaxContribution": "2268746",
+    "coordinator": "TURUN YLIOPISTO",
+    "coordinatorCountry": "FI",
+    "participants": "University of Science and Technology of China;ALBERT-LUDWIGS-UNIVERSITAET FREIBURG;UNIVERSITA DEGLI STUDI DI MILANO;UNIVERSITAT DE LES ILLES BALEARS;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;UNIVERSITY OF STRATHCLYDE",
+    "participantCountries": "CN;DE;IT;ES;UK",
+    "projectParticipants": {
+        "999846707": {
+            "orgId": "999846707",
+            "orgName": "UNIVERSITAT DE LES ILLES BALEARS",
+            "ecContrib": 219875
+        },
+        "996228025": {
+            "orgId": "996228025",
+            "orgName": "University of Science and Technology of China",
+            "ecContrib": 0
+        },
+        "999841760": {
+            "orgId": "999841760",
+            "orgName": "ALBERT-LUDWIGS-UNIVERSITAET FREIBURG",
+            "ecContrib": 275000
+        },
+        "999974068": {
+            "orgId": "999974068",
+            "orgName": "UNIVERSITY OF STRATHCLYDE",
+            "ecContrib": 450000
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 431371
+        },
+        "999903064": {
+            "orgId": "999903064",
+            "orgName": "TURUN YLIOPISTO",
+            "ecContrib": 580000
+        },
+        "999995796": {
+            "orgId": "999995796",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MILANO",
+            "ecContrib": 312500
+        }
+    },
+    "calculatedTotalContribution": 2268746
+}

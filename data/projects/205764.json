@@ -1,0 +1,93 @@
+{
+    "rcn": "205764",
+    "acronym": "AUTOWARE",
+    "topics": "FOF-11-2016",
+    "title": "Wireless Autonomous, Reliable and Resilient ProductIon Operation ARchitecture for Cognitive Manufacturing",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "Current practice is such that a production system is designed and optimized to execute the exact same process over and over again. The planning and control of production systems has become increasingly complex regarding flexibility and productivity, as well as the decreasing predictability of processes. The full potential of open CPS has yet to be fully realized in the context of cognitive autonomous production systems. SMEs face additional challenges to the implementation of ìcloudifiedî automation processes. While the building blocks for digital automation are available, it is up to the SMEs to align, connect and integrate them together to meet the needs of their individual advanced manufacturing processes. Moreover, SMEs face difficulties to make decisions on strategic automation investments that will boost their business strategy.  AUTOWARE objective is to build three distinct pillars to form a multi-sided ecosystem. (1) From the BeinCPPS, leverage a reference architecture (fully aligned with CRYSTAL and EMC2 CPS design practices and ARROWHEAD cloudification approach) across I4MS competence domains (cloud,CPPS, robotics), acting as a glue that will attract potential users and developers to a friendly ecosystem for business development, more efficient service development over harmonized architectures (smart machine, cloudified control, cognitive planning- app-ized operation). (2) To leverage a number of SME enablers; e.g. augmented virtuality, reliable wireless communications, CPPS trusted auto-configuration, smart data distribution and cognitive planning to ease cognitive autonomous systems. Finally, to leverage digital automation investments. AUTOWARE brings together the best of breed ARTEMISIA/ECSEL platforms, I4MS innovation, SAFIR business platforms and neutral experimental sites (robotics & process). AUTOWARE assets will be evaluated in two industrial pilots, PWR and SCM, and will offer well established industry and start-ups new business opportunities.",
+    "totalCost": "4096312,5",
+    "ecMaxContribution": "4096312,5",
+    "coordinator": "SOFTWARE QUALITY SYSTEMS SA",
+    "coordinatorCountry": "ES",
+    "participants": "PWR PACK INTERNATIONAL BV;ASOCIACION DE EMPRESAS TECNOLOGICAS INNOVALIA;SMC PNEUMATIK GESELLSCHAFT MIT BESCCHRANKTER HAFTUNG;FUNDACION TEKNIKER;INSTITUT JOZEF STEFAN;TECHNOLOGIE INITIATIVE SMARTFACTORY KL E.V.;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;CONSIGLIO NAZIONALE DELLE RICERCHE;BLUE OCEAN ROBOTICS APS;TTTECH COMPUTERTECHNIK AG;UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE;ROBOVISION BVBA;IMINDS",
+    "participantCountries": "NL;ES;DE;SI;BE;IT;DK;AT",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 369375
+        },
+        "999959227": {
+            "orgId": "999959227",
+            "orgName": "FUNDACION TEKNIKER",
+            "ecContrib": 155000
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "999851363": {
+            "orgId": "999851363",
+            "orgName": "UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE",
+            "ecContrib": 257625
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 239375
+        },
+        "949746886": {
+            "orgId": "949746886",
+            "orgName": "BLUE OCEAN ROBOTICS APS",
+            "ecContrib": 183500
+        },
+        "932953761": {
+            "orgId": "932953761",
+            "orgName": "PWR PACK INTERNATIONAL BV",
+            "ecContrib": 175750
+        },
+        "985900435": {
+            "orgId": "985900435",
+            "orgName": "SOFTWARE QUALITY SYSTEMS SA",
+            "ecContrib": 363125
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 649000
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 264931
+        },
+        "999614489": {
+            "orgId": "999614489",
+            "orgName": "ASOCIACION DE EMPRESAS TECNOLOGICAS INNOVALIA",
+            "ecContrib": 304881
+        },
+        "933075787": {
+            "orgId": "933075787",
+            "orgName": "ROBOVISION BVBA",
+            "ecContrib": 162500
+        },
+        "992278088": {
+            "orgId": "992278088",
+            "orgName": "TECHNOLOGIE INITIATIVE SMARTFACTORY KL E.V.",
+            "ecContrib": 373750
+        },
+        "922597750": {
+            "orgId": "922597750",
+            "orgName": "SMC PNEUMATIK GESELLSCHAFT MIT BESCCHRANKTER HAFTUNG",
+            "ecContrib": 149375
+        },
+        "999791029": {
+            "orgId": "999791029",
+            "orgName": "TTTECH COMPUTERTECHNIK AG",
+            "ecContrib": 448125
+        }
+    },
+    "calculatedTotalContribution": 4096312
+}

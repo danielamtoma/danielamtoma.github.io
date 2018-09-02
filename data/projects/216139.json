@@ -1,0 +1,17 @@
+{
+    "rcn": "216139",
+    "acronym": "CausalStats",
+    "topics": "ERC-2017-ADG",
+    "title": "Statistics, Prediction and Causality for Large-Scale Data",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2023",
+    "objective": "Understanding cause-effect relationships between variables is of great interest in many fields of science. However, causal inference from data is much more ambitious and difficult than inferring (undirected) measures of association such as correlations, partial correlations or multivariate regression coefficients, mainly because of fundamental identifiability\nproblems. A main objective of the proposal is to exploit advantages from large-scale heterogeneous data for causal inference where heterogeneity arises from different experimental conditions or different unknown sub-populations. A key idea is to consider invariance or stability across different experimental conditions of certain conditional probability distributions: the invariants correspond on the one hand to (properly defined) causal variables which are of main interest in causality; andon the other hand, they correspond to the features for constructing powerful predictions for new scenarios which are unobserved in the data (new probability distributions). This opens novel perspectives: causal inference\ncan be phrased as a prediction problem of a certain kind, and vice versa, new prediction methods which work well across different scenarios (unobserved in the data) should be based on or regularized towards causal variables. Fundamental identifiability limits will become weaker with increased degree of heterogeneity, as we expect in large-scale data. The topic is essentially unexplored, yet it opens new avenues for causal inference, structural equation and graphical modeling, and robust prediction based on large-scale complex data. We will develop mathematical theory, statistical methodology and efficient algorithms; and we will also work and collaborate on major application problems such as inferring causal effects (i.e., total intervention effects) from gene knock-out or RNA interference perturbation experiments, genome-wide association studies and novel prediction tasks in economics.",
+    "totalCost": "2184375",
+    "ecMaxContribution": "2184375",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "195304",
+    "acronym": "FE-RUS-Blast",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Finite Element Resonant Ultrasound Spectroscopy to Characterize Maturation of Cortical Bone Elastic Properties",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "Osteoporosis has become a major public threat with high costs to the health system. As an important issue of research on osteoporosis, tissue elasticity, i.e. the whole set of the anisotropic stiffness constants on millimeter scale, that directly decides the bone resistance and fracture risk, is still poorly assessed by prevailing biomechanical methods. The state-of-art approach to determine bone elasticity is the ultrasonic pulse method by measuring acoustic velocities along various directions of a specimen with a major drawback of sample size limitation, typically larger than 5 mm. However, studies on bone metabolism greatly relies on small animals, e.g. rabbit, rat, and mouse, with cortical thicknesses close or smaller than 1 mm. Resonant ultrasound spectroscopy (RUS) has been well established to measure the anisotropic elasticity of small metallic samples. However, it was known to be not suited to high-damping materials like bone, due to complicated extraction of resonant frequencies from overlapping resonant peaks. We aim to develop a new RUS method for the accurate elasticity determination of small animal bones (femora and tibiae). New strategies of a non-linear optimization and Bayesian formulation of the inverse problem, recently proposed by the host lab, will be used to overcome the material limitation of bone attenuation. Moreover, the novel combination of the finite element (FE) method and RUS will be used to relax the regularly-shaped sample restriction for the practical application. The applicant will perform an extensive methodology development, including theoretical analysis, numerical simulation, signal processing, and inversion scheme. The new technology will be validated by measuring  elastic maturation of cortical bone in rabbit model. The originality comes from the multidisciplinary combination of innovative technologies towards the bone elasticity determination in response to current technical deficiency of small animal bone quality evaluation.",
+    "totalCost": "173076",
+    "ecMaxContribution": "173076",
+    "coordinator": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 173076
+        }
+    },
+    "calculatedTotalContribution": 173076
+}

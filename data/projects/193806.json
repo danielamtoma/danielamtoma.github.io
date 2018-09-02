@@ -1,0 +1,23 @@
+{
+    "rcn": "193806",
+    "acronym": "INTERDOT",
+    "topics": "ERC-PoC-2014",
+    "title": "INTERconnects enhanced by colloidal qDOT based optical amplifiers",
+    "startDate": "01/04/2015",
+    "endDate": "30/09/2016",
+    "objective": "In the ERC project ULPICC, a new type of optical amplifier was invented that is much more compact than existing optical amplifiers based on rare earth doping and much cheaper to fabricate than the ones based on III-V semiconductors. It is based on our discovery that HgTe colloidal quantum dots (QDs) exhibit a gain threshold several orders of magnitude lower than any other type of QDs studied before.  Semiconductor QDs are fabricated using wet chemical synthesis procedures and can be deposited with cheap solution-based techniques such as printing which makes them competitive with traditional gain host media, with the additional advantage that the gain peak wavelength of colloidal QDs can be set freely by controlling the size of the QD, making them extremely versatile. An application (considered by big industrial players such as INTEL, IBM, NTT, Ö) particularly suffering from the lack of a compact optical amplifier is that of optical interconnects (OI) between chips to accommodate increasing data-transfer rates elusive for electronics. The OI market is expected to grow to $1 billion by 2021, where we expect the amplifier function can be valued anywhere up to 10% of the total OI value ! A heavily investigated approach to realize such an OI is that of ësilicon photonicsí, which has been shown to fulfil the requirements in terms of bandwidth and power consumption but lacks a native optical gain medium required to compensate the OI intrinsic losses. Therefore, the objective of INTERDOT is to assess the technical and commercial potential of optical amplifiers based on colloidal HgTe QDs, integrated on silicon photonics chips or in board-level OIs. We will validate their gain, specify their efficiency, initiate reliability and performance testing (through close industrial collaboration) and investigate how the knowhow involved can be protected and commercialized, either through licensing and/or spin-off creation.",
+    "totalCost": "145000",
+    "ecMaxContribution": "145000",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 145000
+        }
+    },
+    "calculatedTotalContribution": 145000
+}

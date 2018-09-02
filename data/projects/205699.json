@@ -1,0 +1,48 @@
+{
+    "rcn": "205699",
+    "acronym": "ICN2020",
+    "topics": "EUJ-03-2016",
+    "title": "ICN2020: Advancing ICN towards real-world deployment through research, innovative applications, and global scale experimentation",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2019",
+    "objective": "Information access on the Internet is exploding. Usage is shifting to multimedia applications, social networking and IoE. Cellular networks are moving to the next generation. Networking technology is shifting towards virtualization, with SDN and NFV likely to change the infrastructure landscape. The cloud concept is transforming the Internet to a network of data centers, with a communication model consisting of computer-to-cloud-to-computer interactions. Security concerns are leading to an encryption of all traffic, wreaking havoc with established network mechanisms.\n\nIn this scenario with dramatic growth and evolution, where abstractions and interfaces become fundamental, ICN is just the perfect solution. ICN2020 will build on the wealth of studies performed on ICN with six main aims: a) design and develop a set of innovative applications such as video delivery, interactive videos and social networks to exploit ICN; b) augment ICN with IoT features and cloud/CDN/virtualization services; c) accordingly enhance existing ICN solutions/architectures; d) build local and global test-bed(s) to experiment the applications, services and ICN enhancements; e) contribute to common APIs and standards, by continuing the work that project partners are already doing; and f) Industry POCs of products and services exploiting ICN.\n\nThe ICN2020 consortium includes leading experts in ICN and contributors to ICN testbeds in EU, Japan and USA, thus making the goal of federating them a credible one. Partners are also coordinators of running projects on 5G and Cloud topics, allowing fruitful cooperation with fellow projects of the EU-JP1, EU-JP2 calls and increasing the overall expected impact of the EU-Japan cooperation. In a time when 5G networks are being designed, with foreseen unprecedented flexibility due to the virtualization and slice concepts, the development of compelling demonstrations of ICN for real-world use-cases will encourage critical industry investment of resources.",
+    "totalCost": "2062499",
+    "ecMaxContribution": "1299999",
+    "coordinator": "GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA;ERICSSON AB;INSTITUT DE RECHERCHE TECHNOLOGIQUE SYSTEMX;UNIVERSITY COLLEGE LONDON;CISCO SYSTEMS FRANCE SARL",
+    "participantCountries": "IT;SE;FR;UK",
+    "projectParticipants": {
+        "953703128": {
+            "orgId": "953703128",
+            "orgName": "CISCO SYSTEMS FRANCE SARL",
+            "ecContrib": 0
+        },
+        "949729135": {
+            "orgId": "949729135",
+            "orgName": "INSTITUT DE RECHERCHE TECHNOLOGIQUE SYSTEMX",
+            "ecContrib": 250000
+        },
+        "999844864": {
+            "orgId": "999844864",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA",
+            "ecContrib": 340250
+        },
+        "999845640": {
+            "orgId": "999845640",
+            "orgName": "GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS",
+            "ecContrib": 509749
+        },
+        "999910921": {
+            "orgId": "999910921",
+            "orgName": "ERICSSON AB",
+            "ecContrib": 0
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 200000
+        }
+    },
+    "calculatedTotalContribution": 1299999
+}

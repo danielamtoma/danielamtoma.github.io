@@ -1,0 +1,28 @@
+{
+    "rcn": "213597",
+    "acronym": "IMASAT",
+    "topics": "JTI-CS2-2017-CFP06-SYS-03-09",
+    "title": "IMA (Integrated Modular Avionics) for Small Air Transport",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2021",
+    "objective": "IMASAT project focuses on the design, manufacturing and qualification of a new Computing Node suitable to be used as Flight Control Computer for Small Air Transport (SAT). The aim of the research is to define and implement IMA (Integrated Modular Avionics) concept for SAT, so that European industry players will be able to adopt fly-by-wire (FBW) systems to reduce the weight of avionics systems, reduce maintenance operations and enhance safety by improving the human-machine interface and automatically help stabilize the aircraft. \nThe IMASAT project attends to Clean Sky aim to revitalize the European SAT industry by encouraging the insertion of a range of new and cost effective technologies in the area of systems for a future new generation small transport aircraft (Airframe ITD WP B3.5 and Systems ITD ñ WP S.3). \nIMASATís answer to this challenge has been to rethink avionic computers at all levels: system, architecture, design, software, production and certification. \nIMASAT system innovations characteristics is based on the concept of a Modular Architecture with pre-certified Aerospace safety-standards, capable to support ARINC-653 compliant RTOS. \nIMASAT allows a flexible configuration that is tailor-made for usersí operative needs. \nIMASAT will be a ready-to-use, changeableness, and non-wiring system to allow users to implement expansions from the basic package, with a reduced weight and volume, and compliant with ETSO-2C153 at DAL A. \nIMASAT will use a main network high-speed AFDX safety Ethernet-based fulfilling ARINC 664 requirements in FCS.\nThe final goal is Small Air Transport to be benefit by IMA second generation for more safety and efficient operations and Higher performances, versatility and robustness in avionics. \nWith this aim, the best consortium has been built for IMASAT, is led by AERTEC, a LE with 20 years of experience on the sector, who has the privilege of working with CLUE, an SME well-known for its innovative electronic systems for aerospace.",
+    "totalCost": "1246716,25",
+    "ecMaxContribution": "869550",
+    "coordinator": "AERTEC SOLUTIONS SL",
+    "coordinatorCountry": "ES",
+    "participants": "CLUE TECHNOLOGIES SL",
+    "participantCountries": "ES",
+    "projectParticipants": {
+        "986060485": {
+            "orgId": "986060485",
+            "orgName": "AERTEC SOLUTIONS SL",
+            "ecContrib": 411512
+        },
+        "911853739": {
+            "orgId": "911853739",
+            "orgName": "CLUE TECHNOLOGIES SL",
+            "ecContrib": 458038
+        }
+    },
+    "calculatedTotalContribution": 869550
+}

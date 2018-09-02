@@ -1,0 +1,28 @@
+{
+    "rcn": "212492",
+    "acronym": "THOR",
+    "topics": "ERC-2017-PoC",
+    "title": "TeraHertz quasiOptical Receiver",
+    "startDate": "01/11/2017",
+    "endDate": "30/04/2019",
+    "objective": "Remote sensing and monitoring in various environments solves many scientific and societal problems. Examples are: industrial air pollution control, global atmosphere surveillance, our planet system and the universe exploration, process controls in industry, and material research in laboratories. Molecular absorption/emission feature, combined with a high penetration depth of THz waves through dust, short wavelength allowing for high pointing directivity, all these factors determine the uniqueness of the THz range of electro-magnetic wave spectrum (0.1-10THz) in the mentioned applications. High radiometric sensitivity of THz wave detectors is a vital selection criterion for a THz system to become attractive. Uncooled THz detectors/mixers show adequate sensitivity only for frequencies below 1THz, whereas ìsupra-THzî (>1THz) detectors require cooling down to 4K. This limitation hinders exploitation of THz spectroscopy for such important application as atmosphere monitoring, local and global pollution surveillance, security, as well as universal sciences, in full. Small-scale satellites, balloons, portable sensors, canít afford LHe cooling or power thirsty 4K cryo-coolers. For large-scale space missions, 4K cooling has already been utilized (e.g. Herschel and Planck Space observatories, COBE, etc), however it limited the missions lifetime significantly. \nIn the frame of ERC StG grant Teramix, we developed technology, where high sensitivity and large bandwidth THz detection can be achieved at 20-40K temperature range, which can be accessed with compact and low power consumption coolers. The THOR project will lead the new technology through pre-commercial prototyping, a real-world application in an existing (representative) system, and explore marketing opportunities in both commercial and research areas.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "OMNISYS INSTRUMENTS AB",
+    "participantCountries": "SE",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 122500
+        },
+        "998635759": {
+            "orgId": "998635759",
+            "orgName": "OMNISYS INSTRUMENTS AB",
+            "ecContrib": 27500
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

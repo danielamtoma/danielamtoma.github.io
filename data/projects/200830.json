@@ -1,0 +1,43 @@
+{
+    "rcn": "200830",
+    "acronym": "HELIOS",
+    "topics": "GALILEO-1-2015",
+    "title": "Second Generation Beacon for GALILEO/EGNOS EGNSS  Search And Rescue applications",
+    "startDate": "01/03/2016",
+    "endDate": "31/07/2019",
+    "objective": "The HELIOS project aims at providing a Second Generation range of Beacons (SGB) and associated antennas designed to operate with the full capability of the new Meosar Cospas/Sarsat (C/S) International Programme (a satellite-based Search And Rescue (SAR) distress alert detection and information distribution system), embedded in the Navigation Satellite Systems as GALILEO. \nThe Search & Rescue community is at a turn of its history. New satellite systems develops the MEOSAR constellation of Cospas-Sarsat system, EGNOS improves significantly the performance of localization introducing new capabilities and new operations impossible before, GALILEO unique differentiation with the RLS added to the performance of the system will contribute to save more lives at sea and on land.\nThe key objectives of the HELIOS project are:\n1 - Defining, developing Products (beacons and associated antennas) compatible with EGNSS & SAR services and latest end-usersí requirements.\n2 - GALILEO EGNSS & SAR System validation.\n3 - Certifications for commercialization.\nThe HELIOS consortium composed of Orolia, Cobham aerospace communications, CNES, SIOEN, Air France, and Airbus, is involved in different relevant international working groups (Cospas-Sarsat, ICAO, EUROCAE), and will ensure that the development phase of the SGB will be in line with the compatibility and interoperability required by the Cospas-Sarsat.\nGathering the knowledge of major players recognized in their industry worldwide, the HELIOS partners project will give the vehicle to the European Industry to lead the way for safer, more innovative systems responding to current and evolving market problems.",
+    "totalCost": "4869656,25",
+    "ecMaxContribution": "3471628,5",
+    "coordinator": "OROLIA SAS",
+    "coordinatorCountry": "FR",
+    "participants": "SIOEN NV;CHELTON ANTENNAS;AIRBUS OPERATIONS GMBH;CENTRE NATIONAL D'ETUDES SPATIALES - CNES;AIR FRANCE SA",
+    "participantCountries": "BE;FR;DE",
+    "projectParticipants": {
+        "930006319": {
+            "orgId": "930006319",
+            "orgName": "CHELTON ANTENNAS",
+            "ecContrib": 445324
+        },
+        "999964756": {
+            "orgId": "999964756",
+            "orgName": "AIRBUS OPERATIONS GMBH",
+            "ecContrib": 210000
+        },
+        "937590070": {
+            "orgId": "937590070",
+            "orgName": "AIR FRANCE SA",
+            "ecContrib": 164500
+        },
+        "953404853": {
+            "orgId": "953404853",
+            "orgName": "SIOEN NV",
+            "ecContrib": 85045
+        },
+        "999599163": {
+            "orgId": "999599163",
+            "orgName": "CENTRE NATIONAL D'ETUDES SPATIALES - CNES",
+            "ecContrib": 209564
+        }
+    },
+    "calculatedTotalContribution": 1114433
+}

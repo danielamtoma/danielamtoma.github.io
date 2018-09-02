@@ -1,0 +1,23 @@
+{
+    "rcn": "205220",
+    "acronym": "SQuaPh",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Scalable Quantum Photonics with Ultra Bright Photon Sources",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2018",
+    "objective": "The development of quantum networks relies on true single-photon sources and deterministic quantum logic gates. Photons are the most promising flying qubits, capable to propagate long distances without decoherence. However, until now, quantum communications protocols and optical quantum computation have been implemented using defective single-photon sources and probabilistic quantum gates. For a long time, the best single-photon sources have been heralded non-linear crystals where photon-pairs are generated. Such sources can present high coherence properties although they are intrinsically limited to a very low photon flux.\n\nThis project builds up on major steps obtained in the host team, Laboratoire de Photonique et de Nanostructures, in terms of true single-photon generation and control. By deterministically inserting a quantum dot (QD) in a semiconductor microcavity pillar, the host team fabricated photon sources with quantum properties as good as the currently used sources, but with an unprecedented brightness of 2 orders of magnitude larger. The cavity not only enhances the interaction of the incident photons with the QD state but also the subsequent photon extraction of the device. The Purcell effect diminishes the decoherence processes, constituting an ultrabright source of highly indistinguishable, single-photons.\n\nBased on the unique technological, experimental and conceptual knowledge developed by the host team, and on the background of the applicant, our successive objectives is to realize scalable quantum entanglement: to entangle two-photon states with our ultrabright QD-cavity systems at high rates, to use them to perform high fidelity teleportation with long coherence times between 2 different sources, and finally to controllably swap the entanglement between 2 entangled photon-pairs.",
+    "totalCost": "173076",
+    "ecMaxContribution": "173076",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 173076
+        }
+    },
+    "calculatedTotalContribution": 173076
+}

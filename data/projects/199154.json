@@ -1,0 +1,78 @@
+{
+    "rcn": "199154",
+    "acronym": "dReDBox",
+    "topics": "ICT-04-2015",
+    "title": "Disaggregated Recursive Datacentre-in-a-Box",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "For all the superior features that low-power computing systems exhibit compared to conventional high-end server designs, there is a common design axiom that both technological trends are based on: the main-board and its hardware components form the baseline, monolithic building block that the rest of the hw/sw stack design builds upon. This proportionality of compute/memory/network/storage resources is fixed during design time and remains static throughout machine lifetime, with known ramifications in terms of low system resource utilization, costly upgrade cycles and degraded energy proportionality.\ndReDBox takes on the challenge of revolutionizing the low-power computing market by breaking once and for all server boundaries through materialization of the concept of disaggregation. Through a highly modular software-defined architecture for the next generation datacentre, dRedBox will specify/design/prototype modular blocks for SoC-based microservers, memory and accelerators, interconnected via a high-speed, low-latency opto-electronic system fabric, and that can be allocated in arbitrary sets, as driven by fit-for-purpose resource/power management software. These blocks will employ state-of-the-art low-power components and be amenable to be deployed in various integration form factors and target scenarios.\ndRedBox aims to deliver a full-fledged, vertically integrated datacentre-in-a-box prototype to showcase the superiority of disaggregation in terms of scalability, efficiency, reliability,performance and energy reduction. The prototype will be used as vehicle to demonstrate the value of dReDBox in 3 pilot use-cases stemming from three market segments: Security, Network Analytics and Telecom. With an industry-lead consortium comprising top academic experts too, dReDBox is in the best position to generate significant impact with its game-changing approach and contribute to Europe maintaining its leading innovation and market position in low-power advanced computing.",
+    "totalCost": "6451500",
+    "ecMaxContribution": "6451500",
+    "coordinator": "IBM IRELAND LIMITED",
+    "coordinatorCountry": "IE",
+    "participants": "SINTECS BV;NAUDIT HIGH PERFORMANCE COMPUTING AND NETWORKING SL;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;VIRTUAL OPEN SYSTEMS;TELEFONICA INVESTIGACION Y DESARROLLO SA;UNIVERSITY OF BRISTOL;KINESENSE LIMITED;PANEPISTIMIO THESSALIAS;UNIVERSITY COLLEGE LONDON;HUBER+SUHNER POLATIS LIMITED;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "NL;ES;EL;FR;UK;IE",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 492963
+        },
+        "968966466": {
+            "orgId": "968966466",
+            "orgName": "VIRTUAL OPEN SYSTEMS",
+            "ecContrib": 660542
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 526099
+        },
+        "929740539": {
+            "orgId": "929740539",
+            "orgName": "SINTECS BV",
+            "ecContrib": 1046274
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 139301
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 104907
+        },
+        "955264440": {
+            "orgId": "955264440",
+            "orgName": "NAUDIT HIGH PERFORMANCE COMPUTING AND NETWORKING SL",
+            "ecContrib": 199559
+        },
+        "972922417": {
+            "orgId": "972922417",
+            "orgName": "KINESENSE LIMITED",
+            "ecContrib": 310796
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 686405
+        },
+        "986152150": {
+            "orgId": "986152150",
+            "orgName": "PANEPISTIMIO THESSALIAS",
+            "ecContrib": 778685
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 1101412
+        },
+        "985958053": {
+            "orgId": "985958053",
+            "orgName": "HUBER+SUHNER POLATIS LIMITED",
+            "ecContrib": 404558
+        }
+    },
+    "calculatedTotalContribution": 6451501
+}

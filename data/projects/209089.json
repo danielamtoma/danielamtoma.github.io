@@ -1,0 +1,33 @@
+{
+    "rcn": "209089",
+    "acronym": "INTERLACE",
+    "topics": "FETOPEN-04-2016-2017",
+    "title": "Interacting Decentralized Transactional and Ledger Architecture for Mutual Credit",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2018",
+    "objective": "The objective of INTERLACE is to use the Abstract State Interaction Machines framework (CoreASIM) open source output of the FP7 FET project BIOMICS to develop a decentralized transactional and ledger architecture demonstrator for B2B mutual credit. INTERLACE will add to the work already started by its coordinator, Sardex s.r.l., to develop this architecture. SARDEX will use the Open Transaction protocol (OTX) as an intermediate solution between fully centralized and distributed architectures. OTX involves a pool of Auditor nodes to validate the transactions executed by each Notary node. In INTERLACE there will be only one central Notary, as a first step from the current centralized server towards a more distributed architecture. The persistence layer will be implemented as a private blockchain stored on the central server to create a sparse 160-bit address space implemented as a binary hash tree. This approach achieves continuity with the existing solution while also enabling scalability to multiple circuits (multiple Notaries) under the same mathematical and computational framework. SARDEX has been operating successfully an electronic, B2B, zero-interest mutual credit system on the island of Sardinia since 2009. The Sardex system (also known as Circuito di Credito Commerciale) enables local economic actors (SMEs in particular) to trade with each other in a trustful and circular fashion with a unique digital trade credit unit. It does this by monetizing the spare capacity of the local economy in the form of mutual, and taxable, credit between participating companies, at zero interest, on a strong basis of trust, solidarity, and local cultural identity. Therefore, INTERLACE will address very effectively the Workprogramme objective to generate socio-economic impact from EU-funded research. INTERLACE is uniquely positioned to integrate the very advanced results of BIOMICS directly in a deeply innovative, transformative, and successful fintech platform for B2B trade.",
+    "totalCost": "99978,75",
+    "ecMaxContribution": "99978,75",
+    "coordinator": "SARDEX SPA",
+    "coordinatorCountry": "IT",
+    "participants": "Fachhochschule Salzburg GmbH;THE UNIVERSITY OF HERTFORDSHIRE HIGHER EDUCATION CORPORATION;UNIVERSITAT PASSAU",
+    "participantCountries": "AT;UK;DE",
+    "projectParticipants": {
+        "999878523": {
+            "orgId": "999878523",
+            "orgName": "UNIVERSITAT PASSAU",
+            "ecContrib": 18800
+        },
+        "999911115": {
+            "orgId": "999911115",
+            "orgName": "THE UNIVERSITY OF HERTFORDSHIRE HIGHER EDUCATION CORPORATION",
+            "ecContrib": 11356
+        },
+        "994934045": {
+            "orgId": "994934045",
+            "orgName": "Fachhochschule Salzburg GmbH",
+            "ecContrib": 46822
+        }
+    },
+    "calculatedTotalContribution": 76978
+}

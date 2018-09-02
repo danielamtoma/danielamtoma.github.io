@@ -1,0 +1,23 @@
+{
+    "rcn": "205324",
+    "acronym": "PRIORS",
+    "topics": "ERC-CoG-2015",
+    "title": "Neural circuit dynamics underlying expectation and their impact on the variability of perceptual choices",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Just as our experience has its origin in our perceptions, our perceptions are fundamentally shaped by our experience. How does the brain build expectations from experience and how do expectations impact perception? In a Bayesian framework, expectations determine the environmentís prior probability, which combined with stimulus information, can yield optimal decisions. While the accumulation-to-bound model describes temporal integration of sensory inputs and their combination with the prior, we still lack electrophysiological evidence showing neural circuits that integrate previous events adaptively to generate advantageous expectations.\n \nI aim to understand (1) how circuits in the cerebral cortex integrate the recent history of stimuli and rewards to generate expectations, (2) how expectations are combined with sensory input across the processing hierarchy to bias decisions and (3) whether the dynamics of the expectation can dominate neuronal and choice variability. I will train rats in a new auditory discrimination task using predictable stimulus sequences that, once learned, are used to compute adaptive priors that improve discrimination. I will perform population recordings and optogenetic manipulations to identify the brain areas involved in the computation of priors in the task. To reveal the circuit mechanisms underlying the observed dynamics I will train a computational network model to classify fluctuating inputs and, by adapting its dynamics to the statistics of the stimulus sequence, accumulate evidence across trials to maximize performance. The model will generalize the accumulation-to-bound model by integrating information across various time scales and will partition choice variability into that caused by the dynamics of the prior or by fluctuations in the stimulus response. My proposal points at a paradigm shift from viewing neuronal variability as a corrupting source of noise to the result of our brainís inevitable tendency to predict the future.",
+    "totalCost": "2000000",
+    "ecMaxContribution": "2000000",
+    "coordinator": "CONSORCI INSTITUT D'INVESTIGACIONS BIOMEDIQUES AUGUST PI I SUNYER",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999620018": {
+            "orgId": "999620018",
+            "orgName": "CONSORCI INSTITUT D'INVESTIGACIONS BIOMEDIQUES AUGUST PI I SUNYER",
+            "ecContrib": 2000000
+        }
+    },
+    "calculatedTotalContribution": 2000000
+}

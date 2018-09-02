@@ -1,0 +1,23 @@
+{
+    "rcn": "194540",
+    "acronym": "DISTRUCT",
+    "topics": "ERC-CoG-2014",
+    "title": "Structure Theory for Directed Graphs",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2020",
+    "objective": "Structural graph theory has proved to be a powerful tool for coping with computational intractability. It provides a wealth of concepts and results that can be used to design efficient algorithms for hard computational problems on specific classes of graphs that occur naturally in applications.\n\nIn many applications in computer science, the natural mathematical model are directed graphs. Unfortunately, research in structural graph theory has so far almost exclusively focussed on undirected graphs and no structure theory for directed graphs comparable to the tree-width and graph minors based approach for undirected graphs has been developed that would provide for a similar set of tools and concepts to deal with computational problems on directed graphs.  \n\nThe objective of this proposal is to develop such a structure theory aimed specifically at algorithmic applications on directed graphs. The novelty of our approach is that:\n\na) it is based on directed minors which allows us to avoid the algorithmic problems faced by existing digraph width measures and has not been studied before in this context \n\nand \n\nb) it facilitates our recent proof of the excluded directed    grid theorem which is likely to allow entirely new algorithmic techniques for directed graphs.\n\nThe focus of the project is on the development of the structural foundations and algorithmic techniques for designing efficient algorithms for a wide range of algorithmic digraph problems. In particular, we will use an approach based on logical definability for developing such algorithmic techniques. \n\nFurthermore, we will apply our methods to two specific application areas, model-checking in computer-aided verification and inference problems in Bayesian networks.",
+    "totalCost": "1826773",
+    "ecMaxContribution": "1826773",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 1826773
+        }
+    },
+    "calculatedTotalContribution": 1826773
+}

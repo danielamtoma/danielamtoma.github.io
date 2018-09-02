@@ -1,0 +1,53 @@
+{
+    "rcn": "193770",
+    "acronym": "subCULTron",
+    "topics": "FETPROACT-2-2014",
+    "title": "SUBMARINE CULTURES PERFORM LONG-TERM ROBOTIC EXPLORATION OF UNCONVENTIONAL ENVIRONMENTAL NICHES",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2019",
+    "objective": "subCULTron aims for achieving long-term autonomy in a learning, self-regulating, self-sustaining underwater society/culture of robots in a high-impact application area: Venice, Italy. Our heterogeneous system consists of 3 different agent types: On the sea-ground, artificial mussels are the collective long-term memory of the system, allowing information to stay beyond the runtime of other agents, thus allowing to continue learning from previously learned states. These mussels monitor the natural habitat, including biological agents like algae, bacterial incrustation and fish. On the water surface, artificial lilypads interface with the human society, delivering energy and information influx from ship traffic or satellite data. Between those two layers, artificial fish move/monitor/explore the environment and exchange info with the mussels and lilypads. Artificial mussels are a novel class of underwater agents. We aim to push forward the edge of knowledge with novel sensors (electric sense/electro-communication), novel bio-inspired algorithms (underwater hives) and novel energy harvesting in underwater scenarios. We will improve the worldís record for swarm-size in autonomous collective underwater robotics by almost one order of magnitude. Our application field is a human- and animal-co-inhabited real-world environment of high impact: Venice canals & lagoon. These habitats are highly dynamic and structured, expected to be reflected by a spatial self-structuring of our mussel population. These sub-populations locally perform memetic/ cultural learning algorithms on their specific local data. Thus our cultural evolution algorithms will promote sub-culture development, similar to the human society that does the same above the water level in parallel. Overall, we aim for an artificial society underneath the water-surface to the service of a human society above the water.",
+    "totalCost": "3987650,75",
+    "ecMaxContribution": "3987650",
+    "coordinator": "UNIVERSITAET GRAZ",
+    "coordinatorCountry": "AT",
+    "participants": "CORILA - CONSORZIO PER IL COORDINAMENTO DELLE RICERCHE INERENTI AL SISTEMA LAGUNARE DI VENEZIA;SVEUCILISTE U ZAGREBU FAKULTET ELEKTROTEHNIKE I RACUNARSTVA;UNIVERSITE LIBRE DE BRUXELLES;SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA;ASSOCIATION POUR LA RECHERCHE ET LE DEVELOPPEMENT DES METHODES ET PROCESSUS INDUSTRIELS;CYBERTRONICA UG (HAFTUNGSBESCHRANKT) GMBH",
+    "participantCountries": "IT;HR;BE;FR;DE",
+    "projectParticipants": {
+        "999876486": {
+            "orgId": "999876486",
+            "orgName": "SVEUCILISTE U ZAGREBU FAKULTET ELEKTROTEHNIKE I RACUNARSTVA",
+            "ecContrib": 667080
+        },
+        "999873188": {
+            "orgId": "999873188",
+            "orgName": "UNIVERSITAET GRAZ",
+            "ecContrib": 901300
+        },
+        "999986290": {
+            "orgId": "999986290",
+            "orgName": "UNIVERSITE LIBRE DE BRUXELLES",
+            "ecContrib": 575893
+        },
+        "999981246": {
+            "orgId": "999981246",
+            "orgName": "ASSOCIATION POUR LA RECHERCHE ET LE DEVELOPPEMENT DES METHODES ET PROCESSUS INDUSTRIELS",
+            "ecContrib": 393935
+        },
+        "997353225": {
+            "orgId": "997353225",
+            "orgName": "CORILA - CONSORZIO PER IL COORDINAMENTO DELLE RICERCHE INERENTI AL SISTEMA LAGUNARE DI VENEZIA",
+            "ecContrib": 293694
+        },
+        "999884731": {
+            "orgId": "999884731",
+            "orgName": "SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA",
+            "ecContrib": 529000
+        },
+        "953824475": {
+            "orgId": "953824475",
+            "orgName": "CYBERTRONICA UG (HAFTUNGSBESCHRANKT) GMBH",
+            "ecContrib": 626748
+        }
+    },
+    "calculatedTotalContribution": 3987650
+}

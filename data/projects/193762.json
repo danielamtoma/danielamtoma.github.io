@@ -1,0 +1,23 @@
+{
+    "rcn": "193762",
+    "acronym": "MONITOR",
+    "topics": "ERC-PoC-2014",
+    "title": "Forecasting and Monitoring Economic Indicators",
+    "startDate": "01/10/2015",
+    "endDate": "31/03/2017",
+    "objective": "Forecasting and monitoring key economic variables is one of the main activities of financial and government institutions, forecasting agencies, and investment companies. In the ERC-funded starting grant (ERC-2007-StG: Change-Point Tests) we developed novel models and tests for forecasting key economic indicators (such as economic activity, financial volatility and others) as well as evaluating the reliability of model predictions. In many cases our methods improve upon the current-state-of-art. The idea of this ERC Proof of Concept (PoC) grant is to use these novel models and tests to develop a software/toolbox that forecasts and monitors economic indicators. Most available forecasting software lack real-time monitoring and predictive breakdown tests which are important for reliable forecasts especially in periods of instability. Our forecasting and monitoring toolbox can improve the reliability of forecasts as follows: (1) using a novel family of models and high frequency information (2) monitoring forecasts in real-time (3) using new predictive tests of potential breakdowns. Such economic forecasts are at the heart of economic decision making made by governments, Central Banks, and firms that are potential users of our toolbox. In this ERC PoC we will initially work with a forecasting agency and a Central Bank, given contacts have already been established, in order to examine various aspects of the development of this toolbox such as: building a user-friendly software, developing a three-dimensional graphical representation of the monitoring and predictive breakdown tests, and generally making our new methods accessible to decision makers. The overall objective of this ERC PoC grant is to provide a software with innovative techniques that can improve economic forecasts and thereby economic decision making. Reliable economic forecasts can lead to prudent economic policy making and affect the growth, economic and social welfare of countries, firms and individuals.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSITY OF CYPRUS",
+    "coordinatorCountry": "CY",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999835843": {
+            "orgId": "999835843",
+            "orgName": "UNIVERSITY OF CYPRUS",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

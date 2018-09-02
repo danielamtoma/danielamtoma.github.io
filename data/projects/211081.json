@@ -1,0 +1,93 @@
+{
+    "rcn": "211081",
+    "acronym": "SLICENET",
+    "topics": "ICT-07-2017",
+    "title": "End-to-End Cognitive Network Slicing and Slice Management Framework in Virtualised Multi-Domain, Multi-Tenant 5G Networks",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2020",
+    "objective": "5G use cases are so diverse and challenging that the 5G networks must be customisable for the broad range of individual scenarios. 5G network providers are keen to offer ìnetworks as a serviceî where logical network slices are created and allocated to use cases flexibly and efficiently in a multi-operator environment. SliceNet will create and demonstrate the tools and mechanisms to achieve this ambition. Specifically, SliceNet will design, prototype and demonstrate an innovative, verticals-oriented, QoE-driven 5G network slicing framework. It will use cognitive network management, control and orchestration techniques for the provision and operation of end-to-end slicing across multi-operator domains in 5G networks. SliceNet will systematically tackle a range of the involved outstanding issues and thus directly addresses the key challenges in Strand 3 ìSoftware Networkî in this call ICT-07-2017. The integrated SliceNet framework will be demonstrated in three representative vertical use cases:  Smart Grid, eHealth and Smart City, to highlight the achievements, innovations, and impacts. SliceNet support the unique perspectives and requirements on 5G networks of different players: For 5G verticals businesses, SliceNet offers an innovative one-stop shop solution to meet diverging and demanding service requirements. SliceNet enables the verticals to plug and play their use cases with bespoke control to employ 5G slices in a scalable, cost-efficient way via novel mySlice and Scalable Slicing as a Service functions and a one-stop API. For 5G service providers and users, SliceNet provides unprecedented guaranteed service quality by agile cognitive QoE-optimisation of service creation and delivery. For 5G network operators, SliceNet presents an integrated FCAPS (Fault, Configuration, Accounting, Performance, Security) framework for truly end-to-end management, control and orchestration of slices by secured, interoperable, and reliable operations across multi-operator domains.",
+    "totalCost": "7979030",
+    "ecMaxContribution": "7979030",
+    "coordinator": "EURESCOM-EUROPEAN INSTITUTE FOR RESEARCH AND STRATEGIC STUDIES IN TELECOMMUNICATIONS GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "NEXTWORKS;UNIVERSITY OF THE WEST OF SCOTLAND;ORANGE SA;CIT INFINITE DESIGNATED ACTIVITY COMPANY;CREATIVE SYSTEMS ENGINEERING (C.S.E) MONOPROSOPI EPE;ALTICE LABS SA;CORK INSTITUTE OF TECHNOLOGY;HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE);UNIVERSITAT POLITECNICA DE CATALUNYA;ERICSSON TELECOMUNICAZIONI;EFACEC ENERGIA - MAQUINAS E EQUIPAMENTOS ELECTRICOS SA;ORANGE ROMANIA SA;EMC INFORMATION SYSTEMS INTERNATIONAL;EURECOM;REDZINC SERVICES LIMITED;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+    "participantCountries": "IT;UK;FR;IE;EL;PT;ES;RO;IL",
+    "projectParticipants": {
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 613090
+        },
+        "954892445": {
+            "orgId": "954892445",
+            "orgName": "ORANGE ROMANIA SA",
+            "ecContrib": 385085
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 775300
+        },
+        "935233649": {
+            "orgId": "935233649",
+            "orgName": "EFACEC ENERGIA - MAQUINAS E EQUIPAMENTOS ELECTRICOS SA",
+            "ecContrib": 458125
+        },
+        "999912279": {
+            "orgId": "999912279",
+            "orgName": "EURESCOM-EUROPEAN INSTITUTE FOR RESEARCH AND STRATEGIC STUDIES IN TELECOMMUNICATIONS GMBH",
+            "ecContrib": 536875
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 473625
+        },
+        "959978349": {
+            "orgId": "959978349",
+            "orgName": "EMC INFORMATION SYSTEMS INTERNATIONAL",
+            "ecContrib": 656875
+        },
+        "919384916": {
+            "orgId": "919384916",
+            "orgName": "CIT INFINITE DESIGNATED ACTIVITY COMPANY",
+            "ecContrib": 0
+        },
+        "999792581": {
+            "orgId": "999792581",
+            "orgName": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+            "ecContrib": 312500
+        },
+        "961330335": {
+            "orgId": "961330335",
+            "orgName": "REDZINC SERVICES LIMITED",
+            "ecContrib": 570670
+        },
+        "999911503": {
+            "orgId": "999911503",
+            "orgName": "ALTICE LABS SA",
+            "ecContrib": 665750
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 454375
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 572821
+        },
+        "990902046": {
+            "orgId": "990902046",
+            "orgName": "CREATIVE SYSTEMS ENGINEERING (C.S.E) MONOPROSOPI EPE",
+            "ecContrib": 311250
+        },
+        "999589657": {
+            "orgId": "999589657",
+            "orgName": "UNIVERSITY OF THE WEST OF SCOTLAND",
+            "ecContrib": 664499
+        }
+    },
+    "calculatedTotalContribution": 7450840
+}

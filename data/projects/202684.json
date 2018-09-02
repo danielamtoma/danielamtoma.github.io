@@ -1,0 +1,78 @@
+{
+    "rcn": "202684",
+    "acronym": "SHIELD",
+    "topics": "DS-04-2015",
+    "title": "Securing against intruders and other threats through a NFV-enabled environment",
+    "startDate": "01/09/2016",
+    "endDate": "28/02/2019",
+    "objective": "Nowadays, cybercrime is one of the most relevant and critical threats to both the economy and society in Europe. Establishing efficient and effective ways to protect services and infrastructures from ever-evolving cyber threats is crucial for sustaining business integrity and reputation as well as protecting personal and sensitive data.\nTo that end, the SHIELD project proposes a universal solution for dynamically establishing and deploying virtual security infrastructures into ISP and corporate networks. SHIELD builds on the huge momentum of Network Functions Virtualisation (NFV), as currently standardised by ETSI, in order to virtualise security appliances into virtual Network Security Functions (vNSFs), to be instantiated within the network infrastructure using NFV technologies and concepts, effectively monitoring and filtering network traffic in a distributed manner. Logs and metrics from vNSFs are aggregated into an information-driven Data Analysis and Remediation Engine (DARE), which leverages state-of-the-art big data storage and analytics in order to predict specific vulnerabilities and attacks by analysing the network and understanding the adversary possibilities, behaviour and intent. \nThe SHIELD virtual security infrastructure can either used by the ISP internally for network monitoring and protection, but it can also be offered as-a-service to ISP customers; for this purpose, SHIELD establishes a ìvNSF Storeî, i.e. a repository of available virtual security functions (firewalls, DPIs, content filters etc.) from which the ISP customers can select the ones which best match their needs and deploy them to protect their infrastructure. This approach promotes openness and interoperability of security functions and offers an affordable, zero-CAPEX security solution for citizens and SMEs. Moreover, SHIELD services can be easily scaled up or down, configured and upgraded according to customersí needs, as opposed to security solutions based on monolithic hardware.",
+    "totalCost": "4552060,69",
+    "ecMaxContribution": "3607245",
+    "coordinator": "SPACE HELLAS ANONYMI ETAIREIA SYSTIMATA KAI YPIRESIES TILEPIKOINONIONPLIROFORIKIS ASFALEIAS - IDIOTIKI EPICHEIRISI PAROCHIS YPERISION ASFA",
+    "coordinatorCountry": "EL",
+    "participants": "INFILI TECHNOLOGIES PRIVATE COMPANY;AGENZIA PER L'ITALIA DIGITALE;TALAIA NETWORKS SL;TELEFONICA INVESTIGACION Y DESARROLLO SA;HEWLETT-PACKARD LIMITED;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";POLITECNICO DI TORINO;INCITES CONSULTING SARL;FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA;UBIWHERE LDA;ORION INNOVATIONS PRIVATE COMPANY",
+    "participantCountries": "EL;IT;ES;UK;LU;PT",
+    "projectParticipants": {
+        "949872307": {
+            "orgId": "949872307",
+            "orgName": "INCITES CONSULTING SARL",
+            "ecContrib": 115189
+        },
+        "932053019": {
+            "orgId": "932053019",
+            "orgName": "INFILI TECHNOLOGIES PRIVATE COMPANY",
+            "ecContrib": 216405
+        },
+        "999958354": {
+            "orgId": "999958354",
+            "orgName": "HEWLETT-PACKARD LIMITED",
+            "ecContrib": 273556
+        },
+        "935934959": {
+            "orgId": "935934959",
+            "orgName": "ORION INNOVATIONS PRIVATE COMPANY",
+            "ecContrib": 344671
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 483731
+        },
+        "950652866": {
+            "orgId": "950652866",
+            "orgName": "TALAIA NETWORKS SL",
+            "ecContrib": 168375
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 298843
+        },
+        "950972578": {
+            "orgId": "950972578",
+            "orgName": "AGENZIA PER L'ITALIA DIGITALE",
+            "ecContrib": 182006
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 205875
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 531062
+        },
+        "999778322": {
+            "orgId": "999778322",
+            "orgName": "SPACE HELLAS ANONYMI ETAIREIA SYSTIMATA KAI YPIRESIES TILEPIKOINONIONPLIROFORIKIS ASFALEIAS - IDIOTIKI EPICHEIRISI PAROCHIS YPERISION ASFA",
+            "ecContrib": 483438
+        },
+        "991811906": {
+            "orgId": "991811906",
+            "orgName": "UBIWHERE LDA",
+            "ecContrib": 304093
+        }
+    },
+    "calculatedTotalContribution": 3607244
+}

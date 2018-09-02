@@ -1,0 +1,23 @@
+{
+    "rcn": "193575",
+    "acronym": "ROBOTAR",
+    "topics": "ERC-StG-2014",
+    "title": "Robot-Assisted Flexible Needle Steering for Targeted Delivery of Magnetic Agents",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2020",
+    "objective": "Diagnostic agents are currently injected into the body in an uncontrolled way and visualized using non-real-time imaging modalities. Delivering agents close to the organ and magnetically guiding them to the target would permit a myriad of novel diagnostic and therapeutic options, including on-site pathology and targeted drug delivery. Such an advance would truly revolutionize minimally invasive surgery (MIS). Presently MIS often involves manual percutaneous insertion of rigid needles. These needles deviate from their intended paths due to tissue deformation and physiological processes. Inaccurate needle placement may result in misdiagnosis or ineffective treatment. Thus, the goal of ROBOTAR is to design a robotic system to accurately steer flexible needles through tissue, and enable precise delivery of agents by magnetically guiding them to a designated target.\n\nThere are several challenges: 3D models describing the evolving needle shape are not available, real-time control of flexible needles using 3D ultrasound (US) images has not been demonstrated, and US-guided tracking of magnetic agents has not been attempted. These challenges will be overcome by using non-invasively (via US) acquired tissue properties to develop patient-specific biomechanical models that predict needle paths for pre-operative plans. Intra-operative control of flexible needles with actuated tips will be accomplished by integrating plans with data from US images and optical sensors. Ultrafast US tracking methods will be coupled to an electromagnetic system to robustly control the agents. A prototype will be evaluated using microrobots and clusters of nanoparticles in scenarios with realistic physiological functionalities. The knowledge gained will be applicable to a range of flexible instruments, and to an assortment of personalized treatment scenarios. This research is motivated by the existing need to further reduce invasiveness of MIS, minimize patient trauma, and improve clinical outcomes.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "UNIVERSITEIT TWENTE",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999900833": {
+            "orgId": "999900833",
+            "orgName": "UNIVERSITEIT TWENTE",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

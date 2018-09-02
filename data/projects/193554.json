@@ -1,0 +1,23 @@
+{
+    "rcn": "193554",
+    "acronym": "SYNTECH",
+    "topics": "ERC-StG-2014",
+    "title": "Synthesis Technologies for Reactive Systems Software Engineers",
+    "startDate": "01/04/2015",
+    "endDate": "30/09/2020",
+    "objective": "The design and development of open reactive systems, which compute by reacting to ongoing stimuli from their environment, and include, for example, mobile applications running on smart phone devices, web-based applications, industrial robotic systems, embedded software running on chips inside cars and aircraft, etc., is a complex and challenging task. Despite advancement from low-level assembly languages to higher-level languages with powerful abstraction mechanisms, and the use of automated testing and formal verification, reactive systems software development is still a mostly manual and error-prone iterative activity of coding and debugging.\nA fundamentally different alternative approach to reactive systems development is synthesis, the automatic creation of correct-by-construction software from its specification.  Synthesis has the potential to transform the way open reactive systems software is developed, making the process more effective and productive, and making its results more reliable and usable. However, while important advancements have been recently made on the algorithmic aspects of synthesis, no work has yet taken advantage of these achievements to change software engineering practices from ìprogram centricî to ìspecification centricî. No effective end-to-end means to use synthesis are available to engineers, and the potential revolutionary impact of synthesis on the engineering of reactive systems software is far from being fully explored. \n The proposal targets four objectives: a new, rich specification language, tailored for synthesis and for use by software engineers; a set of new methods for specification centric development; tool implementations in ëkiller appí application domains; and systematic evaluation with engineers. \nThe research aims to unleash and evaluate the potential of synthesis to revolutionize reactive systems software development and to open the way for new directions in software engineering research and practice.",
+    "totalCost": "1477000",
+    "ecMaxContribution": "1477000",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1477000
+        }
+    },
+    "calculatedTotalContribution": 1477000
+}

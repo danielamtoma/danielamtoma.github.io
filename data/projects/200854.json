@@ -1,0 +1,43 @@
+{
+    "rcn": "200854",
+    "acronym": "MALORCA",
+    "topics": "Sesar-02-2015",
+    "title": "Machine Learning of Speech Recognition Models for Controller Assistance",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "One of the main causes hampering the introduction of higher levels of automation in the Air Traffic Management (ATM) world is the intensive use of spoken language as the natural way of communication. Data link will be another media of communication with its known advantages compared to voice communication but for the future it is still assumed that data link communication will increase but never fully replace voice communication. Particularly for the time being controllers and pilots exchange information by spoken language, whereas automated systems understand the situation based only on sensor information. This difference in the end creates misunderstandings between operators and systems which lead to failures and further on to a lack of acceptance for automation. One promising solution is the introduction of automatic speech recognition as an integral part of automation.\nRecently, the venture capital funded project AcListantÆ has achieved command error rates below 2% based on Assistant Based Speech Recognition (ABSR), developed by Saarland University (USAAR) and DLR. ABSR combines speech recognition with an assistant system, which generates context information to reduce the search space of the speech recognizer.\nOne main issue to transfer ABSR from the laboratory to the ops-rooms is its costs of deployment. Each ABSR model must manual adapted to the local environment due to e.g. different accents and deviations from standard phraseology. This project proposes a general, cheap and effective solution to automate this re-learning, adaptation and customisation process to new environments, taking advantage of the large amount of speech data available in the ATM world. Machine learning algorithms using these data sources will automatically adapt the ABSR models to the respective environment.",
+    "totalCost": "805587,5",
+    "ecMaxContribution": "538103,75",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH;RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK;FONDATION DE L'INSTITUT DE RECHERCHE IDIAP;UNIVERSITAT DES SAARLANDES",
+    "participantCountries": "AT;CZ;CH;DE",
+    "projectParticipants": {
+        "999929545": {
+            "orgId": "999929545",
+            "orgName": "UNIVERSITAT DES SAARLANDES",
+            "ecContrib": 187211
+        },
+        "998956635": {
+            "orgId": "998956635",
+            "orgName": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH",
+            "ecContrib": 86562
+        },
+        "999644074": {
+            "orgId": "999644074",
+            "orgName": "FONDATION DE L'INSTITUT DE RECHERCHE IDIAP",
+            "ecContrib": 0
+        },
+        "954552363": {
+            "orgId": "954552363",
+            "orgName": "RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK",
+            "ecContrib": 52442
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 211888
+        }
+    },
+    "calculatedTotalContribution": 538103
+}

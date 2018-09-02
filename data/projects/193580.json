@@ -1,0 +1,28 @@
+{
+    "rcn": "193580",
+    "acronym": "SM-IMPORT",
+    "topics": "ERC-StG-2014",
+    "title": "Substrate import at work: single-molecule studies of ABC transporters",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "ABC (ATP Binding Cassette) transporters represent the most abundant and diverse family of transport proteins known that play crucial roles in numerous cellular processes. Despite their importance, all proposed molecular models for transport are based on indirect evidence due to the inability of classical biophysical and biochemical techniques to directly visualize dynamic structural changes. To solve this problem, I suggest a novel approach that can decipher the molecular mechanisms of transport, with the ultimate goal to use this knowledge against pathogenic bacteria, for treatment of ABC-related diseases or multi-drug resistance of cancer cells.\nI propose to use single-molecule fluorescence microscopy for the study of conformational states of an ABC model system in vitro, and thus to observe directly how elementary transport steps are coordinated. This will open up a virtually unexplored biophysical research area and provide a detailed understanding of the molecular mechanisms of ABC transporters. The key questions of this proposal are:\n\nAim 1: What is the mechanism of substrate binding in ABC transporters? The conformational equilibrium (open vs. closed state) of ABC-associated substrate-binding proteins will be studied to understand the molecular mechanism of binding, i.e., induced fit vs. conformational selection.\n\nAim 2: What are relevant conformational states and changes for substrate translocation? The time- and length-scales of conformational changes in transmembrane and nucleotide binding domains as well as interactions with other domains will be characterized using the osmoregulator OpuA as a model system.\n\nAim 3: How are substrate binding, energy utilization and translocation coordinated in ABC transporters? Finally, a complete model of transport will be developed to decipher the coordination of transport events, i.e., how substrate binding and ATP-hydrolysis are coupled and transferred into conformational changes that drive substrate transport.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "RIJKSUNIVERSITEIT GRONINGEN",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 500000
+        },
+        "999989782": {
+            "orgId": "999989782",
+            "orgName": "RIJKSUNIVERSITEIT GRONINGEN",
+            "ecContrib": 1000000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

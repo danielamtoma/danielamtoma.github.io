@@ -1,0 +1,83 @@
+{
+    "rcn": "205577",
+    "acronym": "FAR-EDGE",
+    "topics": "FOF-11-2016",
+    "title": "Factory Automation Edge Computing Operating System Reference Implementation",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "Despite the proclaimed benefits (i.e. scalability, reliability, cost-effectiveness) of Future Internet (FI) technologies (i.e. edge & cloud computing, IoT/CPS) for factory automation, their adoption from manufacturers remains low for various reasons, including technology issues (e.g., poor situation awareness, limited deployments, no standards-based reference implementations) and the lack of a smooth migration path from legacy systems.\nFAR-EDGE is a joint effort of leading experts in manufacturing, industrial automation and FI technologies towards the smooth and wider adoption of virtualized factory automation solutions based on FI technologies. It will research a novel factory automation platform based on edge computing architectures and IoT/CPS technologies.  FAR-EDGE will provide a reference implementation of emerging standards-based solutions for industrial automation (RAMI 4.0, Industrial Internet Consortium reference architecture), along with simulation services for validating automation architectures and production scheduling scenarios. FAR-EDGE will lower the barriers for manufacturers to move towards Industrie 4.0, as a means of facilitating mass-customization and reshoring. Emphasis will be paid in the study of migration options from legacy centralized architectures, to emerging FAR-EDGE based ones.\nFAR-EDGE will be validated in real-life plants (VOLVO, WHIRLPOOL) in the scope of user-driven scenarios (business-cases) for mass-customization and reshoring, where tangible improvements relating to reliability, productivity increase, quality cost, reduction in adaptation effort/costs will be measured and evaluated. Also, a wide range of migration scenarios will be evaluated in the scope of a CPS manufacturing testbed.\nFAR-EDGE will also establish a unique ecosystem for FI factory automation solutions, which will bring together the FoF and FI communities (e.g., EFFRA, Industrie 4.0, AIOTI, ARTEMIS JU) and will ensure sustainability of FAR-EDGE results.",
+    "totalCost": "4490193,75",
+    "ecMaxContribution": "3992631,25",
+    "coordinator": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+    "coordinatorCountry": "IT",
+    "participants": "LULEA TEKNISKA UNIVERSITET;SENSAP MICROSYSTEMS ANONIMI ETAIRIA ILEKTRONIKON SYSTIMATON KAI EFARMOGON LOGISMIKOU;UNPARALLEL INNOVATION LDA;TECHNOLOGIE INITIATIVE SMARTFACTORY KL E.V.;RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES;WHIRLPOOL EMEA SPA;POLITECNICO DI MILANO;X/OPEN COMPANY LIMITED;VOLVO LASTVAGNAR AB;SCUOLA UNIVERSITARIA PROFESSIONALEDELLA SVIZZERA ITALIANA;Whirlpool Europe srl;SIEMENS AKTIENGESELLSCHAFT",
+    "participantCountries": "SE;EL;PT;DE;IT;UK;CH",
+    "projectParticipants": {
+        "999582382": {
+            "orgId": "999582382",
+            "orgName": "RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES",
+            "ecContrib": 323125
+        },
+        "998813269": {
+            "orgId": "998813269",
+            "orgName": "VOLVO LASTVAGNAR AB",
+            "ecContrib": 313500
+        },
+        "953318426": {
+            "orgId": "953318426",
+            "orgName": "UNPARALLEL INNOVATION LDA",
+            "ecContrib": 308325
+        },
+        "999876874": {
+            "orgId": "999876874",
+            "orgName": "LULEA TEKNISKA UNIVERSITET",
+            "ecContrib": 390625
+        },
+        "999681516": {
+            "orgId": "999681516",
+            "orgName": "SENSAP MICROSYSTEMS ANONIMI ETAIRIA ILEKTRONIKON SYSTIMATON KAI EFARMOGON LOGISMIKOU",
+            "ecContrib": 271875
+        },
+        "999789283": {
+            "orgId": "999789283",
+            "orgName": "X/OPEN COMPANY LIMITED",
+            "ecContrib": 328976
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 343750
+        },
+        "999635538": {
+            "orgId": "999635538",
+            "orgName": "WHIRLPOOL EMEA SPA",
+            "ecContrib": 290000
+        },
+        "999587620": {
+            "orgId": "999587620",
+            "orgName": "SCUOLA UNIVERSITARIA PROFESSIONALEDELLA SVIZZERA ITALIANA",
+            "ecContrib": 0
+        },
+        "999987260": {
+            "orgId": "999987260",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT",
+            "ecContrib": 585142
+        },
+        "995987950": {
+            "orgId": "995987950",
+            "orgName": "Whirlpool Europe srl",
+            "ecContrib": 0
+        },
+        "992278088": {
+            "orgId": "992278088",
+            "orgName": "TECHNOLOGIE INITIATIVE SMARTFACTORY KL E.V.",
+            "ecContrib": 243562
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 593750
+        }
+    },
+    "calculatedTotalContribution": 3992630
+}

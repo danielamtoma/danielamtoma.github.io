@@ -1,0 +1,68 @@
+{
+    "rcn": "205864",
+    "acronym": "MOSAIC",
+    "topics": "LCE-07-2016-2017",
+    "title": "MOdular high concentration SolAr Configuration",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2020",
+    "objective": "MOSAIC project aims to exceed the goal of the Strategic Energy Technology (SET) Plan - European Commission of producing CSP electricity at a cost below 0.10 Ä/kWh. To exceed this goal a commercial CSP plant of > 1GW of nominal capacity is foreseen, in which  high nominal capacity of CSP plant is reached in a modular way where each MOSAIC module delivers thermal energy to linked thermal energy storage systems that supply their energy to a high capacity power block (>1GW). This modular configuration guarantees reliability, flexibility and dispatchability according to the needs of the electrical grid while reduces significantly the specific cost of the Power block (Ä/MW installed).  \nEach MOSAIC module consists of an innovative fixed spherical mirror concentrator arranged in a semi-Fresnel manner and an actuated receiver based on a low cost closed loop cable tracking system. This configuration reduces the moving parts of the whole system decreasing solar field cost while keeping high concentration ratios. This will assure high working temperatures thus high cycle efficiencies and a cost effective use of thermal storage systems. \nEnergy from the sun is collected, concentrated and transferred to the heat transfer fluid at module level where, due to the modular concept, distances from the solar concentrator to the receiver are much shorter that those typical from solar tower technologies. As a result, the efficiency of energy collection is maximized, atmospherical attenuation is minimized and accuracy requirements can be relaxed.\nAll these technical benefits contribute to a much lower capital cost of the whole system while keeping efficiency and reliability. This has consequently a strong impact in the final cost of electricity production.  First figures show LCOE estimated values below 0.10Ä/kWh for CSP power plants of 100 MW nominal power based in MOSAIC concept, additional cost reductions are expected for greater capacities (>1GW) exceeding the goal of the SET plan",
+    "totalCost": "5077733,75",
+    "ecMaxContribution": "5077733,75",
+    "coordinator": "FUNDACION TEKNIKER",
+    "coordinatorCountry": "ES",
+    "participants": "SENIOR FLEXONICS GMBH;COBRA INSTALACIONES Y SERVICIOS S.A;SOCIETE D'INGENIERIE DE REALISATIONS ELECTRIQUES ET D'AUTOMATIS_MES;POLITECNICO DI TORINO;AALBORG CSP AS;COCKERILL MAINTENANCE & INGENIERIE;FUNDACION CENER-CIEMAT;RIOGLASS SOLAR SA;AMIRES SRO",
+    "participantCountries": "DE;ES;FR;IT;DK;BE;CZ",
+    "projectParticipants": {
+        "999745342": {
+            "orgId": "999745342",
+            "orgName": "FUNDACION CENER-CIEMAT",
+            "ecContrib": 1196500
+        },
+        "965392404": {
+            "orgId": "965392404",
+            "orgName": "COBRA INSTALACIONES Y SERVICIOS S.A",
+            "ecContrib": 534988
+        },
+        "951229143": {
+            "orgId": "951229143",
+            "orgName": "AALBORG CSP AS",
+            "ecContrib": 1115000
+        },
+        "948603353": {
+            "orgId": "948603353",
+            "orgName": "COCKERILL MAINTENANCE & INGENIERIE",
+            "ecContrib": 30494
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 103188
+        },
+        "999959227": {
+            "orgId": "999959227",
+            "orgName": "FUNDACION TEKNIKER",
+            "ecContrib": 1031090
+        },
+        "956723805": {
+            "orgId": "956723805",
+            "orgName": "AMIRES SRO",
+            "ecContrib": 186250
+        },
+        "985740288": {
+            "orgId": "985740288",
+            "orgName": "SENIOR FLEXONICS GMBH",
+            "ecContrib": 140436
+        },
+        "952105635": {
+            "orgId": "952105635",
+            "orgName": "RIOGLASS SOLAR SA",
+            "ecContrib": 289500
+        },
+        "918141667": {
+            "orgId": "918141667",
+            "orgName": "SOCIETE D'INGENIERIE DE REALISATIONS ELECTRIQUES ET D'AUTOMATIS_MES",
+            "ecContrib": 450288
+        }
+    },
+    "calculatedTotalContribution": 5077734
+}

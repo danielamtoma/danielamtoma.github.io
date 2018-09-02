@@ -1,0 +1,73 @@
+{
+    "rcn": "213157",
+    "acronym": "SDK4ED",
+    "topics": "ICT-05-2017",
+    "title": "Software Development toolKit for Energy optimization and technical Debt elimination",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "The vision of SDK4ED is to minimize cost, time and complexity of low-energy software development processes, by providing tools for automatic optimization of both software quality and non-functional requirements such as energy efficiency, dependability and performance, with the capacity to tackle the interplay between design quality and run-time constraints. SDK4ED aims to realise its vision through the following objectives: \n- Establish a set of methods and tools for monitoring processes for early identification of design flaws, energy consumption indicators, and security vulnerabilities, with respect to the targeted hardware platform and non-functional requirements \n- Estimate the costs and limitations associated to technical debt (TD) liabilities in the entire software stack. \n- Provide toolboxes for assessing project management decisions with respect to the choices of repaying TD, under the constraints imposed on energy consumption and security.\n- Deploy the envisaged solutions in three industry-driven distinctive but complementary use cases in the domains of airborne systems, healthcare, and automotive industry. \n- Illustrate the importance and benefits introduced by proper TD management into low-energy software application development.\n- Train and consult the embedded software systems industry.\nThrough its envisaged toolboxes, SDK4ED will comprise a set of software programming add-ons for preventing the degradation of run-time qualities and especially energy consumption, while allowing for efficient measuring of the accumulated TD during the development of new low-energy computing software applications, including embedded systems and IoT products. \nThe major expected impact of the proposed platform will be measured by the achieved improvement in productivity, the extent to which the envisaged tools will be adopted by the reference market and the minimisation of effort for adopting digital technologies into low-energy products and services.",
+    "totalCost": "4325918,75",
+    "ecMaxContribution": "4325918,75",
+    "coordinator": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+    "coordinatorCountry": "EL",
+    "participants": "UNIVERSITY OF MACEDONIA;IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;HOLISUN SRL;AIRBUS DEFENCE AND SPACE SAS;RIJKSUNIVERSITEIT GRONINGEN;TIOBE SOFTWARE BV;NEURASMUS BV;CNET SVENSKA AB;MAXELER TECHNOLOGIES LIMITED;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "participantCountries": "EL;UK;RO;FR;NL;SE",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 397875
+        },
+        "952239592": {
+            "orgId": "952239592",
+            "orgName": "HOLISUN SRL",
+            "ecContrib": 221250
+        },
+        "968922816": {
+            "orgId": "968922816",
+            "orgName": "MAXELER TECHNOLOGIES LIMITED",
+            "ecContrib": 446250
+        },
+        "999874352": {
+            "orgId": "999874352",
+            "orgName": "UNIVERSITY OF MACEDONIA",
+            "ecContrib": 414000
+        },
+        "927900934": {
+            "orgId": "927900934",
+            "orgName": "TIOBE SOFTWARE BV",
+            "ecContrib": 295000
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 494375
+        },
+        "999989782": {
+            "orgId": "999989782",
+            "orgName": "RIJKSUNIVERSITEIT GRONINGEN",
+            "ecContrib": 330044
+        },
+        "992554053": {
+            "orgId": "992554053",
+            "orgName": "CNET SVENSKA AB",
+            "ecContrib": 289375
+        },
+        "999809265": {
+            "orgId": "999809265",
+            "orgName": "AIRBUS DEFENCE AND SPACE SAS",
+            "ecContrib": 343750
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 651500
+        },
+        "968992268": {
+            "orgId": "968992268",
+            "orgName": "NEURASMUS BV",
+            "ecContrib": 442500
+        }
+    },
+    "calculatedTotalContribution": 4325919
+}

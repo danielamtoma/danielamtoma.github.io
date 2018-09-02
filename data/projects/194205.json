@@ -1,0 +1,63 @@
+{
+    "rcn": "194205",
+    "acronym": "TREDISEC",
+    "topics": "ICT-32-2014",
+    "title": "Trust-aware, REliable and Distributed Information SEcurity in the Cloud.",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2018",
+    "objective": "'The current trend for data placement shows a steady shift towards 'the cloud'. The advent of cloud storage and computation services however comes at the expense of data security and user privacy. \nTo remedy this, customers nowadays call for end-to-end security whereby only end-users and authorized parties have access to their data and no-one else. This is especially true after the outbreak of data breaches and global surveillance programs last year.  \nIn the TREDISEC project, we address this problem and we develop systems and techniques which make the cloud a secure and efficient heaven to store data. We plan to step away from a myriad of disconnected security protocols or cryptographic algorithms, and to converge on a single framework where all objectives are met.\nMore specifically, TREDISEC addresses the confidentiality and integrity of outsourced data in the presence of a powerful attacker who controls the entire network. In addition, our proposed security primitives support data compression and data deduplication, while providing the necessary means for cloud providers to efficiently search and process encrypted data. \nBy doing so, TREDISEC aims at creating technology that will impact existing businesses and will generate new profitable business opportunities long after the project is concluded. \n'",
+    "totalCost": "6470618,94",
+    "ecMaxContribution": "4412063",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "IDEMIA IDENTITY & SECURITY FRANCE;ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE;IBM RESEARCH GMBH;SAP SE;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;EURECOM;NEC EUROPE LTD;ARSYS INTERNET S.L.",
+    "participantCountries": "FR;EL;CH;DE;UK;ES",
+    "projectParticipants": {
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 707597
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999766294": {
+            "orgId": "999766294",
+            "orgName": "IDEMIA IDENTITY & SECURITY FRANCE",
+            "ecContrib": 526414
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 860895
+        },
+        "999911212": {
+            "orgId": "999911212",
+            "orgName": "SAP SE",
+            "ecContrib": 598750
+        },
+        "964308429": {
+            "orgId": "964308429",
+            "orgName": "ARSYS INTERNET S.L.",
+            "ecContrib": 379156
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 867001
+        },
+        "999937887": {
+            "orgId": "999937887",
+            "orgName": "ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE",
+            "ecContrib": 472250
+        }
+    },
+    "calculatedTotalContribution": 4412063
+}

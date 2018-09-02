@@ -1,0 +1,23 @@
+{
+    "rcn": "205712",
+    "acronym": "IMPACT",
+    "topics": "ERC-CoG-2015",
+    "title": "The giant impact and the Earth and Moon formation",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Very little is understood of the physics governing the Giant Impact and the subsequent formation of the Moon. According to this model an impactor hit the proto-Earth; the resulting energy was enough to melt and partially vaporize the two bodies generating a large protolunar disk, from which the Earth-Moon couple formed. Hydrodynamic simulations of the impact and the subsequent evolution of the protolunar disk are currently based on models of equations of state and phase diagrams that are unconstrained by experiments or calculations. Estimates of the positions of critical points, when available at all, vary by one order of magnitude in both temperature and density. Here we propose to compute the thermodynamics of the major rock-forming minerals and rock aggregates, and use it to study the formation and evolution of the protolunar disk. For this we employ a unique combination of atomistic state-of-the-art ab initio simulations. We use large-scale density-functional theory (DFT) molecular dynamics to study bulk fluids, coupled with Green functions (GW) and time-dependent DFT techniques to analyze atomic clusters and molecular species. We compute the vaporization curves, position the supercritical points, and characterize the sub-critical and supercritical regimes. We construct equations of state of the rocks at the conditions of the giant impact that are beyond current experimental capabilities. We employ a multiscale approach to bridge the gap between atomic, geological sample, and planetary scales via thermodynamics; we simulate the thermal profile through the disk, the ratio between liquid and vapor, and the speciation. From speciation we predict elemental and isotopic partitioning during condensation. Plausible impact scenarios, features of the impactor and of the proto-Earth will be constrained with a feedback loop, until convergence between predictions of final Earth-Moon compositions and observations is reached.",
+    "totalCost": "1900000",
+    "ecMaxContribution": "1900000",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1900000
+        }
+    },
+    "calculatedTotalContribution": 1900000
+}

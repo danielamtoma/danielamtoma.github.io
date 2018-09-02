@@ -1,0 +1,23 @@
+{
+    "rcn": "198476",
+    "acronym": "CyberCare",
+    "topics": "ERC-ADG-2014",
+    "title": "Integrated Sensing Architectures and Tools for Health Care",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "This proposal addresses high-risk, high-reward research of integrated sensing and computing architectures, as well as of models, methods and tools for their design and operation. Such architectures provide the bridge between bio-systems and information processing systems, where a bio-system is an abstraction of a human in terms of biophysical parameters. Breakthroughs in data acquisition, processing and decision making support will enable new smart-health applications.\n\nThe essential research goals of this proposal are: biophysical data acquisition by novel programmable integrated sensor arrays and their design and test using a modular and structured architecture; data processing in situ and/or remotely using application-specific hardware and/or embedded software; a new robust synthesis methodology for data processing units based on a new logic structure; models, abstractions and software tools for reasoning about the acquired data, to validate health conditions and/or to provide remedies (i.e., therapy). The results of this research will be embodied in a demonstrator showing the effectiveness of these combined technologies in first-aid medical care. \n\nThe outcome of this research will have a deep and broad impact on health care, because it will improve diagnosis and therapy in a variety of cases. Namely, it will boost the quality and quantity of the acquired biophysical data, possibly in real time, by leveraging multiple sensing modalities and dedicated computing architectures. The use of formal methods for design, data evaluation and decision making support will enhance the quality of the diagnostic platforms and will ease their qualification and adoption. Moreover, the integration of sensing and electronics and their in-field programmability will reduce production cost and lower the barrier of adoption, thus providing for better and more affordable health care means.",
+    "totalCost": "2086739,99",
+    "ecMaxContribution": "2086739,99",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 2086740
+        }
+    },
+    "calculatedTotalContribution": 2086740
+}

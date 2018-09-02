@@ -1,0 +1,28 @@
+{
+    "rcn": "197920",
+    "acronym": "ArtifiCell",
+    "topics": "ERC-ADG-2014",
+    "title": "Synthetic Cell Biology: Designing organelle transport mechanisms",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Imagine being able to design into living cells and organisms de novo vesicle transport mechanisms that do not naturally exist?  At one level this is a wild-eyed notion of synthetic biology.\nBut we contend that this vision can be approached even today, focusing first on the process of exocytosis, a fundamental process that impacts almost every area of physiology.  Enough has now been learned about the natural core machinery (as recognized by the award of the 2013 Nobel Prize in Physiology or Medicine to the PI and others) to take highly innovative physics/engineering- and DNA-based approaches to design synthetic versions of the secretory apparatus that could someday open new avenues in genetic medicine.\nThe central idea is to introduce DNA-based functional equivalents of the core protein machinery that naturally form (coats), target (tethers), and fuse (SNAREs) vesicles.  We have already taken first steps by using DNA origami-based templates to produce synthetic phospholipid vesicles and complementary DNA-based tethers to specifically capture these DNA-templated vesicles on targeted bilayers. Others have linked DNA oligonucleotides to trigger vesicle fusion.\nThe next and much more challenging step is to introduce such processes into living cells. We hope to break this barrier, and in the process start a new field of research into ìsynthetic exocytosisî, by introducing Peptide-Nucleic Acids (PNAs) of tethers and SNAREs to re-direct naturally-produced secretory vesicles to artificially-programmed targets and provide artificially-programmed regulation. PNAs are chosen mainly because they lack the negatively charged phosphate backbones of DNA, and therefore are more readily delivered into the cell across the plasma membrane. Future steps, would include producing the transport vesicles synthetically within the cell by externally supplied origami-based PNA or similar cages, and - much more speculatively - ultimately using encoded DNA and RNAs to provide these functions.",
+    "totalCost": "3000000",
+    "ecMaxContribution": "3000000",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 800000
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 2200000
+        }
+    },
+    "calculatedTotalContribution": 3000000
+}

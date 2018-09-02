@@ -1,0 +1,23 @@
+{
+    "rcn": "209160",
+    "acronym": "CacheMire",
+    "topics": "ERC-PoC-2016",
+    "title": "CacheMire: Wireless Edge Caching Platform",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2018",
+    "objective": "Mobile data traffic sharply increases each year, due to the rich multi-media applications, video streaming, social networks, and billions of connected users and devices. This increasing mobile data traffic is expected to reach by 2018 roughly 60% of total network traffic. In this regard,  caching contents at the edge of the network, namely at the base station and user terminals, is a promising way of offloading the backhaul (especially crucial in dense network deployments) and decreasing the end-to-end content access delays, since the requested contents become very close to the users. Therefore, caching has the potential to become the third key technique for wireless systems sustainability. The goal of this proof of concept is to realize a prototype of such an architecture which enables caching at the edge of the network, and called as ìCacheMireî. In particular, we shall focus on development of the first version of CacheMire, which aims to 1) provide an application programming interface (API) to website developers (or content providers); 2) build a set of software/hardware tools to track/collect users' content access statistics under privacy constraints and regulations; 3) and design a storage unit/box for caching strategic contents (i.e., images, videos, files, news) at the base stations and access points. In addition, we aim to combine advanced physical layer techniques with caching so that resources in the uplink/downlink of next generation 5G wireless networks can be further optimized.",
+    "totalCost": "149682,86",
+    "ecMaxContribution": "149682,86",
+    "coordinator": "CENTRALESUPELEC",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "933906883": {
+            "orgId": "933906883",
+            "orgName": "CENTRALESUPELEC",
+            "ecContrib": 149683
+        }
+    },
+    "calculatedTotalContribution": 149683
+}

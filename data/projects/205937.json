@@ -1,0 +1,48 @@
+{
+    "rcn": "205937",
+    "acronym": "COEMS",
+    "topics": "ICT-10-2016",
+    "title": "Continuous Observation of Embedded Multicore Systems",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "The ability to observe the internals of an execution of a computer-based system is a fundamental requirement for ultimately ensuring correctness and safe behaviour. Within COEMS (Continuous Observation of Embedded Multicore Systems) a novel observer platform with supporting verification methods for software systems is created. COEMS tackles the issues of detection and identification of non-deterministic software failures caused by race conditions and access to inconsistent data. It gives insight to the systemís actual behaviour without affecting it allowing new verification methods.\nAn efficient real-time access and analysis as a critical element for operating safe systems will be developed and validated by COEMS. Moreover, a cross-layer programming approach supporting failure detection will be proposed. COEMS aims at shortening the development cycle by considerably increased test efficiency and effectivity, by increased debug efficiency (especially for non-deterministically occurring failures) and by supporting performance optimization. COEMS improves the reliability of delivered systems, enabling software developers to identify, understand, and remove software defects before release, as well as improving efficiency of software for multi/many-core computing systems in terms of performance, real-time behaviour, and energy consumption.\nThe two Global Players Thales Group and Airbus Group, both active in safety-critical domains, will validate the COEMS approach by suitable demonstrators, i.e. testing and debugging of real-world multicore applications. In addition to these two domains, we will address the domains of safety-critical medical applications, automation and automotive industry, as well as the Internet of Things.\nTechnologically, COEMS will provide the world-wide first comprehensive online observation approach that is non-intrusive allowing improved testing and debugging.\nAltogether, COEMS will define a new state-of-the-art for software systems development.",
+    "totalCost": "3961082,5",
+    "ecMaxContribution": "3961082,5",
+    "coordinator": "UNIVERSITAT ZU LUBECK",
+    "coordinatorCountry": "DE",
+    "participants": "HOGSKOLEN I BERGEN;AIRBUS DEFENCE AND SPACE GMBH;ACCEMIC GMBH E CO KG;THALES AUSTRIA GMBH;THALES SYSTEMS ROMANIA SRL",
+    "participantCountries": "NO;DE;AT;RO",
+    "projectParticipants": {
+        "930294215": {
+            "orgId": "930294215",
+            "orgName": "ACCEMIC GMBH E CO KG",
+            "ecContrib": 951800
+        },
+        "996081555": {
+            "orgId": "996081555",
+            "orgName": "HOGSKOLEN I BERGEN",
+            "ecContrib": 746435
+        },
+        "999750192": {
+            "orgId": "999750192",
+            "orgName": "THALES AUSTRIA GMBH",
+            "ecContrib": 467512
+        },
+        "999857765": {
+            "orgId": "999857765",
+            "orgName": "UNIVERSITAT ZU LUBECK",
+            "ecContrib": 810039
+        },
+        "999991819": {
+            "orgId": "999991819",
+            "orgName": "AIRBUS DEFENCE AND SPACE GMBH",
+            "ecContrib": 499388
+        },
+        "928987043": {
+            "orgId": "928987043",
+            "orgName": "THALES SYSTEMS ROMANIA SRL",
+            "ecContrib": 485909
+        }
+    },
+    "calculatedTotalContribution": 3961083
+}

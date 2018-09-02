@@ -1,0 +1,68 @@
+{
+    "rcn": "194310",
+    "acronym": "reTHINK",
+    "topics": "ICT-05-2014",
+    "title": "Trustful hyper-linked entities in dynamic networks",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2017",
+    "objective": "The Internet (r)evolution has changed traditional business and forces it to reinvent itself. Traditional operator-enabled services are losing on their importance due to a variety of new communication services, like chat and social networks, which complement or supersede traditional ones like voice telephony. Technical progress has minimized the need for access-controlled communication services and is moving instead to context based communication, which is presumably available at only marginal or no additional cost.\nHowever, unlike traditional telecommunication services, that enable universal communication, Internet communication tools are characterized by their walled garden approach, where users can only communicate with users of the same application and are not free to change application without losing their data or contacts.\nThe main goal of the reTHINK project is to design and prototype a new, non telecom centric, but Web-centric P2P Service Architecture enabling dynamic trusted relationships among distributed applications called Hyperlinked Entities that support use-cases such as contextual and social communications, M2M/IoT and content oriented services. This project will enable any type of service delivery through specialized end-to-end network quality commitments, powered by specialized P2P and/or Cloud services (delivered as SaaS,PaaS or IaaS). \nThe major structural difference between the operators approach and the web companies is related to a recurring concept in the deployment of ICT solutions: full deperimeterisation of services. Operators today cannot directly compete at a global level because their services are not and cannot be provided outside of the deployed and owned network. The services operators provide are tightly coupled with the network's functionalities and its geographical extension. \nThe work is performed by a consortium of 3 global telecom operators, 2 SMEs, 2 Universities and 2 leading research institutes, coordinated by Eurescom.",
+    "totalCost": "4720331,25",
+    "ecMaxContribution": "4720331,25",
+    "coordinator": "EURESCOM-EUROPEAN INSTITUTE FOR RESEARCH AND STRATEGIC STUDIES IN TELECOMMUNICATIONS GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "ORANGE SA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;APIZEE;ALTICE LABS SA;TECHNISCHE UNIVERSITAET BERLIN;INSTITUT MINES-TELECOM;INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA;QUOBIS NETWORKS SL;DEUTSCHE TELEKOM AG",
+    "participantCountries": "FR;DE;PT;ES",
+    "projectParticipants": {
+        "999936335": {
+            "orgId": "999936335",
+            "orgName": "DEUTSCHE TELEKOM AG",
+            "ecContrib": 788975
+        },
+        "973062679": {
+            "orgId": "973062679",
+            "orgName": "QUOBIS NETWORKS SL",
+            "ecContrib": 276406
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 592194
+        },
+        "999912279": {
+            "orgId": "999912279",
+            "orgName": "EURESCOM-EUROPEAN INSTITUTE FOR RESEARCH AND STRATEGIC STUDIES IN TELECOMMUNICATIONS GMBH",
+            "ecContrib": 362648
+        },
+        "999911503": {
+            "orgId": "999911503",
+            "orgName": "ALTICE LABS SA",
+            "ecContrib": 482964
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 553425
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 447408
+        },
+        "999613325": {
+            "orgId": "999613325",
+            "orgName": "INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA",
+            "ecContrib": 416125
+        },
+        "951471643": {
+            "orgId": "951471643",
+            "orgName": "APIZEE",
+            "ecContrib": 405812
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 394375
+        }
+    },
+    "calculatedTotalContribution": 4720332
+}

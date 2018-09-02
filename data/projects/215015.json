@@ -1,0 +1,17 @@
+{
+    "rcn": "215015",
+    "acronym": "PHILOS",
+    "topics": "ERC-2017-PoC",
+    "title": "PHILOS: Real-time Detection and Automated Mitigation of BGP Prefix Hijacking Attacks",
+    "startDate": "01/01/2019",
+    "endDate": "30/06/2020",
+    "objective": "The Internet, with its unprecedented success and global scale as a network of networks, depends heavily on few fundamental technologies. One of these technologies is the Border Gateway Protocol (BGP), which glues together the independent networks of the Internet. BGP, based on a three-decade old design, is highly susceptible to BGP prefix hijacking attacks. These attacks, which have been repeatedly covered in the news due to their critical impact in several prominent cases, persistently pest network operators and users accessing their services, as they have the capability to render entire networks (and their services) unreachable. The resulting network outages, lasting from several hours to days, cost millions of dollars. BGP prefix hijacking events result usually from human error, but can also be malicious. Offenders can impersonate victim networks, steal sensitive information, or stealthily intercept and manipulate traffic destined to legitimate destinations.\n\nCurrent approaches to defend against hijacking attacks (a) are poorly adopted, due to their high cost and low immediate benefit, or (b) rely on inaccurate detection mechanisms that generate numerous false alerts, while lacking automation. The latter results in manual and slow mitigation processes, which is presently the norm. \n\nPHILOS is a new approach to defend against BGP prefix hijacking attacks. It focuses on real-time detection and automated mitigation, relies on novel detection algorithms, and employs new technologies in order to reduce the duration of the detection/mitigation cycle from hours and days, down to a few seconds. It therefore greatly reduces the cost of outages.\n \nThe goal of this project is twofold. First, it aims to create a Proof of Concept implementation of PHILOS that can be deployed within the network of potential future customers. Second, it will form a business plan aiming to establish the necessary environment for finding the first commercial customer of PHILOS.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

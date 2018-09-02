@@ -1,0 +1,28 @@
+{
+    "rcn": "193616",
+    "acronym": "NewNGR",
+    "topics": "ERC-StG-2014",
+    "title": "New frontiers in numerical general relativity",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "In recent years general relativity (GR) has become an increasingly important new tool in areas of physics beyond its traditional playground in astrophysics. The main motivation for this comes from the AdS/CFT correspondence which conjectures an equivalence between gravity in anti-de Sitter (AdS) spaces and certain conformal field theories (CFTís). Via this correspondence, GR now plays a key role in improving our understanding of non-gravitational physics at strong coupling.\n\nThe AdS/CFT correspondence naturally leads to the study of GR in dimensions greater than four and/or in AdS spaces. Our current understanding of GR in these new settings is rather limited but it has been realized that the physics of gravity can be significantly different than in the 4d asymptotically flat case. Moreover, to access these new gravitational phenomena numerical methods have been and will be essential. However, the use of numerical GR beyond the traditional 4d asymptotically flat case is still in its infancy. The goal of this project is to improve our understanding of GR in higher dimensions and/or AdS spaces using numerical techniques. To achieve this goal, we will focus on the study of the following topics:\n\n1. Develop stable codes for doing numerical GR in AdS and higher dimensions. We will use numerical GR and the AdS/CFT correspondence to study out of equilibrium phenomena in strongly coupled CFTís. We will also use numerical GR to understand the endpoint of the various black hole instabilities and thereby address long standing conjectures in GR.\n\n2. New types of stationary black holes. We will use numerical GR to numerically construct new types of black holes in higher dimensions and in AdS, with novel topologies and fewer symmetries than the known ones. We shall apply them to the study of equilibrium configurations in strongly coupled gauge theories at finite temperature.",
+    "totalCost": "1284525",
+    "ecMaxContribution": "1284525",
+    "coordinator": "QUEEN MARY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 1284525
+        }
+    },
+    "calculatedTotalContribution": 1284525
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "205497",
+    "acronym": "5G MiEdge",
+    "topics": "EUJ-01-2016",
+    "title": "5G MiEdge: Millimeter-wave Edge cloud as an enabler for 5G ecosystem",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2019",
+    "objective": "Current research efforts on 5G Radio Access Networks (RAN) strongly focus on mmWave access to realize enhanced mobile broadband (eMBB) services. However, there are many unsolved issues to deploy mmW ave 5G RAN. The most critical issue is backhauling since it is infeasible to provide 10 Gigabit Ethernet backhaul everywhere. Meanwhile, Mobile Edge Computing (MEC) have obtained much attention in 5G networks as a key technology to enable mission-critical (low latency) applications by allocating storage and computation resources at the edge of the network and circumvent the backhaul networksí limited capacity. However, in the case of mobile networks, it is not easy to reallocate computational resources on demand, while meeting the strict latency constraints foreseen in 5G networks.\n In this project, mmWave access and MEC are firstly combined as a perfect couple of technologies compensating each otherís weakness. The new system is called mmWave edge cloud (MiEdge) henceforth. To facilitate MiEdge, the second main goal of the project is to develop a new cellular network control plane in which context information (location,  traffic, classes of applications, etc.) of users are collected and processed to forecast traffic and usersí requests, in order to enable a proactive resource allocation. This novel control plane is called liquid RAN C-plane, since the services and connections can follow users like a liquid. Lastly, the users or application providers orchestrate MiEdge to create a user/application centric 5G network that supports both eMBB and mission-critical applications. In summary, MiEdge project will develop a feasible 5G ecosystem by combining MiEdge, liquid RAN C-plane, and user/application centric orchestration. The project will contribute to the standardization of mmWave access and liquid RAN C-plane in 3GPP and IEEE. At the end, the project will demonstrate a joint 5G test-bed in the city of Berlin and 2020 Tokyo Olympic Stadium.",
+    "totalCost": "1494773,75",
+    "ecMaxContribution": "1494773,75",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INTEL DEUTSCHLAND GMBH;TELECOM ITALIA SPA;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "participantCountries": "FR;DE;IT",
+    "projectParticipants": {
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 252750
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 155000
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 359828
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 410019
+        },
+        "967538432": {
+            "orgId": "967538432",
+            "orgName": "INTEL DEUTSCHLAND GMBH",
+            "ecContrib": 317178
+        }
+    },
+    "calculatedTotalContribution": 1494775
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "213435",
+    "acronym": "COGRA",
+    "topics": "ERC-2017-COG",
+    "title": "Decoding the Mechanics of Metals by Coarse-Grained Atomistics",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2023",
+    "objective": "'First principles' and 'bottom-up' have become buzz words across scientific and engineering disciplines when it comes to the discovery, prediction and understanding of material properties and their link to processing and microstructure. Reality, however, teaches us that in the foreseeable future computational resources will be insufficient to apply predictive techniques such as quantum mechanics or atomistics to the technologically most relevant length and time scales - far above nanometers and nanoseconds. This proposal aims for nothing less but the seemingly impossible: the application of atomistic techniques to problems occurring over microns to millimeters and seconds to minutes. Instead of relying on computational power, this will be achieved by a combination of scale-bridging methodologies (involving the PI's nonlocal and meshless quasicontinuum techniques, concepts from particle methods, continuum and statistical mechanics) and computational science strategies in order to produce new theory and an open-source, computational toolset for long-term, large-scale simulations relying solely on atomistic input. Spatial upscaling, temporal upscaling as well as heat and mass transfer will be addressed. Enabled by the new scale-bridging capabilities, two representative, open challenges will be investigated: recrystallization in magnesium during thermo-mechanical processing and corrosion in steel by hydrogen embrittlement. Both are of enormous technological and economic importance but current techniques are insufficient to bridge the gap between the macroscopic mechanical performance, microstructural mechanisms and predictive atomic-scale simulations. The outcomes of this five-year research program will provide never-before techniques and numerical tools to catalyze a user community across science and technology. Although the focus is on metals, several of the proposed techniques are applicable to a significantly wider range of materials and applications.",
+    "totalCost": "1995128",
+    "ecMaxContribution": "1995128",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 1995128
+        }
+    },
+    "calculatedTotalContribution": 1995128
+}

@@ -1,0 +1,148 @@
+{
+    "rcn": "194882",
+    "acronym": "INDIGO-DataCloud",
+    "topics": "EINFRA-1-2014",
+    "title": "INtegrating Distributed data Infrastructures for Global ExplOitation",
+    "startDate": "01/04/2015",
+    "endDate": "30/09/2017",
+    "objective": "The INDIGO-DataCloud project (INDIGO for short) aims at developing a data/computing platform targeted at scientific communities, deployable on multiple hardware, and provisioned over hybrid (private or public) e-infrastructures. This platform will be built by leading European developers, resource providers, e-infrastructures and scientific communities in order to ensure its successful exploitation and sustainability.\n\nAll members of the consortium share the common interest in developing advanced middleware to sustain the deployment of service models and user tools to tackle the challenges of the Big Data era. INDIGO will exploit the formidable know-how that was built in Europe along the past ten years of collaborations on scientific computing based on different consolidated and emerging paradigms (HPC, Grid and Cloud).\n\nRegarding Cloud computing, both the public and private sectors are already offering IaaS-type Cloud resources. However, numerous areas are of interest to scientific communities where Cloud computing uptake is currently lacking, especially at the PaaS and SaaS levels. The project therefore aims at developing tools and platforms based on open source solutions addressing scientific challenges in the Cloud computing, storage and network areas.\n\nINDIGO will allow application development and execution on Cloud and Grid based infrastructures, as well as on HPC clusters. The project will extend existing PaaS solutions, allowing public and private e-infrastructures, including those provided by EGI, EUDAT, PRACE and HelixNebula, to integrate their existing services, make them available through GEANT-compliant federated and distributed AA policies, guaranteeing transparency and trust in the provisioning of such services.\n\nINDIGO will also address the development of a flexible and modular presentation layer connected to the expanded PaaS and SaaS frameworks developed by the project and allowing innovative user experiences, also from mobile appliances.",
+    "totalCost": "11565239",
+    "ecMaxContribution": "11138114",
+    "coordinator": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "coordinatorCountry": "IT",
+    "participants": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB;AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE;STICHTING EGI;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;SANTER REPLY SPA;LABORATORIO DE INSTRUMENTACAO E FISICA EXPERIMENTAL DE PARTICULAS;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;ATOS SPAIN SA;T-SYSTEMS INTERNATIONAL GMBH;CONSORZIO INTERUNIVERSITARIO RISONANZE MAGNETICHE DI METALLO PROTEINE;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;INDRA SISTEMAS SA;ISTITUTO NAZIONALE DI ASTROFISICA;CONSIGLIO NAZIONALE DELLE RICERCHE;KARLSRUHER INSTITUT FUER TECHNOLOGIE;EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH;UNIVERSITAT POLITECNICA DE VALENCIA;UNIVERSITEIT UTRECHT;ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA;FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;STIFTUNG DEUTSCHES ELEKTRONEN-SYNCHROTRON DESY;Istituto Centrale per il Catalogo Unico delle biblioteche italiane e per le informazioni bibliografiche;RUDER BOSKOVIC INSTITUTE",
+    "participantCountries": "CZ;PL;NL;FR;IT;PT;ES;DE;UK;CH;HR",
+    "projectParticipants": {
+        "999985805": {
+            "orgId": "999985805",
+            "orgName": "UNIVERSITEIT UTRECHT",
+            "ecContrib": 171000
+        },
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 606250
+        },
+        "999419422": {
+            "orgId": "999419422",
+            "orgName": "FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI",
+            "ecContrib": 348250
+        },
+        "999661534": {
+            "orgId": "999661534",
+            "orgName": "LABORATORIO DE INSTRUMENTACAO E FISICA EXPERIMENTAL DE PARTICULAS",
+            "ecContrib": 503625
+        },
+        "999472675": {
+            "orgId": "999472675",
+            "orgName": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA",
+            "ecContrib": 195000
+        },
+        "994169976": {
+            "orgId": "994169976",
+            "orgName": "Istituto Centrale per il Catalogo Unico delle biblioteche italiane e per le informazioni bibliografiche",
+            "ecContrib": 120000
+        },
+        "999986969": {
+            "orgId": "999986969",
+            "orgName": "STIFTUNG DEUTSCHES ELEKTRONEN-SYNCHROTRON DESY",
+            "ecContrib": 843750
+        },
+        "999844573": {
+            "orgId": "999844573",
+            "orgName": "AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE",
+            "ecContrib": 785625
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 337500
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 187500
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 99625
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 943750
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 2130614
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 157500
+        },
+        "999838656": {
+            "orgId": "999838656",
+            "orgName": "T-SYSTEMS INTERNATIONAL GMBH",
+            "ecContrib": 369375
+        },
+        "999589463": {
+            "orgId": "999589463",
+            "orgName": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB",
+            "ecContrib": 270000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 120000
+        },
+        "989221715": {
+            "orgId": "989221715",
+            "orgName": "STICHTING EGI",
+            "ecContrib": 585000
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 232500
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 496875
+        },
+        "992762021": {
+            "orgId": "992762021",
+            "orgName": "SANTER REPLY SPA",
+            "ecContrib": 337500
+        },
+        "999868920": {
+            "orgId": "999868920",
+            "orgName": "ISTITUTO NAZIONALE DI ASTROFISICA",
+            "ecContrib": 187500
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 510625
+        },
+        "999516810": {
+            "orgId": "999516810",
+            "orgName": "CONSORZIO INTERUNIVERSITARIO RISONANZE MAGNETICHE DI METALLO PROTEINE",
+            "ecContrib": 150000
+        },
+        "999875031": {
+            "orgId": "999875031",
+            "orgName": "RUDER BOSKOVIC INSTITUTE",
+            "ecContrib": 142500
+        },
+        "999988133": {
+            "orgId": "999988133",
+            "orgName": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+            "ecContrib": 306250
+        }
+    },
+    "calculatedTotalContribution": 11138114
+}

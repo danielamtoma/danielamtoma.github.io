@@ -1,0 +1,48 @@
+{
+    "rcn": "205445",
+    "acronym": "CPaaS.io",
+    "topics": "EUJ-02-2016",
+    "title": "City Platform as a Service - Integrated and Open",
+    "startDate": "01/07/2016",
+    "endDate": "31/12/2018",
+    "objective": "Data has been termed to be the Ñoil of the 21st centuryì. Data will also be what the smart city of the future runs on. To make this a reality, cities need a platform where data from a variety of sources ñ IoT and sensor data, open government data, social media, and other 3rd party data providers ñ can be processed, linked, and analysed in order to extract valuable information that in turn can also be provided as linked open data, and with which new types of services are created and provisioned. Both cities as well as private service providers can build novel applications and services on top of this platform; the platform thus becomes an economically valuable driver for Smart City Innovation.\nThe main goal of this project is to develop such a City Platform as a Service (CPaaS) that can be federated to support regional or even global applications, and that forms the basis for a smart city data infrastructure. Technical challenges that need to be addressed include data provenance, data quality, adaptive privacy levels, policies and adaptive processes for distributing and deploying processing intelligence to the cloud or to the edge. Other important aspects include data governance, data management and the empowerment of the citizen to control access and sharing of data about her using a MyData approach. \nIn addition to the development of the platform, several use cases in the domains of event and transport management, water management, and health emergency services will be implemented and validated with cities in Europe and Japan. Blue prints ñ both from a technical as well as from a process perspective ñ for these domains that can easily be transferred and adapted from one region to another will be developed. This will for example allow transferring the learnings from the Asian Winter Games 2017 to the Tokyo Olympics 2020. And finally, the results from the project are used to develop standardisation proposals in the related areas to ensure impact beyond the project.",
+    "totalCost": "1786407,5",
+    "ecMaxContribution": "1326407,5",
+    "coordinator": "BERNER FACHHOCHSCHULE",
+    "coordinatorCountry": "CH",
+    "participants": "ODIN SOLUTIONS S.L.;THE THINGS INDUSTRIES BV;NEC EUROPE LTD;AGT GROUP (R&D) GMBH;UNIVERSITY OF SURREY",
+    "participantCountries": "ES;NL;UK;DE",
+    "projectParticipants": {
+        "954597856": {
+            "orgId": "954597856",
+            "orgName": "AGT GROUP (R&D) GMBH",
+            "ecContrib": 312625
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 313562
+        },
+        "923521287": {
+            "orgId": "923521287",
+            "orgName": "THE THINGS INDUSTRIES BV",
+            "ecContrib": 173250
+        },
+        "999623995": {
+            "orgId": "999623995",
+            "orgName": "BERNER FACHHOCHSCHULE",
+            "ecContrib": 0
+        },
+        "934796858": {
+            "orgId": "934796858",
+            "orgName": "ODIN SOLUTIONS S.L.",
+            "ecContrib": 212938
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 314032
+        }
+    },
+    "calculatedTotalContribution": 1326407
+}

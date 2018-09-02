@@ -1,0 +1,53 @@
+{
+    "rcn": "194260",
+    "acronym": "IMMORTAL",
+    "topics": "ICT-01-2014",
+    "title": "Integrated Modelling, Fault Management, Verification and Reliable Design Environment for Cyber-Physical Systems",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2018",
+    "objective": "In IMMORTAL, a consortium of leading European academic and industrial players aim at combining their expertise in developing an integrated, cross-layer modelling based tool framework for fault management, verification and reliable design of dependable Cyber-Physical Systems (CPS). \nRecently, the world has seen emerging CPS modelling frameworks addressing various design aspects such as control, security, verification and validation. However, there have been no considerations for reliability and automated debug aspects of verification. The main aim is to fill this gap by introducing reliable design and automated system debug into CPS modelling. To reach this aim, the project will develop a cross-layer CPS model spanning device (analogue and digital), circuit, network architecture, firmware and software layers. In addition, a holistic fault model for fundamentally different error sources in CPSs (design bugs, wear-out and environmental effects) in a uniform manner will be proposed. Moreover, IMMORTAL plans to develop fault management infrastructure on top of the reliable design framework that would allow ultra-fast fault detection, isolation and recovery in the emerging many-core based CPS networked architectures that are expected to be increasingly adopted in the coming years.\nAs a result, the project will enable development of dependable CPSs with improved reliability and extended effective life-time, ageing and process variations. In line with the expected impacts of the Call, the project will have a significant impact in development time as well as maintenance costs of dependable cyber-physical systems.\nThe tool framework to be developed will be evaluated on a clearly specified real-world use-case of a satellite on-board-computer. However, since the results are more general and applicable to many application domains, including avionics, automotive and telecommunication, demonstration of the framework tools will be applied to CPS examples from other domains as well.",
+    "totalCost": "3996652,5",
+    "ecMaxContribution": "3996652,5",
+    "coordinator": "TALLINNA TEHNIKAULIKOOL",
+    "coordinatorCountry": "EE",
+    "participants": "TECHNISCHE UNIVERSITAET GRAZ;UNIVERSITEIT TWENTE;O‹ TESTONICA LAB;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD;RECORE SYSTEMS BV",
+    "participantCountries": "AT;NL;EE;DE;IL",
+    "projectParticipants": {
+        "999842536": {
+            "orgId": "999842536",
+            "orgName": "TALLINNA TEHNIKAULIKOOL",
+            "ecContrib": 377750
+        },
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 669375
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 799625
+        },
+        "999733993": {
+            "orgId": "999733993",
+            "orgName": "RECORE SYSTEMS BV",
+            "ecContrib": 576875
+        },
+        "999900833": {
+            "orgId": "999900833",
+            "orgName": "UNIVERSITEIT TWENTE",
+            "ecContrib": 490245
+        },
+        "996371876": {
+            "orgId": "996371876",
+            "orgName": "OÜ TESTONICA LAB",
+            "ecContrib": 305512
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 777270
+        }
+    },
+    "calculatedTotalContribution": 3996652
+}

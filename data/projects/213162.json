@@ -1,0 +1,78 @@
+{
+    "rcn": "213162",
+    "acronym": "PROMETHEUS",
+    "topics": "DS-06-2017",
+    "title": "PRivacy preserving pOst-quantuM systEms from advanced crypTograpHic mEchanisms Using latticeS",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "Privacy-preserving cryptographic protocols allow users to take common daily life actions online (e.g, purchases, reservations or voting) without leaking sensitive personal information. They typically combine various tools such as digital signatures, homomorphic encryption or zero-knowledge proofs. While practical solutions exist under RSA or discrete logarithm assumptions, they are all completely vulnerable to quantum attacks, so that working quantum computers would immediately make them obsolete.\n\nTo address this threat, the PROMETHEUS project will enable users' privacy in the post-quantum world by providing a complete toolbox of innovative, efficient and quantum-secure cryptographic techniques adapted to modern services. It will provide new building blocks in relation with international competitions and standardisation processes, as well as advanced properties dedicated to the design of sophisticated protocols.\n\nTo this end, PROMETHEUS will focus on lattice-based cryptography and first conduct an in-depth study of the hardness of lattice problems in the quantum world, which will drive the development of better basic tools for lattice-based cryptography. Then, it will give a new set of practical primitives (signatures, public-key encryption, pseudorandom functions, etc) and suitable methods to combine them with efficient zero-knowledge proofs. These new tools will lead to the design of practical advanced protocols, like anonymous credentials, digital cash or electronic voting, that maintain users' privacy against quantum adversaries. The security of these protocols will be considered in its entirety, from theoretical definitions allowing quantum accesses to certain functionalities to practical implementations accounting for side-channel leakages.\n\nAs a concrete outcome, PROMETHEUS will highlight the feasibility of post-quantum privacy via demonstrators for several real-life use cases, including electronic payments, e-voting and cyberthreat intelligence.",
+    "totalCost": "5496968,94",
+    "ecMaxContribution": "5496968,75",
+    "coordinator": "ECOLE NORMALE SUPERIEURE DE LYON",
+    "coordinatorCountry": "FR",
+    "participants": "ORANGE SA;STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;WEIZMANN INSTITUTE OF SCIENCE;SCYTL SECURE ELECTRONIC VOTING SA;THALES COMMUNICATIONS & SECURITY SAS;IBM RESEARCH GMBH;UNIVERSITAT POLITECNICA DE CATALUNYA;RUHR-UNIVERSITAET BOCHUM;STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN;UNIVERSITE DE RENNES I;ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",
+    "participantCountries": "FR;NL;IL;ES;CH;DE;UK",
+    "projectParticipants": {
+        "999653968": {
+            "orgId": "999653968",
+            "orgName": "STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA",
+            "ecContrib": 0
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 632250
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 618520
+        },
+        "985804405": {
+            "orgId": "985804405",
+            "orgName": "ECOLE NORMALE SUPERIEURE DE LYON",
+            "ecContrib": 567340
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 425150
+        },
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 375582
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 412756
+        },
+        "999763481": {
+            "orgId": "999763481",
+            "orgName": "SCYTL SECURE ELECTRONIC VOTING SA",
+            "ecContrib": 427125
+        },
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 466646
+        },
+        "999861451": {
+            "orgId": "999861451",
+            "orgName": "ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",
+            "ecContrib": 465120
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 294350
+        },
+        "999858541": {
+            "orgId": "999858541",
+            "orgName": "UNIVERSITE DE RENNES I",
+            "ecContrib": 399619
+        }
+    },
+    "calculatedTotalContribution": 5084458
+}

@@ -1,0 +1,33 @@
+{
+    "rcn": "197945",
+    "acronym": "Andrupos",
+    "topics": "DRS-17-2014-1",
+    "title": "Automatic non-destructive recognition of used printing techniques on substrates",
+    "startDate": "01/04/2015",
+    "endDate": "30/09/2015",
+    "objective": "Identifying the source printer and the knowledge of distinctive printer and printing details of a document are a important steps in fighting crime like forgery or threathening letters. The evidence obtained from such printed documents analysis will provide useful forensic information to law enforcement, security and intelligence agencies. In this context, the objectives of our overall innovation project are to develop technologies for a software based, automated and non-destructive analysis of printed documents in terms of the identification of the utilised printing technology (like offset-, intaglio-, ink jet-, laser-, solid Ink- und thermal print, xerographie, magnetographie, liquid toner and other), for digital printing technlogies also the print engine and the printer brand and model or even serial number/specific printer. Documents in question will be banknotes, ID cards, stamps, tickets, contracts, tickets, bills, financial documents, threathening letters. \nWith the knowledge of printing information of a single printed document different analysis use cases can be set up comprising also examinations of a set of documents like determining if all pages are printed with the same printer. \nWith the help of the Andrupos system it will also be possible to link questioned documents to a single printer item and therefore it is the first system that has a tool to also link organized crime (they often use counterfeit id-documents, printed on the same source) in an earlier stage.\nThis developed analysis software shall be integrated into a web based server system. Client applications on different types of devices (desktop pcs, mobile devices) then can post scanned (magnified) images sections of the documents in question via internet to the server. The server application receives the data, analyses the image and matches the extracted features with the database entries (printing technologies, printer brands, printer models, ..).",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "EINS - ENTWICKLUNG INTERAKTIVER SOFTWARE GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "EPYXS GMBH;LEENAARS ERNA HELENE PETRONELLE",
+    "participantCountries": "DE;NL",
+    "projectParticipants": {
+        "938956800": {
+            "orgId": "938956800",
+            "orgName": "EINS - ENTWICKLUNG INTERAKTIVER SOFTWARE GMBH",
+            "ecContrib": 50000
+        },
+        "937963035": {
+            "orgId": "937963035",
+            "orgName": "EPYXS GMBH",
+            "ecContrib": 0
+        },
+        "937974384": {
+            "orgId": "937974384",
+            "orgName": "LEENAARS ERNA HELENE PETRONELLE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "195672",
+    "acronym": "HiPerMeGaFlowS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "High-Performance Curved Meshing and Unstructured High-Order Galerkin Solvers for High-Fidelity Flow Simulation",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "High-fidelity flow simulation is one of the main goals to pursue in the research towards exascale computing. This capability will allow a cheaper exploration of aeronautical and automotive designs that fulfill energy consumption and noise emissions policies of the European agencies.  In this project, the integration of three high-performance tools will be studied as a promising alternative to perform high-fidelity flow simulations. Specifically, a parallel curved unstructured mesh generator will be integrated with two different parallel high-order stabilized Galerkin solvers. We expect that the novel research on the development and combination of these high-performance tools will provide the physical, numerical, and geometrical accuracy required to perform high-fidelity flow simulations on complex domains defined by industrial computer-aided design models. Furthermore, the project is of major interest in high-performance computing since we expect to improve the scalability of implicit flow solvers by increasing the accuracy for a given computational cost, favoring computation to data transfer, and increasing the ratio of operations that scale linearly with the number of mesh elements. The combined tools will be deployed in a large cluster to obtain flow simulations of practical interest for the aeronautical and automotive industries.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

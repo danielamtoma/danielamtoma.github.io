@@ -1,0 +1,28 @@
+{
+    "rcn": "212663",
+    "acronym": "CMEQIP",
+    "topics": "MSCA-IF-2016",
+    "title": "Cavity-mediated entanglement of trapped-ion qubit arrays for quantum information processing",
+    "startDate": "01/11/2018",
+    "endDate": "31/10/2021",
+    "objective": "Long-coherence times, high-fidelity individual-ion control and entanglement-mediating Coulomb interactions make trapped-ion qubits a very attractive platform for quantum information processing (QIP). Entangling gates performed by coupling the internal states of ions in the same potential well via their shared motional mode have recently reached the high fidelities necessary for the implementation of quantum error correction protocols which can enable fault-tolerant QIP. However, scaling this type of gate up to long ion chains (>20 ions) is not feasible: large ion numbers lead to crowding of the motional mode spectrum of the chain, eventually preventing addressing of specific modes.\nCavity-mediated ion-photon coupling is a promising avenue to scalability. Photons emitted into a shared cavity mode can be used as a quantum bus to entangle short ion arrays. If implemented between arrays of N ions, this photonic interface benefits from an N-fold enhancement of the ion-photon coupling. Strong collective coupling has been shown with neutral atoms and 3D ion crystals, but has not been performed in a system with individual-qubit control and Coulomb-mediated entanglement capabilities.\nProf.Vuleticís MIT group operates a multi-zone ion trap which holds several linear ion arrays (of up to 20 ions each) spaced along the trap axis and features an integrated optical cavity. Cooperativity measurements indicate that the strong-coupling regime should be achievable with this apparatus for cavity-mediated entanglement of arrays as short as 5 ions in length. As an MSCA fellow, I will use this trap to pursue the first demonstration of cavity-mediated entanglement of two spatially separate ion arrays. On returning to Oxford, I will implement cavity-enhanced ion-photon coupling between Sr ions in separate vacuum systems, as part of Oxford's drive to build photonically-interfaced quantum computing nodes, which currently employs inefficient free-space ion-photon coupling techniques.",
+    "totalCost": "269857,8",
+    "ecMaxContribution": "269857,8",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998096827": {
+            "orgId": "998096827",
+            "orgName": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 0
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 269858
+        }
+    },
+    "calculatedTotalContribution": 269858
+}

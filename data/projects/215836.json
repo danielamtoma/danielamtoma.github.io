@@ -1,0 +1,17 @@
+{
+    "rcn": "215836",
+    "acronym": "RECIPE",
+    "topics": "FETHPC-02-2017",
+    "title": "REliable power and time-ConstraInts-aware Predictive management of heterogeneous Exascale systems",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2021",
+    "objective": "The current HPC facilities will need to grow by an order of magnitude in the next few years to reach the Exascale range. The dedicated middleware needed to manage the enormous complexity of future HPC centers, where deep heterogeneity is needed to handle the wide variety of applications within reasonable power budgets, will be one of the most critical aspects in the evolution of HPC infrastructure towards Exascale. This middleware will need to address the critical issue of reliability in face of the increasing number of resources, and therefore decreasing mean time between failures. \nTo close this gap, RECIPE provides: a hierarchical runtime resource management infrastructure optimizing energy efficiency and ensuring reliability for both time-critical and throughput-oriented computation; a predictive reliability methodology to support the enforcing of QoS guarantees in face of both transient and long-term hardware failures, including thermal, timing and reliability models; and a set of integration layers allowing the resource manager to interact with both the application and the underlying deeply heterogeneous architecture, addressing them in a disaggregate way.\nQuantitative goals for RECIPE include: 25% increase in energy efficiency (performance/watt) with an 15% MTTF improvement due to proactive thermal management; energy-delay product improved up to 25%; 20% reduction of faulty executions.\nThe project will assess its results against the following set of real world use cases, addressing key application domains ranging from well established HPC applications such as geophysical exploration and meteorology, to emerging application domains such as biomedical machine learning and data analytics.\nTo this end, RECIPE relies on a consortium composed of four leading academic partners (POLIMI,UPV,EPFL,CeRICT); two supercomputing centers, BSC and PSNC; a research hospital, CHUV, and an SME, IBTS, which provide effective exploitation avenues through industry-based use cases.",
+    "totalCost": "3290800",
+    "ecMaxContribution": "3285300",
+    "coordinator": "POLITECNICO DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "Centro Regionale Information Communication Technology scrl;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;CENTRE HOSPITALIER UNIVERSITAIRE VAUDOIS;INTELLIGENCE BEHIND THINGS SOLUTIONS SRL;UNIVERSITAT POLITECNICA DE VALENCIA;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "IT;PL;CH;ES",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

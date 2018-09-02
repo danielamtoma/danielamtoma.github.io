@@ -1,0 +1,23 @@
+{
+    "rcn": "204107",
+    "acronym": "CombiCompGeom",
+    "topics": "ERC-StG-2015",
+    "title": "Combinatorial Aspects of Computational Geometry",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "The project focuses on the interface between computational and combinatorial geometry. \nGeometric problems emerge in a variety of computational fields that interact with the physical world.\nThe performance of geometric algorithms is determined by the description complexity of their underlying combinatorial structures. Hence, most theoretical challenges faced by computational geometry are of a distinctly combinatorial nature.\n\nIn the past two decades, computational geometry has been revolutionized by the powerful combination of random sampling techniques with the abstract machinery of geometric arrangements. These insights were used, in turn, to establish state-of-the-art results in combinatorial geometry. Nevertheless, a number of fundamental problems remained open and resisted numerous attempts to solve them. \n\nMotivated by the recent breakthrough results, in which the PI played a central role, we propose two exciting lines of study with the potential to change the landscape of this field.\n\nThe first research direction concerns the complexity of Voronoi diagrams -- arguably the most common structures in computational geometry. \n\nThe second direction concerns combinatorial and algorithmic aspects of geometric intersection structures, including some fundamental open problems in geometric transversal theory. Many of these questions are motivated by geometric variants of general covering and packing problems, and all efficient approximation schemes for them must rely on the intrinsic properties of geometric graphs and hypergraphs.\n\nAny progress in responding to these challenges will constitute a major breakthrough in both computational and combinatorial geometry.",
+    "totalCost": "1303750",
+    "ecMaxContribution": "1303750",
+    "coordinator": "BEN-GURION UNIVERSITY OF THE NEGEV",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999846222": {
+            "orgId": "999846222",
+            "orgName": "BEN-GURION UNIVERSITY OF THE NEGEV",
+            "ecContrib": 1303750
+        }
+    },
+    "calculatedTotalContribution": 1303750
+}

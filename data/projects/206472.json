@@ -1,0 +1,23 @@
+{
+    "rcn": "206472",
+    "acronym": "SMART",
+    "topics": "ERC-2016-STG",
+    "title": "Strong Modular proof Assistance: Reasoning across Theories",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "Formal proof technology delivers an unparalleled level of certainty and security. Nevertheless, applying proof assistants to the verification of complex theories and designs is still extremely laborious. High profile certification projects, such as seL4, CompCert, and Flyspeck require tens of person-years. We recently demonstrated that this effort can be significantly reduced by combining reasoning and learning in so called hammer systems: 40% of the Flyspeck, HOL4, Isabelle/HOL, and Mizar top-level lemmas can be proved automatically.\n\nToday's early generation of hammers consists of individual systems limited to very few proof assistants. The accessible knowledge repositories are isolated, and there is no reuse of hammer components.\n\nIt is possible to achieve a breakthrough in proof automation by developing new AI methods that combine reasoning knowledge and techniques into a smart hammer, that works over a very large part of today's formalized knowledge. The main goal of the project is to develop a strong and uniform learning-reasoning system available for multiple logical foundations. To achieve this, we will develop: (a) uniform learning methods, (b) reusable ATP encoding components for different foundational aspects, (c) integration of proof reconstruction, and (d) methods for knowledge extraction, reuse and content merging. The single proof advice system will be made available for multiple proof assistants and their vast heterogeneous libraries.\n\nThe ultimate outcome is an advice system able to automatically prove half of Coq, ACL2, and Isabelle/ZF top-level theorems. Additionally we will significantly improve success rates for HOL provers and Mizar. The combined smart advice method together with the vast accumulated knowledge will result in a novel kind of tool, which allows working mathematicians to automatically find proofs of many simple conjectures, paving the way for the widespread use of formal proof in mathematics and computer science.",
+    "totalCost": "1449000",
+    "ecMaxContribution": "1449000",
+    "coordinator": "UNIVERSITAET INNSBRUCK",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999869114": {
+            "orgId": "999869114",
+            "orgName": "UNIVERSITAET INNSBRUCK",
+            "ecContrib": 1449000
+        }
+    },
+    "calculatedTotalContribution": 1449000
+}

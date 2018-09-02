@@ -1,0 +1,23 @@
+{
+    "rcn": "199506",
+    "acronym": "UMnD",
+    "topics": "ERC-StG-2015",
+    "title": "Urban modelling in higher dimensions: embedding generalisation of 3D data in a 4D model",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Geographic data about urban objects (buildings, roads) is needed to monitor and control processes within modern urban areas (noise, flooding, energy demand-supply). As these processes occur in 3D, urban applications require 3D data and each application requires its own specific semantic and geometric Level of Detail (LoD) of the 3D data.\nThe scientific challenge of this project is that it requires enormous efforts to collect and transform 3D data to make it suitable for a specific application. Urban applications are therefore forced to work mainly in 2D. This reduction causes the loss of important information. A solution is needed to support the reuse of once collected 3D data in multiple applications.\nI will develop a fundamental solution for providing 3D data at application specific LoDs to solve the current problem of independently acquired and stored LoDs of a 3D urban model. To enforce consistency across dimensions, the LoDs will be modelled as an extra dimension to the 3D spatial dimensions in an integrated 3D\\LoD (4D) model. I will use an innovative method that goes far beyond the state-of-the-art by introducing higher dimensional (nD) mathematical models to the well-established domain of cartographic generalisation in 2D. Furthermore, I will study 3D generalisation solutions to derive coarse from fine data and embed these in the 4D model. ìSlicingî operations will be developed that reduce the dimensions of the 4D data to generate error-free 3D data at application specific LoDs.\nLoD is strongly related to map scale, a well-known concept in GIS. However, modelling it as an extra dimension of geographic data is new. In addition, the intermediate results have the potential to advance the field of geo-information technology, such as the ground-breaking extension of the 2D cartographic generalisation domain to 3D. If successful, the 4D approach opens a new horizon for modelling parametrisable aspects of urban environments, which may establish a new research line.",
+    "totalCost": "1498148",
+    "ecMaxContribution": "1498148",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1498148
+        }
+    },
+    "calculatedTotalContribution": 1498148
+}

@@ -1,0 +1,78 @@
+{
+    "rcn": "194869",
+    "acronym": "CREDENTIAL",
+    "topics": "DS-02-2014",
+    "title": "Secure Cloud Identity Wallet",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "With increasing mobility and Internet usage, the demand for digital services increases and has reached critical and high assurance domains like e-Government, e-Health and e-Business. Those domains have high security and privacy requirements and hence will be harnessed with various novel mechanisms for secure access. Approaches for handling the resulting variety of authentication and authorisation mechanisms include the use of digital identity and access management systems (IAM). Like other technologies IAMs follow the trend of using cloud services. This allows abstracting over used resources and enables ubiquitous access to identity data which is stored and processed in the cloud, but also results in an additional degree of complexity for securely operating IAMs. \nThe goal of CREDENTIAL is to develop, test and showcase innovative cloud based services for storing, managing, and sharing digital identity information and other critical personal data. The security of these services relies on the combination of strong hardware-based multi-factor authentication with end-to-end encryption representing a significant advantage over current password-based authentication schemes. The use of sophisticated proxy cryptography schemes will enable a secure and privacy preserving information sharing network for cloud-based identity information in which even the identity provider cannot access the data in plain-text and hence protect access to identity data. We focus not only on evaluating and applying novel crypto-approaches for IAMs but also on implementing them in an easy-to-use way to motivate secure handling of identity data. \nIn order to also address security, privacy and trust issues related to the used cloud platforms and services we will investigate assurance and resilience approaches for enhancing underlying cloud services. To empirically evaluate our work and to produce outputs of a high technical readiness we will consider use cases from all three domains mentioned above.",
+    "totalCost": "6686660",
+    "ecMaxContribution": "5978082,5",
+    "coordinator": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "TECHNISCHE UNIVERSITAET GRAZ;INFOCERT SPA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;LOMBARDIA INFORMATICA SPA;ATOS SPAIN SA;EUROCLOUD EUROPE ASBL;HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE);JOHANN WOLFGANG GOETHE-UNIVERSITATFRANKFURT AM MAIN;KLUGHAMMER GMBH;STIFTUNG SECURE INFORMATION AND COMMUNICATION TECHNOLOGIES;KARLSTADS UNIVERSITET",
+    "participantCountries": "AT;IT;DE;ES;LU;EL;SE",
+    "projectParticipants": {
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 801250
+        },
+        "990330037": {
+            "orgId": "990330037",
+            "orgName": "INFOCERT SPA",
+            "ecContrib": 177188
+        },
+        "948419538": {
+            "orgId": "948419538",
+            "orgName": "KLUGHAMMER GMBH",
+            "ecContrib": 431812
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 528098
+        },
+        "950327431": {
+            "orgId": "950327431",
+            "orgName": "EUROCLOUD EUROPE ASBL",
+            "ecContrib": 0
+        },
+        "999874837": {
+            "orgId": "999874837",
+            "orgName": "KARLSTADS UNIVERSITET",
+            "ecContrib": 527375
+        },
+        "999792581": {
+            "orgId": "999792581",
+            "orgName": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+            "ecContrib": 158900
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 549775
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 1213835
+        },
+        "968450329": {
+            "orgId": "968450329",
+            "orgName": "STIFTUNG SECURE INFORMATION AND COMMUNICATION TECHNOLOGIES",
+            "ecContrib": 526250
+        },
+        "985380127": {
+            "orgId": "985380127",
+            "orgName": "LOMBARDIA INFORMATICA SPA",
+            "ecContrib": 357350
+        },
+        "999978724": {
+            "orgId": "999978724",
+            "orgName": "JOHANN WOLFGANG GOETHE-UNIVERSITATFRANKFURT AM MAIN",
+            "ecContrib": 706250
+        }
+    },
+    "calculatedTotalContribution": 5978083
+}

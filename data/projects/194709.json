@@ -1,0 +1,23 @@
+{
+    "rcn": "194709",
+    "acronym": "GLAD",
+    "topics": "Space-SME-2014-1",
+    "title": "GNSS/INS Low-Cost Attitude Determination System",
+    "startDate": "01/10/2014",
+    "endDate": "31/03/2015",
+    "objective": "The objective of GLAD Phase 1 is the study of the commercial feasibility of a low-cost attitude determination and navigation system based on non-dedicated mass market GNSS receivers and antennas aided by MEMS sensors.\nThe fusion of GNSS and inertial data takes advantage of the complementarity of these two technologies to achieve accurate and reliable navigation: inertial sensors provide excellent dynamic response at very high data rates, while GNSS serves as an absolute reference to prevent the drift inherent to the numerical integration of acceleration to calculate velocity and position. In addition, differential GNSS carrier-phase measurements can be used to obtain extremely accurate orientation by using a multi-antenna configuration. \nThis novel navigation system brings the advantages of multi-antenna GNSS systems to applications where these would not be usable otherwise by proposing a cost-effective implementation with competitive performance, size and power, relying on non-dedicated receivers and compensated inexpensive sensors. \nThe technical feasibility of this approach has already been successfully proven with the fabrication and test of a complete low-cost hardware prototype in a previous R&D project funded by the FP7 programme. The accuracy of the navigation solution using novel algorithms was demonstrated integrating data recorded with this hardware platform, while the computational complexity of a real-time implementation of said algorithms was shown to be suitable for the targeted embedded microcontroller. \nA preliminary study of its commercial feasibility was already drafted within this project as well; the objective of this proposal is now to perform a proper commercial feasibility analysis and business plan to guide the path from the prototype demonstrator to mass production of a fully-capable navigation system making use of GPS, Galileo and EGNOS.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ACORDE TECHNOLOGIES SA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999796267": {
+            "orgId": "999796267",
+            "orgName": "ACORDE TECHNOLOGIES SA",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

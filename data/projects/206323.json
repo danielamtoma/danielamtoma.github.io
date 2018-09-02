@@ -1,0 +1,23 @@
+{
+    "rcn": "206323",
+    "acronym": "MATERIALIZABLE",
+    "topics": "ERC-2016-STG",
+    "title": "MATERIALIZABLE: Intelligent fabrication-oriented Computational Design and Modeling",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "While access to 3D-printing technology becomes ubiquitous and provides revolutionary possibilities for fabricating complex, functional, multi-material objects with stunning properties, its potential impact is currently significantly limited due to the lack of efficient and intuitive methods for content creation. Existing tools are usually restricted to expert users, have been developed based on the capabilities of traditional manufacturing processes, and do not sufficiently take fabrication constraints into account. Scientifically, we are facing the fundamental challenge that existing simulation techniques and design approaches for predicting the physical properties of materials and objects at the resolution of modern 3D printers are too slow and do not scale with increasing object complexity. The problem is extremely challenging because real world-materials exhibit extraordinary variety and complexity.\n\nTo address these challenges, I suggest a novel computational approach that facilitates intuitive design, accurate and fast simulation techniques, and a functional representation of 3D content. I propose a multi-scale representation of functional goals and hybrid models that describes the physical behavior at a coarse scale and the relationship to the underlying material composition at the resolution of the 3D printer. My approach is to combine data-driven and physically-based modeling, providing both the required speed and accuracy through smart precomputations and tailored simulation techniques that operate on the data. A key aspect of this modeling and simulation approach is to identify domains that are sufficiently low-dimensional to be correctly sampled. Subsequently, I propose the fundamental re-thinking of the workflow, leading to solutions that allow synthesizing model instances optimized on-the-fly for a specific output device. The principal applicability will be evaluated for functional goals, such as appearance, deformation, and sensing capabilities.",
+    "totalCost": "1497730",
+    "ecMaxContribution": "1497730",
+    "coordinator": "Institute of Science and Technology Austria",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "996479740": {
+            "orgId": "996479740",
+            "orgName": "Institute of Science and Technology Austria",
+            "ecContrib": 1497730
+        }
+    },
+    "calculatedTotalContribution": 1497730
+}

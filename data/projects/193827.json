@@ -1,0 +1,68 @@
+{
+    "rcn": "193827",
+    "acronym": "mapKITE",
+    "topics": "GALILEO-2-2014",
+    "title": "EGNOS-GPS/GALILEO-based high-resolution terrestrial-aerial sensing system.",
+    "startDate": "01/03/2015",
+    "endDate": "30/04/2017",
+    "objective": "The first objective is to build a mature prototype of a novel tandem terrestrial-aerial mapping system based on a terrestrial vehicle (TV) and on an unmanned aircraft (UA), both equipped with remote sensing payloads. The UA will follow the TV at a constant flying height above ground while geodata are acquired simultaneously from the TV and the UA. The final product is high resolution, oriented, calibrated and integrated images of a corridor and its environment.\nThe second objective is to demonstrate services; i.e., the technical/commercial feasibility of the concept.\nThe third objective is to develop the market: at the end of the project, contracts or negotiations shall be in place so the prototype can be used in operational conditions.\nMapKITE targets corridor mapping. It is a terrestrial-aerial surveying system that combines the advantages of the terrestrial and airborne (manned or unmanned) ones.  It responds to corridor mapping market needs only fulfilled by much more expensive separate terrestrial and aerial missions.\nAn enabling component is the navigation payload based on EGNOS and the E5 AltBOC Galileo signal, superior to existing/planned GPS signals and of particular interest for robustness/integrity.\nAn octocopter of UAVision will be modified and equipped with the avoidance collision system of CATUAV.\nDue to the low weight of the UA (less than 5 kg), to its low flying altitude (range between 30 m and maximum allowed height) and to its inbuilt line of sight [TV to UA] keeping feature, mapKITE does not suffer from the regulations affecting UAS civilian use. Its design is dominated by safety and abidance to current and foreseeable rules for small UA. Unrestricted testing will be conducted in a segregated airspace area that has been recently awarded by the Spanish aviation authorities.\nMapKITE is highly innovative: new surveying paradigms, new mathematical models, new ways of fusing sensors and a new ìmapî product. It is protected by the Spanish patent 2012312",
+    "totalCost": "1530268,75",
+    "ecMaxContribution": "872191,26",
+    "coordinator": "GEONUMERICS SL",
+    "coordinatorCountry": "ES",
+    "participants": "DEIMOS ENGENHARIA S.A.;ENGEMAP ENGENHARIA, MAPEAMENTO E AEROLEVANTAMENTO LTDA;ALTAIS CARTOGRAFIA Y URBANISMO SL;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;Universidade Estadual Paulista - UNESP;UAVISION - ENGENHARIA DE SISTEMAS LDA;TopScan Gesellschaft zur Erfassung topographischer Information mbH;GRID-IT GESELLSCHAFT FUR ANGEWANDTEGEOINFORMATIK MBH;CATUAV S.L.",
+    "participantCountries": "PT;BR;ES;CH;DE;AT",
+    "projectParticipants": {
+        "951895242": {
+            "orgId": "951895242",
+            "orgName": "ENGEMAP ENGENHARIA, MAPEAMENTO E AEROLEVANTAMENTO LTDA",
+            "ecContrib": 0
+        },
+        "999623219": {
+            "orgId": "999623219",
+            "orgName": "DEIMOS ENGENHARIA S.A.",
+            "ecContrib": 103678
+        },
+        "952031139": {
+            "orgId": "952031139",
+            "orgName": "ALTAIS CARTOGRAFIA Y URBANISMO SL",
+            "ecContrib": 60134
+        },
+        "991418086": {
+            "orgId": "991418086",
+            "orgName": "TopScan Gesellschaft zur Erfassung topographischer Information mbH",
+            "ecContrib": 92138
+        },
+        "952022894": {
+            "orgId": "952022894",
+            "orgName": "CATUAV S.L.",
+            "ecContrib": 68218
+        },
+        "986488934": {
+            "orgId": "986488934",
+            "orgName": "GRID-IT GESELLSCHAFT FUR ANGEWANDTEGEOINFORMATIK MBH",
+            "ecContrib": 99586
+        },
+        "998394423": {
+            "orgId": "998394423",
+            "orgName": "Universidade Estadual Paulista - UNESP",
+            "ecContrib": 0
+        },
+        "996169922": {
+            "orgId": "996169922",
+            "orgName": "GEONUMERICS SL",
+            "ecContrib": 266000
+        },
+        "942332206": {
+            "orgId": "942332206",
+            "orgName": "UAVISION - ENGENHARIA DE SISTEMAS LDA",
+            "ecContrib": 182438
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 872192
+}

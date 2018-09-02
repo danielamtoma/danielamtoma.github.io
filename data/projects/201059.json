@@ -1,0 +1,23 @@
+{
+    "rcn": "201059",
+    "acronym": "OEMBS",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Out-of-equilibrium entangled many-body systems",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2018",
+    "objective": "The quest for a complete understanding of out-of-equilibrium behaviors in entangled many-body systems is a fundamental challenge in contemporary physics. In contrast with equilibrium, where several effective approaches (based on low-energy approximations) are available, there is no effective framework to describe out-of-equilibrium phenomena yet. One has then to rely only on numerical methods, such as the time-dependent Density Matrix Renormalization Group (tDMRG).\nIn this context, the goal of the project is to clarify fundamental aspects of out-of-equilibrium physics in strongly-entangled systems, both in one and in two dimensions. The proposed research pursues a very interdisciplinary approach, by combining state-of-the-art entanglement-based numerical tools, as well as exactly-solvable models. Specifically, in one dimension the project aims at developing a better numerical and analytical framework to: i) simulate the full out-of-equilibrium dynamics in integrable models, merging Monte Carlo and Bethe ansatz techniques; ii) understand the out-of-equilibrium behavior of many-body continuous systems, employing the framework of tensor network techniques (continuous matrix product states); iii) understand the interplay between disorder and integrability in many-body localized phases of matter. Finally, in two dimensions the aim of the project is to characterize the out-of-equilibrium signatures of topological order in quantum spin liquids, with special attention to the comparison with recent experimental results.",
+    "totalCost": "168277,2",
+    "ecMaxContribution": "168277,2",
+    "coordinator": "SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI DI TRIESTE",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999850878": {
+            "orgId": "999850878",
+            "orgName": "SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI DI TRIESTE",
+            "ecContrib": 168277
+        }
+    },
+    "calculatedTotalContribution": 168277
+}

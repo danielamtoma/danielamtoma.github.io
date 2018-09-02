@@ -1,0 +1,68 @@
+{
+    "rcn": "199397",
+    "acronym": "RAMPup",
+    "topics": "ICT-24-2015",
+    "title": "Robotic Automation Modules for Production",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "RAMPup aims to improve European SME production competitiveness by effectively decreasing the integration effort needed for automating small production lines. A framework and infrastructure for modular industrial automation systems will be developed and applied to eight use-cases from four European end users, carefully selected to require a broad range of processes. Technologies for automating these processes exist, but are too inflexible and expensive for the business case for automation to be viable, certainly in SME contexts. Four demonstrators will be realized and brought to TRL7 proving their performance in real operational environments at end user sites.\nThe methodology involves creating manufacturer-independent process modules which are self-contained: hardware, software and process functionality; wrapped to be ìplug-n-playî with all other modules in the set and with the framework platform. We anticipate that many modules will be based on existing technologies, completed and wrapped to become RAMPup modules. A repository of process modules at this level, accepted as usable by SIs, will greatly reduce the customization needed for new automation installations, thus reducing the cost to end-users. Modularisation also allows physical reconfiguration of the workcell and re-use of component modules across very different product variants.\nBeyond the technical realization of the modular automation framework, RAMPup aims to open a new market allowing developers of automation solutions to deploy, distribute and commercialize their products. RAMPup will demonstrate the business perspectives within the project and thus convince module developers and system integrators to enter the new market.\nThe ambition in RAMPup is thus not only to create eight functioning robot workcells at end-user sites but also to provide a fast-track for SME robot developers to get their technologies to market.",
+    "totalCost": "4746967,5",
+    "ecMaxContribution": "3995511,25",
+    "coordinator": "TEKNOLOGISK INSTITUT",
+    "coordinatorCountry": "DK",
+    "participants": "ROTO FRANK BAUELEMENTE GMBH;MRK - SYSTEME GMBH;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;C-MEC KORTRIJK NV;ELOS MEDTECH PINOL AS;VESTAS MANUFACTURING AS;KJV AS;TECHNICON APS;GIBAS AUTOMATION BV",
+    "participantCountries": "DE;BE;DK;NL",
+    "projectParticipants": {
+        "965064447": {
+            "orgId": "965064447",
+            "orgName": "ELOS MEDTECH PINOL AS",
+            "ecContrib": 240940
+        },
+        "990002080": {
+            "orgId": "990002080",
+            "orgName": "MRK - SYSTEME GMBH",
+            "ecContrib": 344312
+        },
+        "930221853": {
+            "orgId": "930221853",
+            "orgName": "GIBAS AUTOMATION BV",
+            "ecContrib": 344750
+        },
+        "999460356": {
+            "orgId": "999460356",
+            "orgName": "TEKNOLOGISK INSTITUT",
+            "ecContrib": 1250530
+        },
+        "925676336": {
+            "orgId": "925676336",
+            "orgName": "VESTAS MANUFACTURING AS",
+            "ecContrib": 122150
+        },
+        "935410286": {
+            "orgId": "935410286",
+            "orgName": "ROTO FRANK BAUELEMENTE GMBH",
+            "ecContrib": 122500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 996250
+        },
+        "943440140": {
+            "orgId": "943440140",
+            "orgName": "KJV AS",
+            "ecContrib": 102375
+        },
+        "944855758": {
+            "orgId": "944855758",
+            "orgName": "TECHNICON APS",
+            "ecContrib": 349554
+        },
+        "928777523": {
+            "orgId": "928777523",
+            "orgName": "C-MEC KORTRIJK NV",
+            "ecContrib": 122150
+        }
+    },
+    "calculatedTotalContribution": 3995511
+}

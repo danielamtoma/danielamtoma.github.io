@@ -1,0 +1,23 @@
+{
+    "rcn": "212074",
+    "acronym": "CM3",
+    "topics": "ERC-2017-STG",
+    "title": "Controlled Mechanical Manipulation of Molecules",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "The idea to freely control the atomic-scale structure of matter has intrigued scientists for many decades. The low-temperature scanning probe microscope (LT SPM) has become the instrument of choice for this task since it allows the rearrangement of atoms and molecules on a surface. There is, however, no generic SPM-based method for the manipulation of molecules beyond lateral rearrangement. The goal of this project is to develop controlled mechanical manipulation of molecules (CM3) in which a LT SPM is used to handle large organic molecules in three dimensions with optimal control over position, orientation and shape. CM3 will become a game-changing technique for research on molecular properties and molecular-scale engineering, because it combines fully deterministic manipulation with broad access to molecular degrees of freedom for the first time. In CM3 the tip is attached to a single reactive atom within a molecule. Tip displacement guides the molecule into a desired conformation while the surface provides a second (weaker) fixation. The fundamental challenge addressed by this project is the identification of precise molecular conformations at any time during manipulation. The solution is a big data approach where large batches of automatically recorded SPM manipulation data are structured using machine learning and interpreted by comparison to atomistic simulations. The key idea is a comparison of entire conformation spaces at once, which is robust, even if the theory is not fully quantitative. The obtained map of the conformation space is used to determine molecular conformations during manipulation by methods of control theory. The effectiveness of this approach will be demonstrated in experiments that unambiguously reveal the structure-conductance relation for a series of molecules and that realize the engineering paradigm of piecewise assembly on the molecular scale by constructing a direct current rotor / motor from individual components.",
+    "totalCost": "1465944",
+    "ecMaxContribution": "1465944",
+    "coordinator": "FORSCHUNGSZENTRUM JULICH GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 1465944
+        }
+    },
+    "calculatedTotalContribution": 1465944
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "193618",
+    "acronym": "NSECPROBE",
+    "topics": "ERC-StG-2014",
+    "title": "Probing quantum fluctuations of single electronic channels in model interacting systems",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2020",
+    "objective": "The fluctuation-dissipation theorem is a prominent milestone in Physics: It links the dissipative response of a physical system to its fluctuations, and provides a microscopic understanding of macroscopic irreversibility. Recent theoretical advances that have generalized the original fluctuation-dissipation theorem to non-linear quantum systems even far from equilibrium, ask for an experimental test, which is the aim of the project. We will measure the current fluctuations and dissipative response of driven quantum systems whose non-linearity arises from strong interactions. We will exploit the flexibility offered by nano-patterned high purity 2D electron gases in order to realize single electron channels in different regimes: 1/ interacting strongly with a single electromagnetic mode (Dynamical Coulomb Blockade of a quantum point contact), 2/ interacting with a single magnetic impurity (Kondo effect in quantum dots), 3/ driving the 2D gas in the fractional quantum Hall effect where current is carried by strongly correlated 1D channels prototypical of Luttinger liquids. Last, we will address a fundamental issue raised in the early days of quantum mechanics: how long does it take for a particle to cross a classically forbidden barrier? While Wigner-Smithís theorem links the issue to the density fluctuations within the barrier, the fluctuation-dissipation theorem links it further to a quantum relaxation resistance. A full investigation of fluctuation-dissipation relations including quantum effects requires measurements at frequencies hf>k_BT. With the available dilution refrigeration techniques it implies measuring in the few GHz range. Since quantum conductors have an impedance h/e^2~25.8 kohm much larger than the 50ohm impedance of microwave components, new microwave methods able to deal with large impedance values will be developed. They will be based on the extension to finite magnetic field of the wide-band impedance matching methods recently developed by the PI.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

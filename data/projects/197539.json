@@ -1,0 +1,63 @@
+{
+    "rcn": "197539",
+    "acronym": "NEXTGenIO",
+    "topics": "FETHPC-1-2014",
+    "title": "Next Generation I/O for Exascale",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "The overall objective of the Next Generation I/O Project (NEXTGenIO) is to design and prototype a new, scalable, high-performance, energy efficient computing platform designed to address the challenge of delivering scalable I/O performance to applications at the Exascale. It will achieve this using highly innovative, non-volatile, dual in-line memory modules (NV-DIMMs). These hardware and systemware developments will be coupled to a co-design approach driven by the needs of some of todayís most demanding HPC applications. By meeting this overall objective, NEXTGenIO will solve a key part of the Exascale challenge and enable HPC and Big Data applications to overcome the limitations of todayís HPC I/O subsystems.\n\nToday most high-end HPC systems employ data storage separate from the main system and the I/O subsystem often struggles to deal with the degree of parallelism present. As we move into the domain of extreme parallelism at the Exascale we need to address I/O if such systems are to deliver appropriate performance and efficiency for their application user communities.\n\nThe NEXTGenIO project will explore the use of NV-DIMMs and associated systemware developments through a co-design process with three ëend-userí partners: a high-end academic HPC service provider, a numerical weather forecasting service provider and a commercial on-demand HPC service provider. These partners will develop a set of I/O workload simulators to allow quantitative improvements in I/O performance to be directly measured on the new system in a variety of research configurations. Systemware software developed in the project will include performance analysis tools, improved job schedulers that take into account data locality and energy efficiency, optimised programming models, and APIs and drivers for optimal use of the new I/O hierarchy.\n\nThe project will deliver immediately exploitable hardware and software results and show how to deliver high performance I/O at the Exascale.",
+    "totalCost": "8114504",
+    "ecMaxContribution": "8114504",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "FUJITSU TECHNOLOGY SOLUTIONS GMBH;ARCTUR RACUNALNISKI INZENIRING DOO;INTEL GMBH;INTEL DEUTSCHLAND GMBH;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;ALLINEA SOFTWARE LIMITED;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "DE;SI;UK;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 404625
+        },
+        "969276478": {
+            "orgId": "969276478",
+            "orgName": "ALLINEA SOFTWARE LIMITED",
+            "ecContrib": 787488
+        },
+        "997415402": {
+            "orgId": "997415402",
+            "orgName": "FUJITSU TECHNOLOGY SOLUTIONS GMBH",
+            "ecContrib": 2785000
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 1016075
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1157566
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 550000
+        },
+        "991568048": {
+            "orgId": "991568048",
+            "orgName": "ARCTUR RACUNALNISKI INZENIRING DOO",
+            "ecContrib": 195000
+        },
+        "967538432": {
+            "orgId": "967538432",
+            "orgName": "INTEL DEUTSCHLAND GMBH",
+            "ecContrib": 1218750
+        },
+        "996267019": {
+            "orgId": "996267019",
+            "orgName": "INTEL GMBH",
+            "ecContrib": 1218750
+        }
+    },
+    "calculatedTotalContribution": 9333254
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "200794",
+    "acronym": "EQEC",
+    "topics": "ERC-CoG-2015",
+    "title": "Engineering Quantum Error Correction",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "This proposal will advance the theory of quantum error correction towards its application in real physical devices, in particular superconducting transmon qubit systems. The research will result in proposals for experiments: how to use physical qubits to redundantly represent logical quantum information and how error information can be obtained and classically processed. The research will consider novel ways of using transmon qubits to achieve a universal fault-tolerant surface code architecture. The research will produce a design of a universal fault-tolerant architecture in which qubits are encoded in the electromagnetic field of a (microwave) cavity. Research will also focus on mathematical and numerical studies in quantum error correction which are technology-independent, but shed light on coding overhead, decoding efficiency and logical universality.",
+    "totalCost": "1786563",
+    "ecMaxContribution": "1786563",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 346250
+        }
+    },
+    "calculatedTotalContribution": 346250
+}

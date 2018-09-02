@@ -1,0 +1,28 @@
+{
+    "rcn": "201582",
+    "acronym": "DDM-GNI",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Discrete Dirac Mechanics and Geometric Numerical Integration Methods for Plasma Physics",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "In recent years it has been realised that the preservation of certain structures and properties of mathematical equations is of utmost importance when bringing them in a form understandable by computers. Ignoring such properties often leads to incorrect results in the corresponding simulations. In plasma and fusion physics this is especially true as the mathematical equations are highly complex and direct comparison with the experiments is very difficult. Still, the application of structure-preserving numerical algorithms to plasma physics has not gained much attention and todays computer codes do not use such methods. Consequently, these codes are not able to reproduce important physical effects observed in the experiments, hindering progress in research.\nThis project is devoted to the development of a flexible and general framework for the derivation of geometric numerical integrators, referred to as discrete Dirac mechanics, which will be applicable to many problems from plasma physics, but also to equations from other research fields such as optimal control, meteorology, oceanography, geo dynamics, fluid dynamics, elasticity, solar physics, astrophysics and cosmology. This framework will be used to derive novel numerical methods for important systems used in plasma and fusion physics modelling. After successful prototype implementation, verification and validation of the new methods, these will be implemented in an open source library and transferred to leading application codes in order to improve their predictive capabilities and physical correctness.\nBy combining the expertise of all participants, it will be possible to establish an innovative line of research which will lead to numerous applications and strengthen the European leadership in scientific computing. The know-how acquired through the proposed actions will complement my theoretical, technical as well as transferrable skills and put me in a position to establish an independent research group.",
+    "totalCost": "181002,6",
+    "ecMaxContribution": "181002,6",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999585486": {
+            "orgId": "999585486",
+            "orgName": "WASEDA UNIVERSITY",
+            "ecContrib": 0
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 181003
+        }
+    },
+    "calculatedTotalContribution": 181003
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "212706",
+    "acronym": "Real-PIM-System",
+    "topics": "ERC-2017-STG",
+    "title": "Memristive In-Memory Processing System",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Our project aims to develop a new computer architecture that enables true in-memory processing based on a unit that can both store and process data using the same cells. This unit, called a memristive memory processing unit (mMPU), will substantially reduce the necessity to move data in computing systems, solving the two main bottlenecks exist in current computing systems, i.e., speed ('memory wall') and energy efficiency ('power wall'). Emerging memory technologies, namely memristive devices, are the enablers of the mMPU. While memristors are naturally used as memory, these novel devices can also perform logical operations using a technique we have invented called Memristor Aided Logic (MAGIC). This combination is the basis of mMPU.\nThe goal of this research is to design a fully functional mMPU, and by that, to demonstrate a real computing system with significantly improved performance and energy efficiency. We have identified four main research tasks which must be completed to demonstrate a full system utilizing mMPU: mMPU design, system architecture and software, modeling and evaluation, and fabrication.  Both memristive memory array and mMPU control will be designed and optimized for different technologies in the first objective. The second objective will deal with the different aspects of the system, including programming model, different mMPU modes of operation and their corresponding system implications, compiler and operating systems. For system evaluation, we will develop models and tools in the third objective in order to measure the performance, area and energy and to compare them to other state-of-the-art computing systems. Lastly, we will fabricate the different parts of the system to demonstrate the full system.\nEncouraged from our preliminary experimental results, we expect to achieve 10X improvement in performance, and 100X improvement in energy efficiency as compared to state-of-the-art von Neumann systems when working with appropriate workloads.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

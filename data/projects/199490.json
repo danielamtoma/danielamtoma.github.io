@@ -1,0 +1,63 @@
+{
+    "rcn": "199490",
+    "acronym": "Teraboard",
+    "topics": "ICT-27-2015",
+    "title": "High density scalable optically interconnected Tb/s Board",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "Optical communications are becoming always more relevant because of the continuous growth of the requiested bandwidth. In the last decade we assisted a continuous growing of transport and metro netwotks, presently the bottleneck is in the processing of the huge amount of data constituted by the growing number of users, the capacity of the content that is exchanged and the convergence of Telecom and Datacom. This accumulation of data are elaborated and redirected within data centers with a continuous growing of traffic congestion. The continuous growth of traffic require therefore a roadmap of bandwidth density growth that necessarily has to be scalable on the timeframe of several years. To this point photonics plays a crucial role that is always more pervasive. However a major limiting factor is also arising from the energy cost and latency accumulated by the need of aggregation to route signals. To limitate this effect is necessary to make possible data exchange and processing without or with limited aggregation. Teraboard project consists in developing a full intra data center photonic platform for intraboard, intrarack and intra data center optical communications. The Teraboard interconnection platform will be based on ultra-high density and scalable bandwidth optical interconnectivity with low insertion loss and a target of lowest energy cost per channel of 2.5pJ/bit and a manufacturing cost of 0.1$/Gb/s in volumes. These target values are 10x reduction respect to commercial state of the art. Teraboard demonstrates: 1) passive, scalable, 3D inter processor interconnection layer, 2) novel WDM optical connector to plug the fiber ribbons directly onto the transceiver chip, 3) intraboard transceiver bank with high density bandwidth of 7Tb/s/cm2.  Single wavelength laser arrays will be directly integrated on the silicon photonics transceiver circuits, 4) and edge single and four wavelength transceiver interface with bandwidth density of 50 and 7Tb/s/cm2 respectively.",
+    "totalCost": "4249157,5",
+    "ecMaxContribution": "4249157,5",
+    "coordinator": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+    "coordinatorCountry": "IT",
+    "participants": "ALCATEL-LUCENT ITALIA S.P.A.;EUROPEAN PHOTONICS INDUSTRY CONSORTIUM;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;CONSIGLIO NAZIONALE DELLE RICERCHE;ERICSSON TELECOMUNICAZIONI;UNIVERSITAT POLITECNICA DE VALENCIA;STMICROELECTRONICS SRL;IMINDS",
+    "participantCountries": "IT;FR;BE;ES",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 1955358
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 370350
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 480438
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 206250
+        },
+        "999967569": {
+            "orgId": "999967569",
+            "orgName": "ALCATEL-LUCENT ITALIA S.P.A.",
+            "ecContrib": 119950
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 270000
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 1029750
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 241250
+        },
+        "999636508": {
+            "orgId": "999636508",
+            "orgName": "EUROPEAN PHOTONICS INDUSTRY CONSORTIUM",
+            "ecContrib": 56250
+        }
+    },
+    "calculatedTotalContribution": 4729596
+}

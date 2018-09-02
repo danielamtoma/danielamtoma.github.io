@@ -1,0 +1,53 @@
+{
+    "rcn": "200106",
+    "acronym": "STRIKE3",
+    "topics": "GALILEO-3-2015",
+    "title": "Standardisation of GNSS Threat reporting and Receiver testing through International Knowledge Exchange, Experimentation and Exploitation",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "GNSS is being used for an ever increasing number of safety, security, business and policy critical applications and GNSS functionality is being embedded into many parts of critical infrastructures.  International economies are now dependent on GNSS positioning and timing services.  At the same time, GNSS vulnerabilities are being exposed and threats to denial of GNSS service are increasing.  There is now a need to respond at an international level to ensure that there is (i) a common standard for GNSS threat reporting and analysis and (ii) a global standard for assessing the performance of GNSS receivers and applications under threat.  This will ensure the dominance of GNSS as the backbone to our positioning, navigation and timing needs.\n\nThe STRIKE3 project can be likened to the earliest developments in anti-virus software.  Given the global dependence on GNSS, there is a growing need to persistently monitor the threat scene and to disclose the latest information on threats to ensure GNSS remains robust and hardened against attacks.\n\nSTRIKE3 will develop international standards in the area of GNSS threat reporting and GNSS receiver testing.  This will be achieved through international partnerships.  GNSS threat reporting standards are required to ensure that international threat databases can be developed.  GNSS receiver test standards are required to ensure new applications can be validated against the latest threats.  Both standards are missing across all civil application domains and are considered a barrier to the wider adoption and success of GNSS in the higher value markets.\n\nSTRIKE3 will persistently monitor the international GNSS threat scene to capture the scale and dynamics of the problem and shall work with the United Nations International Committee on GNSS to develop, negotiate, promote and implement standards for threat reporting and receiver testing.  In doing so, create new opportunities for EU industry, EU products and the European GNSS programmes.",
+    "totalCost": "1315428,75",
+    "ecMaxContribution": "1170615",
+    "coordinator": "NOTTINGHAM SCIENTIFIC LTD",
+    "coordinatorCountry": "UK",
+    "participants": "TOTALFORSVARETS FORSKNINGSINSTITUT;ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE;MAANMITTAUSLAITOS;CHANNARAYAPATNA SHIVARAMAIAH NAGARAJ;AGIT AACHENER GESELLSCHAFT FUR INNOVATION UND TECHNOLOGIETRANSFER MITBESCHRANKTER HAFTUNG;SATELLITE APPLICATIONS CATAPULT LIMITED",
+    "participantCountries": "SE;KR;FI;IN;DE;UK",
+    "projectParticipants": {
+        "929423834": {
+            "orgId": "929423834",
+            "orgName": "CHANNARAYAPATNA SHIVARAMAIAH NAGARAJ",
+            "ecContrib": 59675
+        },
+        "972004409": {
+            "orgId": "972004409",
+            "orgName": "AGIT AACHENER GESELLSCHAFT FUR INNOVATION UND TECHNOLOGIETRANSFER MITBESCHRANKTER HAFTUNG",
+            "ecContrib": 175000
+        },
+        "990825707": {
+            "orgId": "990825707",
+            "orgName": "NOTTINGHAM SCIENTIFIC LTD",
+            "ecContrib": 275000
+        },
+        "964526388": {
+            "orgId": "964526388",
+            "orgName": "MAANMITTAUSLAITOS",
+            "ecContrib": 203435
+        },
+        "999653871": {
+            "orgId": "999653871",
+            "orgName": "ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE",
+            "ecContrib": 59762
+        },
+        "999627875": {
+            "orgId": "999627875",
+            "orgName": "TOTALFORSVARETS FORSKNINGSINSTITUT",
+            "ecContrib": 199383
+        },
+        "948376179": {
+            "orgId": "948376179",
+            "orgName": "SATELLITE APPLICATIONS CATAPULT LIMITED",
+            "ecContrib": 198360
+        }
+    },
+    "calculatedTotalContribution": 1170615
+}

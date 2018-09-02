@@ -1,0 +1,23 @@
+{
+    "rcn": "212129",
+    "acronym": "AV-SMP",
+    "topics": "ERC-2017-STG",
+    "title": "Algorithmic Verification of String Manipulating Programs",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2022",
+    "objective": "String is among the most fundamental and commonly used data types in virtually all modern programming languages, especially with the rapidly growing popularity of scripting languages (e.g. JavaScript and Python). Programs written in such languages tend to perform heavy string manipulations, which are complex to reason about and could easily lead to programming mistakes. In some cases, such mistakes could have serious consequences, e.g., in the case of client-side web applications, cross-site scripting (XSS) attacks that could lead to a security breach by a malicious user.\n\nThe central objective of the proposed project is to develop novel verification algorithms for analysing the correctness (esp. with respect to safety and termination properties) of programs with string variables, and transform them into robust verification tools. To meet this key objective, we will make fundamental breakthroughs on both theoretical and tool implementation challenges. On the theoretical side, we address two important problems: (1) design expressive constraint languages over strings (in combination with other data types like integers) that permit decidability with good complexity, and (2) design generic semi-algorithms for verifying string programs that have strong theoretical performance guarantee. On the implementation side, we will address the challenging problem of designing novel implementation methods that can substantially speed up the basic string analysis procedures in practice. Finally, as a proof of concept, we will apply our technologies to two key application domains: (1) automatic detection of XSS vulnerabilities in web applications, and (2) automatic grading systems for a programming course.\n\nThe project will not only make fundamental theoretical contributions ó potentially solving long-standing open problems in the area ó but also yield powerful methods that can be used in various applications.",
+    "totalCost": "1496687",
+    "ecMaxContribution": "1496687",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 1496687
+        }
+    },
+    "calculatedTotalContribution": 1496687
+}

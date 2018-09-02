@@ -1,0 +1,28 @@
+{
+    "rcn": "193625",
+    "acronym": "INsPIRE",
+    "topics": "ERC-StG-2014",
+    "title": "Chip-scale INtegrated Photonics for the mid-Infra REd",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2020",
+    "objective": "Mid-infrared (mid-IR) spectroscopy is a nearly universal way to identify chemical and biological substances, as most of the molecules have their vibrational and rotational resonances in the mid-IR wavelength range. Commercially available mid-IR systems are based on bulky and expensive equipment, while lots of efforts are now devoted to the reduction of their size down to chip-scale dimensions. The demonstration of mid-IR photonic circuits on silicon chips will benefit from reliable and high-volume fabrication to offer high performance, low cost, compact, low weight and power consumption photonic circuits, which is particularly interesting for mid-IR spectroscopic sensing systems that need to be portable and low cost. \n   In this context, the INsPIRE project will address a new route towards key advances in the development of chip-scale integrated circuits on silicon for the mid-IR wavelength range. The original idea is to use nonlinear optical properties in Ge/SiGe quantum well (QW) active devices combined with Ge-rich-SiGe waveguides. The objectives of the INsPIRE project are far beyond the state of the art, by targeting the monolithic integration of passive and active devices for operation in the 3 to 15 µm wavelength range. \n   As a main cornerstone we will demonstrate an optical photonic circuit based on Ge/SiGe QWs relying on a mid-IR light emitter combined with a mid-IR spectrometer and a detector array. The integration will be performed using Ge-rich-SiGe waveguides allowing the extension of the wavelength range up to 15 µm.\n   Such demonstration, which will constitute a breakthrough for establishing chip-scale circuits for the mid-IR photonics, requires a deep knowledge and understanding of Ge/SiGe optical properties. In particular, second- and third-order nonlinear optical properties of Ge/SiGe QW structures will be investigated in a wide spectral range from 3 to 15 µm.",
+    "totalCost": "1498125",
+    "ecMaxContribution": "1498125",
+    "coordinator": "UNIVERSITE PARIS-SUD",
+    "coordinatorCountry": "FR",
+    "participants": "POLITECNICO DI MILANO",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "999907235": {
+            "orgId": "999907235",
+            "orgName": "UNIVERSITE PARIS-SUD",
+            "ecContrib": 1296875
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 201250
+        }
+    },
+    "calculatedTotalContribution": 1498125
+}

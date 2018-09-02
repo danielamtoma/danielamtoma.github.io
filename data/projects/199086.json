@@ -1,0 +1,53 @@
+{
+    "rcn": "199086",
+    "acronym": "RADIOFOREGROUNDS",
+    "topics": "COMPET-05-2015",
+    "title": "Ultimate modelling of Radio foregrounds: a key ingredient for cosmology",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Understanding the Physics of Inflation is one of the key questions in present-day fundamental cosmology.  For this purpose, the study of the polarization of the Cosmic Microwave Background (CMB) anisotropies provide a unique probe to the early Universe. However, it is well-known that foreground signals, and in particular emission from our Galaxy, will be the major limiting factor of the possible constraints on the existence of B-modes.\n\nThis proposal will make use of ESAís PLANCK satellite mission (30-857 GHz), in combination with the ground-based observations provided by the QUIJOTE experiment (10-20 GHz) and other ancillary radio maps, to address the still open problem of  the detailed physical modelling of the radio foregrounds in polarization. This project will provide: a) state-of-the-art legacy maps of the synchrotron and  the anomalous microwave emission (AME) in the Northern sky; b) a detailed characterization of the synchrotron spectral index, and the implications for cosmic-rays electron physics; c) a model of the large-scale properties of the Galactic magnetic field; d) a detailed characterization of the AME, including its contribution in polarization; and e) the best complete and statistically significant multi-frequency catalogue (from 10 to 217 GHz) of radio sources in both temperature and polarization. \n \nThe combination of PLANCK and QUIJOTE will provide reference data products which will be an asset  for other sub-orbital experiments, as well as in the preparation of future space missions. Finally, we will also provide specific software tools for a more efficient exploitation of our data products, with functionalities far beyond of the existing ones. These tools will not only allow an advanced visualization, but also they will allow the possibility of carrying out specific predictions/simulations for the design of future B-mode experiments, which we expect it will be widely used by the Cosmology and Astrophysics community.",
+    "totalCost": "2175062,28",
+    "ecMaxContribution": "1534437,5",
+    "coordinator": "INSTITUTO DE ASTROFISICA DE CANARIAS",
+    "coordinatorCountry": "ES",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;THE UNIVERSITY OF MANCHESTER;TREELOGIC TELEMATICA Y LOGICA RACIONAL PARA LA EMPRESA EUROPEA SL;SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI DI TRIESTE;UNIVERSIDAD DE CANTABRIA;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "UK;ES;IT;FR",
+    "projectParticipants": {
+        "999880075": {
+            "orgId": "999880075",
+            "orgName": "UNIVERSIDAD DE CANTABRIA",
+            "ecContrib": 250000
+        },
+        "999850878": {
+            "orgId": "999850878",
+            "orgName": "SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI DI TRIESTE",
+            "ecContrib": 187500
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 187500
+        },
+        "996538910": {
+            "orgId": "996538910",
+            "orgName": "TREELOGIC TELEMATICA Y LOGICA RACIONAL PARA LA EMPRESA EUROPEA SL",
+            "ecContrib": 209438
+        },
+        "999806355": {
+            "orgId": "999806355",
+            "orgName": "INSTITUTO DE ASTROFISICA DE CANARIAS",
+            "ecContrib": 325000
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 187500
+        }
+    },
+    "calculatedTotalContribution": 1346938
+}

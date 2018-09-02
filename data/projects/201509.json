@@ -1,0 +1,23 @@
+{
+    "rcn": "201509",
+    "acronym": "ARGUE_WEB",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Probabilistic Argumentation on the Web",
+    "startDate": "01/03/2016",
+    "endDate": "31/12/2017",
+    "objective": "The (World Wide) Web hosts a wide range of argumentative text from resources of multiple disciplines and online debates. Also, tools (such as Debadepedia and Twitter) encourage the communication of arguments in social and scientific settings. With the exponential growth of the Web and its users, a vast amount of argumentative text on the Web remains hidden. In order to query the Web for structured arguments included in web pages, it is necessary to address both of the following issues: (1) the deployment of technologies that enable an automatic extraction of the components of natural language arguments and the representation of their meaning and (2) the deployment of a pragmatic argumentation formalism that takes into account the uncertain and inconsistent nature of data on the Web to reason with structured arguments. \n\nState-of-the-art research in natural language processing (NLP) recently engaged in the deployment of technologies for learning the semantic similarity between statements and for the extraction of probabilistic beliefs and logic expressions from natural language text. This is a promising direction forward, toward the automatic extraction of the components of argumentative text online. Additionally, research on probabilistic formalisms supporting argumentation reasoning is at the heart of state-of-the-art research in knowledge representation and reasoning (KRR). \n\nThe goal of the ìARGUE_WEBî project is to develop a scalable probabilistic argumentation system for the retrieval, for the  principled management of points of view derived from argumentative text on web pages, and  for query answering from such points of view. One of the central aspects of this scalable approach is the representation of structured arguments using an ontology language and the development of a formalism which is tolerant to uncertainty and inconsistency.",
+    "totalCost": "168166,9",
+    "ecMaxContribution": "168166,9",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 168167
+        }
+    },
+    "calculatedTotalContribution": 168167
+}

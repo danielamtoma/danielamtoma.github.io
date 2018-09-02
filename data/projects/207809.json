@@ -1,0 +1,23 @@
+{
+    "rcn": "207809",
+    "acronym": "SOLOMON",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Self-Organisation and Learning Online in Mobile Observation Networks",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2019",
+    "objective": "Smart cameras are embedded devices combining a visual sensor, a processing unit and a communication interface, allowing the processing of images on the device, such that only aggregated information, instead of raw video data, is transmitted. Smart camera networks are typically used for large-scale high value security applications such as person tracking in airports or amusement parks. However, current smart cameras are expensive and have only very limited mobility, acting as a barrier to their wider adoption. The SOLOMON project is driven by the rising demand for rapid-deployment camera networks which can adapt to provide security in the context of unforeseen situations and unfolding scenarios. This is evidenced by the rapid growth of leading body-cam company Edesix Ltd, whose VideoBadge technology is being adopted by police forces worldwide. However, recent research advances in smart camera networks have not yet been realised in dynamic body-worn camera networks, and still rely on prohibitively expensive static hardware. In the SOLOMON project we envision a novel type of lightweight, inexpensive smart camera network suitable for rapid deployment and reconfiguration, where low-cost camera devices such as Edesixís VideoBadge, are paired with the processing capabilities of smartphones. These are then worn by people (e.g. police, security guards) or mounted on mobile robots. This not only lowers cost, but allows us to introduce a feedback loop between the sensing cameras and the acting people/robots, enabling the camera network to adapt to changes during runtime, for example to prioritise or cover newly relevant areas sufficiently. Novel techniques in collective decision making and self-organisation as well as multi-objective online learning will need to be developed, in order to achieve this vision.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "ASTON UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999896953": {
+            "orgId": "999896953",
+            "orgName": "ASTON UNIVERSITY",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

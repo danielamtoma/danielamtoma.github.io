@@ -1,0 +1,17 @@
+{
+    "rcn": "215114",
+    "acronym": "EPSKS",
+    "topics": "MSCA-IF-2017",
+    "title": "Efficient pore-scale kinetic simulation of gas flows in ultra-tight porous media",
+    "startDate": "15/07/2018",
+    "endDate": "14/07/2020",
+    "objective": "The conventional Darcy-type of models based on continuum fluid theory fail to capture the non-equilibrium flow physics of gas transport in ultra-tight porous media such as shale rocks. Instead of using these conventional models, this project aims to develop a new gas kinetic solver which is computationally efficient to allow direct pore-scale simulations of gas flows using 3D scanned digital images of rock samples, which can uncover often non-intuitive flow phenomena in ultra-tight porous media. This work has far reaching impact from quantifying extraction of natural gas from unconventional gas reservoirs to optimising design of porous material based thermal protection systems of entry vehicles.\nThe gas kinetic solver will be based on the Boltzmann-BGK equation which can accurately describe low-speed gas flows in the entire range of Knudsen number, thus provides a unified approach for simulating gas flows in ultra-tight porous media where the pore sizes are widely distributed from a few nanometres to several hundred microns. Specifically, the Fellow will (a) develop an efficient numerical scheme and a massively multi-level parallel kinetic solver; (b) perform pore-scale simulations, experimental validations and systematic examination of the current phenomenological Darcy-type of models based on the realistic porous media samples.\nThe new simulation capability will help us to shape the emerging research area of gas transport in ultra-tight porous media. The Fellow is currently at forefront of international advances in modelling and simulation of the gas flows at micro/nano scales. With support from three hosting institutions i.e. University of Strathclyde, Aix-Marseille University and Heriot-Watt University, a timely award of the Marie Sk?odowska-Curie Fellowship will provide the applicant the necessary resources and access to expertise to make rapid progress in this emerging research area and become an independent researcher, ready to compete globally.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "UNIVERSITY OF STRATHCLYDE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

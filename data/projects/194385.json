@@ -1,0 +1,53 @@
+{
+    "rcn": "194385",
+    "acronym": "WASTCArD",
+    "topics": "MSCA-RISE-2014",
+    "title": "Wrist and arm sensing technologies for cardiac arrhythmias detection",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "Abnormal heart rhythms are a major cause of cardiovascular disease and death in Europe.  Sudden cardiac death accounts for 50% of cardiac mortality in developed countries; ventricular tachycardia or ventricular fibrillation is the commonest underlying arrhythmia. In the ambulatory population, atrial fibrillation is the commonest one, and is associated with increased risk of stroke and heart failure, particularly in the aged population. If arrhythmias are detected at an early stage of heart disease, appropriate treatment can be effective, reducing disability and death. However, in the early stages of disease these may be transient, lasting only a few seconds, and thus difficult to detect. Current approaches to cardiac rhythm monitoring include: a) non-invasive external recording devices; which are suitable for short term (<24h) recording, and b) implantable loop recorders, which are inserted subcutaneously beneath the chest wall; capable of monitoring heart rhythm for extended periods, but there is considerable expense associated with the device, hospitalisation costs and risk of infection.\n\n  The proposed joint research project through staff exchange activities, will investigate enabling technologies for non-invasive recording heart rhythm during long periods of time (>36h), using a wrist or arm wearable device with novel ECG sensing techniques and embedded real-time cardiac arrhythmia detection processes. The problem of extracting the far-field heart electrogram signal from noise components will be addressed using smart denoising algorithms.\n\n  The project will impact by establishing a successful international and intersectoral partnership for the development of new technologies addressing a significant cardiovascular healthcare problem. These technologies will be suitable for integration into current e-Health and cardiac information systems, and will impact on healthcare costs reduction by improved efficiency in the diagnosis and early treatment of cardiac disease.",
+    "totalCost": "324000",
+    "ecMaxContribution": "324000",
+    "coordinator": "UNIVERSITY OF ULSTER",
+    "coordinatorCountry": "UK",
+    "participants": "WATERFORD INSTITUTE OF TECHNOLOGY;INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON;SVEUCILISTE U ZAGREBU FAKULTET ELEKTROTEHNIKE I RACUNARSTVA;Southern Health and Social Care Trust;INTELESENS LTD;S.D. INFORMATIKA DOO INFORMATICKI INZENJERING, POSLOVNE USLUGE I TRGOVINA",
+    "participantCountries": "IE;FR;HR;UK",
+    "projectParticipants": {
+        "959854383": {
+            "orgId": "959854383",
+            "orgName": "Southern Health and Social Care Trust",
+            "ecContrib": 45000
+        },
+        "999886089": {
+            "orgId": "999886089",
+            "orgName": "INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON",
+            "ecContrib": 18000
+        },
+        "999690634": {
+            "orgId": "999690634",
+            "orgName": "INTELESENS LTD",
+            "ecContrib": 0
+        },
+        "999885313": {
+            "orgId": "999885313",
+            "orgName": "UNIVERSITY OF ULSTER",
+            "ecContrib": 135000
+        },
+        "999876486": {
+            "orgId": "999876486",
+            "orgName": "SVEUCILISTE U ZAGREBU FAKULTET ELEKTROTEHNIKE I RACUNARSTVA",
+            "ecContrib": 81000
+        },
+        "956262473": {
+            "orgId": "956262473",
+            "orgName": "S.D. INFORMATIKA DOO INFORMATICKI INZENJERING, POSLOVNE USLUGE I TRGOVINA",
+            "ecContrib": 13500
+        },
+        "999618660": {
+            "orgId": "999618660",
+            "orgName": "WATERFORD INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 31500
+        }
+    },
+    "calculatedTotalContribution": 324000
+}

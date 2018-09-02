@@ -1,0 +1,83 @@
+{
+    "rcn": "196844",
+    "acronym": "EXTMOS",
+    "topics": "NMP-20-2014",
+    "title": "EXTended Model of  Organic Semiconductors",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2019",
+    "objective": "EXTMOSí main objective is to create a materials model and the related user friendly code that will focus on charge transport in doped organic semiconductors. Its aims are \n(i) to reduce the time to market of\n(a) multilayer organic light emitting devices, OLEDs, with predictable efficiencies and long lifetimes \n(b) organic thin film transistors and circuits with fast operation.\n(ii) to reduce production costs of organic devices by enabling a fully solution processed technology.\nDevelopment costs and times will be lowered by identifying dopants that provide good device performance, reducing the number of dopant molecules that need to be synthesized and the materials required for trial devices.\n(iii) to reduce design costs at circuit level through an integrated model linking molecular design to circuit operation.  \nScreening imposes the following requirements from the model\n1. An improved understanding of dopant/host interactions at the molecular level. Doping efficiencies need to be increased to give better conducting materials. For OLEDs, dopants should not absorb visible light that lowers output nor ultraviolet light that can cause degradation.\n2. An ability to interpret experimental measurements used to identify the best dopants.\n3. The possibility of designing dopants that are cheap and (photo)chemically robust and whose synthesis results in fewer unwanted impurities, and that are less prone to clustering. \nThe EXTMOS model is at the discrete mesoscopic level with embedded microscopic electronic structure and molecular packing calculations. Modules at the continuum and circuit levels are an integral part of the model. It will be validated by measurements on single and multiple layer devices and circuits and exploited by 2 industrial end users and 2 software vendors. \nUS input is provided by an advisory council of 3 groups whose expertise complements that of the partners.",
+    "totalCost": "4998000",
+    "ecMaxContribution": "4998000",
+    "coordinator": "UNIVERSITY OF BATH",
+    "coordinatorCountry": "UK",
+    "participants": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;CAMBRIDGE DISPLAY TECHNOLOGY LTD;UNIVERSITE DE MONS;FLEXENABLE LIMITED;KARLSRUHER INSTITUT FUER TECHNOLOGIE;SILVACO EUROPE LTD;NANOMATCH GMBH;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;NOVALED GMBH;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR;BE;DE;UK;IT",
+    "projectParticipants": {
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 381250
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 484375
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 381250
+        },
+        "991778053": {
+            "orgId": "991778053",
+            "orgName": "FLEXENABLE LIMITED",
+            "ecContrib": 436875
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 371250
+        },
+        "990884004": {
+            "orgId": "990884004",
+            "orgName": "UNIVERSITE DE MONS",
+            "ecContrib": 371250
+        },
+        "999842924": {
+            "orgId": "999842924",
+            "orgName": "UNIVERSITY OF BATH",
+            "ecContrib": 723000
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 371250
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 371250
+        },
+        "935808568": {
+            "orgId": "935808568",
+            "orgName": "NANOMATCH GMBH",
+            "ecContrib": 172500
+        },
+        "996626210": {
+            "orgId": "996626210",
+            "orgName": "CAMBRIDGE DISPLAY TECHNOLOGY LTD",
+            "ecContrib": 0
+        },
+        "941395671": {
+            "orgId": "941395671",
+            "orgName": "NOVALED GMBH",
+            "ecContrib": 562500
+        },
+        "996839416": {
+            "orgId": "996839416",
+            "orgName": "SILVACO EUROPE LTD",
+            "ecContrib": 371250
+        }
+    },
+    "calculatedTotalContribution": 4998000
+}

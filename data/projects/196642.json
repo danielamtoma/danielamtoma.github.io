@@ -1,0 +1,118 @@
+{
+    "rcn": "196642",
+    "acronym": "AARC",
+    "topics": "EINFRA-7-2014",
+    "title": "Authentication and Authorisation for Research and Collaboration (AARC)",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2017",
+    "objective": "The goal of AARC is to address technical and functional gaps that prevent the interoperability of existing R&E AAIs. \nAARC objectives are:\n1. Deliver the design of an integrated cross-discipline AAI framework, built on federated access production services (eduGAIN) \n2. Increase the uptake of federated access within different research communities\n3. Pilot critical components of the proposed integrated AAI where existing production services do not address user needs\n4. Validate the results of both the JRA and SA by engaging with the research communities\n\nAARC goals will be achieved by:\nï Researching main technical (attribute providers, guest IdPs, support for non-web SSO) and policy aspects (level of assurance, security incidents, etc)\nï Supporting (commercial) services relevant to the R&E community\nï Delivering training to targeted user communities (e.g. libraries, biomedical, arts and humanities) on both technical and legal aspects\n\nRelevance to the work programme: \n1. Facilitate the deployment and promotion of a pan-European identity federation ñ Met by:\nï Designing an AAI framework that builds on federated access and on the evolution of eduGAINís interfederation approach  \nï Extensive dissemination of AARC results \n2. Lower barriers to entry for organisations ñ Met by:\nï Delivering tools to enable federated access for institutions, services and guest users (also meets obj. Allow for public access at large) \nï Delivering technical training tailored to institutions and services following the train-the-trainer model (also meets obj. Offer training and outreach for data professionals)\n3. Overcome technical, organisational and legal obstacles ñ Met by:\nï Policies and best practices for operational and security aspects for the integrated AAI\nï Training on legal aspects, built on experience with eduGAIN\n4. Enable the interoperability of different AAIs ñ Met by:\nï Models to offer collective services and to aggregate their accounting information\nï Pilots on security token",
+    "totalCost": "2950060",
+    "ecMaxContribution": "2941060",
+    "coordinator": "GEANT VERENIGING",
+    "coordinatorCountry": "NL",
+    "participants": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB;FORSCHUNGSZENTRUM JULICH GMBH;DAASI INTERNATIONAL GMBH;STICHTING EGI;ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE;MORAVSKA ZEMSKA KNIHOVNA V BRNE;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;SURFSARA BV;CONSORTIUM GARR;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;UNITED KINGDOM RESEARCH AND INNOVATION;KARLSRUHER INSTITUT FUER TECHNOLOGIE;EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH;STICHTING LIBER;SURFnet bv;GROUPEMENT D INTERET PUBLIC POUR LERESEAU NATIONAL DE TELECOMMUNICATIONS POUR LA TECHNOLOGIE L ENSEIGNEMENT ET LA RECHERCHE;STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN;JISC COLLECTIONS AND JANET LIMITEDLBG;VEREIN ZUR FOERDERUNG EINES DEUTSCHEN FORSCHUNGSNETZES DFN VEREIN E.V.;CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY",
+    "participantCountries": "CZ;DE;NL;EL;PL;IT;UK;CH;FR;FI",
+    "projectParticipants": {
+        "999579084": {
+            "orgId": "999579084",
+            "orgName": "CONSORTIUM GARR",
+            "ecContrib": 153061
+        },
+        "999639612": {
+            "orgId": "999639612",
+            "orgName": "MORAVSKA ZEMSKA KNIHOVNA V BRNE",
+            "ecContrib": 23538
+        },
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 112405
+        },
+        "937025336": {
+            "orgId": "937025336",
+            "orgName": "DAASI INTERNATIONAL GMBH",
+            "ecContrib": 202546
+        },
+        "999660758": {
+            "orgId": "999660758",
+            "orgName": "GROUPEMENT D INTERET PUBLIC POUR LERESEAU NATIONAL DE TELECOMMUNICATIONS POUR LA TECHNOLOGIE L ENSEIGNEMENT ET LA RECHERCHE",
+            "ecContrib": 6688
+        },
+        "999644753": {
+            "orgId": "999644753",
+            "orgName": "VEREIN ZUR FOERDERUNG EINES DEUTSCHEN FORSCHUNGSNETZES DFN VEREIN E.V.",
+            "ecContrib": 0
+        },
+        "985428142": {
+            "orgId": "985428142",
+            "orgName": "STICHTING LIBER",
+            "ecContrib": 68844
+        },
+        "952865630": {
+            "orgId": "952865630",
+            "orgName": "SURFSARA BV",
+            "ecContrib": 23795
+        },
+        "998543318": {
+            "orgId": "998543318",
+            "orgName": "JISC COLLECTIONS AND JANET LIMITEDLBG",
+            "ecContrib": 10146
+        },
+        "999589463": {
+            "orgId": "999589463",
+            "orgName": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB",
+            "ecContrib": 57684
+        },
+        "989221715": {
+            "orgId": "989221715",
+            "orgName": "STICHTING EGI",
+            "ecContrib": 252838
+        },
+        "998617426": {
+            "orgId": "998617426",
+            "orgName": "SURFnet bv",
+            "ecContrib": 261886
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 0
+        },
+        "999645820": {
+            "orgId": "999645820",
+            "orgName": "CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY",
+            "ecContrib": 173054
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 158308
+        },
+        "999624092": {
+            "orgId": "999624092",
+            "orgName": "STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN",
+            "ecContrib": 256610
+        },
+        "999937887": {
+            "orgId": "999937887",
+            "orgName": "ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE",
+            "ecContrib": 175850
+        },
+        "999579278": {
+            "orgId": "999579278",
+            "orgName": "GEANT VERENIGING",
+            "ecContrib": 588345
+        },
+        "999988133": {
+            "orgId": "999988133",
+            "orgName": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+            "ecContrib": 270845
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 26754
+        }
+    },
+    "calculatedTotalContribution": 2823197
+}

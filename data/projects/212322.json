@@ -1,0 +1,23 @@
+{
+    "rcn": "212322",
+    "acronym": "sCENT",
+    "topics": "ERC-2017-STG",
+    "title": "Cryptophane-Enhanced Trace Gas Spectroscopy for On-Chip Methane Detection",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Sensitivity of on-chip gas sensors is still at least 2-3 orders of magnitude lower than what is needed for applications in atmospheric monitoring and climate research. For optical sensors, this comes as a natural consequence of miniaturization: sensitivity scales with interaction length, which is directly related to instrument size. The aim of this project is to explore a new concept of combined chemical and spectroscopic detection for on-chip sensing of methane, the principal component of natural gas and a potent climate forcer.\n\nThe sought-after sensitivity will be achieved by pre-concentrating gas molecules directly on a chip surface using cryptophanes, and subsequently detecting them using slow-light waveguides and mid-infrared laser absorption spectroscopy. Cryptophanes are macromolecular structures that can bind and thus pre-concentrate different small molecules, including methane. Spectroscopic detection of methane in a cryptophane host is an absolute novelty, and, if successful, it will not only contribute to unprecedented sensitivity enhancement, but will also address fundamental questions about the dynamics of small molecules upon encapsulation. The actual gas sensing will be realized using evanescent field interaction in photonic crystal waveguides, which exhibit both large evanescent field confinement and long effective interaction pathlengths due to the slow-light effect. The waveguide design alone is expected to improve the per-length sensitivity up to 10 times, while another 10 to 100-fold sensitivity enhancement is expected from the pre-concentration. \n\nThe targeted detection limit of 10 ppb will revolutionize current methods of atmospheric monitoring, enabling large-scale networks of integrated sensors for better quantification of global methane emissions. Beyond that, this method can be extended to the detection of other gases, e.g. CO2 and different volatile organic compounds with equally relevant applications in the medical domain.",
+    "totalCost": "1499749",
+    "ecMaxContribution": "1499749",
+    "coordinator": "UNIVERSITETET I TROMSOE",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999874643": {
+            "orgId": "999874643",
+            "orgName": "UNIVERSITETET I TROMSOE",
+            "ecContrib": 1499749
+        }
+    },
+    "calculatedTotalContribution": 1499749
+}

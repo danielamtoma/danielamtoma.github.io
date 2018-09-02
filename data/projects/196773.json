@@ -1,0 +1,23 @@
+{
+    "rcn": "196773",
+    "acronym": "IDIU",
+    "topics": "ERC-StG-2014",
+    "title": "Integrated and Detailed Image Understanding",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2020",
+    "objective": "The aim of this project is to create the technology needed to understand the content of images in a detailed, human-like manner, significantly superseding the current limitations of automatic image understanding, and enabling new far reaching human-centric applications. The first goal is to substantially broaden the spectrum of visual information that machines can extract from images. For example, where current technology may discover that there is a 'person' in an image, we would like to produce a description such as 'person wearing a red uniform, tall, brown haired, with a bayonet, and a long black hat.' The second goal is to do so efficiently, by developing integrated image representations that can share knowledge and computation in multiple computer vision tasks, from detecting edges to recognising and describing thousands of different object types.\n\nIn order to do so, we will investigate, for the fist time in a systematic manner, the breadth of information that humans can extract from images, from abstract patterns to object parts and attributes, and we will incorporate it in the next generation of machine vision systems. Compared to existing technology, the new algorithms will have a significantly richer and more detailed understanding of the content of images. They will be learned from data building on recent breakthroughs in large scale discriminative and deep machine learning, and will be delivered as general-purpose open-source software for the benefit of the research community and businesses. In order to make these systems future-proof, we will develop methods to extend them automatically, by learning from images downloaded from the Internet with very little human supervision. These new advanced capabilities will be demonstrated in breakthrough applications in large scale image search and visual information retrieval.",
+    "totalCost": "1497271",
+    "ecMaxContribution": "1497271",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 1497271
+        }
+    },
+    "calculatedTotalContribution": 1497271
+}

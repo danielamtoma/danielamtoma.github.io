@@ -1,0 +1,58 @@
+{
+    "rcn": "204281",
+    "acronym": "Cell3Ditor",
+    "topics": "FCH-02.6-2015",
+    "title": "Cost-effective and flexible 3D printed SOFC stacks for commercial applications",
+    "startDate": "01/07/2016",
+    "endDate": "31/12/2019",
+    "objective": "A Solid Oxide Fuel Cell (SOFC) is a ceramic-based multilayer device that involves expensive and time-consuming multi-step manufacturing processes including tape casting, screen printing, firing, shaping and several high-temperature thermal treatments.  In addition, these cells are manually assembled into stacks resulting in extra steps for joining and sealing that difficult the standardization and quality control of the final product while introducing weak parts likely to fail. Since current ceramics processing presents strong limitations in shape and extremely complex design for manufacturing (more than 100 steps), industrially fabricated SOFC cells and stacks are expensive and present low flexibility and long time to market. This is particularly relevant for the commercial segment of the stationary fuel cells market (5-400kW) that is highly heterogeneous in terms of the overall power and heat requirements and requires customization of the final product.\n\nThe main goal of the Cell3Ditor project is to develop a 3D printing technology for the industrial production of SOFC stacks by covering research and innovation in all the stages of the industrial value chain (inks formulation, 3D printer development, ceramics consolidation and system integration). All-ceramic joint-free SOFC stacks with embedded fluidics and current collection will be fabricated in a two-step process (single-step printing and sintering) to reduce in energy, materials and assembly costs while simplifying the design for manufacturing and time to market.  \n\nCompared to traditional ceramic processing, the Cell3Ditor manufacturing process presents a significantly shorter time to market (from years to months) and a cost reduction estimated in 63% with an initial investment below one third of an equivalent conventional manufacturing plant (production of 1000 units per year). The project is product-driven and involves SMEs (with proved technologies) in the entire value chain to ensure reaching TRL>6.",
+    "totalCost": "2191133,75",
+    "ecMaxContribution": "2180662,5",
+    "coordinator": "FUNDACIO INSTITUT DE RECERCA DE L'ENERGIA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "PROMETHEAN PARTICLES LTD;HyGear Fuel Cell Systems B.V.;3DCERAM;SAAN ENERGI AB;FRANCISCO ALBERO SA;DANMARKS TEKNISKE UNIVERSITET;UNIVERSIDAD DE LA LAGUNA",
+    "participantCountries": "UK;NL;FR;SE;ES;DK",
+    "projectParticipants": {
+        "941118445": {
+            "orgId": "941118445",
+            "orgName": "3DCERAM",
+            "ecContrib": 474750
+        },
+        "997484854": {
+            "orgId": "997484854",
+            "orgName": "HyGear Fuel Cell Systems B.V.",
+            "ecContrib": 39405
+        },
+        "993110057": {
+            "orgId": "993110057",
+            "orgName": "PROMETHEAN PARTICLES LTD",
+            "ecContrib": 248250
+        },
+        "954032637": {
+            "orgId": "954032637",
+            "orgName": "SAAN ENERGI AB",
+            "ecContrib": 154656
+        },
+        "998226128": {
+            "orgId": "998226128",
+            "orgName": "FRANCISCO ALBERO SA",
+            "ecContrib": 250750
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 372651
+        },
+        "999825270": {
+            "orgId": "999825270",
+            "orgName": "UNIVERSIDAD DE LA LAGUNA",
+            "ecContrib": 137200
+        },
+        "996435993": {
+            "orgId": "996435993",
+            "orgName": "FUNDACIO INSTITUT DE RECERCA DE L'ENERGIA DE CATALUNYA",
+            "ecContrib": 503000
+        }
+    },
+    "calculatedTotalContribution": 2180662
+}

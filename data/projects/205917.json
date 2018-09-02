@@ -1,0 +1,93 @@
+{
+    "rcn": "205917",
+    "acronym": "CL-Windcon",
+    "topics": "LCE-07-2016-2017",
+    "title": "Closed Loop Wind Farm Control",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "Current practice in wind turbines operation is that every turbine has its own controller that optimizes its own performance in terms of energy capture and loading. This way of operating wind farms means that each wind turbine operates based only on the available information on its own measurements. This gets the wind farm to operate in a non-optimum way, since wind turbines are not operating as players of a major system.\nThe major reasons for this non-optimum approach of wind farms operation are based on the lack of knowledge and tools which can model the dynamics of the flow inside the wind farm, how wind turbines modifies this flow, and how the wind turbines are affected by the perturbed flow. In addition, this lack of tools deals to also a lack of advanced control solutions, because there are not any available tool which can help on developing and testing virtually advanced control concepts for wind farms.\nCL-WINDCON will bring up with new innovative solutions based on wind farm open and closed loop advanced control algorithms which will enable to treat the entire wind farm as a unique integrated optimization problem. This will be possible thanks to the development of appropriate dynamic tools for wind farm simulation, at a reasonable computing effort. These tools for wind farm dynamic modelling of wind farm models will be fully open source at the end of the project, while control algorithms will be extensively validated simulations, in wind tunnel tests. Some open loop validations will be performed at wind farm level tests. \nProposed control algorithms, useful for future but also for already existing wind farms. Then these will improve the LCOE, as well as the O&M costs will decrease, and improves in terms of reliability the wind turbine and wind farm. These performance improvements will be evaluated for both, wind turbine operation and wind farm operation.",
+    "totalCost": "4931422,5",
+    "ecMaxContribution": "4931422,5",
+    "coordinator": "FUNDACION CENER-CIEMAT",
+    "coordinatorCountry": "ES",
+    "participants": "GARRAD HASSAN & PARTNERS LTD;RAMBOLL IMS INGENIEURGESELLSCHAFT MBH;ZABALA INNOVATION CONSULTING, S.A.;TECHNISCHE UNIVERSITAET MUENCHEN;ENEL GREEN POWER;STICHTING ENERGIEONDERZOEK CENTRUM NEDERLAND;POLITECNICO DI MILANO;UNIVERSITAET STUTTGART;QI ENERGY ASSESSMENT SL;UL INTERNATIONAL GMBH;AALBORG UNIVERSITET;TECHNISCHE UNIVERSITEIT DELFT;GENERAL ELECTRIC DEUTSCHLAND HOLDING GMBH;IKERLAN S COOP",
+    "participantCountries": "UK;DE;ES;IT;NL;DK",
+    "projectParticipants": {
+        "999745342": {
+            "orgId": "999745342",
+            "orgName": "FUNDACION CENER-CIEMAT",
+            "ecContrib": 655296
+        },
+        "999581315": {
+            "orgId": "999581315",
+            "orgName": "IKERLAN S COOP",
+            "ecContrib": 282000
+        },
+        "999988715": {
+            "orgId": "999988715",
+            "orgName": "STICHTING ENERGIEONDERZOEK CENTRUM NEDERLAND",
+            "ecContrib": 371250
+        },
+        "985816433": {
+            "orgId": "985816433",
+            "orgName": "ENEL GREEN POWER",
+            "ecContrib": 150125
+        },
+        "996410094": {
+            "orgId": "996410094",
+            "orgName": "ZABALA INNOVATION CONSULTING, S.A.",
+            "ecContrib": 100000
+        },
+        "990434021": {
+            "orgId": "990434021",
+            "orgName": "GENERAL ELECTRIC DEUTSCHLAND HOLDING GMBH",
+            "ecContrib": 445350
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 374094
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 400812
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 306875
+        },
+        "999743887": {
+            "orgId": "999743887",
+            "orgName": "GARRAD HASSAN & PARTNERS LTD",
+            "ecContrib": 219455
+        },
+        "952469870": {
+            "orgId": "952469870",
+            "orgName": "RAMBOLL IMS INGENIEURGESELLSCHAFT MBH",
+            "ecContrib": 272488
+        },
+        "999691701": {
+            "orgId": "999691701",
+            "orgName": "UL INTERNATIONAL GMBH",
+            "ecContrib": 551432
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 400479
+        },
+        "953939129": {
+            "orgId": "953939129",
+            "orgName": "QI ENERGY ASSESSMENT SL",
+            "ecContrib": 92510
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 309256
+        }
+    },
+    "calculatedTotalContribution": 4931422
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "212259",
+    "acronym": "CLOTHILDE",
+    "topics": "ERC-2016-ADG",
+    "title": "CLOTH manIpulation Learning from DEmonstrations",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Textile objects pervade human environments and their versatile manipulation by robots would open up a whole range of\npossibilities, from increasing the autonomy of elderly and disabled people, housekeeping and hospital logistics, to novel\nautomation in the clothing internet business and upholstered product manufacturing. Although efficient procedures exist for\nthe robotic handling of rigid objects and the virtual rendering of deformable objects, cloth manipulation in the real world has\nproven elusive, because the vast number of degrees of freedom involved in non-rigid deformations leads to unbearable\nuncertainties in perception and action outcomes.\n\nThis proposal aims at developing a theory of cloth manipulation and carrying it all the way down to prototype implementation in our Lab. By combining powerful recent tools from computational topology and machine learning, we plan to characterize the state of textile objects and their transformations under given actions in a compact operational way (i.e., encoding task-relevant topological changes), which would permit probabilistic planning of actions (first one handed, then bimanual) that ensure reaching a desired cloth configuration despite noisy perceptions and inaccurate actions.\n\nIn our approach, the robot will learn manipulation skills from an initial human demonstration, subsequently refined through\nreinforcement learning, plus occasional requests for user advice. The skills will be encoded as parameterised dynamical\nsystems, and safe interaction with humans will be guaranteed by using a predictive controller based on a model of the robot\ndynamics. Prototypes will be developed for 3 envisaged applications: recognizing and folding clothes, putting an elastic\ncover on a mattress or a car seat, and helping elderly and disabled people to dress. The broad Robotics and AI background\nof the PI and the project narrow focus on clothing seem most appropriate to obtain a breakthrough in this hard fundamental\nresearch topic.",
+    "totalCost": "2499149",
+    "ecMaxContribution": "2499149",
+    "coordinator": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 2499149
+        }
+    },
+    "calculatedTotalContribution": 2499149
+}

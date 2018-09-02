@@ -1,0 +1,28 @@
+{
+    "rcn": "199460",
+    "acronym": "QUANTMATT",
+    "topics": "ERC-StG-2015",
+    "title": "Dynamics and transport of quantum matter --- exploring the interplay of topology, interactions and localization",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "Quantum matter is condensed matter which properties are dominated by the quantum nature of its constituents. The two most fundamental properties of quantum mechanics are interference and entanglement. How do these properties, and their derivatives, show up in an experiment? And how does one control them? These are the fundamental questions addressed in this proposal.\n\nThe study is divided into three main parts: many-body localization, topological insulator nanowires, and topological semimetals. Many-body localization is concerned with the interplay of interference and entanglement and is central to questions about quantum thermalization. I aim to understand experimental signatures of many-body localization as well as devising simulation schemes that allow us to conduct numerical experiments on many-body localization for larger system sizes than has been so far possible. The interplay of interference, topology and geometry is the central theme of the topic of topological insulator nanowires. I have in the past theoretically demonstrated the signatures of fundamental quantum phenomena in these systems, including perfectly transmitted mode and Majorana fermions. The major goal of this part of the project is to collaborate closely with experimental groups seeking to verify my past theories, by providing new and more detailed predictions for these systems. This requires to further understand experimental details, develop certain theoretical devices and simulation techniques based on them. The final part on topological semimetals is particularly timely in view of recent experimental realizations of Dirac semimetals and the impending realization of Weyl semimetals, which both can be roughly thought of as 3D analogs of graphene. I seek to understand their unique transport signatures and the interplay of disorder with 3D Dirac fermions. The three parts feed into and from each other both through unified concepts and common methodology.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 90215
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 1409785
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

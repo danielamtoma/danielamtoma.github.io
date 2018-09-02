@@ -1,0 +1,23 @@
+{
+    "rcn": "207415",
+    "acronym": "CSP",
+    "topics": "ERC-2016-COG",
+    "title": "Cross-Layer Design of Securing Positioning",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "With the development of new location-based services and the expected deployment of cyber-physical systems (e.g., autonomous cars and drones) the reliance on location and time information in critical applications will only increase. Today's positioning systems are vulnerable to location spoofing by which devices can cheat on their own positions or can manipulate the measured positions of other devices. This problem cannot be fixed by a simple upgrade - existing positioning systems rely on legacy distance measurement techniques and protocols that were designed without security considerations or with security as an after-thought. We therefore need a new approach to the design of positioning systems that takes security requirements into account from the very start, and also accounts for the way that positioning systems are built and used. This is a cross-layer endeavor. In this project we will address the following fundamental questions: (1) Physical Layer. How can we design the right distance measurement (i.e., distance bounding) techniques that provide resilience to physical-layer and logical-layer attacks but retain the performance (range, accuracy and speed of execution) of equivalent non-secure systems? We will extend the existing knowledge in terms of the attacker models as well as achievable limits of security and performance of distance measurement techniques under realistic attacker models. (2) Link Layer. What are the right Medium Access Control (MAC) protocols for secure positioning, what are their performance and scalability limits? (3) Systems. How can distance bounding be integrated in mobile platforms, especially with trusted execution environments. How can this integration strengthen the security of distance bounding and support its use in a wide range of applications?",
+    "totalCost": "1952274",
+    "ecMaxContribution": "1952274",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 1952274
+        }
+    },
+    "calculatedTotalContribution": 1952274
+}

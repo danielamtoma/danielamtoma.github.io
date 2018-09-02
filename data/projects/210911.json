@@ -1,0 +1,23 @@
+{
+    "rcn": "210911",
+    "acronym": "CASCAde",
+    "topics": "ERC-2016-STG",
+    "title": "Confidentiality-preserving Security Assurance",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2022",
+    "objective": "'This proposal aims to create a new generation of security assurance. It investigates whether one can certify an inter-connected dynamically changing system in such a way that one can prove its security properties without disclosing sensitive information about the system's blueprint. \n\nThis has several compelling advantages. First, the security of large-scale dynamically changing systems will be significantly improved. Second, we can prove properties of topologies, hosts and users who participate in transactions in one go, while keeping sensitive information confidential. Third, we can prove the integrity of graph data structures to others, while maintaining their their confidentiality. This will benefit EU governments and citizens through the increased security of critical systems.\n\nThe proposal pursues the main research hypothesis that usable confidentiality-preserving security assurance will trigger a paradigm shift in security and dependability. It will pursue this objective by the creation of new cryptographic techniques to certify and prove properties of graph data structures. A preliminary investigation in 2015 showed that graph signature schemes are indeed feasible. The essence of this solution can be traced back to my earlier research on highly efficient attribute encodings for anonymous credential schemes in 2008.\n\nHowever, the invention of graph signature schemes only clears one obstacle in a long journey to create a new generation of security assurance systems. There are still many complex obstacles, first and foremost, assuring 'soundness' in the sense that integrity proofs a verifier accepts translate to the state of the system at that time. The work program involves six WPs: 1) to develop graph signatures and new cryptographic primitives; 2) to establish cross-system soundness; 3) to handle scale and change; 4) to establish human trust and usability; 5) to create new architectures; and 6) to test prototypes in practice.'",
+    "totalCost": "1485642,5",
+    "ecMaxContribution": "1485642,5",
+    "coordinator": "UNIVERSITY OF NEWCASTLE UPON TYNE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985417": {
+            "orgId": "999985417",
+            "orgName": "UNIVERSITY OF NEWCASTLE UPON TYNE",
+            "ecContrib": 1485642
+        }
+    },
+    "calculatedTotalContribution": 1485642
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "205798",
+    "acronym": "NuWaSim",
+    "topics": "ERC-PoC-2016",
+    "title": "On a Nuclear Waste Deep Repository Simulator",
+    "startDate": "01/11/2016",
+    "endDate": "30/04/2018",
+    "objective": "Nuclear waste is generated during the operation and maintenance of nuclear power plants. The waste is first transferred to an interim storage, where it remains for tens of years, till radioactivity and heat generation of the spent fuel is reduced to a level that allows its final disposal. It is generally accepted that the final waste will be disposed of in a deep geological repository. However, not a single country worldwide has an operational underground repository. In the design process of these repositories, simulation tools capable to model their long term behavior (hundreds of years) are required. However, such simulations are extremely challenging, due to the complicated nature of the physical phenomena of multiscale and multiphysics nature. Current numerical tools being used by some of the most advanced deep repository projects use CODE_BRIGHT (developed at UPC-CIMNE), a very rich code in terms of modelling capabilities, which benefits from 20 years of intensive validation against in-situ experiments. However, CODE_BRIGHT is a serial structured FORTRAN 90 code with very limited capabilities in terms of parallel performance. As a result, actual analyses of prototypical deep repositories require strong and not validated simplification assumptions, in order to reduce by some orders of magnitude the computational cost of the target simulations. In this project, we want to change the situation by developing extremely scalable simulation software for nuclear waste management in repositories.  The strategy is to port CODE_BRIGHT modelling capabilities to FEMPAR, the extremely scalable scientific computing code that resulted from the Starting Grant COMFUS. The result of this work will be a new software that (1) produces the same results as CODE_BRIGHT for a wide set of benchmark tests (to validate the code), and (2) with proven excellent scalability on hundreds of thousands of processors.",
+    "totalCost": "149250",
+    "ecMaxContribution": "149250",
+    "coordinator": "CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999658721": {
+            "orgId": "999658721",
+            "orgName": "CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA",
+            "ecContrib": 149250
+        }
+    },
+    "calculatedTotalContribution": 149250
+}

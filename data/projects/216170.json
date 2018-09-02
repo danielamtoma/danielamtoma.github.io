@@ -1,0 +1,17 @@
+{
+    "rcn": "216170",
+    "acronym": "PaVeS",
+    "topics": "ERC-2017-ADG",
+    "title": "Parametrized Verification and Synthesis",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2023",
+    "objective": "Parameterized systems consist of an arbitrary number of replicated agents with limited computational power, interacting to achieve common goals. They pervade computer science. Classical examples include families of digital circuits, distributed algorithms for leader election or byzantine agreement, routing algorithms, and multithreaded programs. Modern examples exhibit stochastic interaction between mobile agents, and include robot swarms, molecular computers, and cooperating ant colonies.\n\nA parameterized system is in fact an infinite collection of systems, one for each number of agents. Current verification technology of industrial strength can only check correctness of a few instances of this collection. For example, model checkers can automatically prove a distributed algorithm correct for a small number of processes, but not for any number. While substantial progress has been made on the theory and applications of parameterized verification, in order to achieve large impact the field has to face three ``grand challenges':\n\n- Develop novel algorithms and tools for p-verification of classical p-systems that bypass the high complexity of current techniques.\n\n-Develop the first algorithms and tools for p-verification of modern stochastic p-systems.\n\n-Develop the first algorithms and tools for synthesis of correct-by-construction p-systems.\n\nAddressing these challenges requires fundamentally new lines of attack. The starting point of PaVeS are two recent breakthroughs in the theory of Petri nets and Vector Addition Systems, one of them achieved by the PI and his co-authors. PaVeS will develop these lines into theory, algorithms, and tools for p-verification and p-synthesis, leading to a new generation of verifiers and synthesizers.",
+    "totalCost": "2354000",
+    "ecMaxContribution": "2354000",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

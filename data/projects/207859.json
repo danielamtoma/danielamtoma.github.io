@@ -1,0 +1,23 @@
+{
+    "rcn": "207859",
+    "acronym": "CTO Com",
+    "topics": "ERC-2016-STG",
+    "title": "Context- and Task-Oriented Communication",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2022",
+    "objective": "Emergence of a large number of distributed decision and control systems (e.g., in health care, transportation, and energy management), combined with increasing demands of traditional communications (e.g., due to multiview videos), create an imminent need for highly improved communication systems. We advocate thatócombined with improvements in battery, antenna, and chip technologiesócontext- and/or task-oriented communication techniques will bring the desired breakthrough. Specifically, context- oriented techniques will greatly improve performance, because future networks have complex infrastructures (with cache-memories, cloud-RANs, etc.) allowing the terminals to collect side-informations about other terminalsí data or signals, and because many distributed decision systems rely on numerous devices with correlated measurements. Task-oriented techniques promise even larger gains, especially in distributed decision systems where decisions take value on a small range, and thus the traditional approach of communicating sequences of observed signals results in a huge overhead.\nInformation theory, and in particular distributed joint source-channel coding, provides a general framework for designing context-oriented communication techniques. Such a general framework  is missing for task-oriented communication. Previous results indicate that creative usages of information theory on its frontier to statistics and decision theory are well-suited for designing task-oriented communication techniques for applications as diverse as coordination of smart devices, distributed hypothesis testing, and clustering of data.\nOur goal is to design context- and/or task-oriented communication techniques for these three applications and for cache-aided communication. Besides the high gains that our new  techniques bring directly to these applications, the complementarity of our applications and obtained results will facilitate a future general framework for context- and task-oriented communication.",
+    "totalCost": "1495287,52",
+    "ecMaxContribution": "1495287,52",
+    "coordinator": "INSTITUT MINES-TELECOM",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 1495288
+        }
+    },
+    "calculatedTotalContribution": 1495288
+}

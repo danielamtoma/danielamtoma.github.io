@@ -1,0 +1,43 @@
+{
+    "rcn": "193716",
+    "acronym": "TCLS ARM FOR SPACE",
+    "topics": "COMPET-06-2014",
+    "title": "Feasibility and Definition of a Triple Core Lockstep ARM System-on-Chip for Space Applications",
+    "startDate": "01/02/2015",
+    "endDate": "28/02/2017",
+    "objective": "Computers are used in a variety of space-borne equipment for numerous on-board applications and processors are at the core of these equipment. However, currently existing space-grade processors are not suitable to be used in the next generation spacecraft computing platforms because they do not provide sufficient performance, power-efficiency and are too expensive. On the other hand, ARM processors are known to be extremely power-efficient and low-cost while providing high performance and are at the core of the vast majority of terrestrial application markets such as smart phones, tablet computers, and other embedded devices. \nFuture space processors and current terrestrial are now converging, as for safety and mission critical market segments there is a growing concern about radiation effects even at the ground level.\n\nTherefore TCLS ARM FOR SPACE  targets the following high level objectives:\n- Bring one of the mainstream CPUs with the largest software eco-system into the space sector (ARM Cortex R5).\n- Establish an innovative radiation hardened  methodology for this CPU making it attractive to both space and terrestrial applications.\n- Study the portability to European latest and highest performance hardened semiconductor technology (STM65nm).\n\nThis is achieved by the collaboration of the most experienced companies in this field, namely Airbus Defence and Space (G, F) for specific heritage on high reliable and radiation hardened systems, ARM (UK) providing its excellence in processor core IPs and know-how in this field of developments and Atmel (F) and Dolphin (F) contributing with their space and STM65nm technology experience and knowledge respectively.\nThis activity will allow the incorporation of research groups (ARM Research Group) and SMEs (Dolphin) into the space landscape. The exploitation and the dissemination of the results will be guaranteed by the wide sales and marketing network provided by Airbus DS and Atmel for the space and ARM for the terrestrial sectors.",
+    "totalCost": "1027337,5",
+    "ecMaxContribution": "1027337,5",
+    "coordinator": "AIRBUS DEFENCE AND SPACE GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "AIRBUS DEFENCE AND SPACE SAS;ARM LIMITED;DOLPHIN INTEGRATION SA;MICROCHIP TECHNOLOGY NANTES",
+    "participantCountries": "FR;UK",
+    "projectParticipants": {
+        "999735448": {
+            "orgId": "999735448",
+            "orgName": "DOLPHIN INTEGRATION SA",
+            "ecContrib": 50000
+        },
+        "999991819": {
+            "orgId": "999991819",
+            "orgName": "AIRBUS DEFENCE AND SPACE GMBH",
+            "ecContrib": 290000
+        },
+        "999436494": {
+            "orgId": "999436494",
+            "orgName": "AIRBUS DS GMBH",
+            "ecContrib": 0
+        },
+        "999813824": {
+            "orgId": "999813824",
+            "orgName": "ARM LIMITED",
+            "ecContrib": 406595
+        },
+        "999809265": {
+            "orgId": "999809265",
+            "orgName": "AIRBUS DEFENCE AND SPACE SAS",
+            "ecContrib": 200000
+        }
+    },
+    "calculatedTotalContribution": 946595
+}

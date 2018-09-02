@@ -1,0 +1,23 @@
+{
+    "rcn": "212085",
+    "acronym": "4D-GenEx",
+    "topics": "ERC-2017-STG",
+    "title": "Spatio-temporal Organization and Expression of the Genome",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "This project investigates the two-way relationship between spatio-temporal genome organization and coordinated gene regulation, through an approach at the interface between physics, computer science and biology.\n\nIn the nucleus, preferred positions are observed from chromosomes to single genes, in relation to normal and pathological cellular states. Evidence indicates a complex spatio-temporal coupling between co-regulated genes: e.g. certain genes cluster spatially when responding to similar factors and transcriptional noise patterns suggest domain-wide mechanisms. Yet, no individual experiment allows probing transcriptional coordination in 4 dimensions (FISH, live locus tracking, Hi-C...). Interpreting such data also critically requires theory (stochastic processes, statistical physicsÖ). A lack of appropriate experimental/analytical approaches is impairing our understanding of the 4D genome.\n\nOur proposal combines cutting-edge single-molecule imaging, signal-theory data analysis and physical modeling to study how genes coordinate in space and time in a single nucleus. Our objectives are to understand (a) competition/recycling of shared resources between genes within subnuclear compartments, (b) how enhancers communicate with genes domain-wide, and (c) the role of local conformational dynamics and supercoiling in gene co-regulation. Our organizing hypothesis is that, by acting on their microenvironment, genes shape their co-expression with other genes.\n\nBuilding upon my expertise, we will use dual-color MS2/PP7 RNA labeling to visualize for the first time transcription and motion of pairs of hormone-responsive genes in real time. With our innovative signal analysis tools, we will extract spatio-temporal signatures of underlying processes, which we will investigate with stochastic modeling and validate through experimental perturbations. We expect to uncover how the functional organization of the linear genome relates to its physical properties and dynamics in 4D.",
+    "totalCost": "1499750",
+    "ecMaxContribution": "1499750",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1499750
+        }
+    },
+    "calculatedTotalContribution": 1499750
+}

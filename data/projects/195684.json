@@ -1,0 +1,28 @@
+{
+    "rcn": "195684",
+    "acronym": "Cosmo Plasmas",
+    "topics": "MSCA-IF-2014-GF",
+    "title": "Cosmological simulations of radio bright plasmas",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "Merging galaxy clusters are among the most energetic events in the Universe. Their interaction generates shocks and turbulence in the ionised cluster medium, driving the amplification of magnetic fields and the acceleration of relativistic particles. This leads to the formation of large diffuse radio sources in some clusters. The next generation of radio telescopes, including the European LOFAR  observatory, will revolutionize the field, unveiling a complex picture of  these non-thermal processes in clusters. However we still lack numerical simulations to match the capabilities of these instruments. This roots in the complexity of models for MHD-turbulence and cosmic-rays poses challenging demands to simulators. Only recent advances in implementations at the outgoing host and by the applicant make these simulations now feasible.\nHence this project aims to simulate non-thermal radio sources in galaxy clusters with unprecedented detail. The applicant will run the first Eulerian cosmological MHD simulation that resolves the MHD dynamo in clusters including a self-consistent treatment of cosmic-rays in the intra-cluster-medium.\nDuring the outgoing-phase, he will interact with leading experts in the simulation of cosmic ray acceleration and magnetic field amplification at the University of Minnesota. He will be trained in the optimization of grid methods for MHD simulations and algorithms at Cray Inc, a leading vendor of super-computers.\nUpon return, the applicant will work with leading theorists and observers at the host to fully exploit his simulations. The comparison with LOFAR data and complementary  observations will allow a leap forward in the understanding of the complex mechannisms opeating in the cluster medium.\nThe project will establish the applicant as a leading numerical researcher in non-thermal cluster physics and a key figure in the interpretation of radio data. Moreover, the results will directly  benefit the European radio astronomical community.",
+    "totalCost": "244269",
+    "ecMaxContribution": "244269",
+    "coordinator": "ISTITUTO NAZIONALE DI ASTROFISICA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999897535": {
+            "orgId": "999897535",
+            "orgName": "REGENTS OF UNIVERSITY OF MINNESOTA",
+            "ecContrib": 0
+        },
+        "999868920": {
+            "orgId": "999868920",
+            "orgName": "ISTITUTO NAZIONALE DI ASTROFISICA",
+            "ecContrib": 244269
+        }
+    },
+    "calculatedTotalContribution": 244269
+}

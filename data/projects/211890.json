@@ -1,0 +1,83 @@
+{
+    "rcn": "211890",
+    "acronym": "ROMSOC",
+    "topics": "MSCA-ITN-2017",
+    "title": "Reduced Order Modelling, Simulation and Optimization of Coupled systems",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2021",
+    "objective": "The development of high quality products and processes is essential for the future competitiveness of the European economy. In most key technology areas product development is increasingly based on simulation and optimization via mathematical models that allow to optimize design and functionality using free design parameters. Best performance of modelling, simulation and optimization (MSO) techniques is obtained by using a model hierarchy ranging from very fine to very coarse models obtained by model order reduction (MOR) techniques and to adapt the model and the methods to the user-defined requirements in accuracy and computational speed.\nROMSOC will work towards this goal for high dimensional and coupled systems that describe different physical phenomena on different scales; it will derive a common framework for different industrial applications and train the next generation of researchers in this highly interdisciplinary field. It will focus on the three major methodologies: coupling methods, model reduction methods, and optimization methods, for industrial applications in well selected areas, such as optical and electronic systems, economic processes, and materials. ROMSOC will develop novel MSO techniques and associated software with adaptability to user-defined accuracy and efficiency needs in different scientific disciplines. It will transfer synergies between different industrial sectors, in particular for SMEs. \nTo lift this common framework to a new qualitative level, a joint training programme will be developed which builds on the strengths of the academic and industrial partners and their strong history of academic/industrial cooperation. By delivering early-career training embedded in a cutting-edge research programme, ROMSOC will educate highly skilled interdisciplinary researchers in mathematical MSO that will become facilitators in the transfer of innovative concepts to industry. It will thus enhance the capacity of European research and development.",
+    "totalCost": "2785605,48",
+    "ecMaxContribution": "2785605,48",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG;MATHCONSULT GMBH;MICROGATE SRL;FORSCHUNGSVERBUND BERLIN EV;SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI DI TRIESTE;UNIVERSITAT LINZ;CONSORCIO INSTITUTO TECNOLOXICO MATEMATICA INDUSTRIAL ITMATI;UNIVERSITAET BREMEN;BERGISCHE UNIVERSITAET  WUPPERTAL;POLITECNICO DI MILANO;STMICROELECTRONICS SRL",
+    "participantCountries": "FR;DE;AT;IT;ES",
+    "projectParticipants": {
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 127967
+        },
+        "957632404": {
+            "orgId": "957632404",
+            "orgName": "MICROGATE SRL",
+            "ecContrib": 129031
+        },
+        "999987454": {
+            "orgId": "999987454",
+            "orgName": "UNIVERSITAET BREMEN",
+            "ecContrib": 249216
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 129031
+        },
+        "999995408": {
+            "orgId": "999995408",
+            "orgName": "FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG",
+            "ecContrib": 249216
+        },
+        "999850878": {
+            "orgId": "999850878",
+            "orgName": "SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI DI TRIESTE",
+            "ecContrib": 258061
+        },
+        "999858735": {
+            "orgId": "999858735",
+            "orgName": "BERGISCHE UNIVERSITAET  WUPPERTAL",
+            "ecContrib": 124608
+        },
+        "949609437": {
+            "orgId": "949609437",
+            "orgName": "CONSORCIO INSTITUTO TECNOLOXICO MATEMATICA INDUSTRIAL ITMATI",
+            "ecContrib": 495746
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 258061
+        },
+        "934492181": {
+            "orgId": "934492181",
+            "orgName": "MATHCONSULT GMBH",
+            "ecContrib": 127967
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 262876
+        },
+        "999927120": {
+            "orgId": "999927120",
+            "orgName": "FORSCHUNGSVERBUND BERLIN EV",
+            "ecContrib": 249216
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 124608
+        }
+    },
+    "calculatedTotalContribution": 2785604
+}

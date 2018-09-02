@@ -1,0 +1,23 @@
+{
+    "rcn": "209348",
+    "acronym": "BIREHAB",
+    "topics": "MSCA-IF-2016",
+    "title": "Increasing the robustness and neural integration of bidirectional prostheses for rehabilitation withrobust and real time Independent Component Analysis",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "Hand loss is a highly disabling event that markedly affects the quality of life. To achieve a close to natural replacement for the lost hand, the user should be provided with the rich sensations that are naturally perceive when grasping or manipulating an object. Ideal bidirectional hand prostheses should involve both a reliable decoding of the userís intentions and the delivery of nearly ìnaturalî sensory feedback through remnant afferent pathways, simultaneously and in real time. As such, much effort in the last decade has been directed towards the achievement of both the robust performance necessary for natural prosthesis control and the sensory feedback integration. Despite this however, researchers have struggled so far to translate their findings to clinical and commercial applications, as it is necessary first to develop robust multifunctional myoelectric control algorithms and to characterize the neurophysiological responses elicited by artificial sensory feedback. The first aim of BIREHAB is to characterize the cortical activity evoked by neuromorphic electrical stimulations of the median and ulnar nerve in amputees and compare it with healthy subjectsís undergoing the same protocl. The second aim is to develop a new blind source separation algorithm (Independent Component Analysis) for the robust extraction of muscle synergies and Motor Unit Action Potentials from high density surface electromyogram. ICA will also be useful to overcome the current issues that impair the efficacy of myoelectric prostheses control, such as electrodes cross talk and volume conduction. The implementation of BIREHAB has the potential to aid in the personalization of post-stroke rehabilitation protocols, and to improve the long term efficacy, quality and neural integration of hand prostheses. These results may enable, in the near future, near-natural replacement of missing hands and will help devise new upper limb rehabilitation strategies.",
+    "totalCost": "175419,6",
+    "ecMaxContribution": "175419,6",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 175420
+        }
+    },
+    "calculatedTotalContribution": 175420
+}

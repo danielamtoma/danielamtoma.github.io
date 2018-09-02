@@ -1,0 +1,38 @@
+{
+    "rcn": "203543",
+    "acronym": "GOAL-Robots",
+    "topics": "FETOPEN-1-2014",
+    "title": "Goal-based Open-ended Autonomous Learning Robots",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2020",
+    "objective": "This project aims to develop a new paradigm to build open-ended learning robots called `Goal-based Open-ended Autonomous Learning' (GOAL). GOAL rests upon two key insights. First, to exhibit an autonomous open-ended learning process, robots should be able to self-generate goals, and hence tasks to practice. Second, new learning algorithms can leverage self-generated goals to dramatically accelerate skill learning. The new paradigm will allow robots to acquire a large repertoire of flexible skills in conditions unforeseeable at design time with little human intervention, and then to exploit these skills to efficiently solve new user-defined tasks with no/little additional learning. This innovation will be essential in the design of future service robots addressing pressing societal needs. The project will develop the GOAL paradigm by pursuing three main objectives: (1) advance our understanding of how goals are formed and underlie skill learning in children; (2) develop innovative computational architectures and algorithms supporting (2a) the self-generation of useful goals based on user/task independent mechanisms such as intrinsic motivations, and (2b) the use of such goals to efficiently and autonomously build large repertoires of skills; (3) demonstrate the potential of GOAL with a series of increasingly challenging demonstrators in which robots will autonomously develop complex skills and use them to solve difficult challenges in real-life scenarios. The interdisciplinary project consortium is formed by leading international roboticists, computational modelers, and developmental psychologists working with complementary approaches. This will allow the project to greatly advance our understanding of the fundamental principles of open-ended learning and to produce a breakthrough in the field of autonomous robotics by producing for the first time robots that can autonomously accumulate complex skills and knowledge in a truly open-ended way.",
+    "totalCost": "3481875",
+    "ecMaxContribution": "3481874,75",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "STIFTUNG FRANKFURT INSTITUTE FOR ADVANCED STUDIES;TECHNISCHE UNIVERSITAT DARMSTADT;UNIVERSITE PARIS DESCARTES",
+    "participantCountries": "DE;FR",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 938125
+        },
+        "999572876": {
+            "orgId": "999572876",
+            "orgName": "STIFTUNG FRANKFURT INSTITUTE FOR ADVANCED STUDIES",
+            "ecContrib": 709875
+        },
+        "999869793": {
+            "orgId": "999869793",
+            "orgName": "UNIVERSITE PARIS DESCARTES",
+            "ecContrib": 555166
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 1278709
+        }
+    },
+    "calculatedTotalContribution": 3481875
+}

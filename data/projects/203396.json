@@ -1,0 +1,383 @@
+{
+    "rcn": "203396",
+    "acronym": "ENABLE-S3",
+    "topics": "ECSEL-17-2015",
+    "title": "European Initiative to Enable Validation for Highly Automated Safe and Secure Systems",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2019",
+    "objective": "ENABLE-S3 will pave the way for accelerated application of highly automated and autonomous systems in the mobility domains automotive, aerospace, rail and maritime as well as in the health care domain. Virtual testing, verification and coverage-oriented test selection methods will enable validation with reasonable efforts. The resulting validation framework will ensure Europeans Industry competitiveness in the global race of automated systems with an expected market potential of 60BÄ in 2025.\nProject results will be used to propose standardized validation procedures for highly automated systems (ACPS). \nThe technical objectives addressed are: \n1. Provision of a test and validation framework that proves the functionality, safety and security of ACPS with at least 50% less test effort than required in classical testing. \n2. Promotion of a new technique for testing of automated systems with physical sensor signal stimuli generators, which will be demonstrated for at least 3 physical stimuli generators. \n3. Raising significantly the level of dependability of automated systems due to provision of a holistic test and validation platform and systematic coverage measures, which will reduce the probability of malfunction behavior of automated systems to 10E-9/h. \n4. Provision of a validation environment for rapid re-qualification, which will allow reuse of validation scenarios in at least 3 development stages. \n5. Establish open standards to speed up the adoption of the new validation tools and methods for ACPS. \n6. Enabling safe, secure and functional ACPS across domains. \n7. Creation of an eco-system for the validation and verification of automated systems in the European industry. ENABLE-S3 is strongly industry-driven. Realistic and relevant industrial use-cases from smart mobility and smart health will define the requirements to be addressed and assess the benefits of the technological progress.",
+    "totalCost": "64811243,53",
+    "ecMaxContribution": "16151080,39",
+    "coordinator": "AVL LIST GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "VALEO SCHALTER UND SENSOREN GMBH;EVIDENCE SRL;INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;SERVA TRANSPORT SYSTEMS GMBH;RUGGED TOOLING OY;GMVIS SKYSOFT SA;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;RENAULT SAS;TECHNISCHE UNIVERSITAET GRAZ;VALEO COMFORT AND DRIVING ASSISTANCE;UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN;UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA;STIFTUNG FZI FORSCHUNGSZENTRUM INFORMATIK AM KARLSRUHER INSTITUT FUR TECHNOLOGIE;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;TOYOTA MOTOR EUROPE;Teknologian tutkimuskeskus VTT Oy;IXION INDUSTRY AND AEROSPACE SL;SafeTRANS e.V.;FUNDACION TECNALIA RESEARCH & INNOVATION;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;AVL DEUTSCHLAND GMBH;MAGNA STEYR ENGINEERING AG & CO KG;BTC EMBEDDED SYSTEMS AG;REDEN B.V.;MODEL ENGINEERING SOLUTIONS GMBH;IBM IRELAND LIMITED;UNIVERSITAT LINZ;AIRBUS DEFENCE AND SPACE GMBH;LINZ CENTER OF MECHATRONICS GMBH;INSTITUTO SUPERIOR DE ENGENHARIA DO PORTO;VALEO AUTOKLIMATIZACE K.S.;HELLA AGLAIA MOBILE VISION GMBH;NXP SEMICONDUCTORS GERMANY GMBH;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH;MDAL;SIEMENS INDUSTRY SOFTWARE NV;OFFIS EV;NAVTOR AS;ZILINSKA UNIVERZITA V ZILINE;MAGILLEM DESIGN SERVICES SAS;UNIVERSITY OF SOUTHAMPTON;CESKE VYSOKE UCENI TECHNICKE V PRAZE;NABTO APS;THALES AUSTRIA GMBH;ROHDE & SCHWARZ GMBH&CO KOMMANDITGESELLSCHAFT;CAVOTEC GERMANY GMBH;DANMARKS TEKNISKE UNIVERSITET;MICROELETRONICA MASER SL;TWT GMBH SCIENCE & INNOVATION;TTTECH COMPUTERTECHNIK AG;Dr. Steffan Datentechnik GmbH;INSTITUTO TECNOLOGICO DE INFORMATICA;TECHNISCHE UNIVERSITAT DARMSTADT;THALES ALENIA SPACE ESPANA, SA;TTCONTROL GMBH;CREANEX OY;NM ROBOTIC GMBH;PHILIPS MEDICAL SYSTEMS NEDERLAND BV;TECHNISCHE UNIVERSITEIT EINDHOVEN;AVL SOFTWARE AND FUNCTIONS GMBH;POLITECHNIKA GDANSKA;UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA;UNIVERSIDAD POLITECNICA DE MADRID;AALBORG UNIVERSITET;MAGNETI MARELLI S.P.A.;VIRES SIMULATIONSTECHNOLOGIE GMBH;IMINDS;THE MOTOR INSURANCE REPAIR RESEARCHCENTRE;DENSO AUTOMOTIVE DEUTSCHLAND GMBH;TIETO FINLAND SUPPORT SERVICES OY;GMV AEROSPACE AND DEFENCE SA",
+    "participantCountries": "DE;IT;FR;FI;PT;AT;IE;ES;NL;BE;CZ;NO;SK;UK;DK;PL",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 176920
+        },
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 258184
+        },
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 420871
+        },
+        "937281513": {
+            "orgId": "937281513",
+            "orgName": "RUGGED TOOLING OY",
+            "ecContrib": 155234
+        },
+        "999770950": {
+            "orgId": "999770950",
+            "orgName": "SIEMENS INDUSTRY SOFTWARE NV",
+            "ecContrib": 315573
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 950684
+        },
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 922150
+        },
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 120330
+        },
+        "928047307": {
+            "orgId": "928047307",
+            "orgName": "Dr. Steffan Datentechnik GmbH",
+            "ecContrib": 167333
+        },
+        "923860787": {
+            "orgId": "923860787",
+            "orgName": "TIETO FINLAND SUPPORT SERVICES OY",
+            "ecContrib": 105422
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 457618
+        },
+        "951627522": {
+            "orgId": "951627522",
+            "orgName": "TTCONTROL GMBH",
+            "ecContrib": 74848
+        },
+        "935425709": {
+            "orgId": "935425709",
+            "orgName": "MODEL ENGINEERING SOLUTIONS GMBH",
+            "ecContrib": 193750
+        },
+        "999608766": {
+            "orgId": "999608766",
+            "orgName": "PHILIPS MEDICAL SYSTEMS NEDERLAND BV",
+            "ecContrib": 962581
+        },
+        "999848744": {
+            "orgId": "999848744",
+            "orgName": "CESKE VYSOKE UCENI TECHNICKE V PRAZE",
+            "ecContrib": 116600
+        },
+        "999905004": {
+            "orgId": "999905004",
+            "orgName": "GMV AEROSPACE AND DEFENCE SA",
+            "ecContrib": 57844
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 324930
+        },
+        "998417800": {
+            "orgId": "998417800",
+            "orgName": "MICROELETRONICA MASER SL",
+            "ecContrib": 152453
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 138900
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 692226
+        },
+        "999425533": {
+            "orgId": "999425533",
+            "orgName": "RENAULT SAS",
+            "ecContrib": 115837
+        },
+        "999750192": {
+            "orgId": "999750192",
+            "orgName": "THALES AUSTRIA GMBH",
+            "ecContrib": 300815
+        },
+        "996753474": {
+            "orgId": "996753474",
+            "orgName": "NXP SEMICONDUCTORS GERMANY GMBH",
+            "ecContrib": 257997
+        },
+        "927885802": {
+            "orgId": "927885802",
+            "orgName": "SERVA TRANSPORT SYSTEMS GMBH",
+            "ecContrib": 78125
+        },
+        "937389377": {
+            "orgId": "937389377",
+            "orgName": "NM ROBOTIC GMBH",
+            "ecContrib": 22270
+        },
+        "923038130": {
+            "orgId": "923038130",
+            "orgName": "HELLA AGLAIA MOBILE VISION GMBH",
+            "ecContrib": 107224
+        },
+        "999737194": {
+            "orgId": "999737194",
+            "orgName": "EVIDENCE SRL",
+            "ecContrib": 59062
+        },
+        "999771823": {
+            "orgId": "999771823",
+            "orgName": "TWT GMBH SCIENCE & INNOVATION",
+            "ecContrib": 201219
+        },
+        "918515311": {
+            "orgId": "918515311",
+            "orgName": "VALEO COMFORT AND DRIVING ASSISTANCE",
+            "ecContrib": 0
+        },
+        "937087610": {
+            "orgId": "937087610",
+            "orgName": "CAVOTEC GERMANY GMBH",
+            "ecContrib": 24038
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "999642813": {
+            "orgId": "999642813",
+            "orgName": "INSTITUTO SUPERIOR DE ENGENHARIA DO PORTO",
+            "ecContrib": 118400
+        },
+        "996537940": {
+            "orgId": "996537940",
+            "orgName": "LINZ CENTER OF MECHATRONICS GMBH",
+            "ecContrib": 120250
+        },
+        "999614101": {
+            "orgId": "999614101",
+            "orgName": "STIFTUNG FZI FORSCHUNGSZENTRUM INFORMATIK AM KARLSRUHER INSTITUT FUR TECHNOLOGIE",
+            "ecContrib": 557787
+        },
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 205922
+        },
+        "936783903": {
+            "orgId": "936783903",
+            "orgName": "AVL DEUTSCHLAND GMBH",
+            "ecContrib": 110978
+        },
+        "937463582": {
+            "orgId": "937463582",
+            "orgName": "MDAL",
+            "ecContrib": 168516
+        },
+        "999969606": {
+            "orgId": "999969606",
+            "orgName": "ZILINSKA UNIVERZITA V ZILINE",
+            "ecContrib": 87500
+        },
+        "930574739": {
+            "orgId": "930574739",
+            "orgName": "THE MOTOR INSURANCE REPAIR RESEARCHCENTRE",
+            "ecContrib": 14688
+        },
+        "928011029": {
+            "orgId": "928011029",
+            "orgName": "VALEO AUTOKLIMATIZACE K.S.",
+            "ecContrib": 91500
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 349063
+        },
+        "997885852": {
+            "orgId": "997885852",
+            "orgName": "Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH",
+            "ecContrib": 449300
+        },
+        "999991819": {
+            "orgId": "999991819",
+            "orgName": "AIRBUS DEFENCE AND SPACE GMBH",
+            "ecContrib": 153836
+        },
+        "997181729": {
+            "orgId": "997181729",
+            "orgName": "BTC EMBEDDED SYSTEMS AG",
+            "ecContrib": 57375
+        },
+        "991165983": {
+            "orgId": "991165983",
+            "orgName": "VALEO SCHALTER UND SENSOREN GMBH",
+            "ecContrib": 80625
+        },
+        "998565337": {
+            "orgId": "998565337",
+            "orgName": "INSTITUTO TECNOLOGICO DE INFORMATICA",
+            "ecContrib": 311370
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 231250
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 367124
+        },
+        "999588784": {
+            "orgId": "999588784",
+            "orgName": "POLITECHNIKA GDANSKA",
+            "ecContrib": 446000
+        },
+        "995054034": {
+            "orgId": "995054034",
+            "orgName": "REDEN B.V.",
+            "ecContrib": 321875
+        },
+        "926787083": {
+            "orgId": "926787083",
+            "orgName": "CREANEX OY",
+            "ecContrib": 152312
+        },
+        "951157557": {
+            "orgId": "951157557",
+            "orgName": "MAGNA STEYR ENGINEERING AG & CO KG",
+            "ecContrib": 37354
+        },
+        "936409192": {
+            "orgId": "936409192",
+            "orgName": "NABTO APS",
+            "ecContrib": 92188
+        },
+        "936481845": {
+            "orgId": "936481845",
+            "orgName": "VIRES SIMULATIONSTECHNOLOGIE GMBH",
+            "ecContrib": 30000
+        },
+        "999594313": {
+            "orgId": "999594313",
+            "orgName": "OFFIS EV",
+            "ecContrib": 528960
+        },
+        "995531856": {
+            "orgId": "995531856",
+            "orgName": "MAGNETI MARELLI S.P.A.",
+            "ecContrib": 36844
+        },
+        "996327644": {
+            "orgId": "996327644",
+            "orgName": "TOYOTA MOTOR EUROPE",
+            "ecContrib": 194354
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 539216
+        },
+        "999929739": {
+            "orgId": "999929739",
+            "orgName": "UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA",
+            "ecContrib": 214054
+        },
+        "988038024": {
+            "orgId": "988038024",
+            "orgName": "AVL SOFTWARE AND FUNCTIONS GMBH",
+            "ecContrib": 274743
+        },
+        "953627953": {
+            "orgId": "953627953",
+            "orgName": "IXION INDUSTRY AND AEROSPACE SL",
+            "ecContrib": 178437
+        },
+        "999949430": {
+            "orgId": "999949430",
+            "orgName": "ROHDE & SCHWARZ GMBH&CO KOMMANDITGESELLSCHAFT",
+            "ecContrib": 45868
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 224138
+        },
+        "999840887": {
+            "orgId": "999840887",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA",
+            "ecContrib": 86625
+        },
+        "999924986": {
+            "orgId": "999924986",
+            "orgName": "GMVIS SKYSOFT SA",
+            "ecContrib": 31547
+        },
+        "952519340": {
+            "orgId": "952519340",
+            "orgName": "NAVTOR AS",
+            "ecContrib": 260781
+        },
+        "996287680": {
+            "orgId": "996287680",
+            "orgName": "MAGILLEM DESIGN SERVICES SAS",
+            "ecContrib": 165067
+        },
+        "996293694": {
+            "orgId": "996293694",
+            "orgName": "SafeTRANS e.V.",
+            "ecContrib": 64200
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 72100
+        },
+        "972424419": {
+            "orgId": "972424419",
+            "orgName": "DENSO AUTOMOTIVE DEUTSCHLAND GMBH",
+            "ecContrib": 140194
+        },
+        "999791029": {
+            "orgId": "999791029",
+            "orgName": "TTTECH COMPUTERTECHNIK AG",
+            "ecContrib": 93776
+        },
+        "999701595": {
+            "orgId": "999701595",
+            "orgName": "THALES ALENIA SPACE ESPANA, SA",
+            "ecContrib": 149205
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 364720
+        }
+    },
+    "calculatedTotalContribution": 16151080
+}

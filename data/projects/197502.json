@@ -1,0 +1,28 @@
+{
+    "rcn": "197502",
+    "acronym": "AVS-ISS",
+    "topics": "ERC-CoG-2014",
+    "title": "Analysis, Verification, and Synthesis for Infinite-State Systems",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2020",
+    "objective": "The central objective of this project is to investigate key algorithmic verification questions concerning two fundamental mathematical structures used to model and analyse infinite-state systems, namely discrete linear dynamical systems and counter automata, in both ordinary and parametric form. Motivated especially by applications to software model checking (more specifically the termination of linear loops and predicate abstraction computations), as well as parametric real-time reasoning and the verification of Markov chains, we will focus on model-checking, module-checking, and synthesis problems for linear dynamical systems and one-counter automata against various fragments and extensions of Linear Temporal Logic (LTL) specifications. The key deliverables will be novel verification algorithms along with a map of the complexity landscape. A second objective is then to transfer algorithmic insights into practical verification methodologies and tools, in collaboration with colleagues in academia and industrial research laboratories.\n\nWe will build on a series of recent advances and breakthroughs in these areas (some of which from the PIís team) to attack a range of specific algorithmic problems. We believe that this line of research will not only result in fundamental theoretical contributions and insights in their own rightópotentially answering mathematical questions that have been open for years or even decadesóbut will also impact the practice of formal verification and lead to new and more powerful methods and tools for the use of engineers and programmers.",
+    "totalCost": "1834975",
+    "ecMaxContribution": "1834975",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 62500
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 1772475
+        }
+    },
+    "calculatedTotalContribution": 1834975
+}

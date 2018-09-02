@@ -1,0 +1,28 @@
+{
+    "rcn": "197994",
+    "acronym": "SCENEUNDERLIGHT",
+    "topics": "MSCA-ITN-2015-EID",
+    "title": "Time-lapse understanding of the static and human scene and its lighting",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2019",
+    "objective": "Europe has a strong position in the fast-growing photonics and lighting industry but has to face the fast technological changes and, most importantly, a demand for larger transfer from research to industrial innovation and application. With the introduction of Solid State Lighting (SSL) new targets of energy efficiency were set and smart lighting technology was boosted.\nSCENEUNDERLIGHT leverages the privileged role of Europe in photonics as well as in smart lighting technologies. We propose 1. training of early stage researchers, who would become future experts in computer vision and lighting technologies, 2. first-class research, to push the state-of-the-art of computer vision and to drive the changes of lighting technologies, and 3. new disruptive products in smart lighting to accelerate the technological transfer from academia to industry.\nThe proposed program will make efforts on systems for energy saving, towards a more sustainable greener Europe. We plan to implement this directive by smart lighting, defining new disruptive light management system technologies. Our planned demonstrator will take long-term time-lapse top-view images of the environment, understanding it by means of computer vision algorithms and controlling lights, for optimal lighting and energy saving. This will proceed via estimating the scene illumination properties (3D structure, material of objects and light source positions) and its use, with respect to the activities of the people. Finally, all research results will converge into the creation of an ìinvisible light switchî: users moving within an environment (e.g. warehouse with multiple aisles) will have the feeling that all of it is lit (e.g. switching lights on in an aisle just before the person turns into it), while the system will actually manage lighting to save energy, switching off those which the user cannot see, as for an ìenergy saving in the invisibleî.",
+    "totalCost": "507277,8",
+    "ecMaxContribution": "507277,8",
+    "coordinator": "OSRAM GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "UNIVERSITA DEGLI STUDI DI VERONA",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "999838074": {
+            "orgId": "999838074",
+            "orgName": "UNIVERSITA DEGLI STUDI DI VERONA",
+            "ecContrib": 258061
+        },
+        "959066452": {
+            "orgId": "959066452",
+            "orgName": "OSRAM GMBH",
+            "ecContrib": 249216
+        }
+    },
+    "calculatedTotalContribution": 507277
+}

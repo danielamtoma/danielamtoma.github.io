@@ -1,0 +1,28 @@
+{
+    "rcn": "207657",
+    "acronym": "SIMFAL",
+    "topics": "JTI-CS2-2016-CFP03-LPA-02-14",
+    "title": "Assembly Planning and SIMulation of an Aircraft Final Assembly Line",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2020",
+    "objective": "Many tasks in the assembly of an aircraft, such as the assembly of the interior components in the Cabin and Cargo areas, are performed manually, in non-ergonomic conditions, and with complex process chains. Recent advanced in robotics enable the completion of tasks between robots and human worker. Thus, the future of assembly of interior components in these areas will benefit with these new technologies.\nHowever, the planning of assembly tasks in which a human worker collaborates with a robot in a complex and many times narrow environment is extremely challenging. Many factor have to be analysed including the perception of different types of workers, logistic issues, addressing unexpected situation such as a malfunctioning of a robot, etc.\nNew technologies such as Virtual Reality (VR) allows the study of this problem in a safe and cost effective way. Meanwhile Augmented Reality (AR) allows the inclusion of relevant information obtained from computational sources (such as the state of the robot, or new assembly plans) in their proper real context.\nThe SIMFAL project proposes to develop a new testing tools based on VR to help aircraft manufacturers plan and evaluate different assembly alternatives. The information obtained in the VR simulator will be analysed to obtain the main factors that affect its performance. As a result, the advantages and disadvantages of different strategies of collaboration between the robot and the human will be obtained. This tool will also generate support data for an AR-based assistance tool based. The tool will provide information about the current assembly strategy, the current state of the system (including logistics, the robot, etc.) and maintenance information. This tool will also integrate a tool to help the worker to decide between alternative action plans under unexpected situations. A concept of middleware will be developed during the project to integrate the solution with the current design tools.",
+    "totalCost": "563986,25",
+    "ecMaxContribution": "499719,13",
+    "coordinator": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+    "coordinatorCountry": "ES",
+    "participants": "CT INGENIEROS AERONAUTICOS DE AUTOMOCION E INDUSTRIALES SL",
+    "participantCountries": "ES",
+    "projectParticipants": {
+        "986544321": {
+            "orgId": "986544321",
+            "orgName": "CT INGENIEROS AERONAUTICOS DE AUTOMOCION E INDUSTRIALES SL",
+            "ecContrib": 149957
+        },
+        "999605662": {
+            "orgId": "999605662",
+            "orgName": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+            "ecContrib": 349762
+        }
+    },
+    "calculatedTotalContribution": 499719
+}

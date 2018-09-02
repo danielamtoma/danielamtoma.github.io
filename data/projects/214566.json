@@ -1,0 +1,17 @@
+{
+    "rcn": "214566",
+    "acronym": "EMISSR",
+    "topics": "MSCA-IF-2017",
+    "title": "Efficient Multibody Interactive Simulation for Soft Robotics",
+    "startDate": "01/03/2019",
+    "endDate": "28/02/2021",
+    "objective": "The aim of the EMISSR project is to create a novel multibody dynamics simulator for soft robotics. The originality of the\nproject consists in a unified constraint based formulation that can couple rigid and flexible bodies in the same solver. The\nargument behind a simulator for soft robotics is the fact that traditional robots are not suitable for working in humans and\ntheir control has proven daunting especially for nonlinear underactuated systems. The new field of soft robotics is seeing\ngreat growth and investment around the globe and Europe needs to seize this economic opportunity. New dynamics\nsimulations and control algorithms are needed for soft robots, that are made up of soft parts and biology inspired actuators.\nEMISSR wants to fill in this gap and aims to become a testbed for training control policies based on machine learning and\nother algorithms. In terms of performance and accuracy, EMISSR will be a high-fidelity interactive simulator, meaning that it\nwill be extremely fast due to its multilevel solver and parallel implementation, while not sacrificing much of the accuracy\nneeded for soft robotics applications. The frictional contact and deformable continua models will not make any unphysical\napproximations. The elements that will distinguish EMISSR from other existing projects are: two-way coupling of rigid and\nsoft bodies, a fast multilevel iterative solver, stability for high mass ratios and transversal oscillations and robust contact\ninformation generation. These will be applied to making virtual replicas of soft robots (e.g. soft body parts, artificial muscles\nand tendons, pneumatic tubes), simulating their dynamics and testing machine learning based control policies for large\nnumbers of degrees of freedom. At the same time, the training programme that UCPH offers matches my career\ndevelopment needs perfectly, allowing me to build upon my current competencies, not forgetting the opportunity to enhance\nmy academic profile and teaching experience.",
+    "totalCost": "212194,8",
+    "ecMaxContribution": "212194,8",
+    "coordinator": "KOBENHAVNS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

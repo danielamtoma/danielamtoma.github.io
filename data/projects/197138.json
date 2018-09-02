@@ -1,0 +1,23 @@
+{
+    "rcn": "197138",
+    "acronym": "PhotoniX",
+    "topics": "NMP-25-2014",
+    "title": "PHOtonic Transmitters for Optical Networks and Interconnects in energy-efficient datacentres, supercomputers and homes based on VCSELs",
+    "startDate": "01/06/2015",
+    "endDate": "30/09/2017",
+    "objective": "To match the demand of the productivity of modern computing systems, which is growing three orders of magnitude per decade, the single interconnect channel bit data rate should double each 2.5 years and the number of channels per link increase 5-fold each 10 years. Until recently copper was the dominant interconnect technology ($120 billion). At higher frequencies the electromagnetic losses and cross-talk are drastically enhanced, and new technologies are required. Since 2012 60 thousands energy-efficient optical links made of multimode fibers (MMF) powered by Vertical cavity surface-emitting lasers (VCSELs) are used in a single rack of supercomputer. \nDue to its small size, circular surface emission pattern, low operating current and a narrow spectrum VCSELs result a low cost, energy-efficient optical modules. Bit date rates up to 14Gb/s over 100m are reached by the industry. Scaling of the device to higher speeds is challenging as the modulation bandwidth is increasing as a square root of the drive current, while the degradation accelerates exponentially.  At higher pulse frequencies the transmission distance rapidly decreases with pulse broadening. \nThe way to match the speed upgrade is to apply advanced nanotechnology concepts. \n-\tProperly designed ultrathin strained narrow gap insertions as gain medium drastically enhances the modulation bandwidth at the same current;\n-\tIntroducing of strained barriers preventing the nonequilibrium carriersí escape from the gain region allows further improvement of the modulation bandwidth and reliability.\n-\tOptical design by oxide-confined aperture induced diffraction allows single mode operation extending the transmission length, Ö\nVI-Systems GmbH was first to pioneer and ship VCSELs transmitters up to 40Gb/s over 100m, far beyond the limits at that time. 25Gb/s transmission exceeding 1 km of is achieved for parallel MMF links. \nVIS will commercialize its novel interconnect technology and extend it up to 50Gb/s per channel.",
+    "totalCost": "2815700",
+    "ecMaxContribution": "1970990",
+    "coordinator": "VI SYSTEMS GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999613228": {
+            "orgId": "999613228",
+            "orgName": "VI SYSTEMS GMBH",
+            "ecContrib": 1970990
+        }
+    },
+    "calculatedTotalContribution": 1970990
+}

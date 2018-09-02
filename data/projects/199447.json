@@ -1,0 +1,33 @@
+{
+    "rcn": "199447",
+    "acronym": "DEMOS",
+    "topics": "JTI-CS2-2014-CFP01-AIR-01-02",
+    "title": "Developing advanced Engine Multi-disciplinary Optimization Simulations (DEMOS)",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "The ìInnovative Aircraft Architectureî technology stream of the Clean Sky 2 Airframe ITD focuses on advanced power-plant solutions (such as CROR and UHBR) that are able to deliver a significant gain in aircraft performance. \nProject DEMOS will develop advanced predictive modelling and simulation capabilities for engine design space exploration and performance optimization of such novel propulsion systems. \nThe overall and detailed objectives of Project DEMOS may be summed up as follows:\nï Assess,  adapt and further develop a set of  reliable and robust models to simulate/optimise performance of UHBR propulsion system architectures\nï Identify, build and integrate simulation models of specific (novel) components which may be considered as enablers of the technology \nï Demonstrate and assess the effect and influence of these components on the propulsion system performance  in terms of overall performance, increase in mass, effect on lifing characteristics of the propulsion system and on the operating/ maintenance cost\nï Develop a modular approach to enable integration and further development of main modules/models for preliminary design process \nï Facilitate complex integration requirements\nï Improve process efficiency through the development of advanced solvers and adequate numerical methods to address complex system simulations \nï Development of advanced simulation techniques to improve the monitoring of communication between integrated models, robustness and convergence\nï  Enable complex propulsion system performance optimisation with constraint handling capability\nï Develop a suite of advanced solvers to enable extended transient capabilities and simulation of complex systems transients and control\nThe project will build on the established multi-disciplinary concept design tools and further develop and adapt them in terms of applicability to advanced technologies and multi-objective concept analysis and selection.",
+    "totalCost": "410450",
+    "ecMaxContribution": "410450",
+    "coordinator": "EMPRESARIOS AGRUPADOS INTERNACIONAL SA",
+    "coordinatorCountry": "ES",
+    "participants": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA;CRANFIELD UNIVERSITY",
+    "participantCountries": "EL;UK",
+    "projectParticipants": {
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 139662
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 160788
+        },
+        "999805191": {
+            "orgId": "999805191",
+            "orgName": "EMPRESARIOS AGRUPADOS INTERNACIONAL SA",
+            "ecContrib": 110000
+        }
+    },
+    "calculatedTotalContribution": 410450
+}

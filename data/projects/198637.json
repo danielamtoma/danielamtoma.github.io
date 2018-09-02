@@ -1,0 +1,23 @@
+{
+    "rcn": "198637",
+    "acronym": "SEED",
+    "topics": "ERC-CoG-2014",
+    "title": "Learning to See in a Dynamic World",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "The goal of SEED is to fundamentally advance the methodology of computer vision by exploiting a dynamic analysis perspective in order to acquire accurate, yet tractable models, that can automatically learn to sense our visual world, localize still and animate objects (e.g. chairs, phones, computers, bicycles or cars, people and animals), actions and interactions, as well as qualitative geometrical and physical scene properties, by propagating and consolidating temporal information, with minimal system training and supervision.  SEED will extract descriptions that identify the precise boundaries and spatial layout of the different scene components, and the manner they move, interact, and change over time. For this purpose, SEED will develop novel high-order compositional methodologies for the semantic segmentation of video data acquired by observers of dynamic scenes, by adaptively integrating figure-ground reasoning based on bottom-up and top-down information, and by using weakly supervised machine learning techniques that support continuous learning towards an open-ended number of visual categories. The system will be able not only to recover detailed models of dynamic scenes, but also forecast future actions and interactions in those scenes, over long time horizons, by contextual reasoning and inverse reinforcement learning. Two demonstrators are envisaged, the first corresponding to scene understanding and forecasting in indoor office spaces, and the second for urban outdoor environments. The methodology emerging from this research has the potential to impact fields as diverse as automatic personal assistance for people, video editing and indexing, robotics, environmental awareness, augmented reality, human-computer interaction, or manufacturing.",
+    "totalCost": "1999412",
+    "ecMaxContribution": "1999412",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 1999412
+        }
+    },
+    "calculatedTotalContribution": 1999412
+}

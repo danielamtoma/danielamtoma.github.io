@@ -1,0 +1,23 @@
+{
+    "rcn": "206322",
+    "acronym": "PaPaAlg",
+    "topics": "ERC-2016-STG",
+    "title": "Pareto-Optimal Parameterized Algorithms",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "In this project we revise the foundations of parameterized complexity, a modern multi-variate approach to algorithm design. The underlying question of every algorithmic paradigm is ``what is the best algorithm?' When the running time of algorithms is measured in terms of only one variable, it is easy to compare which one is the fastest. However, when the running time depends on more than one variable, as is the case for parameterized complexity:\n\n**It is not clear what a ``fastest possible algorithm' really means.**\n\nThe previous formalizations of what a fastest possible parameterized algorithm means are one-dimensional, contrary to the core philosophy of parameterized complexity. These one-dimensional approaches to a multi-dimensional algorithmic paradigm unavoidably miss the most efficient algorithms, and ultimately fail to solve instances that we could have solved. \n\nWe propose the first truly multi-dimensional framework for comparing the running times of parameterized algorithms. Our new definitions are based on the notion of Pareto-optimality from economics. The new approach encompasses all existing paradigms for comparing parameterized algorithms, opens up a whole new world of research directions in parameterized complexity, and reveals new fundamental questions about parameterized problems that were considered well-understood.\nIn this project we will develop powerful algorithmic and complexity theoretic tools to answer these research questions. The successful completion of this project will take parameterized complexity far beyond the state of the art, make parameterized algorithms more relevant for practical applications, and significantly advance adjacent subfields of theoretical computer science and mathematics.",
+    "totalCost": "1499557",
+    "ecMaxContribution": "1499557",
+    "coordinator": "UNIVERSITETET I BERGEN",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974456": {
+            "orgId": "999974456",
+            "orgName": "UNIVERSITETET I BERGEN",
+            "ecContrib": 1499557
+        }
+    },
+    "calculatedTotalContribution": 1499557
+}

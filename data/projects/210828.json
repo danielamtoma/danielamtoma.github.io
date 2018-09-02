@@ -1,0 +1,38 @@
+{
+    "rcn": "210828",
+    "acronym": "ADAPT",
+    "topics": "JTI-CS2-2016-CFP04-LPA-01-18",
+    "title": "ADvanced Aeroacoustic Processing Techniques",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "Airbus is currently conducting various experimental studies, dealing with installing microphones on the fuselage, on the wall of a wind tunnel test section or on specific microphone supports on the flow, in order to record the sounds emitted by each aircraft component (i.e. engine, wing etc.). In either case, microphone measurements are polluted by hydrodynamic noise, which hampers the correct assessment of acoustic signals emitted from aircraft components, thus leading to very low signal-to-noise ratio.\nA few methods exist today that can eliminate hydrodynamic noise from acoustic signals. However, the efficacy  of these methods strongly depends on various parameters, such as signal-to-noise-ratio, number of microphones, number of incoherent sources etc. No systematic study has been performed so far to assess the parameter boundaries within which acceptable results are obtained (e.g. within 0.5 dB error for example).\nThe ADAPT consortium will improve and optimize the ability of identifying sources emitted by aircraft components by using the most effective techniques out of the three proposed approaches in the call for proposal. These three approaches are: aeroacoustic source separation, de-noising techniques based on cyclostationarity and aeroacoustic sources localization.\nThrough these three approaches, the ADAPT project aims at delivering to AIRBUS a tool dedicated to separating airframe and engine noise components (tonal, broadband cyclostationary components in particular) from hydrodynamic pressure noise and identifying these sources in space, satisfying various technical and economical requirements that will be discussed out with AIRBUS at the beginning of the project.",
+    "totalCost": "363497,5",
+    "ecMaxContribution": "363497,5",
+    "coordinator": "MICRO DB SA",
+    "coordinatorCountry": "FR",
+    "participants": "PIETER SIJTSMA ADVANCED AEROACOUSTICS BV;INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON;ECOLE CENTRALE DE LYON",
+    "participantCountries": "NL;FR",
+    "projectParticipants": {
+        "999886089": {
+            "orgId": "999886089",
+            "orgName": "INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON",
+            "ecContrib": 131581
+        },
+        "934798507": {
+            "orgId": "934798507",
+            "orgName": "PIETER SIJTSMA ADVANCED AEROACOUSTICS BV",
+            "ecContrib": 51250
+        },
+        "973938201": {
+            "orgId": "973938201",
+            "orgName": "MICRO DB SA",
+            "ecContrib": 80916
+        },
+        "999510311": {
+            "orgId": "999510311",
+            "orgName": "ECOLE CENTRALE DE LYON",
+            "ecContrib": 99750
+        }
+    },
+    "calculatedTotalContribution": 363497
+}

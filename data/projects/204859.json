@@ -1,0 +1,23 @@
+{
+    "rcn": "204859",
+    "acronym": "Synth",
+    "topics": "ERC-ADG-2015",
+    "title": "Synthesising Inductive Data Models",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Inspired by recent successes towards automating highly complex jobs like programming and scientific experimentation, the ultimate goal of this project is to automate the task of the data scientist when developing intelligent systems, which is to extract knowledge from data in the form of models. More specifically, this project wants to develop the foundations of a theory and methodology for automatically synthesising inductive data models.\nAn inductive data model (IDM) consists of 1) a data model (DM) that specifies an adequate data structure for the dataset (just like a database), and 2) a set of inductive models (IMs), that is, a set of patterns and models that have been discovered in the data. While the DM can be used to retrieve information about the dataset and to answer questions about specific data points, the IMs can be used to make predictions, propose values for missing data, find inconsistencies and redundancies, etc. The task addressed in this project is to automatically synthesise such IMs from past data and to use these to support the user when making decisions.\nIt will be assumed that the data set consists of a set of tables, that the end-user interacts with the IDM via a visual interface, and the data scientist via a unifying IDM language offering a number of core IMs and learning algorithms.\nThe key challenges to be tackled in SYNTH are: 1) the synthesis system must îlearn the learning taskî, that is, it should identify the right learning tasks and learn appropriate IMs for each of these; 2) the system may need to restructure the data set before IM synthesis can start; and 3) a unifying IDM language for a set of core patterns and models must be developed.\nThe approach will be implemented in open source software and evaluated on two challenging application areas: rostering and sports analytics.",
+    "totalCost": "2458656",
+    "ecMaxContribution": "2458656",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 2458656
+        }
+    },
+    "calculatedTotalContribution": 2458656
+}

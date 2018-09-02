@@ -1,0 +1,38 @@
+{
+    "rcn": "199084",
+    "acronym": "KMaaS",
+    "topics": "ICT-37-2015",
+    "title": "Key Management as-a-Service",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2018",
+    "objective": "Client-side or end-2-end encryption is all about encrypting data before it enters the cloud, and is recognized as the correct manner for securing data in cloud computing. Cloud service providers as well as users of cloud services are increasingly concerned about data protection and look for client-side encryption. However, no pure cloud based solution with true cryptographic security exists. Existing solutions require non-cloud installations, which limits the market from adopting client-side encryption. In fact, NIST calls this a fundamental technical problem. Nevertheless, we solve this problem and offer a pure cloud based and convenient encryption solution that unlike existing products does not rely on either trust in individual cloud service providers or physical encryption gateways. These properties are reached by a novel patent pending solution based on so- called Multi-Party Computation (MPC) protocols tailored to key management. \nThe main goal of the project, is to make Sepior ApS ready to scale the sale of the Sepior KMaaS product (pure cloud-based encryption solution) across Europe. This will be achieved by developing an API-based key management service and integration with existing cloud-providersí services. The starting point is a prototype of KMaaS tailored to Dropbox, which is in closed beta testing by end-customers. Sepior has a complete financial plan for Phase 2 and 3 and committed co-financing to reach the ambitious Phase 2 goals given in the application.?There is significant market potential for a cloud based security solution that does not hamper the efficiency and growth potential in cloud computing, least of all for SMEís. The market for cloud security is expected to rise to $3.1 billion by 2015 and Gartner expects increasing interest in cloud-based encryption capabilities (Gartner, 2013). Sepior ApS is aiming to capture 10% market share of the EU cloud encryption software market by 2020, representing EUR 200 million per year.",
+    "totalCost": "3259375",
+    "ecMaxContribution": "2281562,5",
+    "coordinator": "SEPIOR APS",
+    "coordinatorCountry": "DK",
+    "participants": "PARTISIA APS;PENNEO APS;RUSHFILES A/S",
+    "participantCountries": "DK",
+    "projectParticipants": {
+        "936347500": {
+            "orgId": "936347500",
+            "orgName": "SEPIOR APS",
+            "ecContrib": 1949062
+        },
+        "955386466": {
+            "orgId": "955386466",
+            "orgName": "PARTISIA APS",
+            "ecContrib": 166250
+        },
+        "935423575": {
+            "orgId": "935423575",
+            "orgName": "PENNEO APS",
+            "ecContrib": 83125
+        },
+        "935402429": {
+            "orgId": "935402429",
+            "orgName": "RUSHFILES A/S",
+            "ecContrib": 83125
+        }
+    },
+    "calculatedTotalContribution": 2281562
+}

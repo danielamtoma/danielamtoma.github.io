@@ -1,0 +1,88 @@
+{
+    "rcn": "213057",
+    "acronym": "FutureTPM",
+    "topics": "DS-06-2017",
+    "title": "Future Proofing the Connected World: A Quantum-Resistant Trusted Platform Module",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "The goal of FutureTPM is to design a Quantum-Resistant (QR) Trusted Platform Module (TPM) by designing and developing QR algorithms suitable for inclusion in a TPM. The algorithm design will be accompanied with implementation and performance evaluation, as well as formal security analysis in the full range of TPM environments: i.e. hardware, software and virtualization environments. Use cases in online banking, activity tracking and device management will provide environments and applications to validate the FutureTPM framework.\n\nSecurity, privacy and trust in a computing system are usually achieved using tamper-resistant devices to provide core cryptographic and security functions. The TPM is one such device and provides the system with a root-of-trust and a cryptographic engine. However, to sustain this enhanced system security it is crucial that the crypto functions in the TPM are not merely secure for today but will also remain secure in the long-term against quantum attacks.\n\nFutureTPM will address this challenge by providing robust and provably-secure QR algorithms for a new generation of TPMs. Research on quantum computers has drawn enormous attention from governments and industry; if, as predicted, a large-scale quantum computer becomes a reality within the next 15 years, existing public-key algorithms will be open to attack. Any significant change to a TPM takes time and requires theoretical and practical research before adoption. Therefore, to ensure a smooth transition to QR cryptography we should start now. A key strategic objective of FutureTPM is to contribute to standardization efforts at EU level within TCG, ISO/IEC and ETSI. The consortium consists of high calibre industrial and academic partners from across Europe, combining QR crypto researchers with TPM developers. Because the TPM shares many functions in common with other widely-used devices, such as HSMs and TEEs, the FutureTPM solution is expected to benefit them as well.",
+    "totalCost": "4868890",
+    "ecMaxContribution": "4868890",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "INFINEON TECHNOLOGIES AUSTRIA  AG;SUITE5 DATA INTELLIGENCE SOLUTIONS LIMITED;IBM RESEARCH GMBH;HUAWEI TECHNOLOGIES DUESSELDORF GMBH;THE UNIVERSITY OF BIRMINGHAM;INFINEON TECHNOLOGIES AG;VIVA PAYMENT SERVICES SA;UNIVERSITE DU LUXEMBOURG;UBITECH LIMITED;UNIVERSITY OF PIRAEUS RESEARCH CENTER;INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA;INDEV ANONYMI ETAIREIA ANAPTYKSIS LOGISMIKOY;UNIVERSITY OF SURREY;ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",
+    "participantCountries": "AT;CY;CH;DE;UK;EL;LU;IE;PT",
+    "projectParticipants": {
+        "999978918": {
+            "orgId": "999978918",
+            "orgName": "INFINEON TECHNOLOGIES AG",
+            "ecContrib": 320575
+        },
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 356188
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 527000
+        },
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 369250
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 485375
+        },
+        "999586941": {
+            "orgId": "999586941",
+            "orgName": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+            "ecContrib": 290500
+        },
+        "926362126": {
+            "orgId": "926362126",
+            "orgName": "UBITECH LIMITED",
+            "ecContrib": 431750
+        },
+        "999861451": {
+            "orgId": "999861451",
+            "orgName": "ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",
+            "ecContrib": 375065
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 371875
+        },
+        "999613325": {
+            "orgId": "999613325",
+            "orgName": "INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA",
+            "ecContrib": 298312
+        },
+        "937141639": {
+            "orgId": "937141639",
+            "orgName": "VIVA PAYMENT SERVICES SA",
+            "ecContrib": 0
+        },
+        "910462080": {
+            "orgId": "910462080",
+            "orgName": "SUITE5 DATA INTELLIGENCE SOLUTIONS LIMITED",
+            "ecContrib": 0
+        },
+        "999705087": {
+            "orgId": "999705087",
+            "orgName": "INFINEON TECHNOLOGIES AUSTRIA  AG",
+            "ecContrib": 258750
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 364875
+        }
+    },
+    "calculatedTotalContribution": 4449515
+}

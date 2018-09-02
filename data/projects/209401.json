@@ -1,0 +1,23 @@
+{
+    "rcn": "209401",
+    "acronym": "MiLC",
+    "topics": "MSCA-IF-2016",
+    "title": "Monotonicity in Logic and Complexity",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "MiLC will develop logical characterisations of monotone complexity classes, yielding languages and systems which are machine-independent and well suited for reasoning over such classes of functions. Monotone Boolean functions abound in the theory of computation, e.g. in sorting algorithms and clique detection in graphs, and nonuniform classes of monotone functions have been well studied in computational complexity under the lens of monotone circuits. \n\nFrom the point of view of computation, monotone functions are computed by algorithms not using negation, and this will lead to several recursion-theoretic characterisations of feasible classes such as monotone P, NCi, ACi and the polynomial hierarchy. The main purpose of MiLC will be to capture these classes proof theoretically, by calibrating each class with the formally representable functions of a certain theory. MiLC will work in the setting of Bounded Arithmetic since its techniques are well suited to handling monotonicity, building on recently discovered correspondences with monotone proof complexity. To this end two avenues for controlling monotonicity will be investigated: (a) restricting negation in proofs, inducing monotone witnessing invariants, and (b) restricting structural rules of the underlying logic to eliminate the nonmonotone cases of witness extraction. The aim is to arrive at modular characterisations, where monotonicity of a represented class is switched on or off by the inclusion or exclusion, respectively, of certain structural rules. \n\nFinally MiLC will calibrate these theories with well studied systems in proof complexity, namely monotone, intuitionistic and deep inference systems, under the usual correspondence between theories of Bounded Arithmetic and systems of propositional logic. These tight correspondences ensure that the tools developed in MiLC may be employed to attack certain open problems in the area, reformulating and improving existing bounds.",
+    "totalCost": "200194,8",
+    "ecMaxContribution": "200194,8",
+    "coordinator": "KOBENHAVNS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 200195
+        }
+    },
+    "calculatedTotalContribution": 200195
+}

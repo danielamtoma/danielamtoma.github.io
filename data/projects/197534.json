@@ -1,0 +1,73 @@
+{
+    "rcn": "197534",
+    "acronym": "ComPat",
+    "topics": "FETHPC-1-2014",
+    "title": "Computing Patterns for High Performance Multiscale Computing",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "Multiscale phenomena are ubiquitous and they are the key to understanding the complexity of our world. Despite the significant progress achieved through computer simulations over the last decades, we are still limited in our capability to accurately and reliably simulate hierarchies of interacting multiscale physical processes that span a wide range of time and length scales, thus quickly reaching the limits of contemporary high performance computing at the tera- and petascale. Exascale supercomputers promise to lift this limitation, and in this project we will develop multiscale computing algorithms capable of producing high-fidelity scientific results and scalable to exascale computing systems. Our main objective is to develop generic and reusable High Performance Multiscale Computing algorithms that will address the exascale challenges posed by heterogeneous architectures and will enable us to run multiscale applications with extreme data requirements while achieving scalability, robustness, resiliency, and energy efficiency. Our approach is based on generic multiscale computing patterns that allow us to implement customized algorithms to optimise load balancing, data handling, fault tolerance and energy consumption under generic exascale application scenarios. We will realise an experimental execution environment on our pan-European facility, which will be used to measure performance characteristics and develop models that can provide reliable performance predictions for emerging and future exascale architectures. The viability of our approach will be demonstrated by implementing nine grand challenge applications which are exascale-ready and pave the road to unprecedented scientific discoveries. Our ambition is to establish new standards for multiscale computing at exascale, and provision a robust and reliable software technology stack that empowers multiscale modellers to transform computer simulations into predictive science.",
+    "totalCost": "4122864,36",
+    "ecMaxContribution": "3942885",
+    "coordinator": "UNIVERSITEIT VAN AMSTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "UNIVERSITEIT LEIDEN;SAINT PETERSBURG NATIONAL RESEARCH UNIVERSITY OF INFORMATION TECHNOLOGIES, MECHANICS AND OPTICS;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;CBK SCI CON LIMITED;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;BAYERISCHE AKADEMIE DER WISSENSCHAFTEN;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;BRUNEL UNIVERSITY LONDON;UNIVERSITY COLLEGE LONDON;ALLINEA SOFTWARE LIMITED",
+    "participantCountries": "NL;RU;DE;UK;PL",
+    "projectParticipants": {
+        "969276478": {
+            "orgId": "969276478",
+            "orgName": "ALLINEA SOFTWARE LIMITED",
+            "ecContrib": 467800
+        },
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 385375
+        },
+        "938781424": {
+            "orgId": "938781424",
+            "orgName": "CBK SCI CON LIMITED",
+            "ecContrib": 128125
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 357375
+        },
+        "999580054": {
+            "orgId": "999580054",
+            "orgName": "BAYERISCHE AKADEMIE DER WISSENSCHAFTEN",
+            "ecContrib": 423375
+        },
+        "989779756": {
+            "orgId": "989779756",
+            "orgName": "SAINT PETERSBURG NATIONAL RESEARCH UNIVERSITY OF INFORMATION TECHNOLOGIES, MECHANICS AND OPTICS",
+            "ecContrib": 0
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 378000
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 603125
+        },
+        "999974553": {
+            "orgId": "999974553",
+            "orgName": "UNIVERSITEIT LEIDEN",
+            "ecContrib": 426960
+        },
+        "999749610": {
+            "orgId": "999749610",
+            "orgName": "BRUNEL UNIVERSITY LONDON",
+            "ecContrib": 0
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 772750
+        }
+    },
+    "calculatedTotalContribution": 3942885
+}

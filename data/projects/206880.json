@@ -1,0 +1,53 @@
+{
+    "rcn": "206880",
+    "acronym": "BADGER",
+    "topics": "ICT-25-2016-2017",
+    "title": "RoBot for Autonomous unDerGround trenchless opERations, mapping and navigation",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The goal of the proposed project is the†design and development of the BADGER autonomous underground robotic system that can drill, manoeuvre, localise, map and navigate in the underground space, and which will be equipped with tools for constructing horizontal and vertical networks of stable bores and pipelines.†The proposed robotic system will enable the execution of tasks that†cut across different application domains of high societal and economic impact†including trenchless constructions, cabling and pipe installations, geotechnical investigations, large-scale irrigation installations, search and rescue operations, remote science and exploration, and defence applications.\nFor this purpose, BADGER will deliver a highly innovative robotic system by integrating research into all required novel technical advances. BADGER will integrate innovative mechatronic concepts with robust industrial drilling tools to yield advanced manoeuvrability and motion capability; will integrate perception, localisation and mapping techniques in order to sense map and interpret the surrounding underground environment; the system will merge collected underground data with legacy digital maps to plan and track the motion of the robot with respect to physical landmarks.  The robotic system actions and reactions will be governed by the cognition component which makes decisions on task execution, path planning and motion planning. Finally, the robotic system will be capable to manage and intelligently combine the massive data gathered during underground operation so as to continuously improve its perception and cognition abilities whilst also providing human users the means to store, process and analyse this data, thus enabling the efficient off-line planning and on-line remote monitoring and control of the overall operation process.",
+    "totalCost": "3698003,75",
+    "ecMaxContribution": "3698003,5",
+    "coordinator": "UNIVERSIDAD CARLOS III DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "IDS GEORADAR SRL;ROBOTNIK AUTOMATION SLL;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS;TRACTO TECHNIK GMBH & CO KG;UNIVERSITY OF GLASGOW",
+    "participantCountries": "IT;ES;EL;DE;UK",
+    "projectParticipants": {
+        "998018645": {
+            "orgId": "998018645",
+            "orgName": "ROBOTNIK AUTOMATION SLL",
+            "ecContrib": 375000
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 600536
+        },
+        "983282308": {
+            "orgId": "983282308",
+            "orgName": "SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS",
+            "ecContrib": 550000
+        },
+        "954570308": {
+            "orgId": "954570308",
+            "orgName": "TRACTO TECHNIK GMBH & CO KG",
+            "ecContrib": 576750
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 450000
+        },
+        "917849018": {
+            "orgId": "917849018",
+            "orgName": "IDS GEORADAR SRL",
+            "ecContrib": 401656
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 744061
+        }
+    },
+    "calculatedTotalContribution": 3698003
+}

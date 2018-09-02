@@ -1,0 +1,83 @@
+{
+    "rcn": "200298",
+    "acronym": "BD2Decide",
+    "topics": "PHC-30-2015",
+    "title": "Big Data and models for personalized Head and Neck Cancer Decision support",
+    "startDate": "01/01/2016",
+    "endDate": "30/09/2019",
+    "objective": "Cancers of the Head and Neck Region (HNC) are the 6th more deadly cancers worldwide: in Europe ~150.000 new cases are detected and ~70.000 patients die every year. The main reasons for high mortality are the fact that the majority of cases are diagnosed in advanced Stage and the intrinsic heterogeneity of such tumors. At present the only adopted treatment decision method is based on TNM (Tumor-lymph-Nodes-Metastasis) prognostic system, that considers only a few risk factors such as smoking, alcohol abuse and more recently HPV. The TNM system is therefore inadequate to capture the patient-specific biomolecular characteristics of the tumor. HNC treatments can have hard impact on patientís aesthetics and functionalities and, due to their toxicity, can cause severe morbidity and greatly deteriorate patientís quality of life. A more precise prognostic prediction than the current TNM system is needed that allows implementing the first-line treatment that maximizes the therapeutic result and minimizes the impacts of therapy. \nBD2Decide DSS provides clinicians with the 'means' and all the necessary information to tailor treatment and care delivery pathway to each and any HNC patient during their usual practice, in contrast to current ìone-size-fits-all approachî. BD2Decide realizes and validates an Integrated Decision Support System that links  population-specific epidemiology and behavioral data, patient-specific genomic, pathology, clinical and imaging data with big data techniques, multiscale prognostic models. Advanced graphical visualization tools are developed for prognostic data disclosure and patient co-participation to the selected treatment. BD2Decide will improve the clinical decision process, uncover new patient-specific patterns that can improve care, and create a virtuous circle of learning. A multicentric clinical study with more than 1.000 patients will be used to validate the system.",
+    "totalCost": "4845000",
+    "ecMaxContribution": "4845000",
+    "coordinator": "AZIENDA OSPEDALIERO-UNIVERSITARIA DI PARMA",
+    "coordinatorCountry": "IT",
+    "participants": "ATHENS TECHNOLOGY CENTER ANONYMI BIOMICHANIKI EMPORIKI KAI TECHNIKI ETAIREIA EFARMOGON YPSILIS TECHNOLOGIAS;HEINRICH-HEINE-UNIVERSITAET DUESSELDORF;UNIVERSITA DEGLI STUDI DI PARMA;STICHTING VU;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ALL-IN-IMAGE LTD;\"Stichting Maastricht Radiation Oncology \"\"Maastro Clinic\"\"\";STICHTING VUMC;POLITECNICO DI MILANO;MULTIMED ENGINEERS SRL;FONDAZIONE IRCCS ISTITUTO NAZIONALE DEI TUMORI;UNIVERSIDAD POLITECNICA DE MADRID",
+    "participantCountries": "EL;DE;IT;NL;IL;ES",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 415000
+        },
+        "999856116": {
+            "orgId": "999856116",
+            "orgName": "HEINRICH-HEINE-UNIVERSITAET DUESSELDORF",
+            "ecContrib": 338750
+        },
+        "928699535": {
+            "orgId": "928699535",
+            "orgName": "ALL-IN-IMAGE LTD",
+            "ecContrib": 495750
+        },
+        "919322739": {
+            "orgId": "919322739",
+            "orgName": "STICHTING VUMC",
+            "ecContrib": 760938
+        },
+        "999751744": {
+            "orgId": "999751744",
+            "orgName": "ATHENS TECHNOLOGY CENTER ANONYMI BIOMICHANIKI EMPORIKI KAI TECHNIKI ETAIREIA EFARMOGON YPSILIS TECHNOLOGIAS",
+            "ecContrib": 342000
+        },
+        "954530344": {
+            "orgId": "954530344",
+            "orgName": "STICHTING VU",
+            "ecContrib": 0
+        },
+        "936166983": {
+            "orgId": "936166983",
+            "orgName": "MULTIMED ENGINEERS SRL",
+            "ecContrib": 150000
+        },
+        "999846028": {
+            "orgId": "999846028",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PARMA",
+            "ecContrib": 60000
+        },
+        "998538759": {
+            "orgId": "998538759",
+            "orgName": "FONDAZIONE IRCCS ISTITUTO NAZIONALE DEI TUMORI",
+            "ecContrib": 815000
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 308750
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 321375
+        },
+        "998618784": {
+            "orgId": "998618784",
+            "orgName": "\"Stichting Maastricht Radiation Oncology \"\"Maastro Clinic\"\"\"",
+            "ecContrib": 373062
+        },
+        "999607117": {
+            "orgId": "999607117",
+            "orgName": "AZIENDA OSPEDALIERO-UNIVERSITARIA DI PARMA",
+            "ecContrib": 464375
+        }
+    },
+    "calculatedTotalContribution": 4845000
+}

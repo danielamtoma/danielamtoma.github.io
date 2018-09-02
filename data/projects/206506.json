@@ -1,0 +1,73 @@
+{
+    "rcn": "206506",
+    "acronym": "VOSTARS",
+    "topics": "ICT-29-2016",
+    "title": "Video Optical See-Through Augmented Reality surgical System",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "The idea of integrating the surgeonís perceptive efficiency with the aid of new augmented reality (AR) visualization modalities has become a dominant topic of academic and industrial research in the medical domain since the 90ís. AR technology appeared to represent a significant development in the context of image-guided surgery (IGS).\nThe quality of the AR experience affects the degree of acceptance among physicians and it depends on how well the virtual content is integrated into the real world spatially, photometrically and temporally. In this regard, wearable systems based on head-mounted displays (HMDs), offer the most ergonomic and easily translatable solution for many surgeries.\nMost of the AR HMDs fall into two categories according to the see-through paradigm they implement: video see-through (VST) and optical see-through (OST) HMDs. In OST systems, the userís direct view of the real world is augmented with the projection of virtual information into the userís line of sight. Differently, in VST systems the virtual content is merged with images captured by two external cameras anchored to the visor. With respect to technological and human-factor issues, both the approaches have their own strengths and shortcomings. In this project, we identified in a hybrid OST/VST HMD, a disruptive solution for improving surgical outcomes.\nThe application driven device will be developed from existing systems and exploiting the knowhow acquired within the consortium on photonics KET technologies. The resulting device will undergo three clinical trials whose results will be fundamental towards a straight industrial exploitation comprising economic viability analysis.\nVideo-Optical See Through AR surgical System (VOSTARS) will be the first hybrid see-through HMD surgical navigator. Further, albeit VOSTARS will be specifically designed for medical procedures, its design is aimed to evolve into a multi-purpose AR platform for HMDs.",
+    "totalCost": "4428800",
+    "ecMaxContribution": "3816440",
+    "coordinator": "UNIVERSITA DI PISA",
+    "coordinatorCountry": "IT",
+    "participants": "PILOTFISH GMBH;VREO Innovation;TECHNISCHE UNIVERSITAET MUENCHEN;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA;SCOPIS GMBH;SANKT GERTRAUDEN KRANKENHAUS GMBH;OPTINVENT;CHARITE - UNIVERSITAETSMEDIZIN BERLIN;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+    "participantCountries": "DE;UK;FR;IT",
+    "projectParticipants": {
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 174375
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 349139
+        },
+        "919348638": {
+            "orgId": "919348638",
+            "orgName": "VREO Innovation",
+            "ecContrib": 210000
+        },
+        "999992692": {
+            "orgId": "999992692",
+            "orgName": "CHARITE - UNIVERSITAETSMEDIZIN BERLIN",
+            "ecContrib": 126188
+        },
+        "997758006": {
+            "orgId": "997758006",
+            "orgName": "OPTINVENT",
+            "ecContrib": 495162
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 1087586
+        },
+        "999884731": {
+            "orgId": "999884731",
+            "orgName": "SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA",
+            "ecContrib": 250188
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 400125
+        },
+        "953888689": {
+            "orgId": "953888689",
+            "orgName": "PILOTFISH GMBH",
+            "ecContrib": 199966
+        },
+        "919295676": {
+            "orgId": "919295676",
+            "orgName": "SCOPIS GMBH",
+            "ecContrib": 399962
+        },
+        "919193341": {
+            "orgId": "919193341",
+            "orgName": "SANKT GERTRAUDEN KRANKENHAUS GMBH",
+            "ecContrib": 123750
+        }
+    },
+    "calculatedTotalContribution": 3816441
+}

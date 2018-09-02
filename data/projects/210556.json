@@ -1,0 +1,23 @@
+{
+    "rcn": "210556",
+    "acronym": "ALEXANDRIA",
+    "topics": "ERC-2016-ADG",
+    "title": "Large-Scale Formal Proof for the Working Mathematician",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Mathematical proofs have always been prone to error. Today, proofs can be hundreds of pages long and combine results from many specialisms, making them almost impossible to check. One solution is to deploy modern verification technology. Interactive theorem provers have demonstrated their potential as vehicles for formalising mathematics through achievements such as the verification of the Kepler Conjecture. Proofs done using such tools reach a high standard of correctness.\n\nHowever, existing theorem provers are unsuitable for mathematics. Their formal proofs are unreadable. They struggle to do simple tasks, such as evaluating limits. They lack much basic mathematics, and the material they do have is difficult to locate and apply.\n\nALEXANDRIA will create a proof development environment attractive to working mathematicians, utilising the best technology available across computer science. Its focus will be the management and use of large-scale mathematical knowledge, both theorems and algorithms. The project will employ mathematicians to investigate the formalisation of mathematics in practice. Our already substantial formalised libraries will serve as the starting point. They will be extended and annotated to support sophisticated searches. Techniques will be borrowed from machine learning, information retrieval and natural language processing.  Algorithms will be treated similarly: ALEXANDRIA will help users find and invoke the proof methods and algorithms appropriate for the task.\n\nALEXANDRIA will provide (1) comprehensive formal mathematical libraries; (2) search within libraries, and the mining of libraries for proof patterns; (3)  automated support for the construction of large formal proofs; (4) sound and practical computer algebra tools. \n\nALEXANDRIA will be based on legible structured proofs. Formal proofs should be not mere code, but a machine-checkable form of communication between mathematicians.",
+    "totalCost": "2430140",
+    "ecMaxContribution": "2430140",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

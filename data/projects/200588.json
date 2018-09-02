@@ -1,0 +1,23 @@
+{
+    "rcn": "200588",
+    "acronym": "CV SUBUNIQC",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Sub-Universal Quantum Circuits in Continuous Variables",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2018",
+    "objective": "'Three decades ago, it was proposed that quantum computers (i.e. quantum systems where information can be encoded, processed and read out) could outperform classical devices for information processing. For instance, they may allow the factoring of integer numbers in a time which scales polynomially with the size of the input, while known classical algorithms require an exponential time. However, in practice, it has not yet been possible to build a quantum computer large enough to beat classical machines. This has raised the question as to whether this difficulty is only technical, and will be overcome one day, or due to fundamental reasons. In trying to answer this question, physicists and computer scientists have developed 'sub-universal' quantum computing models, which aim at solving very specific problems, simpler than factoring, but still displaying a quantum advantage. Among those is the so-called boson sampling protocol, which enables to compute the permanent of a unitary matrix. In other words, scientists now seek for the observation of a minimal supremacy of quantum computers over classical ones. Inspired by recent experimental achievements (Paris, Japan, Virginia), in this project I will study at the theoretical level new models of sub-universal quantum computers, based on original photonic architectures. Indeed, these models have been only poorly studied, so far, in the promising context of the 'Continuous Variable' (CV) encoding, which has recently allowed to reach the record-size for quantum computing resource states. This project articulates through two main objectives: 1) The design of new sub-universal quantum circuits in CV, providing proof of their classical computational hardness 2) The study of viable experimental quantum optics platforms where these protocols may be efficiently implemented. Among those, I will design the first experimentally accessible protocol for CV boson sampling.'",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999978627": {
+            "orgId": "999978627",
+            "orgName": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "194141",
+    "acronym": "COSSIM",
+    "topics": "ICT-01-2014",
+    "title": "A Novel, Comprehensible, Ultra-Fast, Security-Aware CPS Simulator",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "One of the main problems the CPS designers face is ìthe lack of simulation tools and models for system design and analysisî. This is mainly because the majority of the existing simulation tools for complex CPS handle efficiently only parts of a system while they mainly focus on the performance. Moreover, they require extreme amounts of processing resources and computation time to accurately simulate the CPS nodesí processing. Faster approaches are available, however as they function at high levels of abstraction, they cannot provide the accuracy required to model the exact behavior of the system under design so as to guarantee that it meets the requirements in terms of performance and/or energy consumption. \nThe COSSIM project will address all those needs by providing an open-source framework which will: \na) Seamlessly simulate, in an integrated way, both the  networking and the processing parts of the CPS. \nb) Perform the simulations orders of magnitude faster. \nc) Provide much more accurate results especially in terms of power consumption than existing solutions.\nd) Report more CPS aspects than any existing tool including the underlying security of the CPS. \nCOSSIM will achieve the above by developing a novel simulator framework based on a processing simulation sub-system (i.e. a ìfull-system simulatorî) which will be integrated with a novel network simulator. Furthermore, innovative power consumption and security measurement models will be developed and incorporated to the end framework. On top of that, COSSIM will also address another critical aspect of an accurate CPS simulation environment: the performance as measured in required simulation time. COSSIM will create a framework that is orders of magnitude faster, while also being more accurate and reporting more CPS aspects, than existing solutions, by applying hardware acceleration through the use of field programmable gate arrays (FPGAs), which have been proven extremely efficient in relevant tasks.",
+    "totalCost": "2882030",
+    "ecMaxContribution": "2882030",
+    "coordinator": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+    "coordinatorCountry": "EL",
+    "participants": "TELECOMMUNICATION SYSTEMS INSTITUTE;FUNDACION TECNALIA RESEARCH & INNOVATION;SEARCH-LAB BIZTONSAGI ERTEKELO ELEMZO ES KUTATO LABORATORIUM KORLATOLT FELELOSSEGU TARSASAG;POLITECNICO DI MILANO;STMICROELECTRONICS SRL;MAXELER TECHNOLOGIES LIMITED;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "EL;ES;HU;IT;UK;SE",
+    "projectParticipants": {
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 376250
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 352050
+        },
+        "999611094": {
+            "orgId": "999611094",
+            "orgName": "TELECOMMUNICATION SYSTEMS INSTITUTE",
+            "ecContrib": 274375
+        },
+        "968922816": {
+            "orgId": "968922816",
+            "orgName": "MAXELER TECHNOLOGIES LIMITED",
+            "ecContrib": 483750
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 416900
+        },
+        "999704893": {
+            "orgId": "999704893",
+            "orgName": "SEARCH-LAB BIZTONSAGI ERTEKELO ELEMZO ES KUTATO LABORATORIUM KORLATOLT FELELOSSEGU TARSASAG",
+            "ecContrib": 370625
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 368080
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 240000
+        }
+    },
+    "calculatedTotalContribution": 2882030
+}

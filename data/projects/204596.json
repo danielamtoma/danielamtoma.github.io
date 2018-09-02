@@ -1,0 +1,23 @@
+{
+    "rcn": "204596",
+    "acronym": "CONAN",
+    "topics": "SMEInst-02-2016-2017",
+    "title": "COmplete Nucleic acid ANalysis at genome scale using ultra high throughput sequencing",
+    "startDate": "01/07/2016",
+    "endDate": "31/12/2016",
+    "objective": "The human genome project has not fully delivered the benefits promised in terms of cost and utility. Complete genome sequencing still costs greater than 1,000Ä and offers most people limited value (for example in terms of immediate health benefits). New levels of genetic complexity have been uncovered with the discovery of different types of molecular switches that control the activity of the genes coded by the DNA. It is clear now that full genome analysis requires not just the raw DNA sequence, but a complete reading of the many DNA modifications now known to exist in vivo (for example, 5-mC) and a comprehensive analysis of the dynamic population of RNA within the cell. Complete genome analysis therefore requires the DNA sequence as well as epigenetic and transcriptomic information. Current NGS systems can only indirectly obtain a partial picture of these important aspects of the genome after performing costly sample processing. Based on the pioneering biophysics work of the LPS and carried forward by PicoSeq with the support of several large research grants, we are developing a disruptive technology capable of directly sequencing DNA and RNA, and detecting a wide range of base modifications on responsible for epigenetic changes. This new platform called SIMDEQ (SIngle Molecule Magnetic Detection and Quantification). Our current prototype system is capable of complete nucleic acid analysis, but is limited in its throughput, and is thus limited in its commercial applications. The problem of the limited range of data produced by current NGS technologies will be solved in this program by combining our unique SIMDEQ approach with the advanced manufacturing technologies common in the micro-electronics industry. The core of this project is the development of the CONAN chip, which brings together microwell structures, microscale magnets integrated onto the chip around each well and a digital readout of the relevant signal from each DNA or RNA molecule under examination",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "PICOSEQ",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "951401027": {
+            "orgId": "951401027",
+            "orgName": "PICOSEQ",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

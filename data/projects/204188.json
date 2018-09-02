@@ -1,0 +1,23 @@
+{
+    "rcn": "204188",
+    "acronym": "SAMSON",
+    "topics": "ERC-PoC-2015",
+    "title": "SAMSON: Integrating computational nanoscience",
+    "startDate": "01/06/2016",
+    "endDate": "30/11/2017",
+    "objective": "Computer-aided design of macrosystems has greatly contributed to reduce production costs of cars, planes, etc., by replacing drawing boards and physical mock-ups with virtual modeling and simulation tools. Similarly, computational nanoscience is expected to have an increasingly essential impact on biology, chemistry, physics, material science, electronics, etc., by complementing experiments to reduce research and development cycles, lower costs, increase quality, etc.\n\nUnfortunately, while numerous software tools have already been developed, they are currently very fragmented, domain specific, and a significant effort is still needed to address the needs emerging from the convergence trends in nanoscience. Indeed, boundaries that used to clearly delimitate application domains (biology, chemistry, etc.) are now becoming blurred: nanoparticles are being functionalized with antibodies, nanomechanisms are built out of DNA strands, etc. \n\nMy group has been developing SAMSON, a software platform for modeling and simulation of nanosystems, with three main design characteristics in mind: generality, adaptivity and openness. Unlike existing commercial tools, which are mostly closed and ìmonolithicî, we believe the open architecture of SAMSON, combined with the distribution model enabled by SAMSON Connect, an associated online platform to distribute SAMSON Elements (modules for SAMSON), is the most appropriate foundation to integrate computational tools and help move forward nanoscience and nanotechnology.\n\nThe goal of this Proof of Concept proposal is to explore the potential of SAMSON as a software platform for federating computational nanoscience able to sustain a viable business model.",
+    "totalCost": "149750",
+    "ecMaxContribution": "149750",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 149750
+        }
+    },
+    "calculatedTotalContribution": 149750
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "213462",
+    "acronym": "TopMechMat",
+    "topics": "ERC-2017-COG",
+    "title": "Topological Mechanical Metamaterials",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Mechanical metamaterials are man-made structures with tailored vibrational properties geared towards applications such as earth-quake protection, energy harvesting, or medical imaging. Recently, we promoted a new design principle for such materials: topological band-theory known from quantum condensed matter physics. To date, the use of topology in mechanical materials has been largely restricted to one or two dimensions, a central shortcoming for applications. The objective of TopMechMat is to address this challenge (i) by establishing a theoretical framework for topological mechanical metamaterials in three dimensions, (ii) by developing a novel algorithm enabling the sample design, and (iii) by experimentally validating the proposed materials.\nThe current approach to topological mechanical systems is based on lcoal symmetries unnatural to classical mechanics. Crystalline symmetries, on the other hand, are ubiquitous in metamaterials and are known to stabilize topological phases. Using group cohomology techniques we will establish a theoretical framework for topological phonons in three dimensions. \nTranslating a theoretical model into an actual sample requires extensive finite element simulations. However, the complexity of topological phonon models precludes the application of known design algorithms.  We plan to use a neural network to address this challenge. This will allow us to exploit the power of genetic algorithms in executing the required large-scale parameter scans. The successful implementation of this design algorithm will present us with an exciting opportunity: Mechanical systems might enable the discovery of yet unobserved topological phases of matter.\nWe plan to build a three-axis scanning vibrometer to investigate additively manufactured metamaterial samples. This will allow us to validate our ideas and to provide proof-of-principle results emphasizing the feasibility of our designs for concrete applications.",
+    "totalCost": "1999264",
+    "ecMaxContribution": "1999264",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 1999264
+        }
+    },
+    "calculatedTotalContribution": 1999264
+}

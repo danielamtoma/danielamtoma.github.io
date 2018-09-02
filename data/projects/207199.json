@@ -1,0 +1,88 @@
+{
+    "rcn": "207199",
+    "acronym": "ANASTACIA",
+    "topics": "DS-01-2016",
+    "title": "Advanced Networked Agents for Security and Trust Assessment in CPS/IOT Architectures",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The main objective of the ANASTACIA is to address the constant discovery of vulnerabilities in ICT components providing assurance that ICT systems are secure and trustworthy by design. \nTo this end, ANASTACIA will research and develop a holistic security framework, which will address all the phases of the ICT Systems Development Lifecycle and will be able to take autonomous decisions using new networking technologies (SDN/NFV), and dynamic security enforcement and monitoring methodologies and tools.\nThe ANASTACIA framework will include a comprehensive suite of tools and enablers:\n- A security development paradigm based on the compliance to security best practices and the use of the security components and enablers.\n- A suite of distributed trust and security components and enablers, able to dynamically orchestrate and deploy user security policies and actions within complex and dynamic CPS and IoT architectures. \n- Online monitoring and testing techniques that will allow more automated adaptation of the system to mitigate new and unexpected security vulnerabilities.\n- A holistic Dynamic Security and Privacy Seal, combining security and privacy standards and real time monitoring and online testing. This will provide quantitative and qualitative run-time evaluation of privacy risks and security levels, which can be easily understood and controlled by the final users.\nANASTACIA results will be driven and demonstrated in three high impact Use Cases: Mobile Edge Computing, Smart Building and IoT networks.\nBringing together leading partners with wide-ranging expertise, the ANASTACIA Consortium will combine the philosophy and business models of communication technologies with inherently integrated security and privacy solutions, creating a security framework where the end users will be able to control their security and privacy policies enforcement, and application developers, in particular SMEs, will find an open and sustainable ecosystem for secure SLCD.",
+    "totalCost": "5420208,75",
+    "ecMaxContribution": "3999208,75",
+    "coordinator": "SOFTECO SISMAT SRL",
+    "coordinatorCountry": "IT",
+    "participants": "DEVICE GATEWAY SA;ODIN SOLUTIONS S.L.;THALES COMMUNICATIONS & SECURITY SAS;GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS;MONTIMAGE EURL;AALTO KORKEAKOULUSAATIO SR;ATOS SPAIN SA;UNIVERSIDAD DE MURCIA;MANDAT INTERNATIONAL ALIAS FONDATION POUR LA COOPERATION INTERNATIONALE;CONSIGLIO NAZIONALE DELLE RICERCHE;ARCHIMEDE SOLUTIONS SARL;OY L M ERICSSON AB;UNITED TECHNOLOGIES RESEARCH CENTRE IRELAND, LIMITED",
+    "participantCountries": "CH;ES;FR;EL;FI;IT;IE",
+    "projectParticipants": {
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 398125
+        },
+        "996271093": {
+            "orgId": "996271093",
+            "orgName": "MANDAT INTERNATIONAL ALIAS FONDATION POUR LA COOPERATION INTERNATIONALE",
+            "ecContrib": 0
+        },
+        "956062459": {
+            "orgId": "956062459",
+            "orgName": "ARCHIMEDE SOLUTIONS SARL",
+            "ecContrib": 0
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 418379
+        },
+        "999844282": {
+            "orgId": "999844282",
+            "orgName": "UNIVERSIDAD DE MURCIA",
+            "ecContrib": 436000
+        },
+        "999942931": {
+            "orgId": "999942931",
+            "orgName": "OY L M ERICSSON AB",
+            "ecContrib": 211525
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 326250
+        },
+        "949209894": {
+            "orgId": "949209894",
+            "orgName": "DEVICE GATEWAY SA",
+            "ecContrib": 0
+        },
+        "985034419": {
+            "orgId": "985034419",
+            "orgName": "GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",
+            "ecContrib": 423500
+        },
+        "999716242": {
+            "orgId": "999716242",
+            "orgName": "MONTIMAGE EURL",
+            "ecContrib": 343975
+        },
+        "934796858": {
+            "orgId": "934796858",
+            "orgName": "ODIN SOLUTIONS S.L.",
+            "ecContrib": 178250
+        },
+        "999802766": {
+            "orgId": "999802766",
+            "orgName": "SOFTECO SISMAT SRL",
+            "ecContrib": 513275
+        },
+        "971136162": {
+            "orgId": "971136162",
+            "orgName": "UNITED TECHNOLOGIES RESEARCH CENTRE IRELAND, LIMITED",
+            "ecContrib": 392338
+        }
+    },
+    "calculatedTotalContribution": 3641617
+}

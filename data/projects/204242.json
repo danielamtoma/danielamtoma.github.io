@@ -1,0 +1,23 @@
+{
+    "rcn": "204242",
+    "acronym": "nax2ceLL",
+    "topics": "SMEInst-10-2016-2017",
+    "title": "naX2ceLL: AN ADVANCED TOOL FOR ENGINEERING SIMULATION, TAKING NASTRAN RESULTS TO EXCEL CELLS",
+    "startDate": "01/07/2016",
+    "endDate": "31/12/2016",
+    "objective": "Simulation Analysis is a powerful tool that helps engineers to analyze and predict product performance minimizing the need for building costly prototypes. This allows companies to become more competitive on a global scale while mitigating the risks associated with cost-effectively bringing products to market. \nIn Aerospace Industry, where European companies are globally challenged, the Simulation Analysis is usually conducted by using the NASTRAN Finite Element solver. The results must be read and transformed into another useful format that allows later Post-Processing work, where simulations are repeated for the same parts due to changes in boundary conditions, dimensions and designs. Currently engineers read NASTRAN results from text format by using commercial Post-Processors or ìhandmadeî solutions. Afterwards they have to transform and export manually to Excel sheets for further calculations, entailing tedious and time-consuming tasks, unnecessary additional costs, and human bias.\n\nThe project naX2ceLL proposes a solution to these inefficient and costly methods. IDAERO aims at delivering an innovative software, naX2ceLL, able to read directly from NASTRAN binary files and transform and put automatically the results by mean of useful and powerful functions in MS Excel cells. naX2ceLL also adds a unique 3D function that allows inserting post-processed Simulation Models into Adobe pdf reports and consulting and managing them without the need to open an external postprocessor. These unique features allow reducing the Post- Processing work (representing 40% of time consuming), up to 50%, which is translated into huge savings (MÄ order) when developing a new aircraft (ca. 5-6 years).\nIn Phase 1 we will assess the technical, economic and legal viability of the project through a Business case: testing functions of the software with real end users, and conduct Market Studies, Business Plan, Risk assessment, etc., to pave the way for reaching TRL9 in later Phase 2",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "IDAERO SL",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "920628844": {
+            "orgId": "920628844",
+            "orgName": "IDAERO SL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

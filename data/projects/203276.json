@@ -1,0 +1,23 @@
+{
+    "rcn": "203276",
+    "acronym": "APEG",
+    "topics": "ERC-ADG-2015",
+    "title": "Algorithmic Performance Guarantees: Foundations and Applications",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "Optimization problems are ubiquitous in computer science. Almost every problem involves the optimization of some objective function. However a major part of these problems cannot be solved to optimality. Therefore, algorithms that achieve provably good performance guarantees are of immense importance. Considerable progress has already been made, but great challenges remain: Some fundamental problems are not well understood. Moreover, for central problems arising in new applications, no solutions are known at all. \n\nThe goal of APEG is to significantly advance the state of the art on algorithmic performance guarantees. Specifically, the project has two missions: First, it will develop new algorithmic techniques, breaking new ground in the areas of online algorithms, approximations algorithms and algorithmic game theory. Second, it will apply these techniques to solve fundamental problems that are central in these algorithmic disciplines. APEG will attack long-standing open problems, some of which have been unresolved for several decades. Furthermore, it will formulate and investigate new algorithmic problems that arise in modern applications. The research agenda encompasses a broad spectrum of classical and timely topics including (a) resource allocation in computer systems, (b) data structuring, (c) graph problems, with relations to Internet advertising, (d) complex networks and (e) massively parallel systems. In addition to basic optimization objectives, the project will also study the new performance metric of energy minimization in computer systems. \n\nOverall, APEG pursues cutting-edge algorithms research, focusing on both foundational problems and applications. Any progress promises to be a breakthrough or significant contribution.",
+    "totalCost": "2404250",
+    "ecMaxContribution": "2404250",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 2404250
+        }
+    },
+    "calculatedTotalContribution": 2404250
+}

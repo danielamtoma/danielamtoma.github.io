@@ -1,0 +1,28 @@
+{
+    "rcn": "205944",
+    "acronym": "CC4SOL",
+    "topics": "ERC-2016-STG",
+    "title": "Towards chemical accuracy in computational materials science",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "This project aims at the development of a novel toolbox of ab-initio methods that approximate the true many-electron wavefunction using systematically improvable perturbation and coupled-cluster theories. The demand and prospects for these methods are excellent given that the highly-accurate coupled-cluster theories can predict atomization- and reaction energies in a wide range of solids and molecules with chemical accuracy (?43 meV). However, the computational cost involved inhibits their widespread use in the field of materials science so far. A multitude of suggested developments in the present proposal hold the promise to reduce the computational cost beyond what is currently considered possible by the community. These include explicit correlation methods that augment the conventional wavefunction expansion with terms that depend on the electron pair correlation factors. In contrast to the widely-used homogeneous correlation factors, this proposal aims at the investigation of inhomogeneous correlation factors that can also capture van der Waals interactions. Furthermore this proposal seeks to employ a recently developed combination of atom-centered basis functions and plane wave basis sets, maximizing the compactness in the wavefunction expansion. The combination of these ideas bears the potential to reduce the computational cost of coupled-cluster calculations in solids by three orders of magnitude, leading to a breakthrough in the field of highly-accurate ab-initio simulations. As such the study of challenging solid state physics and chemistry problems forms an important part of this proposal. We seek to investigate molecular adsorption and reactions in zeolites and on surfaces, pressure-driven solid-solid phase transitions of two dimensional layered materials and defects in solids. These problems are paradigmatic for van der Waals interactions and strong correlation, and methods that describe their electronic structure accurately are highly sought after.",
+    "totalCost": "1460826",
+    "ecMaxContribution": "1460826",
+    "coordinator": "TECHNISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 1460826
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1460826
+}

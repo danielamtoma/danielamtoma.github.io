@@ -1,0 +1,23 @@
+{
+    "rcn": "204796",
+    "acronym": "GeCo",
+    "topics": "ERC-ADG-2015",
+    "title": "Data-Driven Genomic Computing",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Next-generation sequencing technology has dramatically reduced the cost and time of reading the DNA. Huge investments are targeted to sequencing the DNA of large populations, and repositories of well-curated sequence data are being collected. Answers to fundamental biomedical problems are hidden in these data, e.g. how cancer arises, how driving mutations occur, how much cancer is dependent on environment. But genomic computing has not comparatively evolved. Bioinformatics has been driven by specific needs and distracted from a foundational approach; hundreds of methods solve individual problems, but miss the broad perspective.\n\nThe objective of GeCo is to rethink genomic computing through the lens of basic data management. We will first design the data model, using few general abstractions that guarantee interoperability between existing data formats. Next, we will design a new-generation query language inspired by classic relational algebra and extended with orthogonal, domain-specific abstractions for genomics. Query processing will trace metadata and computation steps, opening doors to the seamless integration of descriptive statistics and high-level data analysis (e.g., DNA region clustering and extraction of regulatory networks).\n\nGenomic computing is a ìbig dataî problem, therefore we will also achieve computational efficiency by using parallel computing on both clusters and public clouds; the choice of a suitable data model and of computational abstractions will boost performance in a principled way. The resulting technology will be applicable to individual and federated repositories, and will be exploited for providing integrated access to curated data, made available by large consortia, through user-friendly search services.  Our most far-fetching vision is to move towards an Internet of Genomes exploiting data indexing and crawling. The PIís background in distributed data, data modelling, query processing and search will drive a radical paradigm shift.",
+    "totalCost": "2500000",
+    "ecMaxContribution": "2500000",
+    "coordinator": "POLITECNICO DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 2500000
+        }
+    },
+    "calculatedTotalContribution": 2500000
+}

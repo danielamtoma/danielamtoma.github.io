@@ -1,0 +1,83 @@
+{
+    "rcn": "214253",
+    "acronym": "TYPHON",
+    "topics": "ICT-16-2017",
+    "title": "Polyglot and Hybrid Persistence Architectures for Big Data Analytics",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "The need for levels of availability and scalability beyond those supported by relational databases has led to the emergence of a new generation of purpose-specific databases grouped under the term NoSQL. In general, NoSQL databases are designed with horizontal scalability as a primary concern and deliver increased availability and fault-tolerance at a cost of temporary inconsistency and reduced durability of data. To balance the requirements for data consistency and availability, organisations increasingly migrate towards hybrid data persistence architectures comprising both relational and NoSQL databases. The consensus is that this trend will only become stronger in the future; critical data will continue to be stored in ACID (predominately relational) databases while non-critical data will be progressively migrated to high-availability NoSQL databases. Moreover, as the volume and the value of natural language content constantly grows, built-in support for sophisticated text processing in data persistence architectures is increasingly becoming essential.\n\nThe aim of TYPHON is to provide a methodology and an integrated technical offering for designing, developing, querying and evolving scalable architectures for persistence, analytics and monitoring of large volumes of hybrid (relational, graph-based, document-based, natural language etc.) data. TYPHON brings together research partners with a long track record of conducting internationally-leading research on software modelling, domain-specific languages, text mining and data migration, and of delivering research results in the form of robust and widely-used open-source software, industrial partners active in the automotive, earth observation, banking, and motorway operation domains, an industrial advisory board of world-class experts in the fields of databases, business intelligence and analytics, and large-scale data management, and a global consortium including more than 400 organisations from all sectors of IT.",
+    "totalCost": "4499447,5",
+    "ecMaxContribution": "4499447,5",
+    "coordinator": "X/OPEN COMPANY LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "ALPHA BANK ANONYMOS ETAIRIA;INSTITUT F‹R ANGEWANDTE SYSTEMTECHNIK BREMEN GMBH;STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA;EDGE HILL UNIVERSITY;UNIVERSITY OF YORK;UNIVERSITA DEGLI STUDI DELL'AQUILA;NEA ODOS ANONYMI ETERIA PARAHORISIS (Nea Odos Concessionaire S.A.);VOLKSWAGEN AG;STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN;ZORGIOS IOANNIS;UNIVERSITE DE NAMUR ASBL;GMV AEROSPACE AND DEFENCE SA",
+    "participantCountries": "EL;DE;NL;UK;IT;BE;ES",
+    "projectParticipants": {
+        "999653968": {
+            "orgId": "999653968",
+            "orgName": "STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA",
+            "ecContrib": 0
+        },
+        "999905004": {
+            "orgId": "999905004",
+            "orgName": "GMV AEROSPACE AND DEFENCE SA",
+            "ecContrib": 280904
+        },
+        "999891521": {
+            "orgId": "999891521",
+            "orgName": "UNIVERSITE DE NAMUR ASBL",
+            "ecContrib": 394781
+        },
+        "999634374": {
+            "orgId": "999634374",
+            "orgName": "INSTITUT FÜR ANGEWANDTE SYSTEMTECHNIK BREMEN GMBH",
+            "ecContrib": 388786
+        },
+        "941113595": {
+            "orgId": "941113595",
+            "orgName": "ALPHA BANK ANONYMOS ETAIRIA",
+            "ecContrib": 253616
+        },
+        "917796735": {
+            "orgId": "917796735",
+            "orgName": "ZORGIOS IOANNIS",
+            "ecContrib": 389645
+        },
+        "999859511": {
+            "orgId": "999859511",
+            "orgName": "UNIVERSITA DEGLI STUDI DELL'AQUILA",
+            "ecContrib": 349815
+        },
+        "999789283": {
+            "orgId": "999789283",
+            "orgName": "X/OPEN COMPANY LIMITED",
+            "ecContrib": 376869
+        },
+        "999978336": {
+            "orgId": "999978336",
+            "orgName": "UNIVERSITY OF YORK",
+            "ecContrib": 582526
+        },
+        "999624092": {
+            "orgId": "999624092",
+            "orgName": "STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN",
+            "ecContrib": 386841
+        },
+        "985065459": {
+            "orgId": "985065459",
+            "orgName": "NEA ODOS ANONYMI ETERIA PARAHORISIS (Nea Odos Concessionaire S.A.)",
+            "ecContrib": 211661
+        },
+        "999939924": {
+            "orgId": "999939924",
+            "orgName": "VOLKSWAGEN AG",
+            "ecContrib": 411014
+        },
+        "951860613": {
+            "orgId": "951860613",
+            "orgName": "EDGE HILL UNIVERSITY",
+            "ecContrib": 472989
+        }
+    },
+    "calculatedTotalContribution": 4499447
+}

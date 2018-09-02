@@ -1,0 +1,23 @@
+{
+    "rcn": "201508",
+    "acronym": "MIGRATE",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Cosserat phase field modelling and simulation of viscoplasticity induced grain boundary migration and recrystallisation in metallic polycrystals",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2018",
+    "objective": "The microstructure evolution of metallic alloys undergoing thermomechanical loads involves strain hardening, dynamic recovery, recrystallisation and grain growth. Predicting such phenomena is crucial for the control and optimisation of the mechanical properties of final components. Phase field approaches are used to simulate the change in grain morphology, growth and coalescence induced by grain boundary and stored energies due to prior viscoplastic deformation. On the other hand, continuum crystal viscoplasticity theory is well-established for finite element simulations of the deformation of polycrystalline aggregates. Currently, phase field and crystal plasticity models are used separately or successively: the field of stored elastoplastic energy computed from the crystal plasticity model serves as the initial energy distribution in the phase field simulation of subsequent grain morphology evolution. The objective of the project is to strongly couple both approaches so as to simulate dynamic grain morphology evolution during deformation processes. Each theory, i.e. the phase field model and the continuum crystal plasticity approach, possesses an evolution equation for the crystal lattice orientation. An essential driving force for lattice rotation evolution is the orientation gradient, the lattice curvature, which is the primary constitutive variable of the Cosserat continuum theory. The Cosserat theory offers a unique way of reconciling both approaches. The results of finite element simulations based on this new theory will be compared to experimental results, namely lattice orientation maps and strain field measurements, available for aluminium and copper polycrystals. The proposed model is the missing link between the physical description of grain boundary motion and macroscopic recrystallisation models. Such a paradigm has not yet been proposed and will open new ways for the understanding of elementary recrystallisation mechanisms in polycrystals.",
+    "totalCost": "173076",
+    "ecMaxContribution": "173076",
+    "coordinator": "ECOLE NATIONALE SUPERIEURE DES MINES DE PARIS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998584737": {
+            "orgId": "998584737",
+            "orgName": "ECOLE NATIONALE SUPERIEURE DES MINES DE PARIS",
+            "ecContrib": 173076
+        }
+    },
+    "calculatedTotalContribution": 173076
+}

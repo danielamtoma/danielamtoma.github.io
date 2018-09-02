@@ -1,0 +1,88 @@
+{
+    "rcn": "206573",
+    "acronym": "CHALLENGE",
+    "topics": "NMBP-02-2016",
+    "title": "3C-SiC Hetero-epitaxiALLy grown on silicon compliancE substrates and 3C-SiC substrates for sustaiNable wide-band-Gap powEr devices",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "Silicon carbide presents a high breakdown field (2-4 MV/cm) and a high energy band gap (2.3ñ3.2 eV), largely higher than for silicon. Within this frame, the cubic polytype of SiC (3C-SiC) is the only one that can be grown on a host substrate with the huge opportunity to grow only the silicon carbide thickness required for the targeted application. The possible growth on silicon substrate has remained for long period a real advantage in terms of scalability regarding the reduced diameter of hexagonal SiC wafer commercially available. Even the relatively narrow band-gap of 3C-SiC (2.3eV), which is often regarded as detrimental in comparison with other polytypes, can in fact be an advantage. The lowering of the conduction band minimum brings about a reduced density of states at the SiO2/3C-SiC interface and MOSFET on 3C-SiC has demonstrated the highest channel mobility of above 300 cm2/(Vxs) ever achieved on SiC crystals, prompting a remarkable reduction in the power consumption of these power switching devices.\nThe electrical activity of extended defects in 3C SiC is a major concern for electronic device functioning. To achieve viable commercial yields the mechanisms of defects must be understood and methods for their reduction developed..\nIn this project new approaches for the reduction of defects will be used, working on new compliance substrates that can help to reduce the stress and the defect density at the same time.  This growth process will be driven by numerical simulations of the growth and simulations of the stress reduction. \nThe structure of the final devices will be simulated using the appropriated numerical tools where new numerical model will be introduced to take into account the properties of the new material. Thanks to these simulations tools and the new material with low defect density, several devices that can work at high power and with low power consumption will be realized inside the project.",
+    "totalCost": "8048322,5",
+    "ecMaxContribution": "7997822,5",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "LINKOPINGS UNIVERSITET;ANVIL SEMICONDUCTORS LTD;FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG;CUSIC INC.;L.P.E. SPA;ASCATRON AB;NOVASiC SA;MOVERIM CONSULTING SPRL;SILVACO EUROPE LTD;THE UNIVERSITY OF WARWICK;UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA;ION BEAM SERVICES;STMICROELECTRONICS SRL",
+    "participantCountries": "SE;UK;DE;JP;IT;FR;BE",
+    "projectParticipants": {
+        "929518118": {
+            "orgId": "929518118",
+            "orgName": "ANVIL SEMICONDUCTORS LTD",
+            "ecContrib": 584375
+        },
+        "999923531": {
+            "orgId": "999923531",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+            "ecContrib": 349250
+        },
+        "888897696": {
+            "orgId": "888897696",
+            "orgName": "LINKOPINGS UNIVERSITET",
+            "ecContrib": 661041
+        },
+        "988255983": {
+            "orgId": "988255983",
+            "orgName": "MOVERIM CONSULTING SPRL",
+            "ecContrib": 309299
+        },
+        "983480188": {
+            "orgId": "983480188",
+            "orgName": "NOVASiC SA",
+            "ecContrib": 581146
+        },
+        "985764441": {
+            "orgId": "985764441",
+            "orgName": "ION BEAM SERVICES",
+            "ecContrib": 639125
+        },
+        "952906370": {
+            "orgId": "952906370",
+            "orgName": "ASCATRON AB",
+            "ecContrib": 880000
+        },
+        "999976784": {
+            "orgId": "999976784",
+            "orgName": "THE UNIVERSITY OF WARWICK",
+            "ecContrib": 783425
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 463334
+        },
+        "999995408": {
+            "orgId": "999995408",
+            "orgName": "FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG",
+            "ecContrib": 389875
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 1427812
+        },
+        "958976339": {
+            "orgId": "958976339",
+            "orgName": "L.P.E. SPA",
+            "ecContrib": 675625
+        },
+        "923939551": {
+            "orgId": "923939551",
+            "orgName": "CUSIC INC.",
+            "ecContrib": 0
+        },
+        "996839416": {
+            "orgId": "996839416",
+            "orgName": "SILVACO EUROPE LTD",
+            "ecContrib": 253515
+        }
+    },
+    "calculatedTotalContribution": 7997822
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "193547",
+    "acronym": "COMPUTED",
+    "topics": "ERC-StG-2014",
+    "title": "Computational User Interface Design",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2020",
+    "objective": "PROBLEM: Despite extensive research on human-computer interaction (HCI), no method exists that guarantees the optimal or even a provably good user interface (UI) design. The prevailing approach relies on heuristics and iteration, which can be costly and even ineffective, because UI design often involves combinatorially hard problems with immense design spaces, multiple objectives and constraints, and complex user behavior.\n\nOBJECTIVES: COMPUTED establishes the foundations for optimizing UI designs. A design can be automatically optimized to given objectives and constraints by using combinatorial optimization methods that deploy predictive models of user behavior as objective functions. Although previous work has shown some improvements to usability, the scope has been restricted to keyboards and widgets. COMPUTED researches methods that can vastly expand the scope of optimizable problems. First, algorithmic support is developed for acquiring objective functions that cover the main human factors in a given HCI task. Second, formal analysis of decision problems in UI design allows combating a broader range of design tasks with efficient and appropriate optimization methods. Third, a novel interactive UI optimization paradigm for UI designers promotes fast convergence to good results even in the face of uncertainty and incomplete knowledge.\n\nIMPACT: Combinatorial UI optimization offers a strong complement to the prevailing design approaches. Because the structured search process has a high chance of finding good solutions, optimization could improve the quality of interfaces used in everyday life. Optimization can also increase cost-efficiency, because reference to optimality can eliminate fruitless iteration. Moreover, because no preknowledge of UI design is required, even novices will be able to design great UIs. Even in ìmessy,î less well-defined problems, it may support designers by allowing them to delegate the solving of well-known sub-problems.",
+    "totalCost": "1499790",
+    "ecMaxContribution": "1499790",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

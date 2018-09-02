@@ -1,0 +1,23 @@
+{
+    "rcn": "210539",
+    "acronym": "MDDS",
+    "topics": "ERC-2016-ADG",
+    "title": "Mechanism Design for Data Science",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "The way data science algorithms and techniques, central to the Internet and on-line media, are designed need to be revolutionized. Current designs ignore participants' strategic incentives. Our vision is the establishment of an entirely new repertoire  of incentive-compatible data science algorithms and techniques, obtained through pioneering the application of game-theoretic mechanism design for data science.  \n\nGame theory is the branch of mathematics dealing with the modeling and analysis of  multi-agent interactions.  \n Mechanism design is the part of game theory that deals with the design of protocols/algorithms for environments consisting of self-motivated participants. Mechanism design has been central to bridging computer science and  game theory. It has been widely applied to electronic commerce, advertising and routing networks, and led to significant contributions. \nOn the other hand, data science is flowering, with major applications in search and information retrieval, on-line recommendation systems, clustering and segmentation, and social networks analysis. \nQuite surprisingly, although the incentives of publishers/firms/customers in such data science contexts are of great importance, mechanism design in the related settings has been almost completely neglected.  \nThe proposal aims at building theoretical foundations, providing algorithms, as well as validating through experiments, a fundamental bridge between mechanism design and data science. The ultimate success of this research would be the replacement of classical relevance ranking, segmentation, on-line explore \\& exploit, and influencers' detection  algorithms by incentive-compatible ones, creating the next generation of data science algorithms..",
+    "totalCost": "2493705",
+    "ecMaxContribution": "2493705",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 2493705
+        }
+    },
+    "calculatedTotalContribution": 2493705
+}

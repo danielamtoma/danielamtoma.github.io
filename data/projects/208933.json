@@ -1,0 +1,23 @@
+{
+    "rcn": "208933",
+    "acronym": "PADECOT",
+    "topics": "MSCA-IF-2016",
+    "title": "PArtial Differential Equation model-based COntrol of Traffic flow",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "A new framework is introduced for control and estimation of traffic flow in freeways and arterials. In the new methodology,\nfeedforward and feedback control designs are developed, based on continuum in time and space traffic-flow models, which\nassign to the traffic flow the desired shape, with an a priori prescribed convergence rate and for any initial traffic profile. The\nnovel control and estimation algorithms require minimum amount of information since they utilize measurements at the\nentries and exits of the freeway and arterial links. The designs are accompanied with tools for verification that are\nintroduced, which provide quantified actual performance guarantees and robustness margins of the proposed algorithms.\nThe methodology is validated in simulation, using fictitious and real data of traffic, and/or in a real traffic system.",
+    "totalCost": "152653,2",
+    "ecMaxContribution": "152653,2",
+    "coordinator": "POLYTECHNEIO KRITIS",
+    "coordinatorCountry": "EL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999824300": {
+            "orgId": "999824300",
+            "orgName": "POLYTECHNEIO KRITIS",
+            "ecContrib": 152653
+        }
+    },
+    "calculatedTotalContribution": 152653
+}

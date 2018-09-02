@@ -1,0 +1,23 @@
+{
+    "rcn": "211983",
+    "acronym": "Imaging-XChem",
+    "topics": "ERC-2017-PoC",
+    "title": "Imaging-XChem: A computational package for ultrafast electronic control in chemistry",
+    "startDate": "01/11/2017",
+    "endDate": "30/04/2019",
+    "objective": "Commercial quantum-chemistry computational packages are widely used in science and chemical industry to predict the properties and reactivity of molecules and to design new compounds and drugs that can eventually be synthesized in the laboratory. The software developed in the framework of the ERC AdG project XCHEM is aimed at providing a full quantum mechanical description of a large variety of chemical processes that cannot be addressed by standard quantum chemistry packages, namely those processes in which molecular ionization takes place. An accurate description of molecular ionization is crucial to develop new applications and make reliable predictions in emerging scientific disciplines, such as attochemistry, single-molecule imaging, and coherent attosecond control of chemical reactions. \nAs it happened with traditional quantum chemistry packages, there is now the need to produce a documented and friendly version of this newly developed software in order to facilitate its widespread use by other scientists, either theoreticians or experimentalists working at huge European infrastructures, and by private sector companies and other stakeholders.\nThis project aims at providing a powerful tool to describe molecular ionization by attosecond laser pulses by transforming the outputs of the ERC AdG XCHEM project in a service-oriented software system. Main efforts will be directed to (i) document, optimize and test the codes under different architectures, (ii) implement a user interface in order to simplify its future use, (iii) explore different itineraries to ensure a proper exploitation of the product, and (iv) prepare training sessions and material to facilitate the incorporation of this new technology to less expert users.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSIDAD AUTONOMA DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999861354": {
+            "orgId": "999861354",
+            "orgName": "UNIVERSIDAD AUTONOMA DE MADRID",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

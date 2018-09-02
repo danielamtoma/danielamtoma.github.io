@@ -1,0 +1,28 @@
+{
+    "rcn": "206710",
+    "acronym": "ULPIoT",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Ultra-Low Power and Highly-Scalable Interfaces for the Internet of Things",
+    "startDate": "01/02/2017",
+    "endDate": "28/02/2020",
+    "objective": "The era of the Internet of Things (IoT), in which every physical entity includes power-autonomous embedded electronics, capturing relevant information by sensors and interacting with objects and humans in a globally interconnected network, is bringing about new challenges in Integrated Circuit (IC) design. The performance of ICs in terms of integration density, power consumption and cost, in fact, is the only limiting factor to the feasibility and/or to the widespread diffusion of IoT-based solutions.\nDigital ICs in the most recent nanoscale CMOS technologies are keeping the pace of IoT requirements. On the contrary, the implementation of analog functions, which are however essential to acquire data from sensors, thus enabling the interactions of IoT nodes with the surrounding environment, is nowadays the real bottleneck and the most serious concern and limiting factor for the further development of IoT applications.\nIn the foreseeable future, the planned device scaling and voltage reduction down to near threshold (e.g. 0.4-0.5V) makes the design of analog circuits extremely hard, in view of the degradation of signal-to-noise ratio, matching and linearity. Despite of device shrinking, traditional low-voltages analog circuits do not really scale down in size, and occupy a more and more relevant percentage (i.e., cost) of the die area.\nIn this scenario, the proposed research activity is intended to substantially enhance the scalability of analog blocks with technology and voltage by re-thinking analog functions in ICs in digital terms. In a new cross-domain approach, design and testing methodologies from the digital world will be extended and frontier design concepts like near-threshold operation further exploited.\nThe effectiveness of the proposed approach will be verified and validated on IC demonstrators and with reference to a full SoC for wearable electronics applications in the development of novel IoT solutions.",
+    "totalCost": "247728,6",
+    "ecMaxContribution": "247728,6",
+    "coordinator": "POLITECNICO DI TORINO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 247729
+        },
+        "999869696": {
+            "orgId": "999869696",
+            "orgName": "NATIONAL UNIVERSITY OF SINGAPORE PUBLIC COMPANY LIMITED BY GUARANTEE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 247729
+}

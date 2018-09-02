@@ -1,0 +1,23 @@
+{
+    "rcn": "195973",
+    "acronym": "MALCOD",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Machine Learning for Computational Dynamics",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2017",
+    "objective": "The proposed research aims to establish groundbreaking new methods for the numerical analysis of dynamical systems by using tools from the field of machine learning. The intersection of the fields of machine learning and computational dynamics is largely unexplored, and this proposal aims at the first systematic development of a unified theory, with a view to applying the ideas to problems in the commercial and energy sectors. Recent results by the applicant in set approximation for control systems demonstrate the power of this approach, the results of which significantly improve on the current state-of-the-art methods for set approximation. This approach is based on a functional analytic framework frequently exploited in modern machine learning methods: the reproducing kernel Hilbert space (RKHS). Algorithms are designed to seek functions in the RKHS that characterise important dynamical properties of the system. This highly interdisciplinary research programme will develop a powerful and unified approach to create new algorithms that can either use input data generated from the evolution equations (if they are available) or measured data obtained directly from applications.\n\nThe host institution PIK is a transdisciplinary host institution focused on climate modeling and sustainability. The tools developed during the course of the fellowship will be applied to the problem of basin stability and synchronisation of power grid networks. This proposal also includes two secondment phases to be spent at the non-academic partner organisation Ambrosys GmbH (AMB). There, the applicant will apply the research results to problems in image rendering in movies and turbulent flow across aerofoils, which are commercial applications already studied at AMB. The applicant will benefit from training in climate modeling and complex systems at PIK, and industrial training during the secondment phases.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "POTSDAM INSTITUT FUER KLIMAFOLGENFORSCHUNG",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999464042": {
+            "orgId": "999464042",
+            "orgName": "POTSDAM INSTITUT FUER KLIMAFOLGENFORSCHUNG",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

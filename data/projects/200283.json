@@ -1,0 +1,63 @@
+{
+    "rcn": "200283",
+    "acronym": "PrECISE",
+    "topics": "PHC-02-2015",
+    "title": "PERSONALIZED ENGINE FOR CANCER INTEGRATIVE STUDY AND EVALUATION",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Despite of their great promise, high-throughput technologies in cancer research have often failed to translate to major therapeutic advances in the clinic. One challenge has been tumour heterogeneity, where multiple competing subclones coexist within a single tumour. Genomic heterogeneity renders it difficult to identify all driving molecular alterations, and thus results in therapies that only target subsets of aggressive tumour cells. Another challenge lies in the integration of multiple types of molecular data into mathematical disease models that can make actionable clinical statements.\n\nWe aim to develop predictive computational technology that can exploit molecular and clinical data to improve our understanding of disease mechanisms and to inform clinicians about optimized strategies for therapeutic intervention. We propose to focus on prostate cancer, a leading cause of cancer death amongst men in Europe, but also prone to over-treatment. Our approach combines the exploitation of genomic, transcriptomic, proteomic, and clinical data in primary and metastatic tumours, prospective cohorts of well characterized prostate cancer patients, drug screenings in cell lines, and the use of the Watson technology, a last generation cognitive computer developed at IBM. \n\nThe translational objective of this study is to develop technology for identifying disease mechanisms and produce treatment recommendations for individual patients based on a therapeutic biomarker panel. The proposed software framework will be accessible through a graphical interface that will facilitate its dissemination and use by researchers, clinicians, and biomedical industries. The framework will provide intuitive tools to deposit, share, analyze, and visualize molecular and clinical data; as well as to infer prognosis, elucidate implicated mechanisms and recommend therapy accordingly. This software framework will serve as a proof of concept for future development by industrial partners in Europe.",
+    "totalCost": "5695712,5",
+    "ecMaxContribution": "3090312,5",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "UNIVERSITAETSKLINIKUM AACHEN;IBM RESEARCH GMBH;BAYLOR COLLEGE OF MEDICINE;ASTRIDBIO TECHNOLOGIES KFT;UNIVERSITAT ZURICH;INSTITUT CURIE;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;TECHNISCHE UNIVERSITAT DARMSTADT",
+    "participantCountries": "DE;CH;US;HU;FR",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 539375
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "999896759": {
+            "orgId": "999896759",
+            "orgName": "INSTITUT CURIE",
+            "ecContrib": 535625
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "947815907": {
+            "orgId": "947815907",
+            "orgName": "ASTRIDBIO TECHNOLOGIES KFT",
+            "ecContrib": 475000
+        },
+        "989351986": {
+            "orgId": "989351986",
+            "orgName": "BAYLOR COLLEGE OF MEDICINE",
+            "ecContrib": 561250
+        },
+        "999897632": {
+            "orgId": "999897632",
+            "orgName": "UNIVERSITAETSKLINIKUM AACHEN",
+            "ecContrib": 620938
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 358125
+        },
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3090313
+}

@@ -1,0 +1,17 @@
+{
+    "rcn": "216318",
+    "acronym": "MAESTRO",
+    "topics": "FETHPC-02-2017",
+    "title": "Middleware for memory and data-awareness in workflows",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2021",
+    "objective": "Maestro will build a data-aware and memory-aware middleware framework that addresses ubiquitous problems of data movement in complex memory hierarchies and at many levels of the HPC software stack.\n\nThough HPC and HPDA applications pose a broad variety of efficiency challenges, it would be fair to say that the performance of both has become dominated by data movement through the memory and storage systems, as opposed to floating point computational capability. Despite this shift, current software technologies remain severely limited in their ability to optimise data movement. The Maestro project addresses what it sees as the two major impediments of modern HPC software:\n\n1. Moving data through memory was not always the bottleneck. The software stack that HPC relies upon was built through decades of a different situation ñ when the cost of performing floating point operations (FLOPS) was paramount. Several decades of technical evolution built a software stack and programming models highly fit for optimising floating point operations but lacking in basic data handling functionality. We characterise the set of technical issues at missing data-awareness.\n \n2. Software rightfully insulates users from hardware details, especially as we move higher up the software stack. But HPC applications, programming environments and systems software cannot make key data movement decisions without some understanding of the hardware, especially the increasingly complex memory hierarchy. With the exception of runtimes, which treat memory in a domain-specific manner, software typically must make hardware-neutral decisions which can often leave performance on the table  . We characterise this issue as missing memory-awareness.\n\nMaestro proposes a middleware framework that enables memory- and data-awareness.",
+    "totalCost": "3989491,25",
+    "ecMaxContribution": "3989491,25",
+    "coordinator": "FORSCHUNGSZENTRUM JULICH GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "SEAGATE SYSTEMS UK LIMITED;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;APPENTRA SOLUTIONS SL;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;CRAY COMPUTER GMBH",
+    "participantCountries": "UK;FR;ES;CH",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

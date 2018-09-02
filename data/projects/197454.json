@@ -1,0 +1,28 @@
+{
+    "rcn": "197454",
+    "acronym": "UPP",
+    "topics": "IT-1-2015-1",
+    "title": "STPRMS - Sustainable Truck Parking Reservation Management System",
+    "startDate": "01/07/2015",
+    "endDate": "31/10/2015",
+    "objective": "The daily need for truck parking spaces on motor-ways in Germany gets worse. Truck drivers search 1.5 hours to find a parking and drive to 8 parking spaces. Results: exceeding of allowed driving time, parking in gateways, accidents. In Germany 30,000 truck parking spaces are missing. Even with new build 11,000 spaces until 2015, the situation will not change dramatically. Until 2030 the commercial transport shall increase up to 39%. A truck parking reservation system is therefore necessary and overdue. Previous reservation systems like Truck Parking Europe could not be established successfully because of missing payment system, few participants and a huge personal effort at the rest stop to report free parking spaces. Apps like Fernfahrer from ETM help the truck driver to plan routes and find rest stops along the route, but without reservation option, there is just information. We developed a totally new system of reservation and payment of truck parking spaces at rest stops. Therefore we co-operate with 2 market leading partners: ETM with their ëFernfahrer-Appí and 40,000 truck drivers using it, as well as ATRP e.G. with 100 rest stops in an own prototype App. We revolutionize the market with using the existing surface of the Fernfahrer-App to plan the route. Now drivers find 3,000 parking spaces to reserve which we integrated from the e.G. The payment is done per SMS. No bank information is needed just cell phone number and provider. The reservation will then be forwarded to the rest stop, where the operator block the parking space with caps. The annual turnover with just 5 days of booking with reservation fee of 5.50 Ä will be 3.9 Million Ä. An expansion of the system to overall Europe is possible and planned for Phase 2. The main challenges are to develop a strategy for European commercialization and to build security parking spaces or electronic dispenser in Phase 2.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "UNSERPARKPLATZ GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "AUTOHOF TANKEN RASTEN PARKEN EG",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "936474958": {
+            "orgId": "936474958",
+            "orgName": "AUTOHOF TANKEN RASTEN PARKEN EG",
+            "ecContrib": 0
+        },
+        "936735015": {
+            "orgId": "936735015",
+            "orgName": "UNSERPARKPLATZ GMBH",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

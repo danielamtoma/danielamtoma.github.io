@@ -1,0 +1,23 @@
+{
+    "rcn": "203242",
+    "acronym": "CSP-Infinity",
+    "topics": "ERC-CoG-2015",
+    "title": "Homogeneous Structures, Constraint Satisfaction Problems, and Topological Clones",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "The complexity of constraint satisfaction problems (CSPs) is a field in rapid development, and involves central questions in graph homomorphisms, finite model theory, reasoning in artificial intelligence, and, last but not least, universal algebra. In previous work, it was shown that a substantial part of the results and tools for the study of the computational complexity of CSPs can be generalised to infinite domains when the constraints are definable over a homogeneous structure. There are many computational problems, in particular in temporal and spatial reasoning, that can be modelled in this way, but not over finite domains. Also in finite model theory and descriptive complexity, CSPs over infinite domains arise systematically as problems in monotone fragments of existential second-order logic.\n\nIn this project, we will advance in three directions:\n(a) Further develop the universal-algebraic approach for CSPs over homogeneous structures. E.g., provide evidence for a universal-algebraic tractability conjecture for such CSPs.\n(b) Apply the universal-algebraic approach. In particular, classify the complexity of all problems in guarded monotone SNP, a logic discovered independently in finite model theory and ontology-based data-access.\n(c) Investigate the complexity of CSPs over those infinite domains that are most relevant in computer science, namely the integers, the rationals, and the reals. Can we adapt the universal-algebraic approach to this setting?",
+    "totalCost": "1416250",
+    "ecMaxContribution": "1416250",
+    "coordinator": "TECHNISCHE UNIVERSITAET DRESDEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 1416250
+        }
+    },
+    "calculatedTotalContribution": 1416250
+}

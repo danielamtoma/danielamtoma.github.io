@@ -1,0 +1,63 @@
+{
+    "rcn": "197940",
+    "acronym": "EXTRA",
+    "topics": "FETHPC-1-2014",
+    "title": "Exploiting eXascale Technology with Reconfigurable Architectures",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "To handle the stringent performance requirements of future exascale High Performance Computing (HPC) applications, HPC systems need ultra-efficient heterogeneous compute nodes. To reduce power and increase performance, such compute nodes will require reconfiguration as an intrinsic feature, so that specific HPC application features can be optimally accelerated at all times, even if they regularly change over time. \nIn the EXTRA project, we create a new and flexible exploration platform for developing reconfigurable architectures, design tools and HPC applications with run-time reconfiguration built-in from the start. The idea is to enable the efficient co-design and joint optimization of architecture, tools, applications, and reconfiguration technology in order to prepare for the necessary HPC hardware nodes of the future.\nThe project EXTRA covers the complete chain from architecture up to the application:\nï More coarse-grain reconfigurable architectures that allow reconfiguration on higher functionality levels and therefore provide much faster reconfiguration than at the bit level.\nï The development of just-in time synthesis tools that are optimized for fast (but still efficient) re-synthesis of application phases to new, specialized implementations through reconfiguration.\nï The optimization of applications that maximally exploit reconfiguration.\nï Suggestions for improvements to reconfigurable technologies to enable the proposed reconfiguration of the architectures.\nIn conclusion, EXTRA focuses on the fundamental building blocks for run-time reconfigurable exascale HPC systems: new reconfigurable architectures with very low reconfiguration overhead, new tools that truly take reconfiguration as a design concept, and applications that are tuned to maximally exploit run-time reconfiguration techniques.\nOur goal is to provide the European platform for run-time reconfiguration to maintain Europeís competitive edge and leadership in run-time reconfigurable computing.",
+    "totalCost": "3989931,25",
+    "ecMaxContribution": "3989930,5",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;TELECOMMUNICATION SYSTEMS INSTITUTE;SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA;RUHR-UNIVERSITAET BOCHUM;POLITECNICO DI MILANO;MAXELER TECHNOLOGIES LIMITED;UNIVERSITEIT VAN AMSTERDAM",
+    "participantCountries": "UK;EL;DE;IT;NL",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 559080
+        },
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 305812
+        },
+        "999611094": {
+            "orgId": "999611094",
+            "orgName": "TELECOMMUNICATION SYSTEMS INSTITUTE",
+            "ecContrib": 420000
+        },
+        "968922816": {
+            "orgId": "968922816",
+            "orgName": "MAXELER TECHNOLOGIES LIMITED",
+            "ecContrib": 415000
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 451250
+        },
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 476250
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 530296
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 533836
+        }
+    },
+    "calculatedTotalContribution": 3691524
+}

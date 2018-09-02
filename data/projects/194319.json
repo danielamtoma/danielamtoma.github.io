@@ -1,0 +1,63 @@
+{
+    "rcn": "194319",
+    "acronym": "MIKELANGELO",
+    "topics": "ICT-07-2014",
+    "title": "MIcro KErneL virtualizAtioN for hiGh pErfOrmance cLOud and hpc systems",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "MIKELANGELO is a project, targeted to disrupt the core underlying technologies of Cloud computing, enabling even bigger uptake of Cloud computing, HPC in the Cloud and Big Data technologies under one umbrella. The vision of MIKELANGELO is to improve responsiveness, agility and security of the virtual infrastructure through packaged applications, using lean guest operating system OSv and superfast hypervisor SuperKVM. In short, the work will concentrate on improvement of virtual I/O in KVM, using additional virtio expertise, integrated with the light-weight operating system OSv and with enhanced Security. The HPC in the Cloud focus will be provided through involvement of a large HPC centre, with the ability and business need to cloudify their HPC business. The Consortium consists of hand-picked experts (e.g., the original creator of KVM - Avi Kivity) who participate in the overall effort to reduce one of the last performance hurdles in the virtualisation (I/O). Other layers of inefficiency are addressed through OSv (thin operating system) and all packaged under the OpenStack or OpenNebula. Such approach will allow for use of MIKELANGELO stack on heterogeneous infrastructures, with high responsiveness, agility and better security. The targeted audience are primarily SMEs (e.g. simulation dependent SMEs). Finally, the use-cases have clear owners, thus directly contributing to the exploitation.",
+    "totalCost": "5993419",
+    "ecMaxContribution": "5993419",
+    "coordinator": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO",
+    "coordinatorCountry": "SI",
+    "participants": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH;PIPISTREL PODJETJE ZA ALTERNATIVNO LETALSTVO DOO AJDOVSCINA;BEN-GURION UNIVERSITY OF THE NEGEV;INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED;UNIVERSITAET STUTTGART;SCYLLA DB LTD;GESELLSCHAFT FUR WISSENSCHAFTLICHE DATENVERARBEITUNG MBH GOTTINGEN;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+    "participantCountries": "DE;SI;IL;IE",
+    "projectParticipants": {
+        "942445017": {
+            "orgId": "942445017",
+            "orgName": "SCYLLA DB LTD",
+            "ecContrib": 1029106
+        },
+        "999773375": {
+            "orgId": "999773375",
+            "orgName": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO",
+            "ecContrib": 718525
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 1148750
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 696250
+        },
+        "987086066": {
+            "orgId": "987086066",
+            "orgName": "INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED",
+            "ecContrib": 737313
+        },
+        "958202473": {
+            "orgId": "958202473",
+            "orgName": "GESELLSCHAFT FUR WISSENSCHAFTLICHE DATENVERARBEITUNG MBH GOTTINGEN",
+            "ecContrib": 534225
+        },
+        "956736415": {
+            "orgId": "956736415",
+            "orgName": "PIPISTREL PODJETJE ZA ALTERNATIVNO LETALSTVO DOO AJDOVSCINA",
+            "ecContrib": 122500
+        },
+        "999846222": {
+            "orgId": "999846222",
+            "orgName": "BEN-GURION UNIVERSITY OF THE NEGEV",
+            "ecContrib": 371125
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 635625
+        }
+    },
+    "calculatedTotalContribution": 5993419
+}

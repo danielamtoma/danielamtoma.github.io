@@ -1,0 +1,43 @@
+{
+    "rcn": "213200",
+    "acronym": "ADAPT",
+    "topics": "SESAR-ER3-03-2016",
+    "title": "Advanced prediction models for flexible trajectory-based operations",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2019",
+    "objective": "The ADAPT project proposes strategic models to predict the volume, flexibility and complexity of traffic demand considering both individual flights and network infrastructure (i.e. sectors and airports). These models are conducive to trajectory-based operations and are expected to provide benefits for all stakeholders: air navigation service providers could adjust their service provision, while airspace users would know in advance how much flexibility around the agreed trajectories they have to efficiently adjust the execution of their operations. At the strategic level, the impact of early flight information sharing on the identification of potential network bottlenecks and the degree of flexibility of all flights will be determined. At the tactical level, the extent to which strategically assessed pre-departure and en-route flight flexibility mitigates actual network congestion, will be evaluated. To this end, novel models and metrics will be used to quantify potential traffic congestion and flight flexibility. The identified critical elements (i.e., sectors, airports, and flights) will be a starting point for possible resource allocation adjustment scenarios (e.g. adding capacity, introducing pricing mechanisms to alleviate demand-capacity imbalances at the strategic level, speed corrections at the tactical level) for enhanced ATM performance. In order to demonstrate the operational advantages (e.g. reduced operational costs) of the use of ADAPT models, they will be tested and validated through several scenarios. A key element of a project is a continuous consultation process through the establishment and close collaboration with an Advisory Board, composed of interested stakeholders.",
+    "totalCost": "997250",
+    "ecMaxContribution": "997250",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI TRIESTE",
+    "coordinatorCountry": "IT",
+    "participants": "DEEP BLUE SRL;THE UNIVERSITY OF WESTMINSTER LBG;UNIVERSITA DEGLI STUDI DI PALERMO;TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "IT;UK;NL",
+    "projectParticipants": {
+        "999734284": {
+            "orgId": "999734284",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PALERMO",
+            "ecContrib": 191312
+        },
+        "999858250": {
+            "orgId": "999858250",
+            "orgName": "THE UNIVERSITY OF WESTMINSTER LBG",
+            "ecContrib": 220750
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 232812
+        },
+        "998325941": {
+            "orgId": "998325941",
+            "orgName": "DEEP BLUE SRL",
+            "ecContrib": 140000
+        },
+        "999842051": {
+            "orgId": "999842051",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRIESTE",
+            "ecContrib": 212375
+        }
+    },
+    "calculatedTotalContribution": 997249
+}

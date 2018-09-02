@@ -1,0 +1,53 @@
+{
+    "rcn": "204279",
+    "acronym": "HPEM2GAS",
+    "topics": "FCH-02.2-2015",
+    "title": "High Performance PEM Electrolyzer for Cost-effective Grid Balancing Applications",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2019",
+    "objective": "The next generation water electrolysers must achieve better dynamic behaviour (rapid start-up, fast response, wider load and temperature ranges) to provide superior grid-balancing services and thus address the steep increase of intermittent renewables interfaced to the grid. The HPEM2GAS project will develop a low cost PEM electrolyser optimised for grid management through both stack and balance of plant innovations, culminating in a six month field test of an advanced 180 (nominal)-300 kW (transient) PEM electrolyser. The electrolyser developed will implement an advanced BoP (power tracking electronics, high efficiency AC/DC converters, high temperature ion exchange cartridges, advanced safety integrated system, new control logic) and improved stack design and components (injection moulded components, flow-field free bipolar plates, AquivionÆ membranes, core-shell/solid solution electrocatalysts). Several strategies are applied to lower the overall cost, thus enabling widespread utilisation of the technology. These primarily concern a three-fold increase in current density (resulting in the proportional decrease in capital costs) whilst maintaining cutting edge efficiency, a material use minimisation approach in terms of reduced membrane thickness whilst keeping the gas cross-over low, and reducing the precious metal loading. Further, improving the stack lifetime to 10 years and a reduction of the system complexity without compromising safety or operability. All these solutions contribute significantly to reducing the electrolyser CAPEX and OPEX costs.  HPEM2GAS develops key technologies from TRL4 to TRL6, demonstrating them in a 180-300 kW PEM electrolyser system in a power-to-gas field test; delivers a techno-economic analysis and an exploitation plan to bring the innovations to market. The consortium comprises a system integrator, suppliers of membranes, catalysts and MEAs, a stack developer, an independent expert on standardization and an end-user.",
+    "totalCost": "2654250",
+    "ecMaxContribution": "2499999",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "STADTWERKE EMDEN GMBH;ITM POWER (TRADING) LIMITED;UNIRESEARCH BV;HOCHSCHULE EMDEN/LEER;SOLVAY SPECIALTY POLYMERS ITALY SPA;EWII FUEL CELLS A/S",
+    "participantCountries": "DE;UK;NL;IT;DK",
+    "projectParticipants": {
+        "986039921": {
+            "orgId": "986039921",
+            "orgName": "HOCHSCHULE EMDEN/LEER",
+            "ecContrib": 72525
+        },
+        "998129225": {
+            "orgId": "998129225",
+            "orgName": "EWII FUEL CELLS A/S",
+            "ecContrib": 299806
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 415156
+        },
+        "999932455": {
+            "orgId": "999932455",
+            "orgName": "SOLVAY SPECIALTY POLYMERS ITALY SPA",
+            "ecContrib": 300000
+        },
+        "974052370": {
+            "orgId": "974052370",
+            "orgName": "ITM POWER (TRADING) LIMITED",
+            "ecContrib": 915650
+        },
+        "926624802": {
+            "orgId": "926624802",
+            "orgName": "STADTWERKE EMDEN GMBH",
+            "ecContrib": 336875
+        },
+        "999734963": {
+            "orgId": "999734963",
+            "orgName": "UNIRESEARCH BV",
+            "ecContrib": 159987
+        }
+    },
+    "calculatedTotalContribution": 2499999
+}

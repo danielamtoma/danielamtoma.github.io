@@ -1,0 +1,23 @@
+{
+    "rcn": "209527",
+    "acronym": "MAGNET",
+    "topics": "MSCA-IF-2016",
+    "title": "Models and Algorithms for Graph centrality grounded on Nonlinear Eigenvalues Techniques",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2019",
+    "objective": "Models and Algorithms for Graph centrality grounded on Nonlinear Eigenvalues Techniques\n\nThe main objective of the project is to use nonlinear eigenvalue equations to model the importance of components in complex, large-scale and time-varying networks. Based on the nonlinear Perron-Frobenius theory, we will develop the theory to rigorously formalize the model from a mathematical viewpoint (existence, uniqueness, maximality). Based on the nonlinear spectral method for multi-homogeneous functions, we will develop numerical methods to compute the vector of nonlinear importances of the nodes. We will develop convergence analysis and quality guarantees for the algorithms and will use the methods to investigate the influence of nodes in large-scale networks arising from real-world applications. \nThese theoretical and algorithmic advances will contribute the highly active research field of network centrality.\nCurrent tools for network centrality are based on linear models, and they can be shown to be inadequate in many realistic scenarios. The new methods developed here will have provably better performance. In addition to theoretical validation, the tools will be tested and refined on realistic data sets supplied by collaborators and external partners associated with the Institute for Future Cities at the University of Strathclyde.\n\nThe Researcher's expertise include nonlinear eigenvalue theory, graph theory and their use in machine learning. The Host and the research group at University of Strathclyde have strong internationally recognized experience in mathematics of network science and numerical mathematics. Thus the two-way transfer of knowledge will ensure to reach the research goals with highest quality and impact. Moreover, this will represent a great training opportunity for the researcher to jump-start his academic career.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "UNIVERSITY OF STRATHCLYDE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974068": {
+            "orgId": "999974068",
+            "orgName": "UNIVERSITY OF STRATHCLYDE",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

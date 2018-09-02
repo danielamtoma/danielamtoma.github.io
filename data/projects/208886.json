@@ -1,0 +1,23 @@
+{
+    "rcn": "208886",
+    "acronym": "HiPPiE_at_LHC",
+    "topics": "MSCA-IF-2016",
+    "title": "High Precision PDFs for the precision Era at the Large Hadron Collider",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2019",
+    "objective": "High precision is the next frontier for the Large Hadron Collider (LHC). It requires accurate and precise theoretical predictions. The goal of this project is twofold: establish a statistically solid framework for estimating the uncertainty on theoretical predictions, and producing more precise higher-order parton distribution functions (PDFs).\n\nTheoretical predictions are not exact, and carry therefore an uncertainty due to the approximate method (perturbation theory) used to compute physical observables. Assessing this uncertainty is not obvious, and standard techniques are not always reliable and lack of statistical interpretation, limiting their usability. HiPPiE@LHC will overcome these problems by proposing a Bayesian approach to assess theory uncertainties, which will make use of all the information available on the perturbative expansion and will provide a probability distribution for the unknown exact result. The approach will be similar to the Cacciari-Houdeau method, but will contain several conceptual and technical improvements, which will effectively make it more reliable.\n\nThen, new PDFs will be fitted from data using higher-order theoretical predictions, mostly based on all-order resummations, and including for the first time theory uncertainties. The computation of all the new ingredients needed to achieve this task will be part of the project. This also include the development of novel techniques (e.g., the extension of threshold resummation to fully differential level). These additions will increase the reliability and quality of the fit. The new PDFs will represent a substantial improvement over previous generations, and will be crucial for achieving higher precision in theoretical predictions.\n\nThe outcome of this project will be a milestone for the High-Energy Physics community, and will open the door to high precision phenomenology in the next phase of the LHC.",
+    "totalCost": "180277,2",
+    "ecMaxContribution": "180277,2",
+    "coordinator": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 180277
+        }
+    },
+    "calculatedTotalContribution": 180277
+}

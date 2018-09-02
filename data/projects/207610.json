@@ -1,0 +1,23 @@
+{
+    "rcn": "207610",
+    "acronym": "MODMAT",
+    "topics": "ERC-2016-COG",
+    "title": "Nonequilibrium dynamical mean-field theory: From models to materials",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2022",
+    "objective": "Pump-probe techniques are a powerful experimental tool for the study of strongly correlated electron systems. The strategy is to drive a material out of its equilibrium state by a laser pulse, and to measure the subsequent dynamics on the intrinsic timescale of the electron, spin and lattice degrees of freedom. This allows to disentangle competing low-energy processes along the time axis and to gain new insights into correlation phenomena. Pump-probe experiments have also shown that external stimulation can induce novel transient states, which raises the exciting prospect of nonequilibrium control of material properties. \n   \nThe ab-initio simulation of correlated materials is challenging, and the prediction of a material's behavior under nonequilibrium conditions is an even more ambitious task. In the equilibrium context, a significant recent advance is the implementation of dynamical mean field theory (DMFT) schemes capable of treating dynamically screened interactions. These techniques have enabled the combination of the GW ab-initio method and DMFT in realistic contexts. Another recent development is the nonequilibrium extension of DMFT, which has been established as a flexible tool for the simulation of time-dependent phenomena in correlated lattice systems.     \n\nThe goal of this research project is to combine these two recently developed computational techniques into a GW and nonequilibrium DMFT based ab-initio framework capable of delivering quantitative and material-specific predictions of the nonequilibrium properties of correlated compounds. The new formalism will be used to study photoinduced phasetransitions, unconventional superconductors with driven phonons, and strongly correlated devices such as Mott insulating solar cells.",
+    "totalCost": "1854321",
+    "ecMaxContribution": "1854321",
+    "coordinator": "UNIVERSITE DE FRIBOURG",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999855728": {
+            "orgId": "999855728",
+            "orgName": "UNIVERSITE DE FRIBOURG",
+            "ecContrib": 1854321
+        }
+    },
+    "calculatedTotalContribution": 1854321
+}

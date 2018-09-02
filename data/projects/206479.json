@@ -1,0 +1,23 @@
+{
+    "rcn": "206479",
+    "acronym": "SMILE",
+    "topics": "ERC-2016-STG",
+    "title": "Statistical Mechanics of Learning",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "'Computers are now able to recognize people, to tell a dog from a cat, or to process speech so efficiently that they can answer complicated questions. This was still impossible only a decade ago. This progress is largely due to the development of the artificial ìdeep-learned neural networksî. Nowadays, ìdeep learningî is revolutionizing our life, prompting an economic battle between internet giants and the creation of a myriad of start-ups. As attractive and performant as it is, however, many agree that deep learning is largely an empirical field that lacks a theoretical understanding of its capacity and limitations. The algorithms used to 'train' these networks explore a very complex and non-convex energy landscape that eludes most of the present theoretical methodology in machine learning. The behavior of the dynamics in such complicated 'glassy' landscape is, however, similar to those that have been studied for decades in the physics of disordered systems such as molecular and spin glasses.\n\nIn this project we pursue this analogy and use advanced methods of disordered systems to develop a statistical mechanics approach to deep neural networks. Our first main objective is to create a model for learning features from data via a multi-level neural network. We then regard this model as a kind of a spin glass system amenable to an exact asymptotic analysis via the replica and cavity method. Analyzing its phase diagram and phase transitions shall bring theoretical understanding of the principles behind the empirical success of deep neural networks. This approach will also lead to our second objective: the creation of a new class of fast, efficient, and asymptotically optimal message passing algorithms for deep learning. It is the synergy between the theoretical statistical physics approach and scientific questions from computer science that makes the projectís objectives feasible and enables a leap forward in our understanding of learning from data.'",
+    "totalCost": "1346795",
+    "ecMaxContribution": "1346795",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1346795
+        }
+    },
+    "calculatedTotalContribution": 1346795
+}

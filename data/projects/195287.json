@@ -1,0 +1,23 @@
+{
+    "rcn": "195287",
+    "acronym": "NeuArc2Fun",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Biological neural networks: from structure to function",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "The present project lies at the connection between theoretical and experimental neuroscience. It investigates how information is processed in neural networks with feedback, via the firing activity. On the one hand, the past decades have seen a growing interest for the analysis of the functional connectivity, namely how the spiking activity of neural populations is organized spatially and temporally. These activity patterns are hypothesized to form the basis of neural information, i.e., how neurons collectively encode information. On the other hand, experiments have revealed the complex design of the neural circuitry with many levels of organization, from the local connectivity of neurons to broad-scale pathways between cortical areas. NeuArc2Fun aims to develop a recurrent neural network model that bridges these structural and functional levels. The advantage of this model-based approach is the ability to make predictions about the role of each component of the model - in particular, its connectivity - in shaping neural activity. A key issue is to keep a balance between the mathematical tractability and biological realism in the model. To address this trade-off problem, NeuArc2Fun focuses on the mesoscopic level, namely scales at which many interacting neural populations can be simultaneously recorded by current state-of-the-art experimental techniques, such as electrode arrays. In practice, experimental data from the visual cortex will be used to tune and test the network models. In turn, gaining precise knowledge about neural cognitive processing will be applied to design experiments and test new ideas for information coding in networks. To a broader extent, this project will also benefit to applications that involve information decoding and interaction with the brain, e.g., neural prostheses and brain-machine interfaces.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "UNIVERSIDAD POMPEU FABRA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

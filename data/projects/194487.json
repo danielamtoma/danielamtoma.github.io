@@ -1,0 +1,23 @@
+{
+    "rcn": "194487",
+    "acronym": "SEMICOMPLEX",
+    "topics": "ERC-CoG-2014",
+    "title": "Divide and conquer ab initio semiclassical molecular dynamics for spectroscopic calculations of complex systems",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2020",
+    "objective": "Given the continuing revolution in ìnanoî and ìbioî technologies, it is urgent for chemists to be able to carry out reliable quantum dynamics simulations of complex molecular systems. The goal of this project is to fill the gap between theory and experiment and provide the community with a user-friendly computational tool for nuclear spectra (IR, vibro-electronic, etc.) calculations of very complex systems.\nPresent theoretical methodologies are hampered either by artificial nuclear potential interactions or by local potential perturbation assumptions. The semiclassical molecular dynamics method that I have been pioneering is not affected by these limitations because it is based on ab initio classical trajectories. The nuclear forces can be calculated by any electronic structure software and trajectories can explore the entire potential surface. The remaining challenge is to overcome the exponential scaling of computational power.\nI will adopt a divide-and-conquer strategy to beat the curse of dimensionality. Firstly, the ab initio classical molecular dynamics is performed for the entire complex system. Then, partial spectra are calculated by using the semiclassical information derived by the projection of the trajectories onto lower dimensional spaces. Vibrational modes are not artificially decoupled. Finally, the entire spectrum is reconstructed piece by piece. This method allows chemists to have a more reliable spectral interpretation in a wider context up to the nanoscale. With the help of my own previous experience and my collaborations, I will simulate pollutant photodegradation for environmental remediation and the vibro-electronic spectra of carcinogenic molecules adsorbed on TiO2. I will also reproduce the spectroscopic properties of molecular nano-texturing of titania films for outdoor cultural heritage preservation. \nA new generation of semiclassical fellows will be educated to put Europe on the leading edge of quantum simulations for spectroscopy.",
+    "totalCost": "1899973",
+    "ecMaxContribution": "1899973",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999995796": {
+            "orgId": "999995796",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MILANO",
+            "ecContrib": 1899973
+        }
+    },
+    "calculatedTotalContribution": 1899973
+}

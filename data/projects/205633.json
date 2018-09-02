@@ -1,0 +1,23 @@
+{
+    "rcn": "205633",
+    "acronym": "TRANSITION",
+    "topics": "JTI-CS2-2015-CFP02-AIR-01-12",
+    "title": "TRANSITION -  Tool-Part-Interaction simulation process linked to laminate quality",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2019",
+    "objective": "Highly integrated, complex composite structures require a thorough evaluation of processing tools and parameters in order to achieve a competitive time-to-market as well as a cost efficient solution.  The link between processing conditions and final laminate quality as to porosity and geometric deviations can be captured by processing simulation tools. Goal of this project is to adapt and implement two existing model approaches into an ABAQUS framework to be able to validate and adapt the tooling concept early in the design process. One of the models will be implemented as a subroutine in ABAQUS to capture the prepreg consolidation depending on the prevailing processing conditions, while the second model is subsequently capable of predicting the porosity within the part depending on the temperature and pressure history. The predicted part quality will be compared with physical experiments on parts with increasing complexity.",
+    "totalCost": "348125",
+    "ecMaxContribution": "348125",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 348125
+        }
+    },
+    "calculatedTotalContribution": 348125
+}

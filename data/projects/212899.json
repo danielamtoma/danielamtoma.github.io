@@ -1,0 +1,48 @@
+{
+    "rcn": "212899",
+    "acronym": "H2H",
+    "topics": "GALILEO-1-2017",
+    "title": "EGNSS Hull-to-Hull",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "The overall objective of the proposal is to address the need of the maritime community to safely navigate in close proximity of other vessels and objects, being stationary or moving. This will assist mariners in making correct navigation decisions. And further, this will be a fundamental requirement for autonomous vessels.\n\nTo achieve this EGNOS and GALILEO is taken into use to measure position of the vessel. However, these systems in the most basic form provides the position of the GNSS antenna, whereas the mariner needs to know the location of the vesselís hull relative to other vessels or objects in the area of operation. For efficient and safe operations, the location information must be provided with high precision and high integrity.",
+    "totalCost": "2999117,5",
+    "ecMaxContribution": "2489382,25",
+    "coordinator": "KONGSBERG SEATEX AS",
+    "coordinatorCountry": "NO",
+    "participants": "STIFTELSEN SINTEF;SINTEF OCEAN AS;SINTEF AS;MAMPAEY OFFSHORE INDUSTRIES BV;KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "participantCountries": "NO;NL;BE",
+    "projectParticipants": {
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 2750
+        },
+        "910945140": {
+            "orgId": "910945140",
+            "orgName": "SINTEF AS",
+            "ecContrib": 317250
+        },
+        "968634435": {
+            "orgId": "968634435",
+            "orgName": "MAMPAEY OFFSHORE INDUSTRIES BV",
+            "ecContrib": 486500
+        },
+        "997806603": {
+            "orgId": "997806603",
+            "orgName": "SINTEF OCEAN AS",
+            "ecContrib": 480000
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 500000
+        },
+        "996261296": {
+            "orgId": "996261296",
+            "orgName": "KONGSBERG SEATEX AS",
+            "ecContrib": 702882
+        }
+    },
+    "calculatedTotalContribution": 2489382
+}

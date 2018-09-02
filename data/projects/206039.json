@@ -1,0 +1,23 @@
+{
+    "rcn": "206039",
+    "acronym": "EMbRACe",
+    "topics": "ERC-PoC-2015",
+    "title": "Effective Multidrug Cocktails for Cancer",
+    "startDate": "01/11/2016",
+    "endDate": "30/04/2018",
+    "objective": "Cancer is a global epidemic that affects all ages and socio-economic groups. In turn, tremendous resources are being invested in prevention, diagnosis, and treatment of cancer. For instance, over 1,000 anticancer drugs are currently in various phases of development and pre-approval testing, more than the number for heart disease, stroke, and mental illness combined. Finding multi-drug combinations for cancer is an increasingly pressing therapeutic challenge. However, screening all possible drug combinations is an impossible task because the number of experiments grows exponentially with the number of different drugs and doses. Therefore, highly effective combinations of already approved drugs may likely exist that have never been tested before at the appropriate doses, due the astronomical number of wet lab tests required to find these combinations. Motivated by this challenge, we have developed a novel method for computing the effects of high order combinations of drugs on cancer cells and predicting the best drug for a given tumor based only on a very small number of experiments. In turn, the goals of our PoC project are to further validate the potential of our formula by means of numerous rigorous tests and to establish the business potential of our idea. If successful, this PoC project will pave the way to the development and adoption of highly personalized drug cocktails that are designed based only on a limited number of measurements performed on patient-derived tumor material.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

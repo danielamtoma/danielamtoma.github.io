@@ -1,0 +1,73 @@
+{
+    "rcn": "205467",
+    "acronym": "STREAM-0D",
+    "topics": "FOF-03-2016",
+    "title": "Simulation in Real Time for Manufacturing with Zero Defects",
+    "startDate": "01/10/2016",
+    "endDate": "31/03/2020",
+    "objective": "Facts: i) Zero-defect manufacturing and flexibility of production processes are some of the main challenges for European manufacturing; ii) One of the engineering tools with higher potential  is  the linking of simulation tools with measurement devices for real-time control of applications. The huge potential of this synergistic loop remains untapped for manufacturing processes and could be used for reducing product variability, increase line flexibility and achieve zero defect production.\nThese objectives could be reached by integrating in the production line multi-physics simulation models, able to predict the product quality indicators in response to the values of critical input parameters (components dimensions, material properties, etc), which are unavoidably subject to  variability: different batches, different suppliers,... The models will be fed with actual data from online measurements and, based on the model prediction, the critical steps of the line will be controlled to adjust the product to the exact design specifications or to quickly change specifications for producing customised batches. However, doing this in real time is not possible due to the computational cost of models. \nReduced Order Modelling is a new generation of techniques which allow us to obtain parametric solutions of complex models that can be particularized in real time for any value of the parameters. The models run so fast that they can be executed on tablets or smart phones. ROM will be used to transform complex models into the real-time capable models that can be integrated in the production line. \nMoreover, the online deployment of ROMs and data gathering systems will generate big data which will be exploited through data analysis techniques for further improving the process.\nThe project will show proof-of-concept demonstrations in three real process chains of the automotive sector, covering different types of production methods, products, materials and manufacturing processes.",
+    "totalCost": "5092985",
+    "ecMaxContribution": "4159145",
+    "coordinator": "INSTITUTO TECNOLOGICO DE ARAGON",
+    "coordinatorCountry": "ES",
+    "participants": "CENTER FOR TECHNOLOGY RESEARCH AND INNOVATION (CETRI) LTD;LUCAS VARITY GMBH;ECOLE CENTRALE DE NANTES;FERSA BEARINGS, SA;STANDARD PROFIL SPAIN SA;DAY ONE SRL;INTEGRATED ENVIRONMENTAL SOLUTIONS LIMITED;PANEPISTIMIO PATRON;STAM SRL;STAMTECH SRL",
+    "participantCountries": "CY;DE;FR;ES;IT;UK;EL",
+    "projectParticipants": {
+        "967024429": {
+            "orgId": "967024429",
+            "orgName": "LUCAS VARITY GMBH",
+            "ecContrib": 377562
+        },
+        "970272474": {
+            "orgId": "970272474",
+            "orgName": "INTEGRATED ENVIRONMENTAL SOLUTIONS LIMITED",
+            "ecContrib": 373100
+        },
+        "947632286": {
+            "orgId": "947632286",
+            "orgName": "DAY ONE SRL",
+            "ecContrib": 179375
+        },
+        "996793923": {
+            "orgId": "996793923",
+            "orgName": "STAMTECH SRL",
+            "ecContrib": 0
+        },
+        "916965542": {
+            "orgId": "916965542",
+            "orgName": "STAM SRL",
+            "ecContrib": 458500
+        },
+        "995985622": {
+            "orgId": "995985622",
+            "orgName": "CENTER FOR TECHNOLOGY RESEARCH AND INNOVATION (CETRI) LTD",
+            "ecContrib": 342125
+        },
+        "999509341": {
+            "orgId": "999509341",
+            "orgName": "INSTITUTO TECNOLOGICO DE ARAGON",
+            "ecContrib": 863750
+        },
+        "999509050": {
+            "orgId": "999509050",
+            "orgName": "ECOLE CENTRALE DE NANTES",
+            "ecContrib": 534560
+        },
+        "956639415": {
+            "orgId": "956639415",
+            "orgName": "FERSA BEARINGS, SA",
+            "ecContrib": 212188
+        },
+        "999894528": {
+            "orgId": "999894528",
+            "orgName": "PANEPISTIMIO PATRON",
+            "ecContrib": 581875
+        },
+        "926319834": {
+            "orgId": "926319834",
+            "orgName": "STANDARD PROFIL SPAIN SA",
+            "ecContrib": 236110
+        }
+    },
+    "calculatedTotalContribution": 4159145
+}

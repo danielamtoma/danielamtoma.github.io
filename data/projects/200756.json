@@ -1,0 +1,23 @@
+{
+    "rcn": "200756",
+    "acronym": "CAVE",
+    "topics": "ERC-CoG-2015",
+    "title": "Challenges and Advancements in Virtual Elements",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "The Virtual Element Method (VEM) is a novel technology for the discretization of partial differential equations (PDEs), that shares the same variational background as the Finite Element Method. First but not only, the VEM responds to the strongly increasing interest in using general polyhedral and polygonal meshes in the approximation of PDEs without the limit of using tetrahedral or hexahedral grids. By avoiding the explicit integration of the shape functions that span the discrete space and introducing an innovative construction of the stiffness matrixes, the VEM acquires very interesting properties and advantages with respect to more standard Galerkin methods, yet still keeping the same coding complexity. For instance, the VEM easily allows for polygonal/polyhedral meshes (even non-conforming) with non-convex elements and possibly with curved faces; it allows for discrete spaces of arbitrary C^k regularity on unstructured meshes.\nThe main scope of the project is to address the recent theoretical challenges posed by VEM and to assess whether this promising technology can achieve a breakthrough in applications. First, the theoretical and computational foundations of VEM will be made stronger. A deeper theoretical insight, supported by a wider numerical experience on benchmark problems, will be developed to gain a better understanding of the method's potentials and set the foundations for more applicative purposes. Second, we will focus our attention on two tough and up-to-date problems of practical interest: large deformation elasticity (where VEM can yield a dramatically more efficient handling of material inclusions, meshing of the domain and grid adaptivity, plus a much stronger robustness with respect to large grid distortions) and the cardiac bidomain model (where VEM can lead to a more accurate domain approximation through MRI data, a flexible refinement/de-refinement procedure along the propagation front, to an exact satisfaction of conservation laws).",
+    "totalCost": "980634",
+    "ecMaxContribution": "980634",
+    "coordinator": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999923531": {
+            "orgId": "999923531",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+            "ecContrib": 980634
+        }
+    },
+    "calculatedTotalContribution": 980634
+}

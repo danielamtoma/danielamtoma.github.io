@@ -1,0 +1,53 @@
+{
+    "rcn": "196950",
+    "acronym": "nuClock",
+    "topics": "FETOPEN-1-2014",
+    "title": "Towards a nuclear clock with Thorium-229",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2019",
+    "objective": "Atomic clocks are the backbone of our modern communication and navigation technology, e.g. through the global positioning system (GPS). Improving these clocks will open up exciting new applications in geodesy, fleet tracking, autonomous vehicles, augmented reality and shed light on some of the most fundamental questions in research.\n\nTodayís best atomic clocks lose only 1 second in 30 billion years, making them the most precise measurement devices ever built. However, such clocks are extremely delicate and susceptible to external perturbations; they can only be operated in specialized laboratories.\n\nWe propose to develop a novel type of clock, based on a unique nuclear transition in Thorium-229. This nuclear clock will be fundamentally different from existing atomic clocks, which are based on transitions in the electron shell. It will be largely inert to perturbations, simpler by design, and holds the potential to outperform existing atomic clocks in terms of precision.\nSo far, progress towards an application of the Thorium nuclear transition has been hampered by the extreme technological challenges related to the scarcity of 229Th, insufficient detector resolution, and exotic lasers frequencies. Suitable technology is only becoming available just now. Furthermore, this research demands supreme expertise in a variety of fields, encompassing nuclear and atomic physics, quantum optics, metrology, as well as detector- and laser technology. Our interdisciplinary consortium is assembled to precisely match these requirements, joining for the first time Europeís leading research groups in the respective fields.\n\nThe work will focus on two objectives; (i) finding clear evidence of the transition and measuring its frequency, and (ii) developing all key components required for operation of a nuclear clock. We are certain that next-generation satellite-based navigation technology and other precision timing applications will greatly benefit from more precise and robust clocks.",
+    "totalCost": "3970327,5",
+    "ecMaxContribution": "3970327,5",
+    "coordinator": "TECHNISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN;PHYSIKALISCH-TECHNISCHE BUNDESANSTALT;JYVASKYLAN YLIOPISTO;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG;TOPTICA Photonics AG",
+    "participantCountries": "DE;FI",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 900000
+        },
+        "999596544": {
+            "orgId": "999596544",
+            "orgName": "PHYSIKALISCH-TECHNISCHE BUNDESANSTALT",
+            "ecContrib": 656250
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 327500
+        },
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 606250
+        },
+        "999623704": {
+            "orgId": "999623704",
+            "orgName": "TOPTICA PHOTONICS AG",
+            "ecContrib": 0
+        },
+        "999987648": {
+            "orgId": "999987648",
+            "orgName": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+            "ecContrib": 288750
+        },
+        "999842245": {
+            "orgId": "999842245",
+            "orgName": "JYVASKYLAN YLIOPISTO",
+            "ecContrib": 247828
+        }
+    },
+    "calculatedTotalContribution": 3026578
+}

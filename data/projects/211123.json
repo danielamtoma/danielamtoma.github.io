@@ -1,0 +1,23 @@
+{
+    "rcn": "211123",
+    "acronym": "NEUROCLOUD",
+    "topics": "ERC-2017-PoC",
+    "title": "A neural network builder with remotely controlled parallel computing",
+    "startDate": "01/09/2017",
+    "endDate": "28/02/2019",
+    "objective": "Neural network simulations have been a driving force behind our advances in the artificial intelligence filed, but also a key tool in our understanding of the human brain. However, exploring such networks usually engages substantial computational resources requiring specific programing skills and dedicated facilities. In our main project NETSIGNAL, we have developed computational environment ARACHNE aiming to facilitate high-end neural network exploration among scientific and industrial users. ARACHNE enables an investigator to construct and explore cellular networks of arbitrary biophysical and architectural complexity using a simple interface on a local computer or a mobile device. Through small-file exchange via the internet, the interface controls a pre-configured computational kernel installed on a remote computer cluster or cloud. Uniquely, ARACHNE can integrate traditional wired network connections with diffuse, volume-transmitted type of inter-cellular signalling, to reflect the emerging role of glia in brain processing. ARACHNE thus affords a flexible neural network design and incorporates latest advances in neuroscience while providing a portable console suitable for IT-untrained explorers. ARACHNE has passed a feasibility and novelty test by independent experts (Aleksin et al, PLoS Comp Biology 2017, in press), its test version is available on-line (https://github.com/LeonidSavtchenko/Arachne/). Our goal here is to determine market potential and the commercial viability of ARACHNE and its conceptual design, but also to establish industry-standard provisions for its commercial exploitation. We plan: (a) to upgrade ARACHNE technical specs, interface, support, etc. to the industry standard; (b)  to assess the market and the competitors; (c) to determine IPR position and strategy, (d) to explore budgeting and further funding strategy, (e) to establish initial provisions for its distribution and/or licensing of ARACHNE.",
+    "totalCost": "148550",
+    "ecMaxContribution": "148550",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 148550
+        }
+    },
+    "calculatedTotalContribution": 148550
+}

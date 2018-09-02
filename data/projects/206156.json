@@ -1,0 +1,73 @@
+{
+    "rcn": "206156",
+    "acronym": "SIROM",
+    "topics": "COMPET-4-2016",
+    "title": "Standard Interface for Robotic Manipulation of Payloads in Future Space Missions",
+    "startDate": "01/11/2016",
+    "endDate": "31/01/2019",
+    "objective": "The main objective is to develop a standard interface that considers a set of connections that allow coupling of payload to manipulators and payload to other payload. \nThe realization of a modular reconfigurable system depends, among other things, on interfaces, that includes mechanical interfaces connecting the blocks to one other, electrical interface for power transmission, thermal interfaces for heat regulation and interfaces to transmit data throughout the satellite.\nMulti--?functional ìIntelligentî interface will be considered to interconnect building blocks and also to connect to the satellite with a servicer.\nThe standard interface will require standardization and modularization of the different components in an integrated form (where mechanical, thermal, electrical, data connections are combined) or a separated form. The standard interface shall allow building up large clusters of modules. APMs are considered for demonstration, validation and verification of all properties of the standard interface. An end-effector for a robotic manipulator will be designed according to the layout of the standard interface. \nThe Modular Interface will take into account long duration missions, no logistics support and missions composed of multiple payloads and architectures. Main benefits:\n- Improve operational capacity\n- Reduced logistics with common and modular spares\n- Common maintenance standards\n- IF architecture flexibility: common infrastructure needed to support the modular design\n- Mission flexibility (configuration changes)\n- Standardizes mechanical, data, electrical, thermal Interfaces\n- Keep existing standards where applicable\n- Introduce in the design aspects related to interchangeability and interoperability\nThe standard interfaces will allow to develop the SRC end goals. The output of this development will address the Future Low--?cost EXchangeable/EXpandable/EXtendable SATellite, which targets the demonstration of robotics servicing technology.",
+    "totalCost": "3487442,5",
+    "ecMaxContribution": "3487442,5",
+    "coordinator": "SENER INGENIERIA Y SISTEMAS S.A.",
+    "coordinatorCountry": "ES",
+    "participants": "SPACE APPLICATIONS SERVICES NV;THALES ALENIA SPACE ITALIA SPA;AIRBUS DEFENCE AND SPACE GMBH;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;TELETEL TECHNOLOGIA TILEPIKOINONION KAI PLIROFORIKIS ANONYMI EMPORIKI VIOMICHANIKI ETAIREIA;AIRBUS DS GMBH;LEONARDO - SOCIETA PER  AZIONI;MAG SOAR S.L.;AIRBUS DEFENCE AND SPACE LTD;UNIVERSITY OF STRATHCLYDE",
+    "participantCountries": "BE;IT;DE;EL;ES;UK",
+    "projectParticipants": {
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 439250
+        },
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 340625
+        },
+        "999488195": {
+            "orgId": "999488195",
+            "orgName": "THALES ALENIA SPACE ITALIA SPA",
+            "ecContrib": 120625
+        },
+        "999749125": {
+            "orgId": "999749125",
+            "orgName": "TELETEL TECHNOLOGIA TILEPIKOINONION KAI PLIROFORIKIS ANONYMI EMPORIKI VIOMICHANIKI ETAIREIA",
+            "ecContrib": 246199
+        },
+        "999530778": {
+            "orgId": "999530778",
+            "orgName": "AIRBUS DEFENCE AND SPACE LTD",
+            "ecContrib": 158130
+        },
+        "950084058": {
+            "orgId": "950084058",
+            "orgName": "MAG SOAR S.L.",
+            "ecContrib": 359484
+        },
+        "999991819": {
+            "orgId": "999991819",
+            "orgName": "AIRBUS DEFENCE AND SPACE GMBH",
+            "ecContrib": 339590
+        },
+        "999436494": {
+            "orgId": "999436494",
+            "orgName": "AIRBUS DS GMBH",
+            "ecContrib": 0
+        },
+        "998851778": {
+            "orgId": "998851778",
+            "orgName": "SENER INGENIERIA Y SISTEMAS S.A.",
+            "ecContrib": 575962
+        },
+        "999757467": {
+            "orgId": "999757467",
+            "orgName": "SPACE APPLICATIONS SERVICES NV",
+            "ecContrib": 592450
+        },
+        "999974068": {
+            "orgId": "999974068",
+            "orgName": "UNIVERSITY OF STRATHCLYDE",
+            "ecContrib": 315128
+        }
+    },
+    "calculatedTotalContribution": 3487443
+}

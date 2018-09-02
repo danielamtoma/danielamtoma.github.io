@@ -1,0 +1,23 @@
+{
+    "rcn": "212234",
+    "acronym": "NanoC4",
+    "topics": "ERC-2017-PoC",
+    "title": "Autonomous Nanosatellite-Clusters Control, Coordination and Communication Software",
+    "startDate": "01/11/2017",
+    "endDate": "30/04/2019",
+    "objective": "Coordinated operation of clusters of nanosatellites can potentially revolutionize the space sector; however, until recently, performing long-term satellite cluster flight was thought to be impractical, since existing orbital control methods required too much fuel. During the FADER ERC Starting Grant, our team was able to develop autonomous cluster flight algorithms capable of preserving the relative geometry and communication links among satellites in a cluster for mission lifetimes exceeding a year, while utilizing minimal amounts of fuel. Moreover, we developed cluster flight algorithms that do not require propulsion systems at all, demonstrating the usage of atmospheric drag to maintain clusters of satellites in low Earth orbits, while keeping distance constraints among satellites. Utilizing these newly-developed algorithms, nanosatellite clusters can yield the performance of a conventional large satellite for a fraction of the cost, and greatly improve mission and/or science return. The FADER algorithms were subsequently implemented as a prototype on SAMSON, the first triple-nanosatellite autonomous cluster flight mission, scheduled to be launched in 2018.\n\nIn this PoC proposal, we will implement the FADER algorithms as embedded software that would enable multiple partners from the nanosatellite industry to use and distribute this new Autonomous Nanosatellite-Clusters Control, Coordination and Communication (NanoC4) Software. The NanoC4 software package will be composed of: (1) cluster flight software, including autonomous orbit control, navigation and inter-satellite communication modules; and (2) a nanosatellite-payload data fusion module for several mission scenarios. Both components will be tested on various space-qualified processors currently available on the market.  NanoC4 will thus transform FADERís results and SAMSONís prototype implementation into a widely-available product, for the benefit of the European nanosatellite industry and academia.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

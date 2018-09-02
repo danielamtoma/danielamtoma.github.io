@@ -1,0 +1,23 @@
+{
+    "rcn": "195235",
+    "acronym": "CADORS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Computer-Aided Design Of Revolutionary Superalloys",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2016",
+    "objective": "Metallic alloys are used in many industrial applications, needing the constant development of new materials with tailored properties. However, the relations between composition, processing and properties are so complex that alloy development cannot be made anymore by a traditional trial-and-test procedure, and there is a growing need for models able to predict the behaviour of alloys as a function of composition, and for computer-aided optimisation tools for alloy design. The aim of the project is to develop new predictive models, and to include them in computing tools for the design of new nickel-base superalloys for aeronautical, energy and chemical engineering applications, through an automatic optimisation of composition by multi-objective genetic algorithms. Alloy design tools already exist and rely on a number of predictive models; we intend to extend the range of predictive tools by developing, in the case of multi-phase Ni alloys, on the one hand a model for dynamic recrystallisation (DRX) and on the other hand a model for the resistance to hydrogen embrittlement (RHE). First, computational thermodynamics will allow calculating the compositional dependence of microstructure, through the prediction of the nature and fractions of secondary phases, as well as of the driving force for nucleation, which will be used to evaluate the precipitate size and density. Then, the new models will describe the roles of precipitates on DRX (by acting as nucleation sites for the formation of new grains, or at the opposite by acting as pinning centres for grain boundaries, limiting their mobility and hence retarding or inhibiting DRX), and on RHE (by influencing, among others, the distribution of hydrogen between the matrix, the precipitates, the grain boundaries and the precipitate-matrix interfaces). Once developed and assessed, these models will be integrated as new criteria in an automatic optimisation tool for superalloy design, using multi-objective genetic algorithms.",
+    "totalCost": "97727,4",
+    "ecMaxContribution": "97727,4",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

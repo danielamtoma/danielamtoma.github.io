@@ -1,0 +1,28 @@
+{
+    "rcn": "204157",
+    "acronym": "BAYNET",
+    "topics": "ERC-ADG-2015",
+    "title": "Bayesian Networks and Non-Rational Expectations",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "'This project will develop a new framework for modeling economic agents having 'boundedly rational expectations' (BRE). It is based on the concept of Bayesian networks (more generally, graphical models), borrowed from statistics and AI. In the framework's basic version, an agent is characterized by a directed acyclic graph (DAG) over the set of all relevant random variables. The DAG is the agent's 'type' ñ it represents how he systematically distorts any objective probability distribution into a subjective belief. Technically, the distortion takes the form of the standard Bayesian-network factorization formula given by the agent's DAG. The agent's choice is modeled as a 'personal equilibrium', because his subjective belief regarding the implications of his actions can vary with his own long-run behavior. The DAG representation unifies and simplifies existing models of BRE, subsuming them as special cases corresponding to distinct graphical representations. It captures hitherto-unmodeled fallacies such as reverse causation. The framework facilitates behavioral characterizations of general classes of models of BRE and expands their applicability. I will demonstrate this with applications to monetary policy, behavioral I.O., asset pricing, etc. I will extend the basic formalism to multi-agent environments, addressing issues beyond the reach of current models of BRE (e.g., formalizing the notion of 'high-order' limited understanding of statistical regularities). Finally, I will seek a learning foundation for the graphical representation of BRE, in the sense that it will capture how the agent extrapolates his belief from a dataset (drawn from the objective distribution) containing 'missing values', via some intuitive 'imputation method'. This part, too, borrows ideas from statistics and AI, further demonstrating the project's interdisciplinary nature.'",
+    "totalCost": "1379288",
+    "ecMaxContribution": "1379288",
+    "coordinator": "University College London",
+    "coordinatorCountry": "UK",
+    "participants": "TEL AVIV UNIVERSITY",
+    "participantCountries": "IL",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 0
+        },
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 602250
+        }
+    },
+    "calculatedTotalContribution": 602250
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "212323",
+    "acronym": "SVIS",
+    "topics": "ERC-2017-STG",
+    "title": "Supervised Verification of Infinite-State Systems",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "Modern society relies more and more on computing for managing complex safety-critical tasks (e.g., in medicine, avionics, economy). Correctness of computerized systems is therefore crucial, as incorrect behaviors might lead to disastrous outcomes. Still, correctness is a big open problem without satisfactory theoretical or practical solutions. This has dramatic effects on the security of our lives. The current practice in industry mainly employs testing which detects bugs but cannot ensure their absence. In contrast, formal verification can provide formal correctness guarantees. Unfortunately, existing formal methods are still limited in their applicability to real world systems since most of them are either too automatic, hindered by the undecidability of verification, or too manual, relying on substantial human effort. This proposal will introduce a new methodology of supervised verification, based on which, we will develop novel approaches that can be used to formally verify certain realistic systems. This will be achieved by dividing the verification process into tasks that are well suited for automation, and tasks that are best done by a human supervisor, and finding a suitable mode of interaction between the human and the machine. Supervised verification represents a conceptual leap as it is centered around automatic procedures but complements them with human guidance; It therefore breaks the classical pattern of automated verification, and creates new opportunities, both practical and theoretical. In addition to opening the way for developing tractable verification algorithms, it can be used to prove lower and upper bounds on the asymptotic complexity of verification by explicitly distilling the human's role. The approaches developed by this research will significantly improve system correctness and agility. At the same time, they will reduce the cost of testing, increase developers productivity, and improve the overall understanding of computerized systems.",
+    "totalCost": "1499528",
+    "ecMaxContribution": "1499528",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1499528
+        }
+    },
+    "calculatedTotalContribution": 1499528
+}

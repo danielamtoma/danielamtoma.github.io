@@ -1,0 +1,58 @@
+{
+    "rcn": "193312",
+    "acronym": "BeyondSeq",
+    "topics": "PHC-10-2014",
+    "title": "Genomic diagnostics beyond the sequence",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2019",
+    "objective": "Cytogenetic diagnostic approaches provide information on the single-chromosome level but suffer from low resolution and throughput. In contrast, next generation sequencing (NGS) based diagnostics provides single base resolution and high throughput but suffer from short reads that prevent analysis of large genomic aberrations as well as being prone to PCR-amplification bias and erasure of epigenetic information. This proposal aims to bridge the gap between these domains by analyzing long individual DNA molecules without PCR-amplification via utilization of emerging optical DNA mapping technologies. We specifically address three types of challenges to current genomic based diagnostics: \n1. Loss of relevant information such as DNA damage lesions, rare mutations or epigenetic markers following PCR amplification.\n2. Limitations in resolving long-range variations in genomic layout and correlating them with single point mutations, preventing large scale screens.\n3. Limitations imposed by the sample such as low sample amounts (micro biopsy, circulating tumor DNA) or inhomogeneous/highly variable samples (bacterial cultures).\nWe will develop a robust toolbox for integrated genetic and epigenetic profiling of single DNA molecules that will include automated sample preparation of native unamplified DNA as well as the hardware and software platforms and analysis tools for readout, extraction and quantification of medically relevant genomic information. This technology will be used to develop a set of specific, proof of principle diagnostic assays based on optical barcoding of individual DNA molecules. These assays will address: \n-Bacterial infections and antibiotic resistance \n-Diagnosis/prognosis tools for hematological malignancies\n-Spinal Muscular Atrophy\n-Early diagnosis of colorectal and lung cancer. \nUltimately our project will provide reagents, prototype DNA barcoding devices and data analysis software ready for large scale validation and early stage commercialization.",
+    "totalCost": "6034026,09",
+    "ecMaxContribution": "6034026,09",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "IMPASARA LIMITED;THE UNIVERSITY OF BIRMINGHAM;GENOMIC VISION SA;TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY;LUNDS UNIVERSITET;KATHOLIEKE UNIVERSITEIT LEUVEN;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "UK;FR;IL;SE;BE",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 799864
+        },
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 703579
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 840361
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 844475
+        },
+        "989201830": {
+            "orgId": "989201830",
+            "orgName": "IMPASARA LIMITED",
+            "ecContrib": 245687
+        },
+        "998680379": {
+            "orgId": "998680379",
+            "orgName": "GENOMIC VISION SA",
+            "ecContrib": 674498
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 778312
+        },
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1147250
+        }
+    },
+    "calculatedTotalContribution": 6034026
+}

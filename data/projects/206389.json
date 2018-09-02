@@ -1,0 +1,53 @@
+{
+    "rcn": "206389",
+    "acronym": "IMAGINE",
+    "topics": "ICT-26-2016",
+    "title": "Robots Understanding Their Actions by Imagining Their Effects",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "'Today's robots are good at executing programmed motions, but they do not understand their actions in the sense that they could automatically generalize them to novel situations or recover from failures.  IMAGINE seeks to enable robots to understand the structure of their environment and how it is affected by its actions.  'Understanding' here means the ability of the robot (a) to determine the applicability of an action along with parameters to achieve the desired effect, and (b) to discern to what extent an action succeeded, and to infer possible causes of failure and generate recovery actions.\n\nThe core functional element is a generative model based on an association engine and a physics simulator.  'Understanding' is given by the robot's ability to predict the effects of its actions, before and during their execution.  This allows the robot to choose actions and parameters based on their simulated performance, and to monitor their progress by comparing observed to simulated behavior.\n\nThis scientific objective is pursued in the context of recycling of electromechanical appliances.  Current recycling practices do not automate disassembly, which exposes humans to hazardous materials, encourages illegal disposal, and creates significant threats to environment and health, often in third countries.  IMAGINE will develop a TRL-5 prototype that can autonomously disassemble prototypical classes of devices, generate and execute disassembly actions for unseen instances of similar devices, and recover from certain failures.  For robotic disassembly, IMAGINE will develop a multi-functional gripper capable of multiple types of manipulation without tool changes.\n\nIMAGINE raises the ability level of robotic systems in core areas of the work programme, including adaptability, manipulation, perception, decisional autonomy, and cognitive ability.  Since only one-third of EU e-waste is currently recovered, IMAGINE addresses an area of high economical and ecological impact.'",
+    "totalCost": "3797050",
+    "ecMaxContribution": "3797050",
+    "coordinator": "UNIVERSITAET INNSBRUCK",
+    "coordinatorCountry": "AT",
+    "participants": "GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES;KARLSRUHER INSTITUT FUER TECHNOLOGIE;ELECTROCYCLING GMBH;BOGAZICI UNIVERSITESI",
+    "participantCountries": "DE;ES;FR;TR",
+    "projectParticipants": {
+        "999869114": {
+            "orgId": "999869114",
+            "orgName": "UNIVERSITAET INNSBRUCK",
+            "ecContrib": 744250
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 500625
+        },
+        "934055293": {
+            "orgId": "934055293",
+            "orgName": "ELECTROCYCLING GMBH",
+            "ecContrib": 201375
+        },
+        "999845640": {
+            "orgId": "999845640",
+            "orgName": "GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS",
+            "ecContrib": 689000
+        },
+        "999882500": {
+            "orgId": "999882500",
+            "orgName": "BOGAZICI UNIVERSITESI",
+            "ecContrib": 365750
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 667500
+        },
+        "999611482": {
+            "orgId": "999611482",
+            "orgName": "INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES",
+            "ecContrib": 628550
+        }
+    },
+    "calculatedTotalContribution": 3797050
+}

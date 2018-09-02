@@ -1,0 +1,23 @@
+{
+    "rcn": "204965",
+    "acronym": "PROCEEDS",
+    "topics": "ERC-PoC-2015",
+    "title": "Probing Complex Dynamical Structures in Three Dimensions",
+    "startDate": "01/08/2016",
+    "endDate": "31/01/2018",
+    "objective": "Despite the recent expansion and enormous potential of three dimensional (3D) microscopy and 3D scanning, these technologies currently suffer from two limitations: i) lack of unity: although both technologies aim to unveil the 3D features of a system, they are being developed completely independently, resulting in lower flexibility and higher costs; ii) lack of dynamics: today these technologies can barely be applied to fast moving systems; however, crucial microscopic traits are dynamical, and key industrial features as structural deformation, shear and stress, are induced by motion itself. PROCEEDS will explore the industrial potential of a completely novel software platform that can be applied to both 3D microscopy and 3D scanning under a single dynamical framework. This platform is based upon a very powerful 3D tracking algorithm that we developed within the ERC project SWARM. In this PoC we will turn this algorithm into a market-adjusted software to probe 3D complex dynamical structures in real life applications. We will test two commercialization paths: 1) 3DMICRO where the software is used for the control of multi-camera microscopes, providing the reconstruction of the 3D trajectories of microorganisms and colloidal particles, with impact on the health, processing and food industry. 2) DYSCAN: a new, non-invasive and accurate 3D scanning method of fast moving bodies, which turns swarms of passive tracers into distributed clouds of virtual accelerometers, thus measuring deformation, stress and vibration of structures under heavy dynamic loads, with impact on machine monitoring in energy, automotive and transportation industry.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

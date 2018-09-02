@@ -1,0 +1,23 @@
+{
+    "rcn": "211815",
+    "acronym": "THUNDEEP",
+    "topics": "ERC-2017-STG",
+    "title": "A Theory for Understanding, Designing, and Training Deep Learning Systems",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2023",
+    "objective": "The rise of deep learning, in the form of artificial neural networks, has been the most dramatic and important development in machine learning over the past decade. Much more than a merely academic topic, deep learning is currently being widely adopted in industry, placed inside commercial products, and is expected to play a key role in anticipated technological leaps such as autonomous driving and general-purpose artificial intelligence. However, our scientific understanding of deep learning is woefully incomplete. Most methods to design and train these systems are based on rules-of-thumb and heuristics, and there is a drastic theory-practice gap in our understanding of why these systems work in practice. We believe this poses a significant risk to the long-term health of the field, as well as an obstacle to widening the applicability of deep learning beyond what has been achieved with current methods.\n\nOur goal is to tackle head-on this important problem, and develop principled tools for understanding, designing, and training deep learning systems, based on rigorous theoretical results. \n\nOur approach is to focus on three inter-related sources of performance losses in neural networks learning: Their optimization error (that is, how to train a given network in a computationally efficient manner); their estimation error (how to ensure that training a network on a finite training set will ensure good performance on future examples); and their approximation error (how architectural choices of the networks affect the type of functions they can compute). For each of these problems, we show how recent advances allow us to effectively approach them, and describe concrete preliminary results and ideas, which will serve as starting points and indicate the feasibility of this challenging project.",
+    "totalCost": "1442360",
+    "ecMaxContribution": "1442360",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 1442360
+        }
+    },
+    "calculatedTotalContribution": 1442360
+}

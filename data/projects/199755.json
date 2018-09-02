@@ -1,0 +1,48 @@
+{
+    "rcn": "199755",
+    "acronym": "Click-It",
+    "topics": "PHC-11-2015",
+    "title": "ìIn Vivo Click PET Imaging Agentsî: Improving clinical companion diagnostics",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "Companion diagnostics are crucial for drug development and disease management with regard to patient selection, therapy planning and monitoring. Nanomedicines such as antibodies have been proven to be optimal disease-targeting agents because they generally exhibit superior target uptake and retention. However, to date, nuclear imaging of nanomedicines has been limited to the use of long-lived isotopes to be compatible with the slow pharmacokinetics of these large molecules. Major drawbacks are high radiation doses, precluding routine and repeated companion imaging procedures.\nThe Click-It consortium aims to circumvent this issue by using pretargeting approach, which centers on the administration and target binding of a tagged nanomedicine followed by administration and binding of a small, fast-clearing, short-lived radiolabeled probe to the tag of the nanomedicine. This results in lower absorbed radiation doses and in a boost in target-blood ratios, which in turn leads to a superior imaging contrast. PET scan snapshots at multiple time-points provide long-term imaging information by applying short-lived nuclides. So far, only the fastest click reaction, the tetrazine ligation, has demonstrated potential in clinically relevant conditions. Recently, we have shown in a SPECT imaging study that this click reaction can be applied for non-internalizing nanomedicines in vivo.\nThis project aims at expanding the scope of click-pretargeted imaging to intracellular targets, because a majority of nanomedicines internalize and is thus not accessible with the current approach. Furthermore, we will expand our approach to short-lived, non-metal based, small molecule 18F-PET tracers, since PET offers a higher spatial and temporal resolution enabling quantitative decision making in disease diagnosis and management. Finally, the project aims to translate the developed click-pretargeting technology into a clinically applicable nanomedicine-based imaging approach in canine patients.",
+    "totalCost": "5999800",
+    "ecMaxContribution": "5999800",
+    "coordinator": "REGION HOVEDSTADEN",
+    "coordinatorCountry": "DK",
+    "participants": "TECHNISCHE UNIVERSITAET WIEN;TAGWORKS PHARMACEUTICALS BV;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;JOHANNES GUTENBERG-UNIVERSITAT MAINZ;KOBENHAVNS UNIVERSITET",
+    "participantCountries": "AT;NL;DE;DK",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 829600
+        },
+        "999978627": {
+            "orgId": "999978627",
+            "orgName": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ",
+            "ecContrib": 300000
+        },
+        "947414133": {
+            "orgId": "947414133",
+            "orgName": "TAGWORKS PHARMACEUTICALS BV",
+            "ecContrib": 1560000
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 550200
+        },
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 600000
+        },
+        "999654744": {
+            "orgId": "999654744",
+            "orgName": "REGION HOVEDSTADEN",
+            "ecContrib": 2160000
+        }
+    },
+    "calculatedTotalContribution": 5999800
+}

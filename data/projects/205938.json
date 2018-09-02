@@ -1,0 +1,43 @@
+{
+    "rcn": "205938",
+    "acronym": "HyperOLED",
+    "topics": "ICT-02-2016",
+    "title": "Development of high-performance, hyperfluorescence OLEDs for use in display applications and solid state lighting",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The overall goal of the HyperOLED project is to develop materials and matching device architectures for high-performance, hyperfluorescence organic light emitting diodes (OLEDs) for use in display applications and solid state lighting. The innovative OLEDs will be realised by combining thermally activated delayed fluorescence (TADF) molecular hosts with novel shielded fluorescence emitters, targeting saturated blue emission of very high efficiency, especially at high-brightness levels. Further efficiency gains will be achieved through molecular alignment to enhance light outcoupling from the hyperfluorescence OLEDs. Using shielded emitters will enable simpler device structures to be used, keeping drive voltages low to be compatible with low voltage CMOS back plane electronics. This will enable demonstration of the conceptís feasibility for high-brightness, full-colour OLED microdisplays as one application example.\n\nTo develop the hyperfluorescence OLEDs, the following scientific and technical objectives will be targeted:\n\nï Objective 1: Develop shielded emitters\nï Objective 2: Develop TADF hosts\nï Objective 3: Photo-physically characterise the shielded emitters and TADF hosts\nï Objective 4: Anisotropic molecular orientation for enhanced performance\nï Objective 5: Design and test prototype hyperfluorescence OLEDs\nï Objective 6: Fabricate and evaluate demonstration hyperfluorescence microdisplays\n\nTo show the projectís overall goal has been achieved, multiple blue and white stack unit prototypes (2 x 2 mm≤ on 30x30mm glass substrates with ITO) will be integrated into a high-brightness microdisplay demonstrator (based on MICROOLEDís 0.38íí WVGA CMOS backplane) and tested that demonstrate significant improvements in functionality, performance, manufacturability and reliability.",
+    "totalCost": "3962430",
+    "ecMaxContribution": "3962430",
+    "coordinator": "Merck KGaA",
+    "coordinatorCountry": "DE",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;UNIVERSITY OF DURHAM;INTELLIGENTSIA CONSULTANTS SARL;MICROOLED SARL",
+    "participantCountries": "DE;UK;LU;FR",
+    "projectParticipants": {
+        "995787936": {
+            "orgId": "995787936",
+            "orgName": "MICROOLED SARL",
+            "ecContrib": 237250
+        },
+        "999965241": {
+            "orgId": "999965241",
+            "orgName": "MERCK KOMMANDITGESELLSCHAFT AUF AKTIEN",
+            "ecContrib": 0
+        },
+        "999866010": {
+            "orgId": "999866010",
+            "orgName": "UNIVERSITY OF DURHAM",
+            "ecContrib": 1234512
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 617230
+        },
+        "952669496": {
+            "orgId": "952669496",
+            "orgName": "INTELLIGENTSIA CONSULTANTS SARL",
+            "ecContrib": 237188
+        }
+    },
+    "calculatedTotalContribution": 2326180
+}

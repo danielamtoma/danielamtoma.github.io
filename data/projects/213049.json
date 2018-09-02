@@ -1,0 +1,58 @@
+{
+    "rcn": "213049",
+    "acronym": "HYFLIERS",
+    "topics": "ICT-25-2016-2017",
+    "title": "HYbrid FLying-rollIng with-snakE-aRm robot for contact inSpection",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "HYFLIERS will develop two prototypes for the first worldwide hybrid aerial/ground robot with a hyper-redundant lightweight robotic articulated arm equipped with an inspection sensor, together with supporting services for efficient and safe inspection in industrial sites. Energy savings will be achieved by minimizing the time of flight and by performing the inspection while attached to the pipe. To ensure accurate positioning, guidance, landing and rolling on constrained surfaces such as pipes, the robot will rely on a control system also integrating environment perception, particularly for landing on the pipes, and aerodynamic control taking into account aerodynamic effects of the pipes. The system will also have multi-media interfaces for teleoperation, automatic collision detection and avoidance; a trajectory planning system that will take into account aerodynamic effects in addition to kinematic and dynamic models; and a mission planning system to optimize the use of the robot in the inspection. The technology results will be validated in the inspection of pipes, which is a very relevant short-term application. HYFLIERS will decrease the cost and risks of current human inspection in production plants, such as oil and gas, where it is estimated that about 50 000 pipe thickness measurement points are needed within a 3 to 5 years interval. HYFLIERS will eliminate the risks of accidental falls and the cost associated to the use of man-lifts, cranes, scaffold or rope access, which is many orders of magnitude larger than the measurement cost by itself. Taking into account that about 60% to 75% of inspection costs in this type of facilities is dedicated to ultrasonic thickness measurements, the project will concentrate on these measurements. The results of the project could be also applied to other industrial scenarios, such as power generation plants.",
+    "totalCost": "3897020",
+    "ecMaxContribution": "3897020",
+    "coordinator": "OULUN YLIOPISTO",
+    "coordinatorCountry": "FI",
+    "participants": "C.R.E.A.T.E. CONSORZIO DI RICERCA PER L'ENERGIA L AUTOMAZIONE E LE TECNOLOGIE DELL'ELETTROMAGNETISMO;FUNDACION ANDALUZA PARA EL DESARROLLO AEROESPACIAL;TOTAL S.A.;GE INSPECTION ROBOTICS AG;CHEVRON ORONITE SAS;DASEL SL;UNIVERSIDAD DE SEVILLA",
+    "participantCountries": "IT;ES;FR;CH",
+    "projectParticipants": {
+        "992244041": {
+            "orgId": "992244041",
+            "orgName": "GE INSPECTION ROBOTICS AG",
+            "ecContrib": 641788
+        },
+        "999844670": {
+            "orgId": "999844670",
+            "orgName": "OULUN YLIOPISTO",
+            "ecContrib": 773000
+        },
+        "912350379": {
+            "orgId": "912350379",
+            "orgName": "CHEVRON ORONITE SAS",
+            "ecContrib": 297500
+        },
+        "998189850": {
+            "orgId": "998189850",
+            "orgName": "FUNDACION ANDALUZA PARA EL DESARROLLO AEROESPACIAL",
+            "ecContrib": 568688
+        },
+        "997478064": {
+            "orgId": "997478064",
+            "orgName": "DASEL SL",
+            "ecContrib": 205500
+        },
+        "954718427": {
+            "orgId": "954718427",
+            "orgName": "C.R.E.A.T.E. CONSORZIO DI RICERCA PER L'ENERGIA L AUTOMAZIONE E LE TECNOLOGIE DELL'ELETTROMAGNETISMO",
+            "ecContrib": 566250
+        },
+        "999862518": {
+            "orgId": "999862518",
+            "orgName": "UNIVERSIDAD DE SEVILLA",
+            "ecContrib": 647420
+        },
+        "997172126": {
+            "orgId": "997172126",
+            "orgName": "TOTAL S.A.",
+            "ecContrib": 196875
+        }
+    },
+    "calculatedTotalContribution": 3897021
+}

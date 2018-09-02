@@ -1,0 +1,23 @@
+{
+    "rcn": "209500",
+    "acronym": "DeE-Nano",
+    "topics": "ERC-2016-COG",
+    "title": "Design and Engineering Next-Generation Nanopore Devices for Bioplymer Analysis",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "Nanopores have emerged in the past few years as a promising analytical technique. The basic concept of nanopore sensing is to apply a potential across individual nanoscale pores and observe the disruption of the ionic flow caused by single molecules entering the pore. Ionic currents through protein pores have been successful at recognizing tiny differences in molecules in solution. Most notably, arrays of thousands of nanopores integrated in low-cost and portable devices are now capable of sequencing DNA at the single-molecule level. The main challenge of nanopore sensing is the inability of controlling the protein pore diameter and geometry, which determines the signal and enables selectivity based on physical size.\n\nThe aim of this proposal is to design a new generation of protein nanopores that will take on the next grand challenge in nanopore sensing, that is the sequence identification of single proteins. \n\nIn order to sequence proteins, the designed nanopores must: unfold a target protein, control the speed of its transit across the nanopore and recognize individual amino acids. Our approach is to design a transmembrane molecular machine that will unfold target proteins and feed the linearize polypeptide through the nanopore where single amino acids will be recognized by modulations of the nanopore current.\nThe specific objectives are: \ni) Develop chemical and biotechnological methods to design synthetic protein-based pores \nii) To precisely attach the unfolding machine to a nanopore\niii) To genetically engineer the nanopore for optimal amino acid recognition\n\nOur nanopore devices will be used to develop the first technology to sequence single proteins. Compared to the state of the art ëshotgun proteomicsí, the nanopore approach will allow long polypeptide reads, recognition of low-abundance proteins, including biomarkers linked to diseases, and real-time monitoring with minimal cost, time and sample preparation.",
+    "totalCost": "1999970",
+    "ecMaxContribution": "1999970",
+    "coordinator": "RIJKSUNIVERSITEIT GRONINGEN",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999989782": {
+            "orgId": "999989782",
+            "orgName": "RIJKSUNIVERSITEIT GRONINGEN",
+            "ecContrib": 1999970
+        }
+    },
+    "calculatedTotalContribution": 1999970
+}

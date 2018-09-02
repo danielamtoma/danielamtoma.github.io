@@ -1,0 +1,88 @@
+{
+    "rcn": "204432",
+    "acronym": "CompBioMed",
+    "topics": "EINFRA-5-2015",
+    "title": "A Centre of Excellence in Computational Biomedicine",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "This Centre of Excellence will advance the role of computationally based modelling and simulation within biomedicine. Three related user communities lie at the heart of the CoE: academic, industrial and clinical researchers who all wish to build, develop and extend such capabilities in line with the increasing power of high performance computers. Three distinct exemplar research areas will be pursued: cardiovascular, molecularly-based and neuro-musculoskeletal medicine.\n \nPredictive computational biomedicine involves applications that are comprised of multiple components, arranged as far as possible into automated workflows in which data is taken, from an individual patient, processed, and combined into a model which produces predicted health outcomes. Many of the models are multiscale, requiring the coupling of two or more high performance codes. Computational biomedicine holds out the prospect of predicting the effect of personalised medical treatments and interventions ahead of carrying them out, with all the ensuing benefits. Indeed, in some cases, it is already doing so today.\n \nThe CoE presents a powerful consortium of partners and has an outward facing nature and will actively train, disseminate and engage with these user communities across Europe and beyond. Because this field is new and growing rapidly, it offers numerous innovative opportunities. There are three SMEs and three enterprises within the project, as well as eight associate partners drawn from across the biomedical sector, who are fully aware of the vast potential of HPC in this domain. We shall work with them to advance the exploitation of HPC and will engage closely with medical professionals through our partner hospitals in order to establish modeling and simulation as an integral part of clinical decision making. Our CoE is thus user-driven, integrated, multidisciplinary, and distributed; presenting a vision that is in line with the Work Programme.",
+    "totalCost": "4938216,25",
+    "ecMaxContribution": "4938215,75",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSIDAD POMPEU FABRA;THE UNIVERSITY OF SHEFFIELD;UNIVERSITE DE GENEVE;ACELLERA LABS SL;LIFETEC GROUP BV;CBK SCI CON LIMITED;SURFSARA BV;EVOTEC AG*;BULL SAS;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;EVOTEC (UK) LIMITED;THE UNIVERSITY OF EDINBURGH;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;UNIVERSITEIT VAN AMSTERDAM;JANSSEN PHARMACEUTICA NV",
+    "participantCountries": "ES;UK;CH;NL;DE;FR;BE",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 367625
+        },
+        "938781424": {
+            "orgId": "938781424",
+            "orgName": "CBK SCI CON LIMITED",
+            "ecContrib": 277144
+        },
+        "999867077": {
+            "orgId": "999867077",
+            "orgName": "UNIVERSIDAD POMPEU FABRA",
+            "ecContrib": 191750
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 456369
+        },
+        "999475876": {
+            "orgId": "999475876",
+            "orgName": "EVOTEC AG*",
+            "ecContrib": 0
+        },
+        "999574622": {
+            "orgId": "999574622",
+            "orgName": "LIFETEC GROUP BV",
+            "ecContrib": 247988
+        },
+        "934330579": {
+            "orgId": "934330579",
+            "orgName": "ACELLERA LABS SL",
+            "ecContrib": 95881
+        },
+        "952865630": {
+            "orgId": "952865630",
+            "orgName": "SURFSARA BV",
+            "ecContrib": 495950
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 335831
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 897642
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 138044
+        },
+        "999974650": {
+            "orgId": "999974650",
+            "orgName": "UNIVERSITE DE GENEVE",
+            "ecContrib": 388225
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 524500
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 264955
+        }
+    },
+    "calculatedTotalContribution": 4681904
+}

@@ -1,0 +1,73 @@
+{
+    "rcn": "200284",
+    "acronym": "EVER-EST",
+    "topics": "EINFRA-9-2015",
+    "title": "European Virtual Environment for Research - Earth Science Themes",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "The EVER-EST project will enhance Research and Capacity Building in the Earth Science (ES) domain,  by providing a generic Service Oriented-based Architecture Virtual Research Environment (VRE) tailored to the needs of the ES community. The full range of both generic and ES data management specific services provided by EVER-EST will facilitate the dynamic approach to collaborative working and research. Scientist will be able to discover, access, process, share and interoperate heterogeneous data, algorithms, results and experiences within and across their communities, including those in domains beyond Earth Science. Data providers will be able to monitor users experience and collect feedback through the VRE, improving their capacity to adapt to end-user needs offering solutions to unlock scientist potentials and creativity. EVER-EST e-infrastructure will be validated by four Virtual Research Communities (VRC) covering different multidisciplinary working ES domains: ranging from Sea Monitoring, to Natural Hazards (floods, weather, wildfires), Land Monitoring and Risk Management (volcanoes and seismic). Each of these VRC will use the VRE according to its own specific requirements for data, software, best practices and community engagement. The VRE will leverage on the results of several FP7 projects which have produced state-of-the-art technologies for scientific data management and curation. Such capabilities will be enriched during the EVER-EST project using the output of a second group of FP7 initiatives providing models, techniques and tools for the preservation of scientific methods and their implementation in computational forms such as scientific workflows. EVER-EST will implement solutions for data publication, citation and trust. EVER-EST will provide the means to climb up existing peaks and obstacles to information sharing in Earth Science allowing research teams to collaboratively collect, manipulate and share resources, allowing creation of new knowledge.",
+    "totalCost": "6561627,5",
+    "ecMaxContribution": "6561627",
+    "coordinator": "EUROPEAN SPACE AGENCY",
+    "coordinatorCountry": "FR",
+    "participants": "METEOROLOGICAL AND ENVIRONMENTAL EARTH OBSERVATION SRL;ADVANCED COMPUTER SYSTEMS A.C.S. SRL;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;ALMA SISTEMI SRL;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;EUROPEAN UNION SATELLITE CENTRE;UNITED KINGDOM RESEARCH AND INNOVATION;CONSIGLIO NAZIONALE DELLE RICERCHE;TERRADUE SRL;ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA;EXPERT SYSTEM IBERIA SL;NATURAL ENVIRONMENT RESEARCH COUNCIL",
+    "participantCountries": "IT;PL;DE;ES;UK",
+    "projectParticipants": {
+        "999644559": {
+            "orgId": "999644559",
+            "orgName": "EUROPEAN SPACE AGENCY",
+            "ecContrib": 1107250
+        },
+        "934309530": {
+            "orgId": "934309530",
+            "orgName": "EXPERT SYSTEM IBERIA SL",
+            "ecContrib": 635500
+        },
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 388125
+        },
+        "999472675": {
+            "orgId": "999472675",
+            "orgName": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA",
+            "ecContrib": 558750
+        },
+        "999537083": {
+            "orgId": "999537083",
+            "orgName": "EUROPEAN UNION SATELLITE CENTRE",
+            "ecContrib": 550276
+        },
+        "999989200": {
+            "orgId": "999989200",
+            "orgName": "NATURAL ENVIRONMENT RESEARCH COUNCIL",
+            "ecContrib": 0
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 320625
+        },
+        "972294439": {
+            "orgId": "972294439",
+            "orgName": "METEOROLOGICAL AND ENVIRONMENTAL EARTH OBSERVATION SRL",
+            "ecContrib": 521250
+        },
+        "952884254": {
+            "orgId": "952884254",
+            "orgName": "ALMA SISTEMI SRL",
+            "ecContrib": 294690
+        },
+        "999732829": {
+            "orgId": "999732829",
+            "orgName": "TERRADUE SRL",
+            "ecContrib": 799812
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 273328
+        }
+    },
+    "calculatedTotalContribution": 5449606
+}

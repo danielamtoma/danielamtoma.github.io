@@ -1,0 +1,23 @@
+{
+    "rcn": "209771",
+    "acronym": "CAD WALK",
+    "topics": "MSCA-IF-2016",
+    "title": "CAD WALK: Enabling Computer Aided Diagnosis of Foot Pathologies through the use of Metric Learning",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2019",
+    "objective": "Dynamic plantar pressure imaging (PPI) refers to the measuring, across time, of pressure fields between the foot and the ground. PPI is used, in part, to diagnose foot problems such as metatarsalgia and plantar fasciitis. Despite the widespread clinical use of PPI, its diagnostic potential has not been fully exploited. PPI creates large and dynamic datasets that cannot be easily analysed and interpreted by the human brain. As a result, PPI images are subsampled before being clinically examined, which discards potentially valuable information.\n\nThe objective for this action is to improve the diagnostic value of PPI through the introduction of a computer-aided diagnosis (CAD) system called CAD WALK. Using concepts from my previous CAD research (STEAM), CAD WALK will build a statistical model of PPI images from a healthy population. To test a new patient, their PPI image will be aligned to the model and compared to that healthy population using statistical tests. Outliers from these statistical tests will then be highlighted to help guide a clinicianís examination of the full PPI image. As a novel addition, metric learning will be introduced to create a statistical model that is more specific to the test subject.\n\nA key goal of this action is the deployment of CAD WALK as a supported software product. To do so, we propose a Triple ëií (international, intersectoral, interdisciplinary) initiative that partners me with industry (rs scanÆ) and clinical end users (Sint Maartenskliniek, NL) to translate my CAD research into practical use. Through this process, and a secondment with industry partner rs scanÆ, I expect to deepen my knowledge of industrial product development (i.e. intellectual property rights, industry regulations, customer constraints) and improve my management skills. By addressing these two gaps in my career experience, I expect to move one step closer to fulfilling my ambition of leading my own research translation lab.",
+    "totalCost": "160800",
+    "ecMaxContribution": "160800",
+    "coordinator": "UNIVERSITEIT ANTWERPEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999902870": {
+            "orgId": "999902870",
+            "orgName": "UNIVERSITEIT ANTWERPEN",
+            "ecContrib": 160800
+        }
+    },
+    "calculatedTotalContribution": 160800
+}

@@ -1,0 +1,73 @@
+{
+    "rcn": "206167",
+    "acronym": "STAMP",
+    "topics": "ICT-10-2016",
+    "title": "Software Testing AMPlification",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "Release early, release often. Such is the mantra of IT giants like Twitter or Netflix. Pioneers in the engineering of applications that run in the cloud now routinely perform hundreds of code updates per day in what has become a thrust of continuous delivery around the clock. This stunning agility is a decisive competitive edge. It cuts time-to-market and hikes revenue. Behind the feat lies DevOps. This powerful development methodology brings high degrees of automation at all steps of construction and deployment.           \n                                      \nDevOps has gained more traction in the USA than in Europe and concern is raised that European companies may be ìmissing the trainî. Their disinclination is thought to reflect a different cultural attitude toward risk. Indeed, a hasty deployment may propagate a regression bug into production due to lack of sufficient testing. Fear of breaking things is all the more justified as testing in DevOps mostly relies on manual effort.  \n\nLeveraging advanced research in automatic test generation, STAMP aims at pushing automation in DevOps one step further through innovative methods of test amplification. It will reuse existing assets (test cases, API descriptions, dependency models), in order to generate more test cases and test configurations each time the application is updated. Acting at all steps of development cycle, it will bring amplification services at unit level, configuration level and production stage.\n\nSTAMP will raise confidence and foster adoption of DevOps by the European IT industry. The project gathers 3 academic partners with strong software testing expertise, 5 software companies (in: e-Health, Content Management, Smart Cities and Public Administration), and an open source consortium. This industry-near research addresses concrete, business-oriented objectives. All solutions are open source and developed as microservices to facilitate exploitation, with a target at TRL 6.",
+    "totalCost": "4307070",
+    "ecMaxContribution": "4307070",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;STIFTELSEN SINTEF;OW2 CONSORTIUM ASSOCIATION;ACTIVEEON;SINTEF AS;ATOS SPAIN SA;TELLU AS;ENGINEERING - INGEGNERIA INFORMATICA SPA;TECHNISCHE UNIVERSITEIT DELFT;XWIKI",
+    "participantCountries": "FR;NO;ES;IT;NL",
+    "projectParticipants": {
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 110750
+        },
+        "955534391": {
+            "orgId": "955534391",
+            "orgName": "TELLU AS",
+            "ecContrib": 383150
+        },
+        "910945140": {
+            "orgId": "910945140",
+            "orgName": "SINTEF AS",
+            "ecContrib": 569500
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 389375
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 110286
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 617480
+        },
+        "996280890": {
+            "orgId": "996280890",
+            "orgName": "ACTIVEEON",
+            "ecContrib": 430000
+        },
+        "985073510": {
+            "orgId": "985073510",
+            "orgName": "XWIKI",
+            "ecContrib": 323500
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 480889
+        },
+        "989865892": {
+            "orgId": "989865892",
+            "orgName": "OW2 CONSORTIUM ASSOCIATION",
+            "ecContrib": 488390
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 403750
+        }
+    },
+    "calculatedTotalContribution": 4307070
+}

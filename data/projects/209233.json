@@ -1,0 +1,23 @@
+{
+    "rcn": "209233",
+    "acronym": "TENSOROOTS",
+    "topics": "MSCA-IF-2016",
+    "title": "Solving large systems of polynomial equations by using multi-linear algebra tools",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "The modelling of real-life nonlinear processes is commonly done via local linearization, i.e.,  by fitting linear models to small ranges of the process. Linearization is, however, quite limited in range and model properties. A foundational step is currently being made by moving from linear to multi-linear or polynomial models to capture more general features of a nonlinear process over larger ranges. A second important development is Big Data: nowadays we often encounter high-dimensional datasets with multiple `independentí modes of variation. This increases the numbers of equations and variables and the degrees of the polynomials in the multi-linear models that are required. Big Data research is a key priority in the EU Horizon 2020 Work Programme.\n\nThis proposal joins both the cutting edge multi-linear and Big Data developments and as a next step aims to develop new robust and efficient numerical methods to solve large polynomial systems. Polynomial equations arise naturally in a large number of diverse fields such as signal processing, robotics, coding theory, optimization, bioinformatics, computer vision, game theory, statistics, machine learning, and systems and control theory. In many applications the coefficients of the polynomials are noisy (i.e., computed from measured data). Currently, solving polynomial equations is commonly done via ësymbolic algebraí tools, but these are not suitable for equations with noisy coefficients. However, the rediscovered work of Sylvester and Macaulay puts the problem in a linear algebra setting and well-known numerical linear algebra tools can be used. This project will go beyond this and uses new highly efficient multi-linear algebra tools in the field of tensor decompositions. The latter are higher-order generalizations of the matrix singular valued decomposition.  \n\nThe project combines polynomial algebra, numerical linear algebra, and multi-linear algebra, and will have large impact on a large number of applications.",
+    "totalCost": "160800",
+    "ecMaxContribution": "160800",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 160800
+        }
+    },
+    "calculatedTotalContribution": 160800
+}

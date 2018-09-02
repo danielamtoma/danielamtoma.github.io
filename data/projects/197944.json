@@ -1,0 +1,53 @@
+{
+    "rcn": "197944",
+    "acronym": "ExaHyPE",
+    "topics": "FETHPC-1-2014",
+    "title": "An Exascale Hyperbolic PDE Engine",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2019",
+    "objective": "Many aspects of our life, but also cutting-edge research questions, hinge on the solution of large systems of partial differential equations expressing conservation laws. Such equations are solved to compute accurate weather forecast, complex earthquake physics, hematic flows in patients, or the most catastrophic events in the universe. Yet, our ability to exploit the predictive power of these models is still severely limited by the computational costs of their solution. Thus, the simulation of earthquakes and their induced hazards is not yet accurate enough to prevent human losses. And our ability to model astrophysical objects is still insufficient to explain our observations.\n\nWhile exascale supercomputers promise the performance to tackle such problems, current numerical methods are either too expensive, because not sufficiently accurate, or too inefficient, because unable to exploit the latest supercomputing hardware. Exascale software needs to be redesigned to meet the disruptive hardware changes caused by severe constraints in energy consumption.\n\nWe thus develop a new exascale hyperbolic simulation engine based on high-order communication-avoiding Finite-Volume/Discontinuous-Galerkin schemes yielding high computational efficiency. We utilize structured, spacetree grids that offer dynamic adaptivity in space and time at low memory footprint. And we consequently optimise all compute kernels to minimise energy consumption and exploit inherent fault-tolerance properties of the numerical method.\n\nAs a general hyperbolic solver, the exascale engine will drive research in diverse areas and relieve scientist from the burden of developing robust and efficient exascale codes. Its development is driven by precise scientific goals, addressing grand challenges in geo- and astrophysics, such as the dynamic rupture processes and subsequent regional seismic wave propagation, or the modeling of relativistic plasmas in the collision of compact stars and explosive phenomena.",
+    "totalCost": "2872500",
+    "ecMaxContribution": "2795000",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "STIFTUNG FRANKFURT INSTITUTE FOR ADVANCED STUDIES;LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN;UNIVERSITY OF DURHAM;RSK TEHNOLOGII ZAO;UNIVERSITA DEGLI STUDI DI TRENTO;BAYERISCHE FORSCHUNGSALLIANZ BAVARIAN RESEARCH ALLIANCE GMBH",
+    "participantCountries": "DE;UK;RU;IT",
+    "projectParticipants": {
+        "999572876": {
+            "orgId": "999572876",
+            "orgName": "STIFTUNG FRANKFURT INSTITUTE FOR ADVANCED STUDIES",
+            "ecContrib": 450000
+        },
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 366250
+        },
+        "999866010": {
+            "orgId": "999866010",
+            "orgName": "UNIVERSITY OF DURHAM",
+            "ecContrib": 573750
+        },
+        "999841954": {
+            "orgId": "999841954",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRENTO",
+            "ecContrib": 490000
+        },
+        "998139119": {
+            "orgId": "998139119",
+            "orgName": "BAYERISCHE FORSCHUNGSALLIANZ BAVARIAN RESEARCH ALLIANCE GMBH",
+            "ecContrib": 251250
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 663750
+        },
+        "935083008": {
+            "orgId": "935083008",
+            "orgName": "RSK TEHNOLOGII ZAO",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 2795000
+}

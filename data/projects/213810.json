@@ -1,0 +1,38 @@
+{
+    "rcn": "213810",
+    "acronym": "ENIGMA",
+    "topics": "JTI-CS2-2017-CFP06-REG-01-10",
+    "title": "Supervisor Control for ENhanced electrIcal enerGy MAnagement",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2021",
+    "objective": "The ENIGMA project will address the development of the Centralized Smart Supervisory (CSS) controller by means of formal and methodological approaches. During a first stage, the mathematical optimization tools will be used to obtain the formulation for the Enhanced Electrical Energy Management (E2-EM) control logics. This will ensure the ability to formally prove the correctness and optimality of the control action by construction. The CSS controller will be interfaced with the lower-level controllers of the aircraft Smart-Grid Network and the Energy Storage and Regeneration System delivered by currently running Regional Integrated Aircraft Demonstration Platform projects. This strategy will provide an optimal management and sharing of available on-board electric power during overloading and failure conditions such that the overload capability requirement for main generators sizing can be removed leading to substantial reduction of generatorsí mass. The developed controller will also be capable of expansion to include interfaces with other lower-level systems to be developed by future Regional projects. The overall system will be designed, developed and integrated by the ENIGMA team, and validated at TRL5 through testing on the Regional IRON BIRD Ground Demonstrator over a period of 36 months. ENIGMA aims at being a significant breakthrough in the field of the on-board energy management techniques, by exploiting a novel approach for their introduction and definition of global E2-EM. This will pave the road towards more efficient, greener aviation.\nThe ENIGMA team brings together leading aerospace systems companies, through United Technologies Research Centre Ireland and Aeromechs, and leading academic institutions, The University of Nottingham and Universit‡ degli Studi della Campania ìLuigi Vanvitelliî, whose track record and complementary skills will ensure innovative development and later commercial exploitation of the developed CSS.",
+    "totalCost": "826260",
+    "ecMaxContribution": "826260",
+    "coordinator": "UNITED TECHNOLOGIES RESEARCH CENTRE IRELAND, LIMITED",
+    "coordinatorCountry": "IE",
+    "participants": "AEROMECHS SRL;THE UNIVERSITY OF NOTTINGHAM;UNIVERSITA DEGLI STUDI DELLA CAMPANIA LUIGI VANVITELLI",
+    "participantCountries": "IT;UK",
+    "projectParticipants": {
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 272081
+        },
+        "999848356": {
+            "orgId": "999848356",
+            "orgName": "UNIVERSITA DEGLI STUDI DELLA CAMPANIA LUIGI VANVITELLI",
+            "ecContrib": 120000
+        },
+        "959646415": {
+            "orgId": "959646415",
+            "orgName": "AEROMECHS SRL",
+            "ecContrib": 155000
+        },
+        "971136162": {
+            "orgId": "971136162",
+            "orgName": "UNITED TECHNOLOGIES RESEARCH CENTRE IRELAND, LIMITED",
+            "ecContrib": 279179
+        }
+    },
+    "calculatedTotalContribution": 826260
+}

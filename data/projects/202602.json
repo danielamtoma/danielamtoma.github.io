@@ -1,0 +1,23 @@
+{
+    "rcn": "202602",
+    "acronym": "Skye",
+    "topics": "ERC-CoG-2015",
+    "title": "A programming language bridging theory and practice for scientific data curation",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Science is increasingly data-driven. Scientific research funders now routinely mandate open publication of publicly-funded research data. Safely reusing such data currently requires labour-intensive curation. Provenance recording the history and derivation of the data is critical to reaping the benefits and avoiding the pitfalls of data sharing. There are hundreds of curated scientific databases in biomedicine that need fine-grained provenance; one important example is GtoPdb, a pharmacological database developed by colleagues in Edinburgh. \n\nCurrently there are no reusable methodologies or practical tools that support provenance for curated databases, forcing each project to start from scratch. Research on provenance for scientific databases is still at an early stage, and prototypes have so far proven challenging to deploy or evaluate in the field. Also, most techniques to date focus on provenance within a single database, but this is only part of the problem: real solutions will have to integrate database provenance with the multiple tiers of web applications, and no-one has begun to address this challenge.\n\nI propose research on how to build support for curation into the programming language itself, building on my recent research on the Links Web programming language and on data curation. Links is a strongly-typed language that provides state-of-the-art support for language-integrated query and Web programming. I propose to build on Links and other recent language designs for heterogeneous meta-programming to develop a new language, called Skye, that can express modular, reusable curation and provenance techniques. To keep focus on the real needs of scientific databases, Skye will be evaluated in the context of GtoPdb and other scientific database projects. Bridging the gap between curation research and the practices of scientific database curators will catalyse a virtuous cycle that will increase the pace of breakthrough results from data-driven science.",
+    "totalCost": "1995181",
+    "ecMaxContribution": "1995181",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1995181
+        }
+    },
+    "calculatedTotalContribution": 1995181
+}

@@ -1,0 +1,53 @@
+{
+    "rcn": "194614",
+    "acronym": "STORM",
+    "topics": "EE-13-2014",
+    "title": "Self-organising Thermal Operational Resource Management",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2018",
+    "objective": "In STORM a generic district heating and cooling (DHC) network controller will be development and demonstration, with the ambition to increase the use of waste heat and renewable energy sources in the DHC network.\n\nThe general applicability will be guaranteed by the following measures:\n- Applying self-learning control techniques instead of model-based control approaches, will make the controller easy to implement in different configuration and generations of DHC networks.\n- Three control strategies are included in the controller (peak shaving, market interaction, cell balancing). Dependent of the network, one or more of these strategies can be activated.\n- The controller will be an add-on to many existing DHC network controllers and SCADA systems.\n\nTo present this general applicability, the controller will be demonstrated in two existing grids: one highly innovative low-temperature DHC network In the Netherlands and a more common medium-temperature district heating grid in Sweden.\n\nSince additional value is created by applying the control strategies in the controller, innovative business models should be developed to distribute this value amongst the different market players (producers, transporters, consumers of energy). This will also be addressed in the project.\n\nAlso a plan will be developed on how the developed controller can be replicated to other countries than the ones of the demonstrators, taking into account different market organizations and legal framework.\n\nWith respect to dissemination two levels of dissemination will be applied. A international dissemination will address the international research community, DHN network controller suppliers, international energy companies etcÖ Besides that, an additional local level will  be implemented where two local dissemination platforms will be installed integrating all local stakeholders (the energy company, users, local educational institutions, local politiciansÖ). Special attention is foreseen for education.",
+    "totalCost": "1972125,94",
+    "ecMaxContribution": "1972125,94",
+    "coordinator": "VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.",
+    "coordinatorCountry": "BE",
+    "participants": "STICHTING ZUYD HOGESCHOOL;EUROHEAT & POWER;SIGMA ORIONIS SA;VAXJO ENERGI AB;NODAIS AB;MIJNWATER BV",
+    "participantCountries": "NL;BE;FR;SE",
+    "projectParticipants": {
+        "999792096": {
+            "orgId": "999792096",
+            "orgName": "SIGMA ORIONIS SA",
+            "ecContrib": 42485
+        },
+        "965824442": {
+            "orgId": "965824442",
+            "orgName": "VAXJO ENERGI AB",
+            "ecContrib": 202876
+        },
+        "999416706": {
+            "orgId": "999416706",
+            "orgName": "STICHTING ZUYD HOGESCHOOL",
+            "ecContrib": 233719
+        },
+        "952847103": {
+            "orgId": "952847103",
+            "orgName": "NODAIS AB",
+            "ecContrib": 362870
+        },
+        "951914351": {
+            "orgId": "951914351",
+            "orgName": "MIJNWATER BV",
+            "ecContrib": 390929
+        },
+        "989884031": {
+            "orgId": "989884031",
+            "orgName": "EUROHEAT & POWER",
+            "ecContrib": 173013
+        },
+        "999645238": {
+            "orgId": "999645238",
+            "orgName": "VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK N.V.",
+            "ecContrib": 566233
+        }
+    },
+    "calculatedTotalContribution": 1972125
+}

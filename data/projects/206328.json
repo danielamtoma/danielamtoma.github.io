@@ -1,0 +1,58 @@
+{
+    "rcn": "206328",
+    "acronym": "SPACE-O",
+    "topics": "EO-1-2016",
+    "title": "Space Assisted Water Quality Forecasting Platform for Optimized Decision Making in Water Supply Services",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2018",
+    "objective": "Satellite remote sensing has been evolved into a powerful tool for global monitoring of surface waters. Earth Observations (EO) and remote sensing are widely used for quantifying the physical parameters of reservoirs as well as for retrieving selected water constituents concentrations.\n\nSpace-O aims at the integration of state of the art (EO) and in situ monitoring with advanced hydrological, water quality models and ICT tools into a powerful decision support system (DSS) for generating real time, short to medium term forecasting water flows and quality data in reservoirs which will be used for the optimization of water treatment plants (WTPs) operations, establishing a complete service line from EO to water business sector.\n\nAn operational service platform will be designed to facilitate increased interoperability among EO and modeled services. Data acquisition and integration of almost real time EO data in the hydrological and water quality models will be  implemented in order to provide improved real-time, short to medium term water quantity and quality forecasting in reservoirs. \n\nA risk-based DSS will be developed in order to enable cost-effective and environmental sustainable Water Treatment Plants (WTPs) operation, based on the water quality parameters forecasts at the reservoir, the in situ monitoring data and the data collected through supervisory control and data acquisition (SCADA) systems used in WTPs for operation control. \n\nAdditionally, developing Copernicus Services (C3S) will be jointly assessed with site-specific data sets generated through the satellite, modeling, in situ and citizens monitoring services, to produce continuous monitored indicators for enabling water quality Risk Assessment analysis on a catchment level.",
+    "totalCost": "2469948,75",
+    "ecMaxContribution": "2002087,5",
+    "coordinator": "EMVIS SYMVOULOI MICHANIKOI ANONYMI ETAIREIA",
+    "coordinatorCountry": "EL",
+    "participants": "ORGANISMOS ANAPTIKSIS KRITIS ANONIMI ETAIRIA;EOMAP GMBH & CO KG;EUROPEAN DYNAMICS BELGIUM;SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT;CONSIGLIO NAZIONALE DELLE RICERCHE;ENTE ACQUE DELLA SARDEGNA;INTERNATIONAL WATER ASSOCIATION",
+    "participantCountries": "EL;DE;BE;SE;IT;UK",
+    "projectParticipants": {
+        "997332079": {
+            "orgId": "997332079",
+            "orgName": "EOMAP GMBH & CO KG",
+            "ecContrib": 293842
+        },
+        "921077663": {
+            "orgId": "921077663",
+            "orgName": "ORGANISMOS ANAPTIKSIS KRITIS ANONIMI ETAIRIA",
+            "ecContrib": 73675
+        },
+        "947340510": {
+            "orgId": "947340510",
+            "orgName": "EUROPEAN DYNAMICS BELGIUM",
+            "ecContrib": 328388
+        },
+        "952799670": {
+            "orgId": "952799670",
+            "orgName": "EMVIS SYMVOULOI MICHANIKOI ANONYMI ETAIREIA",
+            "ecContrib": 395771
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 182250
+        },
+        "925924947": {
+            "orgId": "925924947",
+            "orgName": "ENTE ACQUE DELLA SARDEGNA",
+            "ecContrib": 129100
+        },
+        "996563742": {
+            "orgId": "996563742",
+            "orgName": "INTERNATIONAL WATER ASSOCIATION",
+            "ecContrib": 286536
+        },
+        "999507983": {
+            "orgId": "999507983",
+            "orgName": "SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT",
+            "ecContrib": 312525
+        }
+    },
+    "calculatedTotalContribution": 2002087
+}

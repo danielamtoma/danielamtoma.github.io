@@ -1,0 +1,23 @@
+{
+    "rcn": "201381",
+    "acronym": "SelectX",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Integrated Crossbar of Microelectromechanical Selectors and Non-Volatile Memory Devices for Neuromorphic Computing",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "Building artificial neuronal networks (ANN) that mimic their biological prototypes is one of the remaining grand challenges in computing. Despite transistor scaling and improved architectures, modern supercomputers require kWs of power to replicate functionality for which living neural networks take only a few Ws. Currently there is no hardware that can provide a high synaptic density with reasonable energy consumption. Hybrid CMOS chips with stacked crossbars of analog non-volatile memory devices (NVM), like memristors, promise to deliver the required high density and connectivity. However, the crossbar architecture suffers from the sneak path problem, neighbouring devices creating electrical shorts around the selected device. Biological systems do not have this problem due to the inherent nonlinearity of their potentiation and spiking. A high nonlinearity can be reproduced in a crossbar by using a selector for each memory device. The selector commonly used is a transistor which limits the scalability and stackability. \nThis project proposes an alternative selector based on a two-terminal MEMS switch. MEMS switches are heavily researched for RF applications, but their high nonlinearity makes them attractive as selectors for NVM. This project will design, simulate and fabricate a crossbar of integrated MEMS selectors and TiO2 memristor devices. Initially, the selectors and memristors will be optimized separately, then monolithically integrated. Their scalability and stackability will be investigated. Finally, a prototype 3x3 crossbar of integrated memristor/MEMS selectors will be fabricated and used to demonstrate vector matrix multiplication - a foundational element of many complex ANNs like a perceptron. The proposed work is not linked to a particular NVM (ReRAM is an example), being suitable for any dense crossbar system that requires selectors. The findings are relevant to the fields of hardware ANNs and non-volatile memories and to major industry players.",
+    "totalCost": "125422,8",
+    "ecMaxContribution": "125422,8",
+    "coordinator": "INSTITUTUL NATIONAL DE CERCETAREDEZVOLTARE PENTRU MICROTEHNOLOGIE",
+    "coordinatorCountry": "RO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999617690": {
+            "orgId": "999617690",
+            "orgName": "INSTITUTUL NATIONAL DE CERCETAREDEZVOLTARE PENTRU MICROTEHNOLOGIE",
+            "ecContrib": 125423
+        }
+    },
+    "calculatedTotalContribution": 125423
+}

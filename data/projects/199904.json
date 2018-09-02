@@ -1,0 +1,83 @@
+{
+    "rcn": "199904",
+    "acronym": "UNEXMIN",
+    "topics": "SC5-11d-2015",
+    "title": "Autonomous Underwater Explorer for Flooded Mines",
+    "startDate": "01/02/2016",
+    "endDate": "31/10/2019",
+    "objective": "This project will develop a novel robotic system for the autonomous exploration and mapping of Europeís flooded mines. The Robotic Explorer (UX-1) will use non-invasive methods for autonomous 3D mine mapping for gathering valuable geological and mineralogical information. This will open new exploration scenarios so that strategic decisions on the re-opening of Europeís abandoned mines could be supported by actualised data that can not be obtained by any other ways. The Multi-robot Platform will represent a new technology line that is made possible by recent developments in autonomy research that allows the development of a completely new class of mine explorer service robots, capable of operating without remote control. Such robots do not exist nowadays; UX-1 will be the first of its kind. Research challenges are related to miniaturisation and adaptation of deep sea robotic technology to this new application environment and to the interpretation of geoscientific data. Work will start with component validation and simulations to understand the behavior of technology components and instruments to the application environment. This will then be followed by the construction of the first Prototype. Post processing and data analysis tools will be developed in parallel, and pre-operational trials are launched in real life conditions. In the final stage of the project extensive pilots will take place during which UX-1 will be iteratively improved after each trial session, which will be increasingly demanding. The final, most ambitious demonstration will take place in the UK with the resurveying of the entire Ecton mine (UK) that nobody has seen for over 150 years. This final pilot will demonstrate the Platformís scalability from small missions to the largest ones by increasing the number of deployed autonomous drones, and supporting multi-robot cooperation in confined 3D spaces with realtime sensor and data fusion for reliable navigation and communications.",
+    "totalCost": "4862865",
+    "ecMaxContribution": "4862865",
+    "coordinator": "MISKOLCI EGYETEM",
+    "coordinatorCountry": "HU",
+    "participants": "LA PALMA RESEARCH CENTRE FOR FUTURE STUDIES SL;TTY-SAATIO;GEOPLANO CONSULTORES SA;INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA;FEDERATION EUROPEENNE DES GEOLOGUES;GEO-MONTAN GEOLOGUS, KORNYEZETVEDOMEGUJULO ENERGETIKAI TOLMACSFORDITOKFT;CENTER ZA UPRAVLJANJE Z DEDISCINO ZIVEGA SREBRA IDRIJA;EMPRESA DE DESENVOLVIMENTO MINEIRO;ECTON MINE EDUCATIONAL TRUST;UNIVERSIDAD POLITECNICA DE MADRID;GEOLOSKI ZAVOD SLOVENIJE;RESOURCES COMPUTING INTERNATIONAL LTD",
+    "participantCountries": "ES;FI;PT;FR;HU;SI;UK",
+    "projectParticipants": {
+        "960278273": {
+            "orgId": "960278273",
+            "orgName": "GEOPLANO CONSULTORES SA",
+            "ecContrib": 105625
+        },
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 665812
+        },
+        "940130888": {
+            "orgId": "940130888",
+            "orgName": "ECTON MINE EDUCATIONAL TRUST",
+            "ecContrib": 195000
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 984750
+        },
+        "951946264": {
+            "orgId": "951946264",
+            "orgName": "GEO-MONTAN GEOLOGUS, KORNYEZETVEDOMEGUJULO ENERGETIKAI TOLMACSFORDITOKFT",
+            "ecContrib": 61625
+        },
+        "983318392": {
+            "orgId": "983318392",
+            "orgName": "FEDERATION EUROPEENNE DES GEOLOGUES",
+            "ecContrib": 311425
+        },
+        "999466370": {
+            "orgId": "999466370",
+            "orgName": "GEOLOSKI ZAVOD SLOVENIJE",
+            "ecContrib": 152375
+        },
+        "954900496": {
+            "orgId": "954900496",
+            "orgName": "LA PALMA RESEARCH CENTRE FOR FUTURE STUDIES SL",
+            "ecContrib": 386650
+        },
+        "999451432": {
+            "orgId": "999451432",
+            "orgName": "MISKOLCI EGYETEM",
+            "ecContrib": 516438
+        },
+        "940229440": {
+            "orgId": "940229440",
+            "orgName": "CENTER ZA UPRAVLJANJE Z DEDISCINO ZIVEGA SREBRA IDRIJA",
+            "ecContrib": 65415
+        },
+        "990343811": {
+            "orgId": "990343811",
+            "orgName": "TTY-SAATIO",
+            "ecContrib": 938312
+        },
+        "941194105": {
+            "orgId": "941194105",
+            "orgName": "RESOURCES COMPUTING INTERNATIONAL LTD",
+            "ecContrib": 329688
+        },
+        "947379601": {
+            "orgId": "947379601",
+            "orgName": "EMPRESA DE DESENVOLVIMENTO MINEIRO",
+            "ecContrib": 149750
+        }
+    },
+    "calculatedTotalContribution": 4862865
+}

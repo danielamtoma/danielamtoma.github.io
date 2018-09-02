@@ -1,0 +1,63 @@
+{
+    "rcn": "194252",
+    "acronym": "PROTEUS",
+    "topics": "ICT-02-2014",
+    "title": "AdaPtive micROfluidic- and nano-enabled smart systems for waTEr qUality Sensing",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "Water management requires massive, low-cost monitoring means coping with differentiated and evolving requirements. However, the majority of multifunctional water sensors only supports predefined goals hindering interoperability, with a high cost, impeding large scale deployments. \nAddressing this, PROTEUS aims at offering x10 reduction in both size and unit function cost compared to state of the art. To this end, an increased number of functions will be integrated at a reduced cost and PROTEUS will deliver a reconfigurable microfluidic-and nano-enabled sensor platform for cognitive water quality monitoring. Innovative embedded software will provide reconfigurability of the sensing board to support several differentiated applicative goals while cognitive capabilities will manage evolving requirements during exploitation. Energy autonomy will be made by harvesting water flow energy. In addition, low cost of additional sensing components will enable redundancy increasing life span of the systems.\nThe main challenge relates to the heterogeneous integration into a monolithic, microfluidic sensing chip of carbon-nanotubes-based resistive chemical sensors, of MEMS physical and rheological resistive sensors and of a multifunctional adaptive deep-submicron CMOS system on chip. \nUpstream, high level system design addressing industrial use cases, manufacturability and cost-effectiveness, packaging, energy budget and interfaces between building blocks, will enable consistency and efficiency of the whole approach. \nDownstream, system validation will be carried out at different levels: benchmarking, reliability assessment to guarantee service time, model deployments and field testing.\nThe consortium brings together renowned actors along the whole value chain, including system integration and end users. This will contribute to post-project exploitation prepared by ensuring appropriate inclusion of business requirements within the system design.",
+    "totalCost": "3993520",
+    "ecMaxContribution": "3993520",
+    "coordinator": "INSTITUT FRANCAIS DES SCIENCES ET TECHNOLOGIES DES TRANSPORTS, DE L'AMENAGEMENT ET DES RESEAUX",
+    "coordinatorCountry": "FR",
+    "participants": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION PARIS ILE-DE-FRANCE;WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE;UNPARALLEL INNOVATION LDA;SERVICOS MUNICIPALIZADOS DE AGUA E SANEAMENTO DE ALMADA;UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO;AQUALABO CONTROLE;UNIVERSITA DEGLI STUDI DI PERUGIA;EASY GLOBAL MARKET SAS",
+    "participantCountries": "FR;EL;PT;IT",
+    "projectParticipants": {
+        "953318426": {
+            "orgId": "953318426",
+            "orgName": "UNPARALLEL INNOVATION LDA",
+            "ecContrib": 462500
+        },
+        "999633889": {
+            "orgId": "999633889",
+            "orgName": "UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO",
+            "ecContrib": 555000
+        },
+        "968126446": {
+            "orgId": "968126446",
+            "orgName": "INSTITUT FRANCAIS DES SCIENCES ET TECHNOLOGIES DES TRANSPORTS, DE L'AMENAGEMENT ET DES RESEAUX",
+            "ecContrib": 575145
+        },
+        "950323357": {
+            "orgId": "950323357",
+            "orgName": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION PARIS ILE-DE-FRANCE",
+            "ecContrib": 625625
+        },
+        "940628595": {
+            "orgId": "940628595",
+            "orgName": "SERVICOS MUNICIPALIZADOS DE AGUA E SANEAMENTO DE ALMADA",
+            "ecContrib": 261375
+        },
+        "984556015": {
+            "orgId": "984556015",
+            "orgName": "AQUALABO CONTROLE",
+            "ecContrib": 363125
+        },
+        "999846319": {
+            "orgId": "999846319",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PERUGIA",
+            "ecContrib": 438125
+        },
+        "952269953": {
+            "orgId": "952269953",
+            "orgName": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE",
+            "ecContrib": 423875
+        },
+        "972455847": {
+            "orgId": "972455847",
+            "orgName": "EASY GLOBAL MARKET SAS",
+            "ecContrib": 288750
+        }
+    },
+    "calculatedTotalContribution": 3993520
+}

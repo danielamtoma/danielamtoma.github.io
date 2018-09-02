@@ -1,0 +1,68 @@
+{
+    "rcn": "197352",
+    "acronym": "SPEED-5G",
+    "topics": "ICT-14-2014",
+    "title": "quality of Service Provision and capacity Expansion through Extended-DSA for 5G",
+    "startDate": "01/07/2015",
+    "endDate": "31/03/2018",
+    "objective": "The objective of SPEED-5G is to research and develop technologies that address the well-known challenges of predicted growth in mobile connections and traffic volume.  A major challenge is the cost of meeting the objective, in terms of both infrastructure and deployment. Today, lack of dynamic control across wireless network resources is leading to unbalanced spectrum loads and a perceived capacity bottleneck. These will be solved by SPEED-5G through eDSA (extended DSA), which is resource management with three degrees of freedom: densification, rationalized traffic allocation over heterogeneous wireless technologies, and better load balancing across available spectrum.\nSPEED-5G will investigate indoor and indoor/outdoor scenarios where capacity demands are the highest, but also where the eDSA will be the most effective at exploiting co-operation across technologies and bands. \nThe project will focus on two major innovations which are currently missing: resource management techniques across technology ësilosí, and medium access technologies to address densification in mostly unplanned environments. It will leverage flexible radio approaches expected in 5G (e.g. FBMC). \nSPEED-5G has a very strong consortium, with a mix of operators, industrial partners, SMEs and leading European research institutes. They bring considerable knowledge and technology background to the project in architecture, resource management, protocols, radios, standardization, trials and tests, along with the most advanced of trial facilities, like the 5GIC centre.\nThe SPEED-5G innovations will be considered in an architectural framework consistent with the 5GPPP. They will be researched, implemented and trialled in SPEED-5G in order to reach high level of maturity and confidence. This will guarantee impact on the 5GPPP program as a whole, on standards and on European technical leadership.",
+    "totalCost": "5662382,25",
+    "ecMaxContribution": "5612382",
+    "coordinator": "UNIVERSITY OF SURREY",
+    "coordinatorCountry": "UK",
+    "participants": "SISTELBANDA SA;Instituto de TelecomunicaÁıes;WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INTRACOM SA TELECOM SOLUTIONS;INTEL DEUTSCHLAND GMBH;EURESCOM-EUROPEAN INSTITUTE FOR RESEARCH AND STRATEGIC STUDIES IN TELECOMMUNICATIONS GMBH;ROHDE & SCHWARZ GMBH&CO KOMMANDITGESELLSCHAFT;BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+    "participantCountries": "ES;PT;EL;FR;DE;UK",
+    "projectParticipants": {
+        "999580248": {
+            "orgId": "999580248",
+            "orgName": "INSTITUTO DE TELECOMUNICACOES",
+            "ecContrib": 0
+        },
+        "999912279": {
+            "orgId": "999912279",
+            "orgName": "EURESCOM-EUROPEAN INSTITUTE FOR RESEARCH AND STRATEGIC STUDIES IN TELECOMMUNICATIONS GMBH",
+            "ecContrib": 514318
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 954855
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 940125
+        },
+        "999908593": {
+            "orgId": "999908593",
+            "orgName": "BRITISH TELECOMMUNICATIONS PUBLIC LIMITED COMPANY",
+            "ecContrib": 366911
+        },
+        "941413907": {
+            "orgId": "941413907",
+            "orgName": "SISTELBANDA SA",
+            "ecContrib": 369902
+        },
+        "999969994": {
+            "orgId": "999969994",
+            "orgName": "INTRACOM SA TELECOM SOLUTIONS",
+            "ecContrib": 323125
+        },
+        "999949430": {
+            "orgId": "999949430",
+            "orgName": "ROHDE & SCHWARZ GMBH&CO KOMMANDITGESELLSCHAFT",
+            "ecContrib": 646250
+        },
+        "967538432": {
+            "orgId": "967538432",
+            "orgName": "INTEL DEUTSCHLAND GMBH",
+            "ecContrib": 557425
+        },
+        "952269953": {
+            "orgId": "952269953",
+            "orgName": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE",
+            "ecContrib": 526846
+        }
+    },
+    "calculatedTotalContribution": 5199757
+}

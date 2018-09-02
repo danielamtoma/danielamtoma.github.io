@@ -1,0 +1,17 @@
+{
+    "rcn": "216244",
+    "acronym": "ESCADA",
+    "topics": "ERC-2017-ADG",
+    "title": "Energy-optimized Symmetric Cryptography by Algebraic Duality Analysis",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2023",
+    "objective": "The main scientific contribution of this project will be a breakthrough in the understanding of cryptanalytic and side channel attacks of symmetric cryptosystems. We will do this by a unification of attacks that will a stepping stone to the holy grail of symmetric cryptography: provable security of concrete cryptosystems. The main real-world impact is that we will build cryptosystems that are much more efficient than those used today while having the same strength. Depending on the platform, higher efficiency translates to lower energy/power (in-body sensors, contactless payment cards etc.), but also lower latency (authentication for e.g car brakes or airbags) and/or lower heat dissipation (on-the-fly encryption of high bandwidth data streams). In a software implementation it simply means less CPU cycles per byte.\n\nWe build our cryptosystems as modes, on top of block ciphers or permutations. For these primitives we adopt the classical technique of iterating a simple round function (more rounds means more security but less efficiency). We focus on round functions of algebraic degree 2. Their relative simplicity will allow a unification of all cryptanalytic attacks that exploit propagation of affine varieties and polynomial ideals (their dual) through the rounds and to precisely estimate their success rates. Moreover, we will design modes that strongly restrict the exposure of the primitive(s) to attackers and that permit security reductions to specific properties of the underlying primitive(s) in a formally verifiable way. In comparison to the classical pseudorandom and ideal permutation models, this will allow reducing the number of rounds while preserving security with high assurance. We will also study side channel attacks of our round functions and ways to defend against them. We will make ASIC prototypes and implement novel efficient countermeasures against side channel attacks and use this to evaluate their effectiveness in practice.",
+    "totalCost": "2514071,25",
+    "ecMaxContribution": "2500000",
+    "coordinator": "STICHTING KATHOLIEKE UNIVERSITEIT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

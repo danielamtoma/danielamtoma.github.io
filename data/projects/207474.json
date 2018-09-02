@@ -1,0 +1,43 @@
+{
+    "rcn": "207474",
+    "acronym": "Levitate",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "Levitation with localised tactile and audio feedback for mid-air interactions",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "'This project will be the first to create, prototype and evaluate a radically new human-computer interaction paradigm that\nempowers the unadorned user to reach into levitating matter, see it, feel it, manipulate it and hear it. Our users can interact\nwith the system in a walk-up-and-use manner without any user instrumentation.\n\nAs we are moving away from keyboards and mice to touch and touchless interactions, ironically, the main limit is the lack of\nany physicality and co-located feedback. In this project, we propose a highly novel vision of bringing the physical interface to\nthe user in mid-air. In our vision, the computer can control the existence, form, and appearance of complex levitating objects\ncomposed of 'levitating atoms'. Users can reach into the levitating matter, feel it, manipulate it, and hear how they deform it\nwith all feedback originating from the levitating object's position in mid-air, as it would with objects in real life. This will\ncompletely change how people use technology as it will be the first time that they can interact with technology in the same\nway they would with real objects in their natural environment.\n\nWe will draw on our understanding of acoustics to implement all of the components in a radically new approach. In particular,\nwe will draw on ultrasound beam-forming and manipulation techniques to create acoustic forces that can levitate particles\nand to provide directional audio cues. By using a phased array of ultrasound transducers, the team will create levitating\nobjects that can be individually controlled and at the same time create tactile feedback when the user manipulates these\nlevitating objects. We will then demonstrate that the levitating atoms can each become sound sources through the use of\nparametric audio with our ultrasound array serving as the carrier of the audible sound. We will visually project onto the objects to create a rich multimodal display floating in space.'",
+    "totalCost": "2999870",
+    "ecMaxContribution": "2999870",
+    "coordinator": "UNIVERSITY OF GLASGOW",
+    "coordinatorCountry": "UK",
+    "participants": "AARHUS UNIVERSITET;ULTRAHAPTICS LIMITED;THE UNIVERSITY OF SUSSEX;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "DK;UK;SE",
+    "projectParticipants": {
+        "999852721": {
+            "orgId": "999852721",
+            "orgName": "THE UNIVERSITY OF SUSSEX",
+            "ecContrib": 669365
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 529750
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 705685
+        },
+        "930884848": {
+            "orgId": "930884848",
+            "orgName": "ULTRAHAPTICS LIMITED",
+            "ecContrib": 487820
+        },
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 607250
+        }
+    },
+    "calculatedTotalContribution": 2999870
+}

@@ -1,0 +1,48 @@
+{
+    "rcn": "213089",
+    "acronym": "Mont-Blanc 2020",
+    "topics": "ICT-05-2017",
+    "title": "Mont-Blanc 2020, European scalable, modular and power efficient HPC processor",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2020",
+    "objective": "The Mont-Blanc 2020 (MB2020) project ambitions to initiate the development of a future low-power European processor for Exascale. MB2020 lays the foundation for a European consortium aiming at delivering a processor with great energy efficiency for HPC and server workloads.  A first generation product is scheduled in the 2020 time frame.\n\nOur target is to reach exascale-level power efficiency (50 Gflops/Watt at processor level) with a second generation planned for 2022. Therefore, we will, within MB2020: \n1. define a low-power System-on-Chip (SoC) implementation targeting Exascale, with built-in security and reliability features;\n2. introduce strong innovations to improve efficiency with real-life applications and to outperform competition (vector instruction implementation, memory latency and bandwidth, power management, 2.5D integration);\n3. develop key modules (IPs) needed for this implementation; \n4. provide a working prototype demonstrating MB2020 key components and system level simulations, with a co-design approach based on real-life applications;\n5. explore the reuse of these building blocks to serve other markets than HPC. \n\nOur key choices are:\na) To use the ARM ISA (Instruction Set Architecture) because its has strong technological relevance and it offers a dynamic ecosystem, which is needed to deliver the system software and applications mandatory for successful market acceptance. \nb) To design, implement or leverage new technologies (Scalable Vector Extension, NoC, High Bandwidth Memory, Power Management, Ö) as well as innovative packaging technologies to improve the versatility, performance, power efficiency, reliability, and security of the processor.\nc) To improve on the economic sustainability of processor development through a modular design that allows to retarget our SoC for different markets.",
+    "totalCost": "10131848,75",
+    "ecMaxContribution": "10131848,75",
+    "coordinator": "BULL SAS",
+    "coordinatorCountry": "FR",
+    "participants": "KALRAY SA;FORSCHUNGSZENTRUM JULICH GMBH;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;SEMIDYNAMICS TECHNOLOGY SERVICES SL;ARM LIMITED;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "FR;DE;ES;UK",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 950000
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 2049924
+        },
+        "999813824": {
+            "orgId": "999813824",
+            "orgName": "ARM LIMITED",
+            "ecContrib": 549888
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 3881162
+        },
+        "996335695": {
+            "orgId": "996335695",
+            "orgName": "KALRAY SA",
+            "ecContrib": 458125
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 542060
+        }
+    },
+    "calculatedTotalContribution": 8431159
+}

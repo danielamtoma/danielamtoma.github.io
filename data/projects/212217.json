@@ -1,0 +1,53 @@
+{
+    "rcn": "212217",
+    "acronym": "ROMI",
+    "topics": "SFS-05-2017",
+    "title": "RObotics for MIcrofarms",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2021",
+    "objective": "All over Europe, young farmers are starting small market farms. These farms can be found both in rural, peri-urban and urban areas. They grow a large variety of crops (up to 100 different varieties of vegetables per year) on small surfaces (0.01 to 5 ha) using organic farming practices. These farms have proven to be highly productive, sustainable and economically viable. But, a lot of work is done manually, resulting in physically challenging work conditions. \n\nROMI will develop an open and lightweight robotics platform for these microfarms. We will assist these farms in weed reduction and crop monitoring. This will reduce manual labour and increase the productivity. Thanks to ROMIís weeding robot, farmers will save 25% of their time. This land robot will also acquire detailed information on sample plants and will be coupled with a drone that acquires more global information at crop level. Together, they will produce an integrated, multi-scale picture of the crop development that will help the farmer monitor the crops to increase efficient harvesting. For this, ROMI will have to adapt and extend state-of-the-art land-based and air-borne monitoring tools to handle small fields with complex layouts and mixed crops.\n\nTo achieve this, we will: (i) develop and bring to the market an affordable, multi-purpose, land-based robot, (ii) develop a weeding app for this robot that is adapted for organic microfarms, (iii) apply advanced 3D plant analysis and modelling techniques to in-field data acquisition, (iv) integrate these analysis techniques in the robot for detailed plant monitoring, (iv) integrate these techniques also in the aerial drone N-E-R-O for multi-scale crop monitoring, (v) extend the robot with novel, adaptive learning techniques to improve sensorimotor control of the plant monitoring app, and (vii) test the effectiveness of our solution in real-world field conditions.\n\nA spin-off will be created to bring the robot and the drone to the market of micro-farms.",
+    "totalCost": "3868186,25",
+    "ecMaxContribution": "3868186,25",
+    "coordinator": "INSTITUT D'ARQUITECTURA AVANCADA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;SONY EUROPE LIMITED;FRANCE EUROPE INNOVATION;SCEA PEPINIERES CHATELAIN;HUMBOLDT-UNIVERSITAET ZU BERLIN;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR;UK;DE",
+    "projectParticipants": {
+        "998959933": {
+            "orgId": "998959933",
+            "orgName": "FRANCE EUROPE INNOVATION",
+            "ecContrib": 197000
+        },
+        "999850781": {
+            "orgId": "999850781",
+            "orgName": "HUMBOLDT-UNIVERSITAET ZU BERLIN",
+            "ecContrib": 680250
+        },
+        "960670347": {
+            "orgId": "960670347",
+            "orgName": "SONY EUROPE LIMITED",
+            "ecContrib": 879088
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 487831
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 641745
+        },
+        "914479820": {
+            "orgId": "914479820",
+            "orgName": "SCEA PEPINIERES CHATELAIN",
+            "ecContrib": 329148
+        },
+        "957944453": {
+            "orgId": "957944453",
+            "orgName": "INSTITUT D'ARQUITECTURA AVANCADA DE CATALUNYA",
+            "ecContrib": 653125
+        }
+    },
+    "calculatedTotalContribution": 3868187
+}

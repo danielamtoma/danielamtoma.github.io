@@ -1,0 +1,28 @@
+{
+    "rcn": "210616",
+    "acronym": "NAFTI",
+    "topics": "JTI-CS2-2016-CFP04-FRC-02-17",
+    "title": "Noise Abatement Fms with Tactile Interface",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2021",
+    "objective": "NAFTI will entirely cover the topic description. NAFTI will develop, manufacture, test and qualify, up to safe for flight status, a FMS supporting complex noise abatement trajectories while reducing crew workload in order to improve safety. Two key elements will contribute to this workload reduction:\n1/ Automation by coupling the FMS to the flight control system.\n2/ An efficient HMI taking benefit from a graphical and tactile user interface.\nThe entire FMS will comply with the safety requirements for HAZARDOUS failure conditions in a CS-29 certification context.\nNAFTI will make following advancements starting from Clean Sky 1 results owned by Airbus Helicopters:\n- From conventional to compound rotorcraft.\n- From manually flow to automatically flown complex trajectories.\n- From alphanumeric keyboard & display to touch enabled GUI. \nThe FMS will be a drop-in replacement for the CMC CMA-9000 which is currently used in the targeted avionics suites. This de-risks the integration of the NAFTI FMS. The project will be done by Esterline Belgium, located  in Kortrijk (Belgium, EU) in collaboration with Esterline CMC Electronics, located in Montreal (Canada). The activities in Montreal will not require any form of EU funding. This collaboration brings together cutting edge touch enabled display expertise from Esterline Belgium and top notch FMS expertise from CMC. Additionally, the two locations give access to complementary markets for future exploitation of the results.\nNAFTI will reduce weight, power and cost at helicopter level. This will result in lower cost of ownership, lower environmental footprint and better rotorcraft performance. This improves competitiveness for the helicopter manufacturer. The exploitation of the FMS will rely on production activities in Belgium using a supply chain with a large share in Europe.",
+    "totalCost": "2190700",
+    "ecMaxContribution": "1100000",
+    "coordinator": "ESTERLINE BELGIUM",
+    "coordinatorCountry": "BE",
+    "participants": "CMC ELECTRONICS INC.",
+    "participantCountries": "CA",
+    "projectParticipants": {
+        "931670257": {
+            "orgId": "931670257",
+            "orgName": "ESTERLINE BELGIUM",
+            "ecContrib": 1100000
+        },
+        "917296506": {
+            "orgId": "917296506",
+            "orgName": "CMC ELECTRONICS INC.",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1100000
+}

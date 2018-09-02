@@ -1,0 +1,73 @@
+{
+    "rcn": "206021",
+    "acronym": "PJ22 SEabird",
+    "topics": "SESAR.IR-VLD.Wave1-03-2015",
+    "title": "PJ22:Validation and Demonstration Engineering",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "The aim of SESAR2020.PJ22 is to address one of the Transversal Activities, specifically Validation & Demonstration Engineering. In SESAR 1, the application of an engineering methodology defining the process for development of verification and validation platforms, was optionally mandated to the primary projects, leading to a different level of information available across the Programme. The delivery of information to SJU did not always reach the necessary consistency and quality, e.g. preventing the understanding of coverage and traceability of operational requirements vs. technical requirements. SE data were typically captured via Word templates requiring significant effort to extract the information with not homogeneous level of details thus insufficient to guarantee the usability and significance for the SESAR Community. In SESAR 2020 there is a demand to improve consistently the situation and PJ22 will provide a System Engineering Data Management Framework (SE-DMF), aiming to support all SESAR Solutions with a (web based) platform for Requirements Management to capture data in a structured way ensuring consistency, coherence and coverage at Programme level. PJ22 will develop an efficient approach based on a data-centric, data-driven rather than document-based paradigm.  SE-DMF will be set up as a service and run in a secured IaaS infrastructure to enable cost reduction, high level of ROI, ease of use and scalability. The project will support the SESAR Solution Maturity Lifecycle and Gates.\nAnother challenge is to identify a set of strategic validation tools and interoperability solutions to improve the SESAR 2020 validation process. Maintaining and improving the development methodologies for the SESAR solution and VLSD projects together with managing the catalogue of the V&V and Demonstration Platforms and associated documentation describing their current capabilities and their planned evolution is under the scope of the project.",
+    "totalCost": "3355719,3",
+    "ecMaxContribution": "1250023,91",
+    "coordinator": "ENAV SPA",
+    "coordinatorCountry": "IT",
+    "participants": "AIRBUS SAS;POLSKA AGENCJA ZEGLUGI POWIETRZNEJ;RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK;DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE;VALSTYBES IMONE ORO NAVIGACIJA;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;INDRA SISTEMAS SA;THALES LAS FRANCE SAS;LETOVE PREVADZKOVE SLUZBY SLOVENSKEJ REPUBLIKY, STATNY PODNIK;LEONARDO - SOCIETA PER  AZIONI",
+    "participantCountries": "FR;PL;CZ;LT;BE;ES;SK;IT",
+    "projectParticipants": {
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 81684
+        },
+        "995562023": {
+            "orgId": "995562023",
+            "orgName": "POLSKA AGENCJA ZEGLUGI POWIETRZNEJ",
+            "ecContrib": 0
+        },
+        "919915991": {
+            "orgId": "919915991",
+            "orgName": "VALSTYBES IMONE ORO NAVIGACIJA",
+            "ecContrib": 238901
+        },
+        "957126452": {
+            "orgId": "957126452",
+            "orgName": "LETOVE PREVADZKOVE SLUZBY SLOVENSKEJ REPUBLIKY, STATNY PODNIK",
+            "ecContrib": 0
+        },
+        "999963010": {
+            "orgId": "999963010",
+            "orgName": "AIRBUS SAS",
+            "ecContrib": 118826
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 119717
+        },
+        "928673636": {
+            "orgId": "928673636",
+            "orgName": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+            "ecContrib": 4900
+        },
+        "998197513": {
+            "orgId": "998197513",
+            "orgName": "ENAV SPA",
+            "ecContrib": 547062
+        },
+        "999961555": {
+            "orgId": "999961555",
+            "orgName": "THALES LAS FRANCE SAS",
+            "ecContrib": 138935
+        },
+        "954552363": {
+            "orgId": "954552363",
+            "orgName": "RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK",
+            "ecContrib": 0
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1250025
+}

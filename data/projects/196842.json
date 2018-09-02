@@ -1,0 +1,48 @@
+{
+    "rcn": "196842",
+    "acronym": "NanoDome",
+    "topics": "NMP-20-2014",
+    "title": "Nanomaterials via Gas-Phase Synthesis: A Design-Oriented Modelling and Engineering Approach",
+    "startDate": "15/09/2015",
+    "endDate": "14/09/2018",
+    "objective": "The main objective of the NanoDome project is to develop a robust model-based design and engineering toolkit for the detailed prediction of complex nanomaterial structures produced in a commercially-relevant generic bottom-up Gas-Phase (GP) synthesis process, to improve the control of the nanomaterial production and the industrially-scalable GP synthesis process for more accurate final product properties (e.g. particle size, surface area, structure, chemical composition, morphology and functionalization coatings) and provide potential end-users with a validated tool based on scientific principles that enables predictive design of novel nanomaterials and novel GP production routes thereby shortening their development process. This will be pursued by combining computational modelling, software development and systematic validation activities at lab- and industrial-scale in a three-year project. Existing meso-scale nanomaterial GP synthesis modelling approaches (Lagrangian and stochastic) will be extended and integrated with continuum-scale reactor models to provide a fully functional single discrete mesoscopic model for the evolution of the nanoparticle population inside a control volume as a function of time, together with detailed description of nanoparticle composition and internal structure (e.g. core-shell, multi-layer, radially-dependent composition), particle interaction, coagulation and morphology. Industrial and lab-scale validation will focus on a set of target materials of great impact for the EU, using technologies currently at TRL4-6. The work proposed in the NanoDome project addresses the aforementioned challenges by delivering a modelling and analysis tool for the detailed prediction of complex nanomaterial structures formation in a single-step and industrially scalable GP synthesis process, in order to optimize existing processes, shorten the development of new processes and increase the production rates.",
+    "totalCost": "3999110",
+    "ecMaxContribution": "3999110",
+    "coordinator": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+    "coordinatorCountry": "IT",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;COMPUTATIONAL MODELLING CAMBRIDGE LIMITED;UNIVERSITAET DUISBURG-ESSEN;CONSIGLIO NAZIONALE DELLE RICERCHE;UMICORE",
+    "participantCountries": "UK;DE;IT;BE",
+    "projectParticipants": {
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 821295
+        },
+        "972238470": {
+            "orgId": "972238470",
+            "orgName": "COMPUTATIONAL MODELLING CAMBRIDGE LIMITED",
+            "ecContrib": 697613
+        },
+        "999893461": {
+            "orgId": "999893461",
+            "orgName": "UMICORE",
+            "ecContrib": 737149
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 580000
+        },
+        "999843312": {
+            "orgId": "999843312",
+            "orgName": "UNIVERSITAET DUISBURG-ESSEN",
+            "ecContrib": 692500
+        }
+    },
+    "calculatedTotalContribution": 3528557
+}

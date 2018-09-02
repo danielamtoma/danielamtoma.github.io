@@ -1,0 +1,53 @@
+{
+    "rcn": "194262",
+    "acronym": "CYCLONE",
+    "topics": "ICT-07-2014",
+    "title": "Complete  Dynamic Multi-cloud Application Management",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Application service providers (ASPs) now develop, deploy, and maintain complex computing platforms within multiple cloud infrastructures to improve resilience, responsiveness and elasticity of their applications.  The CYCLONE project targets the ASPs, providing them with software and tools that 1) facilitate the deployment, management, and use of their complex, multi-cloud applications and 2) enhance the end-to-end security and network management of those applications.\n\nUsing agile methodologies and continuous delivery, CYCLONE integrates and improves mature, open-source components, such as StratusLab, OpennNaaS, SlipStream, and TCTP. Participants from the bioinformatics and energy sectors will guide the initial platform development; use cases from additional sectors identified during the project will drive its subsequent evolution.  Constant availability of the CYCLONE testbed allows all these users to rapidly prototype their complex cloud applications and to provide continuous feedback to the developers, thus validating the CYCLONE softwareís design, implementation, and production quality.\n\nCYCLONE allows ASPs to aggregate resources from multiple cloud providers (private and public) to improve the reliability of their applications through geographic redundancy, to enhance the user experience by placing services (and data) near their users, to lower barriers between cloud providers via a cloud deployment engine with appropriate resource abstractions, and to tailor intra- and inter-site networking resources.  Coupled with application-level security features and trust bootstrapping mechanisms, CYCLONE allows ASPs to define their own innovative and secure cloud platform tailored to their needs and trusted by their users.",
+    "totalCost": "3843602",
+    "ecMaxContribution": "2846402",
+    "coordinator": "INTEROUTE S.P.A.",
+    "coordinatorCountry": "IT",
+    "participants": "SIXSQ SARL;TECHNISCHE UNIVERSITAET BERLIN;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA;QSC AG;UNIVERSITEIT VAN AMSTERDAM",
+    "participantCountries": "CH;DE;FR;ES;NL",
+    "projectParticipants": {
+        "992420096": {
+            "orgId": "992420096",
+            "orgName": "INTEROUTE S.P.A.",
+            "ecContrib": 338800
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 471910
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 508567
+        },
+        "996552684": {
+            "orgId": "996552684",
+            "orgName": "SIXSQ SARL",
+            "ecContrib": 0
+        },
+        "952745544": {
+            "orgId": "952745544",
+            "orgName": "QSC AG",
+            "ecContrib": 465062
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 452062
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 610000
+        }
+    },
+    "calculatedTotalContribution": 2846401
+}

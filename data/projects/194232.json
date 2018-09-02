@@ -1,0 +1,58 @@
+{
+    "rcn": "194232",
+    "acronym": "INPUT",
+    "topics": "ICT-07-2014",
+    "title": "In-Network Programmability for next-generation personal cloUd service supporT",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The INPUT Project aims at designing a novel infrastructure and paradigm to support Future Internet personal cloud services in a more scalable and sustainable way and with innovative added-value capabilities. The INPUT technologies will enable next-generation cloud applications to go beyond classical service models, and even to replace physical Smart Devices, usually placed in usersí homes (e.g., set-top-boxes, etc.) or deployed around for monitoring purposes (e.g., sensors), with their virtual images, providing them to users ìas a Service.î Virtual and physical SDs will be made available to users at any time and at any place by means of virtual cloud-powered Personal Networks, which will constitute an underlying service model. These Personal Networks will provide users the perception to be always in their home LAN with their own smart digital (virtual and physical) devices. \nThe INPUT project will overcome current limitations in the cloud service design due to the underlying obsolete network paradigms and technologies, by:\nï Using the computing and storage capabilities of network appliances to allow users create private clouds ìin the networkî;\nï Exploiting the energy consumed in network appliances more efficiently than in traditional cloud computing scenarios;\nï Moving cloud services much closer to end-users and smart-devices, thus avoiding useless network infrastructure overloading. \nThe INPUT Project will foster future-proof Internet infrastructures that will be ìsmarter,î fully virtualized, power vs. performance optimised, and vertically integrated with cloud computing, with a clear impact on OPEX and CAPEX of Telecoms, of Service Providers, and of end-users. The INPUT project will extend the programmability of network devices to make them able to host cloud service applications, which will cooperate with the ones in usersí terminals and datacenters to realize the aforementioned cloud services.",
+    "totalCost": "3108001",
+    "ecMaxContribution": "3108001",
+    "coordinator": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+    "coordinatorCountry": "IT",
+    "participants": "DUBLIN CITY UNIVERSITY;GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS;COSMOTE KINITES TILEPIKOINONIES AE;INFOCOM S.R.L.;ERICSSON TELECOMUNICAZIONI;TELECOM ITALIA SPA;JULIUS-MAXIMILIANS-UNIVERSITAT WURZBURG;HOP UBIQUITOUS SL",
+    "participantCountries": "IE;EL;IT;DE;ES",
+    "projectParticipants": {
+        "999654550": {
+            "orgId": "999654550",
+            "orgName": "COSMOTE KINITES TILEPIKOINONIES AE",
+            "ecContrib": 211250
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 201875
+        },
+        "949752221": {
+            "orgId": "949752221",
+            "orgName": "HOP UBIQUITOUS SL",
+            "ecContrib": 200000
+        },
+        "999892588": {
+            "orgId": "999892588",
+            "orgName": "DUBLIN CITY UNIVERSITY",
+            "ecContrib": 280625
+        },
+        "985034419": {
+            "orgId": "985034419",
+            "orgName": "GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",
+            "ecContrib": 323750
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 844375
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 462000
+        },
+        "985866485": {
+            "orgId": "985866485",
+            "orgName": "INFOCOM S.R.L.",
+            "ecContrib": 283438
+        }
+    },
+    "calculatedTotalContribution": 2807313
+}

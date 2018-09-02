@@ -1,0 +1,58 @@
+{
+    "rcn": "212990",
+    "acronym": "PDE-GIR",
+    "topics": "MSCA-RISE-2017",
+    "title": "PDE-based geometric modelling, image processing, and shape reconstruction",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "Geometric modelling, image processing, and shape reconstruction have huge applications in various sectors and greatly impact on EUís economy, human health, security, entertainment and others. Existing problems such as big data and heavy manual operations in geometric modelling, incapacity in image processing in continuous domains, and lack of continuity and differentiability in shape reconstruction seriously affect quality, efficiency and capacity. Partial differential equation (PDE) based techniques provide effective solutions to these problems. Current PDE-based modelling cannot achieve both powerful capacity and high computational performance. PDE-based image processing suffers from expensive cost and local minimization. PDE-based shape reconstruction has not been developed.\n\nPDE-GIR will tackle above mentioned problems by developing advanced PDE based techniques, exploiting their applications through exchanges of research and innovation staff, international and intersectoral collaborations, and knowledge transfer. It consists of four work packages. ìPaModî will develop new PDE-based modelling techniques to obtain powerful capacity and high computational performance. ìVaModî will develop new variational models to improve efficiency and quality. ìShaReconsî will combine new PDE-based modelling with variational models to solve the problems of continuity, differentiability, and big data. ìM&Dî is designed to efficiently manage the project, disseminate research output, and promote the applications of the developed techniques.\n\nThe consortium consists of leading experts who have been working at the forefront of geometric modelling, image processing and shape reconstruction for many years. PDE-GIR will combine their strengths to achieve the success of the proposed research. The developed techniques will be applied in academic and non-academic sectors, and integrated into IDFís services and products to promote technology innovation and realize their commercial value.",
+    "totalCost": "535500",
+    "ecMaxContribution": "535500",
+    "coordinator": "BOURNEMOUTH UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSIDAD DE CANTABRIA;UAB INDEFORM;UNIVERSITETET I BERGEN;UNIVERSIDAD DE SEVILLA;UNIVERSITY OF BRADFORD",
+    "participantCountries": "ES;LT;NO;UK",
+    "projectParticipants": {
+        "999880075": {
+            "orgId": "999880075",
+            "orgName": "UNIVERSIDAD DE CANTABRIA",
+            "ecContrib": 36000
+        },
+        "999862906": {
+            "orgId": "999862906",
+            "orgName": "BOURNEMOUTH UNIVERSITY",
+            "ecContrib": 126000
+        },
+        "953932242": {
+            "orgId": "953932242",
+            "orgName": "UNIVERSITI TEKNOLOGI MALAYSIA",
+            "ecContrib": 0
+        },
+        "930336119": {
+            "orgId": "930336119",
+            "orgName": "UAB INDEFORM",
+            "ecContrib": 22500
+        },
+        "999974456": {
+            "orgId": "999974456",
+            "orgName": "UNIVERSITETET I BERGEN",
+            "ecContrib": 238500
+        },
+        "999899766": {
+            "orgId": "999899766",
+            "orgName": "UNIVERSITY OF BRADFORD",
+            "ecContrib": 76500
+        },
+        "946627851": {
+            "orgId": "946627851",
+            "orgName": "COMSATS INSTITUTE OF INFORMATION TECHNOLOGY",
+            "ecContrib": 0
+        },
+        "999862518": {
+            "orgId": "999862518",
+            "orgName": "UNIVERSIDAD DE SEVILLA",
+            "ecContrib": 36000
+        }
+    },
+    "calculatedTotalContribution": 535500
+}

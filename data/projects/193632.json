@@ -1,0 +1,23 @@
+{
+    "rcn": "193632",
+    "acronym": "TIME-BRIDGE",
+    "topics": "ERC-StG-2014",
+    "title": "Time-scale bridging potentials for realistic molecular dynamics simulations",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2020",
+    "objective": "The possibility to produce materials with ultra-strengths could revolutionize materials design. Since 80 years ultra-strength materials are known to exist only theoretically. Now, new experiments show that traditional believe can be overcome by nanostructured design. Yet, while selected experiments point towards this scientifically fascinating and technologically important possibility (e.g., for advances in structural and functional materials), further progress crucially relies on insight from theoretical simulations. The most successful simulation tool is molecular dynamics. Recent advances in hardware allow to tackle trillions of atoms making a comparison with nano-experiments almost possible. The nagging problem is, however, a huge time-scale gap of up to ten orders of magnitude and none of the presently available approaches is able to cope with this discrepancy.\nTIME-BRIDGE aims at solving the time-scale problem by borrowing a concept well known and developed in the field of first-principles simulations: the pseudopotential ansatz. In first principles simulations a similar time scale gap exists between slow and fast moving electrons. The solution is to capture the effect of the fast electrons only effectively within a pseudopotential while retaining the motion of slow electrons important for chemical bonding. An equivalent pseudopotential ansatz is envisioned to be applicable to the fast thermal motion of atoms, the origin of the time scale problem. Capturing the thermal motion in an effective potential will allow to simulate the relevant mechanical processes occurring on microsecond and second time scales. In TIME-BRIDGE high risk and high gains apply: the physics of electrons is distinct from the atomic motion possibly making the pseudopotential ansatz non-transferable, butóbased on PIís distinguished expertise and his recent methodological advancementsóa route to bridge the fundamental time scale gap might arise.",
+    "totalCost": "1499375",
+    "ecMaxContribution": "1499375",
+    "coordinator": "MAX PLANCK INSTITUT FUR EISENFORSCHUNG GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998816858": {
+            "orgId": "998816858",
+            "orgName": "MAX PLANCK INSTITUT FUR EISENFORSCHUNG GMBH",
+            "ecContrib": 1499375
+        }
+    },
+    "calculatedTotalContribution": 1499375
+}

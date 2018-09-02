@@ -1,0 +1,23 @@
+{
+    "rcn": "193659",
+    "acronym": "MECTRL",
+    "topics": "ERC-StG-2014",
+    "title": "Measurement-based dynamic control of mesoscopic many-body systems",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2020",
+    "objective": "Quantum control is an ambitious framework for steering dynamics from initial states to arbitrary desired final states. It has over the past decade been used extensively with immense success for control of low- dimensional systems in as varied fields as molecular dynamics and quantum computation. Only recently have efforts been initiated to extend this to higher-dimensional many-body systems. Most generic quantum control schemes to date, however, put quite heavy requirements on the controllability of either the system Hamiltonian or a set of measurement operators. This will in many realistic scenarios prohibit an efficient realization.\n\nWithin this proposal, I will develop a new quantum control scheme, which is minimalistic on system requirements and therefore ideally suited for the efficient and reliable optimization of many-body control problems. The fundamentally new ingredient is the total quantum evolution dictated by a combination of fixed many-body time evolution and the precise knowledge of the quantum back-action due to repeated quantum non-destruction (QND) measurements of a single projection operator. \nThe main focus of this proposal is theoretical and experimental quantum engineering of the dynamics in systems, which are sufficiently small to calculate the measurement back-action exactly and sufficiently large to have interesting many-body properties.\nRecent experimental advances in single site manipulation of bosons in optical lattices have enabled the high fidelity preparation exactly such mesoscopic samples of atoms (5-50). This forms an ideal starting point for many-body quantum control, and we will i.a. demonstrate engineering of quantum phase transitions and preparation of highly non-classical Schˆdinger cat states.\n\nFinally, using the results from an online graphical interface allowing users of the internet to solve quantum problems we will attempt to build next-generation optimization computer algorithms with a higher level of cognition built in.",
+    "totalCost": "1499406",
+    "ecMaxContribution": "1499406",
+    "coordinator": "AARHUS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 1499406
+        }
+    },
+    "calculatedTotalContribution": 1499406
+}

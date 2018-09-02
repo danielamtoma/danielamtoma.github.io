@@ -1,0 +1,23 @@
+{
+    "rcn": "193503",
+    "acronym": "ERC-EuropePMC-2-2014",
+    "topics": "ERC",
+    "title": "Extracting funding statements from full text research articles in the life sciences",
+    "startDate": "01/09/2014",
+    "endDate": "31/08/2015",
+    "objective": "In support of the ERC open access strategy, it is critical for the ERC to identify published scientific articles that have been based on its funding schemes, in order to assess the impact of the research supported. Currently, the relationship between funding source and article is made only sporadically, years later in end-of-grant reports, or lost altogether, as there is no structured method for recording these associations. \n\nIdeally, the funding source should be identified as part of journal manuscript submission processes, however, this idea is currently in its very early stages and will not address the backlog of articles already published. Therefore, we propose to use text-mining methods to identify funding statements in full text articles available in Europe PubMed Central as an accurate and cost-effective solution to linking articles to funding sources. We will assess the outcomes through standard text-mining quality-assessment methods as well as through consultation with ERCEA staff. Anticipating useful outcomes, we will use the methods developed to identify ERC-funded articles in Europe PubMed Central on a routine basis, and make those results available in the search and article browse features on the Europe PubMed Central website. Finally, we will explore the feasibility of extending the approach to other Europe PubMed Central funders.",
+    "totalCost": "60000",
+    "ecMaxContribution": "60000",
+    "coordinator": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 60000
+        }
+    },
+    "calculatedTotalContribution": 60000
+}

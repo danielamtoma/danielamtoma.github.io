@@ -1,0 +1,53 @@
+{
+    "rcn": "193283",
+    "acronym": "METASPACE",
+    "topics": "PHC-32-2014",
+    "title": "Bioinformatics for spatial metabolomics",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2018",
+    "objective": "Metabolomics is recognized as a crucial scientific domain, promising to advance our understanding of biology, physiology, and medicine. The emergence of high-resolution imaging mass spectrometry (HR imaging MS) opened doors to spatial profiling of hundreds of metabolites directly from tissue sections. However, clinical use of HR imaging MS is hampered by a lack of clinically-oriented bioinformatics tools for molecular interpretation of the complex and information-rich data produced. Our goal is to address this bottleneck. We will develop algorithms for high-throughput putative annotation of hundreds of metabolites, knowledge-based downstream analysis, and validation of biologically-relevant leads. We will create the METASPACE engine, an open online platform providing these tools integrated into validated workflows for clinical use. This engine will be evaluated in clinical case studies on metabolic phenotyping of tumor response to chemotherapy and polymicrobial infections in cystic fibrosis. This demonstration will raise awareness and build trust among potential end-users. METASPACE will create a research ecosystem for exploitation of spatial metabolomic data that benefits both academics and industry. An open-source approach will stimulate developments in this field and provide a sustainable platform capable of incorporating future bioinformatics. Our user-centred tools, linked to existing molecular databases, will enable researchers without mass spectrometry or bioinformatics experience to turn big and complex HR imaging MS data into molecular knowledge. A considerable outreach effort, alongside constant interaction with the clinical metabolomics community, will maximize impact and dissemination. By engaging and educating envisaged end-users, METASPACE will facilitate future clinical discoveries in studies that require untargeted metabolic profiling and imaging. Our project will drive innovation and create a novel bioinformatics research field centred in Europe.",
+    "totalCost": "2998944",
+    "ecMaxContribution": "2998944",
+    "coordinator": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+    "coordinatorCountry": "DE",
+    "participants": "BRUKER DALTONIK GMBH;IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;EUROPEAN RESEARCH SERVICES GMBH;SCILS GMBH;VIB;THE REGENTS OF THE UNIVERSITY OF CALIFORNIA;UNIVERSITE DE RENNES I",
+    "participantCountries": "DE;UK;BE;US;FR",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 601679
+        },
+        "998054050": {
+            "orgId": "998054050",
+            "orgName": "EUROPEAN RESEARCH SERVICES GMBH",
+            "ecContrib": 78622
+        },
+        "999467340": {
+            "orgId": "999467340",
+            "orgName": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+            "ecContrib": 297750
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 1187289
+        },
+        "999651931": {
+            "orgId": "999651931",
+            "orgName": "VIB",
+            "ecContrib": 381500
+        },
+        "949691402": {
+            "orgId": "949691402",
+            "orgName": "SCILS GMBH",
+            "ecContrib": 0
+        },
+        "999858541": {
+            "orgId": "999858541",
+            "orgName": "UNIVERSITE DE RENNES I",
+            "ecContrib": 149440
+        }
+    },
+    "calculatedTotalContribution": 2696280
+}

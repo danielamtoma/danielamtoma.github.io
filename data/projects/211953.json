@@ -1,0 +1,73 @@
+{
+    "rcn": "211953",
+    "acronym": "PLANET",
+    "topics": "LCE-05-2017",
+    "title": "Planning and operational tools for optimising energy flows and synergies between energy networks",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "The future electricity generation mix evolution, EU projects 97% generation from variable RES by 2050, will render current solutions for grid balancing and stability insufficient. Intermittent generation will require extensive electricity demand flexibility - beyond conventional solutions - to alleviate the unpredictable grid stresses in high VRES times. This flexibility cannot only come from electricity end-uses, the volatility and variability of RES generation is too high. Energy system decarbonisation will necessitate the use of novel conversion and storage in alternative energy carriers and their networks to achieve the avoidance of RES generation curtailment.\nThe PLANET aim is to design and develop a holistic Decision Support System for grid operational planning and management in order to explore, identify, evaluate and quantitatively assess optimal strategies to deploy, integrate and operate conversion/storage systems on the distribution grid of several energy carriers within boundary constraints of real deployments outlined in the future energy system scenarios. Such tools are crucial for policy makers and network operators who need support in decision making process.\nThe simulation of the integration between electricity, gas and heat networks models, together with conversion/storage technologies models for power-to-gas, power-to-heat and virtual thermal energy storage, will help to understand and quantify how these conversions can affect network stability, reliability and responsiveness as well as to optimize these metrics across networks.\nThe PLANET tools will be demonstrated and validated using information from the actual premises and customers of two distribution network operators in Italy and France. They manage electricity, natural gas and district heating networks, hence they provide a solid testbed corresponding to real-world solution deployments to evaluate the actual benefits of PLANET solutions.",
+    "totalCost": "3999695",
+    "ecMaxContribution": "3999695",
+    "coordinator": "POLITECNICO DI TORINO",
+    "coordinatorCountry": "IT",
+    "participants": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;MERIT CONSULTING HOUSE SPRL;Teknologian tutkimuskeskus VTT Oy;VAASAETT LTD AB OY;SOREA SOCIETE DES REGIES DE L'ARC;ITM POWER (TRADING) LIMITED;HYPERTECH (CHAIPERTEK) ANONYMOS VIOMICHANIKI EMPORIKI ETAIREIA PLIROFORIKIS KAI NEON TECHNOLOGION;Istituto Superiore Mario Boella;IREN SPA;FORSCHUNGSGEMEINSCHAFT FUER ELEKTRISCHE ANLAGEN UND STROMWIRTSCHAFT E.V.",
+    "participantCountries": "EL;BE;FI;FR;UK;IT;DE",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 600820
+        },
+        "999798595": {
+            "orgId": "999798595",
+            "orgName": "FORSCHUNGSGEMEINSCHAFT FUER ELEKTRISCHE ANLAGEN UND STROMWIRTSCHAFT E.V.",
+            "ecContrib": 266250
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 701500
+        },
+        "915371153": {
+            "orgId": "915371153",
+            "orgName": "MERIT CONSULTING HOUSE SPRL",
+            "ecContrib": 245625
+        },
+        "925730268": {
+            "orgId": "925730268",
+            "orgName": "SOREA SOCIETE DES REGIES DE L'ARC",
+            "ecContrib": 263250
+        },
+        "999599357": {
+            "orgId": "999599357",
+            "orgName": "ISTITUTO SUPERIORE MARIO BOELLA SULLE TECNOLOGIE DELL'INFORMAZIONE E DELLE  TELECOMUNICAZIONI ASSOCIAZIONE",
+            "ecContrib": 0
+        },
+        "964502332": {
+            "orgId": "964502332",
+            "orgName": "VAASAETT LTD AB OY",
+            "ecContrib": 239500
+        },
+        "974052370": {
+            "orgId": "974052370",
+            "orgName": "ITM POWER (TRADING) LIMITED",
+            "ecContrib": 249500
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 295000
+        },
+        "996329681": {
+            "orgId": "996329681",
+            "orgName": "HYPERTECH (CHAIPERTEK) ANONYMOS VIOMICHANIKI EMPORIKI ETAIREIA PLIROFORIKIS KAI NEON TECHNOLOGION",
+            "ecContrib": 672500
+        },
+        "974020360": {
+            "orgId": "974020360",
+            "orgName": "IREN SPA",
+            "ecContrib": 303000
+        }
+    },
+    "calculatedTotalContribution": 3836945
+}

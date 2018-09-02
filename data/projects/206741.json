@@ -1,0 +1,28 @@
+{
+    "rcn": "206741",
+    "acronym": "CASe",
+    "topics": "ERC-2016-STG",
+    "title": "Combinatorics with an analytic structure",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2021",
+    "objective": "'Combinatorics, and its interplay with geometry, has fascinated our ancestors as shown by early stone carvings in the Neolithic period. Modern combinatorics is motivated by the ubiquity of its structures in both pure and applied mathematics.\nThe work of Hochster and Stanley, who realized the relation of enumerative questions to commutative algebra and toric geometry made a vital contribution to the development of this subject. Their work was a central contribution to the classification of face numbers of simple polytopes, and the initial success lead to a wealth of research in which combinatorial problems were translated to algebra and geometry and then solved using deep results such as Saito's hard Lefschetz theorem. As a caveat, this also made branches of combinatorics reliant on algebra and geometry to provide new ideas. \n\nIn this proposal, I want to reverse this approach  and extend our understanding of geometry and algebra guided by combinatorial methods. In this spirit I propose new combinatorial approaches to the interplay of curvature and topology, to isoperimetry,  geometric analysis, and  intersection theory, to name a few.  In addition, while these subjects are interesting by themselves, they are also designed to  advance classical topics, for example, the diameter of polyhedra (as in the Hirsch conjecture), arrangement theory (and the study of arrangement complements), Hodge theory (as in Grothendieck's standard conjectures), and realization problems of discrete objects (as in Connes embedding problem for type II factors).\n\nThis proposal is supported by the review of some already developed tools, such as relative Stanley--Reisner theory (which is equipped to deal with combinatorial isoperimetries), combinatorial Hodge theory (which extends the ``K\\'ahler package' to purely combinatorial settings), and discrete PDEs (which were used to construct counterexamples to old problems in discrete geometry).'",
+    "totalCost": "1337200",
+    "ecMaxContribution": "1337200",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "UNIVERSITAET LEIPZIG",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1307200
+        },
+        "999854564": {
+            "orgId": "999854564",
+            "orgName": "UNIVERSITAET LEIPZIG",
+            "ecContrib": 30000
+        }
+    },
+    "calculatedTotalContribution": 1337200
+}

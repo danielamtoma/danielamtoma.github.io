@@ -1,0 +1,23 @@
+{
+    "rcn": "200730",
+    "acronym": "DEEPVISION",
+    "topics": "ERC-StG-2015",
+    "title": "Information-age microscopy for deep vision imaging of biological tissue",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2021",
+    "objective": "Modern biology could not exist without the optical microscope. Hundreds of years of research have seemingly developed microscopes to perfection, with one essential limitation: in turbid biological tissue, not even the most advanced microscope can penetrate deeper than a fraction of a millimetre. At larger depths light scattering prevents the formation of an image. DEEP VISION takes a radically new approach to microscopy in order to lift this final limitation.\nMicroscopes are based on the idea that light propagates along a straight line. In biological tissue, however, this picture is naive: light is scattered by every structure in the specimen. Since the amount of ënon-scatteredí light decreases exponentially with depth, a significant improvement of the imaging depth is fundamentally impossible, unless scattered light itself is used for imaging.\nIn 2007, Allard Mosk and I pioneered the field of wavefront shaping. The game-changing message of wavefront shaping is that scattering is not a fundamental limitation for imaging: using a spatial light modulator, light can be focused even inside the most turbid materials, if ëonlyí the correct wavefront is known.\nDEEP VISION aims to initiate a fundamental change in how we think about microscopy: to use scattered light rather than straight rays for imaging. The microscope of the future is no longer based on Newtonian optics. Instead, it combines new insights in scattering physics, wavefront shaping, and compressed sensing to extract all useful information from a specimen.\nWhereas existing microscopes are ignorant to the nature of the specimen, DEEP VISION is inspired by information theory; imaging revolves around a model that integrates observations with statistical a-priori information about the tissue. This model is used to calculate the wavefronts for focusing deeper into the specimen. Simulations indicate that my approach will penetrate at least four times deeper than existing microscopes, without loss of resolution.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "UNIVERSITEIT TWENTE",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999900833": {
+            "orgId": "999900833",
+            "orgName": "UNIVERSITEIT TWENTE",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

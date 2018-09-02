@@ -1,0 +1,53 @@
+{
+    "rcn": "212483",
+    "acronym": "BodyPass",
+    "topics": "ICT-14-2016-2017",
+    "title": "API-ecosystem for cross-sectorial exchange of 3D personal data",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "BodyPass aims to break barriers between health sector and consumer goods sector and eliminate the current data silos. The main objective of BodyPass is to foster exchange, linking and re-use, as well as to integrate 3D data assets from the two sectors. For this, BodyPass has to adapt and create tools that allow a secure exchange of information between data owners, companies and subjects (patients and customers).\n3D personal data is type of data that contains useful information for product design, online sale services, medical research and patient follow-up.\nCurrently hospitals store and grow massive collections of 3D data that are not accessible by researchers, professionals and companies. About 2.7 petabytes a year stored in the EU26. \nIn parallel to the advances made in the health sector, new 3D body-surface scanning technology has been developed for the goods consumer sector, namely apparel, animation and art.\nMoreover, new low-cost scanning technologies are expected to exponentially increase 3D data creation. It is estimated that currently one person is scanned every 15 minutes in the US and Europe. And increasing.\nThe 3D data of the health sector contains the body shape information, not only internal body information. These data could be used by designers and manufacturers of the consumer goods sector. At the same time, although 3D body-surface scanners have been developed primarily for the clothing industry, 3D scannersí low cost, non-invasive character, and ease of use make them appealing for widespread clinical applications and large-scale epidemiological surveys.\nHowever, companies and professionals of the consumer goods sector cannot access the 3D data of health sector. And vice versa. Even exchanging information between data owners in the same sector is a big problem today. It is necessary to overcome problems related with data privacy and the processing of huge 3D datasets.",
+    "totalCost": "3110581,25",
+    "ecMaxContribution": "2552018,38",
+    "coordinator": "INSTITUTO DE BIOMECANICA DE VALENCIA",
+    "coordinatorCountry": "ES",
+    "participants": "FUNDACION PARA LA INVESTIGACION DEL HOSPITAL CLINICO DE LA COMUNITAT VALENCIANA, FUNDACION INCLIVA;ELSE CORP SRL;P&R TEXTEIS SA;ATOS SPAIN SA;ISTITUTO AUXOLOGICO ITALIANO;PHILIPS ELECTRONICS NEDERLAND B.V.",
+    "participantCountries": "ES;IT;PT;NL",
+    "projectParticipants": {
+        "999627584": {
+            "orgId": "999627584",
+            "orgName": "INSTITUTO DE BIOMECANICA DE VALENCIA",
+            "ecContrib": 589651
+        },
+        "999637187": {
+            "orgId": "999637187",
+            "orgName": "FUNDACION PARA LA INVESTIGACION DEL HOSPITAL CLINICO DE LA COMUNITAT VALENCIANA, FUNDACION INCLIVA",
+            "ecContrib": 351938
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 353119
+        },
+        "913536301": {
+            "orgId": "913536301",
+            "orgName": "ELSE CORP SRL",
+            "ecContrib": 115705
+        },
+        "999991625": {
+            "orgId": "999991625",
+            "orgName": "PHILIPS ELECTRONICS NEDERLAND B.V.",
+            "ecContrib": 732536
+        },
+        "997997208": {
+            "orgId": "997997208",
+            "orgName": "ISTITUTO AUXOLOGICO ITALIANO",
+            "ecContrib": 307116
+        },
+        "966736436": {
+            "orgId": "966736436",
+            "orgName": "P&R TEXTEIS SA",
+            "ecContrib": 101953
+        }
+    },
+    "calculatedTotalContribution": 2552018
+}

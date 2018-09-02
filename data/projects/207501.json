@@ -1,0 +1,83 @@
+{
+    "rcn": "207501",
+    "acronym": "PJ27 IOPVLD",
+    "topics": "SESAR.IR-VLD.Wave1-28-2015",
+    "title": "Flight Object Interoperability VLD Demonstration",
+    "startDate": "01/11/2016",
+    "endDate": "31/12/2019",
+    "objective": "'One essential goal of the Single European Sky is to improve the Interoperability of the Air Traffic Management (ATM) network. The SESAR approach towards this goal is the introduction of a 4D-trajectory, which is common across all ATM stakeholders, called Reference Business Trajectory (RBT). The Flight Object concept is seen as a key enabler for implementing the RBT for Air Navigation Service Providers. The main objective of PJ27 is the demonstration that Flight Object Interoperability works in a real world upper En-route airspace environment of Air Traffic Control Centers (ACCs) from DFS, DSNA, ENAV and EUROCONTROL over spanning a large area of European core airspace. The demonstration will be executed as a set of Shadow Mode trials during which Air Traffic Controllers (ATCOs) will use Flight Object and SWIM equipped systems and perform flight coordination and transfer operations on the current air traffic as well as fallback operations. The only difference to real operations is that the ATCOs clearances will not be sent to the real aircraft. The project will assess the benefits of the Flight Object to improve ATM Network performance and situational awareness supporting demand and capacity balancing between and within the participating ACCs. The demonstration is expected to provide a proof that the Flight Object Concept is ready for deployment as required in the AF#5 of the PCP Regulation (EU) No 716/2014. This demonstration is an important milestone for Air Navigation Service Providers and the Network Manager, because it will constitute an ultimate step of validation before these stakeholders will start PCP AF#5 deployment activities. Finally the demonstration will provide valuable input into the SESAR Deployment Programme which will facilitate the coordination of PCP AF#5 deployment roadmaps and deployment scenarios.'",
+    "totalCost": "9693962,5",
+    "ecMaxContribution": "1233047,49",
+    "coordinator": "DFS DEUTSCHE FLUGSICHERUNG GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH;DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE;ENAV SPA;ENTIDAD PUBLICA EMPRESARIAL ENAIRE;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD;INDRA SISTEMAS SA;THALES LAS FRANCE SAS;UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY;LEONARDO - SOCIETA PER  AZIONI;NAVIAIR;LUFTFARTSVERKET",
+    "participantCountries": "AT;FR;IT;ES;BE;HR;IE;DK;SE",
+    "projectParticipants": {
+        "997701843": {
+            "orgId": "997701843",
+            "orgName": "ENTIDAD PUBLICA EMPRESARIAL ENAIRE",
+            "ecContrib": 63459
+        },
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 44622
+        },
+        "927009019": {
+            "orgId": "927009019",
+            "orgName": "UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY",
+            "ecContrib": 3785
+        },
+        "924128216": {
+            "orgId": "924128216",
+            "orgName": "CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD",
+            "ecContrib": 6552
+        },
+        "999936820": {
+            "orgId": "999936820",
+            "orgName": "DFS DEUTSCHE FLUGSICHERUNG GMBH",
+            "ecContrib": 249880
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 257588
+        },
+        "998956635": {
+            "orgId": "998956635",
+            "orgName": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH",
+            "ecContrib": 7198
+        },
+        "923671249": {
+            "orgId": "923671249",
+            "orgName": "NAVIAIR",
+            "ecContrib": 16931
+        },
+        "928673636": {
+            "orgId": "928673636",
+            "orgName": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+            "ecContrib": 127780
+        },
+        "998197513": {
+            "orgId": "998197513",
+            "orgName": "ENAV SPA",
+            "ecContrib": 140973
+        },
+        "999961555": {
+            "orgId": "999961555",
+            "orgName": "THALES LAS FRANCE SAS",
+            "ecContrib": 60847
+        },
+        "942346077": {
+            "orgId": "942346077",
+            "orgName": "LUFTFARTSVERKET",
+            "ecContrib": 31766
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 221667
+        }
+    },
+    "calculatedTotalContribution": 1233048
+}

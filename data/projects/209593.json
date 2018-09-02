@@ -1,0 +1,23 @@
+{
+    "rcn": "209593",
+    "acronym": "PROXNET",
+    "topics": "MSCA-IF-2016",
+    "title": "Modelling Complex Networks Through Graph Editing Problems",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2020",
+    "objective": "The goal of the PROXNET project, which will be realised during the mobility of Christophe Crespelle in the Algorithms group\nof Bergen, is to open a new way for analysing, modelling and managing complex networks, through graph editing problems.\nThe reason why these networks are said to be complex is that they are loosely structured, due to the part of uncertainty and\nrandomness they contain. On the other hand, the real-world context where they come from strongly constrains their\norganisation and gives them some specific structure. The difficulty in retrieving this structure is that it is altered by the noise\nresulting from the uncertainty and randomness that these networks contain. In the PROXNET project, we will retrieve the\nhidden structures of complex networks thanks to graph editing problems, which consist in changing some adjacencies of the\ngraph in order to obtain a desired property. We will develop the algorithms necessary to solve graph editing problems\nrelevant to our approach on huge instances of graphs, we will apply them to real-world datasets and use the results obtained\nin order to design new models of complex networks.\nOne key theoretic challenge in this context is to optimally solve the editing problems considered, which are computationally\ndifficult (NP-hard). A very promising technique to do so is preprocessing. It consists in reducing the size of the instance by\napplying some reduction rules, in such a way that the optimal solution on the reduced instance is the same as the one on the\noriginal instance. The Algorithms group of the University of bergen is a world-wide leader on this topic which will constitute\nthe main training action of Christophe Crespelle during his mobility.",
+    "totalCost": "208400,4",
+    "ecMaxContribution": "208400,4",
+    "coordinator": "UNIVERSITETET I BERGEN",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974456": {
+            "orgId": "999974456",
+            "orgName": "UNIVERSITETET I BERGEN",
+            "ecContrib": 208400
+        }
+    },
+    "calculatedTotalContribution": 208400
+}

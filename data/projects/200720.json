@@ -1,0 +1,23 @@
+{
+    "rcn": "200720",
+    "acronym": "PLASMIC",
+    "topics": "ERC-StG-2015",
+    "title": "Plasmonically-enhanced III-V nanowire lasers on silicon for integrated communications",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "The ambition of PLASMIC is to address the bottleneck caused by electrical interconnects and develop on-chip optical interconnect solutions based on plasmonically-enhanced nanoscale emitters.\nNanoscale photonic components are desirable for on-chip communications because of density, speed and because reducing the size of the cavity might reduce the lasing threshold. Conventional photonics are limited in scale by the diffraction-limit to dimensions of half of the wavelength of light in the material. This limit does not apply to plasmonics, an optical mode that exists at the interface between a metal and a dielectric. Thus, they have a great potential for applications where down-scaling and confinement are primordial.\nOne of the barriers for applying plasmonics is the large losses associated with the metals. Thus in PLASMIC alternative plasmonic metals will be investigated based on their potential for tuning, VLSI compatibility, deposition methods and achieving lower optical losses in the near-IR. I will focus on highly doped semiconductors, metal nitrides, as well as multi-layers and compounds to form new plasmonic materials. Specifically, I will evaluate the use of the field-effect to achieve the semiconductor-metal transition to tune the plasma frequency.\nNew pioneering device concepts for plasmonic-photonic emitters on a silicon platform integrated with passive silicon photonic waveguides will be developed. To implement the gain medium for the lasers, I will exploit a novel nanowire (NW) integration approach: Template-Assisted Epitaxy. The unique advantages make it possible to grow III-V NWs on any orientation of silicon and aligned to lithographic features.\nThe devices will be based on a hybrid cavity formed between the NW and a Si waveguide with gratings to provide feedback. My team and I will explore dimensional scaling potential as well as the energy efficiency of plasmonic and photonic devices operating both in a lasing as well as in a subthreshold operation mode.",
+    "totalCost": "1941750",
+    "ecMaxContribution": "1941750",
+    "coordinator": "IBM RESEARCH GMBH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 1941750
+        }
+    },
+    "calculatedTotalContribution": 1941750
+}

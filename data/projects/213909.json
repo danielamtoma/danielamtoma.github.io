@@ -1,0 +1,23 @@
+{
+    "rcn": "213909",
+    "acronym": "QSIMCORR",
+    "topics": "ERC-2017-COG",
+    "title": "Quantum Simulation of Strongly-Correlated Systems",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2023",
+    "objective": "A major challenge in theoretical physics is to develop novel methods without systematic errors. The scope of this proposal is the numerical control over strongly correlated phases in the thermodynamic limit through two main developments: \nFirst, for bosonic systems, we aim to obtain reliable phase diagrams for optical flux lattices, combining topology with interactions. In particular, we study the competition between superfluid order and (fractional) Chern insulators, which may harbor (non-)abelian anyonic excitations. This is achieved by a major improvement on our current selfenergy-based cluster methods through non-local interactions, vertex corrections and momentum cluster extensions. This also enables access to out-of-equilibrium dynamics, relevant to study quench-type experiments. In the presence of disorder, we can then answer whether many-body-localization exists in higher dimensions and address the fundamental puzzle of how and when systems thermalize. \nSecond, for fermionic systems with long-range interactions, such as warm dense matter, the electron gas, and cold gases with Rydberg interactions, the diagrammatic Monte Carlo method is uniquely situated to compute thermal exchange correlation energies over the entire density range, essential to any calculation in condensed matter physics, astro physics and plasma physics. It employs a universal language but needs further algorithmic refinements for improving its convergence and sign properties. Extensions are towards (frustrated) spin systems, providing an alternative route to the realization of strongly correlated phases. \nAt all stages analytical derivations must be supplemented with coding and large-scale computation. We address what new types of quantum systems can efficiently be computed on a classical computer, and how. Simultaneously, we seek to extend the paradigm of quantum simulation by comparing the results of our novel methods with cold gas experiments in challenging regimes, where possible.",
+    "totalCost": "2000000",
+    "ecMaxContribution": "2000000",
+    "coordinator": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 2000000
+        }
+    },
+    "calculatedTotalContribution": 2000000
+}

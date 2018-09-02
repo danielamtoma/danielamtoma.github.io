@@ -1,0 +1,23 @@
+{
+    "rcn": "209920",
+    "acronym": "SEAL",
+    "topics": "ERC-2016-COG",
+    "title": "Sound and Early Assessment of Leakage for Embedded Software",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Side channel attacks use, alongside information such as plaintexts or ciphertexts, leakage about the (secret) key-dependent intermediate state(s), and deliver a `key ranking' as a result. Kocher's attacks [15] [16] showed that for many practical implementations, observing a few encryptions made complete key recovery possible in practice.  The academic research into combating these attacks so far has largely focused on approaches and tools to equip specialised cryptographic engineers with access to a specialist lab and tools. \n\nThe research hypothesis of this CoG is that one can make meaningful statements about the leakage behaviour of arbitrary implementations on small devices by utilising a-priori derived (instruction level) leakage models. Our vision is to enable developers with limited domain-specific knowledge to perform side channel evaluations at design time without access to a fully equipped lab, by creating tools and methodologies that integrate a priori derived instruction-level leakage models into a standard compiler. \n\nThis vision is articulated in three overarching research objectives:\n\n1. Designing novel profiling strategies (WP1) including novel leakage acquisition techniques to generate leakage models for a specific target device.\n\n2. Developing fast and comprehensive methods to support rapid evaluations (WP2).\n\n3. Integration (WP3) of semantics, syntax and tools capable of using profiling information into a standard compiler with the aim to evaluate and improve the side channel resilience of the target code.\n\nAddressing these goals simultaneously is required to make substantial progress towards the overall vision of this project. \n\nAs a final result, we will make demonstrators available (WP4): using a off-the shelf components, we supply the necessary tools and compiler enhancements including samples of cryptographic implementations to conduct analyses and demonstrate improvements regarding side channel resilience.",
+    "totalCost": "1946995",
+    "ecMaxContribution": "1946995",
+    "coordinator": "UNIVERSITY OF BRISTOL",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 1946995
+        }
+    },
+    "calculatedTotalContribution": 1946995
+}

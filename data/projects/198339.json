@@ -1,0 +1,73 @@
+{
+    "rcn": "198339",
+    "acronym": "NoMaD",
+    "topics": "EINFRA-5-2015",
+    "title": "The Novel Materials Discovery Laboratory",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2018",
+    "objective": "Essentially every new commercial product, be they smart phones, solar cells, batteries, transport technology, artificial hips, etc., depends on improved or even novel materials. Computational materials science is increasingly influential as a method to identify such critical materials for both R&D. Enormous amounts of data, precious but heterogeneous and difficult to access or utilise, are already stored in repositories scattered across Europe. The NoMaD CoE will open new HPC opportunities by enabling access to this data and delivering powerful new tools to search, retrieve and manage it.\nNoMaD will foster sharing of all relevant data, building on the unique CECAM, Psi-k and ETSF communities, putting Europe ahead of materials science in other continents. Unprecedented, already initialised networking with researchers, with industry, with students and with other stakeholders will guarantee relevance and end-user value.  NoMaD will become a crucial tool for atomistic simulations and multi-scale modelling in the physical, materials, and quantum-chemical sciences. This field is characterised by a healthy but heterogeneous eco-system of many different codes that are used at all HPC centers worldwide, with millions of CPU hours spent every day, some of them at petascale performance. NoMaD will integrate the leading codes and make their results comparable by converting (and compressing) existing inputs and outputs into a common format, thus making these valuable data accessible to academia and industry:\nNoMaD will develop ìbig-data analyticsî for materials science. This will require novel algorithms, e.g., for statistical learning based on the created materials encyclopedia, offering complex searches and novel visualisations. These challenges exploit the essential resources of our HPC partners. Without the infrastructure and services provided by the NoMaD CoE, much of the information created with the above mentioned petascale (towards exascale) computations would be wasted.",
+    "totalCost": "4910624,48",
+    "ecMaxContribution": "4910624,48",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;PINTAIL LTD;AALTO KORKEAKOULUSAATIO SR;BAYERISCHE AKADEMIE DER WISSENSCHAFTEN;UNIVERSITAT DE BARCELONA;DANMARKS TEKNISKE UNIVERSITET;HUMBOLDT-UNIVERSITAET ZU BERLIN;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;KING'S COLLEGE LONDON;CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY",
+    "participantCountries": "UK;IE;FI;DE;ES;DK",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 238750
+        },
+        "998268614": {
+            "orgId": "998268614",
+            "orgName": "PINTAIL LTD",
+            "ecContrib": 250000
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1417837
+        },
+        "999850781": {
+            "orgId": "999850781",
+            "orgName": "HUMBOLDT-UNIVERSITAET ZU BERLIN",
+            "ecContrib": 561930
+        },
+        "999580054": {
+            "orgId": "999580054",
+            "orgName": "BAYERISCHE AKADEMIE DER WISSENSCHAFTEN",
+            "ecContrib": 205500
+        },
+        "999986387": {
+            "orgId": "999986387",
+            "orgName": "UNIVERSITAT DE BARCELONA",
+            "ecContrib": 414366
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999645820": {
+            "orgId": "999645820",
+            "orgName": "CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY",
+            "ecContrib": 205375
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 343070
+        },
+        "999981052": {
+            "orgId": "999981052",
+            "orgName": "KING'S COLLEGE LONDON",
+            "ecContrib": 678265
+        }
+    },
+    "calculatedTotalContribution": 4315093
+}

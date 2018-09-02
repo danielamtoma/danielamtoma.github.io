@@ -1,0 +1,123 @@
+{
+    "rcn": "213016",
+    "acronym": "BEHAPI",
+    "topics": "MSCA-RISE-2017",
+    "title": "Behavioural Application Program Interfaces",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2022",
+    "objective": "APIs are typically flat structures, i.e. sets of service/method signatures specifying the expected service parameters and the kind of results one should expect in return. However, correct API usage also requires the individual services to be invoked in a specific order.  Despite its importance, the latter information is either often omitted, or stated informally via textual descriptions.  Behavioural Types are a suite of technologies that formalise of this information, elevating flat API descriptions to a graph structure of services.  This permits automated analyses for correct API compositions so as to provide guarantees such as service compliance, deadlock freedom, dynamic adaptation in the presence of failure, load balancing etc.  The proposed project aims to bring the existing prototype tools based on these technologies to mainstream programming languages and development frameworks used in industry.",
+    "totalCost": "742500",
+    "ecMaxContribution": "630000",
+    "coordinator": "UNIVERSITA TA MALTA",
+    "coordinatorCountry": "MT",
+    "participants": "MAIDSAFE.NET LIMITED;IXARIS SYSTEMS (MALTA) LIMITED;IT-UNIVERSITETET I KOBENHAVN;ACTYX AG;UNIVERSITA DEGLI STUDI DI TORINO;COMUNE DI TORINO;GREEN BY WEB LDA;UNIVERSITY OF KENT;BITLAND SRL;EXFORMATICS AS;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;UNIVERSITY OF GLASGOW;UNIVERSITY OF LEICESTER;XIBIS LIMITED;NOVA ID FCT - ASSOCIACAO PARA A INOVACAO E DESENVOLVIMENTO DA FCT;AALBORG UNIVERSITET",
+    "participantCountries": "UK;MT;DK;DE;IT;PT",
+    "projectParticipants": {
+        "940621320": {
+            "orgId": "940621320",
+            "orgName": "GREEN BY WEB LDA",
+            "ecContrib": 13500
+        },
+        "999598969": {
+            "orgId": "999598969",
+            "orgName": "THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS",
+            "ecContrib": 0
+        },
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 54000
+        },
+        "912999891": {
+            "orgId": "912999891",
+            "orgName": "ACTYX AG",
+            "ecContrib": 22500
+        },
+        "927089238": {
+            "orgId": "927089238",
+            "orgName": "MAIDSAFE.NET LIMITED",
+            "ecContrib": 0
+        },
+        "999985514": {
+            "orgId": "999985514",
+            "orgName": "UNIVERSITY OF LEICESTER",
+            "ecContrib": 112500
+        },
+        "999841275": {
+            "orgId": "999841275",
+            "orgName": "UNIVERSITY OF KENT",
+            "ecContrib": 72000
+        },
+        "986538792": {
+            "orgId": "986538792",
+            "orgName": "COMUNE DI TORINO",
+            "ecContrib": 0
+        },
+        "999861936": {
+            "orgId": "999861936",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TORINO",
+            "ecContrib": 9000
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 22500
+        },
+        "998273464": {
+            "orgId": "998273464",
+            "orgName": "IT-UNIVERSITETET I KOBENHAVN",
+            "ecContrib": 58500
+        },
+        "937405091": {
+            "orgId": "937405091",
+            "orgName": "NOVA ID FCT - ASSOCIACAO PARA A INOVACAO E DESENVOLVIMENTO DA FCT",
+            "ecContrib": 130500
+        },
+        "912524882": {
+            "orgId": "912524882",
+            "orgName": "MCAFEE ARGENTINA S.A.",
+            "ecContrib": 0
+        },
+        "999887059": {
+            "orgId": "999887059",
+            "orgName": "UNIVERSITA TA MALTA",
+            "ecContrib": 94500
+        },
+        "913329691": {
+            "orgId": "913329691",
+            "orgName": "IXARIS SYSTEMS (MALTA) LIMITED",
+            "ecContrib": 0
+        },
+        "998083538": {
+            "orgId": "998083538",
+            "orgName": "CARNEGIE MELLON UNIVERSITY",
+            "ecContrib": 0
+        },
+        "912960509": {
+            "orgId": "912960509",
+            "orgName": "EXFORMATICS AS",
+            "ecContrib": 0
+        },
+        "917823119": {
+            "orgId": "917823119",
+            "orgName": "BITLAND SRL",
+            "ecContrib": 0
+        },
+        "912857495": {
+            "orgId": "912857495",
+            "orgName": "XIBIS LIMITED",
+            "ecContrib": 18000
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 22500
+        },
+        "999881336": {
+            "orgId": "999881336",
+            "orgName": "UNIVERSIDAD DE BUENOS AIRES",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 630000
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "194202",
+    "acronym": "MONROE",
+    "topics": "ICT-11-2014",
+    "title": "Measuring Mobile Broadband Networks in Europe",
+    "startDate": "01/03/2015",
+    "endDate": "31/07/2018",
+    "objective": "There is a strong need for objective data about stability and performance of Mobile Broadband (MBB) networks, and for tools to rigorously and scientifically assess their performance. In particular, it is important to measure and understand the quality as experienced by the end user. Such information is very valuable for many parties including operators, regulators and policy makers, consumers and society at large, businesses whose services depend on MBB networks, researchers and innovators.\n\nMONROE proposes to design, build and operate an open, European-scale, and flexible platform with multi-homing capabilities to run experiments on operational 3G/4G Mobile Broadband networks. One of the main objectives of MONROE is to use the platform for the identification of key MBB performance parameters, thus enabling accurate, realistic and meaningful monitoring and assessment of the performance of MBB networks. MONROE also provides WIFI connectivity mimicking multi-homing in smartphones with both MBB and WiFi interfaces, to allow experimenting on different access technologies as well as explore new ways of combining them to increase performance and robustness. The users of the platform are in the core of the MONROE project. First, following the FIREís philosophy, MONROE offers a user-oriented closed-loop system design in which the experimental platform is open to external users, and where users are incorporated early on in the experimental design process. Second, MONROE will provide Experiments as a Service (EaaS), thus lowering the barrier for using the platform to external experimenters and users, by providing well-documented tools and adjustable, flexible, high-level scripts to execute experiments, collect results, and analyze data. Interoperability with existing FIRE and FP7 measurement platforms, jointly with the MONROE's effort to develop business and funding models, will guarantee sustainability and usefulness of the platform.",
+    "totalCost": "6542418,75",
+    "ecMaxContribution": "6542418,75",
+    "coordinator": "SIMULA RESEARCH LABORATORY AS",
+    "coordinatorCountry": "NO",
+    "participants": "NETTET SVERIGE AB;TELENOR ASA;NEXTWORKS;FUNDACION IMDEA NETWORKS;CELERWAY COMMUNICATION AS;POLITECNICO DI TORINO;KARLSTADS UNIVERSITET",
+    "participantCountries": "SE;NO;IT;ES",
+    "projectParticipants": {
+        "995915976": {
+            "orgId": "995915976",
+            "orgName": "SIMULA RESEARCH LABORATORY AS",
+            "ecContrib": 4439962
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 225742
+        },
+        "941011357": {
+            "orgId": "941011357",
+            "orgName": "NETTET SVERIGE AB",
+            "ecContrib": 0
+        },
+        "999910630": {
+            "orgId": "999910630",
+            "orgName": "TELENOR ASA",
+            "ecContrib": 240722
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 327450
+        },
+        "999651058": {
+            "orgId": "999651058",
+            "orgName": "FUNDACION IMDEA NETWORKS",
+            "ecContrib": 430996
+        },
+        "999874837": {
+            "orgId": "999874837",
+            "orgName": "KARLSTADS UNIVERSITET",
+            "ecContrib": 566558
+        },
+        "947553425": {
+            "orgId": "947553425",
+            "orgName": "CELERWAY COMMUNICATION AS",
+            "ecContrib": 310988
+        }
+    },
+    "calculatedTotalContribution": 6542418
+}

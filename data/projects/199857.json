@@ -1,0 +1,58 @@
+{
+    "rcn": "199857",
+    "acronym": "SUMMA",
+    "topics": "ICT-16-2015",
+    "title": "Scalable Understanding of Multilingual Media",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "Media monitoring enables the global news media to be viewed in terms of emerging trends, people in the news, and the evolution of story-lines.  The massive growth in the number of broadcast and Internet media channels means that current approaches can no longer cope with the scale of the problem.\n\nThe aim of SUMMA is to significantly improve media monitoring by creating a platform to automate the analysis of media streams across many languages, to aggregate and distil the content, to automatically create rich knowledge bases, and to provide visualisations to cope with this deluge of data.\n\nSUMMA has six objectives: (1)  Development of a scalable and extensible media monitoring platform; (2) Development of high-quality and richer tools for analysts and journalists; (3)  Extensible automated knowledge base construction; (4) Multilingual and cross-lingual capabilities; (5) Sustainable, maintainable platform and services; (6) Dissemination and communication of project results to stakeholders and user group.\n\nAchieving these aims will require advancing the state of the art in a number of technologies:  multilingual stream processing including speech recognition, machine translation, and story identification; entity and relation extraction; natural language understanding including deep semantic parsing, summarisation, and sentiment detection; and rich visualisations based on multiple views and dealing with many data streams.\n\nThe project will focus on three use cases:  (1) External media monitoring - intelligent tools to address the dramatically increased scale of the global news monitoring problem; (2) Internal media monitoring - managing content creation in several languages efficiently by ensuring content created in one language is reusable by all other languages; (3) Data journalism.\n\nThe outputs of the project will be field-tested at partners BBC and DW, and the platform will be further validated through innovation intensives such as the BBC NewsHack.",
+    "totalCost": "7963951,25",
+    "ecMaxContribution": "6193361,25",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "DEUTSCHE WELLE;THE UNIVERSITY OF SHEFFIELD;LETA;FONDATION DE L'INSTITUT DE RECHERCHE IDIAP;BRITISH BROADCASTING CORPORATION;UNIVERSITY COLLEGE LONDON;PRIBERAM INFORMATICA S.A.",
+    "participantCountries": "DE;UK;LV;CH;PT",
+    "projectParticipants": {
+        "999586262": {
+            "orgId": "999586262",
+            "orgName": "DEUTSCHE WELLE",
+            "ecContrib": 535000
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 160556
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1999112
+        },
+        "999644074": {
+            "orgId": "999644074",
+            "orgName": "FONDATION DE L'INSTITUT DE RECHERCHE IDIAP",
+            "ecContrib": 0
+        },
+        "999589075": {
+            "orgId": "999589075",
+            "orgName": "BRITISH BROADCASTING CORPORATION",
+            "ecContrib": 1142500
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 390802
+        },
+        "949269258": {
+            "orgId": "949269258",
+            "orgName": "LETA",
+            "ecContrib": 1166250
+        },
+        "969256011": {
+            "orgId": "969256011",
+            "orgName": "PRIBERAM INFORMATICA S.A.",
+            "ecContrib": 799140
+        }
+    },
+    "calculatedTotalContribution": 6193360
+}

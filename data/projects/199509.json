@@ -1,0 +1,23 @@
+{
+    "rcn": "199509",
+    "acronym": "FOVEDIS",
+    "topics": "ERC-StG-2015",
+    "title": "Formal specification and verification of distributed data structures",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2021",
+    "objective": "The future of the computing technology relies on fast access, transformation, and exchange of data across large-scale networks such as the Internet. The design of software systems that support high-frequency parallel accesses to high-quantity data is a fundamental challenge. As more scalable alternatives to traditional relational databases, distributed data structures (DDSs) are at the basis of a wide range of automated services, for now, and for the foreseeable future. \n\nThis proposal aims to improve our understanding of the theoretical foundations of DDSs. The design and the usage of DDSs are based on new principles, for which we currently lack rigorous engineering methodologies. Specifically, we lack design procedures based on precise specifications, and automated reasoning techniques for enhancing the reliability of the engineering process.\n\nThe targeted breakthrough of this proposal is developing automated formal methods for rigorous engineering of DDSs. A first objective is to define coherent formal specifications that provide precise requirements at design time and explicit guarantees during their usage. Then, we will investigate practical programming principles, compatible with these specifications, for building applications that use DDSs. Finally, we will develop efficient automated reasoning techniques for debugging or validating DDS implementations against their specifications. The principles underlying automated reasoning are also important for identifying best practices in the design of these complex systems to increase confidence in their correctness. The developed methodologies based on formal specifications will thus benefit both the conception and automated validation of DDS implementations and the applications that use them.",
+    "totalCost": "1300000",
+    "ecMaxContribution": "1300000",
+    "coordinator": "UNIVERSITE PARIS DIDEROT - PARIS 7",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999865525": {
+            "orgId": "999865525",
+            "orgName": "UNIVERSITE PARIS DIDEROT - PARIS 7",
+            "ecContrib": 1300000
+        }
+    },
+    "calculatedTotalContribution": 1300000
+}

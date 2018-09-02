@@ -1,0 +1,23 @@
+{
+    "rcn": "211034",
+    "acronym": "AEMS-IdFit",
+    "topics": "JTI-CS2-2016-CFP04-SYS-02-24",
+    "title": "Aircraft Electrical Model Simulation Identification and Fitting Toolbox",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2020",
+    "objective": "The AEMS-IdFit (Aircraft Electrical Model Simulation Identification and Fitting Toolbox) project addresses the requirement for developers of future MEA aircraft to select technologies and to test, verify and validate electrical system architectures. The limitations of weight and space are important, so there is a need to test, verify and validate reliable, efficient and cost-effective architectures and a wide range of operating conditions.\n\nThe general objective of the AEMS-IdFit project is to adapt and develop generic models of aircraft electrical systems to reproduce the response from experimental measurements and manufacturers design data under different operating conditions, giving a full-representation of electrical systems dynamics. These models are based on the right knowledge of a set of parameters in such a way that, based on experimental data, reliable parameter identification and fitting methods will be selected and developed according to its complexity. Taking into account the wide range of the devices operating conditions, mapping algorithms will be developed as well, in order to generalize the parameter calculation taking into account the dependence of the parameters on the operating conditions. On the other hand, methods to optimize the parameter model updating process will also be developed.",
+    "totalCost": "331250",
+    "ecMaxContribution": "331250",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 331250
+        }
+    },
+    "calculatedTotalContribution": 331250
+}

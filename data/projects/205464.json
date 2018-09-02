@@ -1,0 +1,73 @@
+{
+    "rcn": "205464",
+    "acronym": "LASIMM",
+    "topics": "FOF-01-2016",
+    "title": "Large Additive Subtractive Integrated Modular Machine",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "The LASIMM project aim is to develop a large scale flexible hybrid additive/subtractive machine based on a modular architecture which is easily scalable. The machine will feature capabilities for additive manufacture, machining, cold-work, metrology and inspection that will provide the optimum solution for the hybrid manufacturing of large engineering parts of high integrity, with cost benefits of more than 50% compared to conventional machining processes.\nFor large scale engineering structures material needs to be deposited at a relatively high rate with exceptional properties and excellent integrity. To ensure this the machine is based on wire \\ arc additive manufacture for the additive process. A unique feature of the machine will be the capability for parallel manufacturing featuring either multiple deposition heads or concurrent addition and subtraction processes. To facilitate parallel manufacturing the machine architecture is based on robotics. To ensure that the surface finish and accuracy needed for engineering components is obtained for the subtractive step a parallel kinematic motion robot is employed. This robot is also used for application of cold work by rolling between passes. This ensures that material properties can be better than those of forged material. \nA key part of this project is the development of ICT infrastructure and toolboxes needed to programme and run the machine. The implementation of parallel manufacturing is extremely challenging from a software perspective and this will be a major activity within the project.\nTo deliver this extremely demanding and ambitious project a well-balanced expert team has been brought together. There are ten partners comprising six companies, two Universities and two research institutes. Two of the companies are SMEs and there are three end users from the renewable energy, construction and aerospace sectors. The consortium also features the whole of the supply chain needed to produce such a machine.",
+    "totalCost": "4868262,5",
+    "ecMaxContribution": "4868262,5",
+    "coordinator": "EUROPEAN FEDERATION FOR WELDING JOINING AND CUTTING",
+    "coordinatorCountry": "BE",
+    "participants": "AUTODESK LIMITED;VESTAS WIND SYSTEMS A/S;HELMHOLTZ-ZENTRUM GEESTHACHT ZENTRUM FUR MATERIAL- UND KUSTENFORSCHUNG GMBH;LOXIN 2002 SL;BAE SYSTEMS (OPERATIONS) LIMITED;FOSTER + PARTNERS LIMITED;GLOBAL ROBOTS LTD;CRANFIELD UNIVERSITY;INSTITUTO SUPERIOR TECNICO;DELCAM LTD",
+    "participantCountries": "UK;DK;DE;ES;PT",
+    "projectParticipants": {
+        "922714441": {
+            "orgId": "922714441",
+            "orgName": "LOXIN 2002 SL",
+            "ecContrib": 665524
+        },
+        "922720164": {
+            "orgId": "922720164",
+            "orgName": "GLOBAL ROBOTS LTD",
+            "ecContrib": 563125
+        },
+        "952405753": {
+            "orgId": "952405753",
+            "orgName": "FOSTER + PARTNERS LIMITED",
+            "ecContrib": 473750
+        },
+        "930325934": {
+            "orgId": "930325934",
+            "orgName": "AUTODESK LIMITED",
+            "ecContrib": 770745
+        },
+        "996259938": {
+            "orgId": "996259938",
+            "orgName": "DELCAM LTD",
+            "ecContrib": 0
+        },
+        "999992983": {
+            "orgId": "999992983",
+            "orgName": "INSTITUTO SUPERIOR TECNICO",
+            "ecContrib": 270330
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 567705
+        },
+        "997334213": {
+            "orgId": "997334213",
+            "orgName": "EUROPEAN FEDERATION FOR WELDING JOINING AND CUTTING",
+            "ecContrib": 437875
+        },
+        "999507401": {
+            "orgId": "999507401",
+            "orgName": "HELMHOLTZ-ZENTRUM GEESTHACHT ZENTRUM FUR MATERIAL- UND KUSTENFORSCHUNG GMBH",
+            "ecContrib": 372925
+        },
+        "999656296": {
+            "orgId": "999656296",
+            "orgName": "VESTAS WIND SYSTEMS A/S",
+            "ecContrib": 485570
+        },
+        "997989448": {
+            "orgId": "997989448",
+            "orgName": "BAE SYSTEMS (OPERATIONS) LIMITED",
+            "ecContrib": 260714
+        }
+    },
+    "calculatedTotalContribution": 4868263
+}

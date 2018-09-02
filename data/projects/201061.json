@@ -1,0 +1,23 @@
+{
+    "rcn": "201061",
+    "acronym": "PCCDX",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Breaking the curse of dimension in heavy-element chemistry",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2018",
+    "objective": "The acute toxicity and radioactivity of actinide compounds complicate experimental studies of the ìsoupî of nuclear waste produced in nuclear reactors. This motivates research into computational approaches for determining molecular properties and reactivity of actinide compounds. Unfortunately, the computational resources required by standard quantum chemistry methods grow exponentially with system size, an effect known as the curse of dimension. Since the actinide-containing molecules of relevance to nuclear chemistry contain hundreds of electrons, innovative new approaches that break the curse of dimension must be developed. One such approach models many-electron molecules as collections of noninteracting electron pairs, called geminals. Standard geminal methods are inappropriate for actinide chemistry, however, and must be extended to include (i) computationally efficient ways to account for relativistic effects, (ii) correlations between electrons beyond electron-pairing effects (weak correlation), (iii) electronically excited states, and (iv) the description of unpaired electrons. Specifically, weak correlation will be captured using Coupled Cluster-type approaches, excited states are accessible through an Equation-of-Motion formalism, and open-shell extensions will use generalized quasi-particles as building blocks for the electronic wavefunction. The extended geminal models thus developed will provide the first direct, atomistic, and quantitative computational model for understanding nuclear waste reprocessing and will provide the essential insights that are needed to guide the synthesis of new actinide compounds that can be used to separate actinides from the other components in the ìsoupî of nuclear waste. The developed models will be robust, computationally cheap, and black-box-like and can be used in many other areas of chemistry and materials physics like lanthanide and transition-metal chemistry, biochemistry, and semiconductor physics.",
+    "totalCost": "146462,4",
+    "ecMaxContribution": "146462,4",
+    "coordinator": "UNIWERSYTET MIKOLAJA KOPERNIKA W TORUNIU",
+    "coordinatorCountry": "PL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999836619": {
+            "orgId": "999836619",
+            "orgName": "UNIWERSYTET MIKOLAJA KOPERNIKA W TORUNIU",
+            "ecContrib": 146462
+        }
+    },
+    "calculatedTotalContribution": 146462
+}

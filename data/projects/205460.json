@@ -1,0 +1,63 @@
+{
+    "rcn": "205460",
+    "acronym": "SUNDIAL",
+    "topics": "MSCA-ITN-2016",
+    "title": "SUrvey Network for Deep Imaging Analysis and Learning",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2021",
+    "objective": "Though Big Data has become common in many domains nowadays, the challenges to develop efficient and automated mining of the ever increasing data sets by new generations of data scientists are eminent. These challenges span wide swathes of society, business and research. Astronomers with their high-tech observatories are historically at the forefront of this field, but obviously, the  impact in e.g. commercial applications, security, environmental monitoring and  experimental research is immense. We aim to contribute to this general discussion by training a number of young scientists in the fields of computer science and astronomy, focussing on techniques of automated learning from large quantities of data to answer fundamental questions on the evolution of properties of galaxies. While these techniques will lead to major advances in our understanding of the formation and evolution of galaxies, we will also promote, in collaboration with industry, much more general applications in society, e.g. in medical imaging or remote sensing. We have put together a team of astronomers and computer scientists, from academic and private sector partners, to develop techniques to detect and classify ultra-faint galaxies and galaxy remnants in a deep survey of the Fornax cluster, and use the results to study how galaxies evolve in the dense environment of galaxy clusters. With a team of young researchers we will develop novel computer science algorithms addressing  fundamental topics in galaxy formation, such as the huge dark matter fractions inferred by theory, and the lack of detected angular momentum in galaxies. The collaboration is unique - it will develop a platform for deep symbiosis of two radically different strands of approaches: purely data-driven machine learning and specialist approaches based on techniques developed in astronomy. Young scientists trained with such skills are highly demanded both in research and business.",
+    "totalCost": "3614425,92",
+    "ecMaxContribution": "3614425,92",
+    "coordinator": "RIJKSUNIVERSITEIT GRONINGEN",
+    "coordinatorCountry": "NL",
+    "participants": "OULUN YLIOPISTO;UNIVERSITEIT GENT",
+    "participantCountries": "FI;BE",
+    "projectParticipants": {
+        "999844670": {
+            "orgId": "999844670",
+            "orgName": "OULUN YLIOPISTO",
+            "ecContrib": 269145
+        },
+        "999976590": {
+            "orgId": "999976590",
+            "orgName": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+            "ecContrib": 258061
+        },
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 546576
+        },
+        "950323357": {
+            "orgId": "950323357",
+            "orgName": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION PARIS ILE-DE-FRANCE",
+            "ecContrib": 0
+        },
+        "999989782": {
+            "orgId": "999989782",
+            "orgName": "RIJKSUNIVERSITEIT GRONINGEN",
+            "ecContrib": 1021497
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 501120
+        },
+        "999806355": {
+            "orgId": "999806355",
+            "orgName": "INSTITUTO DE ASTROFISICA DE CANARIAS",
+            "ecContrib": 247873
+        },
+        "999868920": {
+            "orgId": "999868920",
+            "orgName": "ISTITUTO NAZIONALE DI ASTROFISICA",
+            "ecContrib": 258061
+        },
+        "999987648": {
+            "orgId": "999987648",
+            "orgName": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+            "ecContrib": 249216
+        }
+    },
+    "calculatedTotalContribution": 3351549
+}

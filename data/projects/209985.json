@@ -1,0 +1,23 @@
+{
+    "rcn": "209985",
+    "acronym": "PHOTON-NeuroCom",
+    "topics": "MSCA-IF-2016",
+    "title": "Photonic-assisted Neuromorphic Computing system",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2019",
+    "objective": "Neuromorphic computing has emerged as a promising approach to mimic the brain by overcoming the limitation of the conventional computers. The current implementation of neuromorphic computing systems (NCSs) has been done in CMOS technology, which comes with area and power-inefficiency. Enormous effort has been devoted to optimize the area and power-efficiency of such NCSs. One of the most promising approaches is the implementation of NCSs using spin-based devices combined with electronics (i.e. spintronics). Although, power-density is improved by spintronics-based NCSs, they are still far from the power-density of the brain that is attributed to the traditional way of changing the state of magnetic moment using a bias current that contributes to 90% of the total power consumed by such NCSs. Given a technique eliminating or decreasing this bias current, the power density of NCSs can be improved by orders of magnitude. \nPHOTON-NeuroCom proposes a novel approach that adds the benefits from photonics to the current spintronics-based NCSs by replacing the large bias current of the state of the art NCSs with a short polarized laser pulse. This will lead to at least two and three orders of magnitude lower energy consumption and higher speed in comparison with the state-of-the-art spintronics-based NCSs. This is a major step towards filling the huge gap between the power density of human brains and computers. The main objectives of this project are to model magnetic-photonic interaction, design and simulate a NCS through extracted model and fabrication of photonic-assisted STNO.\nMy previous experience with spintronics and mixed signal IC design has put me in a unique position to run such a promising project. On the other hand, I will benefit from a supervision team from host and partner organization with more than 15 years of experience in photonic integrated circuits and IC design. Moreover, the running FET-OPEN project at Aarhus University will speed up my fellowship.",
+    "totalCost": "212194,8",
+    "ecMaxContribution": "212194,8",
+    "coordinator": "AARHUS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 212195
+        }
+    },
+    "calculatedTotalContribution": 212195
+}

@@ -1,0 +1,73 @@
+{
+    "rcn": "206366",
+    "acronym": "LightKone",
+    "topics": "ICT-06-2016",
+    "title": "Lightweight Computation for Networks at the Edge",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The goal of LightKone is to develop a scientifically sound and industrially validated model for doing general-purpose computation on edge networks. An edge network consists of a large set of heterogeneous, loosely coupled computing nodes situated at the logical extreme of a network. Common examples are networks of Internet of Things, mobile devices, personal computers, and points of presence including Mobile Edge Computing. Internet applications are increasingly running on edge networks, to reduce latency, increase scalability, resilience, and security, and permit local decision making. However, todayís state of the art, the gossip and peer-to-peer models, give no solution for defining general-purpose computations on edge networks, i.e., computation with shared mutable state. LightKone will solve this problem by combining two recent advances in distributed computing, namely synchronisation-free programming and hybrid gossip algorithms, both of which are successfully used separately in industry. Together, they are a natural combination for edge computing. We will cover edge networks both with and without data center nodes, and applications focused on collaboration, computation, and both.  Project results will be new programming models and algorithms that advance scientific understanding, implemented in new industrial applications and a startup company, and evaluated in large-scale realistic settings.",
+    "totalCost": "3570993,75",
+    "ecMaxContribution": "3570993,75",
+    "coordinator": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+    "coordinatorCountry": "BE",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;DIPL. PHYS. PEER STRITZINGER GMBH;INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA;SCALITY;UNIVERSITAT POLITECNICA DE CATALUNYA;TECHNISCHE UNIVERSITAET KAISERSLAUTERN;GLUK ADVICE BV;NOVA ID FCT - ASSOCIACAO PARA A INOVACAO E DESENVOLVIMENTO DA FCT;SORBONNE UNIVERSITE",
+    "participantCountries": "FR;DE;PT;ES;NL",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "920170907": {
+            "orgId": "920170907",
+            "orgName": "SCALITY",
+            "ecContrib": 405000
+        },
+        "948777759": {
+            "orgId": "948777759",
+            "orgName": "DIPL. PHYS. PEER STRITZINGER GMBH",
+            "ecContrib": 393000
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 464062
+        },
+        "999885895": {
+            "orgId": "999885895",
+            "orgName": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+            "ecContrib": 346500
+        },
+        "948291595": {
+            "orgId": "948291595",
+            "orgName": "GLUK ADVICE BV",
+            "ecContrib": 360275
+        },
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 508735
+        },
+        "937405091": {
+            "orgId": "937405091",
+            "orgName": "NOVA ID FCT - ASSOCIACAO PARA A INOVACAO E DESENVOLVIMENTO DA FCT",
+            "ecContrib": 413479
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 395568
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 0
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 284375
+        }
+    },
+    "calculatedTotalContribution": 3570994
+}

@@ -1,0 +1,328 @@
+{
+    "rcn": "193188",
+    "acronym": "AtlantOS",
+    "topics": "BG-08-2014",
+    "title": "Optimizing and Enhancing the Integrated Atlantic Ocean Observing System",
+    "startDate": "01/04/2015",
+    "endDate": "30/06/2019",
+    "objective": "The overarching objective of AtlantOS is to achieve a transition from a loosely-coordinated set of existing ocean observing activities to a sustainable, efficient, and fit-for-purpose Integrated Atlantic Ocean Observing System (IAOOS), by defining requirements and systems design, improving the readiness of observing networks and data systems, and engaging stakeholders around the Atlantic; and leaving a legacy and strengthened contribution to the Global Ocean Observing System (GOOS) and the Global Earth Observation System of Systems (GEOSS). AtlantOS will fill existing in-situ observing system gaps and will ensure that data are readily accessible and useable. AtlantOS will demonstrate the utility of integrating in-situ and Earth observing satellite based observations towards informing a wide range of sectors using the Copernicus Marine Monitoring Services and the European Marine Observation and Data Network and connect them with similar activities around the Atlantic. AtlantOS will support activities to share, integrate and standardize in-situ observations, reduce the cost by network optimization and deployment of new technologies, and increase the competitiveness of European industries, and particularly of the small and medium enterprises of the marine sector. AtlantOS will promote innovation, documentation and exploitation of innovative observing systems. All AtlantOS work packages will strengthen the trans-Atlantic collaboration, through close interaction with partner institutions from Canada, United States, and the South Atlantic region. AtlantOS will develop a results-oriented dialogue with key stakeholders communities to enable a meaningful exchange between the products and services that IAOOS can deliver and the demands and needs of the stakeholder communities. Finally, AtlantOS will establish a structured dialogue with funding bodies, including the European Commission, USA, Canada and other countries to ensure sustainability and adequate growth of IAOOS.",
+    "totalCost": "20652921",
+    "ecMaxContribution": "20652921",
+    "coordinator": "HELMHOLTZ ZENTRUM FUR OZEANFORSCHUNG KIEL",
+    "coordinatorCountry": "DE",
+    "participants": "HAVFORSKNINGSINSTITUTTET;UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;INSTITUTO ESPANOL DE OCEANOGRAFIA;THE UNIVERSITY OF EXETER;BLUE LOBSTER IT LIMITED;Ribocon GmbH;EUROGOOS;SEASCAPE CONSULTANTS LTD;MINISTERIO DA CIENCIA E TECNOLOGIA;HAVSTOVAN;PLYMOUTH MARINE LABORATORY;THE SCOTTISH ASSOCIATION FOR MARINESCIENCE LBG;DANMARKS METEOROLOGISKE INSTITUT;UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION -UNESCO;EURO-ARGO ERIC;IEEE FRANCE SECTION;DALHOUSIE UNIVERSITY;CONSORCIO PARA EL DISENO, CONSTRUCCION, EQUIPAMIENTO Y EXPLOTACION DE LA PLATAFORMA OCEANICA DE CANARIAS;STICHTING NIOZ, KONINKLIJK NEDERLANDS INSTITUUT VOOR ONDERZOEK DER ZEE;Bruncin;BRUNCIN D.O.O. ZA USLUGE;FONDATION EUROPEENNE DE LA SCIENCE;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;MET OFFICE;SIR ALISTER HARDY FOUNDATION FOR OCEAN SCIENCE;UNIVERSITY OF PLYMOUTH;MARINE INSTITUTE;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;ALFRED-WEGENER-INSTITUT HELMHOLTZ-ZENTRUM FUR POLAR- UND MEERESFORSCHUNG;MEOPAR INCORPORATED;IMAR- INSTITUTO DO MAR;INTERNATIONAL COUNCIL FOR THE EXPLORATION OF THE SEA;UNIVERSITAET BREMEN;INSTYTUT OCEANOLOGII POLSKIEJ AKADEMII NAUK;ACRI-ST SAS;COUNCIL FOR SCIENTIFIC AND INDUSTRIAL RESEARCH;COLLECTE LOCALISATION SATELLITES SA;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;DANMARKS TEKNISKE UNIVERSITET;UNIVERSIDADE DO ALGARVE;INSTITUT FRANCAIS DE RECHERCHE POUR L'EXPLOITATION DE LA MER;NKE INSTRUMENTATION SARL;NORSK INSTITUTT FOR VANNFORSKNING;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;CIIMAR - Centro Interdisciplinar de InvestigaÁ„o Marinha e Ambiental;CLU srl;MARIENE INFORMATIE SERVICE MARIS BV;DEVELOGIC GMBH;FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI;WOODS HOLE OCEANOGRAPHIC INSTITUTION;EUMETNET GROUPEMENT D INTERET ECONOMIQUE;INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT;ETT SPA;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;VLAAMS INSTITUUT VOOR DE ZEE VZW;MERCATOR OCEAN;KONGSBERG MARITIME CONTROS GMBH;UNIVERSITETET I BERGEN;T.E. LABORATORIES LIMITED;DAITHI O'MURCHU MARINE RESEARCH STATION LTD;NATURAL ENVIRONMENT RESEARCH COUNCIL;KONSORTIUM DEUTSCHE MEERESFORSCHUNG e.V.",
+    "participantCountries": "NO;FR;ES;UK;DE;BE;BR;FO;DK;CA;NL;HR;IE;PT;PL;ZA;IT;US",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 465438
+        },
+        "951432067": {
+            "orgId": "951432067",
+            "orgName": "Bruncin",
+            "ecContrib": 0
+        },
+        "941572502": {
+            "orgId": "941572502",
+            "orgName": "DEVELOGIC GMBH",
+            "ecContrib": 94375
+        },
+        "991672808": {
+            "orgId": "991672808",
+            "orgName": "ETT SPA",
+            "ecContrib": 150000
+        },
+        "998539535": {
+            "orgId": "998539535",
+            "orgName": "DALHOUSIE UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999419422": {
+            "orgId": "999419422",
+            "orgName": "FONDAZIONE CENTRO EURO-MEDITERRANEO SUI CAMBIAMENTI CLIMATICI",
+            "ecContrib": 190000
+        },
+        "974300496": {
+            "orgId": "974300496",
+            "orgName": "MERCATOR OCEAN",
+            "ecContrib": 344072
+        },
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 144375
+        },
+        "999892685": {
+            "orgId": "999892685",
+            "orgName": "MET OFFICE",
+            "ecContrib": 404226
+        },
+        "998142126": {
+            "orgId": "998142126",
+            "orgName": "COLLECTE LOCALISATION SATELLITES SA",
+            "ecContrib": 317534
+        },
+        "986546746": {
+            "orgId": "986546746",
+            "orgName": "Ribocon GmbH",
+            "ecContrib": 274181
+        },
+        "986874024": {
+            "orgId": "986874024",
+            "orgName": "COUNCIL FOR SCIENTIFIC AND INDUSTRIAL RESEARCH",
+            "ecContrib": 0
+        },
+        "984024455": {
+            "orgId": "984024455",
+            "orgName": "EUMETNET GROUPEMENT D INTERET ECONOMIQUE",
+            "ecContrib": 240000
+        },
+        "998794063": {
+            "orgId": "998794063",
+            "orgName": "WOODS HOLE OCEANOGRAPHIC INSTITUTION",
+            "ecContrib": 0
+        },
+        "999641940": {
+            "orgId": "999641940",
+            "orgName": "ACRI-ST SAS",
+            "ecContrib": 91581
+        },
+        "994288025": {
+            "orgId": "994288025",
+            "orgName": "CLU srl",
+            "ecContrib": 50000
+        },
+        "999864555": {
+            "orgId": "999864555",
+            "orgName": "THE UNIVERSITY OF EXETER",
+            "ecContrib": 314625
+        },
+        "999817025": {
+            "orgId": "999817025",
+            "orgName": "MINISTERIO DA CIENCIA E TECNOLOGIA",
+            "ecContrib": 0
+        },
+        "997223536": {
+            "orgId": "997223536",
+            "orgName": "CIIMAR - Centro Interdisciplinar de Investigação Marinha e Ambiental",
+            "ecContrib": 68750
+        },
+        "974644458": {
+            "orgId": "974644458",
+            "orgName": "CONSORCIO PARA EL DISENO, CONSTRUCCION, EQUIPAMIENTO Y EXPLOTACION DE LA PLATAFORMA OCEANICA DE CANARIAS",
+            "ecContrib": 502231
+        },
+        "999987454": {
+            "orgId": "999987454",
+            "orgName": "UNIVERSITAET BREMEN",
+            "ecContrib": 281250
+        },
+        "950397271": {
+            "orgId": "950397271",
+            "orgName": "EUROGOOS",
+            "ecContrib": 387875
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 115000
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 170000
+        },
+        "999477234": {
+            "orgId": "999477234",
+            "orgName": "SIR ALISTER HARDY FOUNDATION FOR OCEAN SCIENCE",
+            "ecContrib": 540515
+        },
+        "999987939": {
+            "orgId": "999987939",
+            "orgName": "FONDATION EUROPEENNE DE LA SCIENCE",
+            "ecContrib": 75279
+        },
+        "999854661": {
+            "orgId": "999854661",
+            "orgName": "UNIVERSITY OF PLYMOUTH",
+            "ecContrib": 22375
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 173750
+        },
+        "999823427": {
+            "orgId": "999823427",
+            "orgName": "HAVSTOVAN",
+            "ecContrib": 203750
+        },
+        "999989200": {
+            "orgId": "999989200",
+            "orgName": "NATURAL ENVIRONMENT RESEARCH COUNCIL",
+            "ecContrib": 2229540
+        },
+        "999479077": {
+            "orgId": "999479077",
+            "orgName": "STICHTING NIOZ, KONINKLIJK NEDERLANDS INSTITUUT VOOR ONDERZOEK DER ZEE",
+            "ecContrib": 45000
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1241736
+        },
+        "997826585": {
+            "orgId": "997826585",
+            "orgName": "NORSK INSTITUTT FOR VANNFORSKNING",
+            "ecContrib": 100000
+        },
+        "999522824": {
+            "orgId": "999522824",
+            "orgName": "MARINE INSTITUTE",
+            "ecContrib": 328375
+        },
+        "999454245": {
+            "orgId": "999454245",
+            "orgName": "UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION -UNESCO",
+            "ecContrib": 728066
+        },
+        "999599939": {
+            "orgId": "999599939",
+            "orgName": "VLAAMS INSTITUUT VOOR DE ZEE VZW",
+            "ecContrib": 40000
+        },
+        "999451529": {
+            "orgId": "999451529",
+            "orgName": "IMAR- INSTITUTO DO MAR",
+            "ecContrib": 250000
+        },
+        "986090458": {
+            "orgId": "986090458",
+            "orgName": "HELMHOLTZ ZENTRUM FUR OZEANFORSCHUNG KIEL",
+            "ecContrib": 2904498
+        },
+        "999863003": {
+            "orgId": "999863003",
+            "orgName": "UNIVERSIDADE DO ALGARVE",
+            "ecContrib": 49999
+        },
+        "999474033": {
+            "orgId": "999474033",
+            "orgName": "INSTITUTO ESPANOL DE OCEANOGRAFIA",
+            "ecContrib": 89375
+        },
+        "998055505": {
+            "orgId": "998055505",
+            "orgName": "IEEE FRANCE SECTION",
+            "ecContrib": 104869
+        },
+        "999548432": {
+            "orgId": "999548432",
+            "orgName": "HAVFORSKNINGSINSTITUTTET",
+            "ecContrib": 281250
+        },
+        "947660901": {
+            "orgId": "947660901",
+            "orgName": "MEOPAR INCORPORATED",
+            "ecContrib": 0
+        },
+        "999974456": {
+            "orgId": "999974456",
+            "orgName": "UNIVERSITETET I BERGEN",
+            "ecContrib": 402122
+        },
+        "952856803": {
+            "orgId": "952856803",
+            "orgName": "SEASCAPE CONSULTANTS LTD",
+            "ecContrib": 287485
+        },
+        "998469889": {
+            "orgId": "998469889",
+            "orgName": "DAITHI O'MURCHU MARINE RESEARCH STATION LTD",
+            "ecContrib": 50000
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 294000
+        },
+        "999497507": {
+            "orgId": "999497507",
+            "orgName": "ALFRED-WEGENER-INSTITUT HELMHOLTZ-ZENTRUM FUR POLAR- UND MEERESFORSCHUNG",
+            "ecContrib": 460444
+        },
+        "999488971": {
+            "orgId": "999488971",
+            "orgName": "INSTYTUT OCEANOLOGII POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 233575
+        },
+        "996233166": {
+            "orgId": "996233166",
+            "orgName": "T.E. LABORATORIES LIMITED",
+            "ecContrib": 303750
+        },
+        "999484024": {
+            "orgId": "999484024",
+            "orgName": "PLYMOUTH MARINE LABORATORY",
+            "ecContrib": 127250
+        },
+        "999738843": {
+            "orgId": "999738843",
+            "orgName": "THE SCOTTISH ASSOCIATION FOR MARINESCIENCE LBG",
+            "ecContrib": 234560
+        },
+        "999509438": {
+            "orgId": "999509438",
+            "orgName": "DANMARKS METEOROLOGISKE INSTITUT",
+            "ecContrib": 87500
+        },
+        "999921300": {
+            "orgId": "999921300",
+            "orgName": "KONSORTIUM DEUTSCHE MEERESFORSCHUNG e.V.",
+            "ecContrib": 200000
+        },
+        "999630300": {
+            "orgId": "999630300",
+            "orgName": "INSTITUT FRANCAIS DE RECHERCHE POUR L'EXPLOITATION DE LA MER",
+            "ecContrib": 1716240
+        },
+        "949128026": {
+            "orgId": "949128026",
+            "orgName": "EURO-ARGO ERIC",
+            "ecContrib": 888228
+        },
+        "918928046": {
+            "orgId": "918928046",
+            "orgName": "BRUNCIN D.O.O. ZA USLUGE",
+            "ecContrib": 68750
+        },
+        "985717978": {
+            "orgId": "985717978",
+            "orgName": "KONGSBERG MARITIME CONTROS GMBH",
+            "ecContrib": 290688
+        },
+        "951676701": {
+            "orgId": "951676701",
+            "orgName": "NKE INSTRUMENTATION SARL",
+            "ecContrib": 80000
+        },
+        "999513803": {
+            "orgId": "999513803",
+            "orgName": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT",
+            "ecContrib": 475062
+        },
+        "998621694": {
+            "orgId": "998621694",
+            "orgName": "MARIENE INFORMATIE SERVICE MARIS BV",
+            "ecContrib": 50000
+        },
+        "987598032": {
+            "orgId": "987598032",
+            "orgName": "BLUE LOBSTER IT LIMITED",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 20413544
+}

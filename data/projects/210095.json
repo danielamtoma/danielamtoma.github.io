@@ -1,0 +1,98 @@
+{
+    "rcn": "210095",
+    "acronym": "EuroEXA",
+    "topics": "FETHPC-01-2016",
+    "title": "Co-designed Innovation and System for Resilient Exascale Computing in Europe: From Applications to Silicon",
+    "startDate": "01/09/2017",
+    "endDate": "28/02/2021",
+    "objective": "To achieve the demands of extreme scale and the delivery of exascale, we embrace the computing platform as a whole, not just component optimization or fault resilience. EuroEXA brings a holistic foundation from multiple European HPC projects and partners together with the industrial SME focus of MAX for FPGA data-flow; ICE for infrastructure; ALLIN for HPC tooling and ZPT to collapse the memory bottleneck; to co-design a ground-breaking platform capable of scaling peak performance to 400 PFLOP in a peak system power envelope of 30MW; over four times the performance at four times the energy efficiency of todayís HPC platforms. Further, we target a PUE parity rating of 1.0 through use of renewables and immersion-based cooling.\n\nWe co-design a balanced architecture for both compute- and data-intensive applications using a cost-efficient, modular-integration approach enabled by novel inter-die links and the tape-out of a resulting EuroEXA processing unit with integration of FPGA for data-flow acceleration. We provide a homogenised software platform offering heterogeneous acceleration with scalable shared memory access and create a unique hybrid geographically-addressed, switching and topology interconnect within the rack while enabling the adoption of low-cost Ethernet switches offering low-Latency and high-switching bandwidth.\n \nWorking together with a rich mix of key HPC applications from across climate/weather, physics/energy and life-science/bioinformatics domains we will demonstrate the results of the project through the deployment of an integrated and operational peta-flop level prototype hosted at STFC. Supported by run-to-completion platform-wide resilience mechanisms, components will manage local failures, while communicating with higher levels of the stack. Monitored and controlled by advanced runtime capabilities, EuroEXA will demonstrate its co-design solution supporting both existing pre-exascale and project-developed exascale applications.",
+    "totalCost": "19949022,5",
+    "ecMaxContribution": "19949022,5",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "THE UNIVERSITY OF MANCHESTER;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;ZEROPOINT TECHNOLOGIES AB;SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;ISTITUTO NAZIONALE DI ASTROFISICA;UNITED KINGDOM RESEARCH AND INNOVATION;ICEOTOPE RESEARCH & DEVELOPMENT LTD;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;ARM LIMITED;NEURASMUS BV;MAXELER TECHNOLOGIES LIMITED;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "participantCountries": "UK;DE;BE;SE;EL;IT;NL;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 1259938
+        },
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 516250
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 1245000
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 454920
+        },
+        "968922816": {
+            "orgId": "968922816",
+            "orgName": "MAXELER TECHNOLOGIES LIMITED",
+            "ecContrib": 1245000
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 669156
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 726875
+        },
+        "935183694": {
+            "orgId": "935183694",
+            "orgName": "ICEOTOPE RESEARCH & DEVELOPMENT LTD",
+            "ecContrib": 2047669
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 748250
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 0
+        },
+        "999868920": {
+            "orgId": "999868920",
+            "orgName": "ISTITUTO NAZIONALE DI ASTROFISICA",
+            "ecContrib": 363250
+        },
+        "917368092": {
+            "orgId": "917368092",
+            "orgName": "ZEROPOINT TECHNOLOGIES AB",
+            "ecContrib": 842500
+        },
+        "999813824": {
+            "orgId": "999813824",
+            "orgName": "ARM LIMITED",
+            "ecContrib": 364500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 705712
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 6472940
+        },
+        "968992268": {
+            "orgId": "968992268",
+            "orgName": "NEURASMUS BV",
+            "ecContrib": 520188
+        }
+    },
+    "calculatedTotalContribution": 18182148
+}

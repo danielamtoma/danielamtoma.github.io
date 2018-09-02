@@ -1,0 +1,28 @@
+{
+    "rcn": "197085",
+    "acronym": "MAGnUM",
+    "topics": "ERC-CoG-2014",
+    "title": "A Multiscale and Multimodal Modelling Approach for Green Urban Traffic Management",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "The MAGnUM project aims to (i) create a consistent set of interrelated dynamic and multimodal traffic models able to capture driver behaviours at the different urban scales and (ii) apply this variety of models to design efficient and green traffic management strategies.\nTraffic flow dynamics is well reproduced at a local urban scale by the kinematic wave model and its numerous extensions. Even if this model is parsimonious compared to other modelling approaches, it can hardly be applied at larger urban scales for traffic control applications. Very recently, a new modelling approach has been proposed to represent congestion dynamics at large scales. It relates the total travel production to the vehicle accumulation in a traffic network with for now a restrictive condition about network homogeneity. This approach is very promising for designing new traffic management systems but heterogeneous situations should be handled by properly connecting with the local scale to account for the effects of the local distributions and variations of the driver behaviour (demand) and the network structure (supply). Investigating these relationships and proposing a full set of consistent models representing traffic dynamics at several relevant scales (successive spatial and temporal integration) is very challenging with high potential gains for traffic control applications. This is the primary goal of MAGnUM and will be achieved by mixing analytical investigations on idealized but insightful test cases with explanatory approaches based on data gained from dynamic simulations or serious game sessions on more realistic and complex cases.\nThe second goal of the project concerns the design of innovative traffic management strategies at multiple urban scales. Breakthroughs will be achieved by considering multiple and competitive objectives when optimizing with a tight focus on environment issues and multi-modality.",
+    "totalCost": "1975500",
+    "ecMaxContribution": "1975500",
+    "coordinator": "INSTITUT FRANCAIS DES SCIENCES ET TECHNOLOGIES DES TRANSPORTS, DE L'AMENAGEMENT ET DES RESEAUX",
+    "coordinatorCountry": "FR",
+    "participants": "ECOLE NATIONALE DES TRAVAUX PUBLICS DE L'ETAT",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "995829937": {
+            "orgId": "995829937",
+            "orgName": "ECOLE NATIONALE DES TRAVAUX PUBLICS DE L'ETAT",
+            "ecContrib": 142600
+        },
+        "968126446": {
+            "orgId": "968126446",
+            "orgName": "INSTITUT FRANCAIS DES SCIENCES ET TECHNOLOGIES DES TRANSPORTS, DE L'AMENAGEMENT ET DES RESEAUX",
+            "ecContrib": 1832900
+        }
+    },
+    "calculatedTotalContribution": 1975500
+}

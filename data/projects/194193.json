@@ -1,0 +1,63 @@
+{
+    "rcn": "194193",
+    "acronym": "NEAT",
+    "topics": "ICT-05-2014",
+    "title": "A New, Evolutive API and Transport-Layer Architecture for the Internet",
+    "startDate": "01/03/2015",
+    "endDate": "30/04/2018",
+    "objective": "At the 2011 OECD High-Level Meeting ìThe Internet Economy: Generating Innovation and Growthî, Vint Cerf, VP and Chief Internet Evangelist at Google, said that one of the biggest issues with the Internet is ìkeeping the network as open as possible to invite as much innovation as we can with as little barrier to that innovation as possible, so that new Googles and Amazons and PayPals and Skypes can happen all around the world.î\n\nA significant barrier to innovation by SMEs is the ossification of the Internet transport architecture. New groundbreaking services often require different transport protocols, better signalling between application and network, or a more flexible choice of links. A few large enterprises have the resources to support their innovations by developing their own transport systemsóAdobe, Google and Microsoft have done so. Open sophisticated transport protocols exist now, but are difficult for SMEs to use owing to their lack of support across the Internet.\n\nNEAT addresses two obstacles to Internet innovation: 1) It lowers the barrier to service innovation by developing a free open-source transport system that will allow SMEs to leverage the rich set of available transport protocols. 2) It paves the way for an architectural change of the Internet where new transport layer services can seamlessly be integrated and quickly made available, minimising deployment difficulties, and allowing Internet innovators to take advantage of them wherever possible.\n\nBy optionally signalling between applications and the network, NEAT demonstrates new avenues for in-network support of application services. By decoupling the services offered to applications from the underlying network technologies, NEAT enables seamless integration with different computing environments and generalised mobility. The NEAT transport system will provide built-in security and privacy, allowing the implementation of these functions more efficiently and making them more attractive to use.",
+    "totalCost": "4215751,25",
+    "ecMaxContribution": "3957001,25",
+    "coordinator": "SIMULA RESEARCH LABORATORY AS",
+    "coordinatorCountry": "NO",
+    "participants": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ABERDEEN;MZ Denmark APS;CELERWAY COMMUNICATION AS;UNIVERSITETET I OSLO;FACHHOCHSCHULE MUNSTER;EMC INFORMATION SYSTEMS INTERNATIONAL;KARLSTADS UNIVERSITET;CISCO SYSTEMS FRANCE SARL",
+    "participantCountries": "UK;DK;NO;DE;IE;SE;FR",
+    "projectParticipants": {
+        "953703128": {
+            "orgId": "953703128",
+            "orgName": "CISCO SYSTEMS FRANCE SARL",
+            "ecContrib": 0
+        },
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 513296
+        },
+        "995915976": {
+            "orgId": "995915976",
+            "orgName": "SIMULA RESEARCH LABORATORY AS",
+            "ecContrib": 783416
+        },
+        "959978349": {
+            "orgId": "959978349",
+            "orgName": "EMC INFORMATION SYSTEMS INTERNATIONAL",
+            "ecContrib": 562336
+        },
+        "999874837": {
+            "orgId": "999874837",
+            "orgName": "KARLSTADS UNIVERSITET",
+            "ecContrib": 526928
+        },
+        "951230210": {
+            "orgId": "951230210",
+            "orgName": "MZ Denmark APS",
+            "ecContrib": 231598
+        },
+        "999929448": {
+            "orgId": "999929448",
+            "orgName": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ABERDEEN",
+            "ecContrib": 492132
+        },
+        "996007835": {
+            "orgId": "996007835",
+            "orgName": "FACHHOCHSCHULE MUNSTER",
+            "ecContrib": 246828
+        },
+        "947553425": {
+            "orgId": "947553425",
+            "orgName": "CELERWAY COMMUNICATION AS",
+            "ecContrib": 600468
+        }
+    },
+    "calculatedTotalContribution": 3957002
+}

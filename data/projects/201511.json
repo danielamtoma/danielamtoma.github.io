@@ -1,0 +1,23 @@
+{
+    "rcn": "201511",
+    "acronym": "SUPEREOM",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Microwave-to-Optical Quantum Link: Quantum Teleportation and Quantum Illumination with cavity Optomechanics",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "Quantum processing promises exponential speedups for certain computational problems and superconducting circuits are believed to be a scalable platform for this future era of information technology. One problem is that superconducting systems operate in the microwave regime where quantum communication via room temperature channels becomes impossible due to transmission losses and electronic noise. The main scientific objective of the proposed project is the experimental demonstration of a quantum coherent link between distant superconducting microwave circuits using fiber optic technology. In order to show the effectiveness of our on-chip integrated acousto-optic converter we will work towards two closely related applications with high scientific impact. \n\nContinuous variable quantum teleportation could form one of the basic building blocks to establish large-scale quantum networks. We will use Josephson parametric amplifiers to generate squeezed states of light, which will be upconverted to the telecom band, distributed via fiber optics, downconverted and detected using advanced microwave tomography methods. Microwave quantum illumination on the other hand utilizes the generated entanglement between microwave and optical photons, using electro-opto-mechanical converter, to detect extremely weak signals in the presence of a noisy background with sensitivities inaccessible with classical technology. \n\nThe proposed on-chip integrated converter is already under development and will be based on the parametrically enhanced electro-opto-mechanical coupling between a mechanically compliant telecom wavelength photonic crystal cavity and a capacitively coupled compact superconducting LC resonator. Compared to traditional acousto-optic modulators our resonator-based system has a limited bandwidth but it works at modulation powers corresponding to only a single intra-cavity microwave photon, which in turn enables high fidelity quantum-limited operation of the device.",
+    "totalCost": "178156,8",
+    "ecMaxContribution": "178156,8",
+    "coordinator": "Institute of Science and Technology Austria",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "996479740": {
+            "orgId": "996479740",
+            "orgName": "Institute of Science and Technology Austria",
+            "ecContrib": 178157
+        }
+    },
+    "calculatedTotalContribution": 178157
+}

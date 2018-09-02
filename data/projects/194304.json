@@ -1,0 +1,63 @@
+{
+    "rcn": "194304",
+    "acronym": "WiSHFUL",
+    "topics": "ICT-11-2014",
+    "title": "Wireless Software and Hardware platforms for Flexible and Unified radio and network controL",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Wireless testbeds have become an essential tool to develop and validate innovative wireless solutions. However, due to the increasing diversity of wireless solutions and competing radio technologies, along with the ever more stringent requirements on the reliability of test results, wireless test facilities have evolved to very complex systems with steep learning curves for innovators. To speed up and facilitate the experimentation process, to lower its cost and to enhance the uptake of future non- and pre-standard solutions, the WiSHFUL project is determined to lower the experimentation threshold by developing flexible, scalable, open software architectures and programming interfaces for prototyping novel wireless solutions for a variety of applications ranging from healthcare to smart cities, supporting players in high value-add markets with considerable growth potential.\nKey features of WiSHFUL include (1) unified radio control, providing developers with deep control of physical and medium access components without requiring deep knowledge of the radio hardware platform and (2) unified network control allowing the rapid creation, modification, and prototyping of protocols across the entire stack.\nWiSHFUL will also create a testbed-on-the-move, consisting of portable facilities that can be deployed easily and efficiently at any location, allowing validation of innovative wireless solutions in the real world (with realistic propagation and interference characteristics) and involving real users. The usefulness of these facilities will be confirmed by participation of industrial and academic partners through open calls for experimentation.\nIn addition, we envision to extend these facilities with the capability to experiment with emerging wireless technologies such as millimeter wave communications, full-duplex and massive MIMO in the scope of open calls for extensions.",
+    "totalCost": "5491752,25",
+    "ecMaxContribution": "5171000",
+    "coordinator": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+    "coordinatorCountry": "BE",
+    "participants": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO;THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN;SEOUL NATIONAL UNIVERSITY;TECHNISCHE UNIVERSITAET BERLIN;NCENTRIC EUROPE BVBA;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI;RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
+    "participantCountries": "BR;IE;KR;DE;BE;IT;US",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 3182956
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "996466063": {
+            "orgId": "996466063",
+            "orgName": "SEOUL NATIONAL UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999845446": {
+            "orgId": "999845446",
+            "orgName": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+            "ecContrib": 457128
+        },
+        "999882403": {
+            "orgId": "999882403",
+            "orgName": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
+            "ecContrib": 0
+        },
+        "940144759": {
+            "orgId": "940144759",
+            "orgName": "NCENTRIC EUROPE BVBA",
+            "ecContrib": 263333
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 517500
+        },
+        "999848841": {
+            "orgId": "999848841",
+            "orgName": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
+            "ecContrib": 0
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 750083
+        }
+    },
+    "calculatedTotalContribution": 5171000
+}

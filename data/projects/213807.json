@@ -1,0 +1,33 @@
+{
+    "rcn": "213807",
+    "acronym": "LABOR",
+    "topics": "JTI-CS2-2017-CFP06-AIR-02-49",
+    "title": "Lean robotized AssemBly and cOntrol of composite aeRostructures",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2021",
+    "objective": "According to the Global Market Forecast, there is a strong need to ramp up the productivity in the aeronautic industry and to this aim, all manufacturers are highly investing in flexible and lean manufacturing to reduce cost and boost productivity. Robotics is a key technology enabler but its adoption in the aeronautic industry is only at an early stage due to a number of barriers related to strict product requirements. Current commercial robotized assembly cells of airframe parts usually resort to high payload robots.  The LABOR project has the challenging objective to overcome some of the barriers mentioned above in the automation of many critical assembly sub-operations, as drilling, inspection, sealing and fastening, by proposing a novel lean approach. The overall technological strategy consists in the adoption of small-scale robots (with the aim of saving costs and gaining flexibility) in conjunction with smart fixtures and external axes to increase their workspace. Furthermore, still in view of cost savings and the possibility to have spare parts at disposal with a very limited investment, the robotic work cell will make use of standard process tools, such as electrical drilling tools or automated fastening tools, suitable adapted to be integrated into a robot end effector compatible with quick tool-changers. Vision system will used in order to adjust the coordinates where the robot has to drill based on real time scanning of the sub-components and to check the quality of the holes to guarantee a high standard of the process. Each components of the self adaptive robotic cell will be considered as a Cyber Physical System and a distributed intelligence approach will be adopted. The consortium has experience in the proposed approach for the aeronautic sector and has the needed competences to bring the proposed concepts in the real environment and to exploit the results of the project.",
+    "totalCost": "2509375",
+    "ecMaxContribution": "1995062,5",
+    "coordinator": "AEA s.r.l.",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITA DEGLI STUDI DI SALERNO;UNIVERSITA DEGLI STUDI DELLA CAMPANIA LUIGI VANVITELLI",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "991209924": {
+            "orgId": "991209924",
+            "orgName": "AEA s.r.l.",
+            "ecContrib": 1200062
+        },
+        "999899184": {
+            "orgId": "999899184",
+            "orgName": "UNIVERSITA DEGLI STUDI DI SALERNO",
+            "ecContrib": 391250
+        },
+        "999848356": {
+            "orgId": "999848356",
+            "orgName": "UNIVERSITA DEGLI STUDI DELLA CAMPANIA LUIGI VANVITELLI",
+            "ecContrib": 403750
+        }
+    },
+    "calculatedTotalContribution": 1995062
+}

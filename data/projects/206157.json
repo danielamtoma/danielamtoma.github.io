@@ -1,0 +1,68 @@
+{
+    "rcn": "206157",
+    "acronym": "ESROCOS",
+    "topics": "COMPET-4-2016",
+    "title": "European Space Robot Control Operating System",
+    "startDate": "01/11/2016",
+    "endDate": "31/01/2019",
+    "objective": "The ESROCOS activity is devoted to the design of a Robot Control Operating Software (RCOS) that can provide adequate features and performance with space-grade Reliability, Availability, Maintainability and Safety (RAMS) properties. The goal of the ESROCOS proposal is to provide an open source framework which can assist in the generation of flight software for space robots. By providing an open standard which can be used by research labs and industry, it is expected that the elevation of TRL levels can be made more efficient, and vendor lock-in through proprietary environments can be reduced. \nCurrent state-of-the-art robotic frameworks are already addressing some of these key aspects, but mostly fail to deliver the degree of quality expected in the space environment. Terrestrial RCOS developed by industrial robot companies (e.g. VxWorks, PikeOS) are not usable for space robotics because their Intellectual Property Rights (IPR) enforce the vendorís dependency on space development. Other open-source frameworks do not have sufficient RAMS properties for its use in space missions. \nThe ESROCOS objectives are to: \n1. Develop a Space-oriented RCOS including space-grade RAMS attributes, formal verification and qualification of industrial drivers.\n2. Integrate advanced modelling technologies, separating the model from the platform\n3. Focus on the space robotics community, with requirements coming from actors leading robotics missions \n4. Allow integration of complex robotics applications by including the Time and Space partitioning approach\n5. Avoid vendor-lock in situations by delivering an open-source solution \n6. Leverage on existing assets, such as already existing frameworks properly extended, mature toolsets  and libraries)\n7. Ease the development of robotics systems by providing a solution interoperable with other robotics frameworks (e.g. Rock/ROS third-party libraries and visualizers/simulator) \n8. Cross-pollinate with non-space solutions and applications",
+    "totalCost": "3500053,75",
+    "ecMaxContribution": "3499995,75",
+    "coordinator": "GMV AEROSPACE AND DEFENCE SA",
+    "coordinatorCountry": "ES",
+    "participants": "INTERMODALICS BVBA;GMVIS SKYSOFT SA;Teknologian tutkimuskeskus VTT Oy;INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L'ESPACE;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;UNIVERSITE GRENOBLE ALPES;KATHOLIEKE UNIVERSITEIT LEUVEN;AIRBUS DEFENCE AND SPACE LTD",
+    "participantCountries": "BE;PT;FI;FR;DE;UK",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 108308
+        },
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 720600
+        },
+        "975080473": {
+            "orgId": "975080473",
+            "orgName": "INTERMODALICS BVBA",
+            "ecContrib": 202926
+        },
+        "999905004": {
+            "orgId": "999905004",
+            "orgName": "GMV AEROSPACE AND DEFENCE SA",
+            "ecContrib": 978100
+        },
+        "999530778": {
+            "orgId": "999530778",
+            "orgName": "AIRBUS DEFENCE AND SPACE LTD",
+            "ecContrib": 62476
+        },
+        "999892491": {
+            "orgId": "999892491",
+            "orgName": "INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L'ESPACE",
+            "ecContrib": 205430
+        },
+        "999924986": {
+            "orgId": "999924986",
+            "orgName": "GMVIS SKYSOFT SA",
+            "ecContrib": 319430
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 419375
+        },
+        "924833212": {
+            "orgId": "924833212",
+            "orgName": "UNIVERSITE GRENOBLE ALPES",
+            "ecContrib": 406115
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 77236
+        }
+    },
+    "calculatedTotalContribution": 3499996
+}

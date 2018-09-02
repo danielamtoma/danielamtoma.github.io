@@ -1,0 +1,23 @@
+{
+    "rcn": "211546",
+    "acronym": "WIDE",
+    "topics": "ERC-2016-ADG",
+    "title": "Wide Incremental learning with Discrimination nEtworks",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "Although homo sapiens has been endowed with language for over 50,000 years, the invention of alphabet-like scripts 3,000 years ago dominates Western linguistic thinking. Training in literacy starts in early childhood, and because of this, words and letter-like sound units can naturally seem to be the building blocks of language. The Chinese writing system highlights the cultural-specificity of this approach: characters are juxtaposed without intervening spaces, and their interpretation is highly context-dependent. Words are not singled out. And although more frequent characters contain parts indicating pronunciation, it is syllables that are referred to, not letter-like sound units.\n\nThe research proposed here seeks to break the hold that the alphabet-centric approach has on our understanding of language by exploring the idea that instead of being phone and word-based, languages use low-level properties of the acoustic signal to directly reduce uncertainty about the messages encoded in the speech signal. My work with wide learning networks (two-layer networks with many thousands of units, using the simplest possible error-driven learning rule) provides remarkable support for this suggestion: For reading and speech comprehension, their performance closely matches both the strengths and the weaknesses of human processing. Especially at a time when machine learning and artificial intelligence are moving beyond human capacity, it is a methodological imperative to study and work with algorithms reflecting both the advantages and disadvantages of human learning.\n\nI am requesting funding to take this radically novel research program to the next level by further developing our account of auditory comprehension, by modeling more typologically diverse languages, by extending this approach to speech production, and by developing a discrimination-based language theory.",
+    "totalCost": "2496875",
+    "ecMaxContribution": "2496875",
+    "coordinator": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991916": {
+            "orgId": "999991916",
+            "orgName": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+            "ecContrib": 2496875
+        }
+    },
+    "calculatedTotalContribution": 2496875
+}

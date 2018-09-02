@@ -1,0 +1,58 @@
+{
+    "rcn": "209718",
+    "acronym": "interACT",
+    "topics": "ART-04-2016",
+    "title": "Designing cooperative interaction of automated vehicles with other road users in mixed traffic environments",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "There is currently a high desire by manufacturers to introduce Automated Vehicles (AVs), SAE level 3 and above, to the market. As AVs are likely to be deployed in mixed traffic, they need to interact safely and efficiently with other (non-equipped) users, including manually driven vehicles, cyclists and pedestrians. Although obstacle detection by AVs is almost flawless, these vehicles cannot communicate their intentions to other road users. This limitation currently reduces their appeal and value to the user. To ensure intuitive and cooperative interaction between the AV and others, and a smooth flow of all traffic, it is essential that there is good means of communication between all actors. The main objective of interACT is to substantially improve this communication and cooperation strategy. interACT will provide an overview of current human-machine interactions in mixed traffic, and increase chances of safe deployment of AVs by developing novel software and HMI hardware components for reliable and user-centric communication between an AV with its users. interACT will: \n1) Use social-psychological models to compile a catalogue of interactions, identifying the main communication needs of road users in current and future traffic scenarios \n2) Improve software algorithms and sensor capabilities for assessing intention recognition and behaviour prediction of surrounding road users \n3) Use a Cooperation and Communication Planning Unit to integrate planning algorithms, providing synchronized and integrated communication protocols \n4) Ensure safety of road users by developing easy-to-verify software for a safety layer, and novel methods for fail-safe trajectory planning. \nPrototypes will be developed and evaluated in multi-actor simulators and two test vehicles, assessing ease-of-use, acceptance, safety and reliability. The impact of this successful communication on reduction of crashes, improvement of traffic flow and acceptance of AVs by society will be investigated.",
+    "totalCost": "5527581,25",
+    "ecMaxContribution": "5527581,25",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "HELLA GMBH & CO KGAA;ROBERT BOSCH GMBH;CENTRO RICERCHE FIAT SCPA;TECHNISCHE UNIVERSITAET MUENCHEN;UNIVERSITY OF LEEDS;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;BMW GROUP AG",
+    "participantCountries": "DE;IT;UK;EL",
+    "projectParticipants": {
+        "999975426": {
+            "orgId": "999975426",
+            "orgName": "UNIVERSITY OF LEEDS",
+            "ecContrib": 682349
+        },
+        "992440078": {
+            "orgId": "992440078",
+            "orgName": "HELLA GMBH & CO KGAA",
+            "ecContrib": 755582
+        },
+        "999437852": {
+            "orgId": "999437852",
+            "orgName": "BAYERISCHE MOTOREN WERKE AKTIENGESELLSCHAFT",
+            "ecContrib": 0
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 528500
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 489000
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 648009
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 704185
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 844716
+        }
+    },
+    "calculatedTotalContribution": 4652341
+}

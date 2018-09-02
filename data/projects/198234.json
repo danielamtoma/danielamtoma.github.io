@@ -1,0 +1,53 @@
+{
+    "rcn": "198234",
+    "acronym": "HySEA",
+    "topics": "FCH-04.3-2014",
+    "title": "Improving Hydrogen Safety for Energy Applications (HySEA) through pre-normative research on vented deflagrations",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "The aim of the HySEA project is to conduct pre-normative research on vented deflagrations in enclosures and containers for hydrogen energy applications. The ambition is to facilitate the safe and successful introduction of hydrogen energy systems by introducing harmonized standard vent sizing requirements. The partners in the HySEA consortium have extensive experience from experimental and numerical investigations of hydrogen explosions. The experimental program features full-scale vented deflagration experiments in standard ISO containers, and includes the effect of obstacles simulating levels of congestion representative of industrial systems. The project also entails the development of a hierarchy of predictive models, ranging from empirical engineering models to sophisticated computational fluid dynamics (CFD) and finite element (FE) tools. The specific objectives of HySEA are:\n- To generate experimental data of high quality for vented deflagrations in real-life enclosures and containers with congestion levels representative of industrial practice; \n- To characterize different strategies for explosion venting, including hinged doors, natural vent openings, and commercial vent panels;\n- To invite the larger scientific and industrial safety community to submit blind-predictions for the reduced explosion pressure in selected well-defined explosion scenarios;\n- To develop, verify and validate engineering models and CFD-based tools for reliable predictions of pressure loads in vented explosions;\n- To develop and validate predictive tools for overpressure (P) and impulse (I), and produce P-I diagrams for typical structures with relevance for hydrogen energy applications;\n- To use validated CFD codes to explore explosion hazards and mitigating measures in larger enclosures, such as warehouses; and \n- To formulate recommendations for improvements to European (EN-14994), American (NFPA 68), and other relevant standards for vented explosions.",
+    "totalCost": "1511780",
+    "ecMaxContribution": "1494780",
+    "coordinator": "GEXCON AS",
+    "coordinatorCountry": "NO",
+    "participants": "University of Science and Technology of China;IMPETUS ADVANCED FINITE ELEMENT ANALYSES AS;UNIVERSITA DI PISA;FIKE EUROPE BVBA;HEFEI UNIVERSITY OF TECHNOLOGY;THE UNIVERSITY OF WARWICK",
+    "participantCountries": "CN;NO;IT;BE;UK",
+    "projectParticipants": {
+        "996537746": {
+            "orgId": "996537746",
+            "orgName": "GEXCON AS",
+            "ecContrib": 538100
+        },
+        "996228025": {
+            "orgId": "996228025",
+            "orgName": "University of Science and Technology of China",
+            "ecContrib": 0
+        },
+        "999976784": {
+            "orgId": "999976784",
+            "orgName": "THE UNIVERSITY OF WARWICK",
+            "ecContrib": 450390
+        },
+        "935082232": {
+            "orgId": "935082232",
+            "orgName": "FIKE EUROPE BVBA",
+            "ecContrib": 191590
+        },
+        "942771713": {
+            "orgId": "942771713",
+            "orgName": "IMPETUS ADVANCED FINITE ELEMENT ANALYSES AS",
+            "ecContrib": 59075
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 255625
+        },
+        "919697547": {
+            "orgId": "919697547",
+            "orgName": "HEFEI UNIVERSITY OF TECHNOLOGY",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1494780
+}

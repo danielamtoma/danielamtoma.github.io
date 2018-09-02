@@ -1,0 +1,183 @@
+{
+    "rcn": "213922",
+    "acronym": "OSMOSE",
+    "topics": "LCE-04-2017",
+    "title": "Optimal System-Mix Of flexibility Solutions for European electricity",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "Six TSOs, eleven research partners, together with sixteen industry (manufacturers, solution providers) and market (producers, ESCo) players address, through a holistic approach, the identification and development of flexibilities required to enable the Energy Transition to high share of renewables. This approach captures synergies across needs and sources of flexibilities, such as multiple services from one source, or hybridizing sources, thus resulting in a cost-efficient power system. OSMOSE proposes four TSO-led demonstrations (RTE, REE, TERNA and ELES) aiming at increasing the techno-economic potential of a wide range of flexibility solutions and covering several applications, i.e.: synchronisation of large power systems by multiservice hybrid storage; multiple services provided by the coordinated control of different storage and FACTS devices; multiple services provided by grid devices, large demand-response and RES generation coordinated in a smart management system; cross-border sharing of flexibility sources through a near real-time cross-border energy market.    \nThe demonstrations are coordinated with and supported by simulation-based studies which aim (i) to forecast the economically optimal mix of flexibility solutions in long-term energy scenarios (2030 and 2050) and (ii) to build recommendations for improvements of the existing market mechanisms and regulatory frameworks, thus enabling the reliable and sustainable development of flexibility assets by market players in coordination with regulated players.       \nInteroperability and improved TSO/DSO interactions are addressed so as to ease the scaling up and replication of the flexibility solutions. A database is built for the sharing of real-life techno-economic performances of electrochemical storage devices. Activities are planned to prepare a strategy for the exploitation and dissemination of the projectís results, with specific messages for each category of stakeholders of the electricity system.",
+    "totalCost": "28316380",
+    "ecMaxContribution": "21852098,69",
+    "coordinator": "RTE RESEAU DE TRANSPORT D ELECTRICITE SA",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITE PARIS DAUPHINE;HYDRO DOLOMITI ENERGIA SRL;IBM ITALIA SPA;SCHNEIDER ELECTRIC FRANCE SAS;HOLDING SLOVENSKE ELEKTRARNE DOO;UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA;ELEKTROENERGETSKI KOORDINACIONI CENTAR DOO;CENTRO DE INVESTIGACAO EM ENERGIA REN - STATE GRID SA;COMPENDIA SRL;CONSORZIO INTERUNIVERSITARIO NAZIONALE PER ENERGIA E SISTEMI ELETTRICI;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;RED ELECTRICA DE ESPANA S.A.U.;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;UNIVERSITAET DUISBURG-ESSEN;ABB SPA;ENEL GREEN POWER;TERNA - RETE ELETTRICA NAZIONALE SPA;TECHNISCHE UNIVERSITAET BERLIN;REN - REDE ELECTRICA NACIONAL SA;RICERCA SUL SISTEMA ENERGETICO - RSE SPA;ELIA SYSTEM OPERATOR;EFACEC ENERGIA - MAQUINAS E EQUIPAMENTOS ELECTRICOS SA;FONDAZIONE BRUNO KESSLER;IT4POWER GMBH;INGETEAM POWER TECHNOLOGY SA;FUNDACION CENER-CIEMAT;GREEN POWER TECHNOLOGIES SL;EDISON SPA;ENGINEERING - INGEGNERIA INFORMATICA SPA;ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA;E2I ENERGIE SPECIALI SRL;SAFT",
+    "participantCountries": "FR;IT;SI;ES;RS;PT;CH;DE;BE",
+    "projectParticipants": {
+        "999954183": {
+            "orgId": "999954183",
+            "orgName": "RTE RESEAU DE TRANSPORT D ELECTRICITE SA",
+            "ecContrib": 3790788
+        },
+        "999745342": {
+            "orgId": "999745342",
+            "orgName": "FUNDACION CENER-CIEMAT",
+            "ecContrib": 512969
+        },
+        "963494405": {
+            "orgId": "963494405",
+            "orgName": "SAFT",
+            "ecContrib": 1809947
+        },
+        "914772275": {
+            "orgId": "914772275",
+            "orgName": "HOLDING SLOVENSKE ELEKTRARNE DOO",
+            "ecContrib": 1078350
+        },
+        "998929669": {
+            "orgId": "998929669",
+            "orgName": "UNIVERSITE PARIS DAUPHINE",
+            "ecContrib": 428860
+        },
+        "915570973": {
+            "orgId": "915570973",
+            "orgName": "COMPENDIA SRL",
+            "ecContrib": 170909
+        },
+        "953914588": {
+            "orgId": "953914588",
+            "orgName": "INGETEAM POWER TECHNOLOGY SA",
+            "ecContrib": 299950
+        },
+        "940068323": {
+            "orgId": "940068323",
+            "orgName": "CENTRO DE INVESTIGACAO EM ENERGIA REN - STATE GRID SA",
+            "ecContrib": 466624
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 126781
+        },
+        "958668364": {
+            "orgId": "958668364",
+            "orgName": "CONSORZIO INTERUNIVERSITARIO NAZIONALE PER ENERGIA E SISTEMI ELETTRICI",
+            "ecContrib": 1136156
+        },
+        "998079755": {
+            "orgId": "998079755",
+            "orgName": "ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA",
+            "ecContrib": 458102
+        },
+        "985816433": {
+            "orgId": "985816433",
+            "orgName": "ENEL GREEN POWER",
+            "ecContrib": 512772
+        },
+        "935233649": {
+            "orgId": "935233649",
+            "orgName": "EFACEC ENERGIA - MAQUINAS E EQUIPAMENTOS ELECTRICOS SA",
+            "ecContrib": 263791
+        },
+        "914631625": {
+            "orgId": "914631625",
+            "orgName": "E2I ENERGIE SPECIALI SRL",
+            "ecContrib": 211422
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 857028
+        },
+        "997943373": {
+            "orgId": "997943373",
+            "orgName": "TERNA - RETE ELETTRICA NAZIONALE SPA",
+            "ecContrib": 745707
+        },
+        "999486352": {
+            "orgId": "999486352",
+            "orgName": "REN - REDE ELECTRICA NACIONAL SA",
+            "ecContrib": 283500
+        },
+        "972800488": {
+            "orgId": "972800488",
+            "orgName": "ELEKTROENERGETSKI KOORDINACIONI CENTAR DOO",
+            "ecContrib": 964749
+        },
+        "996339866": {
+            "orgId": "996339866",
+            "orgName": "EDISON SPA",
+            "ecContrib": 204641
+        },
+        "957049919": {
+            "orgId": "957049919",
+            "orgName": "ABB SPA",
+            "ecContrib": 387994
+        },
+        "999843312": {
+            "orgId": "999843312",
+            "orgName": "UNIVERSITAET DUISBURG-ESSEN",
+            "ecContrib": 950006
+        },
+        "996512914": {
+            "orgId": "996512914",
+            "orgName": "GREEN POWER TECHNOLOGIES SL",
+            "ecContrib": 878961
+        },
+        "999529420": {
+            "orgId": "999529420",
+            "orgName": "RICERCA SUL SISTEMA ENERGETICO - RSE SPA",
+            "ecContrib": 942594
+        },
+        "913755812": {
+            "orgId": "913755812",
+            "orgName": "HYDRO DOLOMITI ENERGIA SRL",
+            "ecContrib": 119809
+        },
+        "996589544": {
+            "orgId": "996589544",
+            "orgName": "ELIA SYSTEM OPERATOR",
+            "ecContrib": 465588
+        },
+        "999929739": {
+            "orgId": "999929739",
+            "orgName": "UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA",
+            "ecContrib": 333165
+        },
+        "990567978": {
+            "orgId": "990567978",
+            "orgName": "RED ELECTRICA DE ESPANA S.A.U.",
+            "ecContrib": 741917
+        },
+        "991479196": {
+            "orgId": "991479196",
+            "orgName": "IBM ITALIA SPA",
+            "ecContrib": 432469
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 581831
+        },
+        "953804105": {
+            "orgId": "953804105",
+            "orgName": "SCHNEIDER ELECTRIC FRANCE SAS",
+            "ecContrib": 109025
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 621000
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 860219
+        },
+        "996455781": {
+            "orgId": "996455781",
+            "orgName": "IT4POWER GMBH",
+            "ecContrib": 104475
+        }
+    },
+    "calculatedTotalContribution": 21852099
+}

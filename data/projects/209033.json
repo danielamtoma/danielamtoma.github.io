@@ -1,0 +1,23 @@
+{
+    "rcn": "209033",
+    "acronym": "TPANN",
+    "topics": "MSCA-IF-2016",
+    "title": "Tensor Processing on FPGAs for Artificial Neural Networks",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2018",
+    "objective": "Artificial neural networks have been shown to offer a powerful computing approach to encounter many classification problems as in synthetic vision (e.g. autonomous driving) and artificial intelligence (e.g. AlphaGo). While their implementations are often based on power-hungy CPU- and GPU-installations, first researchers have delivered initial application-specific solutions that demonstrate FPGAs to be a feasible and efficient alternative. This proposal aims at providing a generic reference implementation of ANNs on FPGAs that is tunable towards various application needs by parametrization. Since individual FPGA designs establish enormous costs of entry due to a higher engineering effort on a lower abstration level, an IP core that is available out of the box is a great R&D incentive that enables more researchers and engineers to embrace the emerging efficient heterogeneous computing more quickly and produce innovations and more compact and more efficient products on this basis. Besides this technological advance, this proposal enables a researcher with an enormous experience in mapping computations into FPGA hardware to make a valuable industrial experience in an international context with the major company in this domain. His expertise is ideally complemented with the application experience available at Xilinx who will benefit from opening a new growing market for manufactured FPGA devices. The development of the researcher's skill set is explictly addressed by complementing his academic background with industrial experience and scheduled cooperate trainings. As part of the dissemination activities, his network into the FPGA community is strengthened and approaches towards the ANN community are made.",
+    "totalCost": "93933",
+    "ecMaxContribution": "93933",
+    "coordinator": "XILINX IRELAND UNLIMITED COMPANY",
+    "coordinatorCountry": "IE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "968654417": {
+            "orgId": "968654417",
+            "orgName": "XILINX IRELAND UNLIMITED COMPANY",
+            "ecContrib": 93933
+        }
+    },
+    "calculatedTotalContribution": 93933
+}

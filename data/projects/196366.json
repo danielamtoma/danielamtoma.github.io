@@ -1,0 +1,23 @@
+{
+    "rcn": "196366",
+    "acronym": "ADAPTIVE",
+    "topics": "ERC-PoC-2014",
+    "title": "Industrial implementation of adaptive computational methods for turbulent flow and fluid-structure interaction",
+    "startDate": "01/04/2015",
+    "endDate": "30/09/2016",
+    "objective": "The ERC StG project UNICON (Project ID 202984) was completed in July 2013. The goal of UNICON was to develop new adaptive finite element methods for computer simulation of fluid-structure interaction, in particular for problems involving turbulent flow. Simulation of turbulent flow is an outstanding computational challenge, where the UNICON project made significant progress beyond the state of the art. The scientific results of the UNICON project include a new theoretical and methodological framework, and a computer implementation of the methods as open source software, published as part of the FEniCS project, co-founded by the PI (Hoffman) in 2003. FEniCS is today a world leading open source software for computer simulation based on differential equations, with an estimated 50 000 downloads per year, and the PI today leads the PRACE Tier-0 project FEniCS-HPC, in which algorithms and software are developed for the most powerful supercomputers in Europe. Compared to competing simulation software, free as well as commercial, UNICON computational technology has proven to exhibit unique features with respect to accuracy and efficiency. \n\nThe idea of this ERC PoC project is to commercialize the UNICON simulation technology. In particular, ADAPTIVE targets civil (non-military) industry, with a focus on subsonic fluid dynamics. The strategy is to deliver services and products tailored to each customer, from deliverance of a simulation result, to education and support for integration of the simulation tools in the workflow of a customer.",
+    "totalCost": "146897",
+    "ecMaxContribution": "146897",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 146897
+        }
+    },
+    "calculatedTotalContribution": 146897
+}

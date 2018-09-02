@@ -1,0 +1,93 @@
+{
+    "rcn": "203397",
+    "acronym": "DELPHI4LED",
+    "topics": "ECSEL-07-2015",
+    "title": "From Measurements to Standardized Multi-Domain Compact Models of LEDs",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2019",
+    "objective": "The European lighting industry aims at reducing cost, at continuously improving product performance while reducing time to market and enlarging the product. \nThe main challenge for the design in of LED components into lighting systems is the temperature and current dependence of their performance. \nIn order to achieve a good design of LED systems, a modular, multi-physics based modelling approach is needed ñ this way allowing the freedom for LED component integrators to use such models in any kind of luminaire designs. In order to overcome those key challenges, seamless integration of the LED in the product development chain is necessary. For that a bridge, in the form of standardization, has to be established between the semiconductor industry and the LED component integrators.\nIn order to  achieve this, the following tools have to be provided:\nï Generic, multi-domain model of LED chips. \nï Compact thermal model of the LED chipsí environment. \nï Modeling interface towards the luminaire. \nThe goal of the project is to develop a standardized method to create multi-domain LED compact models from testing data. \nThe objectives are:\nï Define set of LED model equations that can be implemented into a FEM/CFD tool, for the purpose of self-consistent multi-domain simulation of LEDs thermal, electrical and light output characteristics.\nï Provide interfacing between measurement tools, modelling tools and simulation tools to allow the application of the compact LED models.\nï Prove the benefits of the use of compact models in the development process to reduce development times and cost.\nThis will lead to an industry standard in the lighting industry.\nAchievement of this project is expected to boost time to market of LED products cut by 1/3, cut development cost by 50%, reduce Cost of Non-quality by 25%. The European lighting industry is offered a unique competitive advantage, necessary to catch the 30-40% speed of growth of its LED market and tape into potential new markets.",
+    "totalCost": "9710627,5",
+    "ecMaxContribution": "2775462,63",
+    "coordinator": "PHILIPS LIGHTING B.V.",
+    "coordinatorCountry": "NL",
+    "participants": "MENTOR GRAPHICS (IRELAND) LTD;LIGHTING DESIGN COLLECTIVE OY;ECCE'LECTRO;Teknologian tutkimuskeskus VTT Oy;BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM;INGELUX SARL;MAGILLEM DESIGN SERVICES SAS;PI LIGHTING SARL;HAVELLS SYLVANIA LIGHTING BELGIUM;PISEO;TECHNISCHE UNIVERSITEIT EINDHOVEN;FLEXBRIGHT OY;PHILIPS FRANCE;MENTOR GRAPHICS MAGYARORSZAG SZAMITASTECHNIKAI TANACSADO ES KERESKEDELMI KORLATOLT FELELOSSEGU TARSASAG",
+    "participantCountries": "IE;FI;FR;HU;CH;BE;NL",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 169324
+        },
+        "925668867": {
+            "orgId": "925668867",
+            "orgName": "PI LIGHTING SARL",
+            "ecContrib": 0
+        },
+        "925658294": {
+            "orgId": "925658294",
+            "orgName": "HAVELLS SYLVANIA LIGHTING BELGIUM",
+            "ecContrib": 49238
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 397449
+        },
+        "997593106": {
+            "orgId": "997593106",
+            "orgName": "PHILIPS LIGHTING B.V.",
+            "ecContrib": 547902
+        },
+        "998571642": {
+            "orgId": "998571642",
+            "orgName": "PHILIPS FRANCE",
+            "ecContrib": 153372
+        },
+        "999925956": {
+            "orgId": "999925956",
+            "orgName": "MENTOR GRAPHICS (IRELAND) LTD",
+            "ecContrib": 260917
+        },
+        "927893659": {
+            "orgId": "927893659",
+            "orgName": "LIGHTING DESIGN COLLECTIVE OY",
+            "ecContrib": 50625
+        },
+        "936589515": {
+            "orgId": "936589515",
+            "orgName": "FLEXBRIGHT OY",
+            "ecContrib": 118125
+        },
+        "999904228": {
+            "orgId": "999904228",
+            "orgName": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
+            "ecContrib": 292300
+        },
+        "999585292": {
+            "orgId": "999585292",
+            "orgName": "MENTOR GRAPHICS MAGYARORSZAG SZAMITASTECHNIKAI TANACSADO ES KERESKEDELMI KORLATOLT FELELOSSEGU TARSASAG",
+            "ecContrib": 160417
+        },
+        "925669061": {
+            "orgId": "925669061",
+            "orgName": "ECCE'LECTRO",
+            "ecContrib": 90919
+        },
+        "925640543": {
+            "orgId": "925640543",
+            "orgName": "PISEO",
+            "ecContrib": 114066
+        },
+        "996287680": {
+            "orgId": "996287680",
+            "orgName": "MAGILLEM DESIGN SERVICES SAS",
+            "ecContrib": 206333
+        },
+        "935965223": {
+            "orgId": "935965223",
+            "orgName": "INGELUX SARL",
+            "ecContrib": 164476
+        }
+    },
+    "calculatedTotalContribution": 2775463
+}

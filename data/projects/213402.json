@@ -1,0 +1,28 @@
+{
+    "rcn": "213402",
+    "acronym": "DeepSPIN",
+    "topics": "ERC-2017-STG",
+    "title": "Deep Learning for Structured Prediction in Natural Language Processing",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Deep learning is revolutionizing the field of Natural Language Processing (NLP), with breakthroughs in machine translation, speech recognition, and question answering. New language interfaces (digital assistants, messenger apps, customer service bots) are emerging as the next technologies for seamless, multilingual communication among humans and machines.\n\nFrom a machine learning perspective, many problems in NLP can be characterized as structured prediction: they involve predicting structurally rich and interdependent output variables. In spite of this, current neural NLP systems ignore the structural complexity of human language, relying on simplistic and error-prone greedy search procedures. This leads to serious mistakes in machine translation, such as words being dropped or named entities mistranslated. More broadly, neural networks are missing the key structural mechanisms for solving complex real-world tasks requiring deep reasoning.\n\nThis project attacks these fundamental problems by bringing together deep learning and structured prediction, with a highly disruptive and cross-disciplinary approach. First, I will endow neural networks with a 'planning mechanism' to guide structural search, letting decoders learn the optimal order by which they should operate. This makes a bridge with reinforcement learning and combinatorial optimization. Second, I will develop new ways of automatically inducing latent structure inside the network, making it more expressive, scalable and interpretable. Synergies with probabilistic inference and sparse modeling techniques will be exploited. To complement these two innovations, I will investigate new ways of incorporating weak supervision to reduce the need for labeled data.\n\nThree highly challenging applications will serve as testbeds: machine translation, quality estimation, and dependency parsing. To maximize technological impact, a collaboration is planned with a start-up company in the crowd-sourcing translation industry.",
+    "totalCost": "1436000",
+    "ecMaxContribution": "1436000",
+    "coordinator": "Instituto de TelecomunicaÁıes",
+    "coordinatorCountry": "PT",
+    "participants": "UNBABEL, LDA",
+    "participantCountries": "PT",
+    "projectParticipants": {
+        "939116074": {
+            "orgId": "939116074",
+            "orgName": "UNBABEL, LDA",
+            "ecContrib": 100000
+        },
+        "999580248": {
+            "orgId": "999580248",
+            "orgName": "INSTITUTO DE TELECOMUNICACOES",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 100000
+}

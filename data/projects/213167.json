@@ -1,0 +1,43 @@
+{
+    "rcn": "213167",
+    "acronym": "micro-ROS",
+    "topics": "ICT-25-2016-2017",
+    "title": "micro-ROS: Platform for seamless integration of resource constrained devices in the robot ecosystem",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Micro-ROS will be a Robotic framework targeting embedded and deep embedded robot components with extremely constrained computational resources. These devices have special characteristics: minimum real time operating system or no operating system, battery powered, wireless low bandwidth connections, and intermittent operation with sleep periods.\n\nMicro-ROS will be compatible with the Robot Operating System (ROS 2.0), the de facto standard for robot application development. Micro-ROS will enable the interoperability of traditional robots with IoT sensors and devices, creating truly distributed robotic systems using a common framework.\n\nMicro-ROS empowers these computational devices with constrained resources to become first class participants of the ROS ecosystem allowing to create smaller robots using the same tools as well as taking advantage of the increasing overlapping between robotics, smart embedded devices and IoT.",
+    "totalCost": "3877451,43",
+    "ecMaxContribution": "2940920",
+    "coordinator": "PROYECTOS Y SISTEMAS DE MANTENIMIENTO SL",
+    "coordinatorCountry": "ES",
+    "participants": "ROBERT BOSCH GMBH;ACUTRONIC LINK ROBOTICS AG;FIWARE FOUNDATION EV;PRZEMYSLOWY INSTYTUT AUTOMATYKI I POMIAROW PIAP",
+    "participantCountries": "DE;CH;PL",
+    "projectParticipants": {
+        "999549984": {
+            "orgId": "999549984",
+            "orgName": "PRZEMYSLOWY INSTYTUT AUTOMATYKI I POMIAROW PIAP",
+            "ecContrib": 544500
+        },
+        "914743175": {
+            "orgId": "914743175",
+            "orgName": "ACUTRONIC LINK ROBOTICS AG",
+            "ecContrib": 744100
+        },
+        "919308965": {
+            "orgId": "919308965",
+            "orgName": "FIWARE FOUNDATION EV",
+            "ecContrib": 211180
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 657497
+        },
+        "968731920": {
+            "orgId": "968731920",
+            "orgName": "PROYECTOS Y SISTEMAS DE MANTENIMIENTO SL",
+            "ecContrib": 783643
+        }
+    },
+    "calculatedTotalContribution": 2940920
+}

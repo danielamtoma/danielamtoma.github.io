@@ -1,0 +1,28 @@
+{
+    "rcn": "204748",
+    "acronym": "ULT-MAS-DNP",
+    "topics": "ERC-CoG-2015",
+    "title": "Dynamic Nuclear Polarization at ultra-fast sample spinning and ultra-low temperature",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "The goal of the project is to develop a new hyperpolarization approach called Magic Angle Spinning Dynamic Nuclear Polarization (MAS-DNP) to reach levels of sensitivity and resolution that have never been achieved, in order to tackle highly relevant chemical and biological questions that remain unanswered so far. Firstly this will provide major advances in NMR crystallography (solving 3D structures by NMR) by showing that distance measurements between nuclei (13C, 15N, etc.) as well as 17O quadrupolar parameters can be extracted from NMR measurements without requiring isotopic labeling. This will be applied to systems that cannot be easily isotopically enriched and for which X-ray analysis is often not suitable. Secondly we propose an innovative strategy to hyperpolarize nuclear spins using MAS-DNP: rather than polarizing the entire system uniformly, we will selectively ìlight upî regions where we wish to gather important structural information. This will be developed to study protein-ligand interactions (with unprecedented resolution) to answer specific structural questions and potentially impact the field of drug engineering. Finally we will show that the unique experimental setup developed in this project will open up NMR to the routine study of ìexoticî, yet ubiquitous and highly informative, nuclei such as 43Ca and 67Zn. Specifically, we will show that MAS-DNP can become a choice technique for the study of diamagnetic metal binding sites, complementing EPR for the study of metalloproteins. These goals will be achieved thanks to the development of original methods and advanced instrumentation, allowing sustainable access to low temperatures (down to 10-20 K) and fast pneumatic sample spinning, under microwave irradiation. We expect to improve the current sensitivity to such an extent that 4 orders of magnitude of experimental timesavings are obtained, resulting in completely new research directions and regimes.",
+    "totalCost": "1999805,42",
+    "ecMaxContribution": "1999805,42",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1959805
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 40000
+        }
+    },
+    "calculatedTotalContribution": 1999805
+}

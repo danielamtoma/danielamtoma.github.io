@@ -1,0 +1,23 @@
+{
+    "rcn": "195360",
+    "acronym": "QuantMR7",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Quantitative MRI of the brain using magnetic resonance fingerprinting",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2018",
+    "objective": "Alterations in the intrinsic physical tissue parameters measured with magnetic resonance imaging (MRI), such as of longitudinal (T1) and transverse (T2) relaxation times, have been implicated in major neurological conditions. Although these differences have been noted as useful signs in image contrasts, parameter quantification has not been exploited as a marker for disease stage or for monitoring treatment efficacy. \n\nPrevious attempts to perform quantitative MRI protocols have suffered from sensitivity to system imperfections as well as infeasible, long acquisition times. Recently, a new approach called MR fingerprinting (MRF) has been developed for the estimation of multiple parameters at once, featuring a new dedicated acquisition strategy. The method has shown great promise as data can be acquired in clinically acceptable time, is relatively insensitive to system imperfections and has high accuracy. To date, only two dimensional datasets using a single acquisition strategy (balanced steady state free precession bSSFP) have been explored. Further, this was using a rather slow reconstruction algorithm at 1.5T. In addition, the technique has not been yet applied outside healthy volunteer groups.\n\nIn this project we aim to develop a 3D MRF acquisition for imaging the whole brain with optimized acquisition trajectories. We will compare different acquisition strategies, including strategies sensitive to magnetic susceptibility in the brain, previously unexplored. The sequence parameters will be optimized using a dedicated novel genetic algorithm. An accelerated reconstruction software using a novel algorithm will be developed using graphics processing units. Initial data will be acquired with new protocols at 7T and at 1.5T. Statistical parametric maps will be used to investigate group differences. The close interaction with clinical facilities will facilitate the prompt application to patient groups, including neurological, psychiatric and pediatric patients.",
+    "totalCost": "180277,2",
+    "ecMaxContribution": "180277,2",
+    "coordinator": "IMAGO 7 FONDAZIONE DI RICERCA ONLUS",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "949800333": {
+            "orgId": "949800333",
+            "orgName": "IMAGO 7 FONDAZIONE DI RICERCA ONLUS",
+            "ecContrib": 180277
+        }
+    },
+    "calculatedTotalContribution": 180277
+}

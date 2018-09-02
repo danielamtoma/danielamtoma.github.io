@@ -1,0 +1,23 @@
+{
+    "rcn": "194525",
+    "acronym": "CNT-QUBIT",
+    "topics": "ERC-CoG-2014",
+    "title": "Carbon Nanotube Quantum Circuits",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "The aim of this proposal is to use spin qubits defined in carbon nanotube quantum dots to demonstrate measurement-based entanglement in an all-electrical and scalable solid-state architecture. The project makes use of spin-orbit interaction to drive spin rotations in the carbon nanotube host system and hyperfine interaction to store quantum information in the nuclear spin states. The proposal builds on techniques developed by the principal investigator for fast and non-invasive read-out of the electron spin qubits using radio-frequency reflectometry and spin-to-charge conversion.\n\nAny quantum computer requires entanglement. One route to achieve entanglement between electron spin qubits in quantum dots is to use the direct interaction of neighbouring qubits due to their electron wavefunction overlap. This approach, however, becomes rapidly impractical for any large scale quantum processor, as distant qubits can only be entangled through the use of qubits in between. Here I propose an alternative strategy which makes use of an intriguing quantum mechanical effect by which two spatially separated spin qubits coupled to a single electrical resonator become entangled if a measurement cannot tell them apart.\n\nThe quantum information encoded in the entangled electron spin qubits will be transferred to carbon-13 nuclear spins which are used as a quantum memory with coherence times that exceed seconds. Entanglement with further qubits then proceeds again via projective measurements of the electron spin qubits without risk of losing the existing entanglement. When entanglement of the electron spin qubits is heralded ñ which might take several attempts ñ the quantum information is transferred again to the nuclear spin states. This allows for the coupling of large numbers of physically separated qubits, building up so-called graph or cluster states in an all-electrical and scalable solid-state architecture.",
+    "totalCost": "1998574",
+    "ecMaxContribution": "1998574",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 1998574
+        }
+    },
+    "calculatedTotalContribution": 1998574
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "193681",
+    "acronym": "NEURAMORPH",
+    "topics": "ERC-StG-2014",
+    "title": "Dynamics of Amorphous Semiconductors: Intrinsic Nature and Application in Neuromorphic Hardware",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2021",
+    "objective": "After decades of perfecting the established way of computing, it is now evident that the fundamental logic of todayís computers will prevent them from ever reaching the efficiency of neural networks as found in nature. Neuromorphic hardware promises a leap forward by following the inherent working principles of biological neural networks. In very-large-scale integrated neuromorphic circuits incorporating an immense number of artificial neurons, the even much larger number of synapses poses the challenge of imitating especially the synaptic functionality in a most compact way. Over the last years, various memristive devices have been proposed to represent the weight of a synapse, determining how well electrical spikes are transmitted from one neuron to another. Existing attempts to achieve spike-timing-dependent plasticity, however, possess inherent problems.\nThe NEURAMORPH project aims to develop a simple and compact circuit element to regulate the access to the memristive device for weight modifications. The dynamics of electrical excitability intrinsic to the employed amorphous semiconductors will naturally be able to mimic spike-timing-dependent plasticity. For full control over the properties of these synaptic access elements, a fundamental understanding of the relaxation processes in such amorphous materials is imperative. To this end, amorphization conditions will be systematically varied over a wide-range to create very distinct amorphous states. As a measure for relaxation the temporal evolution of their electrical properties will then be investigated. Based on experimental results for a variety of materials, molecular dynamics simulations will be employed to elucidate the relationship between elemental composition, structural dynamics and changing electrical excitability. Finally, as proof of concept, a prototype of a neuromorphic chip will be developed incorporating the new kind of synaptic device.",
+    "totalCost": "1499468",
+    "ecMaxContribution": "1499468",
+    "coordinator": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 1499468
+        }
+    },
+    "calculatedTotalContribution": 1499468
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "195720",
+    "acronym": "LeSoDyMAS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Learning in the Space of Dynamical Models of Adrenal Steroidogenesis ìLeSoDyMASî",
+    "startDate": "13/07/2015",
+    "endDate": "12/07/2017",
+    "objective": "To date most successful machine learning techniques for the analysis of complex interdisciplinary data predominantly use significant amounts of vectorial measurements as input to a statistical system. The domain expert knowledge is often only used in data preprocessing and the subsequently trained technique appears as a black-box, which is difficult to interpret or judge and rarely allows insight into the underlying natural process. However, in many bio-medical applications the underlying biological process is complex and the amount of measurements is limited due to the costs and inconvenience for the patient. The main aim of this project is the formulation of a generalised framework for learning in the space of probabilistic models representing the complicated underlying natural processes with potentially very few measurements. This includes the development of a similarity measure for posterior distributions, task-driven model simplification and a new learning paradigm to combine those modules. The method will be developed for the prediction of steroid flow in the treatment of Congenital Adrenal Hyperplasia (CAH) incorporating dynamical models of Adrenal Steroidogenesis. With the successful execution of this project we expect not only better prediction performance for individual treatment success, but also deeper understanding of the pathophysiologic processes due to the incorporation of the pathway models. The project combines the expertise of the Fellow (Dr. Bunte) in task-driven similarity learning and dimensionality reduction with the expertise of the Host Coordinator (Prof. Tino, The University of Birmingham (UoB)) in probabilistic modelling, dynamical systems and model-based learning. The UoB and all participants (University of Sheffield,Warwick and the company Diurnal Ltd) provide further bio-medical\nand modelling expertise, and have already successfully collaborated in previous projects, including the clinical data targeted in this proposal.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "THE UNIVERSITY OF BIRMINGHAM",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

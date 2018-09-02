@@ -1,0 +1,63 @@
+{
+    "rcn": "199271",
+    "acronym": "APOLLO",
+    "topics": "EO-1-2015",
+    "title": "Advisory platform for small farms based on earth observation",
+    "startDate": "01/05/2016",
+    "endDate": "28/02/2019",
+    "objective": "The overall objective of APOLLO is to develop a commercial platform that will provide a suite of farm management advisory services specifically designed to address the needs of small farmers. APOLLO will use state-of-the-art methodologies for the calculation of agricultural parameters based on EO data, taking advantage of the improved spatial and temporal coverage of the new Sentinels. \nAPOLLO will produce data on agricultural parameters through available EO, meteorological, and auxiliary data. Especially for the calculation of soil moisture, SAR images will be used for the first time with Sentinel-1, making it possible to obtain maps with a spatial and temporal resolution not achievable before. Based on the agricultural parameters calculated, a suite of farm management services (tillage scheduling, irrigation scheduling, crop growth monitoring, and crop yield estimation) will be developed, and will be delivered through a web and mobile interface. The service requirements will be elaborated in close collaboration with end users. \nAPOLLO services will be cost-effective and affordable, thanks to access to free and open Copernicus data, an automated processing chain for the delivery of agricultural variables, independence from the need for ground-based sensors, and the pioneering use of Sentinel-1 data for estimating soil moisture information. \nThe APOLLO platform and business case will be validated through pilot testing in Spain, Greece, and Serbia, with the participation of small farmers, agricultural consultants, farmersí associations, and SMEs providing farm management services.\nA business strategy for the take-up of APOLLO will be developed, assessing the operational sustainability of the platform based on market revenues. According to the preliminary business plan developed, APOLLO has the potential for a Return On Investment (ROI) of 18% - 51% in 3 years (for the low and high uptake scenario, respectively).",
+    "totalCost": "2135785,71",
+    "ecMaxContribution": "1707056,25",
+    "coordinator": "DRAXIS ENVIRONMENTAL S.A.",
+    "coordinatorCountry": "EL",
+    "participants": "TECHNISCHE UNIVERSITAET WIEN;EVENFLOW;FACULTY OF CIVIL ENGINEERING;UDRUZENJE POLJOPRIVREDNIKA OPSTINE RUMA;AGRICULTURAL UNIVERSITY OF ATHENS;AGRISAT IBERIA SL;STARLAB BARCELONA SL;AGROTIKOS SYNETAIRISMOS PELLAS",
+    "participantCountries": "AT;BE;RS;EL;ES",
+    "projectParticipants": {
+        "930142410": {
+            "orgId": "930142410",
+            "orgName": "UDRUZENJE POLJOPRIVREDNIKA OPSTINE RUMA",
+            "ecContrib": 76875
+        },
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 205812
+        },
+        "930159773": {
+            "orgId": "930159773",
+            "orgName": "AGROTIKOS SYNETAIRISMOS PELLAS",
+            "ecContrib": 76125
+        },
+        "937460187": {
+            "orgId": "937460187",
+            "orgName": "AGRISAT IBERIA SL",
+            "ecContrib": 226844
+        },
+        "999872218": {
+            "orgId": "999872218",
+            "orgName": "AGRICULTURAL UNIVERSITY OF ATHENS",
+            "ecContrib": 231250
+        },
+        "999773666": {
+            "orgId": "999773666",
+            "orgName": "STARLAB BARCELONA SL",
+            "ecContrib": 140438
+        },
+        "972528403": {
+            "orgId": "972528403",
+            "orgName": "FACULTY OF CIVIL ENGINEERING",
+            "ecContrib": 192750
+        },
+        "996151686": {
+            "orgId": "996151686",
+            "orgName": "DRAXIS ENVIRONMENTAL S.A.",
+            "ecContrib": 398500
+        },
+        "932516485": {
+            "orgId": "932516485",
+            "orgName": "EVENFLOW",
+            "ecContrib": 158462
+        }
+    },
+    "calculatedTotalContribution": 1707056
+}

@@ -1,0 +1,33 @@
+{
+    "rcn": "202667",
+    "acronym": "MINIMA",
+    "topics": "Sesar-01-2015",
+    "title": "MItigating Negative Impacts of Monitoring high levels of Automation",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2018",
+    "objective": "Assigning tasks, formerly executed by human operators, to automation can increase the performance in many aspects of ATM. However, the absence of automation errors can often not be guaranteed. Consequently a human operator is required to monitor the automation and to intervene in the rare cases of automation errors. It has been shown that this monitoring role of human operators results in negative effects like lack of attention, loss of situation awareness and ñ in the long term ñ skill degradation.\nThis project will develop solutions to mitigate these effects. As an example a highly automated arrival management task in which the aircraft follow their predefined 4D-trajectories will be investigated. As neither the automatic detection and resolution of all conflicts nor the ability of all aircraft to follow their trajectories with the required precision can be guaranteed all the time, a human operator is needed to monitor and handle situations in which automation fails.\nNew human-automation interaction design concepts for this task will be developed from scratch in three steps in this project: First, the task environment will be analyzed to identify all the necessary tasks that can be assigned either to the human operator or the automation. Secondly, concept for different solutions will be developed considering the human performance envelope. This includes adaptive or adaptable automation with dynamic task distributions, tools to direct the operator attention, and suitable human-machine interfaces. In a third step, different human-automation design concepts will be evaluated.\nIdentifying how to apply higher automation to complex systems while mitigating the negative effects of monitoring tasks will allow benefiting from performance increases of higher levels of automation while keeping the human operator performance on a high level to ensure safe operations.",
+    "totalCost": "582780",
+    "ecMaxContribution": "582779,5",
+    "coordinator": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "coordinatorCountry": "DE",
+    "participants": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+    "participantCountries": "FR;IT",
+    "projectParticipants": {
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 192000
+        },
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 174041
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 216738
+        }
+    },
+    "calculatedTotalContribution": 582779
+}

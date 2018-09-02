@@ -1,0 +1,23 @@
+{
+    "rcn": "198522",
+    "acronym": "Time2Life",
+    "topics": "ERC-PoC-2015",
+    "title": "Advanced signal processing of time-domain data in mass spectrometry to leverage life sciences",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2016",
+    "objective": "Advances in biotechnology, pharmaceutical and life sciences require improved performance of even the most powerful analytical techniques to target the extreme complexity of modern biological samples. Due to its high performance, Fourier transform mass spectrometry (FTMS) is the central analytical technique in biomolecular analysis. Fourier transform (FT) drives FTMS by converting the time-domain (transient) data to mass spectra which, in turn, provide the biological information. Although FT is robust, it is inherently slow due to its strict uncertainty principle. Thus, many life sciences applications of FTMS are suffering from a limited throughput ñ data acquisition in FTMS should be done faster! Recent innovation results of our ERC Starting Grant ìSuper-resolution mass spectrometry for health and sustainabilityî have revealed the incredible power that methods of advanced signal processing, whose uncertainty principles are less strict than the FT one, have to offer to the everyday routine high-performance FTMS. Thus, we have rationally implemented existing and developed novel super-resolution and advanced signal processing methods to substantially speed up FTMS. While fundamental and technical feasibilities of our approach have been evaluated favorably at the lab level, turning these research outputs into a commercial proposition is yet to be demonstrated. Therefore, the aim of Time2Life is to translate our technology validated in lab into a robust industry-grade technology that accelerates high-performance biological mass spectrometry via the advanced signal processing of time-domain (transient) data and thus leverages life sciences applications. The industrial and academic end-users would be able to identify and quantify more analytes (e.g., peptides, proteins and metabolites) and thus enhance biological significance and accuracy of their research and clinical work. Notably, we target the unrepresented by SME area of time-domain data analysis in mass spectrometry.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "SPECTROSWISS SARL",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "934991731": {
+            "orgId": "934991731",
+            "orgName": "SPECTROSWISS SARL",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

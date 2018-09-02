@@ -1,0 +1,78 @@
+{
+    "rcn": "211959",
+    "acronym": "TDX-ASSIST",
+    "topics": "LCE-05-2017",
+    "title": "Coordination of Transmission and Distribution data eXchanges for renewables integration in the European marketplace through Advanced, Scalable and Secure ICT Systems and Tools",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2020",
+    "objective": "This project aims to design and develop novel Information and Communication Technology (ICT) tools and techniques that facilitate scalable and secure information systems and data exchange between Transmission System Operator (TSO) and Distribution System Operator (DSO). The three novel aspects of ICT tools and techniques to be developed in the project are: scalability ñ ability to deal with new users and increasingly larger volumes of information and data; security ñ protection against external threats and attacks; and interoperability ñinformation exchange and communications based on existing and emerging international smart grid ICT standards.\nThe project focuses on TSO-DSO interoperability. While TSO-TSO interoperability is currently well established by ENTSO-E through implementation of the Common Grid Model Exchange System, TSO-DSO interoperability will also benefit future TSO-TSO interoperability. In this context the project will also consider DSO to other Market-participants (DSOs, Aggregators, Distributed Energy Resource Operators, Micro-grid Operators) and information or data access portals that enable business processes involving relevant actors in the electrical power sector.\nBeyond state-of-the-art progress that will be achieved:\nFully defined interface specifications for TSO-DSO information exchange interfaces based on Use Case analysis and IEC 61970/61968/62325 standards to support highly automated information exchange and network analysis.\n\nFully defined interface specifications for information exchange between DSOs and market participants based on Use Case analysis and IEC 61850 and IEC 62325 standards to support highly automated information exchanges.\n\nRole-based access control that securely accommodates new data requirements and unbundling processes.\n\nA specified suite of ICT protocols and integration with the defined interfaces.\n\nProof of Concept using field tests and demonstration with industry specification at both TSO and DSO levels.",
+    "totalCost": "4175452,5",
+    "ecMaxContribution": "4175452,5",
+    "coordinator": "BRUNEL UNIVERSITY LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "EDP DISTRIBUICAO ENERGIA SA;ELEKTRO GORENJSKA PODJETJE ZA DISTRIBUCIJO ELEKTRICNE ENERGIJE DD;CENTRO DE INVESTIGACAO EM ENERGIA REN - STATE GRID SA;ELECTRICITE DE FRANCE;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA;EUROPEAN NETWORK OF TRANSMISSION SYSTEM OPERATORS FOR ELECTRICITY AISBL;REN - REDE ELECTRICA NACIONAL SA;OFFIS EV;ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA;Elektroinstitut Milan Vidmar",
+    "participantCountries": "PT;SI;FR;DE;BE",
+    "projectParticipants": {
+        "940068323": {
+            "orgId": "940068323",
+            "orgName": "CENTRO DE INVESTIGACAO EM ENERGIA REN - STATE GRID SA",
+            "ecContrib": 576250
+        },
+        "998079755": {
+            "orgId": "998079755",
+            "orgName": "ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA",
+            "ecContrib": 147375
+        },
+        "998939854": {
+            "orgId": "998939854",
+            "orgName": "EDP DISTRIBUICAO ENERGIA SA",
+            "ecContrib": 313750
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 303625
+        },
+        "999926829": {
+            "orgId": "999926829",
+            "orgName": "ELECTRICITE DE FRANCE",
+            "ecContrib": 433750
+        },
+        "999486352": {
+            "orgId": "999486352",
+            "orgName": "REN - REDE ELECTRICA NACIONAL SA",
+            "ecContrib": 96250
+        },
+        "938196902": {
+            "orgId": "938196902",
+            "orgName": "Elektroinstitut Milan Vidmar",
+            "ecContrib": 274375
+        },
+        "973068305": {
+            "orgId": "973068305",
+            "orgName": "EUROPEAN NETWORK OF TRANSMISSION SYSTEM OPERATORS FOR ELECTRICITY AISBL",
+            "ecContrib": 356875
+        },
+        "999594313": {
+            "orgId": "999594313",
+            "orgName": "OFFIS EV",
+            "ecContrib": 330849
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 441665
+        },
+        "996273809": {
+            "orgId": "996273809",
+            "orgName": "ELEKTRO GORENJSKA PODJETJE ZA DISTRIBUCIJO ELEKTRICNE ENERGIJE DD",
+            "ecContrib": 218750
+        },
+        "999749610": {
+            "orgId": "999749610",
+            "orgName": "BRUNEL UNIVERSITY LONDON",
+            "ecContrib": 681939
+        }
+    },
+    "calculatedTotalContribution": 4175453
+}

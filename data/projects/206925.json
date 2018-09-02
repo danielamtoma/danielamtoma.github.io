@@ -1,0 +1,28 @@
+{
+    "rcn": "206925",
+    "acronym": "High level CDFT",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Conquering New Frontiers in Conceptual Density Functional Theory: Going Beyond the Single Slater Determinant.",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "Although it is much newer than orbital-based approaches, conceptual density functional theory (CDFT) has established itself as an important tool for understanding the properties and chemical reactivity of molecules and materials. Until now, CDFT has been mainly applied using single Slater determinant (single-reference) quantum chemistry methods, chiefly Kohn-Sham density functional theory. In contrast to orbital-based interpretive tools, however, this is not an intrinsic limitation of CDFT: the response functions that are used to clarify chemical phenomena in CDFT are equally applicable to accurate multireference methods like traditional complete active space self-consistent field (CASSCF) approaches and new, more efficient, approaches based on the density matrix renormalization group (DMRG) or geminal-product wavefunctions. This research proposal combines recent progress in these two fields: new methods will be developed for computing CDFTís response functions using accurate multireference wavefunction methods. \n\nThis development will allow the well-known and widely-used reactivity descriptors like the Fukui function and the linear response to be applied to systemsólike (bi)-radicals, transition metal-, lanthanide-, and actinide-complexesówhere traditional orbital-based methods and previous computational approaches to CDFT based on a single Slater determinant are inapplicable. This will provide chemical insights into the reactivity of new classes of molecules. In addition, by using the linear response function to evaluate alchemical changes in molecular decomposition, the inverse design problem (designing molecules with specified properties) will be addressed. This establishes a new research niche at the nexus between modern interpretative tools, the latest developments in quantum chemistry, and emerging areas of chemical application.",
+    "totalCost": "226022,4",
+    "ecMaxContribution": "226022,4",
+    "coordinator": "VRIJE UNIVERSITEIT BRUSSEL",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998225740": {
+            "orgId": "998225740",
+            "orgName": "MCMASTER UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999902094": {
+            "orgId": "999902094",
+            "orgName": "VRIJE UNIVERSITEIT BRUSSEL",
+            "ecContrib": 226022
+        }
+    },
+    "calculatedTotalContribution": 226022
+}

@@ -1,0 +1,17 @@
+{
+    "rcn": "215784",
+    "acronym": "GRAINS",
+    "topics": "MSCA-IF-2017",
+    "title": "Gravitation of Rubble-pile Asteroid with Internal N-body Structure",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2020",
+    "objective": "The study of asteroids addresses a number of questions relevant for space engineers, planetary scientists and physicists. Near Earth Asteroids are a great opportunity for technological, human exploration missions and for asteroids resources exploitation. Sadly, they can also represent a threat for the planet. The scientific and technological exploitation and the implementation of mitigation actions for hazardous asteroids rely upon our knowledge of their properties. Remote surveys play a fundamental role to estimate asteroid properties, but they can only provide limited information: there is no mean to reconstruct their internal structure. GRAINS addresses such problem through N-body numerical simulations of gravitational aggregation. This method is suitable to estimate the internal properties of rubble-pile asteroids: gravitational aggregates with very low tensile strength and high level of porosity. The study of aggregation phenomena currently relies on codes optimized for a large number of mutually interacting particles, regardless of their individual shape and rigid body motion. Although not relevant for many applications, this limitation could be relevant for the case of asteroids, as suggested by results of granular dynamics in terrestrial engineering applications. The latter are commonly studied using multi-body codes, able to simulate contact interactions between a large number of complex-shaped bodies, but not suitable for gravitational dynamics. The goal of the project is to joint the advantages of both classes of codes into a single implementation, able to reproduce N-body gravitational dynamics between a large number of complex-shaped rigid bodies. GRAINS plans to use the implemented code to study relevant aggregation scenarios and to assess the accuracy of obtained asteroid models. The outcome of the GRAINS project will be a new and powerful tool to study asteroids and their internal properties based on information available from remote observations.",
+    "totalCost": "176203,8",
+    "ecMaxContribution": "176203,8",
+    "coordinator": "POLITECNICO DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

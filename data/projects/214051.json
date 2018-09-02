@@ -1,0 +1,23 @@
+{
+    "rcn": "214051",
+    "acronym": "MicroMOUPE",
+    "topics": "ERC-2017-STG",
+    "title": "Microscopy - Making optimal use of photons and electrons",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2023",
+    "objective": "The sensitivity of modern microscopy is limited by shot-noise. It limits the accuracy of measurements of specimen properties as well as the spatial resolution of electron microscopes when imaging sensitive specimens, such as proteins or DNA. But the shot-noise limit is not a fundamental limit. A technologically feasible and optimal approach to overcoming the shot-noise limit is to have each probe particle interact with the specimen multiple times. We recently introduced this concept to microscopy using self-imaging cavities.\nWithin this project, I want to demonstrate post-selection free sub-shot noise microscopy with both photons and electrons. Optically this will be possible by introducing a fast electro-optical switch into a multi-pass microscope, evading the need for temporal post-selection. After this proof-of principle experiment, the sensitivity enhancement offered by multi-pass microscopy shall be applied to the detection of nanometric particles, such as single molecules, proteins and metal nanoparticles. Linear signal enhancement with the number of interactions is expected for bright-field microscopy. For dark-field microscopy a quadratic enhancement is expected, due to coherent build-up of scattered fields. Finally, adaptive optics will be used to optimize multi-pass microscopy for the study of cells.\nMulti-pass electron microscopy will be realized in collaboration with Stanford University. It will require several novel electron optical elements that will be designed and tested both at Stanford University and at the University of Vienna. One of these elements will be a pattern generator for electrons based on ponderomotive potentials. The required potential landscapes will be created using adaptive optics to shape intense laser pulses. With this novel electron optics tool fast beam-blanking, a phase plate for Zernike phase microscopy, arbitrary pattern creation and aberration correction will be demonstrated.",
+    "totalCost": "1672752",
+    "ecMaxContribution": "1672752",
+    "coordinator": "UNIVERSITAT WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999866883": {
+            "orgId": "999866883",
+            "orgName": "UNIVERSITAT WIEN",
+            "ecContrib": 1672752
+        }
+    },
+    "calculatedTotalContribution": 1672752
+}

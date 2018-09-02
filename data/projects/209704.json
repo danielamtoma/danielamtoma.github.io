@@ -1,0 +1,23 @@
+{
+    "rcn": "209704",
+    "acronym": "VirBAcous",
+    "topics": "ERC-2016-STG",
+    "title": "Virtual building acoustics: a robust and efficient analysis and optimization framework for noise transmission reduction",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2022",
+    "objective": "Achieving a sufficient sound insulation of buildings is a complex problem since multiple transmission paths are important, uncertainties can have a large effect, and acoustic performance requirements often conflict with structural and thermal requirements. Furthermore, accurate vibro-acoustic modelling across the entire building acoustics frequency range presently requires a huge computational effort. As a result, the acoustic development of building systems is usually based on general design rules, insufficiently accurate prediction models and many experimental prototype tests. Such development is costly and time consuming, and leads to suboptimal designs. This project therefore aims to develop an efficient yet sufficiently accurate prediction framework for the acoustic design of building systems which takes all uncertainties into account and which opens the way for design optimization. Four fundamental breakthroughs are required. First, a new approach to high-frequency subsystem modelling will overcome the limitations of the current statistical energy analysis paradigm and handle a high degree of geometric and material complexity. Second, a modelling framework for built-up systems will be developed, which incorporates different component model types and which switches between them as the frequency increases. The third development consists of quantifying the combined effect of all uncertain parameters on the overall sound insulation performance in a logically consistent and computationally efficient way. Finally, a robust optimization approach that spans the entire building acoustics frequency range and that accounts for all relevant non-acoustic performance criteria as well will be developed. Each development will be complemented by showcase applications in building acoustics, yet the fundamental nature of the developments make that they will have a profound impact in all disciplines where the study and/or control of mechanical wave propagation are important.",
+    "totalCost": "1386875",
+    "ecMaxContribution": "1386875",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 1386875
+        }
+    },
+    "calculatedTotalContribution": 1386875
+}

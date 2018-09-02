@@ -1,0 +1,23 @@
+{
+    "rcn": "212114",
+    "acronym": "ExoAI",
+    "topics": "ERC-2017-STG",
+    "title": "Deciphering super-Earths using Artificial Intelligence",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "The discovery of extrasolar planets - i.e. planets orbiting other stars - has fundamentally transformed our understanding of planets, solar systems and our place in the Milky Way. Recent discoveries have shown that planets between 1-2 R are the most abundant in our galaxy, so called super-Earths. Yet, they are entirely absent from our own solar system. Their nature, chemistry, formation histories or climate remain very much a mystery. Estimates of their densities suggest a variety of possible planet types and formation/evolution scenarios but current degeneracies cannot be broken with mass/radius measures alone. Spectroscopy of their atmospheres can provide vital insight. Recently, the first atmosphere around a super-Earth, 55 Cnc e, was discovered, showcasing that these worlds are far more complex than simple densities allow us to constrain. \nTo achieve a more fundamental understanding, we need to move away from the status quo of treating individual planets as case-studies and analysing data ëby handí. A globally encompassing, self-consistent and self-calibrating approach is required. Here, I propose to move the field a significant step towards this goal with the ExoAI (Exoplanet Artificial Intelligence) framework. ExoAI will use state-of-the-art neural networks and Bayesian atmospheric retrieval algorithms applied to big-data. Given all available data of an instrument, ExoAI will autonomously learn the best calibration strategy, intelligently recognise spectral features and provide a full quantitative atmospheric model for every planet observed. This uniformly derived catalogue of super-Earth atmospheric models, will move us on from the individual case-studies and allow us to study the larger picture. We will constrain the underlying processes of planet formation/migration and bulk chemistries of super-Earths. The algorithm and the catalogue of atmospheric and instrument models will be made freely available to the community.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

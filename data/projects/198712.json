@@ -1,0 +1,23 @@
+{
+    "rcn": "198712",
+    "acronym": "SIMBIONT",
+    "topics": "ERC-ADG-2014",
+    "title": "A data-driven multiscale simulation of organogenesis",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Organogensis is the process by which multiple different cell types grow, differentiate and interact with each other (both molecularly and physically) to create large complex structures with integrated functions, such as the heart, brain or limb. Understanding this process has enormous potential impact, both scientifically and medically. The SIMBIONT project represents both a grand technical challenge, and a fundamental scientific question. The grand technical challenge is to build the first ever multi-scale computer model of mammalian organogenesis, specifically limb development. This purpose of the model is to help us address the deep scientific question: How are the complex interactions at multiple scales (genes, molecules, cells and tissues) coordinated so as to build a carefully constructed 3D organ? So far, computer modelling has helped to understand some of the pieces of this puzzle, eg. morphogen gradients, or control of tissue growth. However, putting multiple pieces together into a single multi-scale simulation remains a challenge. We will use the latest state-of-the-art quantitative data-generation techniques (including Tomo-Seq and OPTiSPIM), to gather 3D data at multiple levels: gene expression patterns, cell signaling, cellular growth rates, intercalation patterns, and global tissue movements. In parallel we will develop a new multi-scale modeling framework which can integrate this quantitative data, to simulate both the molecular patterning and the mechanical growth of the developing limb bud. Doing so will allow us to ask new systems-level questions about (i) the molecular control of organ shape, (ii) coordination of patterning and growth, and (iii) the multi-scale robustness of the system. We will test the key predictions of the model experimentally (both with mouse mutants, and in vitro perturbations). SIMBIONT will serve as an example for modeling other complex multicellular processes in the future, eg. tissue engineering and regenerative medicine.",
+    "totalCost": "2075055",
+    "ecMaxContribution": "2075055",
+    "coordinator": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999544455": {
+            "orgId": "999544455",
+            "orgName": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+            "ecContrib": 2075055
+        }
+    },
+    "calculatedTotalContribution": 2075055
+}

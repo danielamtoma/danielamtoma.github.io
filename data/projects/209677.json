@@ -1,0 +1,23 @@
+{
+    "rcn": "209677",
+    "acronym": "PaVeCo",
+    "topics": "MSCA-IF-2016",
+    "title": "Parametrised Verification and Control",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2019",
+    "objective": "A variety of interesting systems -- servers that fail with a certain probability; biological models, where proteins are produced with a given rate; automotive and aeronautical systems -- displays stochastic behaviour. As a fully automated method to analyse such systems, stochastic model checking is an important research area.\n\nEarly techniques have suffered from several shortfalls. One of these shortfalls is that the exact failure rates of components are often unavailable. In this case, parametric models can be used, where probabilities are represented by parameters rather than values.\n\nAnother shortfall is that stochastic systems are often also partially controllable. Moreover, in addition to stochastic choices, the environment of a system can be unknown or abstracted and can thus display an antagonistic behaviour. The analysis of such systems needs to account for the positive nondeterminism from the partial control over the system, the antagonistic nondeterminism that models the unknown, and the probabilistic choices. The target in this scenario is to synthesise a controller that steers the system in the best way regardless of any environment.\n\nA third shortfall is that functional properties (safety, PCTL, LTL, or w-regular goals) and non-functional goals (response time, energy usage) are analysed in isolation. When designing a system or inferring a control strategy, however, functional and non-functional properties are entangled and need to be considered in combination.\n\nWhile parametric analysis and the analysis of stochastic systems in isolation scale to medium size systems, the analysis of systems with mixed goals is a young and rapidly developing field. We will contribute to all three aspects, but our focus will be on studying combinations between these aspects. We will develop practically efficient techniques (as opposed to techniques with good complexity), implement them, and make them available in a tool to allow for their proliferation.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "THE UNIVERSITY OF LIVERPOOL",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980567": {
+            "orgId": "999980567",
+            "orgName": "THE UNIVERSITY OF LIVERPOOL",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

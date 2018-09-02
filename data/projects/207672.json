@@ -1,0 +1,23 @@
+{
+    "rcn": "207672",
+    "acronym": "INTERDIFFUSION",
+    "topics": "ERC-2016-STG",
+    "title": "Unraveling Interdiffusion Effects at Material Interfaces -- Learning from Tensors of Microstructure Evolution Simulations",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "Multi-materials, combining various materials with different functionalities, are increasingly desired in engineering applications. Reliable material assembly is a great challenge in the development of innovative technologies. The interdiffusion microstructures formed at material interfaces are critical for the performance of the product. However, as more and more elements are involved, their complexity increases and their variety becomes immense. Furthermore, interdiffusion microstructures evolve during processing and in use of the device. Experimental testing of the long-term evolution in assembled devices is extremely time-consuming. The current level of materials models and simulation techniques does not allow in silico (or computer aided) design of multi-component material assemblies, since the parameter space is much too large. \nWith this project, I aim a break-through in computational materials science, using tensor decomposition techniques emerging in data-analysis to guide efficiently high-throughput interdiffusion microstructure simulation studies. The measurable outcomes aimed at, are \n1) a high-performance computing software that allows to compute the effect of a huge number of material and process parameters, sufficiently large for reliable in-silico design of multi-materials, on the interdiffusion microstructure evolution, based on a tractable number of simulations, and \n2) decomposed tensor descriptions for important multi-material systems enabling reliable computation of interdiffusion microstructure characteristics using a single computer.  \nIf successful, the outcomes of this project will allow to significantly accelerate the design of innovative multi-materials. My expertise in microstructure simulations and multi-component materials, and access to collaborations with the top experts in tensor decomposition techniques and materials characterization are crucial to reach this ambitious aim.",
+    "totalCost": "1496875",
+    "ecMaxContribution": "1496875",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 1496875
+        }
+    },
+    "calculatedTotalContribution": 1496875
+}

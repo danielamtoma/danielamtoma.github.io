@@ -1,0 +1,53 @@
+{
+    "rcn": "194318",
+    "acronym": "CASPER",
+    "topics": "MSCA-RISE-2014",
+    "title": "User-centric Middleware Architecture for Advanced Service Provisioning in Future Networks",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "The current paradigm in service provisioning to future communication networks lacks thorough end-to-end interpretation from the quality viewpoint, while the end-usersí/customersí profiles and preferences are mostly not taken into account. The subjective perception of a provided service, known as Quality of Experience (QoE), is one of the most important factors for a userís decision on retaining the service or giving it up, and the key parameter for enabling advanced customer experience management (CEM). The main objective of CASPER is to combine academic and industrial forces towards leveraging the expected benefits of QoE exploitation in future networks.  In particular, CASPER will exploit the most recent approaches in communication networks, such as the Software Defined Networking (SDN) and the Network Functions Virtualisation (NFV), to design and implement a middleware architecture for QoE-driven service provisioning. The architecture will consist of three interlinked modules, one-to-one mapped to the three instrumental functionalities required for the beneficial exploitation of QoE: i) reliable, secure and passive QoE monitoring, ii) efficient, dynamic and objective QoE estimation, and iii) robust and real-time QoE-driven service management. The three modules will be optimised and released as an integrated solution, in order to accelerate the adoption of QoE-driven network service management. The cornerstone of this effort will be a carefully-planned inter-sectorial secondment programme for Experienced Researchers (ERs) and Early Stage Researchers (ESRs). Under this programme, CASPER is expected to foster the exchange of knowledge and strengthen the collaboration among academia and industry through a bidirectional knowledge-sharing approach, where the academic beneficiaries will contribute by conveying their knowledge in QoE analysis and modelling, while industrial beneficiaries will provide their expertise in service development and software implementation.",
+    "totalCost": "1080000",
+    "ecMaxContribution": "1080000",
+    "coordinator": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+    "coordinatorCountry": "EL",
+    "participants": "ADAPT IT AE;UNIVERSITA DEGLI STUDI DELL'AQUILA;UNIVERSITAT POLITECNICA DE CATALUNYA;WEST AQUILA SRL;IQUADRAT INFORMATICA SL;ADAPTERA TECHNOLOGIKES LYSEIS VELTISTOPIISIS EFARMOGON YPODOMON PLIROFORIKES KAI TILEPIKINONION MONOPROSPI IKE",
+    "participantCountries": "EL;IT;ES",
+    "projectParticipants": {
+        "951393267": {
+            "orgId": "951393267",
+            "orgName": "ADAPT IT AE",
+            "ecContrib": 0
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 270000
+        },
+        "996237822": {
+            "orgId": "996237822",
+            "orgName": "IQUADRAT INFORMATICA SL",
+            "ecContrib": 243000
+        },
+        "999859511": {
+            "orgId": "999859511",
+            "orgName": "UNIVERSITA DEGLI STUDI DELL'AQUILA",
+            "ecContrib": 27000
+        },
+        "920734283": {
+            "orgId": "920734283",
+            "orgName": "ADAPTERA TECHNOLOGIKES LYSEIS VELTISTOPIISIS EFARMOGON YPODOMON PLIROFORIKES KAI TILEPIKINONION MONOPROSPI IKE",
+            "ecContrib": 270000
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 0
+        },
+        "993174077": {
+            "orgId": "993174077",
+            "orgName": "WEST AQUILA SRL",
+            "ecContrib": 270000
+        }
+    },
+    "calculatedTotalContribution": 1080000
+}

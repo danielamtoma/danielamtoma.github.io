@@ -1,0 +1,143 @@
+{
+    "rcn": "206338",
+    "acronym": "AARC2",
+    "topics": "EINFRA-22-2016",
+    "title": "Authentication and Authorisation For Research and Collaboration",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "The goal of AARC2 is to design an AAI framework to develop interoperable AAI, to enable researchers to access the whole research and infrastructure service portfolio with one login. AARC2's objectives are:\n1. enable federated access in research communities participating in AARC2\n2. assist research communities to map their requirements to concrete service offerings\n3. support research (e-)infrastructures to implement the integrated architecture and policies frameworks developed by AARC project\n4. offer different trainings to adopt AARC/AARC2 results \n5. enhance the integrated architecture\n\nAARC2 objectives will be achieved by:\n- Piloting selected research community use-cases (SA1)\n- Showcasing ready-to-use AAI solutions and pilot results to infrastructures (SA1-NA2)\n- Developing a virtual Competence Centre where infrastructure representatives and AARC2 team discuss AARC2 results deployment and approaches to use-cases (all WPs)\n- Promoting federated access and adoption of AARC2 results via training and outreach (NA2)\n- Expand support for new technologies and policies (JRA1 and NA3).\n- Follow a user-driven approach: development driven by use-cases and continuous community feedback on AARC2 work.\nRelevance to the work programme:\n- AARC2 will work with existing e-infrastructures and ESFRI projects to deploy and enhance (JRA1) the integrated AAI (built on eduIGAIN and federated access) delivered by AARC (obj1ñDevelopment of a pan-European identity federation)\n- Use-cases that meet integration (accessing services offered by multiple e-infrastructures) and data-rich aspects included in AARC2 (SA1). AARC2 will work to enable federated access and to map the use-cases to existing AAI services and policy frameworks (obj2ñStimulate AAI services supporting communities in the data-rich era)\n- AARC2 will liaise with security groups, NRENs and infrastructures to address best practices in cybersecurity and assurance (see NA3). (obj3ñDeliver an integrated infrastructure)",
+    "totalCost": "2999892,89",
+    "ecMaxContribution": "2999892,89",
+    "coordinator": "GEANT VERENIGING",
+    "coordinatorCountry": "NL",
+    "participants": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB;EISCAT SCIENTIFIC ASSOCIATION;RETI SPA;AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE;FORSCHUNGSZENTRUM JULICH GMBH;DAASI INTERNATIONAL GMBH;STICHTING EGI;BIOBANKS AND BIOMOLECULAR RESOURCESRESEARCH INFRASTRUCTURE CONSORTIUM(BBMRI-ERIC);EUROPEAN MOLECULAR BIOLOGY LABORATORY;ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE;MORAVSKA ZEMSKA KNIHOVNA V BRNE;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;CONSORTIUM GARR;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;ISTITUTO NAZIONALE DI ASTROFISICA;UNITED KINGDOM RESEARCH AND INNOVATION;KARLSRUHER INSTITUT FUER TECHNOLOGIE;EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH;UNIVERSIDAD DE CANTABRIA;STICHTING LIBER;SURFnet bv;INFRAFRONTIER GMBH;STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN;INSTRUCT ACADEMIC SERVICES LIMITED;CARDIFF UNIVERSITY",
+    "participantCountries": "CZ;SE;IT;PL;DE;NL;AT;EL;UK;CH;ES",
+    "projectParticipants": {
+        "999579084": {
+            "orgId": "999579084",
+            "orgName": "CONSORTIUM GARR",
+            "ecContrib": 182131
+        },
+        "999639612": {
+            "orgId": "999639612",
+            "orgName": "MORAVSKA ZEMSKA KNIHOVNA V BRNE",
+            "ecContrib": 15700
+        },
+        "999880075": {
+            "orgId": "999880075",
+            "orgName": "UNIVERSIDAD DE CANTABRIA",
+            "ecContrib": 51658
+        },
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 68200
+        },
+        "937025336": {
+            "orgId": "937025336",
+            "orgName": "DAASI INTERNATIONAL GMBH",
+            "ecContrib": 145400
+        },
+        "999844573": {
+            "orgId": "999844573",
+            "orgName": "AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE",
+            "ecContrib": 57200
+        },
+        "985428142": {
+            "orgId": "985428142",
+            "orgName": "STICHTING LIBER",
+            "ecContrib": 27200
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 104950
+        },
+        "990097722": {
+            "orgId": "990097722",
+            "orgName": "EISCAT SCIENTIFIC ASSOCIATION",
+            "ecContrib": 40762
+        },
+        "949754646": {
+            "orgId": "949754646",
+            "orgName": "INFRAFRONTIER GMBH",
+            "ecContrib": 11356
+        },
+        "920216206": {
+            "orgId": "920216206",
+            "orgName": "RETI SPA",
+            "ecContrib": 91850
+        },
+        "952324661": {
+            "orgId": "952324661",
+            "orgName": "INSTRUCT ACADEMIC SERVICES LIMITED",
+            "ecContrib": 8710
+        },
+        "999589463": {
+            "orgId": "999589463",
+            "orgName": "CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB",
+            "ecContrib": 68962
+        },
+        "946597878": {
+            "orgId": "946597878",
+            "orgName": "BIOBANKS AND BIOMOLECULAR RESOURCES RESEARCH INFRASTRUCTURE CONSORTIUM (BBMRI-ERIC)",
+            "ecContrib": 0
+        },
+        "989221715": {
+            "orgId": "989221715",
+            "orgName": "STICHTING EGI",
+            "ecContrib": 247175
+        },
+        "998617426": {
+            "orgId": "998617426",
+            "orgName": "SURFnet bv",
+            "ecContrib": 139625
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 0
+        },
+        "999868920": {
+            "orgId": "999868920",
+            "orgName": "ISTITUTO NAZIONALE DI ASTROFISICA",
+            "ecContrib": 32238
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 175600
+        },
+        "999624092": {
+            "orgId": "999624092",
+            "orgName": "STICHTING NEDERLANDSE WETENSCHAPPELIJK ONDERZOEK INSTITUTEN",
+            "ecContrib": 236250
+        },
+        "999979694": {
+            "orgId": "999979694",
+            "orgName": "CARDIFF UNIVERSITY",
+            "ecContrib": 25700
+        },
+        "999937887": {
+            "orgId": "999937887",
+            "orgName": "ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE",
+            "ecContrib": 247200
+        },
+        "999579278": {
+            "orgId": "999579278",
+            "orgName": "GEANT VERENIGING",
+            "ecContrib": 469550
+        },
+        "999988133": {
+            "orgId": "999988133",
+            "orgName": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+            "ecContrib": 257050
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 63094
+        }
+    },
+    "calculatedTotalContribution": 2767561
+}

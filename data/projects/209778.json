@@ -1,0 +1,23 @@
+{
+    "rcn": "209778",
+    "acronym": "ProbSenS",
+    "topics": "MSCA-IF-2016",
+    "title": "Probabilistic neuromorphic architecture for real-time Sensor fusion applied to Smart, water quality monitoring systems",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "ìProbSenSî will develop a novel low-power event-driven probabilistic Very Large-Scale Integration (VLSI) architecture for real-time, adaptive and robust multisensor integration. Multisensor integration exploits the extended coverage of multiple detectors to increase perceptual confidence in Smart Systems, but embedded implementations are yet in their infancy due to the lack of hardware able to infer from the multivariate, nonlinear, time-dependent and noisy signals supplied by modern sensors. By using principles of how biological systems promptly combine multisensory information and generate meaningful features in dynamic and uncontrolled real-world conditions, bioinspired Generative Deep Neural Network (GDNN) models are emerging as a powerful, CMOS-amenable computing paradigm to accelerate sensor fusion and enable quick, reliable self-learning and context-awareness under these constraints.\nThis project aims to develop such technology into a smaller, smarter, calibration-free multisensor solution, tolerant to sensor drifts and suited to process low-latency data from a varied set of solid-state transducers in critical real-world monitoring/diagnosis scenarios where information is acquired on-line and mostly unlabelled, e.g. security, health and environmental care. îProbSenSî will broaden state-of-the-art insight in the following multidisciplinary areas: (i) The modelling of GDNNs as probabilistic processors for adaptive event-based sensor fusion in Smart Systems; (ii) the investigation of novel ultra-low-power VLSI circuits to realise their computational units in low-cost CMOS technologies; (iii) the yet unexplored event-driven fusion of electrochemical and optical microsensors using a GDNN; and (iv) the benchmark of this technology in a true EU societal challenge: the real-time monitoring of water pollutants. The final outcome will be a functional working prototype of the GDNN validated in the field together with Agbar, the largest water management company in Spain.",
+    "totalCost": "175419,6",
+    "ecMaxContribution": "175419,6",
+    "coordinator": "UNIVERSITAT ZURICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 175420
+        }
+    },
+    "calculatedTotalContribution": 175420
+}

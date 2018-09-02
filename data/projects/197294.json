@@ -1,0 +1,23 @@
+{
+    "rcn": "197294",
+    "acronym": "ToothPic",
+    "topics": "ERC-PoC-2014",
+    "title": "ToothPic, a large-scale camera identification system based on compressed fingerprints",
+    "startDate": "01/09/2015",
+    "endDate": "28/02/2017",
+    "objective": "The continuously growing amount of photos posted and distributed over the Internet poses several important problems related to improper use of images, such as exploiting them for commercial purposes, re-posting othersí photos without consent or infringing copyright, posting photos containing unethical or illegal contents, and so forth. Camera identification, which refers to identifying which digital imaging sensor has shot a given picture, exploiting the fact that each sensor leaves a unique fingerprint in all pictures, is a key ingredient in the solution to the aforementioned problems. The ToothPic project aims at validating a breakthrough camera identification technology developed during ERC starting grant ìCRISPî.  This technology is based on a novel compressed fingerprint format and outperforms state-of-the art techniques by orders of magnitude in terms of storage requirements and identification speed. As a consequence, it enables the deployment of camera-identification services on an unprecedented scale, paving the way for application to popular image sharing and social media sites. The proof-of-concept will consist in a very high-speed implementation of the camera identification core functionality, which will be used to validate the capability of the proposed technology to handle scenarios involving 100\\ millions of sensor fingerprints, in real time and at a low cost. A set of demo applications, including a public search engine, taking as input a camera fingerprint or a photo and returning a list of photos acquired by the same camera, will also be implemented in order to raise a broad public interest and attract industries and venture capitalists. Upon successful validation, a European start-up company named ìToothPicî will be created to commercialise the proposed technology.",
+    "totalCost": "149526",
+    "ecMaxContribution": "149526",
+    "coordinator": "POLITECNICO DI TORINO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 149526
+        }
+    },
+    "calculatedTotalContribution": 149526
+}

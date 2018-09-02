@@ -1,0 +1,17 @@
+{
+    "rcn": "215256",
+    "acronym": "STRoNA",
+    "topics": "MSCA-IF-2017",
+    "title": "Spatio-Temporal Representation on Neuromorphic Architecture",
+    "startDate": "01/08/2018",
+    "endDate": "31/07/2020",
+    "objective": "The latest achievements in artificial intelligence and neural networks, especially deep neural architecture in large-scale neuromorphic hardware implementation such as SpiNNaker, and in cognitive robotics and neurorobotics, with the widespread use of robots such as iCub and the latest Pepper platform, provide the opportunity to significantly advance our understand human cognition and brains and to reach human-level artificial intelligence. One of the key success factors in deep learning is its hierarchical structure inspired by biological processes in the primate visual cortex, as with convolutional deep networks able to learn rich representations. They are grounded in optimization methods with high precision for training may consume large training datasets and computational resources to learn complex tasks. That gives human level performance in static image recognition but raises adaptation issues. SpiNNaker is a neuromorphic computer architecture in massively parallel computing platform based on spiking neural networks (SNNs) in which neurons communicate by temporal code. The aim of STRoNA (Spatio-Temporal Representation on Neuromorphic Architecture) is to define the technology that will map a computational architecture onto neuromorphic computing circuits, hence to develop a cognitive model with spatio-temporal representation and learning algorithm for humanoid robots.\nThe principal research objectives of the project are: (i) to investigate which spatio-temporal representations of spikes (or neural action potentials) can be used to achieve human level performance on visual perception; (ii) to develop a novel method to process spatio-temporal representation on a neuromorphic architecture to enable learning in online and interactive contexts; and (iii) to validate and adapt the developed system in real world robotics applications.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "THE UNIVERSITY OF MANCHESTER",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

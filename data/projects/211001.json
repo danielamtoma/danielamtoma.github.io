@@ -1,0 +1,23 @@
+{
+    "rcn": "211001",
+    "acronym": "AlgoRNN",
+    "topics": "ERC-2016-ADG",
+    "title": "Recurrent Neural Networks and Related Machines That Learn Algorithms",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Recurrent neural networks (RNNs) are general parallel-sequential computers. Some learn their programs or weights. Our supervised Long Short-Term Memory (LSTM) RNNs were the first to win pattern recognition contests, and recently enabled best known results in speech and handwriting recognition, machine translation, etc. They are now available to billions of users through the world's most valuable public companies including Google and Apple. Nevertheless, in lots of real-world tasks RNNs do not yet live up to their full potential. Although universal in theory, in practice they fail to learn important types of algorithms. This ERC project will go far beyond today's best RNNs through novel RNN-like systems that address some of the biggest open RNN problems and hottest RNN research topics: (1) How can RNNs learn to control (through internal spotlights of attention) separate large short-memory structures such as sub-networks with fast weights, to improve performance on many natural short-term memory-intensive tasks which are currently hard to learn by RNNs, such as answering detailed questions on recently observed videos? (2) How can such RNN-like systems metalearn entire learning algorithms that outperform the original learning algorithms? (3) How to achieve efficient transfer learning from one RNN-learned set of problem-solving programs to new RNN programs solving new tasks? In other words, how can one RNN-like system actively learn to exploit algorithmic information contained in the programs running on another? We will test our systems existing benchmarks, and create new, more challenging multi-task benchmarks. This will be supported by a rather cheap, GPU-based mini-brain for implementing large RNNs.",
+    "totalCost": "2500000",
+    "ecMaxContribution": "2500000",
+    "coordinator": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999585874": {
+            "orgId": "999585874",
+            "orgName": "UNIVERSITA DELLA SVIZZERA ITALIANA",
+            "ecContrib": 2500000
+        }
+    },
+    "calculatedTotalContribution": 2500000
+}

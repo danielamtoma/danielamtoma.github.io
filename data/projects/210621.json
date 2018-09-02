@@ -1,0 +1,38 @@
+{
+    "rcn": "210621",
+    "acronym": "ACCURATE",
+    "topics": "JTI-CS2-2016-CFP04-AIR-02-36",
+    "title": "Aerospace Composite Components - Ultrasonic Robot Assisted Testing (ACCURATE)",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2019",
+    "objective": "The overall goal of this project is to obtain the optimum technology for the non-destructive inspection of both present and future generation hybrid aircraft and thick composite structures, containing acoustic damping materials and materials which highly attenuate highly ultrasound, with high speed 100% volume coverage. The advanced prototype system will be validated via deployment to inspect a long barrel demonstrator component panel, which is to be developed in the Clean Sky 2 Programme using hybrid materials technology.\n\nThe technical approach is to use non-contact laser generated pulsed ultrasound (LUT) with delivery of both the laser ultrasound excitation and detection pulses through flexible optical fibres scanned with a 6 axis lightweight robot arm to provide an  area coverage (scan window) substantially exceeding of 1.5m x 1.5m from a single location of the robot base. LUT Signal processing algorithms will be used for (i) the reduction of coherent noise from fibres and (ii) Random signal to noise ratio enhancement using LUT synthetic aperture focusing.\n\nThe robot arm will move on a rail track that runs the length of one side of the barrel demonstrator panel which will be positioned and fixed within the system cell. The robot arm will raster the laser head system over the part surface, and move in increments along the track to inspect the whole component, at speeds of>8m2 per hour. It is envisioned that the part will be scanned in less than 4 scan windows.",
+    "totalCost": "2456806,88",
+    "ecMaxContribution": "2104243,5",
+    "coordinator": "TWI LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "INNOLAS LASER GMBH;Research Center for Non Destructive Testing GmbH;KUKA SYSTEMS UK LIMITED",
+    "participantCountries": "DE;AT;UK",
+    "projectParticipants": {
+        "956128419": {
+            "orgId": "956128419",
+            "orgName": "INNOLAS LASER GMBH",
+            "ecContrib": 463064
+        },
+        "917003663": {
+            "orgId": "917003663",
+            "orgName": "KUKA SYSTEMS UK LIMITED",
+            "ecContrib": 359583
+        },
+        "996560056": {
+            "orgId": "996560056",
+            "orgName": "Research Center for Non Destructive Testing GmbH",
+            "ecContrib": 585592
+        },
+        "999912764": {
+            "orgId": "999912764",
+            "orgName": "TWI LIMITED",
+            "ecContrib": 696004
+        }
+    },
+    "calculatedTotalContribution": 2104243
+}

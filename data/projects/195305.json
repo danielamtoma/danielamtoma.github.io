@@ -1,0 +1,23 @@
+{
+    "rcn": "195305",
+    "acronym": "IPSIBiM",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Improved Patient Safety through Intensive Biosignal Monitoring",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2017",
+    "objective": "Hospitals can experience difficulty in detecting and responding to early signs of patient deterioration, leading to late intensive care referrals, excess mortality and morbidity, and increased costs. Joint replacement is a very common orthopaedic operation that raises additional clinical and safety questions. Caring for the orthopaedic patient requires a multidisciplinary team and treatment that includes: acute pain control, monitoring for post-operative complications venous thromboembolic prophylaxis, early ambulation, and rehabilitation. The major limitation of early warning systems is that they are based on manual checks performed by nursing staff, and that the observations, and therefore detection, only occur intermittently. Additionally, the false-alarm rate of such monitors is generally so high that the alarms are usually ignored. Despite recent developments in automated wireless systems that continuously record vital signals, a method for detecting patterns of deterioration that are specific to unique patient populations has not yet been studied. IPSIBiM targets the development of a system dedicated to post-operative orthopaedic patients monitoring based on wireless recording of real-time vital signs and analytical algorithms capable of providing guidance to clinicians of early signs of deterioration. The innovation in the project consists of four main elements: measurement of new vital signs in a wireless system; novel methods for deriving features and building models to measure recovery; automated pain measurement in post-operative patients; principled methods for novelty detection. The proposed concept will be implemented in a clinical feasibility study, where technical aims related to setting up the system, reliability and failures will be studied along with outcome measures for clinical evaluation. The research programme is highly multi-disciplinary as it will require expertise in sensor design, machine learning algorithms and medical applications.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "ASTON UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999896953": {
+            "orgId": "999896953",
+            "orgName": "ASTON UNIVERSITY",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

@@ -1,0 +1,48 @@
+{
+    "rcn": "206330",
+    "acronym": "SENSAGRI",
+    "topics": "EO-3-2016",
+    "title": "Sentinels Synergy for Agriculture",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "In the emerging Copernicus Earth monitoring era, Europe provides Earth Observation (EO) data from Sentinel-1 (S1) and Sentinel-2 (S2) on a free and open data policy basis. In response of the EO Work programme ëEO-3-2016: Evaluation of Copernicus Servicesí, Sentinels Synergy for Agriculture (SENSAGRI) aims to exploit the unprecedented capacity of S1 and S2 to develop an innovative portfolio of prototypes agricultural monitoring services. When used alone either optical or radar sensors allow the mapping of crop types. However more robust, accurate, frequently updated and comprehensive crop maps are expected from the seldom exploited synergy of both types of measurements. The same holds when dealing with crop status, health and stresses. Experimental studies have demonstrated that fusion of optical and radar data opens up prospects for enhanced monitoring capabilities. SENSAGRI will exploit the synergy of optical and radar measurements to develop three prototype services capable of near real time operations: (1) surface soil moisture (SSM), (2) green and brown leaf area index (LAI) and (3) crop type mapping. These prototypes shall provide a baseline for advanced services that can boost the competitiveness of the European agro-industrial sector. SENSAGRI proposes four advanced proof-of-concept services: (i) yield/biomass, (ii) tillage change, (iii) irrigation and (iv) advanced crop maps. The algorithms will be developed and validated in four European agricultural test areas in Spain, France, Italy and Poland, which are representative of the European crop diversity, and their usefulness demonstrated in at least two non-European countries. In order to refine the specifications of the products and to iteratively assess the services, actors of the agricultural sector will be involved using a Living Lab approach. The combination of user-centered approach and of state-of-the-art algorithms will establish a sound foundation for deciding of a new Copernicus land service.",
+    "totalCost": "1854757,5",
+    "ecMaxContribution": "1854757,5",
+    "coordinator": "UNIVERSITAT DE VALENCIA",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUTO TECNOLOGICO AGRARIO DE CASTILLA Y LEON;CONSIGLIO NAZIONALE DELLE RICERCHE;INSTYTUT OCHRONY ROSLIN - PANSTWOWY INSTYTUT BADAWCZY;UNIVERSITE PAUL SABATIER TOULOUSE III;CONSIGLIO PER LA RICERCA IN AGRICOLTURA E L'ANALISI DELL'ECONOMIA AGRARIA",
+    "participantCountries": "ES;IT;PL;FR",
+    "projectParticipants": {
+        "999541254": {
+            "orgId": "999541254",
+            "orgName": "INSTITUTO TECNOLOGICO AGRARIO DE CASTILLA Y LEON",
+            "ecContrib": 199750
+        },
+        "999531360": {
+            "orgId": "999531360",
+            "orgName": "CONSIGLIO PER LA RICERCA IN AGRICOLTURA E L'ANALISI DELL'ECONOMIA AGRARIA",
+            "ecContrib": 231250
+        },
+        "983534314": {
+            "orgId": "983534314",
+            "orgName": "INSTYTUT OCHRONY ROSLIN - PANSTWOWY INSTYTUT BADAWCZY",
+            "ecContrib": 135750
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 353645
+        },
+        "999953019": {
+            "orgId": "999953019",
+            "orgName": "UNIVERSITAT DE VALENCIA",
+            "ecContrib": 489109
+        },
+        "999851169": {
+            "orgId": "999851169",
+            "orgName": "UNIVERSITE PAUL SABATIER TOULOUSE III",
+            "ecContrib": 445254
+        }
+    },
+    "calculatedTotalContribution": 1854758
+}

@@ -1,0 +1,83 @@
+{
+    "rcn": "194092",
+    "acronym": "HEARTEN",
+    "topics": "PHC-26-2014",
+    "title": "A co-operative mHEALTH environment targeting adherence and management of patients suffering from Heart Failure",
+    "startDate": "01/01/2015",
+    "endDate": "31/03/2018",
+    "objective": "HEARTEN will design, develop and validate an ICT co-operative environment that will enable the HF patients to achieve sustainable behavior change regarding their adherence and compliance, and the ecosystem actors to be engaged and improve the patientsí HF management. HEARTEN targets all actors related to the management of patients suffering from HF, including healthcare professionals, caregivers (formal/informal), healthcare providers nutritionists, fitness experts and health insurance experts, towards developing a multi-stakeholder patient centered mHealth ecosystem. The target population of HEARTEN are patients with chronic and acute HF, either post-ischemic or with dilated cardiomyopathy, requiring occasionally re-admittance into hospitals. The idea is to develop biosensors that detect and quantify novel breath and saliva HF biomarkers, being identified through analytical techniques. These biomarkers reflect the health status of the patient and identify whether the patient adheres to the administered drugs. The breath biosensor will be integrated into the smartphone while the saliva biosensor will be integrated into the patientís cup. Additional sensors for monitoring the ECG, the blood pressure and the physical activity constitute the sensor kit of the patient. The input data are complemented with nutrition information from the patientís smartphone, weight monitoring through wireless weight scales as well as the patientís profile and information directly added by the caregivers and the healthcare professionals. The multiparametric data are transmitted to the HEARTEN cloud architecture, where a knowledge management system analyses them and delivers critical information at hand. HF patients are empowered in self-management, by using their smartphones and tracking their medical vital signs, while the healthcare professionals and the caregivers can issue warnings, coordinate therapies, improve adherence and intervene before frailty incidences occur.",
+    "totalCost": "4589507,49",
+    "ecMaxContribution": "4589507",
+    "coordinator": "UNIVERSITE LYON 1 CLAUDE BERNARD",
+    "coordinatorCountry": "FR",
+    "participants": "LYON INGENIERIE PROJETS;APPART AE NEW TECHNOLOGIES COMPUTER AND TELECOMMUNICATIONS;EVERIS SPAIN SL;SOFTWARE E SISTEMI AVANZATI S.P.A.;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;SESA NV SRL;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;UNIVERSITA DI PISA;YOUR DATA SRL;UNIVERSITATSMEDIZIN ROSTOCK;SERVICIO ANDALUZ DE SALUD;CAREDOME PATIENT SUPPORT AND HEALTHCARE SOLUTIONS PORTUGAL LDA",
+    "participantCountries": "FR;EL;ES;IT;DE;PT",
+    "projectParticipants": {
+        "927973005": {
+            "orgId": "927973005",
+            "orgName": "SESA NV SRL",
+            "ecContrib": 455000
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 518750
+        },
+        "998853621": {
+            "orgId": "998853621",
+            "orgName": "SERVICIO ANDALUZ DE SALUD",
+            "ecContrib": 345625
+        },
+        "998484051": {
+            "orgId": "998484051",
+            "orgName": "LYON INGENIERIE PROJETS",
+            "ecContrib": 115500
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 406063
+        },
+        "954598244": {
+            "orgId": "954598244",
+            "orgName": "UNIVERSITATSMEDIZIN ROSTOCK",
+            "ecContrib": 293750
+        },
+        "999938081": {
+            "orgId": "999938081",
+            "orgName": "EVERIS SPAIN SL",
+            "ecContrib": 183553
+        },
+        "999902579": {
+            "orgId": "999902579",
+            "orgName": "UNIVERSITE LYON 1 CLAUDE BERNARD",
+            "ecContrib": 565000
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 548516
+        },
+        "940592414": {
+            "orgId": "940592414",
+            "orgName": "CAREDOME PATIENT SUPPORT AND HEALTHCARE SOLUTIONS PORTUGAL LDA",
+            "ecContrib": 440000
+        },
+        "941301581": {
+            "orgId": "941301581",
+            "orgName": "YOUR DATA SRL",
+            "ecContrib": 297500
+        },
+        "941421182": {
+            "orgId": "941421182",
+            "orgName": "SOFTWARE E SISTEMI AVANZATI S.P.A.",
+            "ecContrib": 0
+        },
+        "941424286": {
+            "orgId": "941424286",
+            "orgName": "APPART AE NEW TECHNOLOGIES COMPUTER AND TELECOMMUNICATIONS",
+            "ecContrib": 420250
+        }
+    },
+    "calculatedTotalContribution": 4589507
+}

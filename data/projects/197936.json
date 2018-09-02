@@ -1,0 +1,83 @@
+{
+    "rcn": "197936",
+    "acronym": "ExaNoDe",
+    "topics": "FETHPC-1-2014",
+    "title": "European Exascale Processor  Memory Node Design",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "ExaNoDe will investigate, develop integrate and validate the building blocks (technology readiness level 5) for a highly efficient, highly integrated, multi-way, high-performance, heterogeneous compute element aimed towards exascale computing. It will build on multiple European initiatives for scalable computing, utilizing low- power processors and advanced nanotechnologies. ExaNoDe will draw heavily on the Unimem memory and system design paradigm defined within the EUROSERVER FP7 project, providing low-latency, high-bandwidth and resilient memory access, scalable to Exabyte levels.\n\nThe ExaNoDe compute element aims towards exascale compute goals through:\nï\tIntegration of the most advanced low-power processors and accelerators (across scalar, SIMD, GPGPU and FPGA processing elements) supported by research and innovation in the deployment of associated nanotechnologies and in the mechanical requirements to enable the development of a high-density, high-performance integrated compute element with advanced thermal characteristics and connectivity to the next generation of system interconnect and storage;\nï\tUndertaking essential research to ensure the ExaNoDe compute element provides necessary support of HPC applications including I/O and storage virtualization techniques, operating system and semantically aware runtime capabilities and PGAS, OpenMP and MPI paradigms;\nï\tThe development of a hardware emulation of interconnect to enable the evaluation of Unimem for the deployment of multiple compute elements and to leverage the potential of the ExaNoDe approach for HPC applications.\n\nEach aspect of ExaNoDe is aligned with the goals of the ETP4HPC. The work will be steered by first-hand experience and analysis of high-performance applications and their requirements; investigations being carried out with ìmini-applicationî abstractions and the tuning of their kernels.",
+    "totalCost": "8629247,5",
+    "ecMaxContribution": "8629247,5",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "KALRAY SA;SCAPOS AG;THE UNIVERSITY OF MANCHESTER;FORSCHUNGSZENTRUM JULICH GMBH;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;VIRTUAL OPEN SYSTEMS;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;ARM LIMITED;BULL SAS;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "FR;DE;UK;EL;CH;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 568000
+        },
+        "968966466": {
+            "orgId": "968966466",
+            "orgName": "VIRTUAL OPEN SYSTEMS",
+            "ecContrib": 484375
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 1091500
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 482104
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 3041945
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 369165
+        },
+        "999813824": {
+            "orgId": "999813824",
+            "orgName": "ARM LIMITED",
+            "ecContrib": 203268
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 372500
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 229000
+        },
+        "952497903": {
+            "orgId": "952497903",
+            "orgName": "SCAPOS AG",
+            "ecContrib": 524400
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 780069
+        },
+        "996335695": {
+            "orgId": "996335695",
+            "orgName": "KALRAY SA",
+            "ecContrib": 125000
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 357922
+        }
+    },
+    "calculatedTotalContribution": 8629248
+}

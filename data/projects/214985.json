@@ -1,0 +1,17 @@
+{
+    "rcn": "214985",
+    "acronym": "AI-CU",
+    "topics": "ERC-2017-PoC",
+    "title": "Automated Improvement of Continuous User interfaces",
+    "startDate": "01/06/2018",
+    "endDate": "30/11/2019",
+    "objective": "We propose to develop two tools for creating, in a systematic way, better user interfaces based on continuous, non-symbolic actions, such as swipes on a touch screen, 3-D motions with a hand-held device, or breath patterns in a user interface for otherwise paralyzed patients. The tools are based on two experimental/computational techniques developed in the ABACUS project: iterated learning and social coordination.\nIn iterated learning, sets of signals produced by one user are learned and reproduced by another user. The reproductions are then in turn learned by the next user. In the ABACUS project, it has been shown that this results in more learnable sets of signals. We propose to show how this can be applied to creating learnable and usable signals in a systematic way when design a user interface for a device that allows continuous actions.\nIn social coordination, it has been shown that signals become simplified and more abstract when people communicate over an extended period of time. The ABACUS project has developed techniques to detect and quantify this. We propose to show how these can be used for a user interface that adapts to its user. This will allow novice users to use more extended and therefore more learnable versions of actions, while the system adapts when users become more adept at using the interface and reduce their actions. Because the system is adaptive, the user is not constrained in how they do this.\n\nConcretely, we propose to implement these two tools, investigate how they can be used optimally and advertise them to interested companies, starting with ones with which we have contact, but extending our network at the start of the project through a business case development. In order to disseminate the results we propose to involve a user committee and organize one or more workshops.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "VRIJE UNIVERSITEIT BRUSSEL",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

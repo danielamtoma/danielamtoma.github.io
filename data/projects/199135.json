@@ -1,0 +1,68 @@
+{
+    "rcn": "199135",
+    "acronym": "HIPERDIAS",
+    "topics": "ICT-27-2015",
+    "title": "HIgh throughPut LasER processing of DIamond and Silicon",
+    "startDate": "01/02/2016",
+    "endDate": "31/07/2019",
+    "objective": "Driven by the end-users requirements and needs, the main objective of the HIPERDIAS project is to demonstrate high throughput laser-based manufacturing using high-power, high-repetition rate sub-1ps laser. Although the laser system to be developed within HIPERDIAS can address other material processing applications, the focus here will be 3D structuring of silicon at high-speed, precision processing of diamond material and fine cutting of metal for the watch and the medical industry. Chirped Pulse Amplification (CPA) approach based on highly efficient compressors gratings will be implemented in order to minimize the overall losses of the laser system. The final targets of the project are to demonstrate:\n- a 10-times increase of ablation rate and productivity of large area 3D-structuring of silicon\n- a 10 times increase of speed in fine cutting metals\n- an increase of process speed (6-10 times) at a low processing tools cost of diamond machining\nTherefore, the laser parameters, as well as the beam shaping, beam guiding (based on KagomÈ fibers) and machine systems will be developed and optimized to fulfill the above manufacturing targets. The laser architecture will be based on fully passive amplifier stages combining hybrid (fiber-bulk) amplifier and thin-disk multipass amplifiers to achieve sub-500fs at an average output power of 500W and sub-1ps at an average output of 1kW, at a repetition rate of 1-2 MHz. Furthermore, second harmonic generation (SHG, 515 nm) and third harmonic generation (THG, 343 nm) will be implemented to allow processing investigation at these wavelengths. At 515 nm (respectively 343 nm) an average power of >=250W (respectively >=100W) shall be demonstrated.",
+    "totalCost": "4440640",
+    "ecMaxContribution": "3640307,5",
+    "coordinator": "UNIVERSITAET STUTTGART",
+    "coordinatorCountry": "DE",
+    "participants": "ROBERT BOSCH GMBH;LASER ENGINEERING APPLICATIONS SA;UNIVERSITE DE LIMOGES;ELEMENT SIX LIMITED;GESELLSCHAFT FUR ANGEWANDTE MIKRO UND OPTOELEKTRONIK MIT BESCHRANKTERHAFTUNG AMO GMBH;AMPLITUDE SYSTEMES SA;GLOPHOTONICS;CLASS 4 LASER PROFESSIONALS AG;KITE INNOVATION (EUROPE) LIMITED",
+    "participantCountries": "DE;BE;FR;IE;CH;UK",
+    "projectParticipants": {
+        "950664603": {
+            "orgId": "950664603",
+            "orgName": "CLASS 4 LASER PROFESSIONALS AG",
+            "ecContrib": 0
+        },
+        "998762926": {
+            "orgId": "998762926",
+            "orgName": "AMPLITUDE SYSTEMES SA",
+            "ecContrib": 555750
+        },
+        "998267838": {
+            "orgId": "998267838",
+            "orgName": "UNIVERSITE DE LIMOGES",
+            "ecContrib": 299500
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 909188
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 499002
+        },
+        "998915701": {
+            "orgId": "998915701",
+            "orgName": "LASER ENGINEERING APPLICATIONS SA",
+            "ecContrib": 441750
+        },
+        "930365801": {
+            "orgId": "930365801",
+            "orgName": "GLOPHOTONICS",
+            "ecContrib": 289750
+        },
+        "998226031": {
+            "orgId": "998226031",
+            "orgName": "ELEMENT SIX LIMITED",
+            "ecContrib": 132250
+        },
+        "995206033": {
+            "orgId": "995206033",
+            "orgName": "KITE INNOVATION (EUROPE) LIMITED",
+            "ecContrib": 141375
+        },
+        "999796558": {
+            "orgId": "999796558",
+            "orgName": "GESELLSCHAFT FUR ANGEWANDTE MIKRO UND OPTOELEKTRONIK MIT BESCHRANKTERHAFTUNG AMO GMBH",
+            "ecContrib": 371742
+        }
+    },
+    "calculatedTotalContribution": 3640307
+}

@@ -1,0 +1,17 @@
+{
+    "rcn": "215400",
+    "acronym": "InfCSP",
+    "topics": "MSCA-IF-2017",
+    "title": "Descriptive Complexity of Infinite Domain Constraint Satisfaction Problems",
+    "startDate": "01/07/2018",
+    "endDate": "30/06/2020",
+    "objective": "The constraint satisfaction problem (CSP) is a computational problem where the instance consists of a finite set of variables and a finite set of constraints, and the goal is to decide if there is a mapping from the variables to elements of some fixed domain of values satisfying all the constraints. Such problems are ubiquitous in different areas of computer science, including artificial intelligence, scheduling, computational linguistics, computational biology, and combinatorial optimisation. InfCSP will use mathematical tools to study the descriptive complexity of infinite domain constraint satisfaction problems.\n\nThe main purpose of InfCSP is to understand the power of generic logic-based algorithms for CSPs with infinite domains of values. More precisely, we will analyse the class of CSPs parametrised by the type of constraints allowed in the instance in order to determine for which problems in this class the set of YES instances can be captured by a logical formula. The logics of interest will be Datalog and the first-order logic extended by a fixed-point operator, widely studied in the context of constraint satisfaction. The classifications will be obtained using methods from descriptive complexity, universal algebra and model theory. InfCSP will constitute a major step forward in understanding which infinite domain CSPs can be solved in polynomial time and developing new universal-algebraic tools for infinite domain CSP.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

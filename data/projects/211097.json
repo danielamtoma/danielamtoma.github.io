@@ -1,0 +1,38 @@
+{
+    "rcn": "211097",
+    "acronym": "PercEvite",
+    "topics": "RPAS-07",
+    "title": "PercEvite - Sense and avoid technology for small drones",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "We will develop a sensor, communication, and processing suite for small drones for autonomously detecting and avoiding ìground-basedî obstacles and flying objects.\nTo avoid ground-based obstacles, we aim for a lightweight, energy-efficient sensor and processing package that maximizes payload capacity. Self-supervised learning will allow for a breakthrough in perception range. This will enable effective fusion of stereo vision, motion, appearance, ranging and audio information. Our learning process will allow obstacle detection as far as the camera ëseesí, rather than the current ± 30 m. For close distances, our solution does without energy expensive active sensors such as lasers or sonar.\nFor collaborative avoidance between drones and other air vehicles, we achieve an interoperable solution by combining multiple communication hardware types (ADSB, 4/5G, WiFi) to exchange information on position, speed, and future waypoints. This will enable drones to successfully avoid other flying vehicles even in a very densely used air space. The probability for a collision in a collaborative scenario will be in the order of 10-9.\nFor non-collaborative avoidance, we rely on sensors and even the communication hardware mentioned above. If a non-collaborative aircraft emits communication signals, for instance to a ground station, this hardware allows to retrieve angular measurements. These measurements can be fused with detection and angle estimations performed with multiple tiny microphones and cameras on board of the detecting drone. We estimate the collision probability in a non-collaborative scenario as 10-6.\nThese performances will be assessed by simulations and extensive real-world tests. The consortium will benefit from the partnersí academic and industrial background with expertise in autonomous flight of very light-weight drones, robust wireless communication, drone design, production, and operation to realize a commercially viable platform.",
+    "totalCost": "899007,5",
+    "ecMaxContribution": "899007,5",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "AEROVINCI BV;PARROT DRONES;KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "participantCountries": "NL;FR;BE",
+    "projectParticipants": {
+        "917044791": {
+            "orgId": "917044791",
+            "orgName": "PARROT DRONES",
+            "ecContrib": 171706
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 304889
+        },
+        "917127726": {
+            "orgId": "917127726",
+            "orgName": "AEROVINCI BV",
+            "ecContrib": 175500
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 246912
+        }
+    },
+    "calculatedTotalContribution": 899007
+}

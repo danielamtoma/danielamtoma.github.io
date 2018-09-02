@@ -1,0 +1,23 @@
+{
+    "rcn": "213411",
+    "acronym": "ParallelMemories",
+    "topics": "ERC-2017-STG",
+    "title": "Cooperative and competitive parallel memory units for choice behaviors",
+    "startDate": "01/07/2018",
+    "endDate": "30/06/2023",
+    "objective": "This proposal seeks to understand the molecular and circuit mechanisms used to store information in parallel memory units, and how these memories are integrated to guide action selection. We will use the Drosophila mushroom body (MB), a key center for associative learning in insect brains, as a model system. We recently generated intersectional genetic drivers that allowed us to draw a comprehensive anatomical map and selectively manipulate nearly all of the MBís ~60 cell types.\n        Sparse activity in the 2,000 Kenyon cells of the MB represents the identity of sensory stimuli. Along the parallel axonal fibers of Kenyon cells, we have shown that dopaminergic neurons and MB output neurons form 16 matched compartmental units. These anatomically defined units are also units of associative learning: reward and punishment activate distinct subsets of dopaminergic neurons. \n        Our latest optogenetic activation experiments demonstrate that individual dopaminergic neurons independently write and update memories in each unit with cell-type-specific rules. We find extensive differences in the rate of memory formation, decay dynamics, storage capacity and flexibility to learn new associations across different units. Thus individual memory units within the mushroom body store different information about the same learning event. Together, these memories cooperatively or competitively represent the predictive value of sensory cues.\n       We will now identify molecules and cell biological features that enable dopamine neurons to produce diverse forms of synaptic plasticity underlying distinct learning rules in different memory units. We will anatomically identify downstream neurons of the mushroom body output neurons that integrate information from parallel memory units, and make genetic drivers for them. Then, we will probe functions of these downstream neurons by imaging or manipulating their activity while flies retrieve and integrate memories for action selection.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

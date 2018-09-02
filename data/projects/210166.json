@@ -1,0 +1,23 @@
+{
+    "rcn": "210166",
+    "acronym": "AutoCode",
+    "topics": "ERC-PoC-2016",
+    "title": "Programming with Big Code",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2018",
+    "objective": "Software synthesis aims to automate the creation of software by generating parts of software from a higher-level description. Until recently it was believed to be impossible to practically synthesize software beyond very small fragments. However, synthesis based on learning from existing large code-bases (ìBig Codeî) is making synthesis into a practical reality . The purpose of this PoC is to develop a platform that would lead to commercialization of our technology to improve programming productivity and code quality. We target two closely related applications: (1) Providing automatic assistance in programming tasks by learning from existing code, and (2) Providing on-line assessment of code quality as it is being developed using learned models. These applications have the potential to dramatically reduce time-to-market of new software, and improve its quality and security.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

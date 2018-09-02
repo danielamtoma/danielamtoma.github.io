@@ -1,0 +1,58 @@
+{
+    "rcn": "207195",
+    "acronym": "certMILS",
+    "topics": "DS-01-2016",
+    "title": "Compositional security certification for medium- to high-assurance COTS-based systems in environments with emerging threats",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "certMILS develops a security certification methodology for Cyber-physical systems (CPS). CPS are characterised by safety-critical nature, complexity, connectivity, and open technology. A common downside to CPS complexity and openness is a large attack surface and a high degree of dynamism that may lead to complex failures and irreparable physical damage. The legitimate fear of security or functional safety vulnerabilities in CPS results in arduous testing and certification processes. Once fielded, many CPS suffer from the motto: never change a running system.\ncertMILS increases the economic efficiency and European competitiveness of CPS development, while demonstrating the effectiveness of safety & security certification of composable systems.\nThe project employs a security-by-design concept originating from the avionics industry: Multiple Independent Levels of Security (MILS), which targets controlled information flow and resource usage amongst software applications. certMILS reduces certification complexity, promotes re-use, and enables secure updates to CPS throughout its life-cycle by providing certified separation of applications, i.e. if an application within a complex CPS fails or starts acting maliciously, other applications are unaffected.\nSecurity certification of complex systems to medium-high assurance levels is not solved today. The existing monolithic approaches cannot cope with the complexity of modern CPS. certMILS uses ISO/IEC 15408 and IEC 62443 to develop and applies a compositional security certification methodology to complex composable safety-critical systems operating in constantly evolving hostile environments. certMILS core results are standardised in a protection profile.certMILS develops three composable industrial CPS pilots (smart grid, railway, subway), certifies security of critical re-useable components, and ensures security certification for the pilots by certification labs in three EU countries with involvement of the authorities.",
+    "totalCost": "5616543,75",
+    "ecMaxContribution": "3999055,63",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "SYSGO SRO;ATSEC INFORMATION SECURITY GMBH;SCHNEIDER ELECTRIC ESPANA SA;ELEKTROTECHNICKY ZKUSEBNI USTAV, SP;THALES AUSTRIA GMBH;UNICONTROLS A.S.;UNIVERSITAET ROSTOCK;EPOCHE AND ESPRI SLU",
+    "participantCountries": "CZ;DE;ES;AT",
+    "projectParticipants": {
+        "973232332": {
+            "orgId": "973232332",
+            "orgName": "UNICONTROLS A.S.",
+            "ecContrib": 402238
+        },
+        "999750192": {
+            "orgId": "999750192",
+            "orgName": "THALES AUSTRIA GMBH",
+            "ecContrib": 1091681
+        },
+        "920215527": {
+            "orgId": "920215527",
+            "orgName": "ATSEC INFORMATION SECURITY GMBH",
+            "ecContrib": 433650
+        },
+        "919372888": {
+            "orgId": "919372888",
+            "orgName": "ELEKTROTECHNICKY ZKUSEBNI USTAV, SP",
+            "ecContrib": 154525
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 255500
+        },
+        "984730421": {
+            "orgId": "984730421",
+            "orgName": "SYSGO SRO",
+            "ecContrib": 480900
+        },
+        "999852430": {
+            "orgId": "999852430",
+            "orgName": "UNIVERSITAET ROSTOCK",
+            "ecContrib": 458250
+        },
+        "951742079": {
+            "orgId": "951742079",
+            "orgName": "SCHNEIDER ELECTRIC ESPANA SA",
+            "ecContrib": 378438
+        }
+    },
+    "calculatedTotalContribution": 3655182
+}

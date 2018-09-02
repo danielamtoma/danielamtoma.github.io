@@ -1,0 +1,23 @@
+{
+    "rcn": "206725",
+    "acronym": "Extreme",
+    "topics": "ERC-2016-STG",
+    "title": "An Exascale aware and Un-crashable Space-Time-Adaptive Discontinuous Spectral Element Solver for Non-Linear Conservation Laws",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2022",
+    "objective": "'The dynamics of fluids and plasma is described by non-linear conservation laws. Transient behaviour on multiple scales involving turbulence and shocks is intrinsic to these problems. Due to their low dispersion and dissipation errors, adaptive high order numerical methods currently receive growing attention in academia and industry and form an emerging key technology. The potential benefits are massively improved computational efficiency and drastic reduction in memory consumption. Both benefits can be easily justified theoretically, in particular for a space-time adaptive high order method. However, due to high algorithmic complexity, the theoretical performance is difficult to sustain on massively parallel supercomputers. The first challenge that we will address in this project is to design novel, exascale aware, space-time adaptive algorithms and implement them in an open source solver that will scale on over 10^6 computing cores. Another indispensable property for the successful industrialisation of space-time adaptive high order methods is robustness. Robustness, i.e. an 'un-crashable' solver, which still retains all the positive benefits of the high order scheme is the 'holy grail' of the current research on these methods. This requires new mathematical concepts. The second challenge we will address here is to construct a provable un-crashable, space-time adaptive, high order solver without excessive artificial dissipation. Our mathematical key to achieve robustness is not intuitive at first sight: skew-symmetry. We will show that a specific skew-symmetric formulation guided by careful mathematics will allow us to design methods that are consistent with the second law of thermodynamics. This physical consistency is important as it will enable us to construct a new class of un-crashable space-time adaptive high order methods. We will demonstrate the supremacy of this efficient and robust solver in complex large scale science and engineering applications.'",
+    "totalCost": "1495875",
+    "ecMaxContribution": "1495875",
+    "coordinator": "UNIVERSITAET ZU KOELN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999852915": {
+            "orgId": "999852915",
+            "orgName": "UNIVERSITAET ZU KOELN",
+            "ecContrib": 1495875
+        }
+    },
+    "calculatedTotalContribution": 1495875
+}

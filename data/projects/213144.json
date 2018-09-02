@@ -1,0 +1,68 @@
+{
+    "rcn": "213144",
+    "acronym": "PRIViLEDGE",
+    "topics": "DS-06-2017",
+    "title": "Privacy-Enhancing Cryptography in Distributed Ledgers",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Blockchain and distributed ledger technologies (DLTs) have emerged as one of the most revolutionary developments in recent years, with the goal of eliminating centralised intermediaries and installing distributed trusted services. They facilitate trustworthy trades and exchanges over the Internet, power cryptocurrencies, ensure transparency for documents, and much more.\nAlthough based on cryptographic techniques at their core, the currently deployed DLTs do not address privacy. Indeed, the very idea of a public ledger that stores a verifiable record of transactions at first appears inherently incompatible with the privacy requirements of many potential applications, which use sensitive data such as trade secrets and personal information. New cryptographic techniques and protocols are therefore needed to protect the data, facilitate these applications, and make DLTs deliver on their promises.\nPRIViLEDGE realises cryptographic protocols supporting privacy, anonymity, and efficient decentralised consensus for DLTs. In PRIViLEDGE, several European key players in cryptographic research and from the fintech and blockchain domains unite to push the limits of cryptographic protocols for privacy and security. Results from PRIViLEDGE are demonstrated through four ledger-based solutions: (1) verifiable online voting; (2) contract validation and execution for insurance; (3) university diploma record ledger; and (4) update mechanism for stake-based ledgers. The selected use cases are diverse and represent the principal application domains of DLT; this ensures wide reach and impact of the techniques developed in PRIViLEDGE beyond the immediate scope of the project.",
+    "totalCost": "4527917,5",
+    "ecMaxContribution": "4527917,5",
+    "coordinator": "GUARDTIME AS",
+    "coordinatorCountry": "EE",
+    "participants": "AKADIMAIKO DIADIKTYO;UNIVERSITA DEGLI STUDI DI SALERNO;TARTU ULIKOOL;ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE;ZENITH ANALYTICS OU;IBM RESEARCH GMBH;SMARTMATIC-CYBERNETICA CENTRE OF EXCELLENCE FOR INTERNET VOTING OU;TECHNISCHE UNIVERSITEIT EINDHOVEN;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "EL;IT;EE;CH;NL;UK",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 432000
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 950825
+        },
+        "999895013": {
+            "orgId": "999895013",
+            "orgName": "TARTU ULIKOOL",
+            "ecContrib": 393250
+        },
+        "999899184": {
+            "orgId": "999899184",
+            "orgName": "UNIVERSITA DEGLI STUDI DI SALERNO",
+            "ecContrib": 446375
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 461528
+        },
+        "912485403": {
+            "orgId": "912485403",
+            "orgName": "SMARTMATIC-CYBERNETICA CENTRE OF EXCELLENCE FOR INTERNET VOTING OU",
+            "ecContrib": 229250
+        },
+        "924543861": {
+            "orgId": "924543861",
+            "orgName": "ZENITH ANALYTICS OU",
+            "ecContrib": 430300
+        },
+        "919399660": {
+            "orgId": "919399660",
+            "orgName": "GUARDTIME AS",
+            "ecContrib": 638140
+        },
+        "950647434": {
+            "orgId": "950647434",
+            "orgName": "AKADIMAIKO DIADIKTYO",
+            "ecContrib": 120000
+        },
+        "999937887": {
+            "orgId": "999937887",
+            "orgName": "ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE",
+            "ecContrib": 426250
+        }
+    },
+    "calculatedTotalContribution": 4527918
+}

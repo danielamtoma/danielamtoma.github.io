@@ -1,0 +1,58 @@
+{
+    "rcn": "200390",
+    "acronym": "Bots2ReC",
+    "topics": "ICT-24-2015",
+    "title": "Robots to Re-Construction",
+    "startDate": "01/02/2016",
+    "endDate": "31/07/2019",
+    "objective": "Despite the high degree of industrial automation, robotic solutions are not yet prevalent in construction and demolition industry due to the complex environment and demanding requirements. For hazardous tasks, like the removal of asbestos contamination from a flat (rehabilitation site), manual performance is very inefficient, due to the intense safety measures. This leads to the main objective of Bots2ReC: ìIntroducing, testing and validating an operational process for the automated removal of asbestos contamination at a real world rehabilitation site using a robotic system.î\nAfter the necessary clearing from furniture and containment, the site is less complex and separated from human workers. In this environment safe automated robotic operations can be realized with current state of the art technology. The proposed robotic system will consist of multiple robotic units (lightweight robotic arms with abrasive tools and aspiration on a mobile platform) and a central process control system. Optical and radar sensors will allow environmental perception and navigation and local monitoring of the asbestos-removal, even in dusty conditions. The developed control system allows the user to specify and supervise automated tasks (e.g. disk grinding of contaminated paint from a wall), supported by a virtual representation of the site. The process and robotic system will be developed and enhanced in several iterations, supported by permanent testing on a test rehabilitation site benchmarked on a real life rehabilitation site at project end.\nBots2ReC will have strong impacts to the robotics industry and society in Europe: It provides a step change towards a system prototype demonstrated in the operational environment of the demolition and construction industry and will strengthen the European robotic industry by later commercialisation of the system. Avoiding exposure to highly dangerous asbestos fibres will sustainably help protect the health of humans in Europe and worldwide.",
+    "totalCost": "4768875",
+    "ecMaxContribution": "3964162,5",
+    "coordinator": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "coordinatorCountry": "DE",
+    "participants": "ROBOTNIK AUTOMATION SLL;INSTITUT FRANCAIS DE MECANIQUE AVANCEE;DANIELI TELEROBOT LABS S.R.L.;SIGMA CLERMONT;BOUYGUES CONSTRUCTION;FUNDACIO EURECAT;INDURAD GMBH",
+    "participantCountries": "ES;FR;IT;DE",
+    "projectParticipants": {
+        "962538470": {
+            "orgId": "962538470",
+            "orgName": "INDURAD GMBH",
+            "ecContrib": 374500
+        },
+        "998018645": {
+            "orgId": "998018645",
+            "orgName": "ROBOTNIK AUTOMATION SLL",
+            "ecContrib": 601038
+        },
+        "949733403": {
+            "orgId": "949733403",
+            "orgName": "DANIELI TELEROBOT LABS S.R.L.",
+            "ecContrib": 602875
+        },
+        "999457349": {
+            "orgId": "999457349",
+            "orgName": "BOUYGUES CONSTRUCTION",
+            "ecContrib": 299250
+        },
+        "922622970": {
+            "orgId": "922622970",
+            "orgName": "SIGMA CLERMONT",
+            "ecContrib": 595000
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 961250
+        },
+        "928030235": {
+            "orgId": "928030235",
+            "orgName": "FUNDACIO EURECAT",
+            "ecContrib": 530250
+        },
+        "992005906": {
+            "orgId": "992005906",
+            "orgName": "INSTITUT FRANCAIS DE MECANIQUE AVANCEE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3964163
+}

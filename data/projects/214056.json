@@ -1,0 +1,73 @@
+{
+    "rcn": "214056",
+    "acronym": "UPWARDS",
+    "topics": "LCE-06-2017",
+    "title": "Understanding of the Physics of Wind Turbine and Rotor Dynamics through an Integrated Simulation Framework",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2022",
+    "objective": "Wind energy is the largest of the new renewable energies and traditional wind turbine design has reached maturity, but still improvements can be done through better understanding of the physics for the entire wind turbine system. At the same time demand for more green energy, requires new turbine designs with improved environmental characteristics, adaptable to new locations, etc.\n\nIn the UPWARDS project the goal is by the help of high performance computing (HPC) to develop a simulation framework, which will incorporate a more complete description of the wind field, turbine, the support structure, etc. and their interaction in order to better understand the physics of the entire system. The complex wind field will be calculated adding interactions from nearby turbines, waves, terrain, etc.\n\nThe simulation framework will yield more accurate prediction of the forces acting in the system and thus the energy captured by the turbine. In addition, it will better predict acoustic phenomena, and materials issues related to the turbine blades, etc. The platform will be modular and new design will be relatively simple to introduce.\nAn important part of the project is to evaluate the socio-economic impact and to bring user communities into the project development.\n\nAltogether this will improve the design development process and allow for faster implementation of new and more advanced designs with less environmental impact. It will also improve the accuracy in power production.\n\nThe methodologies and major results from the project will be published in open access journals or freely accessible reports. In addition an open database containing relevant results and raw data will be established. This will enable other researchers and turbine developers to utilise the results for further studies.",
+    "totalCost": "3999917,5",
+    "ecMaxContribution": "3999917,5",
+    "coordinator": "SINTEF AS",
+    "coordinatorCountry": "NO",
+    "participants": "WAVESTONE LUXEMBOURG S.A.;SAMTECH SA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;SIEMENS GAMESA RENEWABLE ENERGY AS;UNIVERSIDAD NACIONAL DEL LITORAL;AWS TRUEPOWER SL;SIEMENS INDUSTRY SOFTWARE NV;INSTITUT VON KARMAN DE DYNAMIQUE DES FLUIDES;WAGENINGEN UNIVERSITY;AALBORG UNIVERSITET",
+    "participantCountries": "LU;BE;DE;DK;AR;ES;NL",
+    "projectParticipants": {
+        "999770950": {
+            "orgId": "999770950",
+            "orgName": "SIEMENS INDUSTRY SOFTWARE NV",
+            "ecContrib": 259125
+        },
+        "967822448": {
+            "orgId": "967822448",
+            "orgName": "WAVESTONE LUXEMBOURG S.A.",
+            "ecContrib": 170000
+        },
+        "910945140": {
+            "orgId": "910945140",
+            "orgName": "SINTEF AS",
+            "ecContrib": 782050
+        },
+        "998777476": {
+            "orgId": "998777476",
+            "orgName": "UNIVERSIDAD NACIONAL DEL LITORAL",
+            "ecContrib": 196250
+        },
+        "999981634": {
+            "orgId": "999981634",
+            "orgName": "WAGENINGEN UNIVERSITY",
+            "ecContrib": 304160
+        },
+        "999698006": {
+            "orgId": "999698006",
+            "orgName": "INSTITUT VON KARMAN DE DYNAMIQUE DES FLUIDES",
+            "ecContrib": 301080
+        },
+        "986360215": {
+            "orgId": "986360215",
+            "orgName": "SIEMENS GAMESA RENEWABLE ENERGY AS",
+            "ecContrib": 172500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 469410
+        },
+        "999429316": {
+            "orgId": "999429316",
+            "orgName": "SAMTECH SA",
+            "ecContrib": 562961
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 396069
+        },
+        "963194481": {
+            "orgId": "963194481",
+            "orgName": "AWS TRUEPOWER SL",
+            "ecContrib": 386312
+        }
+    },
+    "calculatedTotalContribution": 3999917
+}

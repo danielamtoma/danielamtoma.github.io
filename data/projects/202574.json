@@ -1,0 +1,23 @@
+{
+    "rcn": "202574",
+    "acronym": "eLightning",
+    "topics": "ERC-CoG-2015",
+    "title": "Lightning propagation and high-energy emissions within coupled multi-model simulations",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "More than 250 years after establishing the electrical nature of the lightning flash, we still do not understand how a lightning channel advances. Most of these channels progress not continuously but in a series of sudden jumps and, as they jump, they emit bursts of energetic radiation.  Despite increasingly accurate observations, there is no accepted explanation for this stepped progression.\n\nThis proposal addresses this open question.  First, we propose a methodological breakthrough that will allow us to tackle the main bottleneck in the theoretical understanding of lightning: the wide disparity between length-scales within a lightning flash.  We plan to apply techniques that have succeeded in other fields, such as multi-model coupled simulations and moving-mesh finite elements methods.  Acting as a computational microscope, these techniques will reveal the small-scale electrodynamics around a lightning channel.\n\nWe will then apply these techniques to elucidate the intertwined problems of lightning channel stepping and thunderstorm-related high-energy emissions.   The main hypothesis that we will test is that stepping is due to the formation of low-conductivity spots within the filamentary-discharge region that surrounds a lightning channel.  This idea is motivated by observations from high-altitude atmospheric discharges.  By resolving the small-scale dynamics, with our numerical method, we will also test hypothesis for high-energy emissions from the lighting channel, which crucially depend on the microscopic distribution of electric fields.\n\nThis interdisciplinary proposal, straddling between geophysics and gas discharge physics, seeks a double breakthrough: the methodological one of building multi-scale lightning simulations and the hypothesis-driven one of finding out the reason for stepping.  If it succeeds, it will achieve a leap forward in our knowledge of lightning, undoubtedly one of the greatest spectacles in our planet's repertoire.",
+    "totalCost": "1960825,51",
+    "ecMaxContribution": "1960825,51",
+    "coordinator": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 1960826
+        }
+    },
+    "calculatedTotalContribution": 1960826
+}

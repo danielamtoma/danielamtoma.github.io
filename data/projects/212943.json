@@ -1,0 +1,58 @@
+{
+    "rcn": "212943",
+    "acronym": "DARE",
+    "topics": "EINFRA-21-2017",
+    "title": "Delivering Agile Research Excellence on European e-Infrastructures",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "DARE (Delivering Agile Research Excellence on European e-Infrastructures) aims to provide scientific communities with a unifying hyper-platform and development context to allow for user-friendly and reproducible carrying out of huge data-driven experiments, and rapid prototyping. DARE specifically addresses the requirements of innovating teams of research developers and scientists, who work on the intersection of software engineering and scientific domains, and on data, complexity and computing extremes.\nThe size and complexity of scientific data, as well as the difficulty in formulating domain-specific solutions in reproducible and reusable ways, may often lead to throw-away, unsustainable end-user products, or long release cycles. This complexity increases exponentially with the size and diversity of input and produced data. Furthermore, widely used big-data technologies and analytics, while they are known to lead to increased productivity in commercial settings, they are often not taken advantage of in scientific. The requirement to deal with diverse exascale data resources dictates the need to ensure and increase productivity through the controlled disruption of the current modus operandi of European RIs. DARE aims to be the technological pivot for this transition, while providing transparent, traceable and developer-friendly bridges over existing infrastructures and services.\nBuilding on extensive experience in research e-infrastructures, semantification and the handling of metadata, and on big-data technologies and domain applications, DARE will equip teams of innovators with meaningful abstractions and tools allowing for rapid prototyping of reproducible and efficient research solutions. DARE will improve further and integrate tried and tested programmatic dataflow specification APIs, big-data technologies and provenance/data-lineage solutions to address the requirements of European RIs, initially of EPOS, on Earth science, and IS/ENES2, on climate.",
+    "totalCost": "2957500",
+    "ecMaxContribution": "2957500",
+    "coordinator": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+    "coordinatorCountry": "EL",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE;ATHINA-EREVNITIKO KENTRO KAINOTOMIAS STIS TECHNOLOGIES TIS PLIROFORIAS, TON EPIKOINONION KAI TIS GNOSIS;CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE;KARLSRUHER INSTITUT FUER TECHNOLOGIE;KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI;THE UNIVERSITY OF LIVERPOOL;ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "DE;EL;FR;NL;UK;IT",
+    "projectParticipants": {
+        "999518944": {
+            "orgId": "999518944",
+            "orgName": "KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI",
+            "ecContrib": 410000
+        },
+        "999472675": {
+            "orgId": "999472675",
+            "orgName": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA",
+            "ecContrib": 245750
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 409375
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 440000
+        },
+        "999940118": {
+            "orgId": "999940118",
+            "orgName": "CENTRE EUROPEEN DE RECHERCHE ET DE FORMATION AVANCEE EN CALCUL SCIENTIFIQUE",
+            "ecContrib": 271125
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 328375
+        },
+        "999980567": {
+            "orgId": "999980567",
+            "orgName": "THE UNIVERSITY OF LIVERPOOL",
+            "ecContrib": 0
+        },
+        "999937887": {
+            "orgId": "999937887",
+            "orgName": "ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE",
+            "ecContrib": 319500
+        }
+    },
+    "calculatedTotalContribution": 2424125
+}

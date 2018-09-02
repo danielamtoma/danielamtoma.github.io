@@ -1,0 +1,73 @@
+{
+    "rcn": "207027",
+    "acronym": "SMARTsurg",
+    "topics": "ICT-26-2016",
+    "title": "SMart weArable Robotic Teleoperated Surgery",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Robot-assisted minimally invasive surgery (RAMIS) offers many advantages when compared to traditional MIS, including improved vision, precision and dexterity. While the popularity of RAMIS is steadily increasing, the potential for improving patient outcomes and penetrating into many procedures is not fully realised, largely because of serious limitations in the current instrumentation, control and feedback to the surgeon. Specifically, restricted access, lack of force feedback, and use of rigid tools in confined spaces filled with organs pose challenges to full adoption. We aim to develop novel technology to overcome barriers to expansion of RAMIS to more procedures, focusing on real-world surgical scenarios of urology, vascular surgery, and soft tissue orthopaedic surgery. A team of highly experienced clinical, academic, and industrial partners will collaborate to develop: i) dexterous anthropomorphic instruments with minimal cognitive demand ii) a range of bespoke end-effectors with embedded surgical tools using additive manufacturing methods for rapid prototyping and testing utilizing a user-centred approach, iii) wearable multi-sensory master for tele-operation to optimise perception and action and iv) wearable smart glasses for augmented reality guidance of the surgeon based on real-time 3D reconstruction of the surgical field, utilising dynamic active constraints and restricting the instruments to safe regions. The demonstration platform will be based on commercial robotic manipulators enhanced with the SMARTsurg advanced hardware and software features. Testing will be performed on laboratory phantoms with surgeons to bring the technology closer to exploitation and to validate acceptance by clinicians. The study will benefit patients, surgeons and health providers, by promoting safety and ergonomics as well as reducing costs. Furthermore, there is a potential to improve complex remote handling procedures in other domains beyond RAMIS.",
+    "totalCost": "3990206,25",
+    "ecMaxContribution": "3990206,25",
+    "coordinator": "UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL",
+    "coordinatorCountry": "UK",
+    "participants": "HIT HYPERTECH INNOVATIONS LTD;HYPERTECH INNOVATIONS LIMITED;ISTITUTO EUROPEO DI ONCOLOGIA SRL;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;CYBERNETIX;IDIOTIKO POLIIATRIO ORTHOPAIDIKIS CHIROURGIKIS ATHLITIKON KAKOSEON KAI APOKATASTASIS ETAIRIA PERIORISMENI EFTHINIS;NORTH BRISTOL NATIONAL HEALTH SERVICE TRUST;OPTINVENT;POLITECNICO DI MILANO;UNIVERSITY OF BRISTOL",
+    "participantCountries": "CY;UK;IT;EL;FR",
+    "projectParticipants": {
+        "999969703": {
+            "orgId": "999969703",
+            "orgName": "ISTITUTO EUROPEO DI ONCOLOGIA SRL",
+            "ecContrib": 127500
+        },
+        "998010303": {
+            "orgId": "998010303",
+            "orgName": "NORTH BRISTOL NATIONAL HEALTH SERVICE TRUST",
+            "ecContrib": 123750
+        },
+        "923546022": {
+            "orgId": "923546022",
+            "orgName": "HYPERTECH INNOVATIONS LIMITED",
+            "ecContrib": 0
+        },
+        "916785413": {
+            "orgId": "916785413",
+            "orgName": "HIT HYPERTECH INNOVATIONS LTD",
+            "ecContrib": 318000
+        },
+        "919319247": {
+            "orgId": "919319247",
+            "orgName": "IDIOTIKO POLIIATRIO ORTHOPAIDIKIS CHIROURGIKIS ATHLITIKON KAKOSEON KAI APOKATASTASIS ETAIRIA PERIORISMENI EFTHINIS",
+            "ecContrib": 147500
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 125875
+        },
+        "999839432": {
+            "orgId": "999839432",
+            "orgName": "UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL",
+            "ecContrib": 772236
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 422500
+        },
+        "997758006": {
+            "orgId": "997758006",
+            "orgName": "OPTINVENT",
+            "ecContrib": 478595
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 720000
+        },
+        "916915490": {
+            "orgId": "916915490",
+            "orgName": "CYBERNETIX",
+            "ecContrib": 754250
+        }
+    },
+    "calculatedTotalContribution": 3990206
+}

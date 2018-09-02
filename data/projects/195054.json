@@ -1,0 +1,23 @@
+{
+    "rcn": "195054",
+    "acronym": "FACADE FIRE",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Numerical characterisation of fire growth in external facades and other vertical spaces",
+    "startDate": "15/08/2016",
+    "endDate": "14/08/2018",
+    "objective": "Fire growth through spreading up the faÁade of high-rise buildings can lead to catastrophic loss of life and property. FaÁades at times are required to have a fire-resistance rating, for instance, if two buildings are very close together, to lower the likelihood of fire spreading from one building to another. The issue is becoming increasingly critical due to new development trends involving higher buildings and sometime in close proximity to each other and the increasing use of combustible material in faÁade to raise energy performance of buildings. \n\nThe proposed Fellowship is aimed at investigating numerically the behaviour of flames ejected from enclosure fires in external facades and other vertical spaces such as atrium, void spaces and staircases. Full understanding of such external flame behaviour requires insight of the combustion processes within the enclosure. Hence the scope of the research includes enclosure fires to characterise the ejected flames as well as fire growth in faÁades. The research will take advantage of the abundant experimental data available for model validation.  The specific objectives include: \n\n1. Fine tune and validate the open source CFD code FireFOAM , a dedicated LES based solver for fire simulation within the OpenFOAMÆ toolbox for enclosure fires; \n\n2. Investigate the combustion and aerothermodynamics of enclosure fires, including travelling fires; \n\n3. Characterise the spill flame extent, combustion efficiency and heat fluxes inside and outside different enclosures with different openings (office blocks, residential buildings, travelling fires in open plan compartments, etc.);\n\n4. Develop and validate a predictive approach based on FireFOAM for faÁade fires; \n\n5. Conduct parametric studies for different faÁade panel materials, spread upwards/downwards to different floors within the building and spread to adjacent buildings in different wind conditions to inform the update of regulatory guidance.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "THE UNIVERSITY OF WARWICK",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976784": {
+            "orgId": "999976784",
+            "orgName": "THE UNIVERSITY OF WARWICK",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

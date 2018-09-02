@@ -1,0 +1,73 @@
+{
+    "rcn": "194138",
+    "acronym": "SNIFFPHONE",
+    "topics": "ICT-02-2014",
+    "title": "Smart Phone for Disease Detection from Exhaled Breath",
+    "startDate": "15/02/2015",
+    "endDate": "14/08/2018",
+    "objective": "Screening for early detection of a disease is required to reveal groups of individuals from the general population in whom the likelihood of the disease is increased and who could benefit from further medical evaluation. The ideal screening test is high-accuracy, low-cost, non-invasive, easily repeatable, effortlessly operated by a lay-person and has minimal impact on the personís daily activities.. In the SNIFFPHONE project, we aim to tackle these requirements by integrating heterogeneous micro- and nano-technologies into autonomous smart system that can be attached to a mobile phone and analyze disease markers from exhaled breath. In this approach, an interaction between breath sample and a miniaturized array of highly sensitive nanomaterial-based chemical sensors is recorded, stored and pre-processed by integrated miniature on-chip microfluidics and electronics, and then the relevant electrical signals are transferred wirelessly via the mobile phoneís internet to an external server. Statistical pattern recognition methods are then applied on the received data and a clinical report including the screening results is sent back to the designated receiver (e.g., specialist, family doctor) in case of positive result is revealed. SNIFFPHONE represents a new concept addressing major societal challenges in health and well-being of the general population, while taking into account constituent ethical and security aspects. The SNIFFPHONE end-product will integrate functionalities that are relevant to the health screening applications with decreased size (x30-40), decreased costs (x150), increased predictive and cognitive functions and full autonomy with energy management as well as with operation/use management. Besides the R&D and clinical units, the SNIFFPHONE project will involve four European SMEs and one big industrial company, thus establishing European competitive ecosystems for the design and commercialization of innovative miniaturized smart systems.",
+    "totalCost": "5806455",
+    "ecMaxContribution": "5806455",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "JLM INNOVATION GMBH;Teknologian tutkimuskeskus VTT Oy;CELLIX LIMITED;SIEMENS HEALTHCARE GMBH;LATVIJAS UNIVERSITATE;UNIVERSITAET INNSBRUCK;NanoVation-GS;MICROFLUIDIC CHIPSHOP GMBH;SIEMENS AKTIENGESELLSCHAFT;TEKNOLOGIAN TUTKIMUSKESKUS VTT",
+    "participantCountries": "DE;FI;IE;LV;AT;IL",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 794988
+        },
+        "971016464": {
+            "orgId": "971016464",
+            "orgName": "JLM INNOVATION GMBH",
+            "ecContrib": 641850
+        },
+        "999869114": {
+            "orgId": "999869114",
+            "orgName": "UNIVERSITAET INNSBRUCK",
+            "ecContrib": 410000
+        },
+        "927325239": {
+            "orgId": "927325239",
+            "orgName": "SIEMENS HEALTHCARE GMBH",
+            "ecContrib": 255000
+        },
+        "999871830": {
+            "orgId": "999871830",
+            "orgName": "LATVIJAS UNIVERSITATE",
+            "ecContrib": 599250
+        },
+        "941974567": {
+            "orgId": "941974567",
+            "orgName": "NanoVation-GS",
+            "ecContrib": 407394
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 1298379
+        },
+        "999987260": {
+            "orgId": "999987260",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT",
+            "ecContrib": 249374
+        },
+        "996559086": {
+            "orgId": "996559086",
+            "orgName": "CELLIX LIMITED",
+            "ecContrib": 651470
+        },
+        "999901706": {
+            "orgId": "999901706",
+            "orgName": "TEKNOLOGIAN TUTKIMUSKESKUS VTT",
+            "ecContrib": 0
+        },
+        "999691895": {
+            "orgId": "999691895",
+            "orgName": "MICROFLUIDIC CHIPSHOP GMBH",
+            "ecContrib": 498750
+        }
+    },
+    "calculatedTotalContribution": 5806455
+}

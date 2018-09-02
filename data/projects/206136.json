@@ -1,0 +1,23 @@
+{
+    "rcn": "206136",
+    "acronym": "D3",
+    "topics": "ERC-2016-STG",
+    "title": "Interpreting Drawings for 3D Design",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "Designers draw extensively to externalize their ideas and communicate with others. However, drawings are currently not directly interpretable by computers. To test their ideas against physical reality, designers have to create 3D models suitable for simulation and 3D printing. However, the visceral and approximate nature of drawing clashes with the tediousness and rigidity of 3D modeling. As a result, designers only model finalized concepts, and have no feedback on feasibility during creative exploration.\nOur ambition is to bring the power of 3D engineering tools to the creative phase of design by automatically estimating 3D models from drawings. However, this problem is ill-posed: a point in the drawing can lie anywhere in depth. Existing solutions are limited to simple shapes, or require user input to ìexplainî to the computer how to interpret the drawing. Our originality is to exploit professional drawing techniques that designers developed to communicate shape most efficiently. Each technique provides geometric constraints that help viewers understand drawings, and that we shall leverage for 3D reconstruction.\nOur first challenge is to formalize common drawing techniques and derive how they constrain 3D shape. Our second challenge is to identify which techniques are used in a drawing. We cast this problem as the joint optimization of discrete variables indicating which constraints apply, and continuous variables representing the 3D model that best satisfies these constraints. But evaluating all constraint configurations is impractical. To solve this inverse problem, we will first develop forward algorithms that synthesize drawings from 3D models. Our idea is to use this synthetic data to train machine learning algorithms that predict the likelihood that constraints apply in a given drawing.\nIn addition to tackling the long-standing problem of single-image 3D reconstruction, our research will significantly tighten design and engineering for rapid prototyping.",
+    "totalCost": "1482761",
+    "ecMaxContribution": "1482761",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 1482761
+        }
+    },
+    "calculatedTotalContribution": 1482761
+}

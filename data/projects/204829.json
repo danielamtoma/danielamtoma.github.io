@@ -1,0 +1,28 @@
+{
+    "rcn": "204829",
+    "acronym": "COSMOS",
+    "topics": "ERC-ADG-2015",
+    "title": "Semiparametric Inference for Complex and Structural Models in Survival Analysis",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "In survival analysis investigators are interested in modeling and analysing the time until an event happens. It often happens that the available data are right censored, which means that only a lower bound of the time of interest is observed. This feature complicates substantially the statistical analysis of this kind of data. The aim of this project is to solve a number of open problems related to time-to-event data, that would represent a major step forward in the area of survival analysis.\n\nThe project has three objectives:\n\n[1] Cure models take into account that a certain fraction of the subjects under study will never experience the event of interest.  Because of the complex nature of these models, many problems are still open and rigorous theory is rather scarce in this area.  Our goal is to fill this gap, which will be a challenging but important task.\n\n[2] Copulas are nowadays widespread in many areas in statistics. However, they can contribute more substantially to resolving a number of the outstanding issues in survival analysis, such as in quantile regression and dependent censoring.  Finding answers to these open questions, would open up new horizons for a wide variety of problems.\n\n[3] We wish to develop new methods for doing correct inference in some of the common models in survival analysis in the presence of endogeneity or measurement errors.  The present methodology has serious shortcomings, and we would like to propose, develop and validate new methods, that would be a major breakthrough if successful.\n\nThe above objectives will be achieved by using mostly semiparametric models.  The development of mathematical properties under these models is often a challenging task, as complex tools from the theory on empirical processes and semiparametric efficiency are required.  The project will therefore require an innovative combination of highly complex mathematical skills and cutting edge results from modern theory for semiparametric models.",
+    "totalCost": "2318750",
+    "ecMaxContribution": "2318750",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+    "participantCountries": "BE",
+    "projectParticipants": {
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 68750
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 2250000
+        }
+    },
+    "calculatedTotalContribution": 2318750
+}

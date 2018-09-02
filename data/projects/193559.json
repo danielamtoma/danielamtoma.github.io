@@ -1,0 +1,23 @@
+{
+    "rcn": "193559",
+    "acronym": "Big Splash",
+    "topics": "ERC-StG-2014",
+    "title": "Big Splash: Efficient Simulation of Natural Phenomena at Extremely Large Scales",
+    "startDate": "01/03/2015",
+    "endDate": "29/02/2020",
+    "objective": "Computational simulations of natural phenomena are essential in science, engineering, product design, architecture, and computer graphics applications. However, despite progress in numerical algorithms and computational power, it is still unfeasible to compute detailed simulations at large scales. To make matters worse, important phenomena like turbulent splashing liquids and fracturing solids rely on delicate coupling between small-scale details and large-scale behavior. Brute-force computation of such phenomena is intractable, and current adaptive techniques are too fragile, too costly, or too crude to capture subtle instabilities at small scales. Increases in computational power and parallel algorithms will improve the situation, but progress will only be incremental until we address the problem at its source.\n\nI propose two main approaches to this problem of efficiently simulating large-scale liquid and solid dynamics. My first avenue of research combines numerics and shape: I will investigate a careful de-coupling of dynamics from geometry, allowing essential shape details to be preserved and retrieved without wasting computation. I will also develop methods for merging small-scale analytical solutions with large-scale numerical algorithms. (These ideas show particular promise for phenomena like splashing liquids and fracturing solids, whose small-scale behaviors are poorly captured by standard finite element methods.) My second main research direction is the manipulation of large-scale simulation data: Given the redundant and parallel nature of physics computation, we will drastically speed up computation with novel dimension reduction and data compression approaches. We can also minimize unnecessary computation by re-using existing simulation data. The novel approaches resulting from this work will undoubtedly synergize to enable the simulation and understanding of complicated natural and biological processes that are presently unfeasible to compute.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "Institute of Science and Technology Austria",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "996479740": {
+            "orgId": "996479740",
+            "orgName": "Institute of Science and Technology Austria",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

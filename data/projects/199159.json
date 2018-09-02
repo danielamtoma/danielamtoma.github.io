@@ -1,0 +1,53 @@
+{
+    "rcn": "199159",
+    "acronym": "MAMI",
+    "topics": "ICT-12-2015",
+    "title": "Measurement and Architecture for a Middleboxed Internet",
+    "startDate": "01/01/2016",
+    "endDate": "30/06/2018",
+    "objective": "Recent revelations about large-scale pervasive surveillance of Internet traffic have led to a rapidly expanding deployment of encryption in order to protect end-user privacy. At the same time, network operators and access providers rely on increasing use of in-network functionality provided by middleboxes and network function virtualization (NFV) approaches to improve network operations and management, and to provide additional value for their customers. In addition, new applications such as interactive video make new demands on the transport layer, requiring the deployment of new protocols and extensions, the deployment of which is impaired by the proliferation of middleboxes that cause them to fail. These three trends are on a collision course.\n\nThe MAMI project seeks to restore balance among end-user privacy concerns in the face of pervasive surveillance, innovation in network protocols in the face of increasing ossification, and the provision of in-network functionality in a cooperative way.\n\nWe aim to do this through the development and experimental deployment of a middlebox cooperation protocol (MCP) embedded in a more flexible transport layer, to be used together with ubiquitously deployed encryption. To ensure the applicability of the protocol, we will develop it on a background of middlebox behaviour models, derived from large-scale measurements of middleboxes in the public Internet conducted on top of a FIRE\\ testbed. We will then evaluate the fitness of our proposed MCP to purpose by evaluating its applicability to a set of real-world use cases for transport layer evolution, focusing on incremental deployability in the presence of both cooperative and uncooperative middleboxes by experimentation in the Internet utilising the facilities provided by FIRE\\ testbeds.",
+    "totalCost": "2901500",
+    "ecMaxContribution": "1629125",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ABERDEEN;UNIVERSITE DE LIEGE;SIMULA RESEARCH LABORATORY AS;ALCATEL LUCENT TELECOM LIMITED;TELEFONICA INVESTIGACION Y DESARROLLO SA;ZURCHER HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN",
+    "participantCountries": "UK;BE;NO;ES;CH",
+    "projectParticipants": {
+        "999976105": {
+            "orgId": "999976105",
+            "orgName": "UNIVERSITE DE LIEGE",
+            "ecContrib": 329375
+        },
+        "998291506": {
+            "orgId": "998291506",
+            "orgName": "ZURCHER HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN",
+            "ecContrib": 0
+        },
+        "995915976": {
+            "orgId": "995915976",
+            "orgName": "SIMULA RESEARCH LABORATORY AS",
+            "ecContrib": 192625
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 354480
+        },
+        "999929448": {
+            "orgId": "999929448",
+            "orgName": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ABERDEEN",
+            "ecContrib": 437500
+        },
+        "999805579": {
+            "orgId": "999805579",
+            "orgName": "ALCATEL LUCENT TELECOM LIMITED",
+            "ecContrib": 315145
+        }
+    },
+    "calculatedTotalContribution": 1629125
+}

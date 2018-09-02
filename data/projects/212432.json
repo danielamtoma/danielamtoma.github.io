@@ -1,0 +1,48 @@
+{
+    "rcn": "212432",
+    "acronym": "GOEASY",
+    "topics": "GALILEO-2-2017",
+    "title": "GalileO-based trustEd Applications for health and SustainabilitY",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2020",
+    "objective": "GNSS user technology is now widely available in mass market devices including personal devices, connected vehicles, Internet of Things (IoT) objects, etc. The widespread availability of GNSS receivers, joint with ubiquitous communication capabilities of devices and the ability of cloud-based ICT platforms to federate with each other through open standards and APIs, is enabling a new generation of Location Based Services (LBS) able to support highly-scalable pervasive applications where large number of geographically-distributed users are engaged e.g. in immersive games and commercial services. While GNSS proves to be able to support such applications successfully, a major drawback prevents such approach to be used in more serious (and potentially highly rewarding) mass market applications i.e. the lack of authentication features, resulting in high difficulties in preventing users from spoofing position information to gain advantages or damage other users.\nGOEASY will leverage unique Galileo features such as increased trust and improved availability, joint with interoperability with existing Internet of Things (IoT) infrastructures to enable more secure and privacy-savvy mass-market applications of LBS.\nGOESY will be evaluated by means of two concrete use cases, namely the ApesMobility and the AsthmaWatch, both evaluated engaging real users in a medium-scale pilot in Torino (Italy) and Stockholm (Sweden).",
+    "totalCost": "2967598,75",
+    "ecMaxContribution": "2507323,75",
+    "coordinator": "Istituto Superiore Mario Boella",
+    "coordinatorCountry": "IT",
+    "participants": "GREENAPES SRL;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;COMUNE DI TORINO;MUNDO READER SL;CNET SVENSKA AB",
+    "participantCountries": "IT;DE;ES;SE",
+    "projectParticipants": {
+        "986538792": {
+            "orgId": "986538792",
+            "orgName": "COMUNE DI TORINO",
+            "ecContrib": 137000
+        },
+        "945951179": {
+            "orgId": "945951179",
+            "orgName": "MUNDO READER SL",
+            "ecContrib": 332500
+        },
+        "999599357": {
+            "orgId": "999599357",
+            "orgName": "ISTITUTO SUPERIORE MARIO BOELLA SULLE TECNOLOGIE DELL'INFORMAZIONE E DELLE  TELECOMUNICAZIONI ASSOCIAZIONE",
+            "ecContrib": 0
+        },
+        "992554053": {
+            "orgId": "992554053",
+            "orgName": "CNET SVENSKA AB",
+            "ecContrib": 533881
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 661630
+        },
+        "938627679": {
+            "orgId": "938627679",
+            "orgName": "GREENAPES SRL",
+            "ecContrib": 207594
+        }
+    },
+    "calculatedTotalContribution": 1872605
+}

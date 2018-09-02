@@ -1,0 +1,63 @@
+{
+    "rcn": "213124",
+    "acronym": "MNEMOSENE",
+    "topics": "ICT-31-2017",
+    "title": "Computation-in-memory architecture based on resistive devices",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "The MNEMOSENE project aims at demonstrating a new computation-in-memory (CIM) based on resistive devices together with its required programming flow and interface. To develop the new architecture, the following scientific and technical objectives will be targeted:\n\nï Objective 1: Develop new algorithmic solutions for targeted applications for CIM architecture. \nï Objective 2: Develop and design new mapping methods integrated in a framework for efficient compilation of the new algorithms into CIM macro-level operations; each of these is mapped to a group of CIM tiles.\nï Objective 3: Develop a macro-architecture based on the integration of group of CIM tiles, including the overall scheduling of the macro-level operation, data accesses, inter-tile communication, the partitioning of the crossbar, etc.  \nï Objective 4: Develop and demonstrate the micro-architecture level of CIM tiles and their models, including primitive logic and arithmetic operators, the mapping of such operators on the crossbar, different circuit choices and the associated design trade-offs, etc.\nï Objective 5: Design a simulator (based on calibrated models of memristor devices & building blocks) and FPGA emulator for the new architecture (CIM device combined with conventional CPU) in order demonstrate its superiority. Demonstrate the concept of CIM by performing measurements on fabricated crossbar mounted on a PCB board. \n\nA demonstrator will be produced and tested to show that the storage and processing can be integrated in the same physical location to improve energy efficiency and also to show that the proposed accelerator is able to achieve the following measurable targets (as compared with a general purpose multi-core platform) for the considered applications:\n\nï Improve the energy-delay product by factor of 100X to 1000X.\nï Improve the computational efficiency (#operations / total-energy) by factor of 10X to 100X.\nï Improve the performance density (# operations per area) by factor of 10X to 100X.",
+    "totalCost": "3998120",
+    "ecMaxContribution": "3998120",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;STICHTING IMEC NEDERLAND;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;IBM RESEARCH GMBH;INTELLIGENTSIA CONSULTANTS SARL;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;ARM LIMITED;TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "participantCountries": "FR;NL;DE;CH;LU;UK",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 645962
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 416750
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 423750
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 763636
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 334250
+        },
+        "999577144": {
+            "orgId": "999577144",
+            "orgName": "STICHTING IMEC NEDERLAND",
+            "ecContrib": 450750
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 239838
+        },
+        "999813824": {
+            "orgId": "999813824",
+            "orgName": "ARM LIMITED",
+            "ecContrib": 523184
+        },
+        "952669496": {
+            "orgId": "952669496",
+            "orgName": "INTELLIGENTSIA CONSULTANTS SARL",
+            "ecContrib": 200000
+        }
+    },
+    "calculatedTotalContribution": 3998120
+}

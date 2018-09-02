@@ -1,0 +1,63 @@
+{
+    "rcn": "194427",
+    "acronym": "Flex4Grid",
+    "topics": "LCE-07-2014",
+    "title": "Prosumer Flexibility Services for Smart Grid Management",
+    "startDate": "01/01/2015",
+    "endDate": "31/03/2018",
+    "objective": "The advent of distributed power sources, such as photovoltaics and windmill plants, gave rise to energy prosumers (producers-consumers), which generate and consume electrical energy. Energy demand and energy generation by prosumers are volatile and can impact the grid infrastructure and stakeholders, but they can be flexibly adapted to thwart those impacts.\nFlex4Grid aims at creating an open data and service framework that enables a novel concept of managing flexibility of prosumer demand and generation, utilising cloud computing for power grid management and, opening DSO infrastructure for aggregator services. The system will be built up from existing ICT components developed by the consortium partners over many years in research projects on IoT and Cloud computing. This high maturity allows Flex4Grid to aim for a system prototype of TRL 7 which guarantees a maximum impact and competitiveness in the area of the smart grid challenge.\nThe Flex4Grid system will include a) a data cloud service with anonymised interface and advanced security and privacy mechanisms for data exchange and service management, b) prosumer generation and demand flexibility, and c) a more viable business model to accelerate the deployment. The major innovations are a) opening the market for new entrants by secure and privacy enabling third party cloud data and energy management services, b) actionable common and multilevel data management and analytics services for Smart Grids, and c) the use of co-creation to bring end users into the value creation process.\nSystem validation will be carried out in real-world pilots in three live electricity networks with different scenarios ranging from deployment during smart meter rollout and retrofitting to large scale operation and federated demonstration of multi-site pilots.",
+    "totalCost": "3120203,09",
+    "ecMaxContribution": "2680253",
+    "coordinator": "Teknologian tutkimuskeskus VTT Oy",
+    "coordinatorCountry": "FI",
+    "participants": "INSTITUT JOZEF STEFAN;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;BOCHOLTER ENERGIE UND WASSERVERSORGUNG GMBH;SMART COM DOO INFORMACIJSKI IN KOMUNIKACIJSKI SISTEMI;ELEKTRO CELJE D.D.;SAE-AUTOMATION, S.R.O;ENERGIE- UND WASSERVERSORGUNG BONN/RHEIN-SIEG GMBH",
+    "participantCountries": "SI;DE;SK",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 787887
+        },
+        "999645044": {
+            "orgId": "999645044",
+            "orgName": "SAE-AUTOMATION, S.R.O",
+            "ecContrib": 167081
+        },
+        "952092346": {
+            "orgId": "952092346",
+            "orgName": "SMART COM DOO INFORMACIJSKI IN KOMUNIKACIJSKI SISTEMI",
+            "ecContrib": 276938
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 543454
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 322362
+        },
+        "999901706": {
+            "orgId": "999901706",
+            "orgName": "TEKNOLOGIAN TUTKIMUSKESKUS VTT",
+            "ecContrib": 0
+        },
+        "952503141": {
+            "orgId": "952503141",
+            "orgName": "ENERGIE- UND WASSERVERSORGUNG BONN/RHEIN-SIEG GMBH",
+            "ecContrib": 190356
+        },
+        "951819485": {
+            "orgId": "951819485",
+            "orgName": "ELEKTRO CELJE D.D.",
+            "ecContrib": 209344
+        },
+        "940413740": {
+            "orgId": "940413740",
+            "orgName": "BOCHOLTER ENERGIE UND WASSERVERSORGUNG GMBH",
+            "ecContrib": 182831
+        }
+    },
+    "calculatedTotalContribution": 2680253
+}

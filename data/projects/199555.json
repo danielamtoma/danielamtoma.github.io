@@ -1,0 +1,23 @@
+{
+    "rcn": "199555",
+    "acronym": "HBMAP",
+    "topics": "ERC-StG-2015",
+    "title": "Decoding, Mapping and Designing the Structural Complexity of Hydrogen-Bond Networks: from Water to Proteins to Polymers",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2021",
+    "objective": "Hydrogen bonds are ubiquitous and fundamental in nature, underpinning the behavior of systems as different as water, proteins and polymers. Much of this flexibility derives from their propensity to form complex topological networks, which can be strong enough to hold Kevlar together, or sufficiently labile to enable reversible structural transitions in allosteric proteins. \nSimulations must treat the quantum nature of both electrons and protons to describe accurately the microscopic structure of H-bonded materials, but this wealth of data does not necessarily translate into deep physical understanding. Even the structure of a compound as essential as water is still the subject of intense debate, despite extensive investigations. Identifying recurring bonding patterns is essential to comprehend and manipulate the structural and dynamical properties of H-bonded systems. \nOur objective is to develop and apply machine-learning techniques to atomistic simulations, and identify the design principles that govern the structure and properties of H-bonded compounds. Our strategy rests on three efforts: (1) recognition of recurring structural motifs with probabilistic data analysis; (2) coarse-grained mapping of the energetically accessible structural landscape by non-linear dimensionality reduction techniques; (3) acceleration of configuration sampling using these data-driven collective variables.\nIdentifying motifs and order parameters will be crucial to interpret simulations and experiments of growing complexity, and will enable computational design of H-bond networks. We will focus first on two objectives. (1) Rationalizing the structure of crystalline, amorphous and liquid water across its phase diagram, from ambient to astrophysical conditions, and its response to solutes, interfaces or confinement. (2) Enabling efficient simulation and structural design of polymers and proteins in non-biological contexts, targeting biomimetic materials and organic/inorganic interfaces.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

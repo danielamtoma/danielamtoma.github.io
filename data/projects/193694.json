@@ -1,0 +1,58 @@
+{
+    "rcn": "193694",
+    "acronym": "EUSTACE",
+    "topics": "EO-1-2014",
+    "title": "EU Surface Temperature for All Corners of Earth",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2018",
+    "objective": "EUSTACE utilises Europeís capacity for gathering space-borne observations of the skin temperature, of all components of Earthís surface, by extracting data relevant to providing estimates of surface air temperature, a primary Essential Climate Variable (ECV), conventionally measured at (often sparse) meteorological stations. EUSTACE will use measurements from operational and research satellites to enable estimates of surface air temperature to be made everywhere on Earth at higher spatial and temporal resolution than previously possible.\nThe surface air temperature ECV is so fundamental to understanding our climate, that this will innovatively enable Europe to address its key societal challenges.\nThe global coverage of space-borne observations of surface skin temperature will allow EUSTACE to estimate surface air temperature for parts of Earth that are not currently or historically observed by meteorological stations. EUSTACE will combine previous research experience, with the wealth of surface skin temperature retrievals now available, to produce estimates of surface air temperature over the whole of Earth, including the Poles. EUSTACE will then use these to develop new derived data products, i.e. globally complete analyses with estimates of associated uncertainties using new analysis methods developed within the project. \nThrough the engagement of appropriate ìtrail blazerî users, EUSTACE will enable integration or assimilation of the products into applications related to Earth system sciences, forecasting models and other user sectors.\nEUSTACE will develop an automated system for surface air temperature products that is capable of being sustained after its lifetime. All development work will be undertaken on the same IT platform and all code secured within a central code repository. The design of the EUSTACE system will also account for on-going availability of observations from existing sources and planned availability of information from next generation sensors.",
+    "totalCost": "2954918,75",
+    "ecMaxContribution": "2694968,75",
+    "coordinator": "MET OFFICE",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITY OF BATH;THE UNIVERSITY OF READING;DANMARKS METEOROLOGISKE INSTITUT;UNIVERSITAET BERN;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI;UNIVERSITY OF LEICESTER;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "UK;DK;CH;NL",
+    "projectParticipants": {
+        "999518944": {
+            "orgId": "999518944",
+            "orgName": "KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT-KNMI",
+            "ecContrib": 324748
+        },
+        "999984156": {
+            "orgId": "999984156",
+            "orgName": "THE UNIVERSITY OF READING",
+            "ecContrib": 381349
+        },
+        "999892685": {
+            "orgId": "999892685",
+            "orgName": "MET OFFICE",
+            "ecContrib": 905056
+        },
+        "999985514": {
+            "orgId": "999985514",
+            "orgName": "UNIVERSITY OF LEICESTER",
+            "ecContrib": 309139
+        },
+        "999842924": {
+            "orgId": "999842924",
+            "orgName": "UNIVERSITY OF BATH",
+            "ecContrib": 57837
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 214132
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 131309
+        },
+        "999509438": {
+            "orgId": "999509438",
+            "orgName": "DANMARKS METEOROLOGISKE INSTITUT",
+            "ecContrib": 371400
+        }
+    },
+    "calculatedTotalContribution": 2694970
+}

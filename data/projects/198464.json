@@ -1,0 +1,23 @@
+{
+    "rcn": "198464",
+    "acronym": "GRACE",
+    "topics": "ERC-ADG-2014",
+    "title": "Resource Bounded Graph Query Answering",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2020",
+    "objective": "When we search for a product, can we find, using a single query, top choices ranked by Google and at the same time, recommended by our friends connected on Facebook? Is such a query tractable on the social graph of Facebook, which has over 1.31 billion nodes and 170 billion links? Is it feasible to evaluate such a query if we have bounded resources such as time and computing facilities? These questions are challenging: they demand a departure from the traditional query evaluation paradigm and from the classical computational complexity theory, and call for new resource-constrained methodologies to query big graphs.\n\nThis project aims to tackle precisely these challenges, from fundamental problems to practical techniques, using radically new approaches. We will develop a graph pattern query language that allows us to, e.g., unify Web search (via keywords) and social search (via graph patterns), and express graph pattern association rules for social media marketing. We will revise the conventional complexity theory to characterize the tractability of queries on big data, and formalize parallel scalability with the increase of processors. We will also develop algorithmic foundations and resource-constrained techniques for querying big graphs, by 'making big data small'. When exact answers are beyond reach in big graphs, we will  develop data-driven and query-driven approximation schemes to strike a balance between the accuracy and cost. As a proof of the theory, we will develop GRACE, a system to answer graph pattern queries on big GRAphs within bounded resourCEs, based on the techniques developed. We envisage that the project will deliver methodological foundations and practical techniques for querying big graphs in general, and for improving search engines and social media marketing in particular. A breakthrough in this subject will advance several fields, including databases, theory of computation, parallel computation and social data analysis.",
+    "totalCost": "2171524",
+    "ecMaxContribution": "2171524",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 2171524
+        }
+    },
+    "calculatedTotalContribution": 2171524
+}

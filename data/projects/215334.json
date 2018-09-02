@@ -1,0 +1,17 @@
+{
+    "rcn": "215334",
+    "acronym": "FANC",
+    "topics": "MSCA-IF-2017",
+    "title": "A Faster Approach to Network Control",
+    "startDate": "01/01/2019",
+    "endDate": "31/12/2021",
+    "objective": "This project is about network control (NC) algorithms, a subclass of control algorithms that are used in scheduling, congestion control, or more generally, in resource allocation problems in networks. In the last years, NC algorithms have been designed at the same pace as new services were available (e.g. video streaming, VoIP). However, this is becoming increasingly difficult. The increasing complexity of data networks and the diversity of services offered are making NC algorithms slow and complicated to design, and as a result, less effective in practice. For instance, it can take months to develop a new NC algorithm. In this project, we aim to change the paradigm in which NC algorithms are designed. We want to move away from the current 'paper and pencil' approach and go towards a much faster method using software. In particular, we want to use recent breakthroughs in the areas of optimisation and networking to: (i) develop a new mathematical framework that abstracts previous solutions, and (ii) create a software package that allows us to use the framework in a simple and fast way (i.e. model NC problems and generate algorithms). That is, the software package will make possible to use the framework in a simple language, which will speed up the modelling of NC problems. This project is important because it will make possible to deliver future services on time while using network resources efficiently, but also because it connects solid theory developed in academia with real problems addressed by industry. During the last phase of the project, we will collaborate with an industry research lab (NEC) to exploit the project results.",
+    "totalCost": "248063,4",
+    "ecMaxContribution": "248063,4",
+    "coordinator": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

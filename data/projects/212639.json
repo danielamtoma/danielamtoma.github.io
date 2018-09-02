@@ -1,0 +1,23 @@
+{
+    "rcn": "212639",
+    "acronym": "ViMoAct",
+    "topics": "MSCA-IF-2016",
+    "title": "Modelling cortical information flow during visuomotor adaptation as active inference in the human brain",
+    "startDate": "01/11/2017",
+    "endDate": "02/05/2020",
+    "objective": "Recent research suggests that to control bodily movements the brain relies on Bayes-optimal predictive models that are updated by sensory prediction error. This assumption may be generalised within a new formal account of motor control as active (Bayesian) inference. Active inference explains motor control in terms of hierarchical Bayesian filtering or predictive coding, i.e., as belief updating and suppression of prediction error to optimise a hierarchical generative model in the brain; thereby the weighting of prediction errors by their predicted precision determines their relative impact on hierarchical inference. This novel proposal still lacks concrete empirical investigation. The proposed project will close this research gap by testing whether cortical information flow during manual actions, requiring visuomotor adaptation and cognitive control of attention, follows the principles of active inference. In two fMRI experiments and one MEG experiment, participants will move a photorealistic virtual hand model via an MR-compatible data glove to perform simple manual tracking tasks in a virtual reality environment. The precision of prediction errors at multiple levels of a previously established cortical motor control hierarchy will be experimentally manipulated via visuoproprioceptive conflicts (introduced by delayed visual movement feedback) and via attentional allocation ñ either stimulus-driven (via increased sensory noise) or endogenous (instructed) ñ to visual or proprioceptive movement feedback. Active inferenceís specific predictions about information flow between and within cortical areas will be tested with recently established dynamic causal modelling of the modelled hemodynamic (fMRI) or spectral (MEG) responses. Active inference appeals to a general free-energy principle of brain function; this contribution will thus promote interdisciplinary exchange of knowledge about self- and world-representation in the brain and will be of general public interest.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

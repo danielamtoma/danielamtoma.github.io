@@ -1,0 +1,23 @@
+{
+    "rcn": "213093",
+    "acronym": "MindsEyeBCI",
+    "topics": "ERC-2017-PoC",
+    "title": "Reading the mindís eye at 7 Tesla  - A fMRI-based communication brain-computer interface for severely motor-impaired patients",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2019",
+    "objective": "The Advanced ERC project ColumnarCodeCracking has pioneered ultra-high field fMRI at 7 Tesla for sub-millimeter neuroscience applications targeting cortical columns and cortical layers. One sub-project of the ERC project was to explore whether it is possible to build new brain computer interfaces (BCIs) exploiting the strong signal quality and higher resolution achievable at ultra-high magnetic fields. As part of our research (Emmerling et al., 2017, http://cordis.europa.eu/news/rcn/124885_en.html) we discovered that it is possible to reconstruct letter shapes from activity in early visual areas that are merely imagined by participants during 7 Tesla fMRI scanning. Importantly, we could demonstrate that imagined letter shapes can be decoded from single imagination events of about 10 seconds without the need to average across multiple repetitions. These observations stimulated the idea for this PoC application, namely to use letter imagery for the first time as a communication BCI. We also have tested deep learning auto-encoder networks as part of the analysis and observed that these tools substantially increase the robustness of letter reconstruction. The three major goals of this PoC are 1) to perform 7 Tesla fMRI experiments with healthy participants to evaluate whether decoding brain activity patterns during letter imagery can be performed robust enough to be used as a communication BCI for severely motor-impaired (locked-in) patients,  2) to develop a BCI/neurofeedback software performing all required advanced online analyses, and 3) evaluate whether showing the online decoded letter during imagery helps participants to fine-tune the resulting shape. While 7 Tesla fMRI is not yet widely available in clinical settings, we aim to prepare first tests of the developed prototype with locked-in patients.",
+    "totalCost": "148530",
+    "ecMaxContribution": "148530",
+    "coordinator": "UNIVERSITEIT MAASTRICHT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975911": {
+            "orgId": "999975911",
+            "orgName": "UNIVERSITEIT MAASTRICHT",
+            "ecContrib": 148530
+        }
+    },
+    "calculatedTotalContribution": 148530
+}

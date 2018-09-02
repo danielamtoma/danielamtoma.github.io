@@ -1,0 +1,93 @@
+{
+    "rcn": "207188",
+    "acronym": "KONFIDO",
+    "topics": "DS-03-2016",
+    "title": "KONFIDO - Secure and Trusted Paradigm for Interoperable eHealth Services",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "KONFIDO advances the state of the art of eHealth technology with respect to four key dimensions of digital security, namely: data preservation, data access and modification, data exchange, and interoperability and compliance. To address the challenges of secure storage and exchange of eHealth data, protection and control over personal data, and security of health related data gathered by mobile devices,  KONFIDO takes a holistic approach ñ i.e. one targeting all the architectural layers of an IT infrastructure, and specifically: storage, dissemination, processing, and presentation. KONFIDO  builds on and extends the results of a best of breed selection of successful projects, notably: epSOS, STORK, DECIPHER, EXPAND, and ANTILOPE. The approach will be implemented in a technological framework that relies on six technology pillars: 1) security extensions provided by main CPU vendors; 2) security solutions based on photonic technologies; 3) homomorphic encryption mechanisms; 4) customised STORK-compliant eID support;  5) customized extensions of selected SIEM solutions; and 6) disruptive logging and auditing mechanisms. The usability of the proposed solutions will be tested in a realistic setup, deployed on top of a federated cloud infrastructure, where data will be exchanged and services interoperate cross-border.  Experimental evidence will be collected, proving that KONFIDO solutions provide effective protection even against attacks by privileged software (e.g. the Operating System or the Hypervisor) or privileged users (e.g. the System Administrator or the Cloud Provider). Since i) it builds on results that were already widely accepted, and ii) it relies on a handful of complementary technologies (some of which are already at a high level of maturity), KONFIDO has a dramatic potential in terms of innovation in the field of coordinated care towards improved quality of healthcare solutions.",
+    "totalCost": "4992077,5",
+    "ecMaxContribution": "4992077,5",
+    "coordinator": "EXUS SOFTWARE LTD",
+    "coordinatorCountry": "UK",
+    "participants": "FONDAZIONE SANTOBOTO PAUSILIPON ONLUS;TIME.LEX;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;BIT4ID SRL;SUNDHED.DK IS;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;EULAMBIA ADVANCED TECHNOLOGIES MONOPROSOPI ETAIRIA PERIORISMENIS EFTHINIS;CONSORCI INSTITUT D'INVESTIGACIONS BIOMEDIQUES AUGUST PI I SUNYER;MEDCOM;AGENCIA DE QUALITAT I AVALUACIO SANITARIES DE CATALUNYA;FUNDACIO EURECAT;TELBIOS SRL;CONSORZIO INTERUNIVERSITARIO NAZIONALE PER L'INFORMATICA",
+    "participantCountries": "IT;BE;EL;UK;DK;FR;ES",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 320935
+        },
+        "999661437": {
+            "orgId": "999661437",
+            "orgName": "CONSORZIO INTERUNIVERSITARIO NAZIONALE PER L'INFORMATICA",
+            "ecContrib": 686312
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 414518
+        },
+        "940471552": {
+            "orgId": "940471552",
+            "orgName": "EULAMBIA ADVANCED TECHNOLOGIES MONOPROSOPI ETAIRIA PERIORISMENIS EFTHINIS",
+            "ecContrib": 423500
+        },
+        "928030235": {
+            "orgId": "928030235",
+            "orgName": "FUNDACIO EURECAT",
+            "ecContrib": 143062
+        },
+        "952567840": {
+            "orgId": "952567840",
+            "orgName": "EXUS SOFTWARE LTD",
+            "ecContrib": 642000
+        },
+        "929143116": {
+            "orgId": "929143116",
+            "orgName": "FONDAZIONE SANTOBOTO PAUSILIPON ONLUS",
+            "ecContrib": 141875
+        },
+        "991228063": {
+            "orgId": "991228063",
+            "orgName": "TIME.LEX",
+            "ecContrib": 271125
+        },
+        "961318404": {
+            "orgId": "961318404",
+            "orgName": "SUNDHED.DK IS",
+            "ecContrib": 296750
+        },
+        "991479293": {
+            "orgId": "991479293",
+            "orgName": "TELBIOS SRL",
+            "ecContrib": 377125
+        },
+        "999620018": {
+            "orgId": "999620018",
+            "orgName": "CONSORCI INSTITUT D'INVESTIGACIONS BIOMEDIQUES AUGUST PI I SUNYER",
+            "ecContrib": 109281
+        },
+        "949799169": {
+            "orgId": "949799169",
+            "orgName": "AGENCIA DE QUALITAT I AVALUACIO SANITARIES DE CATALUNYA",
+            "ecContrib": 94688
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 479531
+        },
+        "921196682": {
+            "orgId": "921196682",
+            "orgName": "BIT4ID SRL",
+            "ecContrib": 427938
+        },
+        "999652125": {
+            "orgId": "999652125",
+            "orgName": "MEDCOM",
+            "ecContrib": 163438
+        }
+    },
+    "calculatedTotalContribution": 4992078
+}

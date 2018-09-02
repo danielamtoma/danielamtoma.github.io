@@ -1,0 +1,48 @@
+{
+    "rcn": "206329",
+    "acronym": "GaNOMIC",
+    "topics": "COMPET-3-2016-b",
+    "title": "GaN in One Module Integrated Converter for EP systems",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "Satellite contractors are permanently looking for cost and performance improvements. This cascades to the PPU, a subsystem having a very high impact on the cost and performance of EP systems.\nHence, we propose to focus on the PPU ìheartî studying a disruptive power converter, with major innovations complementary to the incremental improvements, beyond the state of the art. We will demonstrate and combine in a synergistic way innovative technologies (such as GaN, digital control, adaptive filtering and embedded packaging), thus resulting in a radical breakthrough applicable to advanced EP architectures based on such PPU designs. The consortium plans to demonstrate the selected technologies by means of a 7.5 kW power converter to be tested in electrical propulsion existing test facilities, thus providing measurable validation, and specification definition, within the 2016 Phase 1 time frame.\nThis will lead to dramatic improvements in cost, mass and volume targeting part list reduction (by 3), converter efficiency (98%) and optimized thermal characteristics (200∞C), translating into system optimization and increased power requirements.\nBeing at the forefront of technological developments, the consortium members are able to anticipate emerging technologies and medium to long term performance requirements consistent with existing and planned space programs at national, commercial and ESA levels. GaNOMIC will constitute a solid technical basis for future Direct Drive configurations, and further down the line, to ìdistributedî configurations where the PPU can be eliminated altogether.\nIn addition to promoting and accelerating the development of breakthrough EP-related concepts, the consortium members have identified other markets, e.g. aeronautics and automotive, which could benefit from these innovating high performance power converter and related technologies under consideration.\nThe consortium is committed to continue this study in future calls of the SRC.",
+    "totalCost": "1604250",
+    "ecMaxContribution": "1544160",
+    "coordinator": "SAFRAN ELECTRONICS & DEFENSE",
+    "coordinatorCountry": "FR",
+    "participants": "SITAEL SPA;UNIVERSITE DE SHERBROOKE;UNIVERSITE LYON 1 CLAUDE BERNARD;SAFRAN SA;TECHNISCHE UNIVERSITAET BERLIN",
+    "participantCountries": "IT;CA;FR;DE",
+    "projectParticipants": {
+        "998083247": {
+            "orgId": "998083247",
+            "orgName": "UNIVERSITE DE SHERBROOKE",
+            "ecContrib": 47250
+        },
+        "999964659": {
+            "orgId": "999964659",
+            "orgName": "SAFRAN SA",
+            "ecContrib": 207635
+        },
+        "999902579": {
+            "orgId": "999902579",
+            "orgName": "UNIVERSITE LYON 1 CLAUDE BERNARD",
+            "ecContrib": 311650
+        },
+        "999954668": {
+            "orgId": "999954668",
+            "orgName": "SAFRAN ELECTRONICS & DEFENSE",
+            "ecContrib": 508000
+        },
+        "985510204": {
+            "orgId": "985510204",
+            "orgName": "SITAEL SPA",
+            "ecContrib": 119625
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 350000
+        }
+    },
+    "calculatedTotalContribution": 1544160
+}

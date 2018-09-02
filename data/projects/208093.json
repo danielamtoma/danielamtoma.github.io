@@ -1,0 +1,23 @@
+{
+    "rcn": "208093",
+    "acronym": "EPP",
+    "topics": "ERC-2016-STG",
+    "title": "Econometrics for Public Policy: Sampling, Estimation, Decision, and Applications",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2022",
+    "objective": "One of the ultimate goals of economics is to inform a policy that improves welfare. Despite that the vast amount of empirical works in economics aims to achieve this goal, the current state of the art in econometrics is silent about concrete recommendation for how to estimate the welfare maximizing policy. This project addresses statistically optimal and practically useful ways to learn the welfare-maximizing policy from data by developing novel econometric frameworks, sampling design, and estimation approaches that can be applied to a wide range of policy design problems in reality.\n\nDevelopment of econometric methods for optimal empirical policy design proceeds by answering the following open questions. First, given a sampling process, how do we define optimal estimation for the welfare-maximizing policy? Second, what estimation method achieves this statistical optimality? Third, how do we solve policy decision problem when the sampling process only set-identifies the social welfare criterion? Fourth, how can we integrate the sampling step and estimation step to develop a package of optimal sampling and optimal estimation procedures? \n\n\tI divide the project into the following four parts. Each part is motivated by important empirical applications and has methodological challenges related to these four questions. \n\n1) Estimation of treatment assignment policy\n\n2) Estimation of optimal policy in other public policy applications\n\n3) Policy design with set-identified social welfare\n\n4) Sampling design for empirical policy design",
+    "totalCost": "1291064",
+    "ecMaxContribution": "1291064",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 1291064
+        }
+    },
+    "calculatedTotalContribution": 1291064
+}

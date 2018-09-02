@@ -1,0 +1,43 @@
+{
+    "rcn": "193375",
+    "acronym": "ETC",
+    "topics": "MG-7.2a-2014",
+    "title": "The European Travellers Club: Account-Based Travelling across the European Union",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "'The European Travellers Club is a programme by and for European transport ticketing schemes or operators, travellers organizations and technology providers to create seamless account-based traveling across the European Union. \n\nThe programme is traveller-centric, meaning that the travelers will be in control of their preferences and privacy. While it includes innovative technological concepts, it is expressly designed to work with existing e-ticketing infrastructures in member states (Calypso, VDV, ITSO etc) as well as new possibilities (such as EMV-contactless, smart tokens etc). The 'eco-system' will be open for all potential suppliers through an open architecture with clear interfaces and standardized protocols. The architecture is such that it allows for a smooth integration with travel planning and booking tools, journey information and integration with other uses of e-identity, e-payment and e-ticketing.\n\nThe programme consists of: \n(1) the governance structure of the European Travellers Club and National or Regional Travellers Clubs that ensures interoperability and traveller-in-control privacy, while avoiding a suppliers lock-in.\n(2) the technological development of our solutions for secure and fast identification in transport, our authentication and routing functionality between schemes, our solutions for privacy using derived-identities and personal storage options, and our integration with smart phones, NFC mobile phones, and EMV-contactless.\n(3) the European Travellers Lab in which our member schemes can develop and test use cases, business rules, and interoperability across schemes and identifiers.\n(4) the standards and interfaces that allow members of one (national) Travellers Club to consult, through their own portal and in their own language, the travel planning and booking tools mediated through a Travellers Club in another country.\n'",
+    "totalCost": "4500000",
+    "ecMaxContribution": "4500000",
+    "coordinator": "STICHTING ACCEPT INSTITUTE",
+    "coordinatorCountry": "NL",
+    "participants": "VDV eTicket Service GMBH & CO. KG;TRANS LINK SYSTEMS BV;NXP SEMICONDUCTORS AUSTRIA GMBH;COMMUNAUTE DES TRANSPORTS;UL TS BV",
+    "participantCountries": "DE;NL;AT;LU",
+    "projectParticipants": {
+        "952328250": {
+            "orgId": "952328250",
+            "orgName": "UL TS BV",
+            "ecContrib": 457500
+        },
+        "954022064": {
+            "orgId": "954022064",
+            "orgName": "NXP SEMICONDUCTORS AUSTRIA GMBH",
+            "ecContrib": 0
+        },
+        "999688888": {
+            "orgId": "999688888",
+            "orgName": "VDV eTicket Service GMBH & CO. KG",
+            "ecContrib": 680000
+        },
+        "950561686": {
+            "orgId": "950561686",
+            "orgName": "COMMUNAUTE DES TRANSPORTS",
+            "ecContrib": 165000
+        },
+        "936766637": {
+            "orgId": "936766637",
+            "orgName": "TRANS LINK SYSTEMS BV",
+            "ecContrib": 630000
+        }
+    },
+    "calculatedTotalContribution": 1932500
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "200563",
+    "acronym": "COPTRA",
+    "topics": "Sesar-09-2015",
+    "title": "COmbining Probable TRAjectories",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "SESAR implementation will result in an environment using extensive and intensive planning to address complexity imbalances and reduce potential conflicts. Accurate planning requires quantifying forecast accuracy at all planning horizons with the main challenge of combining trajectories with different levels of accuracy.A quality indicator giving the forecast accuracy could enhance the situation: It has to combine uncertainties associated to traffic predictions and to trajectory predictions composing traffic.\nCOPTRA aims to propose, in a TBO, an efficient method to build probabilistic traffic forecasts on the basis of flight trajectory predictions. Its main objective is: Using the improvements brought to Trajectory Prediction by the future TBO environment; bring measurable improvements to Traffic Prediction in ATC Planning, specifically to the prediction of occupancy counts.\nCOPTRA objective is refined in 3 sub-objectives corresponding to its research work packages:\n1. Define the concept of probabilistic trajectory and its prediction (WP2).\n2. Using the definition of probabilistic trajectory, define the concept of probabilistic traffic situation and study how probabilistic traffic situations can be built by combining probabilistic trajectories (WP3).\n3. Apply probabilistic traffic situations to ATC planning (WP4).\nThe management work packages encompass project management (WP1), results dissemination (WP5) and project conclusion (WP6).\nTo achieve its objectives, COPTRA brings together inter-disciplinary competencies where the partners are leading their respective area:\nï BR&T-E and ITU are experts in trajectory prediction, including the important aspect of prediction uncertainty,\nï UCLouvain ICTEAM has a proven track in using advanced methods and techniques to address optimal control problems on modern dynamical systems.\nï In addition to CRIDAís proven track in managing research projects, CRIDA and EUROCONTROL bring their expertise in ATC",
+    "totalCost": "1280818,75",
+    "ecMaxContribution": "999391,25",
+    "coordinator": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+    "coordinatorCountry": "ES",
+    "participants": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;UNIVERSITE CATHOLIQUE DE LOUVAIN;ISTANBUL TEKNIK UNIVERSITESI;BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.",
+    "participantCountries": "BE;TR;ES",
+    "projectParticipants": {
+        "999866592": {
+            "orgId": "999866592",
+            "orgName": "ISTANBUL TEKNIK UNIVERSITESI",
+            "ecContrib": 268750
+        },
+        "999648730": {
+            "orgId": "999648730",
+            "orgName": "BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.",
+            "ecContrib": 236166
+        },
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 269250
+        },
+        "997605619": {
+            "orgId": "997605619",
+            "orgName": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+            "ecContrib": 225225
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 999391
+}

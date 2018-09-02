@@ -1,0 +1,88 @@
+{
+    "rcn": "206356",
+    "acronym": "Bonseyes",
+    "topics": "ICT-01-2016",
+    "title": "Platform for Open Development of Systems of Artificial Intelligence",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "The Bonseyes project aims to develop a platform consisting of a Data Marketplace, Deep Learning Toolbox, and Developer Reference Platforms for organizations wanting to adopt Artificial Intelligence in low power IoT devices (ìedge computingî), embedded computing systems, or data center servers (ìcloud computingî). It will bring about orders of magnitude improvements in efficiency, performance, reliability, security, and productivity in the design and programming of Systems of Artificial Intelligence that incorporate Smart Cyber Physical Systems while solving a chicken-egg problem for organizations who lack access to Data and Models. Itís open software architecture will facilitate adoption of the whole concept on a wider scale. \n\nIt aims to address one of the most significant trends in the Internet of Things which is the shifting balance between edge computing and cloud computing. The early days of the IoT have been characterized by the critical role of cloud platforms as application enablers. Intelligent systems have largely relied on the cloud level for their intelligence, and the actual devices of which they consist have been relatively unsophisticated. This old premise is currently being shaken up, as the computing capabilities on the edge level advance faster than those of the cloud level. This paradigm shiftófrom the connected device paradigm to the intelligent device paradigm opens up numerous opportunities.\n\nTo evaluate the effectiveness, technical feasibility, and to quantify the real-world improvements in efficiency, security, performance, effort and cost of adding AI to products and services using the Bonseyes platform, four complementary demonstrators will be built: Automotive Intelligent Safety, Automotive Cognitive Computing, Consumer Emotional Virtual Agent, and Healthcare Patient Monitoring. Bonseyes platform capabilities are aimed at being aligned with the European FI-PPP activities and take advantage of its flagship project FIWARE.",
+    "totalCost": "8593952,5",
+    "ecMaxContribution": "5018025",
+    "coordinator": "NVISO SA",
+    "coordinatorCountry": "CH",
+    "participants": "SCIPROM S‡rl;THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN;FACHHOCHSCHULE NORDWESTSCHWEIZ;SYNYO GmbH;ISTRAZIVACKO-RAZVOJNI INSTITUT RT-RK DOO ZA SISTEME ZASNOVANE NA RACUNARIMA NOVI SAD;BLEKINGE TEKNISKA HOGSKOLA;ARM LIMITED;UNIVERSIDAD DE CASTILLA - LA MANCHA;KLINIKUM RECHTS DER ISAR DER TECHNISCHEN UNIVERSITAT MUNCHEN;ZF FRIEDRICHSHAFEN AG;HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "CH;IE;AT;RS;SE;UK;ES;DE;EL",
+    "projectParticipants": {
+        "999748834": {
+            "orgId": "999748834",
+            "orgName": "SCIPROM Sàrl",
+            "ecContrib": 0
+        },
+        "989911773": {
+            "orgId": "989911773",
+            "orgName": "ISTRAZIVACKO-RAZVOJNI INSTITUT RT-RK DOO ZA SISTEME ZASNOVANE NA RACUNARIMA NOVI SAD",
+            "ecContrib": 862500
+        },
+        "999589172": {
+            "orgId": "999589172",
+            "orgName": "BLEKINGE TEKNISKA HOGSKOLA",
+            "ecContrib": 393790
+        },
+        "999856310": {
+            "orgId": "999856310",
+            "orgName": "FACHHOCHSCHULE NORDWESTSCHWEIZ",
+            "ecContrib": 0
+        },
+        "999479659": {
+            "orgId": "999479659",
+            "orgName": "HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE",
+            "ecContrib": 0
+        },
+        "941251432": {
+            "orgId": "941251432",
+            "orgName": "NVISO SA",
+            "ecContrib": 0
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 680876
+        },
+        "999845446": {
+            "orgId": "999845446",
+            "orgName": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+            "ecContrib": 608800
+        },
+        "999875710": {
+            "orgId": "999875710",
+            "orgName": "KLINIKUM RECHTS DER ISAR DER TECHNISCHEN UNIVERSITAT MUNCHEN",
+            "ecContrib": 310125
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 404250
+        },
+        "969470478": {
+            "orgId": "969470478",
+            "orgName": "SYNYO GmbH",
+            "ecContrib": 280809
+        },
+        "999840208": {
+            "orgId": "999840208",
+            "orgName": "UNIVERSIDAD DE CASTILLA - LA MANCHA",
+            "ecContrib": 296250
+        },
+        "989177871": {
+            "orgId": "989177871",
+            "orgName": "ZF FRIEDRICHSHAFEN AG",
+            "ecContrib": 365625
+        },
+        "999813824": {
+            "orgId": "999813824",
+            "orgName": "ARM LIMITED",
+            "ecContrib": 815000
+        }
+    },
+    "calculatedTotalContribution": 5018025
+}

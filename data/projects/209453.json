@@ -1,0 +1,133 @@
+{
+    "rcn": "209453",
+    "acronym": "RADAR-CNS",
+    "topics": "IMI2-2015-03-01",
+    "title": "Remote Assessment of Disease and Relapse in Central Nervous System Disorders",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "Background: Long term conditions require monitoring of patients, traditionally conducted in the clinic, to monitor treatment effects, adverse events and disease course. This can be inefficient and cumbersome ñ clinic visits may be too infrequent to identify individuals at risk of significant changes in disease state (e.g. relapse) and place unnecessary burden on patients and providers.\n\nSmartphone and wearable technologies have led to an exponential growth in the amount of information which can be collected on patients unobtrusively and at low cost. Sensors collect data passively, and active monitoring, using experience sampling, provides information on multiple parameters. Such technologies could monitor long term outcomes of patients, at scale, and provide fine-grained information on outcomes, available in real time and at low-cost, enabling services to offer more responsive and efficient care.  \n\nWhilst there is growing interest in the application of RMT in health, the field is in its infancy. The private-public partnership fostered by IMI2 is an ideal way to overcome the inherent challenges of this field.\n\nOur ultimate goal is to improve patient outcomes through remote assessment. To achieve this we will create a pipeline for developing, testing and implementing RMT in depression, multiple sclerosis and epilepsy. The pipeline will include a data management and modelling infrastructure applicable to other disorders and with the flexibility of design to be future-proofed against further technological innovation. We will provide data on implementation barriers and facilitators gleaned from patients, clinicians, regulator and payers which will optimise the pathways for regulatory approval and uptake. \n\nProgram of Work: In order to test the feasibility and predictive power of RMT four main components are required: (1) Excellent project oversight, management, and a dissemination and exploitation strategy; (2) an end-to-end technological platform with advanced real-time analytics capability; (3) well characterised clinical cohorts of diseases under study; and (4) a pathway to implementation.  \n\nOur consortium will address each of these areas in 11 workpackages grouped in 4 clusters. \n\nOversight, management and dissemination cluster provides the infrastructure to ensure the project succeeds and maximises impacts.\nWP1: Consortium Management and Governance will be ensure contractual duties are carried out, ensure consortium members abide by good practice of resource management and set up an effective communication infrastructure. \nWP11: Dissemination, Exploitation and Communication will raise public and scientific awareness of RADAR-CNS by facilitating networking and communication both to the scientific community and the public.  We will manage the processes for the capture and the protection of intellectual property and ensure efficient exploitation of project results to achieve maximum benefit for scientists, industry and European society.\n\nTechnological platforms cluster provides the technical expertise to develop an end-to-end platform for data acquisition, aggregation and analysis.\nWP7: Devices and Platform will develop a generalizable aggregation capability of participant data from multiple classes of devices. We will ensure enhanced modularity and adaptability as new sensors become available to the project, ensuring the platform is future-proofed and generalisable.  We will make data available for other applications in the smartphone in order to provide patient feedback and develop server-side infrastructure that will enable data ingestion from user devices, data quality assurance features to provide reports about the successful transmission of sensor and trial data. \n\nWP8: Data Integration, Analysis and Biosignatures will advance the analysis methodology that can be applied to remote monitoring technology to understand disease and predict relapse, including tools for evaluating performance improvements; pa",
+    "totalCost": "25615861",
+    "ecMaxContribution": "11000000",
+    "coordinator": "KING'S COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "REGION HOVEDSTADEN;STICHTING IMEC NEDERLAND;UNIVERSITA' DEGLI STUDI DI BERGAMO;UCB Biopharma SPRL;STICHTING LYGATURE;SOFTWARE AG;NORTHWESTERN UNIVERSITY;PROVINCIA LOMBARDO VENETA - ORDINEOSPEDALIERO DI SAN GIOVANNI DI DIO- FATEBENEFRATELLI;MSD IT Global Innovation Center s.r.o.;STICHTING VUMC;GABO:MI GESELLSCHAFT FUR ABLAUFORGANISATION:MILLIARIUM MBH & CO KG;H. LUNDBECK AS;Biogen Idec Limited;CHARITE - UNIVERSITAETSMEDIZIN BERLIN;THE UNIVERSITY OF NOTTINGHAM;INTEL CORPORATION (UK) LIMITED;UNIVERSITAETSKLINIKUM FREIBURG;KATHOLIEKE UNIVERSITEIT LEUVEN;FUNDACIO HOSPITAL UNIVERSITARI VALL D'HEBRON - INSTITUT DE RECERCA;UNIVERSITAT PASSAU;CENTRO DE INVESTIGACION BIOMEDICA EN RED;JANSSEN PHARMACEUTICA NV;Universit‡ Vita-Salute San Raffaele",
+    "participantCountries": "DK;NL;IT;BE;DE;US;CZ;UK;ES",
+    "projectParticipants": {
+        "999913249": {
+            "orgId": "999913249",
+            "orgName": "H. LUNDBECK AS",
+            "ecContrib": 0
+        },
+        "999541642": {
+            "orgId": "999541642",
+            "orgName": "FUNDACIO HOSPITAL UNIVERSITARI VALL D'HEBRON - INSTITUT DE RECERCA",
+            "ecContrib": 437235
+        },
+        "989707782": {
+            "orgId": "989707782",
+            "orgName": "SOFTWARE AG",
+            "ecContrib": 0
+        },
+        "937666409": {
+            "orgId": "937666409",
+            "orgName": "UCB Biopharma SPRL",
+            "ecContrib": 0
+        },
+        "999615168": {
+            "orgId": "999615168",
+            "orgName": "PROVINCIA LOMBARDO VENETA - ORDINEOSPEDALIERO DI SAN GIOVANNI DI DIO- FATEBENEFRATELLI",
+            "ecContrib": 180000
+        },
+        "919322739": {
+            "orgId": "919322739",
+            "orgName": "STICHTING VUMC",
+            "ecContrib": 585000
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 642500
+        },
+        "997154957": {
+            "orgId": "997154957",
+            "orgName": "CONSORCIO CENTRO DE INVESTIGACION BIOMEDICA EN RED M.P.",
+            "ecContrib": 0
+        },
+        "999881918": {
+            "orgId": "999881918",
+            "orgName": "UNIVERSITAETSKLINIKUM FREIBURG",
+            "ecContrib": 825000
+        },
+        "999878523": {
+            "orgId": "999878523",
+            "orgName": "UNIVERSITAT PASSAU",
+            "ecContrib": 550000
+        },
+        "999595380": {
+            "orgId": "999595380",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI BERGAMO",
+            "ecContrib": 125000
+        },
+        "999854467": {
+            "orgId": "999854467",
+            "orgName": "Università Vita-Salute San Raffaele",
+            "ecContrib": 487250
+        },
+        "999627778": {
+            "orgId": "999627778",
+            "orgName": "NORTHWESTERN UNIVERSITY",
+            "ecContrib": 0
+        },
+        "997656350": {
+            "orgId": "997656350",
+            "orgName": "STICHTING LYGATURE",
+            "ecContrib": 1333462
+        },
+        "923036384": {
+            "orgId": "923036384",
+            "orgName": "MSD IT Global Innovation Center s.r.o.",
+            "ecContrib": 0
+        },
+        "999577144": {
+            "orgId": "999577144",
+            "orgName": "STICHTING IMEC NEDERLAND",
+            "ecContrib": 111000
+        },
+        "999992692": {
+            "orgId": "999992692",
+            "orgName": "CHARITE - UNIVERSITAETSMEDIZIN BERLIN",
+            "ecContrib": 62500
+        },
+        "951261638": {
+            "orgId": "951261638",
+            "orgName": "Biogen Idec Limited",
+            "ecContrib": 0
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 506000
+        },
+        "999654744": {
+            "orgId": "999654744",
+            "orgName": "REGION HOVEDSTADEN",
+            "ecContrib": 430000
+        },
+        "999753005": {
+            "orgId": "999753005",
+            "orgName": "GABO:MI GESELLSCHAFT FUR ABLAUFORGANISATION:MILLIARIUM MBH & CO KG",
+            "ecContrib": 23076
+        },
+        "951446229": {
+            "orgId": "951446229",
+            "orgName": "INTEL CORPORATION (UK) LIMITED",
+            "ecContrib": 0
+        },
+        "999981052": {
+            "orgId": "999981052",
+            "orgName": "KING'S COLLEGE LONDON",
+            "ecContrib": 4026996
+        }
+    },
+    "calculatedTotalContribution": 10325019
+}

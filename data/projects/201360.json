@@ -1,0 +1,23 @@
+{
+    "rcn": "201360",
+    "acronym": "QUINTESSENS",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "QUantum INTErface between Superconducting circuits and Spin ENSemble",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "The ever shrinking size of field effect transistors for digital electronics has now reached a boundary where fluctuations in the position of a single dopant can have a significant influence on the performance of the transistor and quantum effects cannot be neglected any more.  These two effects therefore represent a size limit, preventing the microelectronics industry from further downscaling and performance increase of MOSFET transistors. This calls for a breakthrough. Rather than being a drawback one can take advantage of quantum and dopant effects to build a quantum analogue of the classical electronics. \n\nTo build this Quantum Electronics one would need basic quantum elements: good quantum memory, quantum bus, quantum processor, and of course and efficient interface between these elements. Superconducting circuits have already been shown to be efficient as quantum bus or quantum processor, but can only hold quantum information for tens of microseconds. \n\nIn this project I propose to build a long lasting quantum memory and interface it, quantum coherently and efficiently, to a superconducting quantum bus. I will use an ensemble of spins of bismuth dopants implanted in silicon as a quantum memory. Bismuth spins have been recently proven to be able to hold quantum information over several seconds when immersed in a small magnetic field, bringing them to a so-called clock transition. I will interface this good quantum memory with superconducting circuits, bringing together a good quantum memory with a quantum bus and processor. Building this unit in silicon, I will benefit from tremendous material development made by the microelectronic industry over the past 50 years.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

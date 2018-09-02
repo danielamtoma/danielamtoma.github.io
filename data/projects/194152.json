@@ -1,0 +1,63 @@
+{
+    "rcn": "194152",
+    "acronym": "LOMID",
+    "topics": "ICT-03-2014",
+    "title": "LOMID - Large cost-effective OLED microdisplays and their applications",
+    "startDate": "01/01/2015",
+    "endDate": "30/06/2018",
+    "objective": "The LOMID project will define pathways to the manufacture of flexible OLED microdisplays with an exceptionally large area (16 mm x 20 mm, screen diagonal of 25.4 mm) at acceptably high yields (>65%). \n\nThis will be achieved by developing a robust silicon-based chip design allowing high pixel counts (1024x1280 (SXGA)) and high spatial resolution(pixel sizes of 10 µm x 10 µm corresponding to 2000 ppi). These display innovations will be coupled to a highly reliable manufacturing of the backplane. Cheap processes (e.g. based on 0.35 µm lithography) will be developed and special attention will be given to the interface between the top metal electrode of the CMOS backplane and the subsequent OLED layers. All these developments will be done on a 200 mm wafer scale. Along with this, a new testing procedure for quality control of the CMOS wafer (prior to OLED deposition) will be developed and promoted for standardisation. \n\nThe flexibility of the large area microdisplays will be achieved by wafer thinning to enable a bending radius of 45 mm. Along with the new functionality, the durability of the devices has to be guaranteed despite bending to be comparable to rigid devices. The project will address this by improving the OLED efficiency (e.g. operating lifetime > 15,000 hours) and by modifying the device encapsulation to both fulfil the necessary barrier requirements (WVTR < 10^-6 g/d m2) and to give sufficient mechanical protection.\nThe demand for and timeliness of these flexible, large area microdisplays is shown by the strong interest of industrial integrators to demonstrate the benefits of the innovative OLED microdisplays. Within the project, industrial integrators will validate the projectís microdisplays in smart glasses for virtual reality and to aid those with impaired vision.",
+    "totalCost": "4100673,88",
+    "ecMaxContribution": "3993453",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;UNIVERSITAET LEIPZIG;MICROOLED SARL;X-FAB Dresden GmbH & Co. KG;SLYDE WATCH;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;LIMBAK 4PI SL;AMANUENSIS GMBH",
+    "participantCountries": "FR;DE;CH;UK;ES",
+    "projectParticipants": {
+        "942566170": {
+            "orgId": "942566170",
+            "orgName": "SLYDE WATCH",
+            "ecContrib": 0
+        },
+        "945161308": {
+            "orgId": "945161308",
+            "orgName": "LIMBAK 4PI SL",
+            "ecContrib": 357125
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 813326
+        },
+        "995787936": {
+            "orgId": "995787936",
+            "orgName": "MICROOLED SARL",
+            "ecContrib": 824062
+        },
+        "967310482": {
+            "orgId": "967310482",
+            "orgName": "X-FAB Dresden GmbH & Co. KG",
+            "ecContrib": 739792
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 938964
+        },
+        "958676124": {
+            "orgId": "958676124",
+            "orgName": "AMANUENSIS GMBH",
+            "ecContrib": 0
+        },
+        "999854564": {
+            "orgId": "999854564",
+            "orgName": "UNIVERSITAET LEIPZIG",
+            "ecContrib": 146250
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 173934
+        }
+    },
+    "calculatedTotalContribution": 3993453
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "210127",
+    "acronym": "DrugComb",
+    "topics": "ERC-2016-STG",
+    "title": "Informatics approaches for the rational selection of personalized cancer drug combinations",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2022",
+    "objective": "Making cancer treatment more personalized and effective is one of the grand challenges in our health care system. However, many drugs have entered clinical trials but so far showed limited efficacy or induced rapid development of resistance. We critically need multi-targeted drug combinations, which shall selectively inhibit the cancer cells and block the emergence of drug resistance. This project will develop mathematical and computational tools to identify drug combinations that can be used to provide personalized and more effective therapeutic strategies that may prevent acquired resistance. Utilizing molecular profiling and pharmacological screening data from patient-derived leukaemia and ovarian cancer samples, I will develop model-based clustering methods for identification of patient subgroups that are differentially responsive to first-line chemotherapy. For patients resistant to chemotherapy, I will develop network modelling approaches to predict the most potential drug combinations by understanding the underlying drug target interactions. The drug combination prediction will be made for each patient and will be validated using a preclinical drug testing platform on patient samples. I will explore the drug combination screen data to identify significant synergy at the therapeutically relevant doses. The drug combination hits will be mapped into signalling networks to infer their mechanisms. Drug combinations with selective efficacy in individual patient samples or in sample subgroups will be further translated into in treatment options by clinical collaborators. This will lead to novel and personalized strategies to treat cancer patients.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "HELSINGIN YLIOPISTO",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

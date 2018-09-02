@@ -1,0 +1,23 @@
+{
+    "rcn": "209011",
+    "acronym": "INSPIRING-SNI",
+    "topics": "MSCA-IF-2016",
+    "title": "INvestigating SDN Programmability ImpRovING optical South- and North- bound Interfaces",
+    "startDate": "01/03/2018",
+    "endDate": "29/02/2020",
+    "objective": "Population needs for Internet connectivity rely on carrier networks currently challenged by the ever-increasing network complexity, traffic volume, and dynamicity. Software Defined Networking (SDN) has entered the networking scene as an enabling technology that brings programmability to the network by decoupling the forwarding data-plane actions from the logic control-plane decisions through application programming interfaces. However, the variety of controllers governing different network segments and interfaces for control and management endangers actual carrier-grade SDN deployments.\n\nINvestigating SDN Programmability ImpRovING optical South- and North- bound Interfaces (INSPIRING-SNI) aims to enhance programmability in SDN ecosystems addressing two critical aspects. First, INSPIRING-SNI will control, manage and operate technology diverse environments through the SouthBound Interface (SBI) relying on innovative industry-driven standardization initiatives such as OpenROADM and the expertise of Dr. Garrich in experimental SDN applications for optical networks. Second, INSPIRING-SNI will develop an optimization-as-a-service (OaaS) framework for dynamic optimisation of multilayer backbone/metro networks (IP over optical) jointly with metro/access segments via the NorthBound Interface (NBI), greatly widening Dr. Garrich's background and empowering his career perspectives. The OaaS framework will be based on the open-source network planning tool Net2Plan, developed within the host group, that is receiving a growing international attention and funding from industry and academia. INSPIRING-SNI will include a strategic inter-sectorial secondment at TID to experimentally validate the SBI and NBI proposals and to provide to the host and Dr. Garrich a realistic perspective on telecom operator needs and challenges.\n\nINSPIRING-SNI is in-line with an expression of interest of the host institution and EU Research and Innovation effort on ICT.",
+    "totalCost": "170121,6",
+    "ecMaxContribution": "170121,6",
+    "coordinator": "UNIVERSIDAD POLITECNICA DE CARTAGENA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999828859": {
+            "orgId": "999828859",
+            "orgName": "UNIVERSIDAD POLITECNICA DE CARTAGENA",
+            "ecContrib": 170122
+        }
+    },
+    "calculatedTotalContribution": 170122
+}

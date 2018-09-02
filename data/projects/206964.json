@@ -1,0 +1,23 @@
+{
+    "rcn": "206964",
+    "acronym": "Tesseract",
+    "topics": "ERC-2016-STG",
+    "title": "Best Curved Adapted Meshes for Space-Time Flow Simulations",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2022",
+    "objective": "The accuracy obtained in wind tunnel aerodynamic and aero-acoustic measurements is extremely demanding and it still challenges our current simulation technologies. It mainly challenges the capabilities of current mesh generation technologies used in flow simulations. The ground-breaking TESSERACT project addresses the challenge of studying how to generate computational meshes that enable the ability to obtain computer flow simulations that beat the predictive capabilities of the wind tunnel experiments for a fixed accuracy, cost, and time scale. These important challenges correspond to capabilities that have been considered essential to fulfil the European strategic goals of future transportation. The main objective is to generate optimal quality curved adapted meshes for space-time flow simulations by addressing the following ambitious and beyond the state of the art 4-dimensional meshing research objectives: curved geometry representation and approximation, mesh quality measures, adapted mesh resolution, and space-time flow simulation. This is a high risk project since it tackles meshing objectives in 4D while lower dimension versions of these issues have not yet been fully solved. However, providing the foundations and the methods to improve current space-time meshing algorithms will suppose a high gain in the field of computational and aerospace engineering. This is so since in the near future, it will be of major importance to conduct accurate, robust, and efficient parallel in space-time adapted flow simulations that exploit the computational power of the exascale super-computing facilities to come. To enhance the feasibility of the project, the scientific approach considers different novel approaches to reach the same objectives and therefore, bear in mind the high-risk / high-gain nature of this 4D meshing project.",
+    "totalCost": "1478135",
+    "ecMaxContribution": "1478135",
+    "coordinator": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 1478135
+        }
+    },
+    "calculatedTotalContribution": 1478135
+}

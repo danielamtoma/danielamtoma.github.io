@@ -1,0 +1,43 @@
+{
+    "rcn": "197128",
+    "acronym": "ULTRAQCL",
+    "topics": "FETOPEN-1-2014",
+    "title": "Ultrashort Pulse Generation from Terahertz Quantum Cascade Lasers",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "The generation of ultrafast and intense light pulses is an underpinning technology across the electromagnetic spectrum enabling the study of fundamental light-matter interactions, as well as industrial exploitation in a plethora of applications across the physical, chemical and biological sciences. A benchmark system for such studies is the modelocked Ti:Sapphire laser, which has grown from being a laboratory curiosity to an essential tool in a broad range of application sectors. Beyond Ti:Sapphire systems, there have been impressive developments in semiconductor based devices for pulse generation in the optical range. These benefit from low system costs and are an enabling technology in new application domains including high speed communications.\n\nHowever, in the terahertz (THz) frequency range, with its proven applications in imaging, metrology and non-destructive testing, a semiconductor based technology platform for intense and short pulse generation has yet to be realised. Ultrafast excitation of photoconductive switches or nonlinear crystals offer only low powers, low frequency modulation or broadband emission with little control of the spectral bandwidth.\n\nIn the ULTRAQCL project we will breakthrough this technological gap, using THz quantum cascade lasers (QCLs) as a foundational semiconductor device for generating intense and short THz pulses. QCLs are the only practical semiconductor system that offer gain at THz frequencies, hence making them suitable for pulse generation, with the ëbandstructure-by-designí nature of QCLs allowing the frequency, bandwidth and pulse width to be entirely engineered. We will demonstrate: the first self-starting (passive) mode-locked THz QCL; the first hybrid modelocked THz QCL; the first gain-switched modelocked QCL; and, the first pulse generation in QCLs with on-chip dispersion compensation. The ULTRAQCL project will implement these radical schemes for pulse generation enabling ultrafast QCLs to become a ubiquitous technology for the THz range.",
+    "totalCost": "2798445",
+    "ecMaxContribution": "2798445",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITAET REGENSBURG;UNIVERSITE PARIS-SUD;UNIVERSITY OF LEEDS;CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "participantCountries": "DE;FR;UK;IT",
+    "projectParticipants": {
+        "999975426": {
+            "orgId": "999975426",
+            "orgName": "UNIVERSITY OF LEEDS",
+            "ecContrib": 742319
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 630155
+        },
+        "999907235": {
+            "orgId": "999907235",
+            "orgName": "UNIVERSITE PARIS-SUD",
+            "ecContrib": 341139
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 620538
+        },
+        "999868629": {
+            "orgId": "999868629",
+            "orgName": "UNIVERSITAET REGENSBURG",
+            "ecContrib": 464295
+        }
+    },
+    "calculatedTotalContribution": 2798446
+}

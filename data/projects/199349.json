@@ -1,0 +1,33 @@
+{
+    "rcn": "199349",
+    "acronym": "SimCoDeQ",
+    "topics": "JTI-CS2-2014-CFP01-AIR-02-06",
+    "title": "Simulation tool development for a composite manufacturing process default prediction integrated into a quality control system",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Resin Transfer Moulding (RTM) involves moderate pressure resin injection of a dry preform placed in sealed rigid tooling. Fast and effective processing requires correct placement of the reinforcement to avoid defects and potential race tracking, appropriate selection of inlet and outlet locations, and careful control of flow speeds to minimise porosity and dry regions; furthermore, suitable cure conditions are needed to avoid under-cure, or exothermic effects that generate excessive residual stresses and final part distortions. Today, finite element simulation is regularly used to design injection processes and cure. However, purely predictive simulation suffers from issues related to uncertainty and variability in material state and numerous process variables. Online monitoring of resin flow in tests and stochastic simulations to understand effects of material and model variability on flow processes could be two methods to enhance fidelity of numerical simulation models.\n\nThe proposed project integrates three approaches to provide a unified integrated simulation tool combining predictive modelling, variability propagation and process monitoring. Input utilises material data and models to be developed with physical resin sensor results, from which process outcomes, conditional on material and process variables, are determined. The proposed work develops this concept for the three stages of RTM processing; namely, preforming, injection and cure. The overall concept will be implemented on a pilot RTM line and then transferred to the Topic Managerís manufacturing site, where it will be used for trials.\n\nThe project combines two universities with specialist knowledge in fabric mechanical and permeability modelling, resin test and modelling and numerical simulation of RTM processes and final part distortion. One industrial partner collaborates on industrial RTM and flow monitoring.",
+    "totalCost": "694088,75",
+    "ecMaxContribution": "694088,5",
+    "coordinator": "UNIVERSITAET STUTTGART",
+    "coordinatorCountry": "DE",
+    "participants": "CRANFIELD UNIVERSITY;TWI LIMITED",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 274001
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 209402
+        },
+        "999912764": {
+            "orgId": "999912764",
+            "orgName": "TWI LIMITED",
+            "ecContrib": 210685
+        }
+    },
+    "calculatedTotalContribution": 694088
+}

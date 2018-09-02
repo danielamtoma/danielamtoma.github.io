@@ -1,0 +1,58 @@
+{
+    "rcn": "193922",
+    "acronym": "CaFE",
+    "topics": "MSCA-ITN-2014-ETN",
+    "title": "Development and experimental validation of computational models for cavitating flows, surface erosion damage and material loss",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "Cavitation, described as the formation of vapour/gas bubbles of a flowing liquid in a region where the pressure of the liquid falls below its vapour pressure, often leads to vibration and damage of mechanical components, for example, bearings, fuel injectors, valves, propellers and rudders, impellers, pumps and hydro turbines. Cavitation erosion when experienced, normally leads to significant additional repair and maintenance costs or component replacement.  Even if erosion problems can be avoided by design or operation, most often the performance of the systems is sub-optimal because countermeasures by design are needed to prevent cavitation problems. Despite the long-lasting problems associated with cavitation, computational models that could simulate cavitation and identify locations of erosion are still not thoroughly developed. The proposed interdisciplinary training and research programme aims to provide new experimental data and an open-source simulation tool for hydrodynamic cavitation and induced erosion. Insight into the detailed bubble collapse mechanism leading to surface erosion will be realised through DNS simulations, which are now feasible by the significant progress in fluid flow computational methods and parallel simulations. Information from such models will be implemented as sub-grid scale models of URANS and LES approaches, typically employed for cavitation simulation at engineering scales. Model validation will be performed against new advanced X-ray, laser diagnostics and high speed imaging measurements to be performed as part of this project. Application of the developed models to cases of industrial interest includes fuel injectors, marine propellers, hydro-turbines, pumps and mechanical heart valves. From this understanding the development of methodologies for design of cavitation-free or remedial measures and operation of devices suffering from cavitation erosion can then be established for the benefit of the relevant communities.",
+    "totalCost": "3939999,12",
+    "ecMaxContribution": "3939999,12",
+    "coordinator": "CITY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "INSTITUT POLYTECHNIQUE DE GRENOBLE;TECHNISCHE UNIVERSITAET MUENCHEN;WAERTSILA NETHERLANDS B.V.;AVL LIST GMBH;Delphi Diesel Systems LTD;TECHNISCHE UNIVERSITEIT DELFT;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "FR;DE;NL;AT;UK;SE",
+    "projectParticipants": {
+        "999842730": {
+            "orgId": "999842730",
+            "orgName": "CITY UNIVERSITY OF LONDON",
+            "ecContrib": 1093152
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 255934
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 527319
+        },
+        "991163946": {
+            "orgId": "991163946",
+            "orgName": "Delphi Diesel Systems LTD",
+            "ecContrib": 273288
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 510749
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 498433
+        },
+        "986320154": {
+            "orgId": "986320154",
+            "orgName": "WAERTSILA NETHERLANDS B.V.",
+            "ecContrib": 255374
+        },
+        "999875225": {
+            "orgId": "999875225",
+            "orgName": "INSTITUT POLYTECHNIQUE DE GRENOBLE",
+            "ecContrib": 525751
+        }
+    },
+    "calculatedTotalContribution": 3940000
+}

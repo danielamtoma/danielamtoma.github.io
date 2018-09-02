@@ -1,0 +1,33 @@
+{
+    "rcn": "213192",
+    "acronym": "GATEMAN",
+    "topics": "SESAR-ER3-05-2016",
+    "title": "GNSS NAVIGATION THREATS MANAGEMENT",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2019",
+    "objective": "GNSS will become the primary means of navigation in the mid and long term. However, GNSS signals are vulnerable to threats, specially to jamming and spoofing, which may cause the total loss of navigation, and hence the management of those threaths is a safety must.\n\nThis project will research multiple measures that could be deployed on most aircrafts to enable the management of those threats, either on their own or in a collaborative fashion with other aircrafts.\n\nThe measures to be researched will cover the threats detection, localisation and mitigation, the latter either to keep the GNSS-based navigation operative or to revert to an alternate PNT technology based on 5G cellular stations networks.",
+    "totalCost": "565743,75",
+    "ecMaxContribution": "565743,75",
+    "coordinator": "GMV AEROSPACE AND DEFENCE SA",
+    "coordinatorCountry": "ES",
+    "participants": "TTY-SAATIO;Istituto Superiore Mario Boella",
+    "participantCountries": "FI;IT",
+    "projectParticipants": {
+        "999905004": {
+            "orgId": "999905004",
+            "orgName": "GMV AEROSPACE AND DEFENCE SA",
+            "ecContrib": 209245
+        },
+        "999599357": {
+            "orgId": "999599357",
+            "orgName": "ISTITUTO SUPERIORE MARIO BOELLA SULLE TECNOLOGIE DELL'INFORMAZIONE E DELLE  TELECOMUNICAZIONI ASSOCIAZIONE",
+            "ecContrib": 0
+        },
+        "990343811": {
+            "orgId": "990343811",
+            "orgName": "TTY-SAATIO",
+            "ecContrib": 174999
+        }
+    },
+    "calculatedTotalContribution": 384244
+}

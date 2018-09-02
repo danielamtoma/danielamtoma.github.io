@@ -1,0 +1,17 @@
+{
+    "rcn": "214376",
+    "acronym": "CARBS",
+    "topics": "MSCA-IF-2017",
+    "title": "Compositional Approximate Reasoning via Bialgebraic Semantics",
+    "startDate": "01/02/2019",
+    "endDate": "31/01/2020",
+    "objective": "Programming languages with probabilistic features are used extensively in computer science and beyond, to model uncertainty, perform quantitative analysis, inference and much more. To analyse programs in such languages, it is essential to have effective tools and techniques for approximate reasoning: for instance, determining the chance of congestion in a network, or the chance of failure of a system component. CARBS proposes a general mathematical framework of compositional proof techniques for approximate reasoning, with two essential points of focus: general applicability, to deal with the wide variety of different quantitative languages and models, and compositionality, to deal with large-scale systems. A motivating case study and application for the developed proof techniques is ProbNetKAT, a probabilistic language for describing randomized protocols and analysing quantitative properties in networks such as throughput or chance of failure. Approximate reasoning about such network programs is an important but also challenging problem, and the abundance of possible case studies will allow to immediately evaluate and apply the developed proof techniques. Approximate reasoning requires to move from behavioural equivalence to behavioural metrics, formalising how far apart two programs are. CARBS is based on integrating behavioural metrics in bialgebraic semantics, a categorical approach for a systematic study of languages and calculi based on the combination of algebra and coalgebra. Coalgebra allows to define behavioural metrics, in a general manner, whereas algebra integrates compositionality in the associated proof techniques. The overall envisaged result of CARBS is an extension of bialgebraic semantics to quantitative systems, providing on the one hand fundamental insights about quantiative coalgebras and compositionality, and on the other hand concrete, effective proof techniques for approximate reasoning.",
+    "totalCost": "91727,4",
+    "ecMaxContribution": "91727,4",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

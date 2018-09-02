@@ -1,0 +1,17 @@
+{
+    "rcn": "215615",
+    "acronym": "MaLeR",
+    "topics": "MSCA-IF-2017",
+    "title": "Machine Learning applied to Reactivity: combination of HDNNs with ReaxFF",
+    "startDate": "01/12/2018",
+    "endDate": "30/11/2020",
+    "objective": "Computational chemistry and materials science rely on accurate methods for calculating the thermodynamic and kinetic stabilities of different compounds. In order to model large and realistic chemical systems, computationally efficient methods like force-fields are needed. Force-fields have physically motivated functional forms, but are not flexible enough to accurately describe most chemical reactions. Here, we intend to alleviate this problem by combining a state-of-the-art reactive force field, ReaxFF, with artificial neural networks (NNs). NNs constitute an example of machine learning (ML) methods, and are extremely fast to compute. Due to their very flexible functional forms, NNs can be parameterized to reproduce any other target function, which here is the error made by ReaxFF. By combining ReaxFF with the variant of NNs known as high-dimensional neural networks (HDNNs), the resulting ìReaxFF\\HDNNî method will provide an all-purpose computationally efficient method for applications in chemistry, biochemistry, and materials science. The developed method will first be applied to unravel high-temperature fullerene reconstruction mechanisms, a notorious case where the original ReaxFF functional form has been shown to be inadequate. The combination of HDNNs with the more computationally expensive semi-empirical density functional based tight-binding method, DFTB, will also be explored. The development and implementation will take place at SCM in Amsterdam, which has a long-standing history of modern ReaxFF method developments.",
+    "totalCost": "165598,8",
+    "ecMaxContribution": "165598,8",
+    "coordinator": "SOFTWARE FOR CHEMISTRY & MATERIALSBV",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

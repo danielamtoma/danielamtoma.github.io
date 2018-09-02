@@ -1,0 +1,23 @@
+{
+    "rcn": "204831",
+    "acronym": "CUNDA",
+    "topics": "ERC-ADG-2015",
+    "title": "Causality Relations Using Nonlinear Data Assimilation",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "A major problem in understanding complex nonlinear geophysical systems is to determine which processes drive which other processes, so what the causal relations are. \n\nSeveral methods to infer nonlinear causal relations exist, but often lead to different answers, often perform hypothesis testing on causality, need long stationary time series, can be misleading if an unknown process drives the processes under study, or, if a numerical model is used, reflect model causality instead of real-world causality. Furthermore methods that use the governing evolution equations directly lead to intractable high-dimensional integrals.\n\nIn this proposal I will tackle these problems by firstly embedding causality into a Bayesian framework, moving from testing causality to estimating causality strength and its uncertainty in a systematic way. Knowledge from several causality methods can be combined, new knowledge can be brought in systematically, and time series can be short.   Furthermore, new knowledge can be incorporated into the existing knowledge basis, and \nseveral methods can be combined in a consistent manner. Secondly, a new formulation to infer causal strength exploring evolution equations that avoids high-dimensional integrals will be explored. Thirdly, numerical models are combined with observations by exploring fully nonlinear data assimilation to study real-world causality.\n\nI will test the new techniques on simple models and then apply them to a high-resolution model \nof the ocean area around South Africa where the Southern Ocean, the Indian Ocean, and the Atlantic Ocean meet.\nThis area plays a crucial role in the global circulation of heat and salt by bringing warm and salty Indian Ocean\nwater into the Atlantic in a highly turbulent manner. The techniques allow to infer what sets this interocean transport, \nthe turbulent local dynamics or the global climate-related dynamics, crucial for understanding \nthe functioning of the ocean in the climate system.",
+    "totalCost": "2597754",
+    "ecMaxContribution": "2597754",
+    "coordinator": "THE UNIVERSITY OF READING",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984156": {
+            "orgId": "999984156",
+            "orgName": "THE UNIVERSITY OF READING",
+            "ecContrib": 2597754
+        }
+    },
+    "calculatedTotalContribution": 2597754
+}

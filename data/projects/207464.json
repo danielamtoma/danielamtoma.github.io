@@ -1,0 +1,48 @@
+{
+    "rcn": "207464",
+    "acronym": "SiLAS",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "SiliconLaser",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "Our research aims to revolutionize the electronics industry by adding intra-chip and chip-to-chip communication at the speed of light, offering a significantly reduced energy consumption. Cubic crystal phase SiGe is known to be great for electronics. We propose to develop hexagonal crystal phase SiGe (Hex-SiGe) which features a direct bandgap and will add photonic capabilities to electronics. Direct bandgap silicon has been the holy grail of the semiconductor industry for many years, since it would allow integrating both electronic and optical functionalities on a silicon platform. Recent theoretical calculations predict that hexagonal crystal phase SixGe1-x features a tunable direct bandgap from 1380-1800 nm, exactly coinciding with the low loss window for optical fibre communications. We have recently developed a generic approach to grow defect-free hexagonal SixGe1-x with tunable composition. We propose to demonstrate efficient light emission from direct bandgap SiGe, followed by the development of a SiGe nanolaser. Work towards CMOS integration is included. The demonstration of a Hex-SiGe nanolaser will serve as a game-changer for transforming the electronics industry.",
+    "totalCost": "3985418,75",
+    "ecMaxContribution": "3985417,5",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "TECHNISCHE UNIVERSITAET MUENCHEN;IBM RESEARCH GMBH;UNIVERSITAT LINZ;Friedrich Schiller University Jena;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "participantCountries": "DE;CH;AT;UK",
+    "projectParticipants": {
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 348587
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 1286716
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 707125
+        },
+        "999868726": {
+            "orgId": "999868726",
+            "orgName": "FRIEDRICH-SCHILLER-UNIVERSITAT JENA",
+            "ecContrib": 0
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 592363
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 633126
+        }
+    },
+    "calculatedTotalContribution": 3567917
+}

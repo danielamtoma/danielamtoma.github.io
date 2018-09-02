@@ -1,0 +1,23 @@
+{
+    "rcn": "197237",
+    "acronym": "VIDOCK",
+    "topics": "ERC-StG-2014",
+    "title": "2D Conformal mapping of protein surfaces: applications to VIsualization and DOCKing software",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2020",
+    "objective": "The goals of structural biology include developing a comprehensive understanding of the molecular shapes and forms embraced by biological macromolecules and extending this knowledge to understand how different molecular architectures are used to perform the chemical reactions that are central to life. \nSince the first resolution of protein structures by X-ray crystallography and NMR, structural biology seeks to provide this picture of biological phenomena at the molecular and atomic level by analyzing 3D structures. \nIn the present proposal, we propose to change this paradigm by changing the mode of representation of protein surfaces to 2D maps. That will open new avenues for 1. the development of innovative high-throughput computation of protein interactions and relationships and 2. the emergence of new forms of visualization and analysis of protein structures and properties. We will apply this powerful tool of conformal mapping to structural biology by representing protein surfaces that are complex 3D surfaces in 2D conformal maps that we will call positive conformal maps. We will extend this representation by also generating the 2D conformal maps of the negatives of the 3D surface of the proteins. These positive and negative 2D conformal maps of the surface of proteins will constitute a new representation of the protein surfaces that will be the basis for innovative high-throughput and/or interactive simulation methods, visualization methods and more generally that will give an other insight on the structure of proteins. \nThe major impact of this proposal lies in the fact that it will at last open the gates of the long awaited proteome docking. Using a simplified representation of protein surfaces will allow to perform faster complete cross docking calculations and create a new classification of the protein structures based on their surficial similarity.",
+    "totalCost": "1498791,25",
+    "ecMaxContribution": "1498791,25",
+    "coordinator": "CONSERVATOIRE NATIONAL DES ARTS ET METIERS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999645529": {
+            "orgId": "999645529",
+            "orgName": "CONSERVATOIRE NATIONAL DES ARTS ET METIERS",
+            "ecContrib": 1498791
+        }
+    },
+    "calculatedTotalContribution": 1498791
+}

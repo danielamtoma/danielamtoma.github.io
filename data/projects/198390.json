@@ -1,0 +1,23 @@
+{
+    "rcn": "198390",
+    "acronym": "RoVi",
+    "topics": "ERC-PoC-2015",
+    "title": "Robotic manipulator with visuo-haptic sensing",
+    "startDate": "01/11/2015",
+    "endDate": "30/04/2017",
+    "objective": "This proof-of-concept project aims to develop and bring to market a novel visuo-haptic sensor system for robotic manipulators, which allows for multimodal sensing, reduced system complexity and significantly lower costs compared to current systems. It replaces dedicated force sensors with passive components and a camera, providing coherent measurements of both force and contact shape. Three sensor setups for grippers, mobile platforms and tools on the endeffector have already been implemented as research prototypes in the context of the ERC Starting Grant ProHaptics. The commercial prototype to be developed within this project will consist of a standard commercial gripper, the visuo-haptic sensor, as well as soft-ware for manipulation planning. In later stages, it is planned to apply the concept to an entire robotic arm, replacing the dedicated and expensive joint and torque sensors required today. Costs and system complexity are cut considerably by our approach since rigid mechanics as well as highly specialized sensor systems as used by current robot arms are no longer required. The application focus of this proof-of-concept project is collaborative production. This concept helps to keep production competitive in in high-income countries. While our market entry strategy targets the commercially highly relevant production scenario, we believe that this paradigm will open new markets for robotic systems also in interpersonal communication, household robotics and games/entertainment. Such systems need low-cost multimodal sensor systems, which provide a rich representation of the environment. In a recent market study, a high interest for robotic manipulators that operate in un-structured environments and offer natural compliance has been identified, especially in the application areas of robotic commissioning and joint mounting, verification and documentation of components.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

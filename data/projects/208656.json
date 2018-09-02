@@ -1,0 +1,28 @@
+{
+    "rcn": "208656",
+    "acronym": "NESTOR",
+    "topics": "MSCA-IF-2016",
+    "title": "Next gEneration Sequence sTORage",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "Sequential data are everywhere, from DNA sequences to astronomical light curves, and from aircraft engine monitoring data to the prices of stock options. Recent advances in various fields such as those of data storage, networking and sensing technologies, have allowed organizations to gather overwhelming amounts of sequential data at unprecedented speeds.\nThis wealth of information enables analysts to identify patterns, find abnormalities, and extract knowledge. It is noteworthy that common practice in various domains is to use custom data analysis solutions, usually built using higher level programming languages, such as R/Python. Such techniques, however, while commonly acceptable in small data processing scenarios, are unfit for larger scale data management and exploration. This is because they come in contrast to all previous database research, not taking advantage of indexes, physical data independence, query optimization, and data processing methods, designed for scalability. In these domains, database systems are used merely for storing and retrieving data and not as the sophisticated query processing systems they are.\nCurrent relational storage layers cannot handle the access patterns that analysts of sequential data are interested in, without scanning large amounts of unnecessary data or without large processing overhead. Thus, making complex analytics inefficient.\nIn order to exploit this new opportunity, we plan to develop specialized data series storage and retrieval systems, which will allow analysts ñ across different fields ñ to efficiently manipulate the sequences of interest.\nThe proposed research project, named NESTOR (Next gEneration Sequence sTORage), has the potential of great economic and social impact in Europe as multiple scientific and industrial fields are currently in need of the right tools, in order to handle their massive collections of data series.",
+    "totalCost": "246668,4",
+    "ecMaxContribution": "246668,4",
+    "coordinator": "UNIVERSITE PARIS DESCARTES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999869793": {
+            "orgId": "999869793",
+            "orgName": "UNIVERSITE PARIS DESCARTES",
+            "ecContrib": 246668
+        },
+        "992204077": {
+            "orgId": "992204077",
+            "orgName": "PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 246668
+}

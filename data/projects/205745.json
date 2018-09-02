@@ -1,0 +1,28 @@
+{
+    "rcn": "205745",
+    "acronym": "Burst3D",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Type I bursts in 3D",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "On Earth, nuclear explosions take place in controlled environments or use small amounts of fuel. Despite that, they generate spectacular amounts of energy. When nuclear reactions ignite on a neutron star, the whole surface can burn, resulting in extremely bright X-ray flashes that outshine all the other emission. These flashes are known as type I bursts. Their emission encodes information about the neutron star mass and radius and this makes them ideal probes to explore such stars' properties.\nMuch effort has been invested to describe nuclear explosions, both on Earth and in space, but the modelling of the type I bursts entails extra difficulties. In particular, simulating deflagrating flames in the extreme conditions of neutron stars has proven particularly challenging. Nonetheless, in the last several years I have been able to produce the first ab initio 2D simulations of type I bursts where the deflagration takes place inside a burning hurricane that expands to engulf the whole surface of the star. However, 2D simulations have inherent limitations.\nWith this project I intend to model the nuclear explosions during the bursts combining detailed microphysics with a magnetohydrodynamical description set for the first time in a 3D spherical geometry to be able to capture the combination of all the relevant effects. Understanding all the different facets of the bursts and their physical ingredients, I will produce unprecedented simulations which I will couple to a ray tracing code that takes into account the general relativistic effects of the star's gravity and rotation on the emitted photons. I will be able to produce extremely accurate synthetic lightcurves to confront with the observations in order to extract the information about the neutron star contained in the X-ray emission. Once the parameters of the bursters are known, these can be used to constrain the yet unknown behavior of matter in the core of neutron stars.",
+    "totalCost": "251857,8",
+    "ecMaxContribution": "251857,8",
+    "coordinator": "UNIVERSITY OF SOUTHAMPTON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 251858
+        },
+        "999515355": {
+            "orgId": "999515355",
+            "orgName": "TRUSTEES OF PRINCETON UNIVERSITY",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 251858
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "204773",
+    "acronym": "IMPaCT",
+    "topics": "ERC-ADG-2015",
+    "title": "Implementing Multi-Party Computation Technology",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "The goal of IMPaCT is to turn Multi-Party Computation (MPC) from a stage in which we are beginning to obtain practical feasibility results, to a stage in which we have fully practical systems. It has long been acknowledged that MPC has the potential to provide a transformative change in the way security solutions are enabled. As it presently stands this is currently only possible in limited applications; deployments in restricted scenarios are beginning to emerge. However, in turning MPC into a fully practical technology a number of key scientific challenges need to be solved; many of which have not yet even been considered in the theoretical literature. The IMPaCT project aims to address this scientific gap, bridge it, and so provide the tools for a future road-map in which MPC can be deployed as a widespread tool, as ubiquitous as encryption and digital signatures are today.\n\nOur scientific approach will be to investigate new MPC protocols and techniques which take into account practical constraints and issues which would arise in future application scenarios. Our work, despite being scientifically rigorous and driven from deep theoretical insight, will be grounded in practical considerations. All systems and protocols proposed will be prototyped so as to ensure that practical real world issues are taken into account. In addition we will use our extensive industrial linkages to ensure a two way dialogue between potential users and the developers of MPC technology; thus helping to embed future impact of the work in IMPaCT.\n\nOur workplan is focused around key scientific challenges which we have identified on the road to fully practical MPC applications. These include the design of methodologies to cope with the asynchronicity of networks, how to realistically measure and model MPC protocols performance, how to utilize low round complexity protocols in practice, how to deal with problems with large input sizes (e.g. streaming data), and many more.",
+    "totalCost": "2499938",
+    "ecMaxContribution": "2499938",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "UNIVERSITY OF BRISTOL",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 143552
+        }
+    },
+    "calculatedTotalContribution": 143552
+}

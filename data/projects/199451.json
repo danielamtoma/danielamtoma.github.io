@@ -1,0 +1,33 @@
+{
+    "rcn": "199451",
+    "acronym": "NASDAC",
+    "topics": "MSCA-RISE-2015",
+    "title": "iNnovative Approaches for Scalable Data Assimilation in oCeanography",
+    "startDate": "01/03/2016",
+    "endDate": "29/02/2020",
+    "objective": "This Project is placed in the scientific context of Uncertainty Quantification (UQ) in Ocean Circulation Models (OCMs). The principal objective of the Project is to establish a long-lasting collaboration, to provide a possibility for transfer of knowledge, to enable exchanges of research personnel, and to create an intercontinental network in the area of oceanographic Data Assimilation (DA). The focus is on the improvement of the numerical algorithms of computational science environments able to exploit the high performance that will be available at the exascale. The main expected scientific result of the Project will be the design and development of scalable approaches to DA based on domain decomposition methods, communication avoiding algorithms, and hybrid parallel implementations on multiprocess/multi-thread paradigms, for 4-dimensional Variational (4DVar) DA models designed for efficient use in OCMs in real time. The new algorithms will be implemented and tested in the Regional Ocean Modeling System (ROMS), which is a most popular framework in which a 4DVar model has been developed, and validated using data collected in the enclosed and semi enclosed seas, such as West Africa/Angola, Mediterranean, North Sea and Caspian sea. \nThe expertise of the consortium partners is mutually complementary, and encompasses the development of numerical models and scalable algorithms for DA (UNINA, ANL), the study of various observed and predicted data in real applications (ICL) that are coupled with the development and the implementation of these methods in ROMS 4DVar (UCSC, UNINA) to be tested on emerging supercomputers (BSC-CNS). Realization of the Project will strengthen the scientific potential of DA models integrated in OCMs and will contribute to the sustainable development in participating Partner Countries.\nEthical issues of the research will be duly addressed.",
+    "totalCost": "1174500",
+    "ecMaxContribution": "558000",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+    "coordinatorCountry": "IT",
+    "participants": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "UK;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 103500
+        },
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 207000
+        },
+        "999976590": {
+            "orgId": "999976590",
+            "orgName": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+            "ecContrib": 247500
+        }
+    },
+    "calculatedTotalContribution": 558000
+}

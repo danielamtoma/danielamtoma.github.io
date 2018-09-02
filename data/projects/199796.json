@@ -1,0 +1,23 @@
+{
+    "rcn": "199796",
+    "acronym": "CoVeCe",
+    "topics": "ERC-StG-2015",
+    "title": "Coinduction for Verification and Certification",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "Software and hardware bugs cost hundreds of millions of euros every year to companies and administrations. Formal methods like verification provide automatic means of finding some of these bugs. Certification, using proof assistants like Coq or Isabelle/HOL, make it possible to guarantee the absence of bugs (up to a certain point).\n\nThese two kinds of tools are crucial in order to design safer programs and machines. Unfortunately, state-of-the art tools are not yet satisfactory. Verification tools often face state-explosion problems and require more efficient algorithms; certification tools need more automation: they currently require too much time and expertise, even for basic tasks that could be handled easily through verification.\n\nIn recent work with Bonchi, we have shown that an extremely simple idea from concurrency theory could give rise to algorithms that are often exponentially faster than the algorithms currently used in verification tools.\n\nMy claim is that this idea could scale to richer models, revolutionising existing verification tools and providing algorithms for problems whose decidability is still open.\n\nMoreover, the expected simplicity of those algorithms will make it possible to implement them inside certification tools such as Coq, to provide powerful automation techniques based on verification techniques.  In the end, we will thus provide efficient and certified verification tools going beyond the state-of-the-art, but also the ability to use such tools inside the Coq proof assistant, to alleviate the cost of certification tasks.",
+    "totalCost": "1407413",
+    "ecMaxContribution": "1407413",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1407413
+        }
+    },
+    "calculatedTotalContribution": 1407413
+}

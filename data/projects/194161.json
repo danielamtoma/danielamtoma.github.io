@@ -1,0 +1,58 @@
+{
+    "rcn": "194161",
+    "acronym": "CHOReVOLUTION",
+    "topics": "ICT-09-2014",
+    "title": "Automated Synthesis of Dynamic and Secured Choreographies for the Future internet",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The Future Internet (FI) represents an age of unprecedented opportunities for social, economic, and business growth thanks to the global scale connectivity of the virtual as well as of the physical world. This indeed opens up a wealth of innovative and revolutionary real-life scenarios, as for instance illustrated by the smarter cities perspectives where envisioned scenarios significantly ease daily human activities and give support for the growth of new markets and employment opportunities. However, leveraging the FI for the development of innovative software applications remain a challenging task even though major enablers are readily available by ways of service-oriented and cloud computing. It is in particular our vision that enabling the choreography of FI services shall play a significant role in the provisioning of innovative applications. However, existing choreography-based service composition approaches are rather static and are poorly suited to the need of the FI that is a highly dynamic networking environment, further bringing together highly heterogeneous services ranging from Thing- to Business-based services that span different security domains. As a result, the technology is not mature enough for market take-up. CHOReVOLUTION elevates the Readiness Level of existing choreography technologies in order to drop the dynamism and cross-organization security barriers via the automated synthesis of dynamic and secured choreographies in the FI. To meet its objectives, CHOReVOLUTION undertakes both research and innovation tasks. The former concentrates on choreography modelling, synthesis, adaptation, service bus, security, and cloud; the latter focus on industrial validation, development support and integration platform, and the establishment of a CHOReVOLUTION community and market take-up. Last but not least CHOReVOLUTION outcomes are assessed by experimenting with new applications in the field of Intelligent Transportation Systems.",
+    "totalCost": "3057549",
+    "ecMaxContribution": "3057549",
+    "coordinator": "THALES COMMUNICATIONS & SECURITY SAS",
+    "coordinatorCountry": "FR",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;CEFRIEL - SOCIETA CONSORTILE A RESPONSABILITA LIMITATA;OW2 CONSORTIUM ASSOCIATION;SOFTECO SISMAT SRL;UNIVERSITA DEGLI STUDI DELL'AQUILA;TIRASA SRL;RISE VIKTORIA AB",
+    "participantCountries": "FR;IT;SE",
+    "projectParticipants": {
+        "985009296": {
+            "orgId": "985009296",
+            "orgName": "RISE VIKTORIA AB",
+            "ecContrib": 454813
+        },
+        "999647178": {
+            "orgId": "999647178",
+            "orgName": "CEFRIEL - SOCIETA CONSORTILE A RESPONSABILITA LIMITATA",
+            "ecContrib": 263510
+        },
+        "940919692": {
+            "orgId": "940919692",
+            "orgName": "TIRASA SRL",
+            "ecContrib": 270875
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 397500
+        },
+        "999859511": {
+            "orgId": "999859511",
+            "orgName": "UNIVERSITA DEGLI STUDI DELL'AQUILA",
+            "ecContrib": 495000
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 422813
+        },
+        "989865892": {
+            "orgId": "989865892",
+            "orgName": "OW2 CONSORTIUM ASSOCIATION",
+            "ecContrib": 408538
+        },
+        "999802766": {
+            "orgId": "999802766",
+            "orgName": "SOFTECO SISMAT SRL",
+            "ecContrib": 344500
+        }
+    },
+    "calculatedTotalContribution": 3057549
+}

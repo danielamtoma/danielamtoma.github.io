@@ -1,0 +1,28 @@
+{
+    "rcn": "213827",
+    "acronym": "SISCAN",
+    "topics": "ERC-2017-PoC",
+    "title": "Single-shot dispersion-scan device for the characterization of ultrashort laser pulses",
+    "startDate": "01/04/2018",
+    "endDate": "30/09/2019",
+    "objective": "The idea to be taken to proof of concept is a novel real-time characterization device for short laser pulses, based upon SIngle-Shot dispersion SCAN (SISCAN). The use of femtosecond laser pulses with duration from the single-cycle to the multi-cycle regime, in various applications in research, industry or medicine demands a precise characterization and control of each laser pulse. We propose a device for measuring the intensity and the phase of laser pulses, based upon dispersion scans, i.e. scans of the second harmonic spectrum as a function of dispersion of the fundamental field. The device is able to characterize individual laser pulses and therefore will provide useful realtime feedback to adjustments of any laser system. \n\nRecently, in the effort to improve the control of light pulses required for our ERC-supported research, two variants of a single-shot d-scan, i.e. one for few-cycle pulses (3-10 fs) and one for longer pulses (15-100 fs) were developed. At the same time, we introduced a new algorithm, drastically reducing the retrieval time. The combination of these developments will allow for measuring individual pulse properties in real-time for very diverse types of lasers.  At the time this application is being sent, two patent applications have been submitted.\n\nThrough technical verification (Lund University, Sweden) and business activities (a small company located in Portugal, Sphere Ultrafast Photonics, already commercializing the original, multiple shot version of the device), we will demonstrate the functionality of the concept, the risks will be assessed and minimized and we will prepare to exploit the increased commercial potential, addressing laser manufacturers as well as laser users in both the scientific and commercial spheres.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "SPHERE ULTRAFAST PHOTONICS SA",
+    "participantCountries": "PT",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 63812
+        },
+        "949853683": {
+            "orgId": "949853683",
+            "orgName": "SPHERE ULTRAFAST PHOTONICS SA",
+            "ecContrib": 86188
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

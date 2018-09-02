@@ -1,0 +1,23 @@
+{
+    "rcn": "197182",
+    "acronym": "CoPS",
+    "topics": "ERC-StG-2014",
+    "title": "Coevolutionary Policy Search",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "I propose to develop a new class of decision-theoretic planning methods that overcome fundamental obstacles to the efficient optimization of autonomous agents.  Creating agents that are effective in diverse settings is a key goal of artificial intelligence with enormous potential implications: robotic agents would be invaluable in homes, factories, and high-risk settings; software agents could revolutionize e-commerce, information retrieval, and traffic control.\nThe main challenge lies in specifying an agent's policy: the behavioral strategy that determines its actions.  Since the complexity of realistic tasks makes manual policy construction hopeless, there is great demand for decision-theoretic planning methods that automatically discover good policies. Despite enormous progress, the grand challenge of efficiently discovering effective policies for complex tasks remains unmet.\nA fundamental obstacle is the cost of policy evaluation: estimating a policy's quality by averaging performance over multiple trials.  This cost grows quickly with increases in task complexity (making trials more expensive) or stochasticity (necessitating more trials).  \nTo address this difficulty, I propose a new approach that simultaneously optimizes both policies and the manner in which those policies are evaluated.  The key insight is that, in many tasks, many trials are wasted because they do not elicit the controllable rare events critical for distinguishing between policies. Thus, I will develop methods that leverage coevolution to automatically discover the best events, instead of sampling them randomly.\nIf successful, this project will greatly improve the efficiency of decision-theoretic planning and, in turn, help realize the potential of autonomous agents.  In addition, by automatically identifying the most useful events, the resulting methods will help isolate critical factors in performance and thus yield new insights into what makes decision-theoretic problems hard.",
+    "totalCost": "1480632",
+    "ecMaxContribution": "1480632",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 1480632
+        }
+    },
+    "calculatedTotalContribution": 1480632
+}

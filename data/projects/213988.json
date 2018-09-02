@@ -1,0 +1,23 @@
+{
+    "rcn": "213988",
+    "acronym": "ShaMROCk",
+    "topics": "MSCA-IF-2017",
+    "title": "Superconductive MiR phOton Counter",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2020",
+    "objective": "Quantum measurements based on single photon detectors (SPDs) can be efficiently carried out in the visible and near-infrared spectra due to the presence of two well-established technologies named silicon avalanche photodiodes and superconductive nanowire SPDs (SNSPDs). However, the mid-infrared (MIR) spectral range suffers from the absence of a fast SPD with high system detection efficiency (SDE) due to the lack of a competitive semiconductor technology or the poor absorption of the SNSPD systems showed so far. Vibrational modes of molecules and absorption bands of gases resides in this wavelength range, making a detector sensible to MIR single photons extremely sought for sensing and vibrational spectroscopy. Additionally, this wavelength range can be used efficiently for free-space QKD, being robust against adverse weather conditions. These are only but a few of the numerous applications that would benefit or be enabled by a performant SPD. \nThe research goal of this proposal is to realize a Superconductive MiR phOton Counter (ShaMROCk) that outclasses all the existing technologies in terms of SDE, providing a solid platform for additional functionalities. SNSPDs realized so far suffered from the top-coupling approach that limits the interaction length between photons and the detector active area since the large diffraction limited mode of MIR light and the lack of MIR optical cavities. On the other side, in ShaMROCk I intend to integrate SNSPDs on top of MIR waveguides, realized using silicon carbide. All the light propagating inside the waveguide, evanescently coupled to the active are of the detector, can be absorbed in this way. The SDE is therefore limited by the efficiency with which light is coupled from a fiber to a waveguide. Preliminary results shows that ShaMROCk could provide a SDE twenty times higher than top-coupling SNSPD and two order of magnitude higher than other pursued technologies. This project will pave the way for MIR quantum measurements.",
+    "totalCost": "168277,2",
+    "ecMaxContribution": "168277,2",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 168277
+        }
+    },
+    "calculatedTotalContribution": 168277
+}

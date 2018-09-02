@@ -1,0 +1,23 @@
+{
+    "rcn": "209808",
+    "acronym": "UFICS-QRNG",
+    "topics": "MSCA-IF-2016",
+    "title": "Development of an Ultra-Fast, Integrated, Certified Secure Quantum Random Number Generator for applications in Science and Information Technology",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2019",
+    "objective": "The objective of this SE action is the development of an innovative quantum random number generator (Q-RNG). This device will represent an important shift forward in the current panorama of physical RNG. In fact, it will meet simultaneously three requirements: being Ultra-Fast, Integrated, Certified Secure. The UFICS-QRNG will be developed with an SE action that will last 24 months. The researcher, that has matured a relevant expertise in the field of QRNGs, will join the Quantum Information Group at the Toshiba Research Laboratories (TREL) based in Cambridge, UK. These laboratories are worldwide known for cutting edge research in Quantum Optics and Quantum Information. The project starting point will be a fast QRNG prototype, recently developed by TREL. During the action, the researcher will develop a theoretical model to certify the randomness of the generator and will implement an integrated hardware. The UFICS-QRNG will be characterized by an unprecedented level of security. Besides the theoretical model, which will account for all the side information sources that might weaken the generator unpredictability, the device will feature a self-testing protocol, for the continuous monitoring of the entropy. The hardware will be designed to be compatible with other systems and the compliant with the standards. Security, generation rate at Gigabit/s and the possibility of integration in servers and computers, will make the UFICS-QRNG suitable for a variety of applications in Science and Information Technology, which range from experiments of fundamental physics to simulation and cryptographic applications. In the latter case, the UFICS-QRNG will represent the best answer to the lack of physical RNGs able to substitute the unsecure pseudo-RNGs. Given the peculiarity of TREL, an industrial institution that produces high impact scientific works, the researcher will benefit of a unique training, with the possibility to develop a professional profile at the highest levels.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "TOSHIBA RESEARCH EUROPE LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999958548": {
+            "orgId": "999958548",
+            "orgName": "TOSHIBA RESEARCH EUROPE LIMITED",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

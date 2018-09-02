@@ -1,0 +1,28 @@
+{
+    "rcn": "195361",
+    "acronym": "FUDACT",
+    "topics": "MSCA-IF-2014-GF",
+    "title": "FUll Duplex Active Cancellation for wireless communication and co-exisTence",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2018",
+    "objective": "'The development of fifth-generation (5G) wireless networks is expected to provide technologies to support 1000x increase in data rates. To support the vision of hundreds of billions of connected devices after year 2020, many of the new technologies need to be developed. 5G is expected to utilize many more spectral bands, several of them at millimeter-wave frequencies, and much denser deployment of wireless infrastructure. As a result, co-existence between systems will be the key problem to be addressed at the physical level. In 'Full Duplex Active Cancellation for wireless communication and co-exisTence' (FUDACT) we explore a set of new co-existence technologies culminating in a new radio transmission paradigm to improve spectrum efficiency. The FUDACT goal is to support two Europe 2020 flagship initiatives: Digital agenda for Europe by addressing some of the H2020 Future Internet challenges and Innovation Union by paving the way to innovation-friendly environment.\nFUDACT aims at a fundamental understanding of limitations of active self-cancellation techniques under conditions of simultaneous transmission and reception in close or overlapping frequency bands. The project's primary goal is to deliver a solution for a shared antenna system capable of cancelling at least a 1W transmitter (densely deployed small cells in wireless infrastructure) in the receive band, a great research challenge advancing the state of the art by at least 2 orders of magnitude. To accomplish these ambitious goals we will be pursuing the following closely related objectives: (1) Determine the technology limits of active cancellation of self-interference in wireless transceivers (2) Demonstrate an architecture capable of cancelling a \\23dBm transmitter and a 0dBm of narrowband blocker (3) Investigate mixer-first receiver architectures capable of tolerating higher blocker signal levels (4) Apply the techniques (1-3) in the design of a full duplex future-oriented wireless communication network.'",
+    "totalCost": "240172,2",
+    "ecMaxContribution": "240172,2",
+    "coordinator": "UNIVERZITET U NOVOM SADU FAKULTET TEHNICKIH NAUKA",
+    "coordinatorCountry": "RS",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999467340": {
+            "orgId": "999467340",
+            "orgName": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+            "ecContrib": 0
+        },
+        "999825755": {
+            "orgId": "999825755",
+            "orgName": "UNIVERZITET U NOVOM SADU FAKULTET TEHNICKIH NAUKA",
+            "ecContrib": 240172
+        }
+    },
+    "calculatedTotalContribution": 240172
+}

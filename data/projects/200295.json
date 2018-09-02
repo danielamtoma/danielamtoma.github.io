@@ -1,0 +1,58 @@
+{
+    "rcn": "200295",
+    "acronym": "Co-ReSyF",
+    "topics": "EO-2-2015",
+    "title": "Coastal Waters Research Synergy Framework",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "The Co-ReSyF project will implement a dedicated data access and processing infrastructure, with automated tools, methods and standards to support research applications using Earth Observation (EO) data for monitoring of Coastal Waters, leveraging on the components deployed SenSyF. The main objective is to facilitate the access to Earth Observation data and pre-processing tools to the research community, towards the future provision of future Coastal Waters services based on EO data.\nThrough Co-ReSyFës collaborative front end, even young and/or inexperienced researchers in EO will be able to upload their applications to the system to compose and configure processing chains for easy deployment on the cloud infrastructure. They will be able to accelerate the development of high-performing applications taking full advantage of the scalability of resources available in the cloud framework. The included facilities and tools, optimized for distributed processing, include EO data access catalogue, discovery and retrieval tools, as well as a number of pre-processing and toolboxes for manipulating EO data. Advanced users will also be able to go further and take full control of the processing chains and algorithms by having access to the cloud back-end and to further optimize their applications for fast deployment for big data access and processing.\nThe Co-ReSyF capabilities will be supported and initially demonstrated by a series of early adopters that will develop new research applications on the coastal domain, will guide the definition of requirements and serve as system beta testers. A competitive call will be issued within the project to further demonstrate and promote the usage of the Co-ReSyF release. These pioneering researchers in will be given access not only to the platform itself, but also to extensive training material on the system and also on Coastal Waters research themes, as well as to the project's events, including the Summer School and Final Workshop.",
+    "totalCost": "2999901,25",
+    "ecMaxContribution": "2999901,25",
+    "coordinator": "DEIMOS ENGENHARIA S.A.",
+    "coordinatorCountry": "PT",
+    "participants": "INSTITUTO HIDROGRAFICO;ARGANS LIMITED;LABORATORIO NACIONAL DE ENGENHARIA CIVIL;ACRI-HE;TERRADUE SRL;UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK;NATURAL ENVIRONMENT RESEARCH COUNCIL",
+    "participantCountries": "PT;UK;FR;IT;IE",
+    "projectParticipants": {
+        "998150953": {
+            "orgId": "998150953",
+            "orgName": "INSTITUTO HIDROGRAFICO",
+            "ecContrib": 209781
+        },
+        "997638211": {
+            "orgId": "997638211",
+            "orgName": "ARGANS LIMITED",
+            "ecContrib": 205528
+        },
+        "935337439": {
+            "orgId": "935337439",
+            "orgName": "ACRI-HE",
+            "ecContrib": 303429
+        },
+        "999989200": {
+            "orgId": "999989200",
+            "orgName": "NATURAL ENVIRONMENT RESEARCH COUNCIL",
+            "ecContrib": 286402
+        },
+        "999623219": {
+            "orgId": "999623219",
+            "orgName": "DEIMOS ENGENHARIA S.A.",
+            "ecContrib": 930862
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 481100
+        },
+        "998850517": {
+            "orgId": "998850517",
+            "orgName": "LABORATORIO NACIONAL DE ENGENHARIA CIVIL",
+            "ecContrib": 210634
+        },
+        "999732829": {
+            "orgId": "999732829",
+            "orgName": "TERRADUE SRL",
+            "ecContrib": 372167
+        }
+    },
+    "calculatedTotalContribution": 2999903
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "207164",
+    "acronym": "PaDiCare",
+    "topics": "SMEInst-06-2016-2017",
+    "title": "Patient empowered Diabetes care in ambulatory settings",
+    "startDate": "01/11/2016",
+    "endDate": "31/03/2017",
+    "objective": "Atonomics and InTeleCare4Uís joint vision is to bring Trace to market, a Point-of-Care (POC) blood biomarker monitoring system for Diabetes Mellitus (DM) that syncs highly accurate and precise lab results to hospitalís electronic patient record (EPR). Trace has such a simplified user experience that patients can perform their own blood analysis without nurses performing the blood draw or lab staff analysing the sample. \nTrace analysis require just a drop of blood obtained through finger-pricking, the same procedure that diabetic patients use for daily glucose monitoring. Analysis runs automatically in a very short time (5-7 min per biomarker) and the results are then synced to doctorsí PC / tablet through ITC4Uís data sync services ñ based on the open source OpenTele platform. Trace system combines the following three key elements for effective and resource-efficient monitoring:\n- Trace device, an easy to use, lab-grade device to measure HbA1c and lipid panel biomarkers for DM monitoring;\n- Trace tablet app, a step-guided application that helps patients use the Trace device, and collects the results from Trace;\n- ITC4Uís secure sync infrastructure that transmits patient data collected in app directly to the doctorís tablet or PC.\n\nWith the growing share of DM patients, the availability of clinicians will become a bottleneck for proper care. Patient involvement in these analyses is the best option for sustainability of care. Trace addresses this market. The short assay run time means that patients can perform blood analysis just before their regular appointments, already at the ambulatory unit, saving hours in waiting rooms and trips to labs. Hospitals benefit from faster patient turnover, providing care to more patients with the same resources (i.e. higher efficiency and higher care accessibility). Over time, Trace will be able to expand biomarker monitoring to other chronic diseases, through the development and market introduction of further assays for Trace.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ATONOMICS AS",
+    "coordinatorCountry": "DK",
+    "participants": "INTELECARE4U APS",
+    "participantCountries": "DK",
+    "projectParticipants": {
+        "944188010": {
+            "orgId": "944188010",
+            "orgName": "ATONOMICS AS",
+            "ecContrib": 50000
+        },
+        "918637725": {
+            "orgId": "918637725",
+            "orgName": "INTELECARE4U APS",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

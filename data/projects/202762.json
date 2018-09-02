@@ -1,0 +1,23 @@
+{
+    "rcn": "202762",
+    "acronym": "CIModelPLUS",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Advanced Computational Model for the Development of Cochlear Implants",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2019",
+    "objective": "Cochlear implants (CIs) are proven effective in restoring hearing to the severe-to-profoundly deaf. Up to 2012, there were more than 100,000 CI users in Europe, which only accounts for 7% of all adult CI candidates. The most severe limitation of current CI technology is caused by the wide spread of electric current in the cochlea, which results in a poor spectral resolution of electrical stimulation of the nerve and limits the number of effective electrodes. Computational models of the cochlea have been used to facilitate the development of CIs. These models depend on the geometry of the reconstructed cochlea and the exact knowledge of the electrical impedances of different tissues. However, only crude estimation of the impedances of all media is available, and most computational models of the cochlea only adopted an ideal representation of the geometry. Therefore, CIModelPLUS aims to provide engineers an advanced computational model of the cochlea with incorporated CI, which will show improved accuracy of the electric current distribution in the tissues, in order to facilitate the development of next-generation CIs. To fulfil this aim, computational models of cochleae will be reconstructed from the µ-CT scans of temporal bone specimens, and the electric current distribution inside the cochlea will also be measured experimentally. The simulation and experimental results will later be combined to develop the advanced computational model of the cochlea. CIModelPLUS involves interdisciplinary research between engineering, physics, neuroscience and medicine, and intersectoral collaboration between academia and CI industry. It will lead to the future development of CIs due to the accurate and validated computational approach adopted, and the advancement of CI technology will improve the quality of life of over 100,000 current CI users and other CI candidates in Europe, as well as that of their families and the communities that they reside in.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

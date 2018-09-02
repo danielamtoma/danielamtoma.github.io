@@ -1,0 +1,43 @@
+{
+    "rcn": "210633",
+    "acronym": "CLASS",
+    "topics": "RPAS-04",
+    "title": "CLear Air Situation for uaS: Maturing ground based technologies for a real-time Unmanned Aerial System Traffic Management System (UTMS) to monitor and separate Unmanned Aerial System (UAS) traffic",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2019",
+    "objective": "CLASS will bring the main technologies required for surveillance of Unmanned Aerial Systems (UAS) Traffic at a better level of maturity, allowing developing a pre-operational prototype of a UAS Traffic Management System (UTMS).\nCLASS will compose existing technologies to build the core functions of a UTMS:\n ï real-time tracking (cooperative and non-cooperative) and display,\n ï aggregation of relevant aeronautical data,\n ï provide adjusted services  to each stakeholder (operators, ANSP, Authorities),\n ï advanced functions such as geo-fencing (warn UAS pilot of unauthorised zones trespassing), geo-caging (warn UAS pilot if trespassing a pre-defined zone), conflict detection and resolution.\nCLASS follows mainly a bottom-up approach starting from technologies up to defining a system meeting usersí operational needs for UAS Traffic Management. CLASS will consider the outcomes of the project awarded for Work Area 1 which focuses on the concept of operation.\nFirst, CLASS will assess the performance of cooperative and non-cooperative UAS detection and tracking technologies through live experimentations. Data fusion will be developed to merge data of the same UAS detected by both cooperative and non-cooperative trackers.\nSecondly, a prototype of a real-time centralized UTMS will be developed. This platform will propose an overall view of both the planned and the current real-time UAS traffic situation. Advanced functions will be implemented.\nFinally, a demonstrator fed  by the real data acquired during the live experimentation, and by a UAS traffic simulator will be built. The outcomes will be evaluated through a series of Key Performance Indicators which will have been derived from the Concept of Operations.\nAll along the project, results will be published and shared to the UAS and the ATM community. Conclusions and recommendations for follow up will be largely disseminated to enable UAS safely operations at large scale for the benefit of the growing UAS business.",
+    "totalCost": "909972,5",
+    "ecMaxContribution": "909972,5",
+    "coordinator": "AIRBUS DEFENCE AND SPACE SAS",
+    "coordinatorCountry": "FR",
+    "participants": "UNIFLY;AVEILLANT LIMITED;ECOLE NATIONALE DE L AVIATION CIVILE;NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+    "participantCountries": "BE;UK;FR;NO",
+    "projectParticipants": {
+        "924870557": {
+            "orgId": "924870557",
+            "orgName": "UNIFLY",
+            "ecContrib": 190000
+        },
+        "916809372": {
+            "orgId": "916809372",
+            "orgName": "AVEILLANT LIMITED",
+            "ecContrib": 125000
+        },
+        "999809265": {
+            "orgId": "999809265",
+            "orgName": "AIRBUS DEFENCE AND SPACE SAS",
+            "ecContrib": 369985
+        },
+        "996375756": {
+            "orgId": "996375756",
+            "orgName": "ECOLE NATIONALE DE L AVIATION CIVILE",
+            "ecContrib": 125000
+        },
+        "999977851": {
+            "orgId": "999977851",
+            "orgName": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+            "ecContrib": 99988
+        }
+    },
+    "calculatedTotalContribution": 909973
+}

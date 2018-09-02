@@ -1,0 +1,23 @@
+{
+    "rcn": "194715",
+    "acronym": "PRECEDE",
+    "topics": "PHC-12-2014-1",
+    "title": "PRECEDE: PancREatic Cancer Early DEtection",
+    "startDate": "01/10/2014",
+    "endDate": "31/03/2015",
+    "objective": "PRECEDE (PancREatic Cancer Early DEtection): Pancreatic cancer is a devastating disease. Five year survival is only 3% and this figure has not changed for 40 years. A recent EU study has shown that this is the only cancer whoís incidence and mortality are set to increase. By the time patients present with symptoms, the disease is usually advanced and untreatable. The most effective way to improve survival would be to diagnose the disease earlier when therapy is more likely to be successful.\nCA19.9 is an approved biomarker for aiding diagnosis of pancreatic cancer in symptomatic individuals. Its sensitivity and specificity are not high enough for screening healthy high risk individuals due to the high number of false positives caused by the natural variation in levels within a population. Abcodia has developed an algorithm that learns an individualís healthy baseline of CA19.9 and spots any inflection point as pancreatic cancer develops. This personalisation of the CA19.9 test increases sensitivity by identifying low but increasing values, improves specificity by discounting high but flat profiles and detects the disease earlier through regular testing and spotting inflection points. \nAbcodia has developed the algorithm based on longitudinal pre-diagnosis levels of CA19.9 levels from 64 pancreatic cancer cases and 161 healthy controls from the UK Collaborative Trial in Ovarian Cancer Screening, which for over 10 years monitored the health of 202,000 initially free from cancer women. The algorithm improves the performance of the marker CA19.9 and detects the disease earlier than standard diagnostic practice. The algorithm now requires clinical validation in a population based clinical trial across Europe to allow full commercialisation.\nThis phase 1 project will build a robust business plan for the validation and commercialisation of one of the first examples of a personalised screening diagnostic that aims to finally improve survival in this devastating disease.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "ABCODIA LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "939711751": {
+            "orgId": "939711751",
+            "orgName": "ABCODIA LIMITED",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

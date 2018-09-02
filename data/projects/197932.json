@@ -1,0 +1,68 @@
+{
+    "rcn": "197932",
+    "acronym": "HEALTH-CODE",
+    "topics": "FCH-02.3-2014",
+    "title": "Real operation pem fuel cells HEALTH-state monitoring and diagnosis based on dc-dc COnverter embeddeD Eis",
+    "startDate": "01/09/2015",
+    "endDate": "31/12/2018",
+    "objective": "HEALTH-CODE aims at implementing an advanced monitoring and diagnostic tool for ?-CHP and backup PEM fuel cell systems equipped with different stacks. Such a tool is able to determine the FC current status (condition monitoring) to support stack failures detection and to infer on the residual useful lifetime. Five failure modes will be detected: i) change in fuel composition; ii) air starvation; iii) fuel starvation; iv) sulphur poisoning; v) flooding and de-hydration.\n\nThe main project objectives are: i) the enhancement of electrochemical impedance spectroscopy (EIS) based diagnosis; ii) the development of a monitoring and diagnostic tool for state-of-health assessment, fault detection and isolation as well as degradation level analysis for lifetime extrapolation; iii) the reduction of experimental campaign time and costs. Moreover, the improvement of power electronics for FC is also considered. These targets will be achieved through the implementation of several methodologies and techniques, well suited for industrial application.\n\nSeveral algorithms will be developed relying on on-board EIS measurements of the fuel cell system impedance. Moreover, low-cost diagnostic concepts are also proposed for a straightforward implementation on FCS controllers.\n\nThe project exploits the outcomes of the previous FCH 1 JU funded project D-CODE, during which a proof of-concept validated in laboratory (TRL3-4) was developed. HEALTH-CODE will increase the TRL up to level 5.\n\nThe exploitation of the project outcomes will lead to low-cost and reliable monitoring and diagnostic approaches and related applications (e.g. power electronics). These results will have an impact on stationary FCS with a direct increase in electrical efficiency, availability and durability, leading to a reduction in maintenance and warranty costs, thus increasing the customersí satisfaction. Therefore, HEALTH-CODE contributes to the enhancement of FC competitiveness towards a wider market deployment.",
+    "totalCost": "2358736,25",
+    "ecMaxContribution": "2358736,25",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI SALERNO",
+    "coordinatorCountry": "IT",
+    "participants": "ABSISKEY;EIFER EUROPAISCHES INSTITUT FUR ENERGIEFORSCHUNG EDF KIT EWIV;BALLARD POWER SYSTEMS EUROPE AS;UNIVERSITE DE FRANCHE-COMTE;ABSISKEY CP;ELECTRO POWER SYSTEMS MANUFACTURINGSRL;BITRON SPA;TORINO E-DISTRICT CONSORZIO;EPS ELVI ENERGY S.R.L.;AALBORG UNIVERSITET",
+    "participantCountries": "FR;DE;DK;IT",
+    "projectParticipants": {
+        "952340084": {
+            "orgId": "952340084",
+            "orgName": "TORINO E-DISTRICT CONSORZIO",
+            "ecContrib": 92163
+        },
+        "990608039": {
+            "orgId": "990608039",
+            "orgName": "BITRON SPA",
+            "ecContrib": 130745
+        },
+        "997184833": {
+            "orgId": "997184833",
+            "orgName": "ELECTRO POWER SYSTEMS MANUFACTURINGSRL",
+            "ecContrib": 129137
+        },
+        "999899184": {
+            "orgId": "999899184",
+            "orgName": "UNIVERSITA DEGLI STUDI DI SALERNO",
+            "ecContrib": 483118
+        },
+        "999863100": {
+            "orgId": "999863100",
+            "orgName": "UNIVERSITE DE FRANCHE-COMTE",
+            "ecContrib": 338211
+        },
+        "997980718": {
+            "orgId": "997980718",
+            "orgName": "EIFER EUROPAISCHES INSTITUT FUR ENERGIEFORSCHUNG EDF KIT EWIV",
+            "ecContrib": 279250
+        },
+        "999777352": {
+            "orgId": "999777352",
+            "orgName": "ABSISKEY CP",
+            "ecContrib": 0
+        },
+        "911620842": {
+            "orgId": "911620842",
+            "orgName": "ABSISKEY",
+            "ecContrib": 138750
+        },
+        "991681732": {
+            "orgId": "991681732",
+            "orgName": "BALLARD POWER SYSTEMS EUROPE AS",
+            "ecContrib": 387375
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 214438
+        }
+    },
+    "calculatedTotalContribution": 2193187
+}

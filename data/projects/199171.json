@@ -1,0 +1,63 @@
+{
+    "rcn": "199171",
+    "acronym": "SoftFIRE",
+    "topics": "ICT-12-2015",
+    "title": "Software Defined Networks and Network Function Virtualization Testbed within FIRE+",
+    "startDate": "01/02/2016",
+    "endDate": "30/04/2018",
+    "objective": "SoftFIRE\\ partners are aiming at Research and Innovation actions pursuing the integration of existing experimental facilities, testbeds and laboratories into FIRE\\. The project focuses on new technologies like SDN and NFV in order to create a reliable, secure, interoperable and programmable experimental network infrastructure within the FIRE\\ initiative. The Consortium will federate existing experimental testbeds in order to create an infrastructure that Third Parties can use to develop new services and applications. The federation is a step towards the creation of a new network experimental infrastructure that could be used as an initial 5G oriented platform.\nThe SoftFIRE\\ testbed will offer the possibility to assess and improve programmable solutions. In this environment there are three key elements to consider: programmability, interoperability and security. These properties have to be assessed in terms of efficiency, functional responsiveness and in general terms E2E QoS. \nThe main objective of this project is to demonstrate and assess the level of maturity of adopted solutions and to show how they can support the full potential of these properties in a real world infrastructure by creating, nurturing and supporting an ecosystem of Third parties able to make use of the SoftFIRE\\ testbed and to functionally extend it.\nThe project aims at creating a broad ecosystem of companies engaged with the evolution of the SoftFIRE\\ testbed. In order to achieve this goal, the project will spend a considerable part of its effort and budget for involving Third parties in the usage and consolidation of the platform. The mechanisms envisaged for this are: Open Calls and specific events (like Hackathon, Plug-tests and Challenges). The federated infrastructure will be used in order to a) develop new services and applications from Third parties, and b) develop new platform functionalities.",
+    "totalCost": "4384510",
+    "ecMaxContribution": "4384510",
+    "coordinator": "EIT DIGITAL",
+    "coordinatorCountry": "BE",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;TECHNISCHE UNIVERSITAET BERLIN;ERICSSON TELECOMUNICAZIONI;TELECOM ITALIA SPA;ADS ASSEMBLY DATA SYSTEM SPA;DEUTSCHE TELEKOM AG;UNIVERSITY OF SURREY;SECURITY REPLY SRL",
+    "participantCountries": "DE;IT;UK",
+    "projectParticipants": {
+        "999936335": {
+            "orgId": "999936335",
+            "orgName": "DEUTSCHE TELEKOM AG",
+            "ecContrib": 178200
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 103747
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 261750
+        },
+        "951377553": {
+            "orgId": "951377553",
+            "orgName": "SECURITY REPLY SRL",
+            "ecContrib": 303750
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 385858
+        },
+        "954616286": {
+            "orgId": "954616286",
+            "orgName": "EIT DIGITAL",
+            "ecContrib": 2283866
+        },
+        "913275565": {
+            "orgId": "913275565",
+            "orgName": "ADS ASSEMBLY DATA SYSTEM SPA",
+            "ecContrib": 101375
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 436590
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 329375
+        }
+    },
+    "calculatedTotalContribution": 4384511
+}

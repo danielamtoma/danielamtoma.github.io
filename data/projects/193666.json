@@ -1,0 +1,28 @@
+{
+    "rcn": "193666",
+    "acronym": "REMEMBER",
+    "topics": "ERC-StG-2014",
+    "title": "Adaptive immunity in prokaryotes: how Bacteria do not forgive and do not forget their enemies",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2020",
+    "objective": "Microbes in natural ecosystems are under constant evolutionary pressure from viruses. To survive in this hostile environment microbes have evolved an adaptive immune system called CRISPR-Cas. The immune system is based on incorporation of invader DNA sequences in a memory locus (CRISPR), the formation of guide RNAs from this locus, and the degradation of invading target DNA using CRISPR RNA-guided protein complexes. Invaders escape immunity by making point mutations in the targeted region of their DNA, but hosts quickly restore immunity by integrating new memory sequences against the same invader in a process called priming. Recently, I have made the remarkable discovery that hosts mount a primed immune response even when facing heavily mutated invaders. This implies that the memory of the CRISPR-Cas system not only functions in the short term against relatively recent threats, but also remembers a range of revisiting old foes in the long term, providing a huge evolutionary benefit for the host in the arms race with their invaders.\n\tThis proposal sets out to determine the mechanism of the enigmatic process of primed memory formation against heavily mutated invaders. Using a combination of genetic, biochemical and structural approaches, including state-of-the-art single molecule imaging of CRISPR immunity in living Escherichia coli cells, I will investigate the driving hypothesis that perfectly matching and degenerate targets are differentially recognized, and trigger either target DNA degradation or priming. Moreover, I will test the supposition that degenerate priming is a universal phenomenon among different CRISPR-Cas types. If this is the case, degenerate priming will impair the use of viruses as therapeutic agents to treat antibiotic resistant bacterial infections. To prevent CRISPR resistance I propose to screen for organic molecules that inhibit the formation of CRISPR resistance. These molecules can be co-administered with viruses to potentiate treatments.",
+    "totalCost": "1499183,75",
+    "ecMaxContribution": "1499183,75",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "WAGENINGEN UNIVERSITY",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999981634": {
+            "orgId": "999981634",
+            "orgName": "WAGENINGEN UNIVERSITY",
+            "ecContrib": 125887
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1373297
+        }
+    },
+    "calculatedTotalContribution": 1499184
+}

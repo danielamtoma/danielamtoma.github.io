@@ -1,0 +1,33 @@
+{
+    "rcn": "211810",
+    "acronym": "NTSC",
+    "topics": "ERC-2016-ADG",
+    "title": "New Techniques for Secure Computation",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Secure computation is a general-purpose tool for processing sensitive data without compromising its\nconfidentiality or integrity. In recent years, significant research efforts have been invested in optimizing\nand implementing secure computation protocols and related cryptographic primitives such as fully\nhomomorphic encryption and program obfuscation.\nThe proposed project will explore new techniques for secure computation and related primitives.\nThe new techniques are expected to enhance the asymptotic and concrete efficiency of current solutions\nand extend the known relations between secure computation and other problems in cryptography and\ncomputational complexity theory. The research will span the following directions:\nï Succinct secure computation via homomorphic secret sharing, exploring new research directions\nthat were opened by recent works of the PI;\nï Protecting protocols against malicious parties, with relevance to efficient general-purpose program\nobfuscation;\nï Protecting protocols against general information leakage",
+    "totalCost": "1903833",
+    "ecMaxContribution": "1903833",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "BEN-GURION UNIVERSITY OF THE NEGEV;INTERDISCIPLINARY CENTER (IDC) HERZLIYA",
+    "participantCountries": "IL",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 1546758
+        },
+        "999846222": {
+            "orgId": "999846222",
+            "orgName": "BEN-GURION UNIVERSITY OF THE NEGEV",
+            "ecContrib": 239625
+        },
+        "999820323": {
+            "orgId": "999820323",
+            "orgName": "INTERDISCIPLINARY CENTER (IDC) HERZLIYA",
+            "ecContrib": 117450
+        }
+    },
+    "calculatedTotalContribution": 1903833
+}

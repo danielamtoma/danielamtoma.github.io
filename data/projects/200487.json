@@ -1,0 +1,33 @@
+{
+    "rcn": "200487",
+    "acronym": "CORNET",
+    "topics": "JTI-CS2-2014-CFP01-ENG-03-02",
+    "title": "CORE NOISE ENGINE TECHNOLOGY",
+    "startDate": "01/03/2016",
+    "endDate": "30/04/2019",
+    "objective": "Lean burn combustor technologies introduced to reduce NOx emissions are proving to be inherently noisier than conventional combustors, generating broadband noise that can be heard external to the aircraft. Without careful design and optimisation, there is a danger the low emission cores will cause the aircraft engines to exceed the Horizon 2020 noise requirement.  \n\nThe research in the CORNET proposal is aimed at understanding the flow physics involved in the generation and propagation of core noise in low emission cores. It includes both the ëdirect noiseí of combustion, pressure waves generated directly by unsteadiness in the rate of combustion, and the ëindirect noiseí generated as entropy waves accelerate through the Nozzle Guide Vanes (NGVs) at combustor exit and propagate through turbine blade rows. \n\nLarge Eddy Simulations of a combustor with a realistic engine fuel injector operating at representative engine conditions are validated through high-speed optical diagnostics applied to a high-pressure rig. The combustor modelling gives the entropy and acoustic waves incident on the NGVs. The generation of in-direct noise is predicted through unsteady high-resolution computations of the interaction of these entropy and acoustic waves within a high-pressure turbine stage. The new understanding will be captured in an advanced analytical combustion noise prediction tool that can be readily used by industry.",
+    "totalCost": "997772,25",
+    "ecMaxContribution": "997772,25",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;TECHNISCHE UNIVERSITAT DARMSTADT",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 100000
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 377784
+        }
+    },
+    "calculatedTotalContribution": 477784
+}

@@ -1,0 +1,73 @@
+{
+    "rcn": "205501",
+    "acronym": "MONSOON",
+    "topics": "SPIRE-02-2016",
+    "title": "MOdel based coNtrol framework for Site-wide OptmizatiON of data-intensive processes",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "The MONSOON vision is to provide Process Industries with dependable tools to help achieving improvements in the efficient use and re-use of raw resources and energy.\nMONSOON aims at establishing a data-driven methodology supporting the exploitation of optimization potentials by applying multi-scale model based predictive controls in production processes.\nMONSOON features harmonized site-wide dynamic models and builds upon the concept of the cross-sectorial data lab, a collaborative environment where high amounts of data from multiple sites are collected and processed in a scalable way. The data lab enables multidisciplinary collaboration of experts allowing teams to jointly model, develop and evaluate distributed controls in rapid and cost-effective way. Hybrid simulation and seamless integration techniques are adopted for rapid prototyping and deployment in real conditions.\nMONSOON will be developed and evaluated in two sites from the aluminium and plastics domains. The aluminium scenario will be focused on predictive monitoring of potlines, targeting early detection of anomalies and identification of potential optimization gains. Aluminium cases will be implemented in the plant with the highest primary aluminium production in the EU-28, namely the AP Dunkerque smelter, France.  The plastics scenario will focus on fusing data from data-intensive in-mould sensors with information from higher SCADA levels, enabling early and precise identification of potential issues. This use case will be implemented in the GLN plant in Maceira-Leiria.\nMONSOON addresses the SPIRE vision, providing advantages for the European industry competitiveness and sustainability through the realization of an overarching monitoring and control infrastructure. MONSOON aims at creating synergies within and between the process industry sectors, boosting European industry in the worldwide race for competitiveness and sustainability.",
+    "totalCost": "5497190",
+    "ecMaxContribution": "5497190",
+    "coordinator": "Istituto Superiore Mario Boella",
+    "coordinatorCountry": "IT",
+    "participants": "TECHNICKA UNIVERZITA V KOSICIACH;ASOCIACION ESPANOLA DE NORMALIZACION;CAPGEMINI TECHNOLOGY SERVICES;KUNSTSTOFF-INSTITUT FUER MITTELSTAENDISCHE WIRTSCHAFT NRW GMBH (KIMW NRWGMBH);ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;GLNPLAST SA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ALUMINIUM PECHINEY;LIFE CYCLE ENGINEERING SRL;PROBAYES SAS",
+    "participantCountries": "SK;ES;FR;DE;EL;PT;IT",
+    "projectParticipants": {
+        "984232326": {
+            "orgId": "984232326",
+            "orgName": "ASOCIACION ESPANOLA DE NORMALIZACION",
+            "ecContrib": 81250
+        },
+        "991714033": {
+            "orgId": "991714033",
+            "orgName": "KUNSTSTOFF-INSTITUT FUER MITTELSTAENDISCHE WIRTSCHAFT NRW GMBH (KIMW NRWGMBH)",
+            "ecContrib": 461875
+        },
+        "937888830": {
+            "orgId": "937888830",
+            "orgName": "ALUMINIUM PECHINEY",
+            "ecContrib": 690625
+        },
+        "927000968": {
+            "orgId": "927000968",
+            "orgName": "GLNPLAST SA",
+            "ecContrib": 239256
+        },
+        "999599357": {
+            "orgId": "999599357",
+            "orgName": "ISTITUTO SUPERIORE MARIO BOELLA SULLE TECNOLOGIE DELL'INFORMAZIONE E DELLE  TELECOMUNICAZIONI ASSOCIAZIONE",
+            "ecContrib": 0
+        },
+        "951577179": {
+            "orgId": "951577179",
+            "orgName": "LIFE CYCLE ENGINEERING SRL",
+            "ecContrib": 215000
+        },
+        "999839238": {
+            "orgId": "999839238",
+            "orgName": "TECHNICKA UNIVERZITA V KOSICIACH",
+            "ecContrib": 446625
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 752246
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 472812
+        },
+        "999752326": {
+            "orgId": "999752326",
+            "orgName": "PROBAYES SAS",
+            "ecContrib": 320000
+        },
+        "947643150": {
+            "orgId": "947643150",
+            "orgName": "CAPGEMINI TECHNOLOGY SERVICES",
+            "ecContrib": 982500
+        }
+    },
+    "calculatedTotalContribution": 4662189
+}

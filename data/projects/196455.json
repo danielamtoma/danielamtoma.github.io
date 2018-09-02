@@ -1,0 +1,23 @@
+{
+    "rcn": "196455",
+    "acronym": "SMASH",
+    "topics": "ICT-37-2014-1",
+    "title": "SMASH, SMArt SHaring device for mobility",
+    "startDate": "01/05/2015",
+    "endDate": "31/10/2015",
+    "objective": "SMASH is a Smart Sharing Device aiming to improve the access and the fruition of innovative urban mobility, through the combined use of satellite tracking technology and wireless transmission, embedded in a single miniaturized device.\nThe proposed device, developed by greenspider and available in prototype,  integrates in a single ultra-low-power electronic circuit a GNSS receiver, Near Field Communication (NFC),Bluetooth Low Energy (BLE), and GPRS module for connection to the cloud. The supported NFC is compatible with the standard nowadays adopted by major Smartphones manufactures and mobile operators, and it's considered a disruptive technology to enable secure authentication, mobile access and payment via Smartphone. With this characteristic SMASH permits a direct NFC interaction with end-user smartphone, and correlate positioning data retrieved from different positioning device.\nSMASH enables access to innovative mobility schemes, thanks to its embedded GNSS and proximity interaction between the user's Applet and the device. The device can be integrated into vehicles and infrastuctures, like parking or charging stations, or in general in any resource in a sharing scheme, allowing easy NFC controls and data sharing. Thanks to the NFC connection,the data related to the user's access request and  to the available resources, with the relative positions, are exchanged in a safe and reliabl way, and shared in the cloud, enabling innovative mobility service and advanced fleet management. The units of fleet management in Europe has risen from 1.5 million units in 2009 to 4 million in 2014, and are expected to grow further in the next years. The penetration of NFC across all handset is planned to reach approximately 32% by 2017, with more than 1 Billion smartphone with NFC support. In this market scenario the sales forecast for SMASH device reach several million of units in few year, with a target of 5 Millions euro in 5 years.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "GREENSPIDER GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "946040710": {
+            "orgId": "946040710",
+            "orgName": "GREENSPIDER GMBH",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

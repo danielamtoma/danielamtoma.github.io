@@ -1,0 +1,43 @@
+{
+    "rcn": "198843",
+    "acronym": "ERROR",
+    "topics": "MSCA-RISE-2015",
+    "title": "A pEdiatRic dosimetRy personalized platfORm based on computational anthropomorphic phantoms",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "The main objective of ERROR is to develop a new software tool, which will offer to the clinician the possibility to assess alternative imaging and therapeutic protocols, in real time, in silico, in order to minimize patient dose, while maintaining image quality of therapeutic effect. This tool will be designed, implemented and evaluated with specific focus on pediatric patients, since this is a rather sensitive target group, where dose considerations are high and no standard protocols and solutions exist. The project will exploit the new generation of computational anthropomorphic phantoms, in combination with well validated Monte Carlo simulations and Machine Learning Tools. In this way, it is envisaged that advanced, yet mature technologies will be integrated, to provide a novel tool, which can lead to a final product.\nThe ERROR project brings together a multidisciplinary consortium of specialists in different areas of medical physics, biomedical engineering, physicians and computer engineers, who will join forces in order to design, implement and clinically assess a novel software tools, which initial focus in the optimization of diagnostic and therapeutic protocols for pediatric exams. Two new SMEs will provide their expertise, as well as investigate the ways to exploit project outcome.\nA well planned exchange program among academic and industrial partners will facilitate knowledge sharing, maximize collaborative work and finally achievement of project objectives. The consortium, being aware of the scientific and social importance of pediatric clinical applications, has planned a series of dissemination and training activities, aiming at making project knowledge and outcomes available to the scientific community and society.",
+    "totalCost": "432000",
+    "ecMaxContribution": "432000",
+    "coordinator": "PANEPISTIMIO PATRON",
+    "coordinatorCountry": "EL",
+    "participants": "TECHNOLOGIKES LYSEIS BIOEKPOBIS IKE;INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE;UNIVERSITE DE BRETAGNE OCCIDENTALE;LIBRA MLI LTD;GUYS AND ST THOMAS' NHS FOUNDATIONTRUST",
+    "participantCountries": "EL;FR;UK",
+    "projectParticipants": {
+        "992185938": {
+            "orgId": "992185938",
+            "orgName": "GUYS AND ST THOMAS' NHS FOUNDATIONTRUST",
+            "ecContrib": 27000
+        },
+        "930257549": {
+            "orgId": "930257549",
+            "orgName": "LIBRA MLI LTD",
+            "ecContrib": 90000
+        },
+        "999894528": {
+            "orgId": "999894528",
+            "orgName": "PANEPISTIMIO PATRON",
+            "ecContrib": 103500
+        },
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 45000
+        },
+        "999902676": {
+            "orgId": "999902676",
+            "orgName": "UNIVERSITE DE BRETAGNE OCCIDENTALE",
+            "ecContrib": 76500
+        }
+    },
+    "calculatedTotalContribution": 342000
+}

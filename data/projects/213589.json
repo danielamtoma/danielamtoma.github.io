@@ -1,0 +1,33 @@
+{
+    "rcn": "213589",
+    "acronym": "VISTA",
+    "topics": "JTI-CS2-2017-CFP06-LPA-02-21",
+    "title": "Vision-based Inspection Systems for automated Testing of Aircraft interiors",
+    "startDate": "01/02/2018",
+    "endDate": "31/07/2020",
+    "objective": "The VISTA project aims to post-assembly testing of aircraft interior installations in both cabin and cargo units in order to ensure quality and reliability of located components. This goal will be pursued by the development and implementation of a multi-sensor platform and sensor processing algorithms, integrating on-board a mobile system and an interface for data transmission, able to provide efficient automated testing and quality reports. In detail, multiple optical devices, including 3D LIDAR, omnidirectional laser profilometers, RGB-D, and (stereo) vision sensors, integrated with on-board image processing hardware, will be tested for the 3D modelling of the aircraft interior. In addition, the sensor suite will include line scan cameras for colour inspection of surface quality. All sensors will be integrated on an automated guided vehicle (AGV) that will collect and store sensor measurements, while traversing both cabin and cargo areas. The collection of full 3D models, i.e. 3D models augmented with metadata, such as colour, material and texture, will feed high-level algorithms that will automatically determine tolerances of the components with respect to positioning, gap and flush, and assess surface quality in terms of texture, colour, and defects. An interface for data transmission will be developed and tested for visualization and documentation, which will be made available to the human operators via suitable interfaces based on Augmented Reality (AR).",
+    "totalCost": "1196250",
+    "ecMaxContribution": "987375",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "LIN UP SRL;PROTOM GROUP SPA",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "937157547": {
+            "orgId": "937157547",
+            "orgName": "PROTOM GROUP SPA",
+            "ecContrib": 277375
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 500000
+        },
+        "918151270": {
+            "orgId": "918151270",
+            "orgName": "LIN UP SRL",
+            "ecContrib": 210000
+        }
+    },
+    "calculatedTotalContribution": 987375
+}

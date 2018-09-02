@@ -1,0 +1,63 @@
+{
+    "rcn": "194283",
+    "acronym": "SEERS",
+    "topics": "ICT-26-2014",
+    "title": "Snapshot spEctral imagEr for cost effective IR Surveillance",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "SEERS proposes a breakthrough approach to multispectral imaging in a broad band of the infrared domain (0.7-14 µm wavelength).  Video surveillance for safety and security is targeted for demonstration.\nFirstly, a snapshot multispectral imager in the IR domain will be developed. Secondly, an embedded approach will be adopted for image reconstruction, cognitive image fusion, video pre-processing and event-driven operation. Thirdly, the benefits of a novel video analytics solution (VAS) for smart networked operation will be demonstrated in terms of performance and persistence, thanks to multispectral imaging. \nAs a result of SEERS, a compact and cost-effective IR imager will be delivered. With this aim, research and development at different levels will be addressed:\nï Microbolometer (FPA) re-design adapted to multi-aperture imaging requirements\nï Spectral optical design putting together beam splitting and multi-aperture imaging\nï Development of multi-aperture sensor arrays for multispectral and super-resolution imaging\nï Embedded processing for: image reconstruction based on computational imaging, cognitive image fusion, spectral measurements, and video pre-processing\nï Persistent video analytics based on pre-processed multispectral video\nOverall, SEERS approach will enable robust intelligent surveillance with event-driven and smart performance. Remarkable capabilities will be robustness to variable visibility conditions (e.g. fog, rain, fumes), gas discrimination and level determination, spill detection, fire and burst imaging with accurate temperature measurement. Demonstration will be addressed in real operational conditions for two different scenarios: coastal and tunnel surveillance.",
+    "totalCost": "3750535",
+    "ecMaxContribution": "3750535",
+    "coordinator": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE",
+    "coordinatorCountry": "ES",
+    "participants": "QUEST PHOTONIC DEVICES BV;FUNDACION CENTRO TECNOLOXICO DE TELECOMUNICACIONS DE GALICIA;THALES ITALIA SPA;NEW INFRARED TECHNOLOGIES SL;AIRBUS DS SAS;MIKROSENS ELEKTRONIK SANAYI VE TICARET AS;UNIVERSITY OF GLASGOW;MIDDLE EAST TECHNICAL UNIVERSITY",
+    "participantCountries": "NL;ES;IT;FR;TR;UK",
+    "projectParticipants": {
+        "952673764": {
+            "orgId": "952673764",
+            "orgName": "QUEST PHOTONIC DEVICES BV",
+            "ecContrib": 743250
+        },
+        "995925967": {
+            "orgId": "995925967",
+            "orgName": "THALES ITALIA SPA",
+            "ecContrib": 550416
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 344631
+        },
+        "998801532": {
+            "orgId": "998801532",
+            "orgName": "ASOCIACION DE INVESTIGACION METALURGICA DEL NOROESTE",
+            "ecContrib": 535250
+        },
+        "996369936": {
+            "orgId": "996369936",
+            "orgName": "FUNDACION CENTRO TECNOLOXICO DE TELECOMUNICACIONS DE GALICIA",
+            "ecContrib": 385750
+        },
+        "999643492": {
+            "orgId": "999643492",
+            "orgName": "MIDDLE EAST TECHNICAL UNIVERSITY",
+            "ecContrib": 219250
+        },
+        "998883885": {
+            "orgId": "998883885",
+            "orgName": "NEW INFRARED TECHNOLOGIES SL",
+            "ecContrib": 203500
+        },
+        "940091506": {
+            "orgId": "940091506",
+            "orgName": "MIKROSENS ELEKTRONIK SANAYI VE TICARET AS",
+            "ecContrib": 513875
+        },
+        "999956705": {
+            "orgId": "999956705",
+            "orgName": "AIRBUS DS SAS",
+            "ecContrib": 254613
+        }
+    },
+    "calculatedTotalContribution": 3750535
+}

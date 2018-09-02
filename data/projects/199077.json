@@ -1,0 +1,33 @@
+{
+    "rcn": "199077",
+    "acronym": "Q4HEALTH",
+    "topics": "ICT-12-2015",
+    "title": "Quality of Service and prioritisation for emergency services in the LTE RAN stack",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2017",
+    "objective": "Q4HEALTH project is an innovation action focused on the optimization of real time video for emergency services over LTE. The project is implemented as a set of experiments conducted over the FIRE platforms PerformLTE and OpenAirInterface. The motivation is to study video performance in scenarios with wearable live video for first responders, improving its response on LTE-A with a particular innovation focus on 3GPP release 12. To achieve this goal six different experiments will be performed focused on resolving a set of six challenges identified as well as addressing a range of KPIs\nQ4HEALTH faces different challenges, the inability of applications to negotiate a QoS agreement with the network, the delays introduced on live video, the appropriate  scheduling algorithms on the access nodes, the service availability on indoor scenarios and the communication between geographically correlated  entities. \nThese challenges will be approached from different perspectives, the applications that will be extended to provide information regarding the type of traffic as well as their traffic requirements to the EPC and the scheduler in the RAN; the radio access where different scheduling strategies will be explored for emergency video; and the core network where mechanism to perform QoS reservation, techniques for seamless mobility between heterogeneous access technologies and SDN techniques to improve communication will be studied. \nQ4HEALTH has defined 20 KPIs and these will be formulated at the start as a baseline and at the end of the project we will measure the KPIs on an integrated optimized experiment in order to validate the project success.\nQ4HEALTH will participate in the EIT KIC as well as FIRE and 5GPPP events in order to disseminate our results in to the wider innovation ecosystem. All the project results and extensions will be showcased to maximize the exposures to other companies that might also exploit the outcomes of the project.",
+    "totalCost": "855037",
+    "ecMaxContribution": "728176",
+    "coordinator": "REDZINC SERVICES LIMITED",
+    "coordinatorCountry": "IE",
+    "participants": "EURECOM;UNIVERSIDAD DE MALAGA",
+    "participantCountries": "FR;ES",
+    "projectParticipants": {
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 220417
+        },
+        "999898311": {
+            "orgId": "999898311",
+            "orgName": "UNIVERSIDAD DE MALAGA",
+            "ecContrib": 211750
+        },
+        "961330335": {
+            "orgId": "961330335",
+            "orgName": "REDZINC SERVICES LIMITED",
+            "ecContrib": 296009
+        }
+    },
+    "calculatedTotalContribution": 728176
+}

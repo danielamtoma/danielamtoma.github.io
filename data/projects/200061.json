@@ -1,0 +1,23 @@
+{
+    "rcn": "200061",
+    "acronym": "AstroMetrix",
+    "topics": "ERC-PoC-2015",
+    "title": "Precision tracking with tools from Astrophysics",
+    "startDate": "01/02/2016",
+    "endDate": "31/07/2017",
+    "objective": "In our ERC-funded project we have used interferometric techniques from radio astronomy to precisely localize bunches of cosmic ray particles rushing through our Earth atmosphere at light speed. Here we want to use this technique to provide precise and robust tracking of tracking of vehicles, such as robotic lawnmowers, ships and planes. Localizing vehicles as precisely as possible has become an ever more important aspect of modern day life, as is evident from the success of GPS. However, under certain circumstances GPS will not work well, either because the vehicle is indoors or the accuracy of GPS-systems is not sufficient. To achieve the feat of catching particles at light speed in our ERC project, we combined the knowledge from radio astronomy, particle physics and modern digital data processing. We developed solar-powered smart receivers linked over large areas into a single interferometer and developed software tools that allow us to do radio interferometric measurements in the presence of distorting signals. In the past, radio astronomical techniques were too compute- and power-intensive for commercial applications; however, the game changers are now powerful mobile phone processors developed for the consumer market. As a result we can in principle robustly localize radio sources to within a fraction of a wavelength ñ i.e., anywhere from millimetres to metres depending on the radio frequency. The concept is scalable, can be used to measure accurate locations over distances from metres to thousands of kilometres, and can be employed on earth or from space. The earth-based applications has a potential economic and social impact for instance via the tracking of objects (parcels or people) indoors, while the space-based application will allow for continuous tracking of ships and planes. The main goal of this proposal is to prepare for the launch of a start-up country that can commercialize this knowledge.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "STICHTING KATHOLIEKE UNIVERSITEIT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992110": {
+            "orgId": "999992110",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

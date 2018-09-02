@@ -1,0 +1,103 @@
+{
+    "rcn": "198017",
+    "acronym": "EXIST",
+    "topics": "ECSEL-01-2014",
+    "title": "Extended Image Sensing Technologies",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "This project will research new technologies for CMOS image sensors that are needed in the next generation of several application domains.\nThe image sensor research will focus on enhancing the capabilities of current imaging devices:\nï New design (architectures) and technology (e.g. 3D stacking) for better pixels (lower noise, higher dynamic range, new functionality within the pixel) and more pixels (higher spatial and temporal resolutions) at higher speed, time-of-flight pixels, local (on-chip) image processing, embedded CCD in CMOS TDI pixels.\nï Extended sensitivity and functionality of the pixels: extension into infrared, filters for hyper-and multi-spectral imaging, better colour filters, programmable filters with LCD cells.\n\nApplication domains that will be covered are:\nï Digital Lifestyle: Broadcast, Digital Cinema & Entertainment, Smart home (Grass Valley, Angenieux, Silios, Delft University of Technology, SoftKinetic).\nï Smart Production (IMEC, C-cam).\nï High-end Security (Adimec, Angenieux, Le2i, TNO).\nï Agriculture and food sorting using hyper- and multi-spectral imaging and programmable filters (Silios, Le2i).\nï Medical healthcare: diagnostics using multi-/hyper-spectral imaging and programmable filters (Adimec, TNO, Silios, Quest and Focal).\nï Gas detection using multi spectral IR imagers (Sofradir).\nï Security: gas sensing (Sofradir).\n\nThe prototype CMOS image sensors for several application domains will be demonstrated together with the sensor related processing.",
+    "totalCost": "27385805",
+    "ecMaxContribution": "8765417,46",
+    "coordinator": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+    "coordinatorCountry": "BE",
+    "participants": "VECTOR INTERNATIONAL;SOFTKINETIC INTERNATIONAL;SILIOS TECHNOLOGIES SA;UNIVERSITE DIJON BOURGOGNE;QUEST PHOTONIC DEVICES BV;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;GRASS VALLEY NEDERLAND BV;INTEGRATED SYSTEMS DEVELOPMENT S.A.;ADIMEC ADVANCED IMAGE SYSTEMS BV;AMS SENSORS BELGIUM;SOCIETE FRANCAISE DE DETECTEURS INFRAROUGES - SOFRADIR;SOFTKINETIC SENSORS NV;DEMCON FOCAL BV;THALES ANGENIEUX SAS;TECHNISCHE UNIVERSITEIT DELFT;IMINDS",
+    "participantCountries": "BE;FR;NL;EL",
+    "projectParticipants": {
+        "952673764": {
+            "orgId": "952673764",
+            "orgName": "QUEST PHOTONIC DEVICES BV",
+            "ecContrib": 231644
+        },
+        "984350375": {
+            "orgId": "984350375",
+            "orgName": "VECTOR INTERNATIONAL",
+            "ecContrib": 77988
+        },
+        "957084451": {
+            "orgId": "957084451",
+            "orgName": "ADIMEC ADVANCED IMAGE SYSTEMS BV",
+            "ecContrib": 723125
+        },
+        "997607656": {
+            "orgId": "997607656",
+            "orgName": "INTEGRATED SYSTEMS DEVELOPMENT S.A.",
+            "ecContrib": 229531
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 3403532
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 306348
+        },
+        "983224205": {
+            "orgId": "983224205",
+            "orgName": "SILIOS TECHNOLOGIES SA",
+            "ecContrib": 187688
+        },
+        "919320605": {
+            "orgId": "919320605",
+            "orgName": "SOFTKINETIC INTERNATIONAL",
+            "ecContrib": 427265
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "961020323": {
+            "orgId": "961020323",
+            "orgName": "DEMCON FOCAL BV",
+            "ecContrib": 120961
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 142795
+        },
+        "936720271": {
+            "orgId": "936720271",
+            "orgName": "SOCIETE FRANCAISE DE DETECTEURS INFRAROUGES - SOFRADIR",
+            "ecContrib": 319727
+        },
+        "999947975": {
+            "orgId": "999947975",
+            "orgName": "GRASS VALLEY NEDERLAND BV",
+            "ecContrib": 1007256
+        },
+        "998154639": {
+            "orgId": "998154639",
+            "orgName": "AMS SENSORS BELGIUM",
+            "ecContrib": 667341
+        },
+        "999839820": {
+            "orgId": "999839820",
+            "orgName": "UNIVERSITE DIJON BOURGOGNE",
+            "ecContrib": 202948
+        },
+        "985362376": {
+            "orgId": "985362376",
+            "orgName": "SOFTKINETIC SENSORS NV",
+            "ecContrib": 0
+        },
+        "960392345": {
+            "orgId": "960392345",
+            "orgName": "THALES ANGENIEUX SAS",
+            "ecContrib": 717267
+        }
+    },
+    "calculatedTotalContribution": 8765416
+}

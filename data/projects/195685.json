@@ -1,0 +1,23 @@
+{
+    "rcn": "195685",
+    "acronym": "MorpheuS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Hybrid Machine Learning ñ Optimization techniques To Generate Structured Music Through Morphing And Fusion",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2017",
+    "objective": "State-of-the-art music generation systems (Continuator, OMax, Mimi) produce music that sounds good on a note-to-note level but lacks critical structure/direction necessary for long term coherence. To tackle this problem, we propose to generate compositions based on structural templates at varying hierarchical levels. Our novel approach deploys machine-learning methods in an optimization context to morph existing pieces into new ones and to fuse different styles.\n\nWe aim to develop a framework that combines machine learning techniques that learn style, with a powerful optimization method, the variable neighbourhood search (VNS) algorithm, for generating music. This approach allows the learned model to incorporate a wide variety of constraints, including those for preserving long term coherence and structure. It promises to effect a step-change in automatic music generation by moving the field in the new direction of generating structured music using hybrid machine learning-optimization techniques.\n\nThe applicant is an operations researcher-musician, ideal for this work. A first step combines her VNS music generation algorithm with machine learning methods to ensure proper style evaluation. In previous work, the applicant has shown that VNS outperforms genetic algorithms when generating counterpoint with a rule-based objective function. In a preliminary study, the applicant has demonstrated the effectiveness of using machine learning techniques as evaluation metrics for optimisation methods. The applicant has extensive web development experience; to reach the widest possible audience, the resulting system will be made available in an interactive website where users can morph and fuse musical pieces.\nThis work is situated in the area of digital media, with a European consumer expenditure of over Ä33 billion in 2011, projected to increase. Music generation in digital music has direct applications in game music, interactive arts, and stock-music for advertising/videos.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "QUEEN MARY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

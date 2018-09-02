@@ -1,0 +1,28 @@
+{
+    "rcn": "212857",
+    "acronym": "OpenGTN",
+    "topics": "MSCA-ITN-2017",
+    "title": "Open Ground Truth Training Network : Magnetic resonance image simulationfor training and validation of image analysis algorithms",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "This action aims to optimally prepare three young researchers for the evolving medical imaging world by offering a unique set of targeted interdisciplinary training and research assignments in the areas of anatomy, pathology, imaging techniques, quantitative image analysis and segmentation, Magnetic Resonance (MR) physics and MR image simulation. \nMR imaging is the major imaging modality for brain and spine anatomy and pathology. A clear trend can be observed from visual to computer-assisted diagnosis by quantification of disease-specific biomarkers, derived from the MR images. The major components in image quantification applications are tissue and organ segmentation and classification. Manual segmentation is too tedious and cumbersome for daily clinical practice and would lead to large inter-user variability. Much research is therefore performed on automatic segmentation techniques. Training, validation and benchmarking of these techniques is currently impeded by the lack of MR image databases with exact reference segmentations.\nThe research will follow an innovative approach to overcome the current barriers for wide uptake of automatic segmentation. By combining mathematical organ models with physical and biological tissue properties and image simulation methods, substantial public image databases will be established providing ample MR images with ground truth (exact) segmentations, by which fast and accurate optimization and validation of image segmentation algorithms will be enabled.\nBased on sound career development plans, and coached by experienced supervisors a training is offered by leading image analysis research groups from Philips (global leader in medical imaging) and the Eindhoven University of Technology (world-wide recognized authority in education and research on image analysis, esp. on MRI) and supported by researchers from leading clinical centers as UMC Utrecht, TU Munich, Kings College London and the German Center for Neurodegenerative Diseases.",
+    "totalCost": "766122,84",
+    "ecMaxContribution": "766122,84",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "Philips GmbH",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 766123
+        },
+        "936940752": {
+            "orgId": "936940752",
+            "orgName": "Philips GmbH",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 766123
+}

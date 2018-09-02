@@ -1,0 +1,23 @@
+{
+    "rcn": "204901",
+    "acronym": "UniPAT",
+    "topics": "ERC-PoC-2015",
+    "title": "Universal Pulses for Parallel Transmission and Magnetic Resonance Imaging",
+    "startDate": "01/09/2016",
+    "endDate": "28/02/2018",
+    "objective": "The parallel transmission technology is a promising technique to counteract the radiofrequency (RF) field inhomogeneity problem in Magnetic Resonance Imaging (MRI) at ultra-high field. It consists of placing around the subject several RF transmitters that can be controlled independently in amplitude and phase. By using sophisticated algorithms, it is then possible to design the respective waveforms which lead to a uniform excitation. This powerful tool on the other hand has remained a research instrument mostly due to the calibration and calculation time necessary to exploit the technology in each exam (around 10 minutes), and the required expertise to calculate the waveforms. \nIn this Proof-of-Concept project, we propose to establish the scientific validity, technical feasibility and market potential of universal RF pulses. The instigator of the project indeed has acquired supporting evidence during his ERC project that it is possible to generate a set of RF pulses predesigned to be robust with respect to patient variability. That way, the so-called ìuniversal pulsesî can be applied to a category of patients without any special calibration or particular expertise. The use of parallel transmission thereby could become accessible to any clinical MRI platform equipped appropriately. Universal pulses would represent a ìplug and playî solution. \nThis Proof-of-Concept project hence will be carried out by first accumulating the data necessary to create a database of RF field maps acquired on different human brains. Through the use of tools developed during the corresponding ERC project, the pulses will be designed to work robustly on the cohort. These pulses will then be blindly applied to a group of new healthy adult volunteers without any particular calibration or calculation. Experiments will be performed at 7T using a commercial RF coil to market the results better and offer a readily implementable product to companies.",
+    "totalCost": "149634",
+    "ecMaxContribution": "149634",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 149634
+        }
+    },
+    "calculatedTotalContribution": 149634
+}

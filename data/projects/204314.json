@@ -1,0 +1,63 @@
+{
+    "rcn": "204314",
+    "acronym": "ECo",
+    "topics": "FCH-02.3-2015",
+    "title": "Efficient Co-Electrolyser for Efficient Renewable Energy Storage - ECo",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2019",
+    "objective": "The overall goal of ECo is to develop and validate a highly efficient co-electrolysis process for conversion of excess renewable electricity into distributable and storable hydrocarbons via simultaneous electrolysis of steam and CO2 through SOEC (Solid Oxide Electrolysis Cells) thus moving the technology from technology readiness level (TRL) 3 to 5.\nIn relation to the work program, ECo will specifically:\nï Develop and prove improved solid oxide cells (SOEC) based on novel cell structure including electrode backbone structures and infiltration and design of electrolyte/electrode interfaces to achieve high performances and high efficiencies at ~100 oC lower operating temperatures than state-of-the-art in order to reduce thermally activated degradation processes, to improve integration with hydrocarbon production, and to reduce overall costs.\nï Investigate durability under realistic co-electrolysis operating conditions that include dynamic electricity input from fluctuating sources with the aim to achieve degradation rates below 1%/1000 h at stack level under relevant operating conditions.\nï Design a plant to integrate the co-electrolysis with fluctuating electricity input and catalytic processes for hydrocarbon production, with special emphasis on methanation (considering both external and internal) and perform selected validation tests under the thus needed operating conditions.\nï Test a co-electrolysis system under realistic conditions for final validation of the obtained results at larger scale.\nï Demonstrate economic viability for overall process efficiencies exceeding 60% using results obtained in the project for the case of storage media such as methane and compare to traditional technologies with the aim to identify critical performance parameters that have to be improved.\nPerform a life cycle assessment with CO2 from different sources (cement industry or biogas) and electricity from preferably renewable sources to prove the recycling potential of the concept.",
+    "totalCost": "3239138,75",
+    "ecMaxContribution": "2500513,75",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "EIFER EUROPAISCHES INSTITUT FUR ENERGIEFORSCHUNG EDF KIT EWIV;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;FUNDACIO INSTITUT DE RECERCA DE L'ENERGIA DE CATALUNYA;ENAGAS, S.A.;VDZ gGmbH;BELGISCH LABORATORIUM VAN DE ELEKTRICITEITSINDUSTRIE;HTceramix SA",
+    "participantCountries": "DE;FR;CH;ES;BE",
+    "projectParticipants": {
+        "998728200": {
+            "orgId": "998728200",
+            "orgName": "BELGISCH LABORATORIUM VAN DE ELEKTRICITEITSINDUSTRIE",
+            "ecContrib": 253375
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 775821
+        },
+        "997365641": {
+            "orgId": "997365641",
+            "orgName": "HTceramix SA",
+            "ecContrib": 0
+        },
+        "997980718": {
+            "orgId": "997980718",
+            "orgName": "EIFER EUROPAISCHES INSTITUT FUR ENERGIEFORSCHUNG EDF KIT EWIV",
+            "ecContrib": 293854
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 749375
+        },
+        "953786451": {
+            "orgId": "953786451",
+            "orgName": "VDZ gGmbH",
+            "ecContrib": 54951
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        },
+        "996435993": {
+            "orgId": "996435993",
+            "orgName": "FUNDACIO INSTITUT DE RECERCA DE L'ENERGIA DE CATALUNYA",
+            "ecContrib": 323688
+        },
+        "999502648": {
+            "orgId": "999502648",
+            "orgName": "ENAGAS, S.A.",
+            "ecContrib": 49450
+        }
+    },
+    "calculatedTotalContribution": 2500514
+}

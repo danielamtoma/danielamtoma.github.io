@@ -1,0 +1,17 @@
+{
+    "rcn": "215199",
+    "acronym": "GLnQuadRemeshing",
+    "topics": "MSCA-IF-2017",
+    "title": "Re-meshing of a given triangle mesh surface to a quad mesh using physically motivated methods based on the Ginzburg--Landau potential and solved efficiently solved via numerical splitting scheme",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2021",
+    "objective": "Geometric curved objects are ubiquitous in numerous computational science and engineering problems. Representing curved domains in a computer is typically achieved using triangle mesh surfaces. However, it is often beneficial to use quad meshes instead. Namely, discrete surfaces that are composed of quad faces, connected via edges and vertices. Unfortunately, existing re-meshing methods of triangle surfaces are somewhat limited and non-robust, motivating the following research. In this action we describe a new class of algorithms for quad re-meshing of curved domains using PDE-based approaches. Our algorithms use the Ginzburg--Landau (GL) functional and its multiclass extensions to devise novel energy functionals which, unlike previous work, are fundamentally supported by the extensive literature in physics and image processing on the theory, analysis and processing of GL. In practice, convex-splitting or heat and thresholding numerical schemes allow us to quickly find minimizers of the proposed energies. Our approach is novel in that it extends a recent body of work on multiclass classification of high-dimensional data to the problem of quad re-meshing which is typically formulated as a mixed-integer problem, and thus it exhibits heuristic solvers. A common methodology for quad re-meshing includes the design of a generalized vector field (i.e., a cross field) and mesh parametrization. Our research objectives cover both of these tasks and suggest novel methods to tackle them. Overall, the proposed research offers a new point of view for this long-standing problems, and with the vast related work in other domains, it may bridge the gap to arrive at effective, scalable and efficient quad re-meshing machinery of general geometries. The resulting algorithms may be used in several scientific and engineering domains such as architectural geometry, fabrication of curved objects and computer aided design systems, among other applications.",
+    "totalCost": "263385",
+    "ecMaxContribution": "263385",
+    "coordinator": "TECHNION RESEARCH AND DEVELOPMENT FOUNDATION LTD",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

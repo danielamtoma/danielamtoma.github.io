@@ -1,0 +1,53 @@
+{
+    "rcn": "194173",
+    "acronym": "Flourish",
+    "topics": "ICT-23-2014",
+    "title": "Aerial Data Collection and Analysis, and Automated Ground Intervention for Precision Farming",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2018",
+    "objective": "To feed a growing world population with the given amount of available farmland, we must develop new methods of sustainable farming that increase yield while reducing reliance on herbicides and pesticides. Precision agricultural techniques seek to address this challenge by monitoring key indicators of crop health and targeting treatment only to plants that  need it. This is a time consuming and expensive activity and while there has been great progress on autonomous farm robots, most systems have been developed to solve only specialized tasks. This lack of flexibility poses a high risk of no return on investment for farmers. The goal of the Flourish project is to bridge the gap between the current and desired capabilities of agricultural robots by developing an adaptable robotic solution for precision farming. By combining the aerial survey capabilities of a small autonomous multi-copter Unmanned Aerial Vehicle (UAV) with a multi-purpose agricultural Unmanned Ground Vehicle, the system will be able to survey a field from the air, perform targeted intervention on the ground, and provide detailed information for decision support, all with minimal user intervention. The system can be adapted to a wide range of crops by choosing different sensors and ground treatment packages. This development requires improvements in technological abilities for safe accurate navigation within farms, coordinated multi-robot mission planning that enables large field survey even with short UAV flight times, multispectral three-dimensional mapping with high temporal and spatial resolution, ground intervention tools and techniques, data analysis tools for crop monitoring and weed detection and user interface design to support agricultural decision making. As these aspects are addressed in Flourish,  the  project will unlock new prospects for commercial agricultural robotics in the near future.",
+    "totalCost": "4780047,5",
+    "ecMaxContribution": "3560870",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "ROBERT BOSCH GMBH;ALBERT-LUDWIGS-UNIVERSITAET FREIBURG;RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN;AGENZIA SERVIZI SETTORE AGROALIMENTARE MARCHE (ASSAM);CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "participantCountries": "DE;IT;FR",
+    "projectParticipants": {
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 366750
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "951755271": {
+            "orgId": "951755271",
+            "orgName": "AGENZIA SERVIZI SETTORE AGROALIMENTARE MARCHE (ASSAM)",
+            "ecContrib": 106250
+        },
+        "999841760": {
+            "orgId": "999841760",
+            "orgName": "ALBERT-LUDWIGS-UNIVERSITAET FREIBURG",
+            "ecContrib": 915500
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 457650
+        },
+        "999980276": {
+            "orgId": "999980276",
+            "orgName": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+            "ecContrib": 750000
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 964720
+        }
+    },
+    "calculatedTotalContribution": 3560870
+}

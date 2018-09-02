@@ -1,0 +1,28 @@
+{
+    "rcn": "199791",
+    "acronym": "NeMeCo",
+    "topics": "MSCA-ITN-2015-EID",
+    "title": "Near Memory Computing",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2020",
+    "objective": "Near Memory Computing: Major bottlenecks for future computation is the slow communication over slow interconnects between big data memories and big data processing and also the slow overhead of data memory accesses. The NeMeCo EID network aims at solving this problem by proposing fundamentally different architectures, integrating computation and memory, and using reconfigurable accelerators. Research topics of this project are: new, non-Von-Neumann architectures, automated design of reconfigurable accelerators, advanced memory hierarchy based on both volatile and non-volatile memory components, and corresponding compiler, algorithmic optimization and mapping techniques.",
+    "totalCost": "766122,84",
+    "ecMaxContribution": "766122,84",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "IBM RESEARCH GMBH",
+    "participantCountries": "CH",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 766123
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 766123
+}

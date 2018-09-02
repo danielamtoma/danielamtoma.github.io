@@ -1,0 +1,88 @@
+{
+    "rcn": "211090",
+    "acronym": "BlueSpace",
+    "topics": "ICT-07-2017",
+    "title": "Building on the Use of Spatial Multiplexing 5G Networks Infrastructures and Showcasing Advanced technologies and Networking Capabilties",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2020",
+    "objective": "BlueSpace addresses the challenges of increased capacity, scalability, manageability, resource allocation of 5G networks by adopting a pragmatic yet disruptive and future proof approach.  The core concept of this project is exploiting the added value of Spatial Division Multiplexing (SDM) in the Radio Access Network (RAN) with efficient optical beamforming interface for the pragmatic Ka-band wireless transmission band. Both being seamlessly integreable in next generation optical access networks infrastructures with massive beam steering capabilities and with flexible networkmanagement  control BlueSpace proposition offers unrivalled characteristics that include:\n\na) increased bandwidth provision by naturally enabling and supporting massive multiple Input Multiple Output (MIMO) in the Ka-band with seamless starting/ending interface with the fiber medium by exploiting space diversity in the RF domain with efficient beamsteering in the photonic domain,  \n\nb) A compact infrastructure that is reconfigurable by means of Software Defined (SDN) and Network Function Virtualization (NFV) paradigms and with\n\nc) full integration with existing approaches for access networks such as Passive Optical Networks (PONs). \nBy achieving its goal BlueSpace is a  truly viable and efficient path for  5G wireless communications with a 1000-fold increase in capacity, connectivity for over 1 billion users, strict latency control, and network software programming.",
+    "totalCost": "6655127,5",
+    "ecMaxContribution": "6655127,5",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "NEXTWORKS;OPTOSCRIBE LIMITED;CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA;ORANGE POLSKA SPOLKA AKCYJNA;EULAMBIA ADVANCED TECHNOLOGIES MONOPROSOPI ETAIRIA PERIORISMENIS EFTHINIS;INTRACOM SA TELECOM SOLUTIONS;RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES;LIONIX INTERNATIONAL BV;HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE);UNIVERSITAT POLITECNICA DE VALENCIA;ADVA OPTICAL NETWORKING SE;THALES SA;UNIVERSIDAD CARLOS III DE MADRID",
+    "participantCountries": "IT;UK;ES;PL;EL;NL;DE;FR",
+    "projectParticipants": {
+        "999582382": {
+            "orgId": "999582382",
+            "orgName": "RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES",
+            "ecContrib": 512500
+        },
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 366250
+        },
+        "918272908": {
+            "orgId": "918272908",
+            "orgName": "LIONIX INTERNATIONAL BV",
+            "ecContrib": 933750
+        },
+        "999751938": {
+            "orgId": "999751938",
+            "orgName": "THALES SA",
+            "ecContrib": 589190
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 1091125
+        },
+        "999811787": {
+            "orgId": "999811787",
+            "orgName": "ADVA OPTICAL NETWORKING SE",
+            "ecContrib": 502750
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 362000
+        },
+        "940471552": {
+            "orgId": "940471552",
+            "orgName": "EULAMBIA ADVANCED TECHNOLOGIES MONOPROSOPI ETAIRIA PERIORISMENIS EFTHINIS",
+            "ecContrib": 395000
+        },
+        "999792581": {
+            "orgId": "999792581",
+            "orgName": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+            "ecContrib": 165875
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 398250
+        },
+        "999951079": {
+            "orgId": "999951079",
+            "orgName": "ORANGE POLSKA SPOLKA AKCYJNA",
+            "ecContrib": 212500
+        },
+        "954722307": {
+            "orgId": "954722307",
+            "orgName": "OPTOSCRIBE LIMITED",
+            "ecContrib": 317438
+        },
+        "999969994": {
+            "orgId": "999969994",
+            "orgName": "INTRACOM SA TELECOM SOLUTIONS",
+            "ecContrib": 410625
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 397875
+        }
+    },
+    "calculatedTotalContribution": 6655128
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "200243",
+    "acronym": "CONENE",
+    "topics": "ERC-StG-2015",
+    "title": "Control of Large-scale Stochastic Hybrid Systems for Stability of Power Grid with Renewable  Energy",
+    "startDate": "01/04/2016",
+    "endDate": "30/09/2020",
+    "objective": "The increasing uptake of renewable energy sources and liberalization of electricity markets are significantly changing power system operations. To ensure stability of the grid, it is critical to develop provably safe feedback control algorithms that take into account uncertainties in the output of weather-based renewable generation and in participation of distributed producers and consumers in electricity markets. The focus of this proposal is to develop the theory and algorithms for control of large-scale stochastic hybrid systems in order to guarantee safe and efficient grid operations. Stochastic hybrid systems are a powerful modeling framework. They capture uncertainties in the output of weather-based renewable generation as well as complex hybrid state interactions arising from discrete-valued network topologies with continuous-valued voltages and frequencies. The problems of stability and efficiency of the grid in the face of its changes will be formulated as safety and optimal control problems for stochastic hybrid systems. Using recent advances in numerical optimization and statistics, provably safe and scalable numerical algorithms for control of this class of systems will be developed. These algorithms will be implemented and validated on realistic power grid simulation platforms  and will take advantage of recent advances in sensing, control and communication technologies for the grid. The end outcome of the project is better quantifying and controlling effects of increased uncertainties on the stability of the grid. The societal and economic implications of this study are tied with the value and price of a secure power grid. Addressing the questions formulated in this proposal will bring the EU closer to its ambitious renewable energy goals.",
+    "totalCost": "1346438",
+    "ecMaxContribution": "1346438",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 1346438
+        }
+    },
+    "calculatedTotalContribution": 1346438
+}

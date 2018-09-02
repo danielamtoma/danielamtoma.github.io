@@ -1,0 +1,23 @@
+{
+    "rcn": "201219",
+    "acronym": "CasMETICS",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Combining Single Molecule and Ensemble approaches To Investigate Cas9 Target Search",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "The CRISPR-Cas9 bacterial immune system has garnered intense interest both as a synthetic biology tool and as a biological system in its own right. Yet the ability of Cas9 to find its guide-RNA-directed binding site in a timely fashion remains mysterious. To find its binding site, the single-stranded guide RNA must recognize the appropriate homologous DNA target within double-stranded chromosomal DNA, without using ATP to melt dsDNA. Moreover, in vitro measurements of Cas9 target search seem to suggest that an individual Cas9 molecule should take on the order of months to discover its target site, far too long to defend against viral infections which can proceed to lysis in less than one hour. To begin to unravel these conundrums, I plan to measure Cas9 target search time in vivo, using both single molecule and bulk approaches. The single molecule assay will use fluorescently tagged dCas9 (a version of Cas9 non-functional for cleavage) targeted against the lac O1 binding site. At t=0 the synthetic inducer IPTG can be flowed in, dissociating LacI from the O1 binding site, and the amount of time needed for dCas9 to bind determined by time-lapse fluorescence microscopy. The bulk version of the assay will exploit the existence of a binding site for the restriction enzyme BsrBI in the lacO1 binding site. As in the single molecule assay, the clock is started by addition of IPTG to growing cells, and the time needed for dCas9 binding is quantified by observed how long is needed for dCas9 to confer protection against BsrBI cleavage of cross-linked and purified chromatin. Finally, I will perform high-speed tracking experiments on searching dCas9 molecules using electroporated fluorescent dye-labeled guide RNAs. These measurements should constrain mechanistic hypotheses about Cas9 target search, and may provide insight into other critical biological processes involving single stranded nucleic acids searching in double stranded nucleic acids, such as homologous recombination.",
+    "totalCost": "173857,2",
+    "ecMaxContribution": "173857,2",
+    "coordinator": "UPPSALA UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985029": {
+            "orgId": "999985029",
+            "orgName": "UPPSALA UNIVERSITET",
+            "ecContrib": 173857
+        }
+    },
+    "calculatedTotalContribution": 173857
+}

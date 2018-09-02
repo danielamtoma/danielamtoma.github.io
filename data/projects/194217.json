@@ -1,0 +1,58 @@
+{
+    "rcn": "194217",
+    "acronym": "SHARCS",
+    "topics": "ICT-32-2014",
+    "title": "Secure Hardware-Software Architectures for Robust Computing Systems",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Developing new security paradigms, architectures, and software, for more secure and trustworthy ICT systems and services has clear social, scientific, and market motivation. This motivation is becoming stronger due to the changing threat landscape; over the past decade we are witnessing an ever-increasing amount of cyberattacks on the Internet.\nWe believe that to advance the field of cybersecurity, we must act proactively and in synergy, instead of being reactive to cyberattacks.\n\nWe propose SHARCS, a framework for designing, building and demonstrating secure-by-design applications and services, that achieve end-to-end security for their users. SHARCS will achieve this by systematically analyzing and extending, as necessary, the hardware and software layers in a computing system. This holistic approach is necessary, as no system can truly be secure unless every layer is secured, starting from the lowest one. We will measure the effectiveness of the SHARCS framework by using it on a diverse set of security-critical, real-word applications. The applications have been chosen from three different domains, medical, cloud and automotive, to demonstrate the platform independence capabilities of SHARCS. SHARCS will provide a powerful foundation for designing and developing trustworthy, secure-by-design applications and services for the Future Internet.",
+    "totalCost": "3105762,5",
+    "ecMaxContribution": "3105762,5",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "STICHTING VU;ELEKTROBIT AUTOMOTIVE GMBH;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;ONAPP LIMITED;NEURASMUS BV;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "NL;DE;GI;IL;SE",
+    "projectParticipants": {
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 545000
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 361512
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 384375
+        },
+        "954880320": {
+            "orgId": "954880320",
+            "orgName": "ONAPP LIMITED",
+            "ecContrib": 443750
+        },
+        "954530344": {
+            "orgId": "954530344",
+            "orgName": "STICHTING VU",
+            "ecContrib": 413125
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 294375
+        },
+        "995871647": {
+            "orgId": "995871647",
+            "orgName": "ELEKTROBIT AUTOMOTIVE GMBH",
+            "ecContrib": 321250
+        },
+        "968992268": {
+            "orgId": "968992268",
+            "orgName": "NEURASMUS BV",
+            "ecContrib": 342375
+        }
+    },
+    "calculatedTotalContribution": 3105762
+}

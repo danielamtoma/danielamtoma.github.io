@@ -1,0 +1,17 @@
+{
+    "rcn": "215822",
+    "acronym": "ExaQUte",
+    "topics": "FETHPC-02-2017",
+    "title": "EXAscale Quantification of Uncertainties for Technology and Science Simulation",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2021",
+    "objective": "The ExaQUte project aims at constructing a framework to enable Uncertainty Quantification (UQ) and Optimization Under Uncertainties (OUU) in complex engineering problems using computational simulations on Exascale systems.\nThe stochastic problem of quantifying uncertainties will be tackled by using a Multi Level MonteCarlo (MLMC) approach that allows a high number of stochastic variables. New theoretical developments will be carried out to enable its combination with adaptive mesh refinement, considering both, octree-based and anisotropic mesh adaptation.\nGradient-based optimization techniques will be extended to consider uncertainties by developing methods to compute stochastic sensitivities, This requires new theoretical and computational developments. With a proper definition of risk measures and constraints, these methods allow high-performance robust designs, also maximizing the solution reliability.\nThe description of complex geometries will be possible by employing embedded methods, which guarantee a high robustness in the mesh generation and adaptation steps, while allowing preserving the exact geometry representation.\nThe efficient exploitation of Exascale system will be addressed by combining State-of-the-Art dynamic task-scheduling technologies with space-time accelerated solution methods, where parallelism is harvested both in space and time. \nThe methods and tools developed in ExaQUte will be applicable to many fields of science and technology. The chosen application focuses on wind engineering, a field of notable industrial interest for which currently no reliable solution exists. This will include the quantification of uncertainties in the response of civil engineering structures to the wind action, and the shape optimization taking into account uncertainties related to wind loading, structural shape and material behavior.\nAll developments in ExaQUte will be open-source and will follow a modular approach, thus maximizing future impact.",
+    "totalCost": "3124255",
+    "ecMaxContribution": "3124255",
+    "coordinator": "CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA",
+    "coordinatorCountry": "ES",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;VYSOKA SKOLA BANSKA - TECHNICKA UNIVERZITA OSTRAVA;TECHNISCHE UNIVERSITAET MUENCHEN;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;UNIVERSITAT POLITECNICA DE CATALUNYA;STR.UCTURE GMBH;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "FR;CZ;DE;CH;ES",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

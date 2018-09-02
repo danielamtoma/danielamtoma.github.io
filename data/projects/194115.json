@@ -1,0 +1,63 @@
+{
+    "rcn": "194115",
+    "acronym": "EoT",
+    "topics": "ICT-01-2014",
+    "title": "Eyes of Things",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Vision, our richest sensor, allows inferring big data from reality. Arguably, to be ìsmart everywhereî we will need to have ìeyes everywhereî. Coupled with advances in artificial vision, the possibilities are endless in terms of wearable applications, augmented reality, surveillance, ambient-assisted living, etc. Currently, computer vision is rapidly moving beyond academic research and factory automation. On the other hand, mass-market mobile devices owe much of their success to their impressing imaging capabilities, so the question arises if such devices could be used as ìeyes everywhereî. Vision is the most demanding sensor in terms of power consumption and required processing power and, in this respect, existing mass-consumer mobile devices have three problems: 1) power consumption precludes their ëalways-oní capability, 2) they would have unused sensors for most vision-based applications and 3) since they have been designed for a definite purpose (i.e. as cell phones, PDAs and ìreadersî) people will not consistently use them for other purposes. Our objective in this project is to build an optimized core vision platform that can work independently and also embedded into all types of artefacts. The envisioned open hardware must be combined with carefully designed APIs that maximize inferred information per milliwatt and adapt the quality of inferred results to each particular application. This will not only mean more hours of continuous operation, it will allow to create novel applications and services that go beyond what current vision systems can do, which are either personal/mobile or ëalways-oní but not both at the same time. Thus, the ìEyes of Thingsî project aims at developing a ground-breaking platform that combines: a) a need for more intelligence in future embedded systems, b) computer vision moving rapidly beyond academic research and factory automation and c) the phenomenal technological advances in mobile processing power.",
+    "totalCost": "4932280",
+    "ecMaxContribution": "3734830",
+    "coordinator": "UNIVERSIDAD DE CASTILLA - LA MANCHA",
+    "coordinatorCountry": "ES",
+    "participants": "NVISO SA;FLUXGUIDE AUSSTELLUNGSSYSTEME OG;THALES COMMUNICATIONS & SECURITY SAS;AMS SENSORS PORTUGAL UNIPESSOAL LDA(ZONA FRANCA DA MADEIRA);MOVIDIUS LIMITED;CAMBA TV LIMITED;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;FLUXGUIDE AUSSTELLUNGSSYSTEME GMBH",
+    "participantCountries": "CH;AT;FR;PT;IE;DE",
+    "projectParticipants": {
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 1069300
+        },
+        "992588003": {
+            "orgId": "992588003",
+            "orgName": "MOVIDIUS LIMITED",
+            "ecContrib": 577500
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 341819
+        },
+        "941251432": {
+            "orgId": "941251432",
+            "orgName": "NVISO SA",
+            "ecContrib": 0
+        },
+        "999445030": {
+            "orgId": "999445030",
+            "orgName": "AMS SENSORS PORTUGAL UNIPESSOAL LDA(ZONA FRANCA DA MADEIRA)",
+            "ecContrib": 565556
+        },
+        "999840208": {
+            "orgId": "999840208",
+            "orgName": "UNIVERSIDAD DE CASTILLA - LA MANCHA",
+            "ecContrib": 693980
+        },
+        "951332351": {
+            "orgId": "951332351",
+            "orgName": "FLUXGUIDE AUSSTELLUNGSSYSTEME OG",
+            "ecContrib": 248675
+        },
+        "947975666": {
+            "orgId": "947975666",
+            "orgName": "CAMBA TV LIMITED",
+            "ecContrib": 238000
+        },
+        "928425413": {
+            "orgId": "928425413",
+            "orgName": "FLUXGUIDE AUSSTELLUNGSSYSTEME GMBH",
+            "ecContrib": 248675
+        }
+    },
+    "calculatedTotalContribution": 3983505
+}

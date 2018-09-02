@@ -1,0 +1,218 @@
+{
+    "rcn": "198669",
+    "acronym": "SeNaTe",
+    "topics": "ECSEL-02-2014",
+    "title": "Seven Nanometer Technology",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2018",
+    "objective": "The SeNaTe project is the next in a chain of thematically connected ENIAC JU KET pilot line projects which are associated with 450mm/300mm development for the 12nm and 10nm technology nodes. The main objective is the demonstration of the 7nm IC technology integration in line with the industry needs and the ITRS roadmap on real devices in the Advanced Patterning Center at imec using innovative device architecture and comprising demonstration of a lithographic platform for EUV and immersion technology, advanced process and holistic metrology platforms, new materials and mask infrastructure.\nA lithography scanner will be developed based on EUV technology to achieve the 7nm module patterning specification. Metrology platforms need to be qualified for N7ís 1D, 2D and 3D geometries with the appropriate precision and accuracy. For the 7nm technology modules a large number of new materials will need to be introduced. The introduction of these new materials brings challenges for all involved processes and the related equipment set. Next to new deposition processes also the interaction of the involved materials with subsequent etch, clean and planarization steps will be studied. Major European stakeholders in EUV mask development will collaboratively work together on a number of key remaining EUV mask issues.\nThe first two years of the project will be dedicated to find the best options for patterning, device performance, and integration. In the last year a full N7 integration with electrical measurements will be performed to enable the validation of the 7nm process options for a High Volume Manufacturing.\nThe SeNaTe project relates to the ECSEL work program topic Process technologies ñ More Moore. It addresses and targets as set out in the MASP at the discovery of new Semiconductor Process, Equipment and Materials solutions for advanced CMOS processes that enable the nano-structuring of electronic devices with 7nm resolution in high-volume manufacturing and fast prototyping.",
+    "totalCost": "178867063,5",
+    "ecMaxContribution": "31981859,75",
+    "coordinator": "ASML NETHERLANDS B.V.",
+    "coordinatorCountry": "NL",
+    "participants": "ICT Integrated Circuit Testing GmbH;COVENTOR SARL;JENOPTIK OPTICAL SYSTEMS GMBH;NANOMOTION LTD;SUSS MicroTec Photomask Equipment GmbH & Co. KG;RI RESEARCH INSTRUMENTS GMBH;PFEIFFER VACUUM;APPLIED MATERIALS BELGIUM;PHYSIKALISCH-TECHNISCHE BUNDESANSTALT;RECIF TECHNOLOGIES;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;SEMILAB FELVEZETO FIZIKAI LABORATORIUM RESZVENYTARSASAG;LAM RESEARCH AG;BROOKS CCS GMBH;ASM EUROPE BV;KLA-Tencor MIE GmbH;LAM RESEARCH BELGIUM;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;APPLIED MATERIALS ISRAEL LTD;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;UNIVERSITEIT TWENTE;CARL ZEISS SMT GMBH;INSTITUT FUER MIKROELEKTRONIK STUTTGART;ASELTA NANOGRAPHICS SA;VDL ENABLING TECHNOLOGIES GROUP BV;FABMATICS GMBH;ASM BELGIUM NV;ASYS AUTOMATIC SYSTEMS GMBH & CO KG;NOVA MEASURING INSTRUMENTS LTD;BRUKER JV ISRAEL LTD;INTEL ELECTRONICS LTD;Entegris Cleaning Process;SOITEC SA;DEMCON ADVANCED MECHATRONICS BV;FEI ELECTRON OPTICS BV;FEI CZECH REPUBLIC SRO;ADVANCED MASK TECHNOLOGY CENTER GMBH & CO KG;HERAEUS QUARZGLAS GMBH & CO KG;KLA-TENCOR CORPORATION (ISRAEL)",
+    "participantCountries": "DE;FR;IL;BE;NL;HU;AT;CZ",
+    "projectParticipants": {
+        "953609038": {
+            "orgId": "953609038",
+            "orgName": "ADVANCED MASK TECHNOLOGY CENTER GMBH & CO KG",
+            "ecContrib": 382500
+        },
+        "956060228": {
+            "orgId": "956060228",
+            "orgName": "NOVA MEASURING INSTRUMENTS LTD",
+            "ecContrib": 1075349
+        },
+        "936900885": {
+            "orgId": "936900885",
+            "orgName": "RI RESEARCH INSTRUMENTS GMBH",
+            "ecContrib": 280500
+        },
+        "937581728": {
+            "orgId": "937581728",
+            "orgName": "JENOPTIK OPTICAL SYSTEMS GMBH",
+            "ecContrib": 346071
+        },
+        "999596544": {
+            "orgId": "999596544",
+            "orgName": "PHYSIKALISCH-TECHNISCHE BUNDESANSTALT",
+            "ecContrib": 113692
+        },
+        "917363533": {
+            "orgId": "917363533",
+            "orgName": "ASM EUROPE BV",
+            "ecContrib": 0
+        },
+        "936401335": {
+            "orgId": "936401335",
+            "orgName": "NANOMOTION LTD",
+            "ecContrib": 334470
+        },
+        "937002929": {
+            "orgId": "937002929",
+            "orgName": "BROOKS CCS GMBH",
+            "ecContrib": 232843
+        },
+        "998281709": {
+            "orgId": "998281709",
+            "orgName": "DEMCON ADVANCED MECHATRONICS BV",
+            "ecContrib": 236136
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 7210212
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 1151730
+        },
+        "986627935": {
+            "orgId": "986627935",
+            "orgName": "FABMATICS GMBH",
+            "ecContrib": 195136
+        },
+        "998639833": {
+            "orgId": "998639833",
+            "orgName": "PFEIFFER VACUUM",
+            "ecContrib": 117344
+        },
+        "999943416": {
+            "orgId": "999943416",
+            "orgName": "ASML NETHERLANDS B.V.",
+            "ecContrib": 8338908
+        },
+        "985529895": {
+            "orgId": "985529895",
+            "orgName": "ICT Integrated Circuit Testing GmbH",
+            "ecContrib": 765000
+        },
+        "937248436": {
+            "orgId": "937248436",
+            "orgName": "ASYS AUTOMATIC SYSTEMS GMBH & CO KG",
+            "ecContrib": 81422
+        },
+        "952872711": {
+            "orgId": "952872711",
+            "orgName": "Entegris Cleaning Process",
+            "ecContrib": 30188
+        },
+        "936809705": {
+            "orgId": "936809705",
+            "orgName": "LAM RESEARCH BELGIUM",
+            "ecContrib": 445140
+        },
+        "985728454": {
+            "orgId": "985728454",
+            "orgName": "APPLIED MATERIALS ISRAEL LTD",
+            "ecContrib": 807202
+        },
+        "937200906": {
+            "orgId": "937200906",
+            "orgName": "HERAEUS QUARZGLAS GMBH & CO KG",
+            "ecContrib": 233970
+        },
+        "999478107": {
+            "orgId": "999478107",
+            "orgName": "COVENTOR SARL",
+            "ecContrib": 306038
+        },
+        "989695851": {
+            "orgId": "989695851",
+            "orgName": "RECIF TECHNOLOGIES",
+            "ecContrib": 83873
+        },
+        "996053910": {
+            "orgId": "996053910",
+            "orgName": "SEMILAB FELVEZETO FIZIKAI LABORATORIUM RESZVENYTARSASAG",
+            "ecContrib": 127380
+        },
+        "949706534": {
+            "orgId": "949706534",
+            "orgName": "VDL ENABLING TECHNOLOGIES GROUP BV",
+            "ecContrib": 416812
+        },
+        "998880102": {
+            "orgId": "998880102",
+            "orgName": "ASM BELGIUM NV",
+            "ecContrib": 446245
+        },
+        "983648483": {
+            "orgId": "983648483",
+            "orgName": "INTEL ELECTRONICS LTD",
+            "ecContrib": 0
+        },
+        "975524345": {
+            "orgId": "975524345",
+            "orgName": "ASELTA NANOGRAPHICS SA",
+            "ecContrib": 118797
+        },
+        "999590433": {
+            "orgId": "999590433",
+            "orgName": "INSTITUT FUER MIKROELEKTRONIK STUTTGART",
+            "ecContrib": 845982
+        },
+        "999900833": {
+            "orgId": "999900833",
+            "orgName": "UNIVERSITEIT TWENTE",
+            "ecContrib": 575000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 657277
+        },
+        "985480037": {
+            "orgId": "985480037",
+            "orgName": "FEI ELECTRON OPTICS BV",
+            "ecContrib": 787475
+        },
+        "936919994": {
+            "orgId": "936919994",
+            "orgName": "KLA-Tencor MIE GmbH",
+            "ecContrib": 220868
+        },
+        "968955602": {
+            "orgId": "968955602",
+            "orgName": "APPLIED MATERIALS BELGIUM",
+            "ecContrib": 517969
+        },
+        "950397174": {
+            "orgId": "950397174",
+            "orgName": "CARL ZEISS SMT GMBH",
+            "ecContrib": 2357991
+        },
+        "936993908": {
+            "orgId": "936993908",
+            "orgName": "FEI CZECH REPUBLIC SRO",
+            "ecContrib": 175988
+        },
+        "985652406": {
+            "orgId": "985652406",
+            "orgName": "SUSS MicroTec Photomask Equipment GmbH & Co. KG",
+            "ecContrib": 102452
+        },
+        "999943707": {
+            "orgId": "999943707",
+            "orgName": "KLA-TENCOR CORPORATION (ISRAEL)",
+            "ecContrib": 463546
+        },
+        "999762511": {
+            "orgId": "999762511",
+            "orgName": "LAM RESEARCH AG",
+            "ecContrib": 528653
+        },
+        "999772211": {
+            "orgId": "999772211",
+            "orgName": "BRUKER JV ISRAEL LTD",
+            "ecContrib": 744218
+        },
+        "990360010": {
+            "orgId": "990360010",
+            "orgName": "SOITEC SA",
+            "ecContrib": 116553
+        }
+    },
+    "calculatedTotalContribution": 31970930
+}

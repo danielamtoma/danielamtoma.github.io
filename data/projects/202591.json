@@ -1,0 +1,23 @@
+{
+    "rcn": "202591",
+    "acronym": "CHAMELEON",
+    "topics": "ERC-CoG-2015",
+    "title": "Intuitive editing of visual appearance from real-world datasets",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2021",
+    "objective": "Computer-generated imagery is now ubiquitous in our society, spanning fields such as games and movies, architecture, engineering, or virtual prototyping, while also helping create novel ones such as computational materials. With the increase in computational power and the improvement of acquisition techniques, there has been a paradigm shift in the field towards data-driven techniques, which has yielded an unprecedented level of realism in visual appearance. Unfortunately, this leads to a series of problems, identified in this proposal: First, there is a disconnect between the mathematical representation of the data and any meaningful parameters that humans understand; the captured data is machine-friendly, but not human friendly. Second, the many different acquisition systems lead to heterogeneous formats and very large datasets. And third, real-world appearance functions are usually nonlinear and high-dimensional. As a result, visual appearance datasets are increasingly unfit to editing operations, which limits the creative process for scientists, engineers, artists and practitioners in general.  There is an immense gap between the complexity, realism and richness of the captured data, and the flexibility to edit such data. \n\nWe believe that the current research path leads to a fragmented space of isolated solutions, each tailored to a particular dataset and problem. We propose a research plan at the theoretical, algorithmic and application levels, putting the user at the core. We will learn key relevant appearance features in terms humans understand, from which intuitive, predictable editing spaces, algorithms, and workflows will be defined. In order to ensure usability and foster creativity, we will also extend our research to efficient simulation of visual appearance, exploiting the extra dimensionality of the captured datasets. Achieving our goals will finally enable us to reach the true potential of real-world captured datasets in many aspects of society.",
+    "totalCost": "1629518,75",
+    "ecMaxContribution": "1629518,75",
+    "coordinator": "UNIVERSIDAD DE ZARAGOZA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999898214": {
+            "orgId": "999898214",
+            "orgName": "UNIVERSIDAD DE ZARAGOZA",
+            "ecContrib": 1629519
+        }
+    },
+    "calculatedTotalContribution": 1629519
+}

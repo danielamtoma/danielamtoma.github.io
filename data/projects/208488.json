@@ -1,0 +1,23 @@
+{
+    "rcn": "208488",
+    "acronym": "MOUSSE",
+    "topics": "ERC-2016-COG",
+    "title": "Multilingual, Open-text Unified Syntax-independent SEmantics",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2022",
+    "objective": "The exponential growth of the Web is resulting in vast amounts of online content. However, the information expressed therein is not at easy reach: what we typically browse is only an infinitesimal part of the Web. And even if we had time to read all the Web we could not understand it, as most of it is written in languages we do not speak. Computers, instead, have the power to process the entire Web. But, in order to îreadî it, that is perform machine reading, they still have to face the hard problem of Natural Language Understanding, i.e., automatically making sense of human language. To tackle this long-lasting challenge in Natural Language Processing (NLP), the task of semantic parsing has recently gained popularity. This aims at creating structured representations of meaning for an input text. However, current semantic parsers require supervision, binding them to the language of interest and hindering their extension to multiple languages.\nHere we propose a research program to investigate radically new directions for enabling multilingual semantic parsing, without the heavy requirement of annotating training data for each new language. The key intuitions of our proposal are treating multilinguality as a resource rather than an obstacle and embracing the knowledge-based paradigm which allows supervision in the machine learning sense to be replaced with efficacious use of lexical knowledge resources. In stage 1 of the project we will acquire a huge network of language-independent, structured semantic representations of sentences. In stage 2, we will leverage this resource to develop innovative algorithms that perform semantic parsing in any language. These two stages are mutually beneficial, progressively enriching less-resourced languages and contributing towards leveling the playing field for all languages. Enabling Natural Language Understanding across languages should have an impact on NLP and other areas of AI, plus a societal impact on language learners.",
+    "totalCost": "1497250",
+    "ecMaxContribution": "1497250",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 1497250
+        }
+    },
+    "calculatedTotalContribution": 1497250
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "210050",
+    "acronym": "GROGandGIN",
+    "topics": "ERC-2016-ADG",
+    "title": "Growth in Groups and Graph Isomorphism Now",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2022",
+    "objective": "'In recent years there has been spectacular progress in studying growth in groups. A central result in this new area, obtained by Pyber-Szabo' (with a similar result proved by Breuillard-Green-Tao), shows that powers of generating subsets of finite simple groups of 'bounded dimension' grow fast. Extending this Product Theorem Szabo' and the PI also proved a weaker version of a conjecture of Helfgott-Lindenstrauss. The Product Theorem has deep consequences in the study of groups, number theory and random walks. A central open question of the area is to remove the dependence on dimension in our Product Theorem. The PI formulated a new Conjecture, as a step forward. The way to further progress is via combining techniques from asymptotic group theory and probability theory. It is from this perspective that the current GROGandGIN proposal addresses issues concerning random walks. We examine how recent probabilistic arguments for random walks in the symmetric group may be transferred to matrix groups. While the first results in the subject of growth concern matrix groups we see an evolving theory of growth in permutation groups. This relies on earlier work of Babai and the PI which aims at finding proofs which do not use the Classification of Finite Simple Groups (CFSG). Similarly, Babai's famous Quasipolynomial Graph Isomorphism Algorithm builds on ideas from CFSG-free proofs due to him. The PI has recently removed CFSG from the analysis of Babai's algorithm. Our method goes 'halfway' towards removing CFSG from proofs of growth results for permutation groups, currently a major open problem. The GROGandGIN initiative plans to improve various other parts of Babai's paper, working with several people who look at it from different angles, with an eye towards obtaining a Polynomial Graph Isomorphism algorithm. The GROGandGIN team will also study growth in Lie groups since the theory of random walks in Lie groups has been revitalised using analogues of our Product Theorem.'",
+    "totalCost": "1965340",
+    "ecMaxContribution": "1965340",
+    "coordinator": "MAGYAR TUDOMANYOS AKADEMIA RENYI ALFRED MATEMATIKAI KUTATOINTEZET",
+    "coordinatorCountry": "HU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998078979": {
+            "orgId": "998078979",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA RENYI ALFRED MATEMATIKAI KUTATOINTEZET",
+            "ecContrib": 1965340
+        }
+    },
+    "calculatedTotalContribution": 1965340
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "196801",
+    "acronym": "SKILLS4ROBOTS",
+    "topics": "ERC-StG-2014",
+    "title": "Policy Learning of Motor Skills for Humanoid Robots",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2020",
+    "objective": "The goal of SKILLS4ROBOTS is to develop a autonomous skill learning system that enables humanoid robots to acquire and improve a rich set of motor skills. This robot skill learning system will allow scaling of motor abilities up to fully anthropomorphic robots while overcoming the current limitations of skill learning systems to only few degrees of freedom. To achieve this goal, it will decompose complex motor skills into simpler elemental movements ñ called movement primitives ñ that serve as building blocks for the higher-level movement strategy and the resulting architecture will be able to address arbitrary, highly complex tasks ñ up to robot table tennis for a humanoid robot. Learned primitives will be superimposed, sequenced and blended. \n\nFour recent breakthroughs in the PIís research will make this project possible due to successes on the representation of the parametric probabilistic representations of the elementary movements, on probabilistic imitation learning, on relative entropy policy search-based reinforcement learning and on the modular organization of the representation. These breakthroughs will allow create a general, autonomous skill learning system that can learn many different skills in the exact same framework without changing a single line of programmed code. To accomplish this goal, our skill learning system will autonomously extract the necessary movement primitives out of observed trajectories, learn to generalize these primitives to different situations and select, sequence or combine them such that complex behavior can be synthesized out of the primitive building blocks. We will evaluate our autonomous learning framework on a real humanoid robot platform with 60 degrees of freedom and show that it can learn a large variety of new skills.",
+    "totalCost": "1405572,5",
+    "ecMaxContribution": "1405572,5",
+    "coordinator": "TECHNISCHE UNIVERSITAT DARMSTADT",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 1405572
+        }
+    },
+    "calculatedTotalContribution": 1405572
+}

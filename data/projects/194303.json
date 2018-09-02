@@ -1,0 +1,53 @@
+{
+    "rcn": "194303",
+    "acronym": "FANCI",
+    "topics": "ICT-22-2014",
+    "title": "Face and body Analysis Natural Computer Interaction",
+    "startDate": "01/01/2015",
+    "endDate": "30/04/2017",
+    "objective": "The FANCI near-market Innovation Action will research, innovate, architect, design, develop and validate innovative multimodal face and body analytics and natural computer interfaces (NCI), develop a reference platform fitting a variety of applications, and provide validation through user-experience evaluation and benchmarking in the rapidly expanding automotive field.\nThe project will focus on intelligent user sensing methods, including face analysis, eye tracking, emotion, intention & authentication; hand gesture recognition; voice tone analysis; and head gesture & pose analysis. It will complement those with smart user intention or distraction estimation and system reaction methods, supplying visual (HUD, etc.), voice and haptic feedback as well as autonomous system actions.\nFANCI will deliver these capabilities in a market ready reference architecture, demonstrated by building a creative Automotive application-suite demonstrator. An Application Programming Interface for software application developers of pervasive natural computer interaction devices, will be supplied. The platform will empower embedded products that capture and act upon user intentions, and imaginative utility applications fusing real and virtual content.\nTo achieve these goals FANCI will combine multi-modal sensor data in a hardware platform to enable robust operation in natural environments, sensing explicit, implicit, and emotional actions of the user in a simple, yet powerful extensible software architecture; provide a low cost, power optimised reference design for embedded products; and validate the approach by building an automotive application demonstrator.\nThe FANCIís partners include an effective mix of innovative pioneering SMEs, industry leaders and academic researchers, guided by a large industrial Automotive systems market leader. The project targets the callís C focus action. It is planned for a 28-month duration, and is estimated to require total funding of around 2.5 MÄ.",
+    "totalCost": "3524688,75",
+    "ecMaxContribution": "1918000",
+    "coordinator": "CEVA D.S.P. LTD",
+    "coordinatorCountry": "IL",
+    "participants": "NVISO SA;SOFTKINETIC SOFTWARE;Universit‡ degli Studi di Siena;TOBII TECHNOLOGY;Harman Becker Automotive Systems GmbH;KEYLEMON SA",
+    "participantCountries": "CH;BE;IT;SE;DE",
+    "projectParticipants": {
+        "968727361": {
+            "orgId": "968727361",
+            "orgName": "TOBII TECHNOLOGY",
+            "ecContrib": 432250
+        },
+        "999898020": {
+            "orgId": "999898020",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI SIENA",
+            "ecContrib": 0
+        },
+        "995068002": {
+            "orgId": "995068002",
+            "orgName": "Harman Becker Automotive Systems GmbH",
+            "ecContrib": 554750
+        },
+        "941251432": {
+            "orgId": "941251432",
+            "orgName": "NVISO SA",
+            "ecContrib": 0
+        },
+        "990438095": {
+            "orgId": "990438095",
+            "orgName": "KEYLEMON SA",
+            "ecContrib": 0
+        },
+        "950586421": {
+            "orgId": "950586421",
+            "orgName": "CEVA D.S.P. LTD",
+            "ecContrib": 505750
+        },
+        "955880487": {
+            "orgId": "955880487",
+            "orgName": "SOFTKINETIC SOFTWARE",
+            "ecContrib": 276500
+        }
+    },
+    "calculatedTotalContribution": 1769250
+}

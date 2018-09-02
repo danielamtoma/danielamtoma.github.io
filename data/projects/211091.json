@@ -1,0 +1,113 @@
+{
+    "rcn": "211091",
+    "acronym": "5G-PICTURE",
+    "topics": "ICT-07-2017",
+    "title": "5G Programmable Infrastructure Converging disaggregated neTwork and compUte REsources",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2019",
+    "objective": "The explosive growth of mobile internet traffic introduces the need to transform traditional closed, static and inelastic network infrastructures into open, scalable and elastic ecosystems supporting new types of connectivity, high mobility and new mission-critical services for operators, vendors and vertical industries.\n5G-PICTURE will develop and demonstrate a converged fronthaul and backhaul infrastructure integrating advanced wireless and novel optical network solutions. ?o address the limitations of the current D-RAN and C-RAN approaches, 5G-PICTURE will exploit flexible functional splits that can be dynamically selected, to optimise resource and energy efficiency.\nThis results in a paradigm shift, from RAN and C-RAN to ?Dis-Aggregated RAN? (DA-RAN). DA-RAN is a novel concept where HW and SW components are disaggregated across the wireless, optical and compute/storage domains. ?Resource disaggregation? allows decoupling these components, creating a common ìpool of resourcesî that can be independently selected and allocated on demand to compose any infrastructure service. Key enablers for DA-RAN are 1) network ?softwarization?, migrating from the conventional closed networking model to an open reference platform, supported through 2) HW programmability, where HW is configured directly by network functions, to provide the required performance. This will enable provisioning of any service by flexibly mixing-and-matching network, compute and storage resources without sacrificing performance and efficiency as is the case in todayís NFV-based solutions.\nTo validate these capabilities, 5G-PICTURE will demonstrate converged fronthaul and backhaul services in: a) a smart city environment, b) a 5G railway experimental testbed showcasing seamless service provisioning and mobility management in high-speed moving environments and c) a stadium with ultra-high user density, supporting media services.\nThe project results will be widely promoted for adoption and standardization.",
+    "totalCost": "7997250",
+    "ecMaxContribution": "7997250",
+    "coordinator": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+    "coordinatorCountry": "DE",
+    "participants": "AIRRAYS GMBH;ZEETTA NETWORKS LIMITED;HUAWEI TECHNOLOGIES DUESSELDORF GMBH;COSMOTE KINITES TILEPIKOINONIES AE;BLU WIRELESS TECHNOLOGY LIMITED;COMSA INSTALACIONES Y SISTEMAS INDUSTRIALES SA;MELLANOX TECHNOLOGIES LTD - MLNX;Ferrocarrils de la Generalitat de Catalunya;UNIVERSITY OF BRISTOL;EURECOM;TRANSPAKET AS;PANEPISTIMIO THESSALIAS;ADVA OPTICAL NETWORKING SE;TELECOM ITALIA SPA;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI;FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA;UNIVERSITAET PADERBORN;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "DE;UK;EL;ES;IL;FR;NO;IT",
+    "projectParticipants": {
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 346625
+        },
+        "999654550": {
+            "orgId": "999654550",
+            "orgName": "COSMOTE KINITES TILEPIKOINONIES AE",
+            "ecContrib": 240625
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 296875
+        },
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 539750
+        },
+        "936541694": {
+            "orgId": "936541694",
+            "orgName": "AIRRAYS GMBH",
+            "ecContrib": 469500
+        },
+        "999811787": {
+            "orgId": "999811787",
+            "orgName": "ADVA OPTICAL NETWORKING SE",
+            "ecContrib": 360625
+        },
+        "930341260": {
+            "orgId": "930341260",
+            "orgName": "ZEETTA NETWORKS LIMITED",
+            "ecContrib": 425000
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 902000
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 467625
+        },
+        "967388179": {
+            "orgId": "967388179",
+            "orgName": "Ferrocarrils de la Generalitat de Catalunya",
+            "ecContrib": 213500
+        },
+        "990560024": {
+            "orgId": "990560024",
+            "orgName": "MELLANOX TECHNOLOGIES LTD - MLNX",
+            "ecContrib": 252500
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 445000
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 299250
+        },
+        "951956740": {
+            "orgId": "951956740",
+            "orgName": "COMSA INSTALACIONES Y SISTEMAS INDUSTRIALES SA",
+            "ecContrib": 440500
+        },
+        "986152150": {
+            "orgId": "986152150",
+            "orgName": "PANEPISTIMIO THESSALIAS",
+            "ecContrib": 513125
+        },
+        "999837492": {
+            "orgId": "999837492",
+            "orgName": "UNIVERSITAET PADERBORN",
+            "ecContrib": 408250
+        },
+        "942111240": {
+            "orgId": "942111240",
+            "orgName": "BLU WIRELESS TECHNOLOGY LIMITED",
+            "ecContrib": 362250
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 461250
+        },
+        "950976555": {
+            "orgId": "950976555",
+            "orgName": "TRANSPAKET AS",
+            "ecContrib": 553000
+        }
+    },
+    "calculatedTotalContribution": 7997250
+}

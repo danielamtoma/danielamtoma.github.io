@@ -1,0 +1,58 @@
+{
+    "rcn": "206181",
+    "acronym": "QROWD",
+    "topics": "ICT-14-2016-2017",
+    "title": "QROWD - Because Big Data Integration is Humanly Possible",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "Big Data integration in European cities is of utmost importance for municipalities and companies to offer effective information services, enable efficient data-driven transportation and mobility, reduce CO2 emissions, assess the efficiency of infrastructure, as well as enhance the quality of life of citizens. At present this integration is substantially limited due to the following factors: 1) Urban Big Data is locked in isolated industrial and public sectors, and 2) The actual Big Data integration is an extremely hard technical problem due to the heterogeneity of data sources, variety of formats, sizes, quality as well as update rates, such that the integration requires significant human intervention. \n\nQROWD addresses these challenges by offering methods to perform cross-sectoral streaming Big Data integration including geographic, transport, meteorological, cross domain and news data, while capitalizing on human feedback channels. The main objectives of QROWD are: (1) Facilitating cross-sectoral Big Data stream integration for urban mobility including real-time data on individual and public transportation combined with further available sources, such as weather conditions and infrastructure information to create a comprehensive overview of the city traffic; (2) Supporting participation and feedback of various stakeholder groups to foster data-driven innovation in cities; and (3) Building a platform providing hybrid computational methods relying on efficient algorithms complemented with human computation and feedback. \n\nThe main outcomes of QROWD are: (1) Two data value chains in the sectors of urban mobility and public transportation using a mix of large scale heterogeneous multilingual datasets; and (2) Cross-sectoral and cross-lingual technology, including algorithms and tools covering all phases of the cross-sectoral Big Data Value Chain building on W3C standards and capitalizing on a flexible and efficient combination of human and machine-based computation.",
+    "totalCost": "3993505",
+    "ecMaxContribution": "2969367,5",
+    "coordinator": "UNIVERSITY OF SOUTHAMPTON",
+    "coordinatorCountry": "UK",
+    "participants": "COMUNE DI TRENTO;INMARK EUROPA SA;TOMTOM DEVELOPMENT GERMANY GMBH;AI4BD GMBH;ATOS SPAIN SA;UNIVERSITA DEGLI STUDI DI TRENTO;INSTITUT FUR ANGEWANDTE INFORMATIK (INFAI) EV",
+    "participantCountries": "IT;ES;DE;CH",
+    "projectParticipants": {
+        "926001480": {
+            "orgId": "926001480",
+            "orgName": "INMARK EUROPA SA",
+            "ecContrib": 219100
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 651505
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 336438
+        },
+        "917494192": {
+            "orgId": "917494192",
+            "orgName": "AI4BD GMBH",
+            "ecContrib": 0
+        },
+        "951657883": {
+            "orgId": "951657883",
+            "orgName": "TOMTOM DEVELOPMENT GERMANY GMBH",
+            "ecContrib": 383075
+        },
+        "999841954": {
+            "orgId": "999841954",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRENTO",
+            "ecContrib": 376625
+        },
+        "952474429": {
+            "orgId": "952474429",
+            "orgName": "COMUNE DI TRENTO",
+            "ecContrib": 249375
+        },
+        "998797652": {
+            "orgId": "998797652",
+            "orgName": "INSTITUT FUR ANGEWANDTE INFORMATIK (INFAI) EV",
+            "ecContrib": 753250
+        }
+    },
+    "calculatedTotalContribution": 2969368
+}

@@ -1,0 +1,68 @@
+{
+    "rcn": "205982",
+    "acronym": "DEIS",
+    "topics": "ICT-01-2016",
+    "title": "Dependability Engineering Innovation for CPS - DEIS",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Cyber-Physical-Systems harbor the potential for vast economic and societal impact in all major application domains, however in case of failure this may lead to catastrophic results for industry and society. Thus, ensuring the dependability of such systems is the key to unlocking their full potential and enabling European industries to develop confidently business models that will nurture their societal uptake.\n\nThe DEIS project addresses this challenges by developing technologies that form a science of dependable system integration. In the core of these technologies lies the concept of a Digital Dependability Identity (DDI) of a component or system. DDIs are composable and executable in the field facilitating (a) efficient synthesis of component and system dependability information over the supply chain and (b) effective evaluation of this information in-the-field for safe and secure composition of highly distributed and autonomous CPS. This concept shall be deployed and evaluated in four use cases: \n\n Automotive: Stand-alone system for intelligent physiological parameter monitoring \n Automotive: Advanced driver simulator for evaluation of automated driving functions \n Railway: Plug-and-play environment for heterogeneous railway systems \n Healthcare: Clinical decision support app for oncology professionals\n\nThe DEIS project will impact the CPS market by providing new engineering methods and tools reducing significantly development time and cost of ownership, while supporting integration and interoperability of dependability information over the product lifecycle and over the supply chain. The development and application of the DDI approach on four use cases from three different application domains will illustrate the applicability of the DDI concept while increasing the competitiveness of the use case owners in their respective markets.",
+    "totalCost": "4889290",
+    "ecMaxContribution": "4889290",
+    "coordinator": "AVL LIST GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "GM GLOBAL PROPULSION SYSTEMS - TORINO SRL;IDEAS & MOTION SRL;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;UNIVERSITY OF YORK;PORTABLE MEDICAL TECHNOLOGY LIMITED;POLITECNICO DI MILANO;UNIVERSITY OF HULL;DUNDALK INSTITUTE OF TECHNOLOGY;SIEMENS AKTIENGESELLSCHAFT",
+    "participantCountries": "IT;DE;UK;IE",
+    "projectParticipants": {
+        "999903743": {
+            "orgId": "999903743",
+            "orgName": "UNIVERSITY OF HULL",
+            "ecContrib": 553679
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 614075
+        },
+        "919241841": {
+            "orgId": "919241841",
+            "orgName": "PORTABLE MEDICAL TECHNOLOGY LIMITED",
+            "ecContrib": 324312
+        },
+        "996645125": {
+            "orgId": "996645125",
+            "orgName": "DUNDALK INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 231875
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 415336
+        },
+        "987548077": {
+            "orgId": "987548077",
+            "orgName": "GM GLOBAL PROPULSION SYSTEMS - TORINO SRL",
+            "ecContrib": 354125
+        },
+        "999987260": {
+            "orgId": "999987260",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT",
+            "ecContrib": 927054
+        },
+        "999978336": {
+            "orgId": "999978336",
+            "orgName": "UNIVERSITY OF YORK",
+            "ecContrib": 475106
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 611852
+        },
+        "951805323": {
+            "orgId": "951805323",
+            "orgName": "IDEAS & MOTION SRL",
+            "ecContrib": 381875
+        }
+    },
+    "calculatedTotalContribution": 4889289
+}

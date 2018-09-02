@@ -1,0 +1,83 @@
+{
+    "rcn": "207017",
+    "acronym": "CID",
+    "topics": "MSCA-RISE-2016",
+    "title": "Computing with Infinite Data",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2021",
+    "objective": "The joint research in this programme will study important aspectsóboth theoretical as well as appliedóof computing with infinite objects. A central aim is laying the grounds for the generation of efficient and verified software in engineering applications. \n\nA prime example for infinite data is provided by the real numbers, most commonly conceived as infinite sequences of digits. While most applications in science and engineering substitute the reals with floating point numbers of fixed finite precision and thus have to deal with truncation and rounding errors, the approach in this project is different: exact real numbers are taken as first-class citizens and while any computation can only exploit a finite portion of its input in finite time, increased precision is always available by continuing the computation process.\n\nThis project aims to bring together the expertise of specialists in mathematics, logic, and computer science to push the frontiers of our theoretical and practical understanding of computing with infinite objects. Three overarching motivations drive the proposed collaboration:\n\nRepresentability. Cardinality considerations tell us that it is not possible to represent arbitrary mathematical objects in a way that is accessible to computation. We will enlist expertise in topology, logic, and set theory, to address the question of which objects are representable and how they can be represented most efficiently.\n\nConstructivity. Working in a constructive mathematical universe can greatly enhance our understanding of the link between computation and mathematical structure. Not only informs us which are the objects of relevance, it also allows us to devise always correct algorithms from proofs.\n\nEfficient implementation. We also aim to make progress on concrete implementations. Theoretical insights from elsewhere will be tested in actual computer systems; obstacles encountered in the latter will inform the direction of mathematical investigation.",
+    "totalCost": "1462500",
+    "ecMaxContribution": "958500",
+    "coordinator": "UNIVERSITAET SIEGEN",
+    "coordinatorCountry": "DE",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;SWANSEA UNIVERSITY;LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN;THE UNIVERSITY OF BIRMINGHAM;UNIVERSITEIT MAASTRICHT;UNIVERSITA DEGLI STUDI DI PADOVA;UNIVERSITAT TRIER;UNIVERSIDADE DO ALGARVE;Fachhochschule Dortmund;UNIVERZA V LJUBLJANI;STOCKHOLMS UNIVERSITET;ASTON UNIVERSITY",
+    "participantCountries": "FR;UK;DE;NL;IT;PT;SI;SE",
+    "projectParticipants": {
+        "999995602": {
+            "orgId": "999995602",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PADOVA",
+            "ecContrib": 72000
+        },
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 90000
+        },
+        "999975911": {
+            "orgId": "999975911",
+            "orgName": "UNIVERSITEIT MAASTRICHT",
+            "ecContrib": 18000
+        },
+        "999849617": {
+            "orgId": "999849617",
+            "orgName": "UNIVERSITAET SIEGEN",
+            "ecContrib": 72000
+        },
+        "999885022": {
+            "orgId": "999885022",
+            "orgName": "STOCKHOLMS UNIVERSITET",
+            "ecContrib": 40500
+        },
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 207000
+        },
+        "999863003": {
+            "orgId": "999863003",
+            "orgName": "UNIVERSIDADE DO ALGARVE",
+            "ecContrib": 58500
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 90000
+        },
+        "999923240": {
+            "orgId": "999923240",
+            "orgName": "UNIVERZA V LJUBLJANI",
+            "ecContrib": 58500
+        },
+        "986309678": {
+            "orgId": "986309678",
+            "orgName": "Fachhochschule Dortmund",
+            "ecContrib": 36000
+        },
+        "999896953": {
+            "orgId": "999896953",
+            "orgName": "ASTON UNIVERSITY",
+            "ecContrib": 27000
+        },
+        "999863682": {
+            "orgId": "999863682",
+            "orgName": "UNIVERSITAT TRIER",
+            "ecContrib": 76500
+        },
+        "999862033": {
+            "orgId": "999862033",
+            "orgName": "SWANSEA UNIVERSITY",
+            "ecContrib": 112500
+        }
+    },
+    "calculatedTotalContribution": 958500
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "193768",
+    "acronym": "FEXFEM",
+    "topics": "ERC-PoC-2014",
+    "title": "On a free open source extreme scale finite element software",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2016",
+    "objective": "The ability of scientific computing to efficiently exploit forthcoming extreme scale machines will have a great impact in almost every field of science. The next generation of exascale computers is expected to reach billions of cores. As a result, high performance scientific software able to efficiently exploit these extreme scale super-computers is strategic in this scenario. However, this target is very challenging and requires ground-breaking advances in numerical algorithms. The free open source software paradigm is the best approach for a software project of this complexity, which will require collaborative research between researchers by top-end experts in different fields. \n \nNowadays, there are some high-quality libraries for the numerical approximation of PDEs using grid-based methods. These libraries provide the discretization/linearization machinery, leaving the numerical linear algebra to external libraries. In the future exascale scenario, this staggered approach does not seem to be the best option. \n \nThe objective of this PoC proposal is to develop a Scientific Computing Library for Frontier Simulations at Extreme Scales. Our idea is to provide a high-quality open source software that combines discretization and numerical linear algebra in a strong way. We mention some of the benefits of this innovative approach that we have already identified/exploited. \n \nExtreme scale solvers will require reducing synchronization and inter-processor communications, even at the expense of extra local flops. In order to do this, (1) nonlinear domain decomposition and (2) time-space parallelization will be favoured, since there is much more local work to be done (nonlinear/time loops). . Further, (3) solver-aware discretizations should also be considered, e.g. replacing local kernel detection in domain decomposition by (consistent) boundary terms. (4) Multiphysics problems cannot be efficiently solved via black-box solvers, requiring physics-based preconditioners.",
+    "totalCost": "149250",
+    "ecMaxContribution": "149250",
+    "coordinator": "CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999658721": {
+            "orgId": "999658721",
+            "orgName": "CENTRE INTERNACIONAL DE METODES NUMERICS EN ENGINYERIA",
+            "ecContrib": 149250
+        }
+    },
+    "calculatedTotalContribution": 149250
+}

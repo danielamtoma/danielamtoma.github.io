@@ -1,0 +1,83 @@
+{
+    "rcn": "212425",
+    "acronym": "TechTIDE",
+    "topics": "COMPET-5-2017",
+    "title": "Warning and Mitigation Technologies for Travelling Ionospheric Disturbances Effects",
+    "startDate": "01/11/2017",
+    "endDate": "30/04/2020",
+    "objective": "Travelling Ionospheric Disturbances (TIDs) constitute a threat for operational systems for which the ionosphere is an essential part (i.e., radio systems) or for which the ionosphere is fundamentally a nuisance (i.e. GNSS based systems and applications). The overarching objective of TechTIDE is to design and test new viable TID impact mitigation strategies for the technologies affected by the TIDs and in close collaboration with operators of these technologies, to demonstrate the added value of the proposed mitigation techniques which are based on TechTIDE products.  To achieve this main goal, it is necessary to address the following specific objectives:\ni. Improve understanding regarding the physical processes resulting in the formation of TIDs, and consequently to identify the drivers in the interplanetary medium, the magnetosphere and the atmosphere;\nii. Define the impact of the TIDs on the space based navigation systems (mainly EGNOS services and N-RTK) and on ground-based HF communication and geolocation systems;\niii. Develop improved methodologies, based on consortium partnersí algorithms, suitable to support for the first time the direct,real-time identification and tracking of TIDs over wide world regions;\niv. Establish an operational system to issue warnings of the occurrence of TIDs over the region extending from Europe to South Africa, to estimate the parameters that specify the TID characteristics and the inferred perturbation, and provide all additional geophysical information to the users to help them assess the risks and to develop mitigation techniques, tailored to their applications;\nv. Work systematically with potential users to assess the functionality, reliability and efficiency of the TechTIDE services paving the way to its systematic exploitation from users and to its sustainable operation.",
+    "totalCost": "1579000",
+    "ecMaxContribution": "1579000",
+    "coordinator": "NATIONAL OBSERVATORY OF ATHENS",
+    "coordinatorCountry": "EL",
+    "participants": "USTAV FYZIKY ATMOSFERY AV CR, v.v.i.;SOUTH AFRICA NATIONAL SPACE AGENCY;INSTITUT ROYAL METEOROLOGIQUE DE BELGIQUE;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;OBSERVATORIO DEL EBRO FUNDACION;UNIVERSITAT POLITECNICA DE CATALUNYA;EUROPEAN SATELLITE SERVICES PROVIDER SAS;BOREALIS GLOBAL DESIGNS EOOD;LEIBNIZ-INSTITUT FUR ATMOSPHARENPHYSIK EV AN DER UNIVERSITAT ROSTOCK;BUNDESPOLIZEI;MESOKELEAS LTD;WATERMANN JURGEN",
+    "participantCountries": "CZ;ZA;BE;DE;ES;FR;BG;CY",
+    "projectParticipants": {
+        "969294229": {
+            "orgId": "969294229",
+            "orgName": "EUROPEAN SATELLITE SERVICES PROVIDER SAS",
+            "ecContrib": 201450
+        },
+        "996699154": {
+            "orgId": "996699154",
+            "orgName": "INSTITUT ROYAL METEOROLOGIQUE DE BELGIQUE",
+            "ecContrib": 76375
+        },
+        "962866427": {
+            "orgId": "962866427",
+            "orgName": "SOUTH AFRICA NATIONAL SPACE AGENCY",
+            "ecContrib": 57750
+        },
+        "999653677": {
+            "orgId": "999653677",
+            "orgName": "NATIONAL OBSERVATORY OF ATHENS",
+            "ecContrib": 247625
+        },
+        "957895953": {
+            "orgId": "957895953",
+            "orgName": "BUNDESPOLIZEI",
+            "ecContrib": 71125
+        },
+        "996511750": {
+            "orgId": "996511750",
+            "orgName": "MESOKELEAS LTD",
+            "ecContrib": 73875
+        },
+        "998227389": {
+            "orgId": "998227389",
+            "orgName": "USTAV FYZIKY ATMOSFERY AV CR, v.v.i.",
+            "ecContrib": 115625
+        },
+        "996680918": {
+            "orgId": "996680918",
+            "orgName": "OBSERVATORIO DEL EBRO FUNDACION",
+            "ecContrib": 117250
+        },
+        "935207653": {
+            "orgId": "935207653",
+            "orgName": "BOREALIS GLOBAL DESIGNS EOOD",
+            "ecContrib": 110125
+        },
+        "972487566": {
+            "orgId": "972487566",
+            "orgName": "LEIBNIZ-INSTITUT FUR ATMOSPHARENPHYSIK EV AN DER UNIVERSITAT ROSTOCK",
+            "ecContrib": 73000
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 193500
+        },
+        "974888122": {
+            "orgId": "974888122",
+            "orgName": "WATERMANN JURGEN",
+            "ecContrib": 65050
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 176250
+        }
+    },
+    "calculatedTotalContribution": 1579000
+}

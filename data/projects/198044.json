@@ -1,0 +1,28 @@
+{
+    "rcn": "198044",
+    "acronym": "COTURB",
+    "topics": "ERC-ADG-2014",
+    "title": "Coherent Structures in Wall-bounded Turbulence",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2021",
+    "objective": "Turbulence is a multiscale phenomenon for which control efforts have often failed because the dimension of the attractor is large. However, kinetic energy and drag are controlled by relatively few slowly evolving large structures that sit on top of a multiscale cascade of smaller eddies. They are essentially single-scale phenomena whose evolution can be described using less information than for the full flow. In evolutionary terms they are punctuated ëequilibriaí for which chaotic evolution is only intermittent. The rest of the time they can be considered coherent and predictable for relatively long periods. Coherent structures studied in the 1970s in free-shear flows (e.g. jets) eventually led to increased understanding and to industrial applications. In wall-bounded cases (e.g. boundary layers), proposed structures range from exact permanent waves and orbits to qualitative observations such as hairpins or ejections. Although most of them have been described at low Reynolds numbers, there are reasons to believe that they persist at higher ones in the ëLESí sense in which small scales are treated statistically. Recent computational and experimental advances provide enough temporally and spatially resolved data to quantify the relevance of such models to fully developed flows. We propose to use mostly existing numerical data bases to test the various models of wall-bounded coherent structures, to quantify how often and how closely the flow approaches them, and to develop moderate-time predictions. Existing solutions will be extended to the LES equations, methods will be sought to identify them in fully turbulent flows, and reduced-order models will be developed and tested. In practical situations, the idea is to be able to detect large eddies and to predict them ëmost of the timeí. If simple enough models are found, the process will be implemented in the laboratory and used to suggest control strategies.",
+    "totalCost": "2497000",
+    "ecMaxContribution": "2497000",
+    "coordinator": "UNIVERSIDAD POLITECNICA DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSIDAD CARLOS III DE MADRID",
+    "participantCountries": "ES",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 2218250
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 278750
+        }
+    },
+    "calculatedTotalContribution": 2497000
+}

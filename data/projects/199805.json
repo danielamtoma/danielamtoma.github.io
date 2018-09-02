@@ -1,0 +1,23 @@
+{
+    "rcn": "199805",
+    "acronym": "WebMAT",
+    "topics": "ERC-PoC-2015",
+    "title": "Web-based system for multi-arrangement task for rapid acquisition of subjectivejudgements.",
+    "startDate": "01/04/2016",
+    "endDate": "30/09/2017",
+    "objective": "Everyoneís perception of the world is unique. Subjective attributions exert powerful influences on our cognition and behaviour, ranging from implicit biases to explicit decision-making. Psychology, public policy, and marketing have long histories of attempts to measure subjective judgements using questionnaires, in which single items are rated one scale at a time. However, ratings require individuals to translate the richness of their perceptual experience into discrete quantities for each item separately. This does not reflect the continuous and context-rich nature of experience. \nIn our ERC Starting Grant, we have been developing a novel technique for capturing judgements of relationships among a large number of objects. In this technique, the participant arranges the objects on a computer screen by mouse drag-and-drop operations. This multi-arrangement (MA) method enables participants to communicate multiple continuous object-pair similarities by a single drag-and-drop placement and to adjust the judgements in the context of the entire set. The MA method also lends itself to efficient acquisition of multiple continuous property judgements performed in the context of the set.\nOur aim with the present Proof of Concept (PoC) project is to develop a web-based platform for the MA method that is compatible with modern technologies (e.g. tablets, touchscreen laptops and desktop PCs). We plan to use JavaScript, Python, and HTML in order to implement an easy to use web-based tool that makes the MA method available to a broad base of users. The web-based platform would provide important savings, reducing programming costs, research assistant work, and volunteer travel expenses. This would enable researchers in science, governments, and industry to quickly and easily acquire substantial amounts of subjective judgment data at lower costs. The PoC grant would enable us to build this web-based platform and explore its potential for broad application and commercialisation.",
+    "totalCost": "149640",
+    "ecMaxContribution": "149640",
+    "coordinator": "UNITED KINGDOM RESEARCH AND INNOVATION",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990170": {
+            "orgId": "999990170",
+            "orgName": "MEDICAL RESEARCH COUNCIL",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

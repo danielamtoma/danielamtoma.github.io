@@ -1,0 +1,23 @@
+{
+    "rcn": "213514",
+    "acronym": "PCPHDX",
+    "topics": "ERC-2017-COG",
+    "title": "Probabilistically Checkable Proofs, Agreement Tests,and High Dimensional Expanders",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "PCPs capture a striking local to global phenomenon in which a global object such as an NP witness can be checked using local constraints, and its correctness is guaranteed even if only a fraction of the constraints are satisfied. \n\nPCPs are tightly related to hardness of approximation. The relation is essentially due to the fact that exact optimization problems can be reduced to their approximation counterparts through this local to global connection.\n\nWe view this local to global connection is a type of high dimensional expansion, akin to relatively new notions of high dimensional expansion (such as coboundary and cosystolic expansion) that have been introduced in the literature recently. We propose to study PCPs and high dimensional expansion together. We describe a concrete notion of ìagreement expansionî and propose a systematic study of this question. We show how progress on agreement expansion questions is directly related to some of the most important open questions in PCPs such as the unique games conjecture, and the problem of constructing linear size PCPs. \n\nWe also propose to study the phenomenon of high dimensional expansion more broadly and to investigate its relation and applicability to questions in computational complexity that go beyond PCPs, in particular for hardness amplification and for derandomizing direct product constructions.",
+    "totalCost": "1512035",
+    "ecMaxContribution": "1512035",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 1512035
+        }
+    },
+    "calculatedTotalContribution": 1512035
+}

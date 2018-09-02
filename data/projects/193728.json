@@ -1,0 +1,23 @@
+{
+    "rcn": "193728",
+    "acronym": "DASMT",
+    "topics": "ERC-StG-2014",
+    "title": "Domain Adaptation for Statistical Machine Translation",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2020",
+    "objective": "Rapid translation between European languages is a cornerstone of good governance in the EU, and of great academic and commercial interest. Statistical approaches to machine translation constitute the state-of-the-art. The basic knowledge source is a parallel corpus, texts and their translations. For domains where large parallel corpora are available, such as the proceedings of the European Parliament, a high level of translation quality is reached. However, in countless other domains where large parallel corpora are not available, such as medical literature or legal decisions, translation quality is unacceptably poor. \n\nDomain adaptation as a problem of statistical machine translation (SMT) is a relatively new research area, and there are no standard solutions. The literature contains inconsistent results and heuristics are widely used. We will solve the problem of domain adaptation for SMT on a larger scale than has been previously attempted, and base our results on standardized corpora and open source translation systems.\n\nWe will solve two basic problems. The first problem is determining how to benefit from large out-of-domain parallel corpora in domain-specific translation systems. This is an unsolved problem. The second problem is mining and appropriately weighting knowledge available from in-domain texts which are not parallel. While there is initial promising work on mining, weighting is not well studied, an omission which we will correct. We will scale mining by first using Wikipedia, and then mining from the entire web.\n\nOur work will lead to a break-through in translation quality for the vast number of domains with less parallel text available, and have a direct impact on SMEs providing translation services. The academic impact of our work will be large because solutions to the challenge of domain adaptation apply to all natural language processing systems and in numerous other areas of artificial intelligence research based on machine learning approaches.",
+    "totalCost": "1228625",
+    "ecMaxContribution": "1228625",
+    "coordinator": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 1228625
+        }
+    },
+    "calculatedTotalContribution": 1228625
+}

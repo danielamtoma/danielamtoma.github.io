@@ -1,0 +1,73 @@
+{
+    "rcn": "198303",
+    "acronym": "BioExcel",
+    "topics": "EINFRA-5-2015",
+    "title": "Centre of Excellence for Biomolecular Research",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2018",
+    "objective": "Life Science research has become increasingly digital, and this development is accelerating rapidly. Biomolecular modelling techniques such as homology modelling, docking, and molecular simulation have advanced tremendously due to world-leading European research, resulting in extreme demands for better computational performance and throughput as these tools are used in applied research and industrial development. This research has direct influence on our daily life in areas such as health and medical applications, the development of new drugs, efficient drug delivery, biotechnology, environment, agriculture and food industry. Life Science is one of the largest and fastest growing communities in need of high-end computing, and it is a critically important industrial sector for Europe. However, compared to some other disciplines, the use of e-Infrastructure is still relatively new - many advanced techniques are not applied commercially due to limited experience. It requires significant support to:\nï Make e-Infrastructure useable by researchers who are not computing experts,\nï Improve the performance and applicability of key life science applications,\nï Handle large amounts of data in computational workflows.\n\nBioExcel proposes to tackle these challenges by establishing a dedicated CoE for Biomolecular Research, covering structural and functional studies of the building blocks of living organisms - proteins, DNA, saccharides, membranes, solvents and small molecules like drug compounds - all areas where with large academic and industrial users bases in Europe. Specifically, BioExcel will\nï Improve the efficiency and scalability of important software packages for biomolecular research;\nï Improve the usability of ICT technologies for biomolecular researchers in academia and industry;\nï Promote best practices and train end users in making good use of both software and e-Infrastructure.\nï Develop appropriate governance structures and business plans for a sustainable CoE.",
+    "totalCost": "4782286,25",
+    "ecMaxContribution": "4782286",
+    "coordinator": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+    "coordinatorCountry": "SE",
+    "participants": "THE UNIVERSITY OF MANCHESTER;FORSCHUNGSZENTRUM JULICH GMBH;EUROPEAN MOLECULAR BIOLOGY LABORATORY;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;FORWARD TECHNOLOGIES AB;FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA);IAN HARROW CONSULTING LTD;UNIVERSITEIT UTRECHT;THE UNIVERSITY OF EDINBURGH;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "UK;DE;SE;ES;NL",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 225000
+        },
+        "999985805": {
+            "orgId": "999985805",
+            "orgName": "UNIVERSITEIT UTRECHT",
+            "ecContrib": 279000
+        },
+        "999541836": {
+            "orgId": "999541836",
+            "orgName": "FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA)",
+            "ecContrib": 225000
+        },
+        "934660670": {
+            "orgId": "934660670",
+            "orgName": "FORWARD TECHNOLOGIES AB",
+            "ecContrib": 218250
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 315000
+        },
+        "934283534": {
+            "orgId": "934283534",
+            "orgName": "IAN HARROW CONSULTING LTD",
+            "ecContrib": 183750
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 1083500
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 599661
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1048726
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 345875
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 258524
+        }
+    },
+    "calculatedTotalContribution": 4782286
+}

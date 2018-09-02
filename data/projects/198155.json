@@ -1,0 +1,23 @@
+{
+    "rcn": "198155",
+    "acronym": "HAP-PHEN",
+    "topics": "ERC-StG-2014",
+    "title": "From haplotype to phenotype: a systems integration of allelic variation, chromatin state and 3D genome data",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "High-throughput sequencing methods are breaching the barrier of $1000 per genome. This means that it will become feasible to sequence the genomes of many individual and create a deep catalog of the bulk of human genetic variation. A great task will lie in assigning function to all this genetic variation. Genome wide association studies have already shown that 40% of all loci significantly associated with disease are found in intergenic, supposedly regulatory regions. One of the current challenges in human genetics is that variants that affect expression on a single allele cannot be directly linked, because only have genotype information, rather then haplotype information. The overarching aim of the project is to resolve haplotypes in order to identify genetic variants that affect gene expression. We will do this in three sub-projects. In the first main project we will use 3D genome information gathered from Hi-C experiments to haplotype the genomes of six lymphoblastoid cell lines. We will integrate these data with chromatin profiling and RNAseq data in order to build integrative models for the prediction of gene expression and the effect of genetic variation on gene expression. In the second project we will perform haplotyping the breast cancer genes BRCA1/2 in a large cohort of individuals that come from families with a high-risk of hereditary breast cancer. Allelic imbalance in BRCA1/2 expression levels are known to be associated with an increased risk for breast cancer. We will aim to find genetic variants that are associated with a decreased allelic expression of BRCA1/2 to improve breast cancer risk assessment. Finally, we will develop a novel tool to study 3D genome organization of single alleles, which will allow us to identify how individual alleles are organized in the nucleus and identify multi-way interactions (i.e. involving more than two genomic loci). With this we hope to better understand how complex 3D organization contributes to gene regulation.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984738": {
+            "orgId": "999984738",
+            "orgName": "STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

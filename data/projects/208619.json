@@ -1,0 +1,23 @@
+{
+    "rcn": "208619",
+    "acronym": "SILICON",
+    "topics": "MSCA-IF-2016",
+    "title": "Self-Injection-Locked Integrated Analog-to-Digital Converter",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2019",
+    "objective": "The Internet-of-Things (IoT) will soon represent the main target application of ICs, involving thousands of autonomous devices forming a large communication network for the purpose of exchanging/processing information about the physical world. From a hardware standpoint, the RF wireless transceivers of IoT devices demand the highest possible energy efficiency and a small area to enable inexpensive large-scale integration. Since analog/RF building blocks must be integrated with the mainstream digital technology, new circuit topologies and techniques must be adopted. The time-mode signaling, recently exploited in all-digital PLLs, data converters (the so called time-mode or VCO-based ADCs), opamps and filters, allows the performance of ìanalogî circuits to improve with the technology scaling. The proposed research focuses on a novel architecture of time-mode ADC, attempting to mitigate the fundamental limitations of such class of converters (i.e. the highly nonlinear VCO) by exploiting advanced RF techniques, thus giving rise to a hybrid time/frequency-mode operation. Studies have shown that by injection-locking an oscillator to its own delayed resonating waveform (self-injection-locking, SIL), the oscillating frequency can be made reasonably linear versus only two well-controlled parameters (i.e. the amplitude and phase of the self-injected signal). The SIL technique will be exploited to achieve a known, predictable relationship between the oscillating frequency and a certain analog quantity (i.e. the input signal). Accordingly, the proposed research attempts to mathematically overcome, and not to compensate accordingly, the nonlinear characteristic of an oscillator. By adding a simple digital frequency detector, SILICON has potential to devise a new class of data converters, the SIL-ADCs. It will also provide the applicant with cutting edge training from academic & industry leaders in the field which will be implemented using a personalised career development plan.",
+    "totalCost": "175866",
+    "ecMaxContribution": "175866",
+    "coordinator": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 175866
+        }
+    },
+    "calculatedTotalContribution": 175866
+}

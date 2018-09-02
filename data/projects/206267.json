@@ -1,0 +1,63 @@
+{
+    "rcn": "206267",
+    "acronym": "QV-LIFT",
+    "topics": "COMPET-2-2016",
+    "title": "Q/V band earth segment LInk for Future high Throughput space systems",
+    "startDate": "01/11/2016",
+    "endDate": "30/04/2019",
+    "objective": "The QV-LIFT project aims at building the foundation of the Ground Segment Technology for the future Q/V band Terabit SatCom systems. This ambitious task will be undertaken developing core hardware and software technologies addressing urgent physical to network level needs. QV-LIFT intends to demonstrate a TRL6 for all the technologies developed and, significantly, integrating them in a realistic scenario enabled by access to the Q/V band Aldo Paraboni payload, on board of AlphaSat, and by the relevant Ground Segment made available by the Italian Space Agency.\nQV-LIFT is committed to increase the maturity level of key satellite communication technologies and to contribute to a more competitive positioning of SatCom European manufacturers in the marketplace in many ways.\n1)QV-LIFT intends to advance the European RF SatCom technology by developing the following building blocks and systems at Q/V band:\ni)GaN power amplifier MMICs at V band with up to 5W RF power output\nii)a V band power combining High Power Amplifier based on GaN technology targeting up to 15 W power output;\niii)a high performance Block Up Converter operating in the V band;\niv)a Low Noise Block down converter operating in the Q band;\nv)Q/V band, Tx/Rx, single aperture antennas for the mobile and fixed terminals;\nvi)a Q/V band TX/RX single aperture terminal suitable for airborne applications;\n2)QV-LIFT intends to develop the first Q/V band Smart Gateways Management System able to counteract the propagation impairments removing one the main obstacle to the deployment of the future Q/V band Ground Segment.\n3)QV-LIFT fosters links between academia, large companies and SMES. In doing so, QV-LIFT targets the full and stable integration of SMEs into the SatCom value chain by developing know how in the following key areas which are recognized as strategic for the future SatCom market:\n-MMIC GaN integrated circuits,\n-Q/V band RF components,\n-Ground Segment Infrastructures.",
+    "totalCost": "3783117,5",
+    "ecMaxContribution": "3409242,5",
+    "coordinator": "AGENZIA SPAZIALE ITALIANA",
+    "coordinatorCountry": "IT",
+    "participants": "SKYTECH ITALIA - SOCIETA' A RESPONSABILITA' LIMITATA;OMMIC SAS;Erzia Technologies SL;HERIOT-WATT UNIVERSITY;EUTELSAT S.A.;M.B.I. S.R.L.;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI;MARTEL GMBH",
+    "participantCountries": "IT;FR;ES;UK;CH",
+    "projectParticipants": {
+        "921201435": {
+            "orgId": "921201435",
+            "orgName": "SKYTECH ITALIA - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "ecContrib": 602000
+        },
+        "999695387": {
+            "orgId": "999695387",
+            "orgName": "MARTEL GMBH",
+            "ecContrib": 0
+        },
+        "999853400": {
+            "orgId": "999853400",
+            "orgName": "HERIOT-WATT UNIVERSITY",
+            "ecContrib": 334962
+        },
+        "999612452": {
+            "orgId": "999612452",
+            "orgName": "OMMIC SAS",
+            "ecContrib": 402125
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 501045
+        },
+        "996367996": {
+            "orgId": "996367996",
+            "orgName": "Erzia Technologies SL",
+            "ecContrib": 320985
+        },
+        "997257971": {
+            "orgId": "997257971",
+            "orgName": "EUTELSAT S.A.",
+            "ecContrib": 398375
+        },
+        "999663668": {
+            "orgId": "999663668",
+            "orgName": "AGENZIA SPAZIALE ITALIANA",
+            "ecContrib": 419750
+        },
+        "996755608": {
+            "orgId": "996755608",
+            "orgName": "M.B.I. S.R.L.",
+            "ecContrib": 430000
+        }
+    },
+    "calculatedTotalContribution": 3409242
+}

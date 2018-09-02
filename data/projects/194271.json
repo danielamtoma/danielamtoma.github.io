@@ -1,0 +1,58 @@
+{
+    "rcn": "194271",
+    "acronym": "SERECA",
+    "topics": "ICT-07-2014",
+    "title": "Secure Enclaves for REactive Cloud Applications",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2018",
+    "objective": "Cloud security is of immediate concern to organisations that must comply with strict confidentiality and integrity policies. More broadly, security has emerged as a commercial imperative for cloud computing across a wide range of markets. The lack of adequate security guarantees is becoming the primary barrier to the broad adoption of cloud computing.\nThe Secure Enclaves for REactive Cloud Applications (SERECA) project aims to remove technical impediments to secure cloud computing, and thereby encourage greater uptake of cost-effective and innovative cloud solutions in Europe. It proposes to develop secure enclaves, a new technique that exploits secure commodity CPU hardware for cloud deployments, empowering applications to ensure their own security without relying on public cloud operators. Secure enclaves additionally support regulatory-compliant data localisation by allowing applications to securely span multiple cloud data centres.\nAlthough secure enclaves are a general mechanism, SERECA focuses on a particularly important and rapidly growing class of applications: reactive applications for the Internet of Things (IoT), Cyber-Physical Systems (CPS), augmented reality, gaming, computer-mediated social interaction, and the like. These applications are highly interactive, data intensive, and distributed, often involving extremely sensitive societal and personal information.\nSERECA is validating its results through the development of two innovative and challenging industry-led use cases. One concerns the monitoring of a civil water supply network, a critical infrastructure targeted by malicious attacks. The other concerns a commercial software-as-a-service (SaaS) application for analysing the performance of cloud-deployed applications. Such a service collects sensitive performance metrics about live usage, assets that must be protected from industrial espionage and other criminal activities.",
+    "totalCost": "3834340",
+    "ecMaxContribution": "3834340",
+    "coordinator": "TECHNISCHE UNIVERSITAET DRESDEN",
+    "coordinatorCountry": "DE",
+    "participants": "JCLARITY LIMITED;IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;CLOUD&HEAT TECHNOLOGIES GMBH;EPSILON S.R.L.;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;RED HAT LIMITED;ENTE PER LO SVILUPPO DELL'IRRIGAZIONE NELLA PUGLIA BASILICATA IRPINA",
+    "participantCountries": "UK;DE;IT;IE",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 630744
+        },
+        "956952143": {
+            "orgId": "956952143",
+            "orgName": "CLOUD&HEAT TECHNOLOGIES GMBH",
+            "ecContrib": 522500
+        },
+        "999714011": {
+            "orgId": "999714011",
+            "orgName": "EPSILON S.R.L.",
+            "ecContrib": 437250
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 490359
+        },
+        "941376077": {
+            "orgId": "941376077",
+            "orgName": "ENTE PER LO SVILUPPO DELL'IRRIGAZIONE NELLA PUGLIA BASILICATA IRPINA",
+            "ecContrib": 170000
+        },
+        "999608863": {
+            "orgId": "999608863",
+            "orgName": "RED HAT LIMITED",
+            "ecContrib": 593175
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 655938
+        },
+        "946331807": {
+            "orgId": "946331807",
+            "orgName": "JCLARITY LIMITED",
+            "ecContrib": 334375
+        }
+    },
+    "calculatedTotalContribution": 3834341
+}

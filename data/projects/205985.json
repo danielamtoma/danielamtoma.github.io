@@ -1,0 +1,68 @@
+{
+    "rcn": "205985",
+    "acronym": "OPRECOMP",
+    "topics": "FETPROACT-01-2016",
+    "title": "Open transPREcision COMPuting",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "Guaranteed numerical precision of each elementary step in a complex computation has been the mainstay of traditional computing systems for many years. This era, fueled by Moore's law and the constant exponential improvement in computing efficiency, is at its twilight: from tiny nodes of the Internet-of-Things, to large HPC computing centers, sub-picoJoule/operation energy efficiency is essential for practical realizations. To overcome the ìpower wallî, a shift from traditional computing paradigms is now mandatory.\n\nOPRECOMP aims at demolishing the ultra-conservative ìpreciseî computing abstraction and replacing it with a more flexible and efficient one, namely transprecision computing. OPRECOMP will investigate the theoretical and practical understanding of the energy efficiency boost obtainable when accuracy requirements on data being processed, stored and communicated can be lifted for intermediate calculations. While approximate computing approaches have been used before, in OPRECOMP for the first time ever, a complete framework for transprecision computing, covering devices, circuits, software tools, and algorithms, along with the mathematical theory and physical foundations of the ideas will be developed that not only will provide error bounds with respect to full precision results, but also will enable major energy efficiency improvements even when there is no freedom to relax end-to-end application quality-of-results.\n\nThe mission of OPRECOMP is to demonstrate using physical demonstrators that this idea holds in a huge range of application scenarios in the domains of IoT, Big Data Analytics, Deep Learning, and HPC simulations: from the sub-milliWatt to the MegaWatt range, spanning nine orders of magnitude. In view of industrial exploitation, we will prove the quality and reliability and demonstrate that transprecision computing is the way to think about future systems.",
+    "totalCost": "5990510",
+    "ecMaxContribution": "5990510",
+    "coordinator": "IBM RESEARCH GMBH",
+    "coordinatorCountry": "CH",
+    "participants": "UNIVERSITAT JAUME I DE CASTELLON;GREENWAVES TECHNOLOGIES;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;THE QUEEN'S UNIVERSITY OF BELFAST;TECHNISCHE UNIVERSITAET KAISERSLAUTERN;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;UNIVERSITA DEGLI STUDI DI PERUGIA;CINECA CONSORZIO INTERUNIVERSITARIO",
+    "participantCountries": "ES;FR;UK;DE;CH;IT",
+    "projectParticipants": {
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 547500
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 1183000
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 758800
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 548860
+        },
+        "999882985": {
+            "orgId": "999882985",
+            "orgName": "UNIVERSITAT JAUME I DE CASTELLON",
+            "ecContrib": 491250
+        },
+        "999885895": {
+            "orgId": "999885895",
+            "orgName": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+            "ecContrib": 530975
+        },
+        "999846319": {
+            "orgId": "999846319",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PERUGIA",
+            "ecContrib": 361500
+        },
+        "999843409": {
+            "orgId": "999843409",
+            "orgName": "CINECA CONSORZIO INTERUNIVERSITARIO",
+            "ecContrib": 390000
+        },
+        "926407425": {
+            "orgId": "926407425",
+            "orgName": "GREENWAVES TECHNOLOGIES",
+            "ecContrib": 473000
+        },
+        "999992013": {
+            "orgId": "999992013",
+            "orgName": "THE QUEEN'S UNIVERSITY OF BELFAST",
+            "ecContrib": 705625
+        }
+    },
+    "calculatedTotalContribution": 5990510
+}

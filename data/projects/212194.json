@@ -1,0 +1,23 @@
+{
+    "rcn": "212194",
+    "acronym": "GEO-4D",
+    "topics": "ERC-2017-STG",
+    "title": "Geodetic data assimilation: Forecasting Deformation with InSAR",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Recent space-based geodetic measurements of ground deformation suggest a paradigm shift is required in our understanding of the behaviour of active tectonic faults. The classic view of faults classified in two groups ñ the locked faults prone to generate earthquakes and the creeping faults releasing stress through continuous aseismic slip ñ is now obscured by more and more studies shedding light on a wide variety of seismic and aseismic slip events of variable duration and size. What physical mechanism controls whether a tectonic fault will generate a dynamic, catastrophic rupture or gently release energy aseismically? Answering such a fundamental question requires a tool for systematic and global detection of all modes of slip along active faults.\nThe launch of the Sentinel 1 constellation is a game changer as it provides, from now on, systematic Radar mapping of all actively deforming regions in the world with a 6-day return period. Such wealth of data represents an opportunity as well as a challenge we need to meet today. In order to expand the detection and characterization of all slip events to a global scale, I will develop a tool based on machine learning procedures merging the detection capabilities of all data types, including Sentinel 1 data, to build time series of ground motion.\nThe first step is the development of a geodetic data assimilation method with forecasting ability toward the first re-analysis of active fault motion and tectonic phenomena. The second step is a validation of the method on three faults, including the well-instrumented San Andreas (USA) and Longitudinal Valley faults (Taiwan) and the North Anatolian Fault (NAF, Turkey). I will deploy a specifically designed GPS network along the NAF to compare with outputs of our method. The third step is the intensive use of the algorithm on a global scale to detect slip events of all temporal and spatial scales for a better understanding of the slip behaviour along all active continental faults.",
+    "totalCost": "1499125",
+    "ecMaxContribution": "1499125",
+    "coordinator": "ECOLE NORMALE SUPERIEURE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999854758": {
+            "orgId": "999854758",
+            "orgName": "ECOLE NORMALE SUPERIEURE",
+            "ecContrib": 1499125
+        }
+    },
+    "calculatedTotalContribution": 1499125
+}

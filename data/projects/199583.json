@@ -1,0 +1,88 @@
+{
+    "rcn": "199583",
+    "acronym": "M2DC",
+    "topics": "ICT-04-2015",
+    "title": "Modular Microserver DataCentre",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Modular Microserver DataCentre (M2DC) will investigate, develop and demonstrate (Technology Readiness Level 7) a modular, highly-efficient, cost-optimized server architecture composed of heterogeneous microserver computing resources, being able to be tailored to meet requirements from various application domains such as image processing, cloud computing or even HPC. To achieve this objective, M2DC will be built on three main pillars:\n\n- [Pillar 1] A flexible server architecture that can be easily customised, maintained and updated so as to enable adaptation of the data centre. Open server architecture will enable integration of computing resources with constrained thermal power dissipation such as embedded CPUs, GPUs, FPGAs, manycore processors integrated using established standards such as COM Express.\n- [Pillar 2] Advanced management strategies [Pillar 2a] and system efficiency enhancements (SEE) [Pillar 2b] will improve the behaviour of the system during runtime. The server architecture will include built-in enhancements (e.g., for computing acceleration, energy efficiency, dependability and security, behaviour monitoring, etc.) on system level. \n- [Pillar 3] Well-defined interfaces to surrounding software ecosystem will allow for an easy integration into existing data centre management solutions through the use of the latest middleware software for resource management, provisioning, etc. \n\nThe results of these three pillars will be combined to produce TCO (Total Cost of Ownership)-optimized appliances, deployed in a real data centre environment and seamlessly interacting with existing infrastructure to run real-life applications.",
+    "totalCost": "7998935",
+    "ecMaxContribution": "7998935",
+    "coordinator": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+    "coordinatorCountry": "PL",
+    "participants": "REFLEX CES;BEYOND.PL SP ZOO;CEWE STIFTUNG & CO KGAA;XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;VODAFONE AUTOMOTIVE TELEMATICS SA;HUAWEI TECHNOLOGIES DUESSELDORF GMBH;ALLIANCE SERVICES PLUS;CHRISTMANN INFORMATIONSTECHNIK + MEDIEN GMBH & CO KG;OFFIS EV;ARM LIMITED;POLITECNICO DI MILANO;UNIVERSITAET BIELEFELD",
+    "participantCountries": "FR;PL;DE;SI;CH;UK;IT",
+    "projectParticipants": {
+        "999773375": {
+            "orgId": "999773375",
+            "orgName": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO",
+            "ecContrib": 365125
+        },
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 741375
+        },
+        "953722043": {
+            "orgId": "953722043",
+            "orgName": "CEWE STIFTUNG & CO KGAA",
+            "ecContrib": 301250
+        },
+        "941460661": {
+            "orgId": "941460661",
+            "orgName": "ALLIANCE SERVICES PLUS",
+            "ecContrib": 368875
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 751952
+        },
+        "928977440": {
+            "orgId": "928977440",
+            "orgName": "REFLEX CES",
+            "ecContrib": 699750
+        },
+        "951479015": {
+            "orgId": "951479015",
+            "orgName": "VODAFONE AUTOMOTIVE TELEMATICS SA",
+            "ecContrib": 0
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 250000
+        },
+        "929375431": {
+            "orgId": "929375431",
+            "orgName": "BEYOND.PL SP ZOO",
+            "ecContrib": 361250
+        },
+        "999854370": {
+            "orgId": "999854370",
+            "orgName": "UNIVERSITAET BIELEFELD",
+            "ecContrib": 899250
+        },
+        "999594313": {
+            "orgId": "999594313",
+            "orgName": "OFFIS EV",
+            "ecContrib": 770750
+        },
+        "999813824": {
+            "orgId": "999813824",
+            "orgName": "ARM LIMITED",
+            "ecContrib": 186920
+        },
+        "996332882": {
+            "orgId": "996332882",
+            "orgName": "CHRISTMANN INFORMATIONSTECHNIK + MEDIEN GMBH & CO KG",
+            "ecContrib": 1453688
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 848750
+        }
+    },
+    "calculatedTotalContribution": 7998935
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "199176",
+    "acronym": "SUPERAID7",
+    "topics": "ICT-25-2015",
+    "title": "Stability Under Process Variability for Advanced Interconnects and Devices Beyond 7 nm node",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Among the physical limitations which challenge progress in nanoelectronics for aggressively scaled More Moore, process variability is getting ever more critical. Effects from various sources of process variations, both systematic and stochastic, influence each other and lead to variations of the electrical, thermal and mechanical behavior of devices, interconnects and circuits. Correlations are of key importance because they drastically affect the percentage of products which meet the specifications. Whereas the comprehensive experimental investigation of these effects is largely impossible, modelling and simulation (TCAD) offers the unique possibility to predefine process variations and trace their effects on subsequent process steps and on devices and circuits fabricated, just by changing the corresponding input data. This important requirement for and capability of simulation is among others highlighted in the International Technology Roadmap for Semiconductors ITRS. \nSUPERAID7 will build upon the successful FP7 project SUPERTHEME which focused on advanced More-than-Moore devices, and will establish a software system for the simulation of the impact of systematic and statistical process variations on advanced More Moore devices and circuits down to the 7 nm node and below, including especially interconnects. This will need improved physical models and extended compact models. Device architectures addressed in the benchmarks include especially TriGate/?Gate FETs and stacked nanowires, including alternative channel materials. The software developed will be benchmarked utilizing background and sideground experiments of the partner CEA. Main channels for exploitation will be software commercialization via the partner GSS and support of device architecture activities at CEA. Furthermore, an Industrial Advisory Board initially consisting of GLOBALFOUNDRIES and STMicroelectronics will contribute to the specifications and will get early access to the project results.",
+    "totalCost": "3377527,5",
+    "ecMaxContribution": "3377527,5",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "TECHNISCHE UNIVERSITAET WIEN;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;Gold Standard Simulations ltd;UNIVERSITY OF GLASGOW",
+    "participantCountries": "AT;FR;UK",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 534250
+        },
+        "984534481": {
+            "orgId": "984534481",
+            "orgName": "Gold Standard Simulations ltd",
+            "ecContrib": 653350
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 621122
+        },
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 598205
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 970600
+        }
+    },
+    "calculatedTotalContribution": 3377527
+}

@@ -1,0 +1,73 @@
+{
+    "rcn": "193246",
+    "acronym": "APERIM",
+    "topics": "PHC-32-2014",
+    "title": "APERIM: Advanced bioinformatics platform for PERsonalised cancer IMmunotherapy",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "Cancer treatment platforms that involve the use of the adaptive immune system have demonstrated profound tumour regressions including complete cure. Importantly, technological advances in next-generation sequencing (NGS) allow for the first time the development of personalised cancer immunotherapies that target patient specific mutations. However, clinical application is currently hampered by specific bottlenecks in bioinformatics, which we aim to address in this proposal. \n\nThe overall objective of our trans-disciplinary network of leading experts in bioinformatics and cancer immunology is to develop an Advanced bioinformatics platform for PERrsonalised cancer IMmunotherapy (APERIM). Specifically we aim to develop: \n\n1) database for the integration of NGS data, images of whole tissue slides of tumour sections, and clinical data. To enhance the usability and the data sharing we will use semantic web technologies, and will provide standardised interfaces to a set of analytical tools. \n\n2) tools for automated quantification of tumour-infiltrating lymphocytes using whole tissue slide images and NGS data for patient stratification.\n\n3) analytical pipeline for NGS-guided individualised cancer vaccines including crucial NGS data analysis and epitope selection components for the selection of vaccination targets.\n\n4) a method for deriving T-cell receptor (TCR) sequences from NGS data and predicting TCR specificity.\n\nWe will achieve these aims using unique training and validation datasets available to the consortium. We will develop user-friendly software modules as well as analytical standard operating procedures for clinical use, and apply the bioinformatics platform in clinical settings. The bioinformatics platform will considerably accelerate the clinical translation and maximise the accessibility and utility of biomedical data in research and medicine.",
+    "totalCost": "2999287,5",
+    "ecMaxContribution": "2999287,5",
+    "coordinator": "MEDIZINISCHE UNIVERSITAT INNSBRUCK",
+    "coordinatorCountry": "AT",
+    "participants": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE;Masarykova univerzita;DEFINIENS AG;APTAIT GMBH;CENTER OF EXCELLENCE IN MEDICINE AND IT GMBH;STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS;TRON - TRANSLATIONALE ONKOLOGIE ANDER UNIVERSITATSMEDIZIN DER JOHANNES GUTENBERG-UNIVERSITAT MAINZ GEMEINNUTZIGE GMBH;FUNDACION CENTRO NACIONAL DE INVESTIGACIONES CARDIOVASCULARES CARLOS III;UNIVERSITEIT UTRECHT;EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+    "participantCountries": "FR;CZ;DE;AT;NL;ES",
+    "projectParticipants": {
+        "999985805": {
+            "orgId": "999985805",
+            "orgName": "UNIVERSITEIT UTRECHT",
+            "ecContrib": 249000
+        },
+        "999984738": {
+            "orgId": "999984738",
+            "orgName": "STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS",
+            "ecContrib": 279000
+        },
+        "956640482": {
+            "orgId": "956640482",
+            "orgName": "APTAIT GMBH",
+            "ecContrib": 307125
+        },
+        "999855437": {
+            "orgId": "999855437",
+            "orgName": "MEDIZINISCHE UNIVERSITAT INNSBRUCK",
+            "ecContrib": 420540
+        },
+        "998579887": {
+            "orgId": "998579887",
+            "orgName": "DEFINIENS AG",
+            "ecContrib": 327000
+        },
+        "998806382": {
+            "orgId": "998806382",
+            "orgName": "CENTER OF EXCELLENCE IN MEDICINE AND IT GMBH",
+            "ecContrib": 243360
+        },
+        "999880657": {
+            "orgId": "999880657",
+            "orgName": "Masarykova univerzita",
+            "ecContrib": 135250
+        },
+        "999997833": {
+            "orgId": "999997833",
+            "orgName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+            "ecContrib": 258000
+        },
+        "998922879": {
+            "orgId": "998922879",
+            "orgName": "FUNDACION CENTRO NACIONAL DE INVESTIGACIONES CARDIOVASCULARES CARLOS III",
+            "ecContrib": 185262
+        },
+        "999991916": {
+            "orgId": "999991916",
+            "orgName": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+            "ecContrib": 247500
+        },
+        "959576381": {
+            "orgId": "959576381",
+            "orgName": "TRON - TRANSLATIONALE ONKOLOGIE ANDER UNIVERSITATSMEDIZIN DER JOHANNES GUTENBERG-UNIVERSITAT MAINZ GEMEINNUTZIGE GMBH",
+            "ecContrib": 347250
+        }
+    },
+    "calculatedTotalContribution": 2999287
+}

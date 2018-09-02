@@ -1,0 +1,23 @@
+{
+    "rcn": "210417",
+    "acronym": "Neuromapper",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "Cloud collaborative open platform for advanced brain analytics",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2017",
+    "objective": "Understanding brainís anatomy is one of the biggest challenges in science due to the difficulty to observe it in vivo and its enormous complexity. Neuroimaging is the only available tool for non-invasive quantification of brain pathology and injury. However, a single neuroimaging dataset can measure in the terabytes. As a result, big data analysis in neurology is an epically big challenge. Despite the advances in computer infrastructure, data transmission and imaging techniques cracking the brain requires a collective effort.\n\n\nHowever, collaborative research is severely limited due to bureaucracy and privacy issues regarding patientsí data. Additionally, existing visualization systems for brain images have serious interoperability issues and lack advanced quantification and image visualization tools that can help researchers better identify disease biomarkers and study large datasets. This greatly hinders our understanding of the brain and our capabilities to develop new treatments for brain disorders, which is critical considering that 165 million people are affected by brain disorders in the EU, with an estimated cost of Ä798 billion each year.\n\n\nThe objective of Neuromapper is to create a new gold standard for collaborative research on neuroscience by providing an environment for secure data sharing in the cloud as well advanced data management, analytics and visualization tools. In addition, the platform will be open to external researchers so that they can develop new data visualization and image processing tools and share them with the community. As the community grows and the database of brain images reaches a critical mass, Mint Labs will be able to implement big data and deep learning techniques. This will allow the development of a decision support system able to automate the diagnosis process and find new biomarkers of brain disorders, leading to earlier diagnosis and the development of new treatments.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "MINT LABS",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "922795921": {
+            "orgId": "922795921",
+            "orgName": "MINT LABS",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

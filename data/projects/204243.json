@@ -1,0 +1,23 @@
+{
+    "rcn": "204243",
+    "acronym": "MINDPICS",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "When a Profile is worth more than a Thousand of Hashtags: Automatic Inference of Personality Traits based on Images Shared in Social Networks",
+    "startDate": "01/07/2016",
+    "endDate": "30/11/2016",
+    "objective": "The social media, as a major platform for communication and information exchange, provides a rich repository of the opinions and sentiments of 2.3 billion users about a vast spectrum of topics. Such knowledge is playing an important role to understand and predict human decision making, while becoming essential for digital marketing, brand monitoring, and customer understanding, among others. Although social marketing budget is doubling each year, reaching 9 billion dollars in 2015 in US alone, the analysis of trends, topics and brands in social networks is based solely on textual posts. Despite the fact that 65% of users are visual learners, the knowledge embedded in the 1.8 billion photos uploaded daily in public profiles is ignored. \nBased on this gap in coverage, we propose a platform which applies the most modern machine learning techniques, based on Deep Learning, to understand near 1 million images publicly shared per day, for the inference of relevant insights from social profiles. In essence, this visual knowledge is extracted using our current know-how on image understanding, in the form of a working, validated prototype which generates a description of (i) soft-biometric characteristics of people appearing in shared pictures; (ii) their type of clothes, logos, objects and scenes; and, (iii)  when available, its geolocalisation and accompanying texts. Working during this project in a proper combination of these sources of knowledge will enable the final product to estimate more accurately the social user's demands and cultural-driven interests, eventually reaching some degree of personality trait description.\nDiscovering the hidden customers of a given brand, based on the pictures shared in their public profiles, will revolutionize the next generation of analytical tools for social networks monitoring, making the process of images understanding an essential source of information in future marketing, anthropology, sociology, and political studies.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "VISUAL TAGGING SERVICES",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "928480509": {
+            "orgId": "928480509",
+            "orgName": "VISUAL TAGGING SERVICES",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

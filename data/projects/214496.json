@@ -1,0 +1,17 @@
+{
+    "rcn": "214496",
+    "acronym": "DeepGeo",
+    "topics": "MSCA-IF-2017",
+    "title": "Deep Gaussian Processes for Geostatistical Data Analysis",
+    "startDate": "23/07/2018",
+    "endDate": "22/07/2020",
+    "objective": "Urban soil contamination resulting from former land-use is important but challenging to measure. Direct measurements are expensive and time-consuming to acquire, making a city-wide assessment impossible. Current statistical methods for modelling the distribution of pollution in urban environments, such as kriging, often fail to do so properly, since the contamination is highly local and uncorrelated with the surroundings. The problems can be mitigated by using multi-output models, such as co-kriging, where several datasets are modelled concurrently. The methods are, however, slow to train and have limited flexibility. \n\nDeepGeo will develop state-of-the-art methods for assessing urban soil contamination and provide an open-source software library for geostatistical data analysis, directly making the novel discoveries available to a wide audience. \n\nDeepGeo aims to solve the mentioned problems by the use of deep Gaussian processes for estimating urban soil pollution. This recently developed class of models promises enormous flexibility and can model highly nonlinear correlations between outputs, making them far superior to standard co-kriging. They do, however, suffer from scalability issues and empirical studies show flexibility issues with increasing depth.\n\nDeepGeo will address the scalability issue by developing new algorithms for approximate inference and for inducing sparsity. Inspired by recent advances in training of deep neural networks, specialised covariance functions that allow for deeper Gaussian process architectures will be constructed. Finally, new and improved methods for learning complicated correlations between outputs will be investigated, thus increasing the amount of information that can be gained from already available data.\n\nBy making the developed methods available as open-source software, DeepGeo seeks to reach a broad range of research fields as well as benefitting the geochemical industry.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

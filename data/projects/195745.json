@@ -1,0 +1,23 @@
+{
+    "rcn": "195745",
+    "acronym": "LEACON",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "LEArning-CONtrol tight interaction: a novel approach to robust execution of mobile manipulation tasks",
+    "startDate": "07/03/2016",
+    "endDate": "06/03/2018",
+    "objective": "One of the main challenges of roboticists is to take robots out of the factories and let them enter into unstructured environments, such as houses, hospitals, small manufacturers and dangerous area.\nThe objective of the project is to take a step towards the presence of robots in such environments.\nCurrently, there are still important obstacles to the massive diffusion of advanced mobile manipulation systems in the fields described above. First of all, programming mobile manipulators with the classical methods is still too expensive and time-consuming due to intrinsic complexity of mobile manipulation tasks.\nA second limitation is that planning the robot motion completely off-line, as often happens in classical industrial applications, may likely bring to a failure of the assigned task, since a high degree of uncertainty is present and the environment can dynamically change. Such features may cause safety issues for humans potentially present in the workspace and for the external environment itself.\nIn order to tackle these limitations, the LEACON project has the objective to develop a framework that:\n  - allows robots to learn in a real world scenario manipulation skills from human demonstration\n  -exploits multimodal perception (tactile, proximity, visual, force sensors) to increase the robustness to unforeseen events and safety when manipulation tasks are executed. \nTo fulfill such objectives, a multidisciplinary approach that combines machine learning and perception-based control is proposed. The core of the proposed framework will provide two planning levels tightly connected: the high-level and low-level cognitive system.\nTo show the effectiveness of the developed architecture, the main use cases will be constituted by a robot that performs picking, manipulation, and placing operations in a dynamic, unstructured environment in presence of humans in its workspace. At the end of the project, the developed software will be released as open source code.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

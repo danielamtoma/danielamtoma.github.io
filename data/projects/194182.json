@@ -1,0 +1,38 @@
+{
+    "rcn": "194182",
+    "acronym": "LISTEN",
+    "topics": "MSCA-RISE-2014",
+    "title": "Hands-free Voice-enabled Interface to Web Applications for Smart Home Environments",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2019",
+    "objective": "Nowadays, it is becoming increasingly affordable to enhance the home environment with several automation schemes, allowing remote control of e.g., heating/cooling, communication, lighting, media, etc. Such smart home functionalities are essential for people with disabilities and the elderly, as they not only provide assistive control of important everyday functionalities, but may prove to be life-saving in case of emergency. However, smart home functionalities may become useless for people who need those most, if they cannot be accessed via a natural, easy to use, interface.\n\nThe central objective of LISTEN is to design and implement a complete system, including both the software and hardware components, enabling robust hands-free large-vocabulary voice-based access to Internet applications in smart homes. This would allow the users to have natural control (i.e., using their voice) of the smart-home web-enabled functionalities (e.g., turning on/off web-enabled ìsmartî appliances), but also to access specific Internet applications (e.g., web search, email dictation, access to social networks). A truly hands-free system operation of the voice interface is equally important: users will not have to turn towards a microphone or other device, or wear a headset. \n\nTherefore, LISTEN will develop (a) a robust hands-free speech capture system operating as a wireless acoustic sensor network (WASN), specifically designed for the smart home, and (b) a large-vocabulary automatic speech recognition system optimised for accessing web applications and controlling web-enabled smart home automation functionalities. LISTEN pushes the boundaries of current state-of-the-art by bridging the gap between the acoustic front-end and automatic speech recognition research communities, with the common goal of developing a smart-home-specific natural voice interface to web services.",
+    "totalCost": "414000",
+    "ecMaxContribution": "414000",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "EML EUROPEAN MEDIA LABORATORY GMBH;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;CEDAT 85 SRL",
+    "participantCountries": "DE;IT",
+    "projectParticipants": {
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 180000
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 112500
+        },
+        "999756788": {
+            "orgId": "999756788",
+            "orgName": "EML EUROPEAN MEDIA LABORATORY GMBH",
+            "ecContrib": 54000
+        },
+        "951425665": {
+            "orgId": "951425665",
+            "orgName": "CEDAT 85 SRL",
+            "ecContrib": 67500
+        }
+    },
+    "calculatedTotalContribution": 414000
+}

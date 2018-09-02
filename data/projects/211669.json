@@ -1,0 +1,88 @@
+{
+    "rcn": "211669",
+    "acronym": "KardiaTool",
+    "topics": "NMBP-13-2017",
+    "title": "An integrated POC solution for non-invasive diagnosis and therapy monitoring of Heart Failure patients",
+    "startDate": "01/11/2017",
+    "endDate": "30/04/2021",
+    "objective": "The aim of the KardiaTool project is to translate a laboratory proven concept of a saliva biosensor to the clinical practice for addressing the priority needs in personalized HF diagnostics and therapy monitoring at the point of care. The KardiaTool platform includes: (i) An easy to use portable POC device (KardiaPOC) with a disposable Lab-on-a-Chip (LOC), for the non-invasive, rapid and accurate qualitative and quantitative assessment of HF biomarkers, from saliva samples. KardiaPOC device will integrate a variety of sensors, actuators, Microelectromechanical systems (MEMS), micro-electronics, bio-chemicals and functionalized magnetic nanoparticles (MNPs), onto a disposable, low cost LOC. (ii) A decision support software (KardiaSoft) based on predictive modelling techniques, that analyzes the POC data and other patientís data, directly added by the healthcare professionals, and delivers information related to HF diagnosis and therapy monitoring. The innovation lays in the incorporation of four novel saliva biomarkers that have been proven in a laboratory setting and bring a new promising concept for addressing the priority needs of the clinical arena. KardiaPOC will provide the capability of simultaneously extracting key information from the saliva biomarkers: (i) NT-proBNP, (ii) TNF-a, (iii) Interleukin- 10, (iv) Cortisol. It is expected that identifying a comparable source to blood, for biomarker information, such as saliva, that is cost effective, less invasive, more convenient and acceptable for both patients and healthcare professionals would be beneficial for the healthcare community. The challenge of KardiaTool is: (i) to translate a laboratory proven concept of a saliva biosensor into an MNBS platform, for HF diagnostics and therapy monitoring, at the point of care, following GLP (ii) to validate the MNBS platform through pre-clinical and clinical testing following GCP and (iii) to industrialize the outcomes following GMP towards progress to marketization",
+    "totalCost": "4999880,55",
+    "ecMaxContribution": "4999880,55",
+    "coordinator": "ECOLE NORMALE SUPERIEURE DE LYON",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;VALOTEC;ENACHIP INC;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;MICRONIT MICROTECHNOLOGIES BV;UNIVERSITA DI PISA;CONSIGLIO NAZIONALE DELLE RICERCHE;PANEPISTIMIO IOANNINON;UNIVERSITY OF SURREY;BIOTRAY",
+    "participantCountries": "IE;DE;BE;EL;FR;US;ES;NL;IT;UK",
+    "projectParticipants": {
+        "985804405": {
+            "orgId": "985804405",
+            "orgName": "ECOLE NORMALE SUPERIEURE DE LYON",
+            "ecContrib": 665452
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 588750
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 470325
+        },
+        "941043561": {
+            "orgId": "941043561",
+            "orgName": "VALOTEC",
+            "ecContrib": 401562
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 294871
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 467612
+        },
+        "915942871": {
+            "orgId": "915942871",
+            "orgName": "ENACHIP INC",
+            "ecContrib": 392500
+        },
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 168802
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 155996
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 191250
+        },
+        "999852818": {
+            "orgId": "999852818",
+            "orgName": "PANEPISTIMIO IOANNINON",
+            "ecContrib": 160000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 399375
+        },
+        "969231955": {
+            "orgId": "969231955",
+            "orgName": "BIOTRAY",
+            "ecContrib": 218750
+        },
+        "987731989": {
+            "orgId": "987731989",
+            "orgName": "MICRONIT MICROTECHNOLOGIES BV",
+            "ecContrib": 424634
+        }
+    },
+    "calculatedTotalContribution": 4999879
+}

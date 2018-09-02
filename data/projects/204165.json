@@ -1,0 +1,23 @@
+{
+    "rcn": "204165",
+    "acronym": "MILESTONE",
+    "topics": "ERC-ADG-2015",
+    "title": "Multi-Scale Description of Non-Universal Behavior in Turbulent Combustion",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "Combustion is an extremely important field for our society. The development of new, step-change technologies is essential and greatly benefits from computational design. However, turbulent combustion physics are complex, highly non-linear, of multi-scale and multi-physics nature, and involve interactions at many time-scales. This makes modeling quite challenging such that accurate predictive models, especially for the formation of pollutants, are not available. Today, the two major challenges for developing predictive simulations of turbulent combustion are first to account for its multi-scale nature by considering the non-universal behavior of small-scale turbulence, which is known to be critically important for turbulence-chemistry interactions, and second, to provide data in sufficient detail for rigorous analysis of model deficiencies and unambiguous model development. These two issues are addressed in the proposed work. The main overall objectives are: 1) Establish a new multi-scale framework to analyze and model turbulent combustion phenomena based on a new way to describe turbulence using so-called dissipation elements, which are space-filling regions in a scalar field allowing to capture its small-scale morphology and non-universality. 2) Create new unprecedented datasets using direct numerical simulations (DNS) and provide new analysis methods to develop and validate combustion models; this will include automatically reducing and optimizing chemical kinetic mechanisms for use in DNS and developing an on-the-fly chemistry reduction technique. 3) Apply new modeling approaches to complex and highly non-linear modeling questions, such as pollutant formation in turbulent spray combustion. The successful outcome of the project will provide new and unprecedented datasets, a quantitative description of the impact of non-universality in small-scale turbulence on different aspects of turbulent combustion, and the basis for an entirely new multi-scale closure.",
+    "totalCost": "2499884",
+    "ecMaxContribution": "2499884",
+    "coordinator": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 2499884
+        }
+    },
+    "calculatedTotalContribution": 2499884
+}

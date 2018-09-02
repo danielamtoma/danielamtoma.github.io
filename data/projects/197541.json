@@ -1,0 +1,38 @@
+{
+    "rcn": "197541",
+    "acronym": "NLAFET",
+    "topics": "FETHPC-1-2014",
+    "title": "Parallel Numerical Linear Algebra for Future Extreme-Scale Systems",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2018",
+    "objective": "The NLAFET proposal is a direct response to the demands for new mathematical and algorithmic approaches for applications on extreme scale systems, as identified in the FETHPC work programme and call. This project will enable a radical improvement in the performance and scalability of a wide range of real-world applications relying on linear algebra software, by developing novel architecture-aware algorithms and software libraries, and the supporting runtime capabilities to achieve scalable performance and resilience on heterogeneous architectures. The focus is on a critical set of fundamental linear algebra operations including direct and iterative solvers for dense and sparse linear systems of equations and eigenvalue problems. Achieving this requires a co-design effort due to the characteristics and overwhelming complexity and immense scale of such systems. Recognized experts in algorithm design and theory, parallelism, and auto-tuning will work together to explore and negotiate the necessary tradeoffs. \nThe main research objectives are: \n(i) Development of novel algorithms that expose as much parallelism as possible, exploit heterogeneity, avoid communication bottlenecks, respond to escalating fault rates, and help meet emerging power constraints; \n(ii) Exploration of advanced scheduling strategies and runtime systems focusing on the extreme scale and strong scalability in multi/many-core and hybrid environments; \n(iii) Design and evaluation of novel strategies and software support for both offline and online auto-tuning. \nThe validation and dissemination of results will be done by integrating new software solutions into challenging scientific applications in materials science, power systems, study of energy solutions, and data analysis in astrophysics. The deliverables also include a sustainable set of methods and tools for cross-cutting issues such as scheduling, auto-tuning, and algorithm-based fault tolerance packaged into open-source library modules.",
+    "totalCost": "3907375",
+    "ecMaxContribution": "3907375",
+    "coordinator": "UMEA UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;THE UNIVERSITY OF MANCHESTER;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+    "participantCountries": "FR;UK",
+    "projectParticipants": {
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 926750
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 845750
+        },
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 927375
+        },
+        "999881821": {
+            "orgId": "999881821",
+            "orgName": "UMEA UNIVERSITET",
+            "ecContrib": 1207500
+        }
+    },
+    "calculatedTotalContribution": 3907375
+}

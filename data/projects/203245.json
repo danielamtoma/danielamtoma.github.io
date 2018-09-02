@@ -1,0 +1,23 @@
+{
+    "rcn": "203245",
+    "acronym": "NETS",
+    "topics": "ERC-CoG-2015",
+    "title": "Networks in Time and Space",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2021",
+    "objective": "This research programme aims to develop a new theoretical framework for modelling and analysing spatio-temporal\nnetworks. The theory developed in this programme will underpin our ability to exactly specify the\nstructured form of network behaviour in time and space. This will advance statistical methodology and theory,\nunifying results from stochastic processes with network theory to do so. New technical approaches to modelling\nwill be proposed, as well as new asymptotic large sample scenarios. As a consequence of the methodological\ndevelopment, new analysis techniques for applications in real-world problems will be proposed that will improve\nour ability to make defensible conclusions from real data sets.\n\nModelling network data and estimating such models is challenging, especially in a modern setting, because\nmost observed networks are very large. This leads to computational and inferential challenges. However,\nhandling sparse and large networks is not enough to be able to describe highly structured network data. Most\nnetworks are coupled with secondary structure, and possess patterned behaviour in time and space. Linkages\nbetween nodes are frequently added and removed over time, and implicit structure is generated from latent\nspatial patterns.\n\nThe understanding of networks must be extended to encompass spatio-temporal patterns, to quantify such\nstructural aspects of network data. This will require combining theory and methods from different parts of\nmathematics, and developing new statistical theory. This project therefore aims to a) model temporally evolving\nnetworks, b) understand the characteristics of growing and decaying networks, c) model and estimate spatial\nand temporal characteristics in networks and d) propose new models of spatial structure. These developments\nwill combine to form a new theoretical framework for families of networks with a rich and complex structure.",
+    "totalCost": "1587602",
+    "ecMaxContribution": "1587602",
+    "coordinator": "University College London",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,128 @@
+{
+    "rcn": "208459",
+    "acronym": "ADVICE",
+    "topics": "GV-03-2016",
+    "title": "ADvancing user acceptance of general purpose hybridized Vehicles by Improved Cost and Efficiency",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2020",
+    "objective": "ADVICE aims at increasing the number of HEVs up to 10% of all vehicles registered in the mid-term range. This will be achieved by focusing on a market segment called ìpremium classî, which covers medium class, upper medium class and luxury vehicles up to SUVs. This segment is facing severe problems in reaching European environmental exhaust targets, when running on fossil fuel only, not the least due to the considerable vehicle weight.\n\nIn ADVICE three physical demonstrator vehicles are built, ranging from mild-hybrid, plug-in-hybrid to full-hybrid and ñ concerning fuel type ñ from gasoline to diesel-driven.\nIn addition, it will be shown that the whole range in between these demonstrator vehicles can be well covered by means of validated simulation, yielding a complete coverage of the whole ìpremium classî segment.\n\nADVICE aims for a reduction of exhaust and CO2 emissions on WLTP of 20% and a 25% increase in electric driving range for P-HEVs at a maximum premium cost of 5% for HEV (15% for P-HEV) with respect to the best in-class non-hybrid diesel vehicles. Particular attention is devoted to optimum driveability and drive performance, which are essential when purchasing a ìpremium classî vehicle and thus crucial to achieve the market penetration aimed at. These objectives will be accomplished by:\n* Architecture-level  hybrid powertrain solutions, suited to be modularly applied to different segments  to increase their volumes while reducing costs\n* Advanced predictive control strategies and model predictive control strategies, taking the entire vehicle into account (not only the hybrid part)\n* Novel optimised approaches in the aftertreatment system\n* Newly developed high-temperature electronics, enabling novel strategies and approaches for energy- and thermal-management\n* Multi-core processor architectures, enabling sophisticated control strategies and models processed on-board the vehicles\n\nADVICE results will be verified through vehicle validator independent tests",
+    "totalCost": "12694011,25",
+    "ecMaxContribution": "9990500,88",
+    "coordinator": "VOLVO PERSONVAGNAR AB",
+    "coordinatorCountry": "SE",
+    "participants": "TOROTRAK (DEVELOPMENT) LIMITED;GM GLOBAL PROPULSION SYSTEMS - TORINO SRL;IDEAS & MOTION SRL;CENTRO RICERCHE FIAT SCPA;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;FUNDACION TECNALIA RESEARCH & INNOVATION;AVL SCHRICK GMBH;INFINEON TECHNOLOGIES AG;SIEMENS INDUSTRY SOFTWARE SAS;IDIADA AUTOMOTIVE TECHNOLOGY SA;Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH;VALEO SYSTEMES DE CONTROLE MOTEUR SAS;CESKE VYSOKE UCENI TECHNICKE V PRAZE;AVL LIST GMBH;ALMA AUTOMOTIVE SRL;IESTA - INSTITUT FUR INNOVATIVE ENERGIE & STOFFAUSTAUSCHSYSTEME;IFP Energies nouvelles;UNIVERSITY OF SURREY;GKN DRIVELINE ZUMAIA SA;FEV EUROPE GMBH",
+    "participantCountries": "UK;IT;DE;ES;FR;AT;CZ",
+    "projectParticipants": {
+        "999978918": {
+            "orgId": "999978918",
+            "orgName": "INFINEON TECHNOLOGIES AG",
+            "ecContrib": 148750
+        },
+        "922161832": {
+            "orgId": "922161832",
+            "orgName": "TOROTRAK (DEVELOPMENT) LIMITED",
+            "ecContrib": 680244
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 75215
+        },
+        "922705420": {
+            "orgId": "922705420",
+            "orgName": "ALMA AUTOMOTIVE SRL",
+            "ecContrib": 83212
+        },
+        "999848744": {
+            "orgId": "999848744",
+            "orgName": "CESKE VYSOKE UCENI TECHNICKE V PRAZE",
+            "ecContrib": 223912
+        },
+        "999945065": {
+            "orgId": "999945065",
+            "orgName": "VOLVO PERSONVAGNAR AB",
+            "ecContrib": 1231555
+        },
+        "996072437": {
+            "orgId": "996072437",
+            "orgName": "SIEMENS INDUSTRY SOFTWARE SAS",
+            "ecContrib": 227588
+        },
+        "999985223": {
+            "orgId": "999985223",
+            "orgName": "UNIVERSITY OF SURREY",
+            "ecContrib": 308980
+        },
+        "961544317": {
+            "orgId": "961544317",
+            "orgName": "GKN DRIVELINE ZUMAIA SA",
+            "ecContrib": 165025
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 172395
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 194688
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 1291375
+        },
+        "999993371": {
+            "orgId": "999993371",
+            "orgName": "IFP Energies nouvelles",
+            "ecContrib": 572116
+        },
+        "997885852": {
+            "orgId": "997885852",
+            "orgName": "Kompetenzzentrum - Das Virtuelle Fahrzeug, Forschungsgesellschaft mbH",
+            "ecContrib": 646725
+        },
+        "961034485": {
+            "orgId": "961034485",
+            "orgName": "VALEO SYSTEMES DE CONTROLE MOTEUR SAS",
+            "ecContrib": 502861
+        },
+        "999788313": {
+            "orgId": "999788313",
+            "orgName": "IDIADA AUTOMOTIVE TECHNOLOGY SA",
+            "ecContrib": 399166
+        },
+        "987548077": {
+            "orgId": "987548077",
+            "orgName": "GM GLOBAL PROPULSION SYSTEMS - TORINO SRL",
+            "ecContrib": 1114050
+        },
+        "999432808": {
+            "orgId": "999432808",
+            "orgName": "FEV EUROPE GMBH",
+            "ecContrib": 774025
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 108994
+        },
+        "922701152": {
+            "orgId": "922701152",
+            "orgName": "IESTA - INSTITUT FUR INNOVATIVE ENERGIE & STOFFAUSTAUSCHSYSTEME",
+            "ecContrib": 171875
+        },
+        "986277571": {
+            "orgId": "986277571",
+            "orgName": "AVL SCHRICK GMBH",
+            "ecContrib": 679962
+        },
+        "951805323": {
+            "orgId": "951805323",
+            "orgName": "IDEAS & MOTION SRL",
+            "ecContrib": 217788
+        }
+    },
+    "calculatedTotalContribution": 9990501
+}

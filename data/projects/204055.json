@@ -1,0 +1,43 @@
+{
+    "rcn": "204055",
+    "acronym": "SPICE",
+    "topics": "FETOPEN-1-2014",
+    "title": "Spintronic-Photonic Integrated Circuit platform for novel Electronics",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2020",
+    "objective": "The main objective of SPICE is to realize a novel integration platform that combines photonic, magnetic and electronic components. Its validity will be shown by a conceptually new spintronic-photonic memory chip demonstrator with 3 orders of magnitude higher write speed and 2 orders of magnitude lower energy consumption than state-of-the-art spintronic memory technologies. This enables, e.g., future petabit-per-second processor-memory bandwidths, required in a decade from now, and highly energy-efficient exascale datacenters with reduced carbon footprint. Such a versatile memory will result in so-called Universal Memory: one technology for all memory applications ranging from cache to storage.\nThe methods to achieve this are based on the recent discovery of magnetization reversal by short optical pulses. SPICE will bring this technique to the integrated circuit level by first developing free magnetic layers that can be optically switched into a magnetic-tunnel-junction layerstack, with optically transparent top contacts. These layers will then be processed into spintronic memory elements that can be electrically read. A novel short-pulse switching architecture will be designed and implemented in a silicon photonic integrated circuit. This photonic switching layer will then be combined with the spintronic memory layer to achieve an optically switched 8-bit memory with write efficiency of 600 fJ per bit: the proof of concept of the technology.\nThe novelty of SPICE is the convergence of the emerging fields of opto-magnetism and spintronics with electronic and photonic integration technologies. The ambition is to develop this technology in such a way that it can be compatible with future mature electronics fabrication processes, for real-world applications beyond 2025, thereby creating a new field. The SPICE platform is therefore foundational as it can be used not only for ultrafast and energy-efficient memory, but also for RF nano-oscillators and sensor technology.",
+    "totalCost": "3395178,25",
+    "ecMaxContribution": "3395178,25",
+    "coordinator": "AARHUS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "STICHTING KATHOLIEKE UNIVERSITEIT;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;QUANTUMWISE A/S",
+    "participantCountries": "NL;FR;BE;DK",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 587079
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 747026
+        },
+        "999992110": {
+            "orgId": "999992110",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT",
+            "ecContrib": 675000
+        },
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 957382
+        },
+        "968694672": {
+            "orgId": "968694672",
+            "orgName": "QUANTUMWISE A/S",
+            "ecContrib": 428691
+        }
+    },
+    "calculatedTotalContribution": 3395178
+}

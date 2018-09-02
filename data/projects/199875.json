@@ -1,0 +1,68 @@
+{
+    "rcn": "199875",
+    "acronym": "UniServer",
+    "topics": "ICT-04-2015",
+    "title": "A Universal Micro-Server Ecosystem by Exceeding the Energy and Performance Scaling Boundaries",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "The projectís principal aim is the development of UniServer: a universal system architecture and software ecosystem for servers. UniServer will facilitate the evolution of the Internet from an infrastructure where data is aggregated to centralized data-centres to an infrastructure where data are handled in a distributed and localized manner close to the data sources. UniServer will realize its bold goal by greatly improving the energy efficiency, performance, dependability and security of the current state-of-the-art micro-servers, while reinforcing the supported system software. UniServer will develop effective means to expose the intrinsic hardware heterogeneity caused by process variations, harness it and use it to its advantage for improving energy efficiency or performance. Lightweight, only software, mechanisms will be embedded for exposing to the system software the pessimistic voltage/frequency margins currently adopted in commercial processor and memory, which will be enhanced with new margin/fault-aware runtime and resource management policies. The UniServer technology will be ported on the world-first 64-bit ARM based Server-on-Chip and evaluated using smart emerging applications deployed in classical cloud business data-centres as well as in new environments closer to the data sources. UniServer aspires to deliver a unique fully working prototype that will turn the opportunities in the emerging Big Data and IoT markets into real, smarter products that can improve the everyday life and lead to a substantial financial and employment growth. The unique blend of expertise of UniServerís consortium consisting of world leading low-power processor and Server-on-Chip suppliers (ARM, APM) as well as system software developer (IBM), and a set of emerging application drivers and established research organisations guarantees the successful realization of the ambitious goals, while reinforcing Europeís strong position in traditional and new multi-billion euro market.",
+    "totalCost": "4815810",
+    "ecMaxContribution": "4815810",
+    "coordinator": "THE QUEEN'S UNIVERSITY OF BELFAST",
+    "coordinatorCountry": "UK",
+    "participants": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON;IBM IRELAND LIMITED;MERITORIUS AUDIT LTD;ARM LIMITED;SPARSITY SL;WORLDSENSING S.L.N.E;PANEPISTIMIO THESSALIAS;UNIVERSITY OF CYPRUS;AMCC DEUTSCHLAND GMBH",
+    "participantCountries": "EL;IE;CY;UK;ES;DE",
+    "projectParticipants": {
+        "999835843": {
+            "orgId": "999835843",
+            "orgName": "UNIVERSITY OF CYPRUS",
+            "ecContrib": 496500
+        },
+        "928981902": {
+            "orgId": "928981902",
+            "orgName": "MERITORIUS AUDIT LTD",
+            "ecContrib": 132500
+        },
+        "956450459": {
+            "orgId": "956450459",
+            "orgName": "SPARSITY SL",
+            "ecContrib": 264625
+        },
+        "929010420": {
+            "orgId": "929010420",
+            "orgName": "AMCC DEUTSCHLAND GMBH",
+            "ecContrib": 825422
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 390000
+        },
+        "993322002": {
+            "orgId": "993322002",
+            "orgName": "WORLDSENSING SL",
+            "ecContrib": 0
+        },
+        "999813824": {
+            "orgId": "999813824",
+            "orgName": "ARM LIMITED",
+            "ecContrib": 352818
+        },
+        "986152150": {
+            "orgId": "986152150",
+            "orgName": "PANEPISTIMIO THESSALIAS",
+            "ecContrib": 405250
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 716250
+        },
+        "999992013": {
+            "orgId": "999992013",
+            "orgName": "THE QUEEN'S UNIVERSITY OF BELFAST",
+            "ecContrib": 967945
+        }
+    },
+    "calculatedTotalContribution": 4551310
+}

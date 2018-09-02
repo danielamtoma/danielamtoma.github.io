@@ -1,0 +1,17 @@
+{
+    "rcn": "215397",
+    "acronym": "MetaBot",
+    "topics": "MSCA-IF-2017",
+    "title": "Robotic embodiment of a meta-learning neural model of human decision-making",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2020",
+    "objective": "The combination of empirical testing with computational modeling is the most promising path in neuroscience of decision-making. Nonetheless, neuro-computational models of decision-making are still affected by two main limitations. First, computer simulations, typically used for testing neural models, represent the environment in a very simplistic way, exposing the computational models to ìtoy problemsî. Second, computational neuroscience often neglects that bodily processes do not simply ìexecuteî what is decided centrally, but are part of cognitive processing itself (embodied cognition). The main goal of this project is to solve these two limitations and to open a new path in cognitive and computational neuroscience of decision-making. We plan the embodiment in a humanoid robotic platform (iCub) of a novel neuro-computational model, representing the state of the art in modeling neurobiology of decision-making. This neural model, the Reinforcement Meta-Learner (RML), generates emergent (i.e., homunculus-free) cognitive control signals and supports learning to solve complex decision problems by self-regulating its internal parameters (meta-learning). In simplified and disembodied computer simulations, the RML already revealed to be exceptionally successful in explaining many different experimental data sets (both neural and behavioural) from different domains. The RML embodiment would represent one of the few cases where a neural model, born completely in the domain of cognitive neuroscience, would be embodied in a humanoid robot. The fusion of cognitive neuroscience and humanoid robotics will allow to investigate the role of embodiment in decision-making in real world problems (contribution to neuroscience), and it also would represent a unique opportunity to test the effectiveness of the RML to be a new way for developing genuinely autonomous decision-making in robots (contribution to robotics).",
+    "totalCost": "168277,2",
+    "ecMaxContribution": "168277,2",
+    "coordinator": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

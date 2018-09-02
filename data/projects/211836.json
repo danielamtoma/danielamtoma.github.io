@@ -1,0 +1,23 @@
+{
+    "rcn": "211836",
+    "acronym": "SPADE",
+    "topics": "ERC-2017-STG",
+    "title": "from SPArsity to DEep learning",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Lately, deep learning (DL) has become one of the most powerful machine learning tools with ground-breaking results in computer vision, signal & image processing, language processing, and many other domains. However, one of its main deficiencies is the lack of theoretical foundation. While some theory has been developed, it is widely agreed that DL is not well-understood yet.\n\nA proper understanding of the learning mechanism and architecture is very likely to broaden the great success to new fields and applications. In particular, it has the promise of improving DL performance in the unsupervised regime and on regression tasks, where it is currently lagging behind its otherwise spectacular success demonstrated in massively-supervised classification problems.\n\nA somewhat related and popular data model is based on sparse-representations. It led to cutting-edge methods in various fields such as medical imaging, computer vision and signal & image processing. Its success can be largely attributed to its well-established theoretical foundation, which boosted the development of its various ramifications. Recent work suggests a close relationship between this model and DL, although this bridge is not fully clear nor developed.\n\nThis project revolves around the use of sparsity with DL. It aims at bridging the fundamental gap in the theory of DL using tools applied in sparsity, highlighting the role of structure in data as the foundation for elucidating the success of DL. It also aims at using efficient DL methods to improve the solution of problems using sparse models. Moreover, this project pursues a unified theoretical framework merging sparsity with DL, in particular migrating powerful unsupervised learning concepts from the realm of sparsity to that of DL. A successful marriage between the two fields has a great potential impact of giving rise to a new generation of learning methods and architectures and bringing DL to unprecedented new summits in novel domains and tasks.",
+    "totalCost": "1499375",
+    "ecMaxContribution": "1499375",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1499375
+        }
+    },
+    "calculatedTotalContribution": 1499375
+}

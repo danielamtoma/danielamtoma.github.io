@@ -1,0 +1,23 @@
+{
+    "rcn": "196482",
+    "acronym": "MCTDC",
+    "topics": "ICT-37-2014-1",
+    "title": "Multi-channel time-to-digital converter sensor with ultra high resolution",
+    "startDate": "01/05/2015",
+    "endDate": "31/10/2015",
+    "objective": "In measurements, time-to-digital converter has a fundamental importance with numerous applications. The TDC (Time-to-Digital Converter) executes an analogue-digital transformation. The input analogue value is the time delay between two signals. Whereas the output is a discreet range value, which equals the quantization of the input value. The unity of conversion or the resolution of TDC is the shortest time that changes the output value. At present, the value of this time is in picoseconds range.\n\nThe aim of this project is to create a TDC which is FPGA (field-programmable gate array) based, made of common electronic parts having many channels. Our goal is the implementation of a special complex electronic circuit whose time resolution is much better than the one of a digitally controlled FPGA. The upcoming product will provide a dynamically configured multi-channel time measuring tool, which overcomes the limitations of the prior art solutions. Its device can be produced cost efficiently, it is not sensitive to quality change and configuration stemming from mass production, and by which the absolute timing of a signal associated with an event can be measured with a high accuracy of 20 ps. MedioTrade Ltd. has already executed significant part of the innovation. We possess a functioning breadboard, which obtained promising results, moreover, both national and international patents were accepted.\n\nThe huge need and interest from the research centres and companies guarantees a flourishing partnership and significant market share for us. We expecting the rise of research activities and increasing competitiveness of Europe in the global sensor industry.\n\nIn the framework of the project, we will deepen the existing knowledge about our primary market segments, our competitors and their solutions. We will build up our Intellectual Property and marketing strategy, extensively analyse the return on investment and establish the business plan along with the financial projection.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "MEDIOTRADE MUSZAKI FEJLESZTO ES KERESKEDELMI KFT",
+    "coordinatorCountry": "HU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "939427541": {
+            "orgId": "939427541",
+            "orgName": "MEDIOTRADE MUSZAKI FEJLESZTO ES KERESKEDELMI KFT",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

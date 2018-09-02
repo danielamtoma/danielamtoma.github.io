@@ -1,0 +1,28 @@
+{
+    "rcn": "199198",
+    "acronym": "NGTMod",
+    "topics": "MSCA-IF-2014-GF",
+    "title": "Next generation technologies for modeling the full complexity of living and designed structures",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2018",
+    "objective": "The goal of the NGTMod project is to define the next generation technologies for modeling the full complexity of living and designed structures. The need to describe and handle complex geometrical objects is present in many different domains of application such as medical imaging, geology, material analysis, etc. In all these domains, we seek to describe very complex objects, in order to obtain a description of objects with a very high level of precision, and/or to describe very large objects. In both cases, the goal is to obtain a very precise representation, making it possible to define several high level operations to create and modify the objects. Many works have proposed very advanced solutions for specific cases. Most of them deal with 2D and 3D regular subdivisions which are in no way generic, and the few existing generic solutions do not allow us to describe very complex objects. Our goal in this project is to propose a general purpose representation for geometric structures of arbitrary topology, making it possible to describe and handle very complex objects. To achieve this goal, we will take advantage of Jarek Rossignac's wide experience of computer graphics and compact data structures during the outgoing phase in Georgia Tech University, while providing our major knowledge of cellular data structures, generic operations and their implementation in software libraries.  We will transfer the acquired skills and knowledge during the return phase by working with Florent Dupont of Lyon 1 University who is an expert on image and mesh processing and analysis and this phase will benefit from the new generic data structure and high level operations.",
+    "totalCost": "178603,2",
+    "ecMaxContribution": "178603,2",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 178603
+        },
+        "997348860": {
+            "orgId": "997348860",
+            "orgName": "GEORGIA TECH RESEARCH CORPORATION",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 178603
+}

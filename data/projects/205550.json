@@ -1,0 +1,88 @@
+{
+    "rcn": "205550",
+    "acronym": "vf-OS",
+    "topics": "FOF-11-2016",
+    "title": "Virtual Factory Open Operating System",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "The primary outcomes of vf-OS are an:\n- Open Operating System (vf-OS) and Software Development Kit (OAK) for Factories of the Future that aims to be the reference system software for collaborative manufacturing and logistics processes including its associated resources and data\n- Open vf-OS Platform, including a Multi-sided application marketplace and development studio, that aims to become the Apps Store for Manufacturing industry\nThe multi-sided marketplace will allow Manufacturing Users, Manufacturing Resource providers, Service Providers and Software Developers to cooperate and demand, build, select, and use vf-OS applications with the vf-OS exploiters, like classical App stores, having a business model based on taking a share of purchases of applications and services from the platform.\n\nvf-OS is composed of a Virtual Factory System Kernel (vf-SK), a Virtual Factory Application Programming Interface (vf-API) and a Virtual Factory Middleware (vf-MW) for interoperable and secure collaboration among supply networks, enterprises, machines, data and objects. The Virtual Factory Platform (vf-P) will be a infrastructure, either in-cloud or on-premise, that supports the Manufacturing Apps Store and Virtual Machines. vf-OS especially addresses SMEs by providing a full functionality at affordable cost and with Cloud availability.\n\nThe Manufacturing Apps will be developed with an Open Applications Development Kit (vf-OAK), freely provided to software developers, for rapid and cost effective deployment of advanced industrial applications running over vf-OS, allowing fast time-to-market and world-wide base industrial clients.",
+    "totalCost": "7758580",
+    "ecMaxContribution": "7758580",
+    "coordinator": "INFORMATION CATALYST FOR ENTERPRISE LTD",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITE LUMIERE LYON 2;APPLICATIONS PLASTIQUES DU RHONE SAS;KNOWLEDGEBIZ CONSULTING-SOCIEDADE DE CONSULTORIA EM GESTAO LDA;ALMENDE B.V.;MONDRAGON ASSEMBLY SOCIEDAD COOPERATIVA;VIA SOLIS UAB;UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO;CONSULGAL - CONSULTORES DE ENGENHARIA E GESTAO SA;ASCORA GMBH;ETABLISSEMENTS TARDY;UNIVERSITAT POLITECNICA DE VALENCIA;CAIXA MAGICA SOFTWARE SA;IKERLAN S COOP",
+    "participantCountries": "FR;PT;NL;ES;LT;DE",
+    "projectParticipants": {
+        "999581315": {
+            "orgId": "999581315",
+            "orgName": "IKERLAN S COOP",
+            "ecContrib": 561105
+        },
+        "972442461": {
+            "orgId": "972442461",
+            "orgName": "MONDRAGON ASSEMBLY SOCIEDAD COOPERATIVA",
+            "ecContrib": 210125
+        },
+        "940280171": {
+            "orgId": "940280171",
+            "orgName": "KNOWLEDGEBIZ CONSULTING-SOCIEDADE DE CONSULTORIA EM GESTAO LDA",
+            "ecContrib": 500125
+        },
+        "999633889": {
+            "orgId": "999633889",
+            "orgName": "UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO",
+            "ecContrib": 883939
+        },
+        "952515266": {
+            "orgId": "952515266",
+            "orgName": "APPLICATIONS PLASTIQUES DU RHONE SAS",
+            "ecContrib": 214375
+        },
+        "939890716": {
+            "orgId": "939890716",
+            "orgName": "ETABLISSEMENTS TARDY",
+            "ecContrib": 214375
+        },
+        "999708870": {
+            "orgId": "999708870",
+            "orgName": "CAIXA MAGICA SOFTWARE SA",
+            "ecContrib": 707500
+        },
+        "936397940": {
+            "orgId": "936397940",
+            "orgName": "INFORMATION CATALYST FOR ENTERPRISE LTD",
+            "ecContrib": 1241875
+        },
+        "999855825": {
+            "orgId": "999855825",
+            "orgName": "UNIVERSITE LUMIERE LYON 2",
+            "ecContrib": 521250
+        },
+        "952530495": {
+            "orgId": "952530495",
+            "orgName": "CONSULGAL - CONSULTORES DE ENGENHARIA E GESTAO SA",
+            "ecContrib": 290938
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 558561
+        },
+        "952481316": {
+            "orgId": "952481316",
+            "orgName": "VIA SOLIS UAB",
+            "ecContrib": 152625
+        },
+        "999697715": {
+            "orgId": "999697715",
+            "orgName": "ALMENDE B.V.",
+            "ecContrib": 850312
+        },
+        "972142440": {
+            "orgId": "972142440",
+            "orgName": "ASCORA GMBH",
+            "ecContrib": 851475
+        }
+    },
+    "calculatedTotalContribution": 7758580
+}

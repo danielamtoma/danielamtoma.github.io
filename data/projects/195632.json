@@ -1,0 +1,23 @@
+{
+    "rcn": "195632",
+    "acronym": "MoStMusic",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Models of Structure in Music",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2018",
+    "objective": "Music is an art form with a very long history, and continues to engage millions of people today. Music Information Retrieval (MIR), the exciting interdisciplinary science that brings together music and computer science, is a growing field of research with the potential to enrich computer science knowledge while creating real-world applications that everyone can benefit from. While the marriage of art and science is often troublesome, MIR has the benefit that many aspects of music are highly structural and have been subject to formalisation for a long time. Formalisation and computers go hand in hand, and MIR researchers have therefore been developing models of musical structure for many years, and putting them to use in several applications. However, such models, so far, have had limited impact; they're commonly restricted to one specific aspect of music, can be hard to implement computationally, and are often too technical to be used directly by musicologists who are not familiar with programming details.\n\nHowever, models are valuable. Unlike machine learning approaches, model-based MIR provides a real insight about the underlying structure, and can benefit from the input of musicologist experts. Furthermore, a single model can be applied to multiple important MIR tasks. The research goal of this project is thus to give musical models the impact they deserve, advancing the practical embodiment of hierarchical musical structure-in its various forms-in computer science through the development of new, functional Models of Structure in Music (MoStMusic). Specifically, I intend to develop functional models of musical form, melody, and harmony that enable an easy, fast, and flexible way of creating model-enhanced MIR applications. As a showcase of such an application, I will create an online music analyser that automatically computes the structure present in a user-submitted piece, and displays it in an interactive interface that highlights the structural shape of music.",
+    "totalCost": "165598,8",
+    "ecMaxContribution": "165598,8",
+    "coordinator": "UNIVERSITEIT UTRECHT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985805": {
+            "orgId": "999985805",
+            "orgName": "UNIVERSITEIT UTRECHT",
+            "ecContrib": 165599
+        }
+    },
+    "calculatedTotalContribution": 165599
+}

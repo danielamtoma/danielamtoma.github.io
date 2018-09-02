@@ -1,0 +1,28 @@
+{
+    "rcn": "209090",
+    "acronym": "D-Noise",
+    "topics": "FETOPEN-04-2016-2017",
+    "title": "Distributed Network of Active Noise Equalizers for Multi-User Sound Control",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2018",
+    "objective": "The project is aimed at developing a novel wireless acoustic sensor network (WASN) for multi-user active noise equalization without the need of using headsets. This system is formed by multiple active noise equalizers (ANEs), which act as a node in a WASN-type set up and cooperate to simultaneously solve their node-specific noise equalization problems. By doing so, the proposed system can simultaneously ensure the auditory comfort of multiple users that are regularly exposed to high noise levels. This is radically different from the current multi-user systems for ANE where each node aims at ensuring the auditory comfort of each passenger without cooperation.\n\nTo implement the proposed multi-user ANE, the project will rely on distributed algorithms derived within the EU-FET HANDiCAMS project. These algorithms build on node-specific cooperation rules to allow the cooperation of devices interested in different signal processing tasks and let them attain superior performance as compared to the case where they would operate on their own. In particular, through these node-specific cooperation rules, these algorithms yield a system that overcomes the two main limitations of the existing technologies. First, the spatial diversity of all the microphone signals can be leveraged and hence superior levels of noise attenuation can be attained in the active noise equalization problem of each node. Second, there is no performance degradation due to the acoustical interaction between ANEs of different users, which allows to perform simultaneous ANEs in scenarios with a high density of users.\n\nDue to its competitive advantages, the current levels of noise reduction can be attained with much simpler and cheaper ANEs, which will make the technology more accessible and will enhance the commercialization of ANEs on grand-scale. Thus, the proposed project is expected to constitute a strong seed for the creation of jobs, which will encourage the entrepreneurship in the FET research world.",
+    "totalCost": "130937,5",
+    "ecMaxContribution": "100000",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "UNIVERSITAT POLITECNICA DE VALENCIA",
+    "participantCountries": "ES",
+    "projectParticipants": {
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 50000
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 100000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "200046",
+    "acronym": "Playfields",
+    "topics": "ERC-PoC-2015",
+    "title": "Playfields: Prototyping a location based game for higher education.",
+    "startDate": "01/02/2016",
+    "endDate": "31/07/2017",
+    "objective": "The idea for this Proof of Concept (PoC) is to develop a prototype of a location-based game (LBG) that can be used for teaching fieldwork in a Higher Education (HE) setting. The rationale behind it is that location-based games, understood here as  pervasive games in which gameplay develops through a player's mobile location, are promising educational tools for fieldwork, as they:\n\n-\tAre close to studentís lifestyle as digital natives \n-\tOffer innovative and creative technologies for using methods in vivo. \n-\tOffers educators possibilities to monitor and supervise studentsí progress \n-\tAllow for different interactions between students, teachers and learning environments \n-\tAllow for more creative learning processes for understanding environments and people \n-\tOffer accessible and informal ways to break down barriers between researcher and ìresearchedî \n\nThe game we envisage to prototype will consist of an OpenStreetMap based GPS enabled mobile phone app that can be  used by students while conducting fieldwork. The game mixes spatial and qualitative approaches, that prompt students to complete certain educational tasks, plan routes , create narratives, or ìclaimî certain spots or areas. The app will then feed data created by the students (GPS check-ins, images, texts, recordings) back to a main computer where the findings and activities  are collected, scored with points and evaluated by the teachers of the course. Through this central interface organisers of the course as well as BOTs (automated tasks/non-playable entities in the game-world) can send messages, advise and tasks  to the participants, information that is also used to share and evaluate the results with students in the classroom. Likewise students can communicate with their supervisors while in the field through this central interface to ask for advise.",
+    "totalCost": "149681",
+    "ecMaxContribution": "149681",
+    "coordinator": "THE UNIVERSITY OF WARWICK",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976784": {
+            "orgId": "999976784",
+            "orgName": "THE UNIVERSITY OF WARWICK",
+            "ecContrib": 149681
+        }
+    },
+    "calculatedTotalContribution": 149681
+}

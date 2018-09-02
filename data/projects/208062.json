@@ -1,0 +1,43 @@
+{
+    "rcn": "208062",
+    "acronym": "RODEO",
+    "topics": "JTI-CS2-2016-CFP03-AIR-01-17",
+    "title": "Robotized Orbital Drilling Equipment and Optimized residual stresses",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2020",
+    "objective": "The main objective of the RODEO project is to propose a lightweight robotized orbital drilling equipment, and associated operating conditions and tools, to enable the drilling of tightly spaced small diameter holes in aluminium with the control of induced residual stresses. This will be accomplished by:\n-\t modelling the phenomena involved in orbital drilling that impact residual stresses\n-\tdeveloping a combined drilling and burnishing tool and associated operating conditions to attain required residual stresses\n-\tpursuing the development of a high-speed orbital drilling unit (existing in the consortium) capable to drive the tool in the prescribed conditions\n-\tintegrating the developed orbital drilling unit on a lightweight industrial robot\n-\tdefining the operating conditions of the lightweight robot to be used to ensure the drilling operation\nTo reach this objective, numerical simulation tools (already developed in the consortium) will be used to pursue the study and determine the mechanisms modifying the properties of the material during orbital drilling, and the impact on fatigue life (including the influence of a fastener). As a result, solutions to increase residual stresses in aluminium holes will be suggested in terms of cutting conditions, tool geometry and holemaking strategy (including burnishing). From this, an innovative orbital drilling tool, combining cutting and burnishing active parts will be developed and associated operating conditions will be proposed. To drive this tool along the expected trajectory with the required speeds, the development of a high-speed orbital drilling unit (provided by PRECISE) will be pursued. This will require the adaptation of the equipment to allow burnishing, and the integration of monitoring devices for cutting forces, spindle speed, feed speeds measurements. The orbital drilling unit will be handled by a lightweight industrial robot that will permit to drill holes without the need of a drill jig, allowing the drilli",
+    "totalCost": "499998,75",
+    "ecMaxContribution": "499998,75",
+    "coordinator": "PRECISE FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "KUKA SYSTEMS AEROSPACE;MITIS;UNIVERSITE DE NANTES;UNIVERSITE PAUL SABATIER TOULOUSE III",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "918343912": {
+            "orgId": "918343912",
+            "orgName": "MITIS",
+            "ecContrib": 55004
+        },
+        "918337607": {
+            "orgId": "918337607",
+            "orgName": "KUKA SYSTEMS AEROSPACE",
+            "ecContrib": 130038
+        },
+        "999854176": {
+            "orgId": "999854176",
+            "orgName": "UNIVERSITE DE NANTES",
+            "ecContrib": 50000
+        },
+        "918343815": {
+            "orgId": "918343815",
+            "orgName": "PRECISE FRANCE",
+            "ecContrib": 99992
+        },
+        "999851169": {
+            "orgId": "999851169",
+            "orgName": "UNIVERSITE PAUL SABATIER TOULOUSE III",
+            "ecContrib": 164965
+        }
+    },
+    "calculatedTotalContribution": 499999
+}

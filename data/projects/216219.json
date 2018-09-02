@@ -1,0 +1,17 @@
+{
+    "rcn": "216219",
+    "acronym": "ACCOPT",
+    "topics": "ERC-2017-ADG",
+    "title": "ACelerated COnvex OPTimization",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2023",
+    "objective": "The amazing rate of progress in the computer technologies and telecommunications presents many new challenges for Optimization Theory. New problems are usually very big in size, very special in structure and possibly have a distributed data support. This makes them unsolvable by the standard optimization methods. In these situations, old theoretical models, based on the hidden Black-Box information, cannot work. New theoretical and algorithmic solutions are urgently needed. In this project we will concentrate on development of fast optimization methods for problems of big and very big size. All the new methods will be endowed with provable efficiency guarantees for large classes of optimization problems, arising in practical applications. Our main tool is the acceleration technique developed for the standard Black-Box methods as applied to smooth convex functions. However, we will have to adapt it to deal with different situations. \nThe first line of development will be based on the smoothing technique as applied to a non-smooth functions. We propose to substantially extend this approach to generate approximate solutions in relative scale. The second line of research will be related to applying acceleration techniques to the second-order methods minimizing functions with sparse Hessians. Finally, we aim to develop fast gradient methods for huge-scale problems. The size of these problems is so big that even the usual vector operations are extremely expensive. Thus, we propose to develop new methods with sublinear iteration costs. In our approach, the main source for achieving improvements will be the proper use of problem structure.\nOur overall aim is to be able to solve in a routine way many important problems, which currently look unsolvable. Moreover, the theoretical development of Convex Optimization will reach the state, when there is no gap between theory and practice: the theoretically most efficient methods will definitely outperform any homebred heuristics.",
+    "totalCost": "2090038",
+    "ecMaxContribution": "2090038",
+    "coordinator": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

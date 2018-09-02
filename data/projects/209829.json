@@ -1,0 +1,23 @@
+{
+    "rcn": "209829",
+    "acronym": "QUSON",
+    "topics": "MSCA-IF-2016",
+    "title": "Quantum Sensing with Quantum Optical Networks",
+    "startDate": "04/06/2018",
+    "endDate": "03/06/2020",
+    "objective": "Quantum sensing exploits effects such as entanglement to enhance the sensitivity of measurement devices. In the last decade we have witnessed a significant advance in experimental platforms such as trapped ion setups and superconducting circuits. These systems are never free from noise and dissipation, however, interactions between qubits and photons or phonons can be controlled with lasers or external fields. Even in strong dissipative regimes, cooperative effects may induce complex quantum dynamics with emergent phenomena such as non-equilibrium phase transitions and multistability. The question then arises whether we can exploit those many-body effects in robust metrological protocols. \nMy project will address this question in two main scenarios corresponding to different limits of a network of qubits coupled to photonic cavities. Firstly, I will consider a limit of weak coupling, in which cooperative radiative decay leads to the generation of entanglement. Secondly, I will investigate networks of qubits strongly coupled to photonic cavities. I will identify, and systematically investigate, points close to non-equilibrium phase transitions in which the abrupt response of the system can be used to accurately measure properties of driving fields. The project requires a rigorous theoretical description of the qubit-cavity network. Approximations such as a mean-field theory can be used for a preliminary study. However, to achieve my goals I will need to properly describe quantum correlations across the system. I will address this challenge by using Matrix Product States methods - an advanced quasi-exact numerical technique. \nMy reference systems will be trapped ion setups and superconducting qubits coupled to microwave resonators. In my project, I will systematically investigate their performance as quantum sensors under realistic conditions. My work will lead to proposals for the accurate measurement of microwave fields, magnetic fields and ultra-weak forces.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "THE UNIVERSITY OF SUSSEX",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999852721": {
+            "orgId": "999852721",
+            "orgName": "THE UNIVERSITY OF SUSSEX",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

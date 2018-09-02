@@ -1,0 +1,23 @@
+{
+    "rcn": "206789",
+    "acronym": "SaaStified",
+    "topics": "SMEInst-11-2016-2017",
+    "title": "Simulation-as-a-Service Tool for Industrial Furnaces Innovative Engineering Design (SaaStified)",
+    "startDate": "01/11/2016",
+    "endDate": "30/04/2017",
+    "objective": "Simulations based on the numerical solution of Partial Differential Equations (PDEs) are nowadays customarily being applied for the design of industrial products and plants, in several branches of the Computer Aided Engineering (CAE), such as thermodynamics, fluid dynamics, structural mechanics. The improvement of the mathematical modeling tools and the availability of computing power have dramatically enhanced the accuracy of computer based simulations, and hence the support they offer to engineering design process. Yet, due to their complexity, in most cases simulations are not fully integrated into the design workflow. Operations as preprocessing, grid generation, setting up and running the simulations, and postprocessing the outputs, require specific skills and are extremely time and resources consuming. For these reasons, design engineers are sometimes resorting to simplified low fidelity models, which are often quantitatively inaccurate. More complex and accurate high fidelity models are only and occasionally considered at the very end of the design cycle, and are usually employed to optimize single components or to provide a final assessment of the overall accuracy of the standard simpler models. In this background, introducing accessible high-fidelity models in a user friendly intermediate environment would represent a strategic asset to facilitate and spread simulation-based design approaches and their benefits for industries in new industrial applications, as already happens for example in automotive or aerospace industry, towards a more efficient resources employment, energy saving and optimized products. The objective of the project is to set up a user friendly high-fidelity simulation platform, based on efficient simulation techniques and standardized automated workflows to be provided as a Simulation-as-a-Service (SaaS) tool, for the design and optimization of industrial furnaces.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "MOXOFF SPA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "952423019": {
+            "orgId": "952423019",
+            "orgName": "MOXOFF SPA",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "195699",
+    "acronym": "Modeling ERPs",
+    "topics": "MSCA-IF-2014-GF",
+    "title": "Combining electrophysiology and cognitive computational modeling in research on meaning in language",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2017",
+    "objective": "Language and meaning processing have been investigated with event-related brain potentials (ERPs), providing direct time-resolved measures of electrical brain activity, and with connectionist network models, providing mechanistic implementations of the assumed processes. However, there has been very little contact between these fields, even though a combination of both methods could be highly beneficial. Based on initial evidence from the applicant, the present project therefore aims to integrate ERPs and computational models in research on language and meaning.\nSpecifically, the N400 ERP component is widely used in research on language and meaning. As the computational mechanisms underlying this component are still unclear, we recently related the N400 to a model of word meaning and observed a close correspondence between N400 amplitudes and semantic network error. As network error is often conceptualized as implicit prediction error, we took these results to indicate that N400 amplitudes may reflect implicit prediction error in the semantic system. \nHowever, because the most typical N400 effects are observed during sentence processing, I propose to extend connectionist N400 simulations to sentence processing (Objective 1). Furthermore, the development of syntactic and semantic knowledge in the model should be related to the development of syntactic and semantic ERP components, both in developmental time and when processing words in sentences over time (Objective 2). Next, we aim to test behavioral predictions derived from this model-based account of N400 amplitudes, namely that larger N400 amplitudes should enhance implicit memory formation (Objective 3). Finally, the model-based account of N400 amplitudes as reflecting implicit prediction error should be tested in a conceptually similar theoretical framework, namely the Bayesian brain hypothesis. Thus, we will model N400 amplitudes as Bayesian surprise in the semantic system (Objective 4).",
+    "totalCost": "159795,6",
+    "ecMaxContribution": "159795,6",
+    "coordinator": "FREIE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999994826": {
+            "orgId": "999994826",
+            "orgName": "FREIE UNIVERSITAET BERLIN",
+            "ecContrib": 159796
+        }
+    },
+    "calculatedTotalContribution": 159796
+}

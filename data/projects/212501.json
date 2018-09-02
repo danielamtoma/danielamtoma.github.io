@@ -1,0 +1,43 @@
+{
+    "rcn": "212501",
+    "acronym": "INLINETEST",
+    "topics": "ICT-31-2017",
+    "title": "In-line quality inspection system for smart production of micro and nanoelectronic components",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Future micro/nano-electronics components production will need to be smart and provide instantaneous information on all items for complete traceability. This is necessary as enormous quality requirements have to be met by industrial manufacturers to be competitive in this growing multi-billion market. The crucial ingredient for this development is the availability of rapid in-line-capable inspection systems to unequivocally detect production flaws and defects in the component.\n\nTo respond to these challenges, the fast, contactless and non-destructive full-field thermometric methods of Pulse-Infrared Thermography (PIRT) and Thermoreflectance (TR) are exploited for the first time to enable 100% in-line inspection in the production line.\n\nINLINETESTís objective is to take up these challenges in design, realization, deployment and test:\n\nExisting prototypes for both methods will be adapted and upgraded to the challenges of inline testing, enhanced by hard- and software innovations. For validation under real-life conditions, both failure analytical methodís hard- and software will be customized and integrated into two production lines and demonstrated on two encapsulated power multi-chip module (MCM) components and one in-line production tool at the project partners, covering crucial aspects of the avionics, telecom and automotive sector.\n\nThe consortium, composed of five partners from industry, SME and academia from 3 European countries, pools excellence and interdisciplinary skills to address these tasks. We are convinced that INLINETEST will enable the first in-line-capable inspection system for 100% monitoring of micro/nano-electronics production based on the thermographic methods of IR and TR, meet the aggressive precision and efficiency targets presented in the proposal and hence boost productivity and radiate out to other lines and products where non-contact failure analysis below surfaces of various emissivity is needed. Thus, the route for smart production is pre",
+    "totalCost": "1762631,25",
+    "ecMaxContribution": "1332916,88",
+    "coordinator": "BERLINER NANOTEST UND DESIGN GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "ADVANCED PACKAGING CENTER  BV;BOSCHMAN TECHNOLOGIES BV;TECHNISCHE UNIVERSITAET CHEMNITZ;THALES SA",
+    "participantCountries": "NL;DE;FR",
+    "projectParticipants": {
+        "999718085": {
+            "orgId": "999718085",
+            "orgName": "BERLINER NANOTEST UND DESIGN GMBH",
+            "ecContrib": 316750
+        },
+        "999877844": {
+            "orgId": "999877844",
+            "orgName": "TECHNISCHE UNIVERSITAET CHEMNITZ",
+            "ecContrib": 330250
+        },
+        "999751938": {
+            "orgId": "999751938",
+            "orgName": "THALES SA",
+            "ecContrib": 475917
+        },
+        "987680094": {
+            "orgId": "987680094",
+            "orgName": "BOSCHMAN TECHNOLOGIES BV",
+            "ecContrib": 105000
+        },
+        "955330400": {
+            "orgId": "955330400",
+            "orgName": "ADVANCED PACKAGING CENTER  BV",
+            "ecContrib": 105000
+        }
+    },
+    "calculatedTotalContribution": 1332917
+}

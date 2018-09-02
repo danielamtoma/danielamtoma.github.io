@@ -1,0 +1,23 @@
+{
+    "rcn": "200011",
+    "acronym": "EcoMultiCloud",
+    "topics": "SIE-01-2015",
+    "title": "HIERARCHICAL APPROACH FOR GREEN WORKLOAD MANAGEMENT IN HETEROGENEOUS AND INTERCONNECTED DATA CENTERS",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2017",
+    "objective": "Data Centers (DCs) around the world consume  up to 1,2% of all global electricity production and they are the fastest growing category of emissions in ICT field.\nThe efficient utilization of resources is essential to reduce costs, energy consumption, carbon emissions. There are 2 business opportunities:\n1. Better efficiency in a single DC: by dynamically consolidating Virtual Machines (VMs) on the minimum number of physical resources, the non-utilized servers can be set to hibernate, hence eliminating their energy consumption\n2. Better efficiency in a multi-site scenario: VMs migration among interconnected DCs is a more novel topic\nCurrent approaches aim to find a solution in a centralized fashion, undergoing the risk of originating: (i) poor scalability, due to the large number of parameters and servers; (ii) poor ability to adapt to changing conditions, as massive migrations of VMs may be required to match a new workload distribution strategy; (iii) limitation to the autonomy of the sites, which are often required to share the same algorithms.\nEco4Cloud is the only company in the world that is developing a hierarchical architecture for the efficient distribution of the workload on a multi-site scenario, called EcoMultiCloud. It allows for an integrated management of interconnected DCs but at the same time it preserves the autonomy of single DCs. The VMs migrations are performed asynchronously, both location-wise and time-wise, and with a tunable rate managed by DCs administrators. Our solution is covered by 3 international patents. This puts us in a strong competitive advantage in comparison to other solutions. \nEcoMultiCloud gives to customers the opportunity to achieve the following technical and business goals:\n  Reduction of power consumption and carbon emissions (minimum 30% - maximum 60%)\n  Reduction of energy costs (depending on DCs location)\n  Quality of Service Management and load balancing \n  Compliance with Service Level Agreement\n  Reduced Inter-DC Com",
+    "totalCost": "1067915",
+    "ecMaxContribution": "747208,88",
+    "coordinator": "ECO4CLOUD SRL",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "936073960": {
+            "orgId": "936073960",
+            "orgName": "ECO4CLOUD SRL",
+            "ecContrib": 747209
+        }
+    },
+    "calculatedTotalContribution": 747209
+}

@@ -1,0 +1,38 @@
+{
+    "rcn": "193566",
+    "acronym": "SCORA",
+    "topics": "ERC-StG-2014",
+    "title": "A systematic characterization of human regulatory architectures and their determinants of regulatory activity",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2020",
+    "objective": "Enhancers control the correct spatio-temporal activation of gene expression. A comprehensive characterization of the properties and regulatory activities of enhancers as well as their target genes is therefore crucial to understand the regulation and dysregulation of differentiation, homeostasis and cell type specificity.\nGenome-wide chromatin assays have provided insight into the properties and complex architectures by which enhancers regulate genes, but the understanding of their mechanisms is fragmented and their regulatory targets are mostly unknown. Several factors may confound the inference and interpretation of regulatory enhancer activity. There are likely many kinds of regulatory architectures with distinct levels of output and flexibility. Despite this, most state-of-the-art genome-wide studies only consider a single model. In addition, chromatin-based analysis alone does not provide clear insight into function or activity.\nThis project aims to systematically characterize enhancer architectures and delineate what determines their: (1) restricted spatio-temporal activity; (2) robustness to regulatory genetic variation; and (3) dynamic activities over time. My work has shown enhancer transcription to be the most accurate classifier of enhancer activity to date. This data permits unprecedented modeling of regulatory architectures via enhancer-promoter co-expression linking. Careful computational analysis of such data from appropriate experimental systems has a great potential for distinguishing the different modes of regulation and their functional impact.\nThe outcomes have great potential for providing us with new insights into mechanisms of transcriptional regulation. The results will be particularly relevant to interpretation of regulatory genetic variations. Ultimately, knowing the characteristics and conformations of enhancer architectures will increase our ability to link variation in non-coding DNA to phenotypic outcomes like disease susceptibility.",
+    "totalCost": "1436292,5",
+    "ecMaxContribution": "1436292,5",
+    "coordinator": "KOBENHAVNS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "KLINIKUM DER UNIVERSITAET ZU KOELN;THE UNIVERSITY OF BIRMINGHAM;ROYAL INSTITUTION FOR THE ADVANCEMENT OF LEARNING MCGILL UNIVERSITY",
+    "participantCountries": "DE;UK;CA",
+    "projectParticipants": {
+        "999907526": {
+            "orgId": "999907526",
+            "orgName": "THE UNIVERSITY OF BIRMINGHAM",
+            "ecContrib": 103590
+        },
+        "999884828": {
+            "orgId": "999884828",
+            "orgName": "KLINIKUM DER UNIVERSITAET ZU KOELN",
+            "ecContrib": 23125
+        },
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 1249225
+        },
+        "998826946": {
+            "orgId": "998826946",
+            "orgName": "ROYAL INSTITUTION FOR THE ADVANCEMENT OF LEARNING MCGILL UNIVERSITY",
+            "ecContrib": 60352
+        }
+    },
+    "calculatedTotalContribution": 1436292
+}

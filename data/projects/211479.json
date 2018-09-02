@@ -1,0 +1,23 @@
+{
+    "rcn": "211479",
+    "acronym": "CARL-PdM",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "Next Generation Holistic Predictive Maintenance Software",
+    "startDate": "01/08/2017",
+    "endDate": "31/01/2018",
+    "objective": "'Industry 4.0' preaches a complete revolution of industrial process and promises huge efficiency gains by a complete virtualization of the factory, numerical design tools, automation of the logistics and the routing of the parts, smart machines, 3D printing, cyber-physical systems, predictive maintenance and control of the whole factory by an intelligent system. \nIn the next 10 years, industry 4.0 is expected to change the way we operate our factories and to create 1250 Billion Ä of additional value added in Europe.\nAlso , according to ARC Advisory Group, the predictive maintenance market is estimated to grow from 1,404.3MÄ in 2016 to 4,904.0MÄ by 2021.\nCARL-PdM is a innovative IIoT data powered predictive maintenance platform encompass the core of 'Industry 4.0' with a new maintenance paradigm : maintenance is a production function whose aim should be to optimize production output and quality.\nWe will leverage the IoT revolution to achieve these goal.\nThis software solution, CARL-PdM, provides many core capabilities in industrial scenarios, including edge analytics who provide a way to pre-process the data so that only the pertinent information is sent to the predictive layer (Auto Classification and Machine learning).\nThe predictive layer will categorize data into abstract class which represent technical assets behavior. It is a reliable and reproducible approach.\nCompetitive advantages: \n- Reduce failure by 50%, maintenance cost by 30%, production stops by 70%, energetic consumption by 20%, Time To Repair by 30%\n- Increase production flexibility\n- System agnostic to machines\n- Machine-learning algorithm that compares the fault prediction and sensor data with historical data, predicting best maintenance activity regarding to production and quality objectives \nThe solution will be implemented at a global scale, starting in European markets: France, Italy, Belgium for early market uptake and testing; and then the biggest EU markets (Germany, UK, Poland and Spain).",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "CARL INTERNATIONAL SA",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "912754481": {
+            "orgId": "912754481",
+            "orgName": "CARL INTERNATIONAL SA",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

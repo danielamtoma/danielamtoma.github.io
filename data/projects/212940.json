@@ -1,0 +1,53 @@
+{
+    "rcn": "212940",
+    "acronym": "STriTuVaD",
+    "topics": "SC1-PM-16-2017",
+    "title": "In Silico Trial for Tuberculosis Vaccine Development",
+    "startDate": "01/02/2018",
+    "endDate": "31/07/2022",
+    "objective": "Tuberculosis (TB) one of the worldís deadliest diseases: one third of the worldís population, mostly in developing countries, is infected with TB. But TB is becoming again very dangerous also for developed countries, due to the increased mobility of the world population, and the appearance of several new bacterial strains that are multi-drug resistant (MDR). There is now a growing awareness that TB can be effectively fought only working globally, starting from countries like India, where the infection is endemic. Once a person present the active disease, the most critical issue is the current duration of the therapy, because of the high costs it involved, the increased chances of non-compliance (which increase the probability of developing an MDR strain), and the time the patient is still infectious to others.  One exciting possibility to shorten the duration of the therapy are new host-reaction therapies (HRT) as a coadjuvant of the antibiotic therapy.  The endpoints in the clinical trials for HRTs are time to inactivation, and incidence of recurrence.  While for the first it is in some cases possible to have a statistically powered evidence for efficacy in a phase II clinical trial, recurrence almost always require a phase III clinical trial with thousands of patients involved, and huge costs. In the STriTuVaD project we will extend our Universal Immune System Simulator to include all relevant determinants of such clinical trial, establish its predictive accuracy against the individual patients recruited in the trial, use it to generate virtual patients and predict their response to the HRT being tested, and combine them to the observations made on physical patients using a new in silico-augmented clinical trial approach that uses a Bayesian adaptive design. This approach, where found effective could drastically reduce the cost of innovation in this critical sector of public healthcare.",
+    "totalCost": "5050656,25",
+    "ecMaxContribution": "4549527,5",
+    "coordinator": "ETNA BIOTECH SRL",
+    "coordinatorCountry": "IT",
+    "participants": "THE UNIVERSITY OF SHEFFIELD;UNIVERSITA DEGLI STUDI DI CATANIA;STICHTING TUBERCULOSIS VACCINE INITIATIVE;THE ALL-INDIA INSTITUTE OF MEDICAL SCIENCES;ARCHIVEL FARMA, SL;INFECTIOUS DISEASE RESEARCH INSTITUTE",
+    "participantCountries": "UK;IT;NL;IN;ES;US",
+    "projectParticipants": {
+        "953209786": {
+            "orgId": "953209786",
+            "orgName": "ETNA BIOTECH SRL",
+            "ecContrib": 1043750
+        },
+        "999874061": {
+            "orgId": "999874061",
+            "orgName": "UNIVERSITA DEGLI STUDI DI CATANIA",
+            "ecContrib": 909394
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 867371
+        },
+        "973972442": {
+            "orgId": "973972442",
+            "orgName": "INFECTIOUS DISEASE RESEARCH INSTITUTE",
+            "ecContrib": 1255028
+        },
+        "998327008": {
+            "orgId": "998327008",
+            "orgName": "STICHTING TUBERCULOSIS VACCINE INITIATIVE",
+            "ecContrib": 65625
+        },
+        "998712389": {
+            "orgId": "998712389",
+            "orgName": "THE ALL-INDIA INSTITUTE OF MEDICAL SCIENCES",
+            "ecContrib": 0
+        },
+        "913103293": {
+            "orgId": "913103293",
+            "orgName": "ARCHIVEL FARMA, SL",
+            "ecContrib": 408360
+        }
+    },
+    "calculatedTotalContribution": 4549528
+}

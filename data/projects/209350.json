@@ -1,0 +1,23 @@
+{
+    "rcn": "209350",
+    "acronym": "GAMODRONE",
+    "topics": "MSCA-IF-2016",
+    "title": "Game of Drones: Multimedia Streaming with Flying Terminals in Next Generation Mobile Networks",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2019",
+    "objective": "The use of civilian unmanned aerial vehicles (UAV) that allow capturing and streaming video in real-time is steadily increasing. One of the reasons for such interest is that the use of drones, either single units or in swarms, is currently being considered for reconnaissance missions in emergency situations such as earthquakes, radiation leakage in nuclear power plants or in case of a terrorist attack. More challenging applications such as package delivery services are also being considered, in which data speed, reliability and video quality are of paramount importance. Another promising application for civil UAVís is to help providing flexibility to beyond-5G networks. The main goal of the project (highest priority) is to study efficient adaptive video compression and streaming solutions for interactive and non-interactive omnidirectional video that allow making an efficient use of the available bandwidth while satisfying target delay and video quality requirements. In order to deal with the limited knowledge of the interference environment at the receiver side (which is a likely scenario for airborne terminals) I will study efficient interference management and multi-user detection techniques. In order to further optimize the bandwidth usage, the correlation between the information of different terminals (e.g., when two or more drones within a swarm are capturing partly overlapping panoramas) will be exploited, so that redundant information is kept at the minimum necessary. The secondary goal (lower priority) of the project is the study of how to efficiently exploit the unique UAVís mobility characteristics to provide additional coverage in congested network areas. This will be carried out by capitalizing on the results of the main goal. In particular, the channel characterization and the interference management techniques studied in the context of video streaming will be adapted to the use of drones as 3D-mobile gap-fillers.",
+    "totalCost": "175419,6",
+    "ecMaxContribution": "175419,6",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 175420
+        }
+    },
+    "calculatedTotalContribution": 175420
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "204169",
+    "acronym": "STRESS",
+    "topics": "Sesar-01-2015",
+    "title": "Human Performance neurometricS Toolbox foR highly automatEd Systems deSign",
+    "startDate": "15/06/2016",
+    "endDate": "14/06/2018",
+    "objective": "Europe ATM system is expected to face challenging situations, with the growth of traffic, the increase of its complexity (e.g. the RPAS introduction), the introduction of innovative concepts (such as 4D trajectories) and increased automation. The roles and tasks of controllers will change in the future and it is vital to enhance the comprehension of human response to changes in role, monitoring of complex situations, unexpected disruptions. \nControllersí performance is recognised to be impacted by several aspects such as stress, emotions, attentional resources available, and so on. In the recent years the concept of Human Performance Envelope has been introduced in Human Factors. Rather than focusing on one or two individual factors, it considers a range of common factors in accidents and maps how they work alone or in combination to lead to a performance decrement that could affect safety. \nTo support the evolution of the future ATM system, the STRESS project proposes to address the objectives:\n1. To align the HP envelope with the foreseen ATCO role in SESAR, mapping the relevance of HF concepts on the characteristics of the scenarios (e.g. less tactical interventions, high automation support, multi-sector operations, and so on). \n2. To monitor in real-time via neurophysiological indexes the controllersí mental status during monitoring tasks in different automation levels in SESAR step3. Indexes will be defined for the following cognitive and emotional aspects: Stress level, Attentional focus, Workload level, Emotional arousal, Startle effect.\n3. To derive guidelines and methods to match the HP envelope status with the highest possible level of automation (keeping KPAs at least at the same level).\n4. To monitor the controllersí mental status during automation failure scenarios using the above indexes\n5. To develop guidelines to support human performance during safe transitions from the higher levels of automation to the lower levels of automation, and viceversa.",
+    "totalCost": "644821",
+    "ecMaxContribution": "596875",
+    "coordinator": "DEEP BLUE SRL",
+    "coordinatorCountry": "IT",
+    "participants": "ANADOLU UNIVERSITY;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;ECOLE NATIONALE DE L AVIATION CIVILE;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "participantCountries": "TR;BE;FR;IT",
+    "projectParticipants": {
+        "983142434": {
+            "orgId": "983142434",
+            "orgName": "ANADOLU UNIVERSITY",
+            "ecContrib": 104375
+        },
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 162500
+        },
+        "998325941": {
+            "orgId": "998325941",
+            "orgName": "DEEP BLUE SRL",
+            "ecContrib": 175000
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        },
+        "996375756": {
+            "orgId": "996375756",
+            "orgName": "ECOLE NATIONALE DE L AVIATION CIVILE",
+            "ecContrib": 155000
+        }
+    },
+    "calculatedTotalContribution": 596875
+}

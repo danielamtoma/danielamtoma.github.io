@@ -1,0 +1,23 @@
+{
+    "rcn": "211344",
+    "acronym": "SPICY",
+    "topics": "ERC-2016-ADG",
+    "title": "Simulating 2d Spin Lattices with Ion Crystals",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "The objective of this project is to experimentally realize a 100-particle quantum simulator with complete quantum control at the single-particle level that will be used for investigating models of interacting spins in two dimensions. \n\nThe experimental platform is a two-dimensional crystal of laser-cooled ions held in a radio-frequency trap. In this approach, the quantum state of a spin is encoded in two electronic levels of an ion. Effective spin-spin interactions are induced by laser fields coupling the ionsí electronic levels to excitations of the crystal lattice. Single-particle quantum control will be achieved by manipulating individual ions with a strongly focused steerable laser beam. Single-shot quantum measurements with near-unit detection efficiency will enable measurements of arbitrary spin correlation functions.\n\nThe main goals of SPICY are:\n\n1. Trapping and laser-cooling of two-dimensional ion crystals to millikelvin temperatures in a radio-frequency trap. \n2. Realization of quantum spin models with particle numbers for which the simulation becomes intractable by numerical techniques.\n3. Development of methods for validating quantum simulators \n4. Investigation of various models with spin-frustration in two-dimensional geometries.\n\nSPICY builds on my experience with small-scale one-dimensional trapped-ion simulators. The exploration of two-dimensional lattice geometries will overcome difficulties in scaling up one-dimensional trapped-ion systems and enable the experimental investigation of the rich physics of two-dimensional spin models.",
+    "totalCost": "2496525",
+    "ecMaxContribution": "2496525",
+    "coordinator": "OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999823912": {
+            "orgId": "999823912",
+            "orgName": "OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+            "ecContrib": 2496525
+        }
+    },
+    "calculatedTotalContribution": 2496525
+}

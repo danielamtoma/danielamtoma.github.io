@@ -1,0 +1,23 @@
+{
+    "rcn": "204789",
+    "acronym": "GlobalBioIm",
+    "topics": "ERC-ADG-2015",
+    "title": "Global integrative framework for Computational Bio-Imaging",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "A powerful strategy for increasing the quality and resolution of medical and biological images is to acquire larger quantities of data (Fourier samples for MRI, projections for X-ray imaging) and to jointly reconstruct the complete signal by correctly reallocating the measurements in 3D space/time and integrating all the information available. The underlying image sequence is reconstructed globally as the result of a very large-scale optimization that exploits the redundancy of the signal (spatio-temporal correlation, sparsity) to improve the solution. Due to recent advances in the field, we are arguing that such a ìbigger dataî integration is now within reach and that our team is ideally qualified to lead the way. A successful outcome will profoundly impact the design of future bioimaging systems.\nWe are proposing a unifying framework for the development of such next-generation reconstruction algorithms with a clear separation between the physical (forward model) and signal-related (regularization, incorporation of prior constraints) aspects of the problem. The pillars of our formulation are: an operator algebra with a corresponding set of fast linear solvers; an advanced statistical framework for the principled derivation of reconstruction methods; and learning schemes for parameter optimization and self-tuning. These core technologies will be incorporated into a modular software library featuring the key components for the implementation and testing of iterative reconstruction algorithms. We shall apply our framework to improve upon the state of the art in the following modalities: 1) phase-contrast X-ray tomography in full 3D; 2) structured illumination microscopy; 3) single-particle analysis in cryo-electron tomography; 4) a novel multipose fluorescence microscopy; 5) real-time MRI, and 6) a new multimodal digital microscope. In all instances, we shall work in close collaboration with the imaging scientists who are in charge of the instrumentation.",
+    "totalCost": "2499515",
+    "ecMaxContribution": "2499515",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 2499515
+        }
+    },
+    "calculatedTotalContribution": 2499515
+}

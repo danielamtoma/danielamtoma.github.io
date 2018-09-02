@@ -1,0 +1,88 @@
+{
+    "rcn": "194255",
+    "acronym": "SSICLOPS",
+    "topics": "ICT-07-2014",
+    "title": "Scalable and Secure Infrastructures for Cloud Operations",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "The SSICLOPS project will focus on techniques for the management of federated private cloud infrastructures, in particular cloud networking techniques (within software-defined data centres and across wide-area networks). Key deliverables from the project will include a meta data description language for workloads, resources and policies, a flexible scheduling system using meta data, workload-specific adaptations to TCP/IP stacks, and data center performance analysis tools.\nAddressing topics, such as dynamic configuration, automated provisioning and orchestration of cloud resources the SSICLOPS projects will investigate high-performance, vertically integrated network stacks for intra/inter-cloud communication and efficient, scalable, and secure intra/inter-DC and client-facing transport mechanisms. \nThe project will design, implement, demonstrate, and evaluate three specific use cases, namely a cloud-based in-memory database, the analysis of physics experiment data, and the prototypical extension of network stacks for a telecom provider in the SSICLOPS testbed.",
+    "totalCost": "6937123",
+    "ecMaxContribution": "6702748",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "NETAPP BV;HELSINGIN YLIOPISTO;THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;TECHNISCHE UNIVERSITAET MUENCHEN;ORANGE POLSKA SPOLKA AKCYJNA;TELEKOM DEUTSCHLAND GMBH;UNIVERSITA DI PISA;UNIVERSITATEA POLITEHNICA DIN BUCURESTI;HASSO-PLATTNER-INSTITUT FUR SOFTWARENGINEERING GGMBH;NEC EUROPE LTD;F-SECURE OYJ;MARTEL GMBH",
+    "participantCountries": "NL;FI;UK;DE;PL;IT;RO;CH",
+    "projectParticipants": {
+        "999842342": {
+            "orgId": "999842342",
+            "orgName": "UNIVERSITATEA POLITEHNICA DIN BUCURESTI",
+            "ecContrib": 321000
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "950120336": {
+            "orgId": "950120336",
+            "orgName": "NETAPP BV",
+            "ecContrib": 1257125
+        },
+        "999695387": {
+            "orgId": "999695387",
+            "orgName": "MARTEL GMBH",
+            "ecContrib": 0
+        },
+        "955550493": {
+            "orgId": "955550493",
+            "orgName": "TELEKOM DEUTSCHLAND GMBH",
+            "ecContrib": 248125
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 597940
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 146175
+        },
+        "999951079": {
+            "orgId": "999951079",
+            "orgName": "ORANGE POLSKA SPOLKA AKCYJNA",
+            "ecContrib": 138625
+        },
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 338440
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 317500
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 712640
+        },
+        "954546349": {
+            "orgId": "954546349",
+            "orgName": "F-SECURE OYJ",
+            "ecContrib": 563875
+        },
+        "991100023": {
+            "orgId": "991100023",
+            "orgName": "HASSO-PLATTNER-INSTITUT FUR SOFTWARENGINEERING GGMBH",
+            "ecContrib": 804688
+        }
+    },
+    "calculatedTotalContribution": 5446133
+}

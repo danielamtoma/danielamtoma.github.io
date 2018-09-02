@@ -1,0 +1,28 @@
+{
+    "rcn": "202600",
+    "acronym": "NANOZ-ONIC",
+    "topics": "ERC-CoG-2015",
+    "title": "Bio-inspired electrONIC NOSE interfacing olfactory electrical biosensors and carbon NANOtubes",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "The goal of this project is to develop an innovative biosensor for the non-invasive, painless and real-time detection of volatile biomarkers in the exhaled breath of patients. Volatile biomarkers have been identified for several diseases including cancers, diabetes, cystic fibrosis and neurodegeneration. A miniaturized system for fast and simple breath-analysis would not only improve the early detection of these pathologies but also enable point-of-care monitoring of patients either in medical institutions or at home.\nDifferent electronic noses are in development (or even in use for diagnosing asthma), however their generalisation in reliable medical diagnosis devices is mainly hindered by their poor versatility. The main challenge is to quantitatively and simultaneously detect several volatile biomarkers with high specificity and selectivity. The ideal technology would be one which mimicked the natural olfactory systems that recognize odours by combinatorial analysis of receptor responses.\nInspired by this biological example, this project aims at integrating natural olfactory receptors into two state-of-the-art technologies: Ion Channel-Coupled Receptors (ICCRs) and single-walled Carbon NanoTube-Field Effect Transistors (swCNT-FETs). ICCRs are original biosensors created by fusion of G Protein Coupled Receptors (GPCRs) with an ion channel. The recognition of a chemical compound by the GPCR is transduced into an electrical signal by the ion channel. Mammalian olfactory receptors are GPCRs, and the objective of this 5-year project is to engineer an original library of olfactory ICCRs for multiplex detection of volatile biomarkers. To detect the electrical signal with very high sensitivity and at the nanometric scale, ICCRs will be interfaced with swCNT-FET transistors by coating the carbon nanotubes with ICCR-containing nanovesicles. The recent detection of a biomarker with an ICCR-swCNT-FET device by project members demonstrates the feasibility of this approach.",
+    "totalCost": "1926870",
+    "ecMaxContribution": "1926870",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "SEOUL NATIONAL UNIVERSITY",
+    "participantCountries": "KR",
+    "projectParticipants": {
+        "996466063": {
+            "orgId": "996466063",
+            "orgName": "SEOUL NATIONAL UNIVERSITY",
+            "ecContrib": 492545
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1434325
+        }
+    },
+    "calculatedTotalContribution": 1926870
+}

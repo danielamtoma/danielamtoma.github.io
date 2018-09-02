@@ -1,0 +1,63 @@
+{
+    "rcn": "213071",
+    "acronym": "REFLEX",
+    "topics": "FCH-02-3-2017",
+    "title": "Reversible solid oxide Electrolyzer and Fuel cell for optimized Local Energy miX",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "The REFLEX project aims at developing an innovative renewable energies storage solution, the ìSmart Energy Hubî, based on reversible Solid Oxide Cell (rSOC) technology, that is to say able to operate either in electrolysis mode (SOEC) to store excess electricity to produce H2, or in fuel cell mode (SOFC) when energy needs exceed local production, to produce electricity and heat again from H2 or any other fuel locally available. \nThe challenging issue of achieving concomitantly high efficiency, high flexibility in operation and cost optimum is duly addressed through improvements of rSOC components (cells, stacks, power electronics, heat exchangers) and system, and the definition of advanced operation strategies. \nThe specifications, detailed system design and the advanced operation strategies are supported by modelling tasks.\nAn in-field demonstration will be performed in a technological park, where the Smart Energy Hub will be coupled to local solar and mini-hydro renewable sources and will provide electricity and heat to the headquarters of the park. It will demonstrate, in a real environment, the high power-to-power round-trip efficiency of this technology and its flexibility in dynamic operation, thus moving the technology from Technology Readiness Level (TRL) 3 to 6.\nThe Smart Energy Hub being modular, made of multistacks/multimodules arrangements, scale up studies will be performed to evaluate the techno-economic performance of the technology to address different scales of products for different markets. \nTo reach these objectives, REFLEX is a cross multidisciplinary consortium gathering 9 organisations from 6 member states (France, Italy, Denmark, Estonia, Spain, Finland). The partnership covers all competences necessary: cells and stacks development and testing (ELCOGEN, CEA, DTU), power electronics (USE, GPTech), system design and manufacturing (SYLFEN), system modelling (VTT), field test (Envipark), techno-economical and market analysis (ENGIE).",
+    "totalCost": "2999575,48",
+    "ecMaxContribution": "2999575,25",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "SYLFEN;AKTSIASELTS ELCOGEN;Teknologian tutkimuskeskus VTT Oy;ENGIE;DANMARKS TEKNISKE UNIVERSITET;GREEN POWER TECHNOLOGIES SL;PARCO SCIENTIFICO E TECNOLOGICO PER L'AMBIENTE - ENVIRONMENT PARK SPA;UNIVERSIDAD DE SEVILLA",
+    "participantCountries": "FR;EE;FI;DK;ES;IT",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 299981
+        },
+        "998484633": {
+            "orgId": "998484633",
+            "orgName": "PARCO SCIENTIFICO E TECNOLOGICO PER L'AMBIENTE - ENVIRONMENT PARK SPA",
+            "ecContrib": 211788
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 595826
+        },
+        "926625093": {
+            "orgId": "926625093",
+            "orgName": "SYLFEN",
+            "ecContrib": 723438
+        },
+        "996512914": {
+            "orgId": "996512914",
+            "orgName": "GREEN POWER TECHNOLOGIES SL",
+            "ecContrib": 164625
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 298218
+        },
+        "983268340": {
+            "orgId": "983268340",
+            "orgName": "AKTSIASELTS ELCOGEN",
+            "ecContrib": 199675
+        },
+        "999964562": {
+            "orgId": "999964562",
+            "orgName": "ENGIE",
+            "ecContrib": 198525
+        },
+        "999862518": {
+            "orgId": "999862518",
+            "orgName": "UNIVERSIDAD DE SEVILLA",
+            "ecContrib": 307500
+        }
+    },
+    "calculatedTotalContribution": 2999576
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "198228",
+    "acronym": "LineageDiscovery",
+    "topics": "ERC-ADG-2014",
+    "title": "Laying the Biological, Computational and Architectural Foundations for Human Cell Lineage Discovery",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Within a decade, advances in single-cell genomics would allow humanity to embark on a coordinated international effort to discover the human cell lineage tree. The goal of LineageDiscovery is to lay the biological, computational and architectural foundations for this envisioned project and demonstrate its feasibility and value.\nAn organismal cell lineage tree is a rooted, labelled binary tree where nodes represent organism cells, edges represent progeny relations and labels capture cell state.  The tree of an adult human has about 100 trillion nodes. Many fundamental open questions in biology and medicine are about the structure, dynamics and variance of the human cell lineage tree in development, health, ageing and disease.  E.g., which cancer cells give rise to metastases? Do beta cells renew? Which progeny do brain stem cells produce in development, maintenance and ageing?  \nLineageDiscovery is based on a decade of research on this challenge by Shapiroís lab and others. It will develop an efficient biological-computational cell lineage discovery workflow that starts with sampled cells and ends with knowledge of their cell lineage tree; and a scalable architecture for the collaborative development and the distributed deployment of this workflow. The workflow will be based on emerging single-cell technologies and will include novel algorithms to analyse single-cell data, to reconstruct cell lineage trees, and to infer ancestral cell type and state dynamics.  A programmable meta-system will be developed and used for workflow optimization and evaluation.  The workflow and architecture will be deployed and tested in a broad range of proof-of-concept human cell lineage discovery experiments with self-funded collaborators.   \nSuccessful execution of this research plan coupled with expected advances in single-cell genomics would establish both the feasibility and the value of the envisioned large-scale human cell lineage discovery project, ideally leading to its launch.",
+    "totalCost": "2250000",
+    "ecMaxContribution": "2250000",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 2250000
+        }
+    },
+    "calculatedTotalContribution": 2250000
+}

@@ -1,0 +1,33 @@
+{
+    "rcn": "199944",
+    "acronym": "STEP2DYNA",
+    "topics": "MSCA-RISE-2015",
+    "title": "Spatial-temporal information processing for collision detection in dynamic environments",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2020",
+    "objective": "In the real world, collision happens at every second - often results in serious accidents and fatalities. For example, there are more than 3560 people died from vehicle collision per day worldwide. On the other sector, autonomous unmanned aerial vehicles (UAVs) have demonstrated great potential in serving human society such as delivering goods to households and precision farming, but are restricted due to lacking of collision detection capability. The current approaches for collision detection such as radar, laser based Ladar and GPS are far from acceptable in terms of reliability, energy consumption and size. A new type of low cost, low energy consumption and miniaturized collision detection sensors are badly needed to not only save millions of peopleís lives but also make autonomous UAVs and robots safe to serve human society. STEP2DYNA consortium proposes an innovative bio-inspired solution for collision detection in dynamic environments. It takes the advantages of low cost spatial-temporal and parallel computing capacity of visual neural systems and realized it in chip specifically for collision detection in dynamic environments.\n\nRealizing visual neural systems in chips demands multidisciplinary expertise in biological system modelling, computer vision, chip design and robotics. This breadth of expertise is not readily possessed within one institution. Secondly, the market potential of the collision detection system could not be well exploited, unless by a dedicated partner from industry. Therefore, this consortium is designed to bring neurobiologists, neural system modelers, chip designers, robotics researchers and engineers from Europe and East of Asia together and complement each othersí research strengths via staff secondments, jointly organised workshops and conferences. Through this project, the partners will build up strong expertise in this exciting multidisciplinary area and the European SME will position well as a market leader in collision detection.",
+    "totalCost": "1008000",
+    "ecMaxContribution": "1008000",
+    "coordinator": "UNIVERSITY OF LINCOLN",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITY OF NEWCASTLE UPON TYNE;UNIVERSITAET HAMBURG",
+    "participantCountries": "UK;DE",
+    "projectParticipants": {
+        "912924328": {
+            "orgId": "912924328",
+            "orgName": "UNIVERSITAET HAMBURG",
+            "ecContrib": 247500
+        },
+        "999985417": {
+            "orgId": "999985417",
+            "orgName": "UNIVERSITY OF NEWCASTLE UPON TYNE",
+            "ecContrib": 243000
+        },
+        "999882694": {
+            "orgId": "999882694",
+            "orgName": "UNIVERSITY OF LINCOLN",
+            "ecContrib": 517500
+        }
+    },
+    "calculatedTotalContribution": 1008000
+}

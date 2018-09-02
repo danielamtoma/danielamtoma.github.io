@@ -1,0 +1,23 @@
+{
+    "rcn": "193774",
+    "acronym": "SolarPredict",
+    "topics": "ERC-PoC-2014",
+    "title": "SolarPredict: An advanced predictive tool and service of the Solar 11-yr Activity Cycle",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2016",
+    "objective": "The main idea of the SolarPredict Proof of Concept project is to use physically based dynamo models to make solar 11-yr activity predictions, in particular of Earth impacting events, more robust/reliable and to develop the tools to make them accessible (with the appropriate licencing and IPR) to customers (such as private corporations or governmental agencies) as a service, software or paid/freemium applications. The key advantage of our tools/techniques over current ones is both our deep knowledge of the working of the solar dynamo and magnetism and the implementation in solar physics of state-of-the-art variational data assimilation (DA) techniques used daily in weather forecasting. These variational techniques are known to be more robust and versatile than for instance sequential methods or simple geomagnetic precursors thus allowing us to incorporate the highly complex solar magnetic activity and dynamics into our forecasting tools. Thanks to our advanced 2-D direct and adjoint mean field dynamo codes and modern DA technique, we will assimilate the most relevant solar observational data (sunspots numbers, polar cap magnetic field, surface flows...) into our prediction model hence allowing us to develop an operational prototype. Indeed major solar storms are strongly correlated to the intensity of solar cycle and 80% of them are directly due to the presence of complex active regions that are more frequent as the 11-yr cycle intensifies. Thus being able to anticipate the level and geometry of solar global magnetism give us a competitive edge in predicting major solar storms. We will thus bring with the SolarPredict project, our novel variational DA solar prediction algorithm to a more mature state such as to make it operational and useful to private companies and governmental agencies in order to help them evaluate the economic cost of solar activity and associated storms and protect their assets by anticipating such devastating solar activity.",
+    "totalCost": "149913",
+    "ecMaxContribution": "149913",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 149913
+        }
+    },
+    "calculatedTotalContribution": 149913
+}

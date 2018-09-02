@@ -1,0 +1,128 @@
+{
+    "rcn": "197344",
+    "acronym": "5G-Crosshaul",
+    "topics": "ICT-14-2014",
+    "title": "5G-Crosshaul: The 5G Integrated fronthaul/backhaul",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2017",
+    "objective": "Mobile data traffic is forecasted to increase 11-fold between 2013 and 2018. 5G networks serving this mobile data tsunami will require fronthaul and backhaul solutions between the RAN and the packet core capable of dealing with this increased traffic load while fulfilling new stringent 5G service requirements in a cost-efficient manner.\nThe 5G-Crosshaul project aims at developing a 5G integrated backhaul and fronthaul transport network enabling a flexible and software-defined reconfiguration of all networking elements in a multi-tenant and service-oriented unified management environment. The 5G-Crosshaul transport network envisioned will consist of high-capacity switches and heterogeneous transmission links (e.g., fibre or wireless optics, high-capacity copper, mmWave) interconnecting Remote Radio Heads, 5GPoAs (e.g., macro and small cells), cloud-processing units (mini data centres), and points-of-presence of the core networks of one or multiple service providers.  This transport network will flexibly interconnect distributed 5G radio access and core network functions, hosted on in-network cloud nodes, through the implementation of: (i) a control infrastructure using a unified, abstract network model for control plane integration (5G-Crosshaul Control Infrastructure, XCI); (ii) a unified data plane encompassing innovative high-capacity transmission technologies and novel deterministic-latency switch architectures (5G-Crosshaul Packet Forwarding Element, XFE).  \nDemonstration and validation of the 5G-Crosshaul technology components developed will be integrated into a software-defined flexible and reconfigurable 5G Test-bed in Berlin. Mobility-related 5G-Crosshaul experiments will be performed using Taiwanís high-speed trains. 5G-Crosshaul KPI targets evaluated will include among others a 20% network capacity increase, latencies <1 ms and 30% TCO reduction.\nThe 5G-Crosshaul proposal addresses the ICT 14-2014 call of the Horizon 2020 Work Programme 2014-15 with a special focus on the P7 objectives defined by the 5GPPP IA.",
+    "totalCost": "8492038,61",
+    "ecMaxContribution": "7942521",
+    "coordinator": "UNIVERSIDAD CARLOS III DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "CREATE-NET (CENTER FOR RESEARCH AND TELECOMMUNICATION EXPERIMENTATION FOR NETWORKED COMMUNITIES);NEXTWORKS;ORANGE SA;INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE INCORPORATED;E-BLINK;CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERDIGITAL EUROPE LTD;ATOS SPAIN SA;NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG;TELNET REDES INTELIGENTES SA;ERICSSON AB;TELEFONICA INVESTIGACION Y DESARROLLO SA;CORE NETWORK DYNAMICS GMBH;ERICSSON TELECOMUNICAZIONI;FONDAZIONE BRUNO KESSLER;POLITECNICO DI TORINO;NEC EUROPE LTD;VISIONA INGENIERIA DE PROYECTOS SL;LUNDS UNIVERSITET;TELECOM ITALIA SPA",
+    "participantCountries": "IT;FR;TW;ES;DE;UK;SE",
+    "projectParticipants": {
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 455978
+        },
+        "937528087": {
+            "orgId": "937528087",
+            "orgName": "CORE NETWORK DYNAMICS GMBH",
+            "ecContrib": 359750
+        },
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 255000
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 243308
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 183125
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 528750
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 161812
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 383750
+        },
+        "989795567": {
+            "orgId": "989795567",
+            "orgName": "TELNET REDES INTELIGENTES SA",
+            "ecContrib": 206250
+        },
+        "950635891": {
+            "orgId": "950635891",
+            "orgName": "INTERDIGITAL EUROPE LTD",
+            "ecContrib": 452625
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 421875
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 319471
+        },
+        "999910921": {
+            "orgId": "999910921",
+            "orgName": "ERICSSON AB",
+            "ecContrib": 574393
+        },
+        "999940603": {
+            "orgId": "999940603",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS GMBH &CO KG",
+            "ecContrib": 373000
+        },
+        "949743588": {
+            "orgId": "949743588",
+            "orgName": "VISIONA INGENIERIA DE PROYECTOS SL",
+            "ecContrib": 307830
+        },
+        "992251995": {
+            "orgId": "992251995",
+            "orgName": "INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE INCORPORATED",
+            "ecContrib": 0
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 557000
+        },
+        "929543144": {
+            "orgId": "929543144",
+            "orgName": "E-BLINK",
+            "ecContrib": 79112
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 933300
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 246720
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 899472
+        },
+        "999575786": {
+            "orgId": "999575786",
+            "orgName": "CREATE-NET (CENTER FOR RESEARCH AND TELECOMMUNICATION EXPERIMENTATION FOR NETWORKED COMMUNITIES)",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 7942521
+}

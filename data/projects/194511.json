@@ -1,0 +1,78 @@
+{
+    "rcn": "194511",
+    "acronym": "OCTAVE",
+    "topics": "DS-02-2014",
+    "title": "Objective Control for TAlker VErification",
+    "startDate": "01/06/2015",
+    "endDate": "31/07/2017",
+    "objective": "Industry needs alternatives to textual passwords for access control. While tokens can still be stolen or transferred to other persons, biometrics technology can provide reliable, cost-effective and user-friendly solutions.\nThe proliferation of smart services calls for unsupervised authentication at a distance. Being natural, non-intrusive and readily compatible with smart and mobile devices, automatic speaker verification (ASV) is an appealing solution. Even so, todayís state-of-the-art ASV systems lack robustness to environmental variability and are vulnerable to spoofing. Concerns regarding interoperability, scalability and privacy also form barriers to exploitation.\nWhile embracing standards, in addition to a privacy and interoperability-by-design ethos, OCTAVE will integrate commercial-grade and new, hybrid ASV systems with the latest environmental robustness and anti-spoofing technologies to deliver a scalable, trusted biometric authentication service (TBAS). While simultaneously relieving end-users from the inconvenience of dealing with textual passwords, the OCTAVE platform will reduce the economic and practical burdens related to password loss and recovery. The TBAS will support single (text-dependent, text-prompted and text-independent) in addition to hybrid operating modes. The delegation of authentication to a single, yet distributed TBAS, will increase trust and privacy, avoid single points of failure and allow for rapid breach notification and remediation.\nSolutions will be installed in data-sensitive and mission-critical services and validated in two real commercial trials: banking services and physical access within a critical airport infrastructure. Flexibility will support wider exploitation in future applications in, for example, customer care, telephone banking, e-commerce, logical and physical access control. OCTAVE will thus fuel new opportunities for commercial services making use of electronic identification and authentication.",
+    "totalCost": "5208985",
+    "ecMaxContribution": "4406116",
+    "coordinator": "FONDAZIONE UGO BORDONI",
+    "coordinatorCountry": "IT",
+    "participants": "ADVALIA SRL;THE UNIVERSITY OF HERTFORDSHIRE HIGHER EDUCATION CORPORATION;FINDOMESTIC BANCA SPA;APLCOMP OY;VALIDSOFT UK LIMITED;SOCIETA PER AZIONI ESERCIZI AEROPORTUALI SEA SPA;RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES;ATOS SPAIN SA;EURECOM;ITA-SUOMEN YLIOPISTO;AALBORG UNIVERSITET",
+    "participantCountries": "IT;UK;FI;EL;ES;FR;DK",
+    "projectParticipants": {
+        "999582382": {
+            "orgId": "999582382",
+            "orgName": "RESEARCH AND EDUCATION LABORATORY IN INFORMATION TECHNOLOGIES",
+            "ecContrib": 265962
+        },
+        "999654259": {
+            "orgId": "999654259",
+            "orgName": "FONDAZIONE UGO BORDONI",
+            "ecContrib": 687762
+        },
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 333536
+        },
+        "937404509": {
+            "orgId": "937404509",
+            "orgName": "FINDOMESTIC BANCA SPA",
+            "ecContrib": 132948
+        },
+        "999911115": {
+            "orgId": "999911115",
+            "orgName": "THE UNIVERSITY OF HERTFORDSHIRE HIGHER EDUCATION CORPORATION",
+            "ecContrib": 417124
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 390167
+        },
+        "991207984": {
+            "orgId": "991207984",
+            "orgName": "ITA-SUOMEN YLIOPISTO",
+            "ecContrib": 410288
+        },
+        "986593306": {
+            "orgId": "986593306",
+            "orgName": "VALIDSOFT UK LIMITED",
+            "ecContrib": 542246
+        },
+        "937523625": {
+            "orgId": "937523625",
+            "orgName": "ADVALIA SRL",
+            "ecContrib": 265895
+        },
+        "938047134": {
+            "orgId": "938047134",
+            "orgName": "APLCOMP OY",
+            "ecContrib": 216134
+        },
+        "986590687": {
+            "orgId": "986590687",
+            "orgName": "SOCIETA PER AZIONI ESERCIZI AEROPORTUALI SEA SPA",
+            "ecContrib": 318484
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 425570
+        }
+    },
+    "calculatedTotalContribution": 4406116
+}

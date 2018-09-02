@@ -1,0 +1,48 @@
+{
+    "rcn": "211559",
+    "acronym": "AMPHORA",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "ACOUSTIC MARKERS FOR ENHANCED REMOTE SENSING OF RADIATION DOSES",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2021",
+    "objective": "Approximately 50% of all cancer patients receive radiation therapy as part of their treatment. The aim is hereby to maximise tumor irradiation and to minimize healthy tissue irradiation. This implies a need for appropriate dosimetry strategies that can effectively measure the actual radiation dose imparted on the tumor. However, state-of-the-art dosimetry cannot quantify the dose distribution in (and around) the tumor, hereby inhibiting the full potential of radiotherapy.\nAMFORA aims to develop a non-invasive in-situ dosimetry system for radiation therapy with the potential of on-line dose assessment by casting ultrasound contrast agents (UCAs) into dose sensing theranostic devices. UCAs will be upgraded to injectable dose-sensitive and targeted devices that gather in tumor tissue and translate imparted radiation dosage into a\nmodulation of their acoustic response upon ultrasound interrogation. Tailored ultrasound imaging and advanced signal processing algorithms will be developed to extract the (change in) acoustic signature of UCAs from backscatter data and to translate this information into a 2D or 3D dose distribution map. The specific objectives of this project are the design, development and pre-clinical validation of the aforementioned UCA based dosimetry system and a customised ultrasound\nread-out technology. Upon successful completion, AMFORA will have enabled the assessment of the effective radiation dose distribution in (and around) the tumor, offering an advanced and objective means to compare and evaluate treatment efficacy of different radiotherapy modalities. Such novel technology would revolutionize quality assurance and treatment follow up in radiotherapy, which also unmistakably will lead to increased patient safety and improved treatment protocols. Moreover, AMFORA is expected to trigger an avalanche of novel technologies for radiation therapy delivery and to pave the way for other in-vivo UCA based distributed sensing applications.",
+    "totalCost": "3932775",
+    "ecMaxContribution": "3932775",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM;DOSEVUE",
+    "participantCountries": "IT;DE;BE;NL",
+    "projectParticipants": {
+        "941429718": {
+            "orgId": "941429718",
+            "orgName": "DOSEVUE",
+            "ecContrib": 376875
+        },
+        "999988424": {
+            "orgId": "999988424",
+            "orgName": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+            "ecContrib": 443750
+        },
+        "999844864": {
+            "orgId": "999844864",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA",
+            "ecContrib": 475000
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 393521
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 679879
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 1563750
+        }
+    },
+    "calculatedTotalContribution": 3932775
+}

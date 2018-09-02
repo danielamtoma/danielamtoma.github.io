@@ -1,0 +1,68 @@
+{
+    "rcn": "211578",
+    "acronym": "CATALYST",
+    "topics": "EE-20-2017",
+    "title": "Converting DCs in Energy Flexibility Ecosystems (CATALYST)",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2020",
+    "objective": "Data Centres (DC) are among the largest yet increasing energy consumers, due to the rising digitization of human activities. RES integration and energy efficiency improvements have the potential to reduce significantly DC carbon footprint, while increasing at the same time the auto-consumed energy, thus improving DC security and resiliency of supply against climate change. However, very few solutions, despite validated in lab, have been successfully deployed on operational DCs, mostly due to technological fragmentation, excessive CAPEX and lack of appropriate business models. CATALYST will address these challenges through turning existing/new DCs into flexible multi-energy hubs, which can sustain investments in RES and energy efficiency by offering mutualized flexibility services to the smart energy grids (both electricity and heat grids). By leveraging on the outcomes of FP7 GEYSER and DOLPHIN projects, CATALYST will adapt, scale up, validate and deploy an innovative, adaptable technological and business framework aimed at i) exploiting available DC non-IT legacy assets (onsite RES/backup generation, UPS/batteries, cooling system thermal inertia, heat pump for waste heat reuse) to deliver simultaneous energy flexibility services to multi-energy coupled electricity/heat/IT load marketplaces ii) deploying Cross-DC cross-infrastructures (e.g. heat vs IT) IT workload orchestration, by combining heat-demand driven HPC geographical workload balancing, with traceable ICT-load migration between federated DCs to match IT demands with time-varying on-site RES (ìfollow the energy approachî) iii) providing marketplace-as-a-service tools to nurture novel ESCO2.0 business models. The adaptation and replication potential of CATALYST will be demonstrated through carrying out four different real life trials spanning through the full spectrum of DCs types (fully distributed DCs, HPC, co-location, legacy) and architectures (from large centralized versus decentralized micro-DCs).",
+    "totalCost": "2982805",
+    "ecMaxContribution": "2299103,5",
+    "coordinator": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+    "coordinatorCountry": "IT",
+    "participants": "QARNOT COMPUTING;ENEL.SI SRL;UNIVERSITATEA TEHNICA CLUJ-NAPOCA;INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK;STICHTING GREEN IT CONSORTIUM REGIO AMSTERDAM;SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS;POWER OPERATIONS LIMITED;SCHUBERG PHILIS BV;ALLIANDER NV",
+    "participantCountries": "FR;IT;RO;PL;NL;EL;UK",
+    "projectParticipants": {
+        "999586359": {
+            "orgId": "999586359",
+            "orgName": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 206750
+        },
+        "999650573": {
+            "orgId": "999650573",
+            "orgName": "ENEL.SI SRL",
+            "ecContrib": 150241
+        },
+        "924736309": {
+            "orgId": "924736309",
+            "orgName": "POWER OPERATIONS LIMITED",
+            "ecContrib": 227325
+        },
+        "983926485": {
+            "orgId": "983926485",
+            "orgName": "STICHTING GREEN IT CONSORTIUM REGIO AMSTERDAM",
+            "ecContrib": 233300
+        },
+        "950766938": {
+            "orgId": "950766938",
+            "orgName": "ALLIANDER NV",
+            "ecContrib": 150325
+        },
+        "983282308": {
+            "orgId": "983282308",
+            "orgName": "SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS",
+            "ecContrib": 303100
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 409938
+        },
+        "938181576": {
+            "orgId": "938181576",
+            "orgName": "QARNOT COMPUTING",
+            "ecContrib": 211575
+        },
+        "915260088": {
+            "orgId": "915260088",
+            "orgName": "SCHUBERG PHILIS BV",
+            "ecContrib": 142800
+        },
+        "999897244": {
+            "orgId": "999897244",
+            "orgName": "UNIVERSITATEA TEHNICA CLUJ-NAPOCA",
+            "ecContrib": 263750
+        }
+    },
+    "calculatedTotalContribution": 2299104
+}

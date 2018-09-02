@@ -1,0 +1,23 @@
+{
+    "rcn": "208882",
+    "acronym": "HumRobManip",
+    "topics": "MSCA-IF-2016",
+    "title": "Robotic Manipulation Planning for Human-Robot Collaboration on Forceful Manufacturing Tasks",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "This proposal addresses robotic manipulation planning for human-robot collaboration during manufacturing. My objective is to develop a planning framework which will enable a team of robots to grasp, move and position manufacturing parts (e.g. planks of wood) such that a human can execute sequential forceful manufacturing operations (e.g. drilling, cutting) to build a product (e.g. a wooden table). \nThe overall objective is divided into three components: First, I will develop a planning algorithm which, given the description of a manufacturing task, plans the actions of all robots in a human-robot team to perform the task. Second, I will develop probabilistic models of human interaction to be used by the planner. This model will include (i) an action model that assigns probabilities to different manufacturing operations (e.g. drilling a hole vs. cutting a piece off) as the next actions the human intends to do; (ii) a geometric model that assigns probabilities to human body postures; and (iii) a force model that assigns probabilities to force vectors as the predicted operational forces. Third, I will build a real robotic system to perform experiments and test my algorithm's capabilities. This system will consist of at least three robot manipulators.\nThis fellowship will enable me to add a completely new human dimension to my planning research. I will work with Prof. Tony Cohn (supervisor) who is a world-leading expert in human activity recognition and prediction - a critical skill for the human-robot collaboration problem I intend to solve. From him and his group, I will receive training on tracking/predicting human posture and recognizing/predicting human activities using vision and point-cloud data. I will then integrate these tracking and prediction methods into a robotic planning framework to enable human-robot collaborative operations. \nThis fellowship will help me to attain a permanent academic position and to become a leading researcher in robotic manipulation.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "UNIVERSITY OF LEEDS",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975426": {
+            "orgId": "999975426",
+            "orgName": "UNIVERSITY OF LEEDS",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

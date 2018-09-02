@@ -1,0 +1,58 @@
+{
+    "rcn": "213116",
+    "acronym": "REDFINCH",
+    "topics": "ICT-30-2017",
+    "title": "mid infraREd Fully Integrated CHemical sensors",
+    "startDate": "01/12/2017",
+    "endDate": "31/05/2021",
+    "objective": "Mid-infrared photonic integrated circuits (mid-IR PICs) are the subject of increasing interest due to the large amount of sensing applications in the 2-20 µm wavelength range. Most molecules exhibit absorption fingerprints in the mid-IR range corresponding to their rotational/vibrational energies. Tunable-diode laser absorption spectroscopy thus allows detection and concentration measurements of many biological and chemical species. This is of crucial interest for many societal applications such as health monitoring and diagnosis, detection of biological compounds, monitoring of toxic gases, or of greenhouse gas emission responsible for global warming, to name but a few. However, state of the art sensing systems are large and delicate which greatly hampers potential applications.\nREDFINCH will use hybrid and monolithic integration of III-V diode and Interband Cascade/Quantum Cascade materials with silicon to create high performance cost effective sensors based on Photonic Integrated Circuits. Integration creates extremely robust systems, in which discrete components are replaced by on-chip equivalents, giving a simultaneous improvement in ease of use and a reduction in cost. Silicon photonics leverages the advantages of high performance CMOS technology, providing low cost mass manufacture, high fidelity reproduction of designs, and access to high refractive index contrasts that enable high performance nanophotonics. \nREDFINCH will realise three fully-integrated PIC-based chemical sensor demonstrators for;\n1) Process gas analysis in refineries\n2) Gas leak detection in petrochemical plants\n3) Liquid sensor for protein analysis in the dairy industry.",
+    "totalCost": "3993211,25",
+    "ecMaxContribution": "3993211,25",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "TECHNISCHE UNIVERSITAET WIEN;ENDRESS+HAUSER PROCESS SOLUTIONS (DEUTSCHLAND) GMBH;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;UNIVERSITE DE MONTPELLIER;CORK INSTITUTE OF TECHNOLOGY;ARGOTECH AS;MIRSENSE",
+    "participantCountries": "AT;DE;FR;IE;CZ",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 399875
+        },
+        "931362476": {
+            "orgId": "931362476",
+            "orgName": "MIRSENSE",
+            "ecContrib": 530032
+        },
+        "933640521": {
+            "orgId": "933640521",
+            "orgName": "UNIVERSITE DE MONTPELLIER",
+            "ecContrib": 491756
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 900150
+        },
+        "956040343": {
+            "orgId": "956040343",
+            "orgName": "ARGOTECH AS",
+            "ecContrib": 220125
+        },
+        "999595089": {
+            "orgId": "999595089",
+            "orgName": "CORK INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 723674
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 354268
+        },
+        "911261166": {
+            "orgId": "911261166",
+            "orgName": "ENDRESS+HAUSER PROCESS SOLUTIONS (DEUTSCHLAND) GMBH",
+            "ecContrib": 373331
+        }
+    },
+    "calculatedTotalContribution": 3993211
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "207476",
+    "acronym": "HISTO-MRI",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "IN SITU IMAGING OF LIVING TISSUES WITH CELLULAR SPATIAL RESOLUTION",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The main objective of HISTO-MRI project is to develop the technologies that will enable the non-invasive visualization of individual human cells in vivo and in real time, based on a radical new Magnetic Resonance Imaging concept: High Frequency Pulsed MRI. To accomplish this ambitious objective, several new challenging multidisciplinary technologies will have to be developed: 1) new method for the production of magnet coils, based on additive manufacturing technology, in order to stand very high currents at very high frequencies; 2) novel high frequency high voltage pulse power sources, based of semiconductor switches, to feed those magnet coils; and new pulse sequencing and computer algorithms to deal with and analyse the enormous amount of data. Therefore, this project has a foundational character, establishing the basis for a new field of research, pulsed MRI in the high frequency regime, which will radically advance MRI performance to micron resolution.\nA Proof of Concept of the new technology will be accomplished through the visualization of a mouse brain at the neuron level. This new technology will enable transformative research in the fields of neurosciences, bioengineering, biophysics and experimental oncology",
+    "totalCost": "3216250",
+    "ecMaxContribution": "3216250",
+    "coordinator": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+    "coordinatorCountry": "ES",
+    "participants": "ACADEMISCH ZIEKENHUIS LEIDEN;TESORO IMAGING SL;DANFYSIK AS;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "participantCountries": "NL;ES;DK;DE",
+    "projectParticipants": {
+        "999990849": {
+            "orgId": "999990849",
+            "orgName": "ACADEMISCH ZIEKENHUIS LEIDEN",
+            "ecContrib": 250000
+        },
+        "968852491": {
+            "orgId": "968852491",
+            "orgName": "DANFYSIK AS",
+            "ecContrib": 693750
+        },
+        "929396771": {
+            "orgId": "929396771",
+            "orgName": "TESORO IMAGING SL",
+            "ecContrib": 480000
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 980000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 812500
+        }
+    },
+    "calculatedTotalContribution": 3216250
+}

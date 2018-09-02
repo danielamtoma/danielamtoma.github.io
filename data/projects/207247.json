@@ -1,0 +1,53 @@
+{
+    "rcn": "207247",
+    "acronym": "ChipScope",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "Overcoming the Limits of Diffraction with Superresolution Lighting on a Chip",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "The physical laws of diffraction generally limit the spatial resolution of optical systems, being about 200 nm for light in the visible range. Within ChipScope we want to overcome this limit by developing the scientific and technological basis for a completely new approach to optical superresolution, based on semiconductor nano Light Emitting Diode (nanoLED) arrays with individual pixel operation. The core idea of ChipScope is to use spatially resolved illumination instead of spatially resolved detection for achieving microscopy functionality with superresolution. This will be made possible by developing chip-based nanoLED arrays with light emitting diode (LED) dimensions and distances much smaller than the wavelength of visible light (i.e. <50 nm). Thus, ChipScope will develop the highest resolution LED arrays in the world. These new devices will enable novel science in general and superresolution in particular. Making optical superresolution ubiquitously available is expected to lead to foundational breakthroughs in virtually every field of research and technology that makes use of optical microscopes. Within the project, the first chip-sized ìChipScope microscopesî will be developed, tested, calibrated and compared with state-of-the-art microscopy systems. During the course of the project, a game changing real-time imaging device for scientific investigation of living tissue will be used to study the in-cell mechanisms in Chronic Obstructive Pulmonary Disease (COPD) syndrome as a proof-of-concept of the new science and applications that will follow.",
+    "totalCost": "3759790",
+    "ecMaxContribution": "3759790",
+    "coordinator": "UNIVERSITAT DE BARCELONA",
+    "coordinatorCountry": "ES",
+    "participants": "MEDIZINISCHE UNIVERSITAET WIEN;UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;TECHNISCHE UNIVERSITAET BRAUNSCHWEIG;FONDATION SUISSE POUR LA RECHERCHEEN MICROTECHNIQUE;EXPERT YMAGING SL",
+    "participantCountries": "AT;IT;DE;CH;ES",
+    "projectParticipants": {
+        "999649118": {
+            "orgId": "999649118",
+            "orgName": "FONDATION SUISSE POUR LA RECHERCHEEN MICROTECHNIQUE",
+            "ecContrib": 189500
+        },
+        "952724010": {
+            "orgId": "952724010",
+            "orgName": "EXPERT YMAGING SL",
+            "ecContrib": 302985
+        },
+        "999844864": {
+            "orgId": "999844864",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA",
+            "ecContrib": 332089
+        },
+        "999861257": {
+            "orgId": "999861257",
+            "orgName": "TECHNISCHE UNIVERSITAET BRAUNSCHWEIG",
+            "ecContrib": 1241250
+        },
+        "999986387": {
+            "orgId": "999986387",
+            "orgName": "UNIVERSITAT DE BARCELONA",
+            "ecContrib": 944572
+        },
+        "999989976": {
+            "orgId": "999989976",
+            "orgName": "MEDIZINISCHE UNIVERSITAET WIEN",
+            "ecContrib": 203125
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 546269
+        }
+    },
+    "calculatedTotalContribution": 3759790
+}

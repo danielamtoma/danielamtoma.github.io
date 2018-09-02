@@ -1,0 +1,43 @@
+{
+    "rcn": "194165",
+    "acronym": "SAGE-CARE",
+    "topics": "MSCA-RISE-2014",
+    "title": "SemAntically integrating Genomics with Electronic health records for Cancer CARE",
+    "startDate": "01/12/2014",
+    "endDate": "30/11/2017",
+    "objective": "The aim of this project is to bring together subject matter experts from the academic and non-academic sectors to create a holistic informatics platform for rapidly integrating genomic sequences, electronic health records (EHRs) and research repositories to enable personalised medicine strategies for malignant melanoma treatment.\n\nThe consortium has engaged in a pre-proposal process with active clinical end users who have highlighted the need for more innovative approaches for the treatment of cancer - in particular the treatment of malignant melanoma, including inter alia the ability to rapidly query of geno-phenotype associations in melanoma such as the recently discovered rs2301641 SNP variability   with ABCB5 function and CDK4 gene indicators. \n\nHence we aim to develop a scalable HPC framework that allows the semantic interlinking between spatially distributed electronic patientsí health records, associated genomic sequences and published research, thereby allowing clinicians to make reasoned queries over vast knowledge bases for the diagnosis, treatment and management of malignant melanoma.",
+    "totalCost": "450000",
+    "ecMaxContribution": "450000",
+    "coordinator": "HOCHSCHULE DARMSTADT (UNIVERSITY OF APPLIED SCIENCES H-DA)",
+    "coordinatorCountry": "DE",
+    "participants": "GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS;UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.;NSILICO LIFE SCIENCE LIMITED;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "EL;IT;IE;UK",
+    "projectParticipants": {
+        "986100255": {
+            "orgId": "986100255",
+            "orgName": "HOCHSCHULE DARMSTADT (UNIVERSITY OF APPLIED SCIENCES H-DA)",
+            "ecContrib": 162000
+        },
+        "999976590": {
+            "orgId": "999976590",
+            "orgName": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+            "ecContrib": 27000
+        },
+        "953569753": {
+            "orgId": "953569753",
+            "orgName": "NSILICO LIFE SCIENCE LIMITED",
+            "ecContrib": 220500
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 0
+        },
+        "985034419": {
+            "orgId": "985034419",
+            "orgName": "GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",
+            "ecContrib": 40500
+        }
+    },
+    "calculatedTotalContribution": 450000
+}

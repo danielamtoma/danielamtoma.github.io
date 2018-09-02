@@ -1,0 +1,23 @@
+{
+    "rcn": "212725",
+    "acronym": "HamInstab",
+    "topics": "ERC-2017-STG",
+    "title": "Instabilities and homoclinic phenomena in Hamiltonian systems",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "A fundamental problem in the study of  dynamical systems is to ascertain whether the effect of a perturbation  on an integrable Hamiltonian system accumulates over time and leads to a large effect (instability) or it averages out (stability). Instabilities in nearly integrable systems, usually called Arnold diffusion, take place along resonances and by means of a\nframework of partially hyperbolic invariant objects and their homoclinic and heteroclinic connections.\n\nThe goal of this project is to develop new techniques, relying on the role of invariant manifolds in the global dynamics, to prove the existence of physically relevant instabilities and homoclinic phenomena in several problems in celestial mechanics and Hamiltonian Partial Differential Equations.\n\nThe N body problem models the interaction of N puntual masses under gravitational force. Astronomers have deeply analyzed the role of resonances in this model. Nevertheless, mathematical results showing instabilities along them are rather scarce. I plan to develop a new theory to analyze the transversal intersection between invariant manifolds along mean motion and secular resonances to prove the existence of Arnold diffusion. I will also apply this theory to construct oscillatory motions.\n\nSeveral Partial Differential Equations such as the nonlinear Schrˆdinger, the Klein-Gordon and the wave equations can be seen as infinite dimensional Hamiltonian systems. Using dynamical systems techniques and understanding the role of invariant manifolds in these Hamiltonian PDEs, I will study two type of solutions: transfer of energy solutions, namely solutions that push energy to arbitrarily high modes as time evolves by drifting along resonances; and breathers, spatially \nlocalized and periodic in time solutions, which in a proper setting can be seen as homoclinic orbits to a stationary solution.",
+    "totalCost": "1100347,5",
+    "ecMaxContribution": "1100347,5",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 1100348
+        }
+    },
+    "calculatedTotalContribution": 1100348
+}

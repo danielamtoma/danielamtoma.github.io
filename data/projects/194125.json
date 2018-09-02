@@ -1,0 +1,63 @@
+{
+    "rcn": "194125",
+    "acronym": "POINT",
+    "topics": "ICT-05-2014",
+    "title": "POINT: iP Over IcN - the betTer ip",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The goal of POINT is to develop technology, innovations, and business value chains for commercially viable IP-over-ICN deployment, based on the hypothesis that many current IP-based applications can run ëbetterí on an ICN-based network than on current IP networks.\n\nTo achieve this, we will first define a set of Key Performance Indicators (KPIs) to specify what exactly 'better' means. Then, we will specify a communication platform based on the ICN prototype developed in FP7 PURSUIT and develop a set of abstractions to enable current IP, TCP, HTTP and CoAP based applications to run on our platform, complemented by new resource coordination mechanisms to improve the performance of the network.\n\nWe will implement our platform as an operational prototype and validate it against the KPIs in a testbed as well as run a real-world field trial in an operator's production network with real customers. We will openly publish our design and all relevant data needed to deploy and improve our prototype, which in turn will be released as open source code. We will also undertake a wide range of dissemination activities to establish POINT as a key driver in the ICN community.\n\nThe POINT platform will provide new business opportunities for systems vendors, operators and service providers, including SMEs and we will evaluate the commercial viability of our solution and develop migration scenarios for operators wishing to deploy ICN in production networks. The consortium has all the experience and competencies needed to cover the entire chain from an idea and research prototype to a working platform ready for production use. In addition to academic partners, POINT includes a technology company, a telecom vendor, an ISP, a content provider, and a cooperative which will enable POINT to have an impact on the industry.",
+    "totalCost": "3494888",
+    "ecMaxContribution": "3494888",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;INTRACOM SA TELECOM SOLUTIONS;PRIMETEL PLC;INTERDIGITAL EUROPE LTD;CTVC LIMITED LBG;UNIVERSITY OF ESSEX;ELL-I AVOIMEN LAHDEKOODIN OSUUSKUNTA;ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",
+    "participantCountries": "DE;EL;CY;UK;FI",
+    "projectParticipants": {
+        "999670361": {
+            "orgId": "999670361",
+            "orgName": "PRIMETEL PLC",
+            "ecContrib": 295350
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "943534715": {
+            "orgId": "943534715",
+            "orgName": "ELL-I AVOIMEN LAHDEKOODIN OSUUSKUNTA",
+            "ecContrib": 148825
+        },
+        "950635891": {
+            "orgId": "950635891",
+            "orgName": "INTERDIGITAL EUROPE LTD",
+            "ecContrib": 523814
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 413750
+        },
+        "999856989": {
+            "orgId": "999856989",
+            "orgName": "UNIVERSITY OF ESSEX",
+            "ecContrib": 427024
+        },
+        "996257804": {
+            "orgId": "996257804",
+            "orgName": "CTVC LIMITED LBG",
+            "ecContrib": 297750
+        },
+        "999969994": {
+            "orgId": "999969994",
+            "orgName": "INTRACOM SA TELECOM SOLUTIONS",
+            "ecContrib": 361250
+        },
+        "999896856": {
+            "orgId": "999896856",
+            "orgName": "ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",
+            "ecContrib": 402500
+        }
+    },
+    "calculatedTotalContribution": 2870263
+}

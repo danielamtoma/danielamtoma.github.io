@@ -1,0 +1,28 @@
+{
+    "rcn": "210004",
+    "acronym": "OPTIMOrph",
+    "topics": "JTI-CS2-2016-CFP04-AIR-02-28",
+    "title": "Development of methods for deriving optimized shapes ofmorphing structures considering both aerodynamic performancesand specific mechanical morphing boundary conditions",
+    "startDate": "01/06/2017",
+    "endDate": "30/06/2019",
+    "objective": "The OPTIMOrph project addresses the development of a robust and reliable numerical optimization methodology able to identify target shapes for deflected positions of morphing structures based on optimal aerodynamic characteristics (i.e. basically lift and drag), while taking into account in a consistent way feasibility issues related to mechanical considerations and material properties. This is actually a requirement very specific to morphing structures, where the mechanical feasibility and complexity is one of the key features to be taken into consideration throughout the design process. The project objectives will be achieved through the implementation of a general multi-disciplinary, multi-objective, multi-constrained optimization procedure able to enhance aerodynamic performance in a compliant way with the pertinent morphing mechanisms and materials limitations, thus enabling the implementation of a step-change in the design of morphing structures. In OPTIMOrph, a multi-fidelity approach will be adopted, in which a high-fidelity FSI solver will be used for reconstruction of a surrogate model (low-fidelity), which in turn will assist a very advanced optimization engine where GAs featuring unique operators are included. This approach will ensure that the optimal solutions achieved are accurate and reliable, while keeping the computational effort within acceptable limits also for an industrial application. The methodology implemented in OPTIMOrph will contribute to the inclusion of morphing technologies since the very early stages of the aircraft design process and will open unprecedented design opportunities to be applied either to re-engineering of current aircraft or to completely new upcoming aircraft architectures. Although very general, the procedure will be applied to a morphing wing leading edge, and a series of optimal indications will be delivered for implementing an integrated aerodynamic/structural proof of concept.",
+    "totalCost": "350725",
+    "ecMaxContribution": "350725",
+    "coordinator": "HIT09 SRL",
+    "coordinatorCountry": "IT",
+    "participants": "SWANSEA UNIVERSITY",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "986010045": {
+            "orgId": "986010045",
+            "orgName": "HIT09 SRL",
+            "ecContrib": 236850
+        },
+        "999862033": {
+            "orgId": "999862033",
+            "orgName": "SWANSEA UNIVERSITY",
+            "ecContrib": 113875
+        }
+    },
+    "calculatedTotalContribution": 350725
+}

@@ -1,0 +1,33 @@
+{
+    "rcn": "198021",
+    "acronym": "IntRanSt",
+    "topics": "ERC-ADG-2014",
+    "title": "Integrable Random Structures",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "The last few years have seen significant advances in the discovery and development of integrable models in probability, especially in the context of random polymers and the Kardar-Parisi-Zhang (KPZ) equation. Among these are the semi-discrete (O'Connell-Yor) and log-gamma (Seppalainen) random polymer models. Both of these models can be understood via a remarkable connection between the geometric RSK correspondence (a geometric lifting, or de-tropicalization, of the classical RSK correspondence) and the quantum Toda lattice, the eigenfunctions of which are known as Whittaker functions.  This connection was discovered by the PI and further developed in collaboration with Corwin, Seppalainen and Zygouras.  In particular, we have recently introduced a powerful combinatorial framework which underpins this connection.  I have also explored this connection from an integrable systems point of view, revealing a very precise relation between classical, quantum and stochastic integrability in the context of the Toda lattice and some other integrable systems.  The main objectives of this proposal are (1) to further develop the combinatorial framework in several directions which, in particular, will yield a wider family of integrable models, (2) to clarify and extend the relation between classical, quantum and stochastic integrability to a wider setting, and (3) to study thermodynamic and KPZ scaling limits of Whittaker functions (and associated measures) and their applications.  The proposed research, which lies at the interface of probability, integrable systems, random matrices, statistical physics, automorphic forms, algebraic combinatorics and representation theory, will make novel contributions in all of these areas.",
+    "totalCost": "1579298,75",
+    "ecMaxContribution": "1579298,75",
+    "coordinator": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "UNIVERSITY OF BRISTOL;THE UNIVERSITY OF WARWICK",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "999976784": {
+            "orgId": "999976784",
+            "orgName": "THE UNIVERSITY OF WARWICK",
+            "ecContrib": 116377
+        },
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 1287861
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 175061
+        }
+    },
+    "calculatedTotalContribution": 1579299
+}

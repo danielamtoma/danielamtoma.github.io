@@ -1,0 +1,23 @@
+{
+    "rcn": "200355",
+    "acronym": "TERAULTRA",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Terahertz Ultra-Short Pulses from Self-Induced Transparency Modelocked Quantum Cascade Lasers",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "The terahertz (THz) frequency range in the electromagnetic spectrum lacks a compact semiconductor source of ultra-short pulses, suitable for applications including ultrafast spectroscopy, atmospheric science and stable THz frequency comb generation. Although the quantum cascade laser (QCL) is a promising compact semiconductor THz source, its success in creating ultra-short pulses is limited due to the inherent fast gain recovery time. There have been demonstrations of short pulse (>1 ps) generation from THz QCLs based on active modelocking, although the stability of the pulses is limited. Crucially, there has been no demonstration of passive modelocking of QCLs to date, which in principle can create pulses much shorter than 1 ps.\n\nThe goals of the proposed TERAULTRA research are to break through this technological challenge, and create THz ultra-short pulses of <1 ps from QCLs using self-induced transparency (SIT) effects. Recently, it has been proposed that QCLs are the ideal tool to realize SIT mediated modelocking owing to their relatively long inter-subband coherence times, and, importantly, the possibility of interleaving gain and absorbing media with engineered dipole moments. While the gain medium produces gain, the absorbing medium absorbs the resonant light, suppressing the growth of the continuous waves, thereby creating short pulses. We will design THz QCLs with coupled gain and absorbing media that can initiate modelocking using SIT effects, for the first time. By simulating the gain recovery and dephasing times, dipole moments, and gain and absorption parameters, the stability of the modelocked pulses will be determined and understood theoretically. We will then demonstrate experimentally the first modelocked laser exploiting the SIT effect, based on a THz QCL with interleaved gain and absorbing media in the growth direction as well as based on independently-controlled two-section waveguide cavities, leading to pulse widths <1 ps.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "UNIVERSITY OF LEEDS",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975426": {
+            "orgId": "999975426",
+            "orgName": "UNIVERSITY OF LEEDS",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

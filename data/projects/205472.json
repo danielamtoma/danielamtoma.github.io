@@ -1,0 +1,48 @@
+{
+    "rcn": "205472",
+    "acronym": "4DHeart",
+    "topics": "MSCA-ITN-2016",
+    "title": "4D analysis of heart development and regeneration using advanced light microscopy",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "Cardiovascular (CV) disease is a main cause of death worldwide. During adulthood, ischemic heart disease leads to heart failure and perinatally, congenital heart defects are found in over 20% of deaths. Moreover, genetic or epigenetic factors altering development can have an impact much later in life. These facts underscore the need of a better understanding of the genetic and environmental factors that influence CV development. An important way to increase our knowledge is by visualizing cardiac development in vivo. Recent advance in microscopy allows monitoring CV development at a cellular level in organisms such as the zebrafish model. Particularly revolutionary has been the development of light sheet microscopy (LSM). We want to further exploit LSM for in vivo manipulation of cells in the embryonic zebrafish heart and measure with high precision biophysical parameters, by introducing novel features to LSM such as optical tweezers. High throughput cardiac imaging protocols for zebrafish larvae suitable for screenings will be set up. We will develop softwares to enhance resolution of acquisition, large dataset handling and image-processing. The aim is to generate a toolbox to be implemented into existing software packages allowing a complete modeling of zebrafish cardiac morphogenesis. We will adapt LSM for adult zebrafish hearts to study cardiac regeneration and mouse heart development at cellular resolution. Each Early Stage Researchers (ESRs) will develop their own technology to solve a biological problem at the frontier of knowledge. ESRs will receive multidisciplinary (CV development, physics, biocomputing, bioimaging) as well as intersectorial (academic research, SMEs, large companies) training and will achieve unique skills on microscopy, in-vivo imaging  and image analysis allowing them to interrogate questions on cardiac development and regeneration. Their profile will be at the interface of a bioengineer and a life science researcher filling a currently existing gap on the market.",
+    "totalCost": "1529110,8",
+    "ecMaxContribution": "1529110,8",
+    "coordinator": "FUNDACION CENTRO NACIONAL DE INVESTIGACIONES CARDIOVASCULARES CARLOS III",
+    "coordinatorCountry": "ES",
+    "participants": "PHILIPS IBERICA SA;DITABIS DIGITAL BIOMEDICAL IMAGING SYSTEMS AG;UNIVERSITAET BERN;CENTRE EUROPEEN DE RECHERCHE EN BIOLOGIE ET MEDECINE;Leica Microsystems CMS GmbH;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;ACQUIFER AG",
+    "participantCountries": "ES;DE;CH;FR",
+    "projectParticipants": {
+        "951866142": {
+            "orgId": "951866142",
+            "orgName": "ACQUIFER AG",
+            "ecContrib": 0
+        },
+        "999646402": {
+            "orgId": "999646402",
+            "orgName": "PHILIPS IBERICA SA",
+            "ecContrib": 247873
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 131438
+        },
+        "996525136": {
+            "orgId": "996525136",
+            "orgName": "Leica Microsystems CMS GmbH",
+            "ecContrib": 249216
+        },
+        "999993177": {
+            "orgId": "999993177",
+            "orgName": "CENTRE EUROPEEN DE RECHERCHE EN BIOLOGIE ET MEDECINE",
+            "ecContrib": 262876
+        },
+        "998922879": {
+            "orgId": "998922879",
+            "orgName": "FUNDACION CENTRO NACIONAL DE INVESTIGACIONES CARDIOVASCULARES CARLOS III",
+            "ecContrib": 247873
+        }
+    },
+    "calculatedTotalContribution": 1139276
+}

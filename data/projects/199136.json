@@ -1,0 +1,58 @@
+{
+    "rcn": "199136",
+    "acronym": "PHANTOM",
+    "topics": "ICT-04-2015",
+    "title": "Cross-Layer and Multi-Objective Programming Approach for Next Generation Heterogeneous Parallel Computing Systems",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "As today ìto out compute is to out competeî, the position of Europe in all industrial sectors and societal challenges is highly depending on the technological progress in computing. However, although computing has reached an unparalleled progress, it still remains a research topic as new challenges impose its transformative nature and adaptation, among others the evolution towards Cyber Physical Systems, the proliferation of devices and the big data they produce, the reduction of energy footpring, and the abstraction of infrastructure complexity. To that respect, PHANTOM wishes to deliver an economically and energetically sustainable solution for next generation computing systems, through a cross-layer design comprising reconfigurable multi-core and heterogeneous hardware platforms managed by a hardware-agnostic software platform that hides the complexity from the programmer and offers multi-dimensional optimization. Specifically, PHANTOM is structured in three layers. First, parallel programming and productivity tools are provided including application-driven APIs for programming and annotations, a parallelization toolset for maintaining intrinsically the code parallelization and model based testing techniques for early parallel program verification. Then, multi-dimensional optimization is addressed through an adaptive and multi-objective scheduler, deciding on where to execute each application component, which is supported by runtime monitoring/data analytics and security implementations. Last, low power, heterogeneous hardware platforms are built together with system software for enabling their management as a service. PHANTOM brings multi-disciplinary expertise through an ecosystem of academia, industries and a strong number of SMEs. The outcome will be validated in three use cases (automotive, telecoms, surveillance), in order to prove a cross-market approach, while documentation for developers will be delivered and reusability readiness evaluation will be run.",
+    "totalCost": "3458926,25",
+    "ecMaxContribution": "3458926,25",
+    "coordinator": "X/OPEN COMPANY LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "INTECS SPA;GMVIS SKYSOFT SA;WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE;UNPARALLEL INNOVATION LDA;UNIVERSITY OF YORK;UNIVERSITAET STUTTGART;EASY GLOBAL MARKET SAS",
+    "participantCountries": "IT;PT;EL;UK;DE;FR",
+    "projectParticipants": {
+        "953318426": {
+            "orgId": "953318426",
+            "orgName": "UNPARALLEL INNOVATION LDA",
+            "ecContrib": 350086
+        },
+        "951649444": {
+            "orgId": "951649444",
+            "orgName": "INTECS SPA",
+            "ecContrib": 281744
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 448868
+        },
+        "999789283": {
+            "orgId": "999789283",
+            "orgName": "X/OPEN COMPANY LIMITED",
+            "ecContrib": 528561
+        },
+        "999978336": {
+            "orgId": "999978336",
+            "orgName": "UNIVERSITY OF YORK",
+            "ecContrib": 566905
+        },
+        "999924986": {
+            "orgId": "999924986",
+            "orgName": "GMVIS SKYSOFT SA",
+            "ecContrib": 289052
+        },
+        "952269953": {
+            "orgId": "952269953",
+            "orgName": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE",
+            "ecContrib": 539354
+        },
+        "972455847": {
+            "orgId": "972455847",
+            "orgName": "EASY GLOBAL MARKET SAS",
+            "ecContrib": 454356
+        }
+    },
+    "calculatedTotalContribution": 3458926
+}

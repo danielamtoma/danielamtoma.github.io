@@ -1,0 +1,23 @@
+{
+    "rcn": "197101",
+    "acronym": "DBSModel",
+    "topics": "ERC-CoG-2014",
+    "title": "Multiscale Modelling of the Neuromuscular System for Closed Loop Deep Brain Stimulation",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2020",
+    "objective": "Deep brain stimulation (DBS) is an effective therapy for treating the symptoms of Parkinsonís disease (PD). Despite its success, the mechanisms of DBS are not understood and there is a need to improve DBS to improve long-term stimulation in a wider patient population, limit side-effects, and extend battery life. Currently DBS operates in ëopen-loopí, with stimulus parameters empirically set. Closed-loop DBS, which adjusts parameters based on the state of the system, has the potential to overcome current limitations to increase therapeutic efficacy while reducing side-effects, costs and energy. Several key questions need to be addressed before closed loop DBS can be implemented clinically. \nThis research will develop a new multiscale model of the neuromuscular system for closed-loop DBS. The model will simulate neural sensing and stimulation on a scale not previously considered, encompassing the electric field around the electrode, the effect on individual neurons and neural networks, and generation of muscle force. This will involve integration across multiple temporal and spatial scales, in a complex system with incomplete knowledge of system variables. Experiments will be conducted to validate the model, and identify new biomarkers of neural activity that can used with signals from the brain to enable continuous symptom monitoring. The model will be used to design a new control strategy for closed-loop DBS that can accommodate the nonlinear nature of the system, and short- and long-term changes in system behavior. \nThough challenging, this research will provide new insights into the changes that take place in PD and the mechanisms by which DBS exerts its therapeutic influence. This knowledge will be used to design a new strategy for closed-loop DBS, ready for testing in patients, with the potential to significantly improve patient outcomes in PD and fundamentally change the way in which implanted devices utilise electrical stimulation to modulate neural activity.",
+    "totalCost": "1999474",
+    "ecMaxContribution": "1999474",
+    "coordinator": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 1999474
+        }
+    },
+    "calculatedTotalContribution": 1999474
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "205929",
+    "acronym": "Re-SENSE",
+    "topics": "ERC-2016-STG",
+    "title": "RESOURCE-EFFICIENT SENSING THROUGH DYNAMIC ATTENTION-SCALABILITY",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "It is hard to stand on one leg if we close our eyes. We have trouble tasting food without smelling. And when we talk with other people, we observe their lips to understand them better. We, humans, are masters in sensor fusion as we can seamlessly combine information coming from different senses to improve our judgements. Intriguingly, in order to fuse information efficiently, we do not always devote the same level of attention or mental effort to each of the many sensory streams available to us. This dynamic attention-scalability allows us to always extract the maximum amount of relevant information under our limited human computational bandwidth.\n\nWould it not be great if electronics had the same capabilities? While many devices are nowadays equipped with a massive amount of sensors, they typically cannot effectively fuse more than a few of them. The rigid way in which sensory data is combined results in large computational workloads, preventing effective multi-sensor fusion in resource-constrained applications such as robotics, wearables, biomedical monitoring or user interfacing.\n\nThe Re-SENSE project will bring attention-scalable sensing to resource-scarce devices, which are constrained in terms of energy, throughput, latency or memory resources. This is achieved by jointly:\n1) Developing resource-aware inference and fusion algorithms, which maximize information capture in function of hardware resource usage, dynamically tuning sensory attention levels\n2) Implementing dynamic, wide-range resource-scalable inference processors, allowing to exploit this attention-scalability for drastically improved efficiency\nThe attention-scalable sensing concept will be demonstrated in 2 highly resource-constrained applications: a) latency-critical cell sorting and b) energy-critical epilepsy monitoring.\nThis combination of processor design, reconfigurable hardware and embedded machine learning fits perfectly to the PIís expertise gained at Intel Labs, UC Berkeley and KULeuven.",
+    "totalCost": "1484562",
+    "ecMaxContribution": "1484562",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 1484562
+        }
+    },
+    "calculatedTotalContribution": 1484562
+}

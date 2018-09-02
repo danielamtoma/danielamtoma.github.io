@@ -1,0 +1,23 @@
+{
+    "rcn": "208223",
+    "acronym": "QSUP",
+    "topics": "MSCA-IF-2016",
+    "title": "Demonstration of Quantum Supremacy in A Photonic Device",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2019",
+    "objective": "Quantum computers are predicted to have capabilities beyond what is currently available using classical physics. The effort to build a universal quantum computer is a global one. Different approaches are being adopted to control, manipulate and store quantum information, trapped-ions, electron-spins and single-photon modes. However, as the field of quantum computation currently stands one fundamental question still remains: Do quantum computers provide a genuine advantage over their classical counterparts? Determining the answer to this question is the aim of this project. To do this we will carry out an experiment known as BosonSampling: The interference of many single-photon modes across a large interferometric network. It is strongly believed that no classical algorithm could efficiently simulate such an experiment, and thereby performing it in the laboratory will provide the strongest evidence to date that quantum mechanics permits computation beyond what is possible classically. It has been predicted that we will reach such a level of experimental complexity near the 20-30 photon level, thus it is important to move beyond the small scale demonstrations of 3 or 4 photons performed to date. The two main obstacles which have hindered the field moving towards larger BosonSampling experiments are access to multi-photon sources and low loss interferometric networks. In this proposal we will make use of state-of-the-art photon sources based on light emitting quantum dots coupled to photonic crystal waveguides which have demonstrated coupling efficiencies of over 98% to waveguide structures. Finally, to tackle photon loss we will take full advantage of high quality and low loss free-space optical components to build an interferometric network. The optical modes will be encoded as separate temporal modes, thus reducing the experimental complexity of the interferometer. We aim to perform a 10 photon BosonSampling experiment by the end of this two year fellowship.",
+    "totalCost": "200194,8",
+    "ecMaxContribution": "200194,8",
+    "coordinator": "KOBENHAVNS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 200195
+        }
+    },
+    "calculatedTotalContribution": 200195
+}

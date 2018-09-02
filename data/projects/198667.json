@@ -1,0 +1,23 @@
+{
+    "rcn": "198667",
+    "acronym": "SFSysCellBio",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Slow-Fast Systems in Cellular Biology",
+    "startDate": "30/08/2016",
+    "endDate": "29/08/2018",
+    "objective": "Mathematical modelling has emerged as an important tool to handle the structural complexity of cellular processes and to gain better understanding of their  functioning and dynamics. We propose to develop methods for the mathematical analysis of ODE models arising in cell biology. We focus on models of great biomedical importance, i.e. cell division cycle, NF-kB signalling pathway, and the p53 system. Pertinent mathematical questions of biological interest are: existence and stability of equilibria, periodic oscillations, switching phenomena, and bifurcations.\n \nOften the analysis of such models relies heavily on computational approaches but qualitative analysis  is also very important. Detailed models of individual pathways or the cell division cycle are too large for theoretical analysis. However, there is evidence from simulations that often only a small or moderate number of components of a large systems play essential roles, while other parts have  almost negligible roles. This allows the systematic use of perturbation methods. In particular slow-fast dynamical systems, i.e. systems with solutions varying on very different timescales are abundant in biology in general and in cellular biology in particular. \n\nThe approach in this project relies strongly on novel dynamical systems methods for systems with multiple time scale dynamics, known as geometric singular perturbation theory (GSPT). Interestingly, the models under investigation do not have the standard form covered by the existing theory.  Due to these difficulties GSPT has not been applied  systematically in this area. An extended version of GSPT -  using hierarchies of local approximations  - will be developed for  the specific models. The project will lead to better understanding of cell-cyle and signaling pathway models. \n\nThese issues and the methods to resolve them are of great importance also for other models in cellular biology and also for slow-fast dynamical systems in general.",
+    "totalCost": "178156,8",
+    "ecMaxContribution": "178156,8",
+    "coordinator": "TECHNISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 178157
+        }
+    },
+    "calculatedTotalContribution": 178157
+}

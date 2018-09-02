@@ -1,0 +1,28 @@
+{
+    "rcn": "198777",
+    "acronym": "MapCOM",
+    "topics": "ERC-PoC-2015",
+    "title": "Geographic mapping of radio signals",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2016",
+    "objective": "MapCOM will transition the fundamental research carried out in the COOPNET project (the PIís Starting Grant Project) to concrete applications related to power-efficient and scalable resource allocation for cellular networks, in particular for 5G communications. The key idea is to harness uncertain location information to build statistical radio maps, which can be used to predict radio signal quality and perform long-term proactive resource allocation. This will reduce operating costs for operators, provide better user experience for high-throughput applications, and enable new services and applications where low latency, reliable, and scalable communication is key (e.g., autonomous vehicles). Our COOPNET research has indicated the importance of explicitly accounting for various sources of uncertainty. We are now ready to establish the innovation potential of this research for commercial and societal benefit. \n\nFunded by the Western Sweden Innovation Office, we have already taken initial steps in this direction and have established  possible innovation potential through meetings with Ericsson and Alcatel-Lucent, two equipment manufacturers. In this ERC Proof of Concept, we plan to demonstrate the technology and determine the market potential by: (i) confirming that the performance gains seen in theory also hold up in the real world; (ii) identifying possible market applications starting with telecom equipment manufacturers and telecom operators, but also other ICT industries. This analysis will allow us to identify, together with industrial actors, where the market value of the COOPNET concept lies. If successful, telecom equipment manufacturers and/or telecom operators will be able to provide the COOPNET functionality as part of their future products and services, giving them a significant advantage over competitors. We also expect this to be a first step towards multiple possible market applications to be identified in various areas of the ICT industries.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "IMCG SWEDEN AB",
+    "participantCountries": "SE",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 66250
+        },
+        "964482447": {
+            "orgId": "964482447",
+            "orgName": "IMCG SWEDEN AB",
+            "ecContrib": 83750
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

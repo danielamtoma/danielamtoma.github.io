@@ -1,0 +1,83 @@
+{
+    "rcn": "199579",
+    "acronym": "Cloud-LSVA",
+    "topics": "ICT-16-2015",
+    "title": "Cloud Large Scale Video Analysis",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Cloud-LSVA will create Big Data Technologies to address the open problem of a lack of software tools, and hardware platforms, to annotate petabyte scale video datasets. The problem is of particular importance to the automotive industry. CMOS Image Sensors for Vehicles are the primary area of innovation for camera manufactures at present. They are the sensor that offers the most functionality for the price in a cost sensitive industry. By 2020 the typical mid-range car will have 10 cameras, be connected, and generate 10TB per day, without considering other sensors. Customer demand is for Advanced Driver Assistance Systems (ADAS) which are a step on the path to Autonomous Vehicles. The European automotive industry is the world leader and dominant in the market for ADAS. The technologies depend upon the analysis of video and other vehicle sensor data. Annotations of road traffic objects, events and scenes are critical for training and testing computer vision techniques that are the heart of modern ADAS and Navigation systems. Thus, building ADAS algorithms using machine learning techniques require annotated data sets. Human annotation is an expensive and error-prone task that has only been tackled on small scale to date. Currently no commercial tool exists that addresses the need for semi-automated annotation or that leverages the elasticity of Cloud computing in order to reduce the cost of the task. Providing this capability will establish a sustainable basis to drive forward automotive Big Data Technologies. Furthermore, the computer is set to become the central hub of a connected car and this provides the opportunity to investigate how these Big Data Technologies can be scaled to perform lightweight analysis on board, with results sent back to a Cloud Crowdsourcing platform, further reducing the complexity of the challenge faced by the Industry. Car manufacturers can then in turn cyclically update the ADAS and Mapping software on the vehicle benefiting the consumer.",
+    "totalCost": "4604431,25",
+    "ecMaxContribution": "4604431,25",
+    "coordinator": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+    "coordinatorCountry": "ES",
+    "participants": "VALEO SCHALTER UND SENSOREN GMBH;DUBLIN CITY UNIVERSITY;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;TASS INTERNATIONAL MOBILITY CENTER BV;IBM IRELAND LIMITED;INTEL DEUTSCHLAND GMBH;UNIVERSITY OF LIMERICK;TOMTOM INTERNATIONAL BV;INTEL CORPORATION;INTEMPORA;EUROPEAN ROAD TRANSPORT TELEMATICSIMPLEMENTATION COORDINATION ORGANISATION - INTELLIGENT TRANSPORT SYSTEMS & SERVICES EUROPE;TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "participantCountries": "DE;IE;FR;NL;BE",
+    "projectParticipants": {
+        "973132131": {
+            "orgId": "973132131",
+            "orgName": "TOMTOM INTERNATIONAL BV",
+            "ecContrib": 339125
+        },
+        "999783657": {
+            "orgId": "999783657",
+            "orgName": "INTEL CORPORATION",
+            "ecContrib": 0
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 399688
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 280602
+        },
+        "999809071": {
+            "orgId": "999809071",
+            "orgName": "UNIVERSITY OF LIMERICK",
+            "ecContrib": 161919
+        },
+        "955552336": {
+            "orgId": "955552336",
+            "orgName": "FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",
+            "ecContrib": 935125
+        },
+        "999892588": {
+            "orgId": "999892588",
+            "orgName": "DUBLIN CITY UNIVERSITY",
+            "ecContrib": 386375
+        },
+        "991165983": {
+            "orgId": "991165983",
+            "orgName": "VALEO SCHALTER UND SENSOREN GMBH",
+            "ecContrib": 708500
+        },
+        "998072965": {
+            "orgId": "998072965",
+            "orgName": "INTEMPORA",
+            "ecContrib": 274438
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 384941
+        },
+        "937654090": {
+            "orgId": "937654090",
+            "orgName": "TASS INTERNATIONAL MOBILITY CENTER BV",
+            "ecContrib": 201000
+        },
+        "999785112": {
+            "orgId": "999785112",
+            "orgName": "EUROPEAN ROAD TRANSPORT TELEMATICSIMPLEMENTATION COORDINATION ORGANISATION - INTELLIGENT TRANSPORT SYSTEMS & SERVICES EUROPE",
+            "ecContrib": 344219
+        },
+        "967538432": {
+            "orgId": "967538432",
+            "orgName": "INTEL DEUTSCHLAND GMBH",
+            "ecContrib": 188500
+        }
+    },
+    "calculatedTotalContribution": 4604432
+}

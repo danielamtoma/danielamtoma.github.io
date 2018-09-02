@@ -1,0 +1,23 @@
+{
+    "rcn": "197203",
+    "acronym": "eMurmur",
+    "topics": "PHC-12-2015-1",
+    "title": "eMurmur, a software based, clinically tested medical device for automated heart murmur detection",
+    "startDate": "01/07/2015",
+    "endDate": "31/10/2015",
+    "objective": "The auscultation of the heart using a stethoscope is the standard examination method worldwide to screen for heart defects by identifying murmurs. It requires that examining physicians have acute hearing and extensive experience since there is no currently available technology that can perform this test. An accurate diagnosis remains challenging for various reasons including noise, high heart rates, and distinguishing innocent from pathological murmurs.\n\nSince objective screening tools are unavailable, the risk of human error increases and current reliance on subjective screening creates issues of consistency, accuracy and objectivity. For example, up to 70% of asymptomatic children who are referred to specialist evaluation or echocardiography because of a suspected murmur are not suffering from heart disease. The result is a high number of patients undergoing unnecessary heart testing. The unnecessary costs, in addition to patient anxiety and inconvenience, in the US alone amount to over a Billion annually.\n\nCSD Labs' medical device eMurmur is a clinically tested screening tool for the objective detection of heart murmurs. eMurmur analyses and classifies heart sounds acquired via electronic stethoscopes. The system is comprised of an app that runs on a mobile device and a server-based heart sound analysis software. The app pairs with a commercially available electronic stethoscope, receives and sends the acquired heart sounds to the server for analysis and displays the results to the health care professional on their mobile device. eMurmur can be utilized by medical professionals performing auscultation in their daily routine right at the patients side.\nMoreover, eMurmur offers medical professionals the capacity to retrieve a PDF report containing all of the above results and additional patient information optionally provided by the user, enabling full documentation of the auscultation and integration into electronic patient files.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "CSD LABS GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "930166660": {
+            "orgId": "930166660",
+            "orgName": "CSD LABS GMBH",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

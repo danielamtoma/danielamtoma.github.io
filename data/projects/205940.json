@@ -1,0 +1,53 @@
+{
+    "rcn": "205940",
+    "acronym": "Q-RAPIDS",
+    "topics": "ICT-10-2016",
+    "title": "Quality-Aware Rapid Software Development",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "Context. Software quality is an essential competitive factor for the success of IT companies nowadays. Recent technological breakthroughs such as cloud technologies, the emergence of IoT and technologies such as 5¨G, pose demanding quality challenges in software development.\n\nProblem. Optimal software quality asks for the appropriate integration of quality requirements (QRs) in the software life-cycle.However, software development methodologies still provide limited support to QR management which is utterly important in rapid software development processes (RSDP): faster and more frequent release cycles should not compromise software quality.\n\nConcept. Q-Rapids defines an empirical-based, data-driven quality-aware rapid software development methodology. QRs are incrementally elicited and refined based on data gathered both during development and at runtime. This data is elaborated into quality-related key indicators presented to decision makers through a strategic dashboard with advanced capabilities. Selected QRs are integrated with functional requirements for their unified treatment in the RSDP.\n\nOutcome. A TRL7 validated Q-Rapids framework, including cutting-edge tools and methods to smartly manage QRs along with functional requirements in a similar rapid and holistic manner.\n\nImpact. Increase of software quality levels through continuous data gathering and analysis. Significant productivity increase to the software life-cycle by means of smooth and tool-supported integration of QRs in the RSDP. Shorter time to market due to reduction of quality-related maintenance efforts and more informed decision making in the planning of release cycles. Impact will be measured through 11 project indicators with defined target values. \n\nConsortium. 3 research organisations,1 SME, 2 mid-caps and 1 corporative with balanced geographical distribution. The consortium combines long research tradition in software development and cutting-edge technological knowhow in versatile ICT sectors",
+    "totalCost": "4997590",
+    "ecMaxContribution": "4997590",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "BITTIUM WIRELESS OY;OULUN YLIOPISTO;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;SOFTEAM;NOKIA SOLUTIONS AND NETWORKS OY;ITTI SP ZOO",
+    "participantCountries": "FI;DE;FR;PL",
+    "projectParticipants": {
+        "999844670": {
+            "orgId": "999844670",
+            "orgName": "OULUN YLIOPISTO",
+            "ecContrib": 711625
+        },
+        "999647372": {
+            "orgId": "999647372",
+            "orgName": "BITTIUM WIRELESS OY",
+            "ecContrib": 761809
+        },
+        "999925471": {
+            "orgId": "999925471",
+            "orgName": "NOKIA SOLUTIONS AND NETWORKS OY",
+            "ecContrib": 875219
+        },
+        "999969509": {
+            "orgId": "999969509",
+            "orgName": "ITTI SP ZOO",
+            "ecContrib": 626750
+        },
+        "999779001": {
+            "orgId": "999779001",
+            "orgName": "SOFTEAM",
+            "ecContrib": 449500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 824562
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 748125
+        }
+    },
+    "calculatedTotalContribution": 4997590
+}

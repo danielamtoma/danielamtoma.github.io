@@ -1,0 +1,23 @@
+{
+    "rcn": "195376",
+    "acronym": "FEEC discretizations",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Structure-preserving discretization of hierarchically-structured rotating covariant shallow-water equations using finite element exterior calculus",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "Accurate and reliable simulations of weather, ocean and climate require computational models that result from structure-preserving ñ e.g. mass or energy conserving ñ discretizations of the equations of geophysical fluid dynamics (GFD). This research project aims to derive, implement and evaluate various structure-preserving discretizations (of different order of accuracy) of the nonlinear shallow-water equations, which are suitable for weather/ocean/climate applications. The derivations will rely on a novel form of covariant equations of GFD that I have formulated using Differential Geometry, in which the equations are split into metric-free (topological) and metric-dependent parts. Based on the systematic discretization I have introduced for the split linear shallow-water equations, this project intends to extend this approach also to the split nonlinear case and to derive structure-preserving discretizations that preserve in the discrete case, too, the splitting into topological and metric terms. As the topological terms require less mathematical structure, we expect an advantage in terms of easiness of discretization and efficiency of implementation.\nTo derive corresponding discrete equations, we apply finite element exterior calculus (FEEC) as recently Cotter and Thuburn, whose resulting discretizations of conventional covariant nonlinear shallow-water equations fulfil many desirable properties for geophysical applications. Moreover, compared to the split form I proposed, their discrete equations show a similar, however not identical, structure. We study the differences and use their derivations as guideline for ours. To implement and test the various models, we use the software libraries Firedrake and FEniCS. Besides a general ìdiscretization recipeî to derive structure-preserving models, this project will provide open-source software which will be of practical use for the geophysical model community.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

@@ -1,0 +1,43 @@
+{
+    "rcn": "207244",
+    "acronym": "VISORSURF",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "VisorSurf - A Hardware Platform for Software-driven Functional Metasurfaces",
+    "startDate": "01/01/2017",
+    "endDate": "30/06/2020",
+    "objective": "Metasurfaces, thin film planar, artificial structures, have recently enabled the realization of novel electromagnetic (EM) and optical components with engineered functionalities. These include total EM radiation absorption, filtering and steering of light and sound, as well as nano-antennas for sensors and implantable devices. Nonetheless, metasurfaces are presently non-adaptive and non-reusable, restricting their applicability to a single, static functionality per structure (e.g., steering light towards a fixed direction). Moreover, designing a metasurface remains a task for specialized researchers, limiting their accessibility from the broad engineering field. VISORSURF proposes a hardware platform-the HyperSurface-that can host metasurface functionalities described in software. The HyperSurface essentially merges existing metasurfaces with nanonetworks, acting as a reconfigurable metasurface whose properties can be changed via a software interface. This control is achieved by a network of miniaturized controllers, incorporated into the structure of the metasurface. The controllers receive programmatic directives and perform simple alterations on the metasurface structure, adjusting its EM behavior. The required end-functionality is described in well-defined, reusable software modules, adding the potential for hosting multiple functionalities concurrently and adaptively. VISORSURF will study in depth the novel and unexplored theoretical capabilities of the HyperSurface concept. Two experimental prototypes will be implemented: a switch-based fabric array as the control medium; and a Graphene based, making use of its exquisite properties to provide finer control. A real pilot-application will demonstrate the HyperSurface potential to adapt to changes in their environment, to interconnect to smart control loops and make use of Information Technology (IT) programming concepts and algorithms in crafting the EM behavior of materials.",
+    "totalCost": "5748000",
+    "ecMaxContribution": "5748000",
+    "coordinator": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+    "coordinatorCountry": "EL",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;AALTO KORKEAKOULUSAATIO SR;UNIVERSITAT POLITECNICA DE CATALUNYA;SIGNALGENERIX LIMITED;UNIVERSITY OF CYPRUS",
+    "participantCountries": "DE;FI;ES;CY",
+    "projectParticipants": {
+        "999835843": {
+            "orgId": "999835843",
+            "orgName": "UNIVERSITY OF CYPRUS",
+            "ecContrib": 1962250
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 1226750
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 648250
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 434250
+        }
+    },
+    "calculatedTotalContribution": 4271500
+}

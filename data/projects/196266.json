@@ -1,0 +1,23 @@
+{
+    "rcn": "196266",
+    "acronym": "ASC",
+    "topics": "Space-SME-2014-1",
+    "title": "Amorphous Speculative Compression",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2015",
+    "objective": "Camera located outside the protective environment of Earth's atmosphere and magnetic fields is exposed to the very harsh radiation. Space based electronic components are produced in a different way, and much more expensive, than the ones built for use on our planet. To make situation even worse, the processing power of radiation hardened microprocessors is much worse, than what we normally expect from the CPU. Long distances, that space brings and radiation also diminish the possible communication rate, while radiation problems with storage devices complicates even storing the filmed material for later compression and transmission. Because of all these problems, humanity was never even close to be able to establish a decent video link with some other celestial object. To overcome this problem, we developed a different type of picture and video compression method.\n\nASC compression is a lossy type of compression, that differs from other types of lossy compression because it removes the main amount of data before any complex mathematical functions are executed. Other types of compression perform a complex transform first and remove the less important data later. This makes standard compression types much more resource hungry, than the ASC compression.\n\nUnlike jpeg and mpeg compression, where compression is done in squares, that are always positioned at the same positions of the picture, ASC method builds the picture around the most prominent points of it. This helps the encoder to easily find similar patterns in different pictures or parts of one picture but also removes the block appearance at high levels of compression. At high levels of compression, the picture simply looses more and more details. Testing so far has proven the truth of our expectation, that the quality of the picture doesn't deteriorate fast with increasing compression.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "UROS KEJZAR",
+    "coordinatorCountry": "SI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "937860118": {
+            "orgId": "937860118",
+            "orgName": "UROS KEJZAR",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

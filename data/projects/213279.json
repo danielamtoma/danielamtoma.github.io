@@ -1,0 +1,23 @@
+{
+    "rcn": "213279",
+    "acronym": "VoLTE-DM",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "VoLTE device management platform: enabler for the transition to full-LTE mobile networks and more efficient use of the scarce radio spectrum",
+    "startDate": "01/12/2017",
+    "endDate": "31/05/2018",
+    "objective": "Voice over LTE (VoLTE) technology allows a voice call to be placed over an LTE/4G network. VoLTE is aimed at removing the shortcomings related to LTE networks:\n(1) it aims to eliminate the need to have voice on one network (2G/3G) and data on another (LTE), thus losing the need for parallel infrastructure (operational costs reduced by 30%)\n(2) a VoLTE call utilises 50-75% less radio spectrum, meaning that more of the scarce spectrum can be freed up for providing new innovative services.\n\nHowever, delivering VoLTE services has proved to be more difficult than anticipated. Deployment of VoLTE currently increases operatorsí operational costs at an alarming rate, largely because it is difficult and expensive to configure and manage service parameters for different phone models and phone firmware versions. As a result, large-scale deployment of VoLTE is hindered and the challenges related to the operation of parallel networks and inefficient use of radio spectrum remain unsolved.\n\nTrivoreís VoLTE device management (DM) platform is an enabler for faster and more cost-efficient roll-out of VoLTE over LTE networks. The main task of VoLTE DM server is to configure the correct VoLTE settings on devices attached to the network. Our solution provides 75-90% cost savings in VoLTE deployment and operations, faster service roll-out, more efficient use of radio spectrum and investment payback time of 6-12 months. \n\nThe core product (client, server, user interfaces, and standard protocols) is ready and was piloted/ certified by mobile network provider and device manufacturer ZTE in 2016 (TRL6). Now we need to start preparing pilots with mobile operators. We have commercial contacts with more than 100 mobile network operators (28 of which are using our other product). We could meet our sales objectives by serving these potential customers alone. We aim to deploy our solution at 100 mobile network operators, generate cumulative revenues of Ä78 million and create 58 jobs by 2023.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "TRIOVRE OY",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "912142023": {
+            "orgId": "912142023",
+            "orgName": "TRIOVRE OY",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

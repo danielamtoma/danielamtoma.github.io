@@ -1,0 +1,23 @@
+{
+    "rcn": "196219",
+    "acronym": "TCN TimeAnalyzer",
+    "topics": "ICT-37-2014-1",
+    "title": "TimeAnalyzer in real-time networks",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2016",
+    "objective": "TCN TimeAnalyzerô is a unique application providing worst-case (and best-case) timing predictions of a switched Ethernet network by analyzing a model of the network.\n\nA central part in TCN TimeAnalyzerô is the computational engine that implements a set of formulas that allows the computation of upper bounds on frame latency, jitter and maximum frame buffer space required in each switch. The formulas are a result of applying real-time scheduling analysis to packet forwarding in a packet switched Ethernet network. These formulas constitute a computational model which allows the prediction of how the limited speed of physical network devices and contention among different packets for the same network resources gives rise to latency, jitter, etc. for a specific packet forwarded between two nodes in the network. The computational analysis engine will incorporate models of every component used in the network and also every other entity that compete for the same network resources as the packet under observation.\n\nTCN TimeAnalyzerô builds simulation models of how different configuration parameters and packet scheduling mechanisms of certain switches will affect worst case traffic situations.\n\nA feasibility study shall be developed verifying the technological/practical as well as economic viability of the innovation.\nActivities will focus on innovation activities such as demonstration, testing, prototyping, piloting, scaling-up, design aiming to bring the product to industrial readiness and maturity for market introduction. It will also include some research to further develop the computational engine.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "TIME-CRITICAL NETWORKS AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "938570837": {
+            "orgId": "938570837",
+            "orgName": "TIME-CRITICAL NETWORKS AB",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

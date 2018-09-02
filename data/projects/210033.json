@@ -1,0 +1,23 @@
+{
+    "rcn": "210033",
+    "acronym": "COGTOM",
+    "topics": "ERC-2016-COG",
+    "title": "Cognitive tomography of mental representations",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2022",
+    "objective": "Internal models are fundamental to our understanding of how the mind constructs percepts, makes decisions, controls movements, and interacts with others. Yet, we lack principled quantitative methods to systematically estimate internal models from observable behaviour, and current approaches for discovering their mental representations remain heuristic and piecemeal. I propose to develop a set of novel 'doubly Bayesian' data analytical methods, using state-of-the-art Bayesian statistical and machine learning techniques to infer humans' internal models formalised as prior distributions in Bayesian models of cognition. This approach, cognitive tomography, takes a series of behavioural observations, each of which in itself may have very limited information content, and accumulates a detailed reconstruction of the internal model based on these observations. I also propose a set of stringent, quantifiable criteria which will be systematically applied at each step of the proposed work to rigorously assess the success of our approach. These methodological advances will allow us to track how the structured, task-general internal models that are so fundamental to humans' superior cognitive abilities, change over time as a result of decay, interference, and learning. We will apply cognitive tomography to a variety of experimental data sets, collected by our collaborators, in paradigms ranging from perceptual learning, through visual and motor structure learning, to social and concept learning. These analyses will allow us to conclusively and quantitatively test our central hypothesis that, rather than simply changing along a single 'memory strength' dimension, internal models typically change via complex and consistent patterns of transformations along multiple dimensions simultaneously. To facilitate the widespread use of our methods, we will release and support off-the-shelf usable implementations of our algorithms together with synthetic and real test data sets.",
+    "totalCost": "1179462",
+    "ecMaxContribution": "1179462",
+    "coordinator": "KOZEP-EUROPAI EGYETEM",
+    "coordinatorCountry": "HU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999480338": {
+            "orgId": "999480338",
+            "orgName": "KOZEP-EUROPAI EGYETEM",
+            "ecContrib": 1179462
+        }
+    },
+    "calculatedTotalContribution": 1179462
+}

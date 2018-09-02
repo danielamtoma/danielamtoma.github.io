@@ -1,0 +1,23 @@
+{
+    "rcn": "207413",
+    "acronym": "CRYOMATH",
+    "topics": "ERC-2016-COG",
+    "title": "Cryo-electron microscopy: mathematical foundations and algorithms",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2022",
+    "objective": "The importance of understanding the functions of the basic building blocks of life, such as proteins, cannot be overstated (as asserted by two recent Nobel prizes in Chemistry), as this understanding unravels the mechanisms that control all organisms. The critical step towards such an understanding is to reveal the structures of these building blocks. A leading method for resolving such structures is cryo-electron microscopy (cryo-EM), in which the structure of a molecule is recovered from its images taken by an electron microscope, by using sophisticated mathematical algorithms (to which my group has made several key mathematical and algorithmic contributions). Due to hardware breakthroughs in the past three years, cryo-EM has made a giant leap forward, introducing capabilities that until recently were unimaginable, opening an opportunity to revolutionize our biological understanding. As extracting information from cryo-EM experiments completely relies on mathematical algorithms, the methodís deep mathematical challenges that have emerged must be solved as soon as possible. Only then cryo-EM could realize its nearly inconceivable potential. These challenges, for which no adequate solutions exist (or none at all), focus on integrating information from huge sets of extremely noisy images reliability and efficiently. Based on the experience of my research group in developing algorithms for cryo-EM data processing, gained during the past eight years, we will address the three key open challenges of the field ñ a) deriving reliable and robust reconstruction algorithms from cryo-EM data, b) developing tools to process heterogeneous cryo-EM data sets, and c) devising validation and quality measures for structures determined from cryo-EM data. The fourth goal of the project, which ties all goals together and promotes the broad interdisciplinary impact of the project, is to merge all our algorithms into a software platform for state-of-the-art processing of cryo-EM data.",
+    "totalCost": "1751250",
+    "ecMaxContribution": "1751250",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1751250
+        }
+    },
+    "calculatedTotalContribution": 1751250
+}

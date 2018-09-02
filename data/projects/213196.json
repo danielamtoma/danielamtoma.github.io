@@ -1,0 +1,48 @@
+{
+    "rcn": "213196",
+    "acronym": "COTTON",
+    "topics": "SESAR-ER3-03-2016",
+    "title": "Capacity Optimisation in TrajecTory-based OperatioNs",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2019",
+    "objective": "Capacity Management proposed by SESAR 2020 is achieved by applying advanced airspace management processes materialised in the management of Dynamic Airspace Configurations (DAC) solution. DAC solution develops sector design, sector configurations and opening schemes processes to optimise the use of the available capacity and balance the ATC workload. Flight Centric ATC solution strengthens Capacity Management by providing additional flexibility and cost-effectiveness as it proposes that controllers are no longer in charge of managing the entire traffic within a given sector. Capacity Management processes benefit from combining these two solutions increasing flexibility in case of ìsuddenî demand/capacity changes.\nTrajectory-Based Operations (TBO) allows obtaining reliable information related to trajectory uncertainty thanks to the better reliability of the available trajectory information. Assessment and definition of a proper use of this trajectory uncertainty information within Capacity Management processes will significantly enforce its effectiveness. Optimisation of the Capacity Management processes can be achieved not only incorporating the abovementioned trajectory uncertainty into their associated demand and capacity model, but also developing trajectory-based complexity metrics more suitable to the most innovative aspects of DAC and Flight Centric solutions.\nCOTTON aim is to maximise the effectiveness of the Capacity Management processes in TBO taking full advantage of the available trajectory information. Three sub-objectives are identified:\n1. Improve the use of trajectory-based complexity and workload assessment to support Capacity Management enabled by Trajectory-Based Operations (TBO) including uncertainty.\n2. Identify and promote the benefits of Trajectory-Based Operations to develop innovative demand/capacity models based on Dynamic Airspace Configuration and Flight Centric ATC solutions.\n3. Explore DAC and Flight Centric ATC solutions integration.",
+    "totalCost": "1008342,5",
+    "ecMaxContribution": "622522,5",
+    "coordinator": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+    "coordinatorCountry": "ES",
+    "participants": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;ECOLE NATIONALE DE L AVIATION CIVILE;UNIVERSIDAD POLITECNICA DE MADRID;TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "BE;DE;FR;ES;NL",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 100750
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 82250
+        },
+        "997605619": {
+            "orgId": "997605619",
+            "orgName": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+            "ecContrib": 191022
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        },
+        "996375756": {
+            "orgId": "996375756",
+            "orgName": "ECOLE NATIONALE DE L AVIATION CIVILE",
+            "ecContrib": 119438
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 129062
+        }
+    },
+    "calculatedTotalContribution": 622522
+}

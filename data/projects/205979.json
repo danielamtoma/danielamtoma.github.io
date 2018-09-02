@@ -1,0 +1,58 @@
+{
+    "rcn": "205979",
+    "acronym": "DITAS",
+    "topics": "ICT-06-2016",
+    "title": "DITAS: Data-intensive applications Improvement by moving daTA and computation in mixed cloud/fog environmentS",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "There is an increasing need to develop data intensive applications able to manage more and more amounts of data coming from distributed and heterogeneous sources effectively, quickly, correctly, and securely. However, the current adoption of Cloud Computing paradigm is not fully appropriate to store and analyse such data: latency, security, and compliance are still significant barriers.  At the same time, Fog Computing has emerged as a paradigm promising to fully exploit the potential of the edge of the network involving traditional devices as well as new generation of smart devices, which can process data closer to where they are produced and/or consumed but which cannot ensure the same reliability and scalability as cloud computing offers.\nThe goal of DITAS is to propose a framework, composed by an SDK and an execution environment, which aims to overcome the barriers that now hamper the adoption of Cloud Computing and increase the adoption of Fog computing by exploiting the full potential of these two paradigms in a synergic way. This will support the development and execution of data-intensive application that are now ñ and even more in the future ñ crucial for organizations and companies that want to manage their data in an efficient, reliable, scalable, and secure manner.\nAbstractions provided in DITAS with Data Virtualization and Data Utility will expose the data to be managed by the application in terms of Virtual Data Containers which hide the complexity of the underlying infrastructure composed of heterogeneous data sources, smart devices, traditional servers, and sensor networks Distribution could also change dynamically. Conversely, Virtual Data Containers offer to developers the possibility to express requirements on data in terms of performance, quality, security and privacy thus to focus only on the application logic, leaving to the DITAS execution environment the responsibility of finding, processing, and delivering the data according to user needs",
+    "totalCost": "4890066,25",
+    "ecMaxContribution": "4420187,5",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "CLOUDSIGMA AG;TECHNISCHE UNIVERSITAET BERLIN;IDEKO S COOP;OSPEDALE SAN RAFFAELE SRL;POLITECNICO DI MILANO;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+    "participantCountries": "CH;DE;ES;IT;EL;IL",
+    "projectParticipants": {
+        "999546007": {
+            "orgId": "999546007",
+            "orgName": "IDEKO S COOP",
+            "ecContrib": 547500
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 970000
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 568750
+        },
+        "969018264": {
+            "orgId": "969018264",
+            "orgName": "CLOUDSIGMA AG",
+            "ecContrib": 0
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 542500
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 526250
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 768938
+        },
+        "953176030": {
+            "orgId": "953176030",
+            "orgName": "OSPEDALE SAN RAFFAELE SRL",
+            "ecContrib": 496250
+        }
+    },
+    "calculatedTotalContribution": 4420188
+}

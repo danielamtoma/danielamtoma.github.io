@@ -1,0 +1,28 @@
+{
+    "rcn": "200543",
+    "acronym": "TAME-Plasmons",
+    "topics": "ERC-CoG-2015",
+    "title": "a Theoretical chemistry Approach to tiME-resolved molecular Plasmonics",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "Ultrafast spectroscopy is a powerful tool able to disclose the atomistic real-time motion picture of the basic chemical events behind technology and Life, such as catalytic reactions or photosynthetic light harvesting. Nowadays, by cleverly harnessing the interaction of the studied molecules with plasmons (collective electron excitations supported, e.g., by metal nanoparticles) it is becoming possible to focus these investigations on specific nanoscopic regions, such as a portion of a catalytic surface or of a photosynthetic membrane. This coupling can also produce new quantum effects such as molecule-plasmon hybrid excitations. On the other hand, it makes the real-time molecular evolution and its perturbation by light more complex, and thus calls for new theoretical treatments. The available ones are unable to tackle this complexity, because they consist of phenomenological models focused on field enhancements or on generic features of the various plasmon-molecule coupling regimes. The goal of TAME-Plasmons is to develop a theoretical chemistry approach to directly simulate the real time evolution of molecules interacting with plasmons and light. Our approach lifts the current theoretical limitations by coupling a real-time quantum chemical description of the molecules with a time-dependent electromagnetic description of plasmons, rooted in our previous work on steady-state molecular plasmonics. We will implement this approach in an open-source software, accessible also to non-specialists. We will address current open issues such as the controversial nature of plasmon-aided frequency up-conversion by noble gases and the interpretation of sub-molecularly resolved photoemission induced by scanning tunneling microscopy. We will also anticipate questions that may arise along with progress in the field, for example how to engineer energy transfer paths in photosynthetic light harvesting proteins by exploiting the coupling to plasmons.",
+    "totalCost": "1432890",
+    "ecMaxContribution": "1432890",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI PADOVA",
+    "coordinatorCountry": "IT",
+    "participants": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "999995602": {
+            "orgId": "999995602",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PADOVA",
+            "ecContrib": 916622
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 516268
+        }
+    },
+    "calculatedTotalContribution": 1432890
+}

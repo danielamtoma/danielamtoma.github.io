@@ -1,0 +1,53 @@
+{
+    "rcn": "200254",
+    "acronym": "SecureCloud",
+    "topics": "EUB-1-2015",
+    "title": "Secure Big Data Processing in Untrusted Clouds",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "SecureCloud addresses the confidentiality, integrity and availability of applications executed in the cloud. Data at rest or in transit on the network is already nowadays protected by encryption. The main problem that we face is how to ensure the confidentiality of data while being processed. Our approach is based on upcoming hardware extensions of commodity CPUs like Intel's Secure Guard Extensions (SGX). By the help of these hardware extensions, we reduce the trusted computing base dramatically by excluding from it the millions of lines of source code of the cloud stack, operating systems and hypervisor. This permits us to  ensure the confidentiality of computations even if the computers are under a different administrative control (like a cloud provider) or there is no physical security of the computers. Moreover, we ensure the confidentiality even if attackers would take control of the cloud stack, the hypervisor or the operating systems. As long as the hardware extensions of the CPU can be trusted, we can ensure the confidentiality of the computations. \nSecureCloud focuses on ensuring the confidential and dependable processing of Big Data. To keep the trusted computing base small, we use the concept of microservices: only the application logic that processes data (e.g., operators) is protected while all functionality that, e.g., shuffles and stores encrypted data is outside the trusted computing base. By monitoring the microservices, we can restart services that run on compromised hosts. We will evaluate and demonstrate our approach in the context of smart grids. In this use case context, we need to run across a physically distributed computing infrastructure with no or little physical security and partly untrusted administrators. We need to process large volumes of data and this big data processing would benefit by partial offloading into the cloud. In SecureCloud, we will show how to do this in a secure fashion even if  clouds are untrusted.",
+    "totalCost": "2285377",
+    "ecMaxContribution": "1499627",
+    "coordinator": "TECHNISCHE UNIVERSITAET DRESDEN",
+    "coordinatorCountry": "DE",
+    "participants": "SYNC LAB SRL;CLOUDSIGMA AG;IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;UNIVERSITE DE NEUCHATEL;CHOCOLATE CLOUD APS;THE ISRAEL ELECTRIC CORPORATION LIMITED",
+    "participantCountries": "IT;CH;UK;DK;IL",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 499252
+        },
+        "968797007": {
+            "orgId": "968797007",
+            "orgName": "SYNC LAB SRL",
+            "ecContrib": 201250
+        },
+        "969018264": {
+            "orgId": "969018264",
+            "orgName": "CLOUDSIGMA AG",
+            "ecContrib": 0
+        },
+        "998827237": {
+            "orgId": "998827237",
+            "orgName": "THE ISRAEL ELECTRIC CORPORATION LIMITED",
+            "ecContrib": 100000
+        },
+        "999870181": {
+            "orgId": "999870181",
+            "orgName": "UNIVERSITE DE NEUCHATEL",
+            "ecContrib": 0
+        },
+        "934064120": {
+            "orgId": "934064120",
+            "orgName": "CHOCOLATE CLOUD APS",
+            "ecContrib": 199500
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 499624
+        }
+    },
+    "calculatedTotalContribution": 1499626
+}

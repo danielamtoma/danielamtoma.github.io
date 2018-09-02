@@ -1,0 +1,63 @@
+{
+    "rcn": "194174",
+    "acronym": "RePhrase",
+    "topics": "ICT-09-2014",
+    "title": "REfactoring Parallel Heterogeneous Resource-Aware Applications  - a Software Engineering Approach",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2018",
+    "objective": "'The RePhrase project directly meets the challenge of ICT-09-2014, by studying the critically important issue of improving software development practice for parallel data-intensive applications. Data-intensive applications are among the most important and commonly encountered kinds of industrial application, and are increasingly important with the emergence of 'big data' problems. Emerging heterogeneous parallel architectures form ideal platforms to exploit the massive-scale inherent parallelism that is usually implicit in such applications, but which is often difficult to extract in practice. \nSolving this problem will bring major economic benefits to the software industry.\nTo address this challenge, RePhrase brings together a team of leading industrial and academic researchers, software engineers, systems developers, parallelism experts and domain experts from large companies, SMEs and leading universities. It aims to develop a novel software engineering methodology for developing complex, large-scale parallel data-intensive applications, supported by a very high-level programming model. We will exploit advanced pattern-based programming, refactoring, testing, debugging, verification and adaptive-scheduling technologies to build an interoperable tool-chain supporting our methodology, based on but significantly extending existing industrial and research tools. These tools will significantly ease, and even automate, all phases of typical software development, from design and implementation to long-term maintenance and software evolution. The generality of our approach will be ensured by targeting C\\\\ and the most popular low-level parallel programming models, such as the C\\\\11/14/17 standards, pthreads, OpenMP, Intel TBB, OpenCL and CUDA.  We will demonstrate our approach on a range of large-scale data-intensive applications, taken from different domains, including bio-medical image processing, data analysis, machine learning, computer vision and railway diagnosis.'",
+    "totalCost": "3574027",
+    "ecMaxContribution": "3574027",
+    "coordinator": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ST ANDREWS",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITA DEGLI STUDI DI TORINO;UNIVERSITA DI PISA;SOFTWARE COMPETENCE CENTER HAGENBERG GMBH;PROGRAMMING RESEARCH LTD;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD;CENTRO DE INVESTIGACION BIOMEDICA EN RED;UNIVERSIDAD CARLOS III DE MADRID;EVOPRO INNOVATION KFT",
+    "participantCountries": "IT;AT;UK;IL;ES;HU",
+    "projectParticipants": {
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 837625
+        },
+        "997154957": {
+            "orgId": "997154957",
+            "orgName": "CONSORCIO CENTRO DE INVESTIGACION BIOMEDICA EN RED M.P.",
+            "ecContrib": 0
+        },
+        "999663765": {
+            "orgId": "999663765",
+            "orgName": "SOFTWARE COMPETENCE CENTER HAGENBERG GMBH",
+            "ecContrib": 568960
+        },
+        "951477269": {
+            "orgId": "951477269",
+            "orgName": "EVOPRO INNOVATION KFT",
+            "ecContrib": 194690
+        },
+        "941006216": {
+            "orgId": "941006216",
+            "orgName": "PROGRAMMING RESEARCH LTD",
+            "ecContrib": 551416
+        },
+        "999861936": {
+            "orgId": "999861936",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TORINO",
+            "ecContrib": 124500
+        },
+        "999862712": {
+            "orgId": "999862712",
+            "orgName": "UNIVERSITA DI PISA",
+            "ecContrib": 277375
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 355416
+        },
+        "999984253": {
+            "orgId": "999984253",
+            "orgName": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ST ANDREWS",
+            "ecContrib": 580920
+        }
+    },
+    "calculatedTotalContribution": 3490902
+}

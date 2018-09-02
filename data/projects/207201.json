@@ -1,0 +1,48 @@
+{
+    "rcn": "207201",
+    "acronym": "REASSURE",
+    "topics": "DS-01-2016",
+    "title": "Robust and Efficient Approaches to Evaluating Side Channel and Fault Attack Resilience",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Implementing cryptography on embedded devices is an ongoing challenge: every year new implementation flaws are discovered and new attack paths are being used by real life adversaries. Whilst cryptography can guarantee many security properties, it crucially depends on the ability to keep the used keys secret even in face of determined adversaries. \nOver the last two decades a new type of adversary has emerged, able to obtain, from the cryptographic implementation, side channel leakage such as recording of response times, power or EM signals, etc. To account for such adversaries, sophisticated security certification and evaluation methods (Common Criteria, EMVCo, FIPSÖ) have been established to give users assurance that security claims have withstood independent evaluation and testing. Recently the reliability of these evaluations has come into the spotlight: the Taiwanese citizen card proved to be insecure, and Snowdenís revelations about NSA's tampering with FIPS standards eroded public confidence.\nREASSURE will (1) improve the efficiency and quality of all aspects of certification using a novel, structured detect-map-exploit approach that will also improve the comparability of independently conducted evaluations, (2) cater for emerging areas such as the IoT by automating leakage assessment practices in order to allow resistance assessment without immediate access to a testing lab, (3) deliver tools to stakeholders, such as reference data sets and an open-source leakage simulator based on instruction-level profiles for a processor relevant for the IoT, (4) improve existing standards by actively pushing the novel results to standardization bodies.\nREASSURE's consortium is ideal to tackle such ambitious tasks. It features two major circuits manufacturers (NXP, MORPHO), a highly respected side channel testing lab (Riscure), an engaged governmental representative (ANSSI), and two of the most prominent research institutions in this field (UCL, University of Bristol).",
+    "totalCost": "3528635",
+    "ecMaxContribution": "3478747,5",
+    "coordinator": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+    "coordinatorCountry": "BE",
+    "participants": "IDEMIA IDENTITY & SECURITY FRANCE;NXP SEMICONDUCTORS GERMANY GMBH;RISCURE BV;UNIVERSITY OF BRISTOL;SECRETARIAT GENERAL DE LA DEFENSE ET DE LA SECURITE NATIONALE",
+    "participantCountries": "FR;DE;NL;UK",
+    "projectParticipants": {
+        "999766294": {
+            "orgId": "999766294",
+            "orgName": "IDEMIA IDENTITY & SECURITY FRANCE",
+            "ecContrib": 653456
+        },
+        "996753474": {
+            "orgId": "996753474",
+            "orgName": "NXP SEMICONDUCTORS GERMANY GMBH",
+            "ecContrib": 671780
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 550070
+        },
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 887215
+        },
+        "951370957": {
+            "orgId": "951370957",
+            "orgName": "RISCURE BV",
+            "ecContrib": 674976
+        },
+        "951386089": {
+            "orgId": "951386089",
+            "orgName": "SECRETARIAT GENERAL DE LA DEFENSE ET DE LA SECURITE NATIONALE",
+            "ecContrib": 41250
+        }
+    },
+    "calculatedTotalContribution": 3478747
+}

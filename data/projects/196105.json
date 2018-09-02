@@ -1,0 +1,23 @@
+{
+    "rcn": "196105",
+    "acronym": "GEOCA",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Geometry and Computational Anatomy",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2017",
+    "objective": "The past decades have brought fascinating technological improvements of medical imaging techniques. This rapid development is accompanied by a growing need for computer based algorithms to align and extract markers from medical images. The days of heuristically engineered computer algorithms are, however, over; competitive, state-of-the-art medical imaging software must be based on rigorous mathematics to ensure accuracy, efficiency, and stability.\n\nOur research project lies at the forefront of computational anatomy (CA), a truly interdisciplinary field within medical imaging, combining differential equations theory, numerical analysis, computer vision, statistical methods, and differential geometry. CA is an emerging field that harbours a wealth of challenging problems. In particular, to develop image registration algorithms capable of handling heavily nonlinear deformations. In this project we construct image registration algorithms beyond state-of-the-art, adept of tasks where today's methods are inadequate. This is achieved by combining the knowledge of Professor Stig Larsson (scientist in charge) with the knowledge of Dr Klas Modin (experienced researcher).\n\nLarsson is a world-leading expert on numerical methods for partial differential equations. He has a large network of international collaborators as well as close connections to the medical imaging industry in Sweden.\n\nModin has extensive expertise on geometric integration (GI), infinite-dimensional geometry, and CA, acquired via two post-doctoral positions at top research groups in two third countries. He thus brings state-of-the-art knowledge to the European research area. In particular, Modin's mastery of large deformation diffeomorphic metric matching (LDDMM) and Euler--Arnold equations is essential; it provides the link between image registration and PDEs. This link is the basis of the new, exciting methodology in the project: to apply state-of-the-art numerical PDE techniques to image registration.",
+    "totalCost": "185857,2",
+    "ecMaxContribution": "185857,2",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 185857
+        }
+    },
+    "calculatedTotalContribution": 185857
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "213149",
+    "acronym": "MOICANA",
+    "topics": "ICT-30-2017",
+    "title": "Monolithic cointegration of QD-based InP on SiN as a versatile platform for the demonstration of high performance and low cost PIC transmitters",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "MOICANA aims to deploy a versatile, low-cost and large-volume manufacturing transmitter PIC technology by monolithically integrating InP QD laser structures on a passive SiN waveguide platform and demonstrating a whole new series of high-performance cooler-less transmitter modules for a broad range of applications. MOICANA will invest in the best-in-class materials for the active and passive photonic functions, synergizing InP QD laser structures with the low-loss and temperature-tolerant SiN waveguide platform. It will grow InP QD layers directly on Si substrates and will proceed to Selective Area Growth on SiN chips, aiming at the fabrication and deployment of a whole new series of transmitter modules as monolithically integrated PICs: a) 25GbE SFP28 pluggable Directly Modulated Laser (DML), b) a WDM 100GbE QSFP28 pluggable DML, c) Externally Modulated Lasers, and d) a coherent tunable laser source. In this effort, MOICANA will deploy sophisticated integrated InP QD-on-SiN structures including 25Gb/s DMLs, low-linewidth DFBs and electro-optic modulators and will combine them into versatile and highly scalable transmitter layouts exploiting the rich and low-loss passive function portfolio of the SiN waveguide platform. Its transmitter PIC prototypes will be demonstrated in a broad range of applications in the areas of Data Center Interconnects, 5G mobile fronthaul and coherent communications, highlighting its versatility perspectives and its powerful credentials to form the transmitter technology for many-years-to-go.  Finally, MOICANAís technology will be supported by an EDA software design kit library and PDKs that will be deployed withint its duration, paving the way for a standardized and fabless PIC transmitter eco-system with immediate market take-up capabilities.",
+    "totalCost": "3999302,5",
+    "ecMaxContribution": "3999302,25",
+    "coordinator": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+    "coordinatorCountry": "EL",
+    "participants": "VLC PHOTONICS SOCIEDAD LIMITADA;UNIVERSITAET KASSEL;MELLANOX TECHNOLOGIES LTD - MLNX;III-V LAB;TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY;ADVA OPTICAL NETWORKING SE;LIGENTEC SA",
+    "participantCountries": "ES;DE;IL;FR;CH",
+    "projectParticipants": {
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 676250
+        },
+        "999811787": {
+            "orgId": "999811787",
+            "orgName": "ADVA OPTICAL NETWORKING SE",
+            "ecContrib": 253750
+        },
+        "949158387": {
+            "orgId": "949158387",
+            "orgName": "VLC PHOTONICS SOCIEDAD LIMITADA",
+            "ecContrib": 278835
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 425000
+        },
+        "990560024": {
+            "orgId": "990560024",
+            "orgName": "MELLANOX TECHNOLOGIES LTD - MLNX",
+            "ecContrib": 348750
+        },
+        "999971546": {
+            "orgId": "999971546",
+            "orgName": "III-V LAB",
+            "ecContrib": 478858
+        },
+        "999852624": {
+            "orgId": "999852624",
+            "orgName": "UNIVERSITAET KASSEL",
+            "ecContrib": 836221
+        },
+        "916439026": {
+            "orgId": "916439026",
+            "orgName": "LIGENTEC SA",
+            "ecContrib": 701638
+        }
+    },
+    "calculatedTotalContribution": 3999302
+}

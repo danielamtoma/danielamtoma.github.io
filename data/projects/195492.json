@@ -1,0 +1,23 @@
+{
+    "rcn": "195492",
+    "acronym": "ZERO-TRAIN-BCI",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Combining constrained based learning and transfer learning to facilitate Zero-training Brain-Computer Interfacing",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "Brain-Computer Interfaces (BCI) enable the user to control a computer or external device directly through his or her brain signals. This interface can be used for restoring communication for completely paralysed patients, to restore motor function through prostheses but also for non-medical applications such as gaming.\nThe initial BCI prototypes relied on voluntary modulation of the brain signals to control the computer. Nowadays, it is the computer that is taught via machine learning algorithms how to interpret the brain signals and this reduced the training times to 15-30 minutes for a calibration session. During such a calibration session, the user is instructed to perform specific mental tasks, such that the recorded brain signals can be labelled with the userís intention. This labelled data-set is then used to train the machine learning algorithm. Unfortunately, due to non-stationarity in the observed brain signals, re-calibration is often required to ensure the accuracy of the interface. Obviously, frequent (re-)calibration is not desired. Especially for patients with a limited attention span, it must be reduced to a minimum. \nThe BCI community has invested much effort in reducing the need for calibration data. However, despite this effort, true zero-training BCIs that do not require calibration are rather rare. For the Event Related Potential (ERP) based BCI, we were able to develop such a true zero-training BCI based on the concepts of constraint based learning and transfer learning. That decoder was designed specifically for the ERP based BCI and cannot be ported directly to other paradigms. Hence, the goal in this project is to expand on this idea and to develop a true-zero training Motor Imagery (MI) based BCI by investigating novel machine learning methods based on constraint based learning and transfer learning.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

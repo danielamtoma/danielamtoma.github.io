@@ -1,0 +1,103 @@
+{
+    "rcn": "205935",
+    "acronym": "PJ31 DIGITS",
+    "topics": "SESAR.IR-VLD.Wave1-27-2015",
+    "title": "Initial Trajectory Information Sharing",
+    "startDate": "01/09/2016",
+    "endDate": "31/12/2019",
+    "objective": "'DIGITS will contribute to reinforce the ìEnabling Aviation infrastructureî key feature of SESAR 2020 by demonstrating the ATM benefits that can be realized through the use of downlinked 4D trajectory data in ground systems.\nThe project proposes, in a close to operational environment and in fully representative operational conditions, a set of tightly coordinated development and demonstration actions of key airborne and ground stakeholders in Europe.\nThe airborne industry will develop up to certification the worldwide first airborne unit capable of downlinking ADS-C data according to ATN Baseline 2 standard in compliance with PCP AF#6 (Initial Trajectory Information Sharing).\nThe ANSPs and ground industry will build up pre-operational system platforms capable of receiving and processing ADS-C data including the Extended Projected Profile (EPP). These platforms will e.g. display the shared trajectory data to controllers on their working positions and integrate it in the Flight data Processing systems for the enhancement of the ground Trajectory Prediction.\nDIGITS plans to have revenue flights becoming available gradually as from mid 2018. These commercial flights will downlink ADS-C data to be processed in ATM ground systems of four participating ANSPs, covering together a substantial part of European airspace and air traffic under a variety of operational conditions. \nDemonstrations will be done in a shadow mode system set-up, supported by further offline analysis and post-processing. Project partners will make significant efforts to assess together with operational experts the benefits of initial trajectory sharing, its system impacts, potential human performance impacts and opportunities for further ATM performance improvements.\nDIGITS will bridge the gap between the early validation of the Trajectory Based Operations concept achieved in SESAR 1, also known as ìinitial 4Dî, with successful flight trials in 2012 and 2014, and the deployment of PCP AF#6.\n'",
+    "totalCost": "27802829,78",
+    "ecMaxContribution": "11550558,05",
+    "coordinator": "AIRBUS SAS",
+    "coordinatorCountry": "FR",
+    "participants": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH;SAAB AKTIEBOLAG;STIFTELSEN SINTEF;ENAV SPA;HONEYWELL AEROSPACE;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD;THALES AVS FRANCE SAS;INDRA SISTEMAS SA;NATS (EN ROUTE) PUBLIC LIMITED COMPANY;UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY;LEONARDO - SOCIETA PER  AZIONI;NAVIAIR;LUFTFARTSVERKET;DFS DEUTSCHE FLUGSICHERUNG GMBH;AIRTEL ATN LIMITED",
+    "participantCountries": "AT;SE;NO;IT;FR;BE;HR;ES;UK;IE;DK;DE",
+    "projectParticipants": {
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 304682
+        },
+        "997604649": {
+            "orgId": "997604649",
+            "orgName": "AIRTEL ATN LIMITED",
+            "ecContrib": 170515
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 0
+        },
+        "927009019": {
+            "orgId": "927009019",
+            "orgName": "UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY",
+            "ecContrib": 0
+        },
+        "924128216": {
+            "orgId": "924128216",
+            "orgName": "CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD",
+            "ecContrib": 0
+        },
+        "999936820": {
+            "orgId": "999936820",
+            "orgName": "DFS DEUTSCHE FLUGSICHERUNG GMBH",
+            "ecContrib": 277261
+        },
+        "999959615": {
+            "orgId": "999959615",
+            "orgName": "SAAB AKTIEBOLAG",
+            "ecContrib": 0
+        },
+        "999963010": {
+            "orgId": "999963010",
+            "orgName": "AIRBUS SAS",
+            "ecContrib": 5118657
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 818985
+        },
+        "923041331": {
+            "orgId": "923041331",
+            "orgName": "HONEYWELL AEROSPACE",
+            "ecContrib": 1401536
+        },
+        "998956635": {
+            "orgId": "998956635",
+            "orgName": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH",
+            "ecContrib": 0
+        },
+        "999984447": {
+            "orgId": "999984447",
+            "orgName": "THALES AVS FRANCE SAS",
+            "ecContrib": 2132767
+        },
+        "923671249": {
+            "orgId": "923671249",
+            "orgName": "NAVIAIR",
+            "ecContrib": 46841
+        },
+        "997542763": {
+            "orgId": "997542763",
+            "orgName": "NATS (EN ROUTE) PUBLIC LIMITED COMPANY",
+            "ecContrib": 390298
+        },
+        "998197513": {
+            "orgId": "998197513",
+            "orgName": "ENAV SPA",
+            "ecContrib": 423538
+        },
+        "942346077": {
+            "orgId": "942346077",
+            "orgName": "LUFTFARTSVERKET",
+            "ecContrib": 62384
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 403094
+        }
+    },
+    "calculatedTotalContribution": 11550558
+}

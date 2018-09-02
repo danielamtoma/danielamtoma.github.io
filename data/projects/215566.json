@@ -1,0 +1,17 @@
+{
+    "rcn": "215566",
+    "acronym": "STRUDEL",
+    "topics": "MSCA-IF-2017",
+    "title": "Information Theory beyond Communications: Distributed Representations and Deep Learning",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2020",
+    "objective": "Deep learning is an enormously successful recent paradigm with record-breaking performance in numerous applications. Individual autoencoders (AEs) of a multilayer neural network are trained to convert  high-dimensional inputs into low-dimensional codes that allow the reconstruction of the input.  Although some explanations appear to be solidly grounded, there is no mathematical understanding of the AE learning process. This project is a collaborative endeavor of researchers with strong complementary backgrounds. Its main innovation is the idea to capitalize on powerful and fertile concepts from information theory (expertise of researcher) in order to advance the state of the art in deep learning (expertise of supervisor at TC). The innovative research work is motivated by our recent insight that there is an intimate relationship between  AEs, generative adversarial nets and the information bottleneck method. This method is a model-free approach for extracting information from observed variables that are relevant to hidden representations or labels and will serve as basic building block for an information theory of representation learning. The planned objectives are split into 3 workpackages: 1) information-theoretic criteria and statistical tradeoffs for extracting good representations, 2) structured architectures/algorithms for learning, 3) use of stochastic complexity to assess the descriptive power (model selection) of deep neural networks.  Accomplishing the challenging goals of this proposal requires a variety of methodologies with a rich potential for transfer of knowledge between the involved fields of information theory, statistics and machine learning. Our new framework is expected to bridge the gap between theory and practice to facilitate a more thorough understanding and hence improved design of deep learning architectures. The fellow researcher is coordinating the LIA Lab of the CNRS (started in 2017) where he is collaborating  with the supervisor at TC",
+    "totalCost": "171349,2",
+    "ecMaxContribution": "171349,2",
+    "coordinator": "CENTRALESUPELEC",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

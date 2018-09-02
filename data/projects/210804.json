@@ -1,0 +1,23 @@
+{
+    "rcn": "210804",
+    "acronym": "TEC1p",
+    "topics": "ERC-2016-ADG",
+    "title": "Big-Data Analytics for the Thermal and Electrical Conductivity of Materials from First Principles",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "'Thermal conductivity (TC) is a key characteristic of many materials, particularly those used in the energy and environment sectors (thermoelectrics, thermal-barrier coatings, catalysis, etc.). However, TC is largely unknown ? of the 225,000 identified inorganic semiconductor and insulator crystals, only 100 have any TC data available.\n\nBy combining a novel ab initio molecular dynamics TC theory  and big-data analytics (machine learning, compressed sensing, subgroup discovery), we will generate quantitative values and understanding of TC (and electrical conductivity (EC)) for most of these 225,000 materials, as well as for materials not yet discovered.\n\nTEC1p will develop and deploy five key approaches. Individually these are already novel for materials science, but their combination in TEC1p enables a true breakthrough. \nThese five components are: \n     1) Ab initio theory of TC 3 (advanced density-functional theory, seamlessly linked to size- and time-converged statistical mechanics).\n     2) Ab initio theory of EC (advanced Ö; see #1).\n     3) Compressed sensing to identify a set of physical parameters that describe the TC and EC behaviour and to derive predictive equations that work for all materials.5 \n     4) Active learning to build a systematic big-data database of materials, their TCs and ECs.\n     5) Subgroup discovery to recognise trends and anomalies in the big data, enhance the active learning, and elucidate the underlying physical mechanisms.\n\nIn analogy to Mendeleevís table of the elements, we will build maps that arrange existing and predicted materials according to their TC and EC properties.\n \nThe methods that we will develop and the extensive calculations that we will execute are both innovative and timely. They will greatly progress scientific knowledge of the physical properties of materials. The impact of the concepts, methodology, and results will be far reaching for materials science, novel materials discovery, engineering,'",
+    "totalCost": "2048183",
+    "ecMaxContribution": "2048183",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 2048183
+        }
+    },
+    "calculatedTotalContribution": 2048183
+}

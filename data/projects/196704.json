@@ -1,0 +1,53 @@
+{
+    "rcn": "196704",
+    "acronym": "EarthServer-2",
+    "topics": "EINFRA-1-2014",
+    "title": "Agile Analytics on Big Data Cubes",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "EarthServer-2 makes Agile Analytics on Big Earth Data Cubes of sensor, image, simulation, and statistics data a commodity for non-experts and experts alike through\nï navigation, extraction, aggregation, and recombining of any-size space/time data cubes;\nï easy to install & maintain value-adding services extending the existing portfolio of data and compute centers;\nï based on open standards, in particular: the OGC Big Data standards and the forthcoming ISO SQL/MDA (ìMulti-Dimensional Arraysî) standard.\n\nIn the Joint Research Activity, the project will advance the existing, world-leading rasdaman Array Database technology wrt. query functionality, inter-federation data processing with automatic data and query distribution, tape archive integration, and 3D/4D visualization based on NASAís virtual globe technology.\n\nIn the Services Activity, large data centers (ECMWF, PML, MEEO/ESA, GeoScience Australia, JacobsUni) will set up water, air, weather, and planetary services on 3D & 4D data cubes up to Petabyte-size with user-tailored clients for both visual and textual ad-hoc mix&match.\n\nIn the Networking Activity, the project will advance open Big Data standards in OGC, RDA, and ISO (in particular: write ISO SQL/MDA). Further, all adequate channels will be used for strong dissemination & exploitation, specifically: writing a monograph explaining OGC Big Geo Data standards; scientific publications & active conference organization; Earth science data user workshops for each domain addressed; actively contributing technology & experience to GEO / GEOSS and further bodies; establish standardized Big Geo Data benchmark and run it against EarthServer-2 and further relevant systems.\n\nAltogether, EarthServer-2 will maintain and extend the lead in Big Earth Data services established in the highly successful EarthServer-1 project. Being already supported by ESA, rasdaman will form an enabling building block for COPERNICUS / Sentinel.",
+    "totalCost": "2839743,75",
+    "ecMaxContribution": "2839743",
+    "coordinator": "JACOBS UNIVERSITY BREMEN GGMBH",
+    "coordinatorCountry": "DE",
+    "participants": "PLYMOUTH MARINE LABORATORY;METEOROLOGICAL AND ENVIRONMENTAL EARTH OBSERVATION SRL;COMMUNICATION & INFORMATION TECHNOLOGIES EXPERTS ANONYMOS ETAIREIA SYMVOULEFTIKON KAI ANAPTYXIAKON YPIRESION;RASDAMAN GMBH;EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS;THE AUSTRALIAN NATIONAL UNIVERSITY",
+    "participantCountries": "UK;IT;EL;DE;AU",
+    "projectParticipants": {
+        "943112571": {
+            "orgId": "943112571",
+            "orgName": "COMMUNICATION & INFORMATION TECHNOLOGIES EXPERTS ANONYMOS ETAIREIA SYMVOULEFTIKON KAI ANAPTYXIAKON YPIRESION",
+            "ecContrib": 325750
+        },
+        "999916741": {
+            "orgId": "999916741",
+            "orgName": "EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS",
+            "ecContrib": 576875
+        },
+        "999897147": {
+            "orgId": "999897147",
+            "orgName": "JACOBS UNIVERSITY BREMEN GGMBH",
+            "ecContrib": 841618
+        },
+        "972352251": {
+            "orgId": "972352251",
+            "orgName": "RASDAMAN GMBH",
+            "ecContrib": 387500
+        },
+        "999484024": {
+            "orgId": "999484024",
+            "orgName": "PLYMOUTH MARINE LABORATORY",
+            "ecContrib": 314250
+        },
+        "972294439": {
+            "orgId": "972294439",
+            "orgName": "METEOROLOGICAL AND ENVIRONMENTAL EARTH OBSERVATION SRL",
+            "ecContrib": 393750
+        },
+        "999849132": {
+            "orgId": "999849132",
+            "orgName": "THE AUSTRALIAN NATIONAL UNIVERSITY",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 2839743
+}

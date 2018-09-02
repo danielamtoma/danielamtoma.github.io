@@ -1,0 +1,53 @@
+{
+    "rcn": "199487",
+    "acronym": "ARCFIRE",
+    "topics": "ICT-12-2015",
+    "title": "Large-scale RINA benchmark on FIRE",
+    "startDate": "01/01/2016",
+    "endDate": "30/06/2018",
+    "objective": "ARCFIRE will bring RINA from labs into the real-world. RINA, the Recursive InterNetwork Architecture, is an innovative ìback-to-basicsî network architecture that solves current limitations and facilitates full integration between distributed computing and networking. RINA addresses the challenges that drive the communications industry in moving from dedicated hardware to almost completely virtualised infrastructure. The next shift, 5G, on the horizon for 2020, will change the communication industry even more significantly. Now is the right time for ARCFIRE to provide experimental evidence of RINAís benefits, at large scale, in compelling and realistic business cases, thus motivating RINA adoption. \n\nARCFIRE will experimentally demonstrate RINAís key benefits integrating current EC investment in advanced networks (IRATI, PRISTINE) and Future Internet testbeds (FIRE\\) focusing on 5 goals: 1) Facilitate comparison of converged operator networks using RINA to operatorís current network designs; 2) Produce a robust RINA software suite ready for Europe to engage in large-scale deployments and long-living experiments; 3) Provide relevant experimental evidence of RINA benefits to network operators, their equipment vendors, application developers and end-users; 4) Build on the current EU Future Internet community and raise the number of organisations involved in RINA development and deployment; 5) Enhance the FIRE\\ infrastructure with ready to use RINA software. \n\nARCFIRE will have long-term sustainable impact on how we build infrastructure for the Networked Society. ARCFIREís deployed software suite will enable equipment vendors to shorten their innovation life cycle, network operators to run advanced networks addressing their needs in a future-proof fashion, European SMEís to find and exploit specialised markets and application developers to explore unseen opportunities. \n\nARCFIREís consortium has the experience and resources to achieve these goals and provide this impact.",
+    "totalCost": "1296870",
+    "ecMaxContribution": "1199995",
+    "coordinator": "L.M. ERICSSON LIMITED",
+    "coordinatorCountry": "IE",
+    "participants": "NEXTWORKS;THE TRUSTEES OF BOSTON UNIVERSITY;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;TELEFONICA INVESTIGACION Y DESARROLLO SA;FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA;IMINDS",
+    "participantCountries": "IT;US;BE;ES",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 316125
+        },
+        "999608184": {
+            "orgId": "999608184",
+            "orgName": "IMINDS",
+            "ecContrib": 0
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 195000
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 84870
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 293250
+        },
+        "999522145": {
+            "orgId": "999522145",
+            "orgName": "THE TRUSTEES OF BOSTON UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999946326": {
+            "orgId": "999946326",
+            "orgName": "L.M. ERICSSON LIMITED",
+            "ecContrib": 310750
+        }
+    },
+    "calculatedTotalContribution": 1199995
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "212151",
+    "acronym": "VIDEO",
+    "topics": "ERC-2017-PoC",
+    "title": "Versatile and Innovative Detector for Electron Optics",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2019",
+    "objective": "The VIDEO project will professionalize and integrate software and develop open standard file formats for electron microscopy based on results from the ERC Advanced Grant project IMAGINE, supplemented with results and support from other research groups and hardware vendors. Our goal is to combine these separate activities into an open software platform and to develop open standards, which will enable vendors and users to develop interoperable solutions in this area, and to explore business and sustainability models.\n\nOver the last 20 years, electron microscopy has developed from a technique that provides magnified images to become a complex ultra-high resolution analytical tool. Data sets are no longer single qualitative images, but collections of quantitative multi-channel signals. This new approach to using an electron microscope makes developing software to control the experiments and to process the resulting data an integral part of creating and improving electron microscopy techniques. \n\nRecently, pixelated detectors have been developed for scanning transmission electron microscopy. For the first time, they allow efficient capture of complete frames of scattered intensity for each scanned pixel. We have been using such novel pixelated detectors to measure nanoscale electromagnetic fields as part of the underlying ERC Advanced Grant IMAGINE. However, software support for these detectors is still in its infancy, with image capture and very basic analysis capabilities provided by the detector vendors and experimental one-off data analysis scripts developed by users.\n\nThe goal of the VIDEO project is to combine these efforts by creating full software support for pixelated STEM and finding a business model to sustain this open platform as a powerful starting point for an open, interoperable and standardized software platform for electron microscopy.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "FORSCHUNGSZENTRUM JULICH GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

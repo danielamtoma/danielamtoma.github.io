@@ -1,0 +1,73 @@
+{
+    "rcn": "206521",
+    "acronym": "CLOVER",
+    "topics": "MSCA-RISE-2016",
+    "title": "Robust Control, State Estimation and Disturbance Compensation for Highly Dynamic Environmental Mechatronic Systems",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "The main goal of the CLOVER project is to offer a novel methodology in an environmental mechatronic control system design relying on multidisciplinary knowledge. This methodology should allow aspects to be taken into account, such as controller robustness, indirect measurement of system states and parameters, and disturbances attenuation on the stage of establishing controller architecture. In addition, methods for tuning the control algorithms will be developed and based on the solution of optimization task considering control priorities, such as environment friendliness and energy efficiency. The implementation of the project CLOVER is based on intensive staff exchange that will lead to collaborative research and training between universities and industrial organizations from Germany, Austria, Belgium, Norway, UK, Mexico, and Japan. \nTo guarantee a strong focus of the project activities on real-world problems, the CLOVER concept is based on the R&D and training in three interfacing topics: ìMechatronic chassis systems of electric vehiclesî, ìMechatronic-based grid-interconnection circuitryî, and ìOffshore mechatronicsî, which will identify and facilitate collaborative learning and production of innovative knowledge. The CLOVER objectives will be achieved through intensive networking measures covering knowledge transfer and experience sharing between participants from academic and non-academic sectors, and professional advancement of the consortium members through intersectoral and international collaboration and secondments. In this regard, the CLOVER project is fully consistent with the targets of H2020-MSCA-RISE programme and will provide excellent opportunities for personal career development of participating staff and will lead to the creation of a strong European and international research group to create new environmental mechatronic systems.",
+    "totalCost": "828000",
+    "ecMaxContribution": "684000",
+    "coordinator": "TECHNISCHE UNIVERSITAET ILMENAU",
+    "coordinatorCountry": "DE",
+    "participants": "RED ROCK MARINE AS;TECHNISCHE UNIVERSITAET GRAZ;UNIVERSITETET I AGDER;UNIVERSITY OF LEEDS;SIEMENS INDUSTRY SOFTWARE NV;AVL LIST GMBH;HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN  FACHHOCHSCULE KEMPTEN;TENNECO AUTOMOTIVE EUROPE BVBA",
+    "participantCountries": "NO;AT;UK;BE;DE",
+    "projectParticipants": {
+        "999975426": {
+            "orgId": "999975426",
+            "orgName": "UNIVERSITY OF LEEDS",
+            "ecContrib": 45000
+        },
+        "999770950": {
+            "orgId": "999770950",
+            "orgName": "SIEMENS INDUSTRY SOFTWARE NV",
+            "ecContrib": 31500
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 31500
+        },
+        "951655458": {
+            "orgId": "951655458",
+            "orgName": "TENNECO AUTOMOTIVE EUROPE BVBA",
+            "ecContrib": 18000
+        },
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 63000
+        },
+        "998361734": {
+            "orgId": "998361734",
+            "orgName": "NATIONAL UNIVERSITY CORPORATION THEUNIVERSITY OF TOKYO",
+            "ecContrib": 0
+        },
+        "999865816": {
+            "orgId": "999865816",
+            "orgName": "UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO",
+            "ecContrib": 0
+        },
+        "999575204": {
+            "orgId": "999575204",
+            "orgName": "TECHNISCHE UNIVERSITAET ILMENAU",
+            "ecContrib": 157500
+        },
+        "954490089": {
+            "orgId": "954490089",
+            "orgName": "HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN  FACHHOCHSCULE KEMPTEN",
+            "ecContrib": 103500
+        },
+        "998822969": {
+            "orgId": "998822969",
+            "orgName": "UNIVERSITETET I AGDER",
+            "ecContrib": 193500
+        },
+        "924119001": {
+            "orgId": "924119001",
+            "orgName": "RED ROCK MARINE AS",
+            "ecContrib": 40500
+        }
+    },
+    "calculatedTotalContribution": 684000
+}

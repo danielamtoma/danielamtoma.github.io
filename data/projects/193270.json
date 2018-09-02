@@ -1,0 +1,68 @@
+{
+    "rcn": "193270",
+    "acronym": "MULTIMOT",
+    "topics": "PHC-32-2014",
+    "title": "Capture, dissemination and analysis of multiscale cell migration data for biological and clinical applications (MULTIMOT)",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2018",
+    "objective": "This proposal addresses the call topic ëAdvancing bioinformatics to meet biomedical and clinical needsí (PHC-32-2014), with the focus on the standardization, dissemination and meta-analysis of cell migration data. Cell migration is the fundamental process in medically highly relevant topics, including morphogenesis, immune function, wound healing, and cancer metastasis, and the study of cell migration thus has a direct impact on major clinical applications, especially regarding personalized treatment and diagnosis. Over the last few years, cell migration research has benefited enormously from advances in methodology and instrumentation, allowing multiplexing and multi-parameter post-processing of cell migration analyses to become widely used. As cell migration studies have thus de facto become both a high-content as well as a high-throughput science, an urgent yet largely unmet bioinformatics need has emerged in the form of intra- and inter-lab data management solutions, standardization and dissemination infrastructure, and novel approaches and algorithms for meta-analysis. The central goal of this project is therefore to construct a comprehensive, open and free data exchange ecosystem for cell migration data, based on the development of extensible community standards and a robust, future-proof repository that collects, annotates and disseminates these data in the standardized formats. The standards and repository will be supported by freely available and open source tools for data management, submission, extraction and analysis. Importantly, we will also demonstrate the application of large-scale integrative data analysis from cell migration studies through two proof-of-concept studies: guiding personalized cancer treatment from patient organoids, and providing patient-specific diagnosis based on peripheral blood leukocyte motility. This work will also establish the foundation for a cell migration science-based ELIXIR Node.",
+    "totalCost": "2999354",
+    "ecMaxContribution": "2999354",
+    "coordinator": "VIB",
+    "coordinatorCountry": "BE",
+    "participants": "WEIZMANN INSTITUTE OF SCIENCE;UNIVERSITEIT GENT;STICHTING KATHOLIEKE UNIVERSITEIT;UNIVERSITY OF DUNDEE;UNIVERSITAETSKLINIKUM ESSEN;Idea Bio-Medical Ltd.;KAROLINSKA INSTITUTET;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;THE FRANCIS CRICK INSTITUTE LIMITED",
+    "participantCountries": "IL;BE;NL;UK;DE;SE",
+    "projectParticipants": {
+        "997224506": {
+            "orgId": "997224506",
+            "orgName": "Idea Bio-Medical Ltd.",
+            "ecContrib": 62625
+        },
+        "999975523": {
+            "orgId": "999975523",
+            "orgName": "UNIVERSITY OF DUNDEE",
+            "ecContrib": 364520
+        },
+        "936426070": {
+            "orgId": "936426070",
+            "orgName": "THE FRANCIS CRICK INSTITUTE LIMITED",
+            "ecContrib": 133750
+        },
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 490680
+        },
+        "999604401": {
+            "orgId": "999604401",
+            "orgName": "UNIVERSITAETSKLINIKUM ESSEN",
+            "ecContrib": 347039
+        },
+        "999992110": {
+            "orgId": "999992110",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT",
+            "ecContrib": 420812
+        },
+        "999651931": {
+            "orgId": "999651931",
+            "orgName": "VIB",
+            "ecContrib": 576750
+        },
+        "999978530": {
+            "orgId": "999978530",
+            "orgName": "KAROLINSKA INSTITUTET",
+            "ecContrib": 340750
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 144053
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 118375
+        }
+    },
+    "calculatedTotalContribution": 2999354
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "202548",
+    "acronym": "GeneREFORM",
+    "topics": "ERC-StG-2015",
+    "title": "Genetically Encoded Multicolor Reporter Systems For Multiplexed MRI",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2021",
+    "objective": "In order to fully understand the complexity of biological processes that are reflected by simultaneous occurrences of intra and inter-cellular events, multiplexed imaging platforms are needed. Fluorescent reporter genes, with their ìmulticolorî imaging capabilities, have revolutionized science and their founders have been awarded the Nobel Prize. Nevertheless, the light signal source of these reporters, which restricts their use in deep tissues and in large animals (and potentially in humans), calls for alternatives. \nReporter genes for MRI, although in their infancy, showed several exceptionalities, including the ability to longitudinal study the same subject with unlimited tissue penetration and to coregister information from reporter gene expression with high-resolution anatomical images. Inspired by the multicolor capabilities of optical reporter genes, this proposal aims to develop, optimize, and implement genetically engineered reporter systems for MRI with artificial ìmulticolorî characteristics. Capitalizing on (i) the Chemical Exchange Saturation Transfer (CEST)-MRI contrast mechanism that allows the use of small bioorganic molecules as MRI sensors, (ii) the frequency encoding, color-like features of CEST, and on (iii) enzyme engineering procedures that allow the optimization of enzymatic activity for a desired substrate, a ìmulticolorî genetically encoded MRI reporter system is proposed. \nBy (a) synthesizing libraries of non-natural nucleosides (ìreporter probesî) to generate artificially ìcoloredî CEST contrast, and (b) performing directed evolution of deoxyribonucleoside kinase (dNK) enzymes (ìreporter genesî) to phosphorylate those nucleosides, the ìmulticolorî genetically encoded MRI ìreporter systemî will be created. The orthogonally of the obtained pairs of substrate (CEST sensor)/ enzyme (mutant dNK) will allow their simultaneous use as a genetically encoded reporter system for in vivo ìmulticolorî monitoring of reporter gene expression with MRI.",
+    "totalCost": "1478284",
+    "ecMaxContribution": "1478284",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 1478284
+        }
+    },
+    "calculatedTotalContribution": 1478284
+}

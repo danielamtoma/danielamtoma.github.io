@@ -1,0 +1,23 @@
+{
+    "rcn": "193738",
+    "acronym": "DCM",
+    "topics": "ERC-PoC-2014",
+    "title": "Distributed Cryptography Module",
+    "startDate": "01/11/2014",
+    "endDate": "30/04/2016",
+    "objective": "The DCM (Distributed Crypto Module) is a unique security system that provides a significant boost in server-side security, which will benefit almost every organisation today. The technology relies on a novel approach to protect cryptographic keys and authentication credentials that form the backbone of network and data security. Currently, the cryptographic keys and authentication credentials that reside on servers inside networks constitute single points of failure: it suffices for the attacker to obtain them and all is lost. This is due to the fact that all cryptographic techniques rely on the secrecy of the key; if the key is compromised then all is lost. Indeed, cryptography is rarely broken (even by the NSA); rather, it is bypassed by stealing the key! Server breaches are ubiquitous today and novel defenses are an acute need today in industry and government. \n\nIn the DCM, the key is first split and shared amongst two or more servers (using known secret sharing technology) and then using our novel approach, the cryptographic operations necessary are carried out without bringing the parts of the secret together. Rather, the servers run a secure protocol, based on secure multiparty computation, which has the security guarantee that even if an attacker breaks into all but one of the servers, and can run any malicious code that it wishes, it still cannot learn anything about the secret key or credential. By configuring the DCM servers independently (different OS, different admins, different defenses, etc.), a very high level of security is achieved.\n \nThe scope of the Proof of Concept DCM encapsulates the steps need to bring this groundbreaking technology to the market. A full business plan and market survey will be developed for the construction of a new company that will develop the DCM application and bring it to market. The first full version of a DCM will be ready for market a year after the company has been established (with limited versions earlier).",
+    "totalCost": "149776",
+    "ecMaxContribution": "149776",
+    "coordinator": "BAR ILAN UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999886574": {
+            "orgId": "999886574",
+            "orgName": "BAR ILAN UNIVERSITY",
+            "ecContrib": 149776
+        }
+    },
+    "calculatedTotalContribution": 149776
+}

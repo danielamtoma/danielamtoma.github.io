@@ -1,0 +1,73 @@
+{
+    "rcn": "194114",
+    "acronym": "UnCoVerCPS",
+    "topics": "ICT-01-2014",
+    "title": "Unifying Control and Verification of Cyber-Physical Systems",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "The proposed research effort provides methods for a faster and more efficient development process of safety- or operation-critical cyber-physical systems in (partially) unknown environments. Cyber-physical systems are very hard to control and verify because of the mix of discrete dynamics (originating from computing elements) and continuous dynamics (originating from physical elements). We present completely new methods for de-verticalisation of the development processes by a generic and holistic approach towards reliable cyber-physical systems development with formal guarantees. In order to guarantee that specifications are met in unknown environments and in unanticipated situations, we synthesise and verify controllers on-the-fly during system execution. This requires to unify control and verification approaches, which were previously considered separately by developers. For instance, each action of an automated car (e.g. lane change) is verified before execution, guaranteeing safety of the passengers. We will develop completely new methods, which are integrated in tools for modelling, control design, verification, and code generation that will leverage the development towards reliable and at the same time open cyber-physical systems. Our approach leverages future certification needs of open and critical cyber-physical systems. The impact of this project is far-reaching and long-term: UnCoVerCPS prepares the EU to be able to develop critical cyber-physical systems that can only be realised and certified when uncertainties in the environment are adequately considered. This is demonstrated by applying our ground-breaking methods to automated vehicles, human-robot collaborative manufacturing, and smart grids within a consortium that has a balanced participation of academic and industrial partners.",
+    "totalCost": "4932902,75",
+    "ecMaxContribution": "4932902,25",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "ROBERT BOSCH GMBH;ESTEREL TECHNOLOGIES SA;FUNDACION TECNALIA RESEARCH & INNOVATION;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;UNIVERSITAET KASSEL;UNIVERSITE JOSEPH FOURIER GRENOBLE 1;R.U.Robots Limited;POLITECNICO DI MILANO;UNIVERSITE GRENOBLE ALPES;GENERAL ELECTRIC DEUTSCHLAND HOLDING GMBH",
+    "participantCountries": "DE;FR;ES;UK;IT",
+    "projectParticipants": {
+        "999907429": {
+            "orgId": "999907429",
+            "orgName": "UNIVERSITE JOSEPH FOURIER GRENOBLE 1",
+            "ecContrib": 0
+        },
+        "999769883": {
+            "orgId": "999769883",
+            "orgName": "ESTEREL TECHNOLOGIES SA",
+            "ecContrib": 490760
+        },
+        "990434021": {
+            "orgId": "990434021",
+            "orgName": "GENERAL ELECTRIC DEUTSCHLAND HOLDING GMBH",
+            "ecContrib": 641206
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 369812
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 401225
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 642250
+        },
+        "996256446": {
+            "orgId": "996256446",
+            "orgName": "R.U.Robots Limited",
+            "ecContrib": 643031
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 508319
+        },
+        "999852624": {
+            "orgId": "999852624",
+            "orgName": "UNIVERSITAET KASSEL",
+            "ecContrib": 385755
+        },
+        "924833212": {
+            "orgId": "924833212",
+            "orgName": "UNIVERSITE GRENOBLE ALPES",
+            "ecContrib": 332049
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 518495
+        }
+    },
+    "calculatedTotalContribution": 4932902
+}

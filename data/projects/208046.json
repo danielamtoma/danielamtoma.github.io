@@ -1,0 +1,28 @@
+{
+    "rcn": "208046",
+    "acronym": "X-Pulse",
+    "topics": "JTI-CS2-2016-CFP03-LPA-01-15",
+    "title": "ZNMF Pulsed Jet-based Active Flow Control of the UHBR-induced Flow through High Fidelity CFD",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2020",
+    "objective": "The X-Pulse project aims at developing innovative active flow control strategies, based on synthetic pulsed jets, also referred as ZNMF, to mitigate the flow separation induced by UHBR powerplant installation on the suction side of the wing when the aircraft is operated at a relatively high angle of attack and low speed. The proposed technological solutions stand at a TRL4 level. Ultimately, they serve the improvement of the aerodynamic performances of the aircraft during these critical take-off, initial climbing and landing flight phases.\nThis project is divided into seven work packages. Six of them deal with technical tasks, the first one being devoted to the coordination. Each work package is subdivided into specific tasks of increasing complexity. Each task falls within the scope of either the ISAE or HIT09. Thus, ISAE and HIT09 offer to join their different skills to elaborate a work-plan based on well-defined responsibilities.\nThe major tasks are summarized below:\n1. Determination of a high fidelity predictive CFD methodology able to efficiently and accurately predict the flow field around a complex geometry representative of a UHBR powerplant-equipped aircraft for real flight conditions.\n2. Adaptation of this CFD methodology for the high fidelity prediction of the dynamics of ZNMF pulsed jets and of their impact on the previously predicted flow field, in particular in terms of control of the flow separation.\n3. Determination of the optimal ZNMF-based active flow control strategy to implement on the aircraft, able to suppress the flow separation and to improve the aerodynamics performances of the aircraft during take-off, initial climbing and landing. This optimization relies on a multi-objective optimization function, by analyzing the influence of the following parameters: actuation location, including single lane and multigrid, momentum coefficient, outlet geometries, actuation frequency and amplitude modulation.",
+    "totalCost": "329447,5",
+    "ecMaxContribution": "329447,5",
+    "coordinator": "INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L'ESPACE",
+    "coordinatorCountry": "FR",
+    "participants": "HIT09 SRL",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "986010045": {
+            "orgId": "986010045",
+            "orgName": "HIT09 SRL",
+            "ecContrib": 135362
+        },
+        "999892491": {
+            "orgId": "999892491",
+            "orgName": "INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L'ESPACE",
+            "ecContrib": 194085
+        }
+    },
+    "calculatedTotalContribution": 329447
+}

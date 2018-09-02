@@ -1,0 +1,23 @@
+{
+    "rcn": "196361",
+    "acronym": "PhotonCount",
+    "topics": "ERC-PoC-2014",
+    "title": "Imaging with Photon Counting: Reduced costs, increased dynamic range",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2016",
+    "objective": "Optical methods and fluorescent proteins to probe and manipulate cellular and subcellular processes have proven to be a major driving force behind many recent breakthroughs in biology and medicine. Recent developments in photonics have led to increased spatial and temporal resolution and now allow the study of single identified synaptic contacts between neurons as well as large-scale neuronal networks. Brain tissue strongly scatters light. Thereby, the amount of light emitted by fluorescent probes in small structures inside neuronal tissue that reaches the microscope objective is small. Fluorescence imaging in living tissue, as I use in my ERC-funded research program, is therefore limited by low signal-to-noise levels. One approach in increasing the level of such weak fluorescence is to increase the excitation power, but this has the undesirable effect of bleaching the fluorescence faster and damaging the cell. Another approach is to optimize the fluorescence collection by using high-end microscope objectives in the 20,000 eur range with improved light transmission, high numerical aperture and low magnification that can collect fluorescence more efficiently. Although these objectives brought a significant improvement to imaging applications, physical limitations in their design cannot offer anymore a similar qualitative improvement as previously. Since there is a great need to further improve biological imaging, the present proof of concept application aims to achieve this by developing advanced, but low-cost, electronics for the optical detection of weak fluorescence signals through Photon Counting, and bring this technology to the market.",
+    "totalCost": "147500",
+    "ecMaxContribution": "147500",
+    "coordinator": "STICHTING VU",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "954530344": {
+            "orgId": "954530344",
+            "orgName": "STICHTING VU",
+            "ecContrib": 147500
+        }
+    },
+    "calculatedTotalContribution": 147500
+}

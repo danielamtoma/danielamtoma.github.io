@@ -1,0 +1,23 @@
+{
+    "rcn": "211324",
+    "acronym": "SCARABEE",
+    "topics": "ERC-2016-ADG",
+    "title": "Scalable inference algorithms for Bayesian evolutionary epidemiology",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2022",
+    "objective": "Advances in sequencing technologies are currently providing an unprecedented opportunity to a detailed discovery of the mechanisms involved in the evolution and spread of microbes causing human infectious disease. Simultaneously the developers of statistical methods face an enormous challenge to cope with the wealth of data brought by this opportunity. We have very recently demonstrated the ability of our advanced computational approaches to deliver breakthroughs in understanding pathogen evolution and transmission in numerous highlight results published in Science, PNAS and top-ranking Nature journals. The rise of microbial Big Data gives a promise of a giant leap in making causal discoveries, however, the existing statistical methods are neither able to cope with the size and complexity of the emerging data sets nor designed to answer the novel biological questions they enable. To fulfil the promise of giant leaps SCARABEE will leverage scalable inference methods by a unique combination of machine learning algorithms and Bayesian statistical models for evolutionary epidemiology. We focus on central biological questions about adaptation, epistasis, genome evolution and transmission of microbes causing infectious disease. The Big Data combined with the novel inference methods will make it possible to answer a multitude of important questions that remain currently intractable. Through our close collaboration with the leading research centres in infectious disease epidemiology and genomics we expect the SCARABEE project to considerably advance understanding of the evolution and transmission of numerous pathogens that pose a major threat to human health, which will be important for reducing their disease burden in the future. Large-scale biological data will be used to benchmark the developed methods, which will be made publicly available as free software packages to benefit the wide community of microbiologists and infectious disease epidemiologists.",
+    "totalCost": "2499961",
+    "ecMaxContribution": "2499961",
+    "coordinator": "UNIVERSITETET I OSLO",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 2499961
+        }
+    },
+    "calculatedTotalContribution": 2499961
+}

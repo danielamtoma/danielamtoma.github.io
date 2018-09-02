@@ -1,0 +1,28 @@
+{
+    "rcn": "202554",
+    "acronym": "BRISC",
+    "topics": "ERC-StG-2015",
+    "title": "Bounded Rationality in Sensorimotor Coordination",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "Despite their many successes and great computational power and speed, why are machines still so blatantly outperformed by humans in uncertain environments that require flexible sensorimotor behavior like playing football or navigating a disaster zone? Answering this question requires understanding the mathematical principles of biological sensorimotor control and learning. Over the recent years Bayes-optimal actor models have widely become the gold standard in the mathematical understanding of sensorimotor processing in well-controlled laboratory tasks. However, these models quickly become intractable for real-world problems because they ignore the computational effort required to search for the Bayes-optimum. What is therefore needed is a framework of sensorimotor processing that takes the limited information-processing capacity of bounded rational actors into account and that explains their robust real-world performance. It is the aim of BRISC to establish such a framework by drawing out theoretical predictions and gathering experimental evidence in human motor control, in particular to understand (i) how single bounded rational actors deviate from Bayes-optimal behavior in motor tasks, (ii) how multiple bounded rational actors organize themselves to solve motor tasks that no individual can solve by themselves and (iii) how this drives the emergence of hierarchical control structures that simultaneously process multiple degrees of abstraction at different time scales. Understanding how abstract concepts are formed autonomously from the sensorimotor stream based on resource allocation principles will establish an essential missing link between high-level symbolic and low-level perceptual processing. These advances will provide a decisive step towards a framework for robust and flexible sensorimotor processing, which is not only essential for understanding the fundamental principles of intelligent behavior, but it is also of potentially great technological value.",
+    "totalCost": "1434250",
+    "ecMaxContribution": "1434250",
+    "coordinator": "UNIVERSITAET ULM",
+    "coordinatorCountry": "DE",
+    "participants": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "936119647": {
+            "orgId": "936119647",
+            "orgName": "UNIVERSITAET ULM",
+            "ecContrib": 1434250
+        },
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1434250
+}

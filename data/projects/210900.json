@@ -1,0 +1,23 @@
+{
+    "rcn": "210900",
+    "acronym": "BrainConquest",
+    "topics": "ERC-2016-STG",
+    "title": "Boosting Brain-Computer Communication with high Quality User Training",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "Brain-Computer Interfaces (BCIs) are communication systems that enable users to send commands to computers through brain signals only, by measuring and processing these signals. Making computer control possible without any physical activity, BCIs have promised to revolutionize many application areas, notably assistive technologies, e.g., for wheelchair control, and human-machine interaction. Despite this promising potential, BCIs are still barely used outside laboratories, due to their current poor reliability. For instance, BCIs only using two imagined hand movements as mental commands decode, on average, less than 80% of these commands correctly, while 10 to 30% of users cannot control a BCI at all.\nA BCI should be considered a co-adaptive communication system: its users learn to encode commands in their brain signals (with mental imagery) that the machine learns to decode using signal processing. Most research efforts so far have been dedicated to decoding the commands. However, BCI control is a skill that users have to learn too. Unfortunately how BCI users learn to encode the commands is essential but is barely studied, i.e., fundamental knowledge about how users learn BCI control is lacking. Moreover standard training approaches are only based on heuristics, without satisfying human learning principles. Thus, poor BCI reliability is probably largely due to highly suboptimal user training.\nIn order to obtain a truly reliable BCI we need to completely redefine user training approaches. To do so, I propose to study and statistically model how users learn to encode BCI commands. Then, based on human learning principles and this model, I propose to create a new generation of BCIs which ensure that users learn how to successfully encode commands with high signal-to-noise ratio in their brain signals, hence making BCIs dramatically more reliable. Such a reliable BCI could positively change human-machine interaction as BCIs have promised but failed to do so far.",
+    "totalCost": "1498751,25",
+    "ecMaxContribution": "1498751,25",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 1498751
+        }
+    },
+    "calculatedTotalContribution": 1498751
+}

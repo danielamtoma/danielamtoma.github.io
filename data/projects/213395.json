@@ -1,0 +1,23 @@
+{
+    "rcn": "213395",
+    "acronym": "e-See",
+    "topics": "ERC-2017-STG",
+    "title": "Single electron detection in Transmission Electron Microscopy",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2023",
+    "objective": "The ultimate goal of device miniaturization is to rely on a single charge provided by a single dopant atom: solotronics. Currently the gate length in a transistor cannot be reduced beyond 10-12 nm, as variability between nominally identical devices reaches unacceptable levels. Elaborate quantum transport experiments can monitor the presence and spin state of a single charge, but do not provide information about location and distribution (wavefunction) of the charge or the local chemical and crystallographic environment. The latter, however, determine why the charge is present at a specific location with a particular distribution. Scanning probe techniques can measure charges but are restricted to the near surface region. In contrast, the phase of an electron in transmission electron microscopy (TEM) can probe the sample volume and is sensitive to charge. The target of the e-See project is the first real time observation of the wavefunction associated to a single electron charge in the volume of a device with atomic resolution. I aim to implement low temperature quantum transport experiments in a TEM to allow simultaneous electrical manipulation of this charge. Combined visualization and manipulation of a single charge trapped by Coulomb blockade in a transistor will (i) identify the origins of device variability, and (ii) show how the local properties of the sample affect localization of a single charge and its wavefunction. The project impact involves understanding of variability, improving device design and creation of a new research field on low temperature electrical in situ TEM experiments. It will provide the tool to visualize a single charge wavefunction in any device, enabling ultimate device engineering: deterministic 3D atomic scale control of the position of charge localization. To this end, I will use electron holography and scanning TEM, develop a low temperature electrical TEM sample holder, and novel sample preparation.",
+    "totalCost": "1998958",
+    "ecMaxContribution": "1998958",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1998958
+        }
+    },
+    "calculatedTotalContribution": 1998958
+}

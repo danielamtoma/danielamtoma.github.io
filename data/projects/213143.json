@@ -1,0 +1,48 @@
+{
+    "rcn": "213143",
+    "acronym": "PICKPLACE",
+    "topics": "ICT-25-2016-2017",
+    "title": "Flexible, safe and dependable robotic part handling in industrial environments",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2020",
+    "objective": "Pick and place are basic operations in most robotic applications, whether in industrial setups (e.g., machine tending,\nassembling or bin picking) or in a service robotic domain (e.g., agriculture or at home). In some structured scenarios and\nwith certain types of parts, picking and placing is a mature process. However, that is not the case when it comes to\nmanipulating parts with high variability or in less structured environments.\nHandling systems are present in any logistics system to interface between the storage and the transportation systems. For\nnon-structured scenarios, picking, packing and unpacking systems do exist at laboratory level. However, they have not\nreached the market yet due to factors like the lack of efficiency, robustness and flexibility of currently available manipulation\nand perception technologies.\nThe market demands systems that allow for a reduction of costs in the supply chain, increasing the competitiveness for\nmanufacturers and bringing a cost reduction for consumers. Handling systems represent the highest impact in the short-tomidterm\nin warehouse-based systems (mainly at order picking and distribution centres) and in intra-logistics operations in\nfactories and retail.\nThe technology gap is the lack of flexible solutions that can handle objects of variable size, shape and weight as well as\ndifferent surface properties and stiffness.\nPICKPLACE proposes combining human and robot capabilities to achieve a safe, flexible, dependable and efficient hybrid\npick-and-package (PAK) solution. It includes dynamic package configuration planning, flexible grasping strategies using an\ninnovative multifunctional gripper, robust environment perception and mechanisms and strategies for safe human-robot\ncollaboration.\nThese scientific and industrial objectives are motivated by the real requirements demanded by the industry, represented in\nthis proposal by ULMA, System Provider, who will facilitate a realistic and relevant scenario for the validation",
+    "totalCost": "3085832,5",
+    "ecMaxContribution": "2700556,38",
+    "coordinator": "ULMA MANUTENCION S. COOP.",
+    "coordinatorCountry": "ES",
+    "participants": "FUNDACION TEKNIKER;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;MONDRAGON ASSEMBLY SOCIEDAD COOPERATIVA;CONSIGLIO NAZIONALE DELLE RICERCHE;TOFAS TURK OTOMOBIL FABRIKASI ANONIM SIRKETI",
+    "participantCountries": "ES;DE;IT;TR",
+    "projectParticipants": {
+        "972442461": {
+            "orgId": "972442461",
+            "orgName": "MONDRAGON ASSEMBLY SOCIEDAD COOPERATIVA",
+            "ecContrib": 234183
+        },
+        "999959227": {
+            "orgId": "999959227",
+            "orgName": "FUNDACION TEKNIKER",
+            "ecContrib": 912976
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 362500
+        },
+        "942703425": {
+            "orgId": "942703425",
+            "orgName": "ULMA MANUTENCION S. COOP.",
+            "ecContrib": 448044
+        },
+        "972778275": {
+            "orgId": "972778275",
+            "orgName": "TOFAS TURK OTOMOBIL FABRIKASI ANONIM SIRKETI",
+            "ecContrib": 216751
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 526102
+        }
+    },
+    "calculatedTotalContribution": 2700556
+}

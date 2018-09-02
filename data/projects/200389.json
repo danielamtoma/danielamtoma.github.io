@@ -1,0 +1,33 @@
+{
+    "rcn": "200389",
+    "acronym": "BLADEOUT",
+    "topics": "JTI-CS2-2014-CFP01-AIR-01-05",
+    "title": "CROR Blade-Out Impact Simulations and Sample Manufacturing",
+    "startDate": "01/01/2016",
+    "endDate": "30/06/2018",
+    "objective": "A faced challenge for the CROR concept is to maintain the current level of safety mandated by aviation and certification regulations and to provide blade impact mitigation at the airframe level without resulting in a large weight penalty. This leads to a demanding impact analysis and design problem of two complex composite structures, the fuselage structure (target) and the CROR blade or fragment structure (impactor). †\nThe main aim of the proposed research is to develop a robust, computationally efficient, multi-scale numerical simulation model, based on ABAQUS Explicit FE solver, for the virtual-testing of partial or full-scale CROR blade impacts. Following common practice, a building block approach is employed to validate the predictive FEA capabilities. †Specific objectives of the project are: (1) Design of Representative Blade Specimens; (2) Development of multi-scale explicit impact Finite Element Models; (3) Manufacturing of Representative Specimens.\nThe project will primarily focus on the development and validation of robust and mature ABAQUS Explicit FEA models coupled with GENOA multi-scale composite mechanics and progressive damage analysis software, for the numerical simulation of impact of CROR blades. Virtual testing will be supported by a physical testing building block plan. A series of representative coupons and physical bade specimens will be manufactured using the RTM method. †Low level tests entailing material characterization and representative impacts of composite plates will be conducted to provide all necessary material properties and the verification of the constitutive material models starting from micromechanics scale. The fabrication of all blade specimens will enable the comprehensive validation and improvement of numerical FEA models to ensure realistic predictive capabilities with respect to impact behavior of the blade impactor structure.",
+    "totalCost": "344227,5",
+    "ecMaxContribution": "344227,5",
+    "coordinator": "ALPHA CONSULTING SERVICE SRL",
+    "coordinatorCountry": "IT",
+    "participants": "INASCO HELLAS ETAIREIA EFARMOSMENON AERODIASTIMIKON EPISTIMON EE;PANEPISTIMIO PATRON",
+    "participantCountries": "EL",
+    "projectParticipants": {
+        "999736806": {
+            "orgId": "999736806",
+            "orgName": "INASCO HELLAS ETAIREIA EFARMOSMENON AERODIASTIMIKON EPISTIMON EE",
+            "ecContrib": 110494
+        },
+        "983622487": {
+            "orgId": "983622487",
+            "orgName": "ALPHA CONSULTING SERVICE SRL",
+            "ecContrib": 135446
+        },
+        "999894528": {
+            "orgId": "999894528",
+            "orgName": "PANEPISTIMIO PATRON",
+            "ecContrib": 98288
+        }
+    },
+    "calculatedTotalContribution": 344228
+}

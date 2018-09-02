@@ -1,0 +1,23 @@
+{
+    "rcn": "196774",
+    "acronym": "ThforPV",
+    "topics": "ERC-StG-2014",
+    "title": "New Thermodynamic for Frequency Conversion and Photovoltaics",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2020",
+    "objective": "'The Shockley Queisser (SQ) limits the efficiency of single junction photovoltaic (PV) cells and sets the maximum efficiency for Si PV at about 30%. This is because of two constraints: i. The energy PV generates at each conversion event is set by its bandgap, irrespective of the photonís energy. Thus, energetic photons lose most of their energy to heat. ii. PV cannot harness photons at lower energy than its bandgap. Therefore, splitting energetic photons, and fusing two photons each below the Si bandgap to generate one higher-energy photon that match the PV, push the potential efficiency above the Shockley Queisser limit. Nonlinear optics (NLO) offers efficient frequency conversion, yet it is inefficient at the intensity and the coherence level of solar and thermal radiation. \nHere I propose new thermodynamic concepts for frequency conversion of partially incoherent light aiming to overcome the SQ limit for single junction PVs. Specifically, I propose entropy driven up-conversion of low energy photons such as in thermal radiation to emission that matches Si PV cell. This concept is based on coupling 'hot phonons' to Near-IR emitters, while the bulk remains at low temperature. As preliminary results we experimentally demonstrate entropy-driven ten-fold up-conversion of 10.6?m excitation to 1?m at internal efficiency of 27% and total efficiency of 10%. This is more efficient by orders of magnitude from any prior art, and opens the way for efficient up-conversion of thermal radiation. \nWe continue by applying similar thermodynamic ideas for harvesting the otherwise lost thermalization in single junction PVs and present the concept of 'optical refrigeration for ultra-efficient PV' with theoretical efficiencies as high as 69%. We support the theory by experimental validation, showing enhancement in photon energy of 107% and orders of magnitude enhancement in the number of accessible photons for high-bandgap PV. This opens the way for disruptive innovation in photovoltaics'",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

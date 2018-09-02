@@ -1,0 +1,23 @@
+{
+    "rcn": "211322",
+    "acronym": "SAGRIS",
+    "topics": "SMEInst-04-2016-2017",
+    "title": "Sentinels-based Agriculture Information Service Component",
+    "startDate": "01/08/2017",
+    "endDate": "31/01/2018",
+    "objective": "The current project will focus on development of an open-source Sentinels-based Agriculture Information Service (SAGRIS) software component integrated into operational open-source Farmos.org agricultural record keeping software powering a commercial FARMIER service (http://www.farmier.com). SAGRIS module will provide FARMIER service (and potentially other open-source projects) with operational monitoring updates on dynamics of solar irradiation and surface temperature, development of grassland and crops biomass, soil and vegetation wetness, vegetation age and stress indications, geo-location and mapping of ìproblematicî patches, assessment of drainage systems and operational, delivery of status updates. Our service is targeting small-to-medium-size traditional farms offering a low cost complex decision support service with on-line tools for record-keeping and analysis, planning of farming activities, measurements of physical conditions with inexpensive ground sensors, observation and conditioning of crops by satellite imagery and simple solutions for adapt standard hardware for smart-farming practices. FARMIER and SAGRIS open-source projects will offer benefits of freely available modern Earth observation data products to a large number of traditional farms in a simple and affordable, but appealing and practically useful form to support sustainable ìsmart farmingî practices not only with statistical and geo-spatial information, but also best practice examples along with simple and affordable hardware solutions (sensors, extensions, etc.) to increase efficiency and profitability without investing into sophisticated precision farming solutions and raise competitiveness of many sustainable and ecological farms facing global challenges caused by industrial food production, turbulent markets and climate change. The service will be initially distributed in Europe and the US.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "GEOMATRIX UAB",
+    "coordinatorCountry": "LT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "953572663": {
+            "orgId": "953572663",
+            "orgName": "GEOMATRIX UAB",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

@@ -1,0 +1,48 @@
+{
+    "rcn": "193968",
+    "acronym": "SENECA",
+    "topics": "MSCA-ITN-2014-EID",
+    "title": "Software ENgineering in Enterprise Cloud Applications  systems",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "The growth of cloud computing is phenomenal, with vendors experiencing yearly growth over 90%. This reflects the rate at which organizations and individuals are leaving the comfort of tried and tested solutions to move into promising but uncharted territory.\nThe aim of SENECA is no less than to address key issues in the software engineering of cloud-based systems, including a disciplined approach to their development and operation. The project partners have pooled their considerable knowledge and experience to identify areas where applied research, industrial tests, as well as graduate-level training can deliver the most promising results.\nThe main challenge associated with cloud-based systems is their quality, as characterized (following ISO 25010) by their functional suitability, security, reliability, usability, performance efficiency, maintainability, and portability. Important quality issues include: How can the quality of a software-defined cloud infrastructure be measured and assured?  How can the security of a cloud-based system be ensured, taking into account that it may be running on an un-trusted infrastructure? How can the energy-efficiency and CO2 footprints of cloud-based applications be optimized?\nSENECA addresses this challenge along the axes of A) cloud-based products and B) the cloud development process and tools. Research along axis A reaches from extending ìtraditionalî quality assurance techniques to the cloud environment, to techniques for optimizing energy consumption by cloud systems without compromising performance or reliability. Research along axis B reaches from combining theory and practice to allow construction of secure systems on top of insecure cloud infrastructures, to improving testing practices for cloud development.\nAdditionally SENECA pursues objectives to train recruited fellows on conducting industry-motivated research and to create joint supervision structures among industry and academia in the software engineering community.",
+    "totalCost": "2236902,48",
+    "ecMaxContribution": "2236902,48",
+    "coordinator": "SOFTWARE IMPROVEMENT GROUP B.V",
+    "coordinatorCountry": "NL",
+    "participants": "BITERGIUM SLL;SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS;UNIVERSIDAD REY JUAN CARLOS;ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER;TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "ES;EL;NL",
+    "projectParticipants": {
+        "999886283": {
+            "orgId": "999886283",
+            "orgName": "UNIVERSIDAD REY JUAN CARLOS",
+            "ecContrib": 247873
+        },
+        "950666931": {
+            "orgId": "950666931",
+            "orgName": "BITERGIUM SLL",
+            "ecContrib": 495746
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 255374
+        },
+        "990886041": {
+            "orgId": "990886041",
+            "orgName": "SOFTWARE IMPROVEMENT GROUP B.V",
+            "ecContrib": 510749
+        },
+        "983282308": {
+            "orgId": "983282308",
+            "orgName": "SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGON PLIROFORIKIS",
+            "ecContrib": 484774
+        },
+        "999896856": {
+            "orgId": "999896856",
+            "orgName": "ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",
+            "ecContrib": 242387
+        }
+    },
+    "calculatedTotalContribution": 2236903
+}

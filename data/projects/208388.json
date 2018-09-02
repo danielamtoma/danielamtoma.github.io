@@ -1,0 +1,23 @@
+{
+    "rcn": "208388",
+    "acronym": "DUST-GLASS",
+    "topics": "MSCA-IF-2016",
+    "title": "Improving global dust prediction and monitoring through data assimilation of satellite-based dust aerosol optical depth",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "DUST-GLASS aims at improving global dust prediction and monitoring by optimizing an advanced data assimilation system (LETKF scheme) coupled with a sophisticated atmospheric-dust model (NMMB/BSC-Dust). For the accomplishment of these core scientific goals, a fine resolution (0.1o x 0.1o) global dust optical depth (DOD) database, suitable for data assimilation, will be developed via a synergy of state-of-the-art Level 2 satellite retrievals acquired by MODIS, MISR and OMI sensors (2007-2016). The impacts of assimilating this novel dataset (DOD) on modelís predictive skills, both at global and regional scale, will be assessed objectively. Global forecasts (5 days) will be carried out for different periods aiming at studying dust aerosolsí mobilization and transport from the major dust sources of the planet, while a global reanalysis (0.5o x 0.7o) dataset will be generated for long-term dust monitoring. In addition, regional short-term (84 hours) forecasts will be conducted for 20 Mediterranean dust outbreaks identified by a satellite algorithm in the framework of the MDRAF project (fellowís previous MC-IEF). In the evaluation analysis, the modelís dust outputs will be compared versus measurements derived by ground networks (AERONET, MAN, ACTRIS) as well as against columnar/vertical satellite retrievals (MODIS, MISR, CALIOP). Moreover, temperature and radiation will be also considered since ìcorrectionsî on dust fields, thanks to data assimilation, are expected to be evident on both parameters due to dust-radiation interactions. The aforementioned variables will be compared against observations obtained by ground networks (ISB, RAOB, BSRN) and reanalysis/analysis products (ERA-Interim, FNL). Considering the multifaceted role of dust, the scientific outcomes of DUST-GLASS are expected to contribute effectively to interdisciplinary studies regarding dust aerosols as well as their associated impacts on health, anthropogenic activities, environment, weather and climate.",
+    "totalCost": "164653,2",
+    "ecMaxContribution": "164653,2",
+    "coordinator": "NATIONAL OBSERVATORY OF ATHENS",
+    "coordinatorCountry": "EL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999653677": {
+            "orgId": "999653677",
+            "orgName": "NATIONAL OBSERVATORY OF ATHENS",
+            "ecContrib": 164653
+        }
+    },
+    "calculatedTotalContribution": 164653
+}

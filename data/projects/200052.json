@@ -1,0 +1,23 @@
+{
+    "rcn": "200052",
+    "acronym": "DYNA-MIC",
+    "topics": "ERC-StG-2015",
+    "title": "Deep non-invasive imaging via scattered-light acoustically-mediated computational microscopy",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "Optical microscopy, perhaps the most important tool in biomedical investigation and clinical diagnostics, is currently held back by the assumption that it is not possible to noninvasively image microscopic structures more than a fraction of a millimeter deep inside tissue. The governing paradigm is that high-resolution information carried by light is lost due to random scattering in complex samples such as tissue. While non-optical imaging techniques, employing non-ionizing radiation such as ultrasound, allow deeper investigations, they possess drastically inferior resolution and do not permit microscopic studies of cellular structures, crucial for accurate diagnosis of cancer and other diseases.\nI propose a new kind of microscope, one that can peer deep inside visually opaque samples, combining the sub-micron resolution of light with the penetration depth of ultrasound. My novel approach is based on our discovery that information on microscopic structures is contained in random scattered-light patterns. It breaks current limits by exploiting the randomness of scattered light rather than struggling to fight it.\nWe will transform this concept into a breakthrough imaging platform by combining ultrasonic probing and modulation of light with advanced digital signal processing algorithms, extracting the hidden microscopic structure by two complementary approaches: 1) By exploiting the stochastic dynamics of scattered light using methods developed to surpass the diffraction limit in optical nanoscopy and for compressive sampling, harnessing nonlinear effects. 2) Through the analysis of intrinsic correlations in scattered light that persist deep inside scattering tissue.\nThis proposal is formed by bringing together novel insights on the physics of light in complex media, advanced microscopy techniques, and ultrasound-mediated imaging. It is made possible by the new ability to digitally process vast amounts of scattering data, and has the potential to impact many fields.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "THE HEBREW UNIVERSITY OF JERUSALEM",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

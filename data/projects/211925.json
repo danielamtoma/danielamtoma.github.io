@@ -1,0 +1,63 @@
+{
+    "rcn": "211925",
+    "acronym": "Eco-Bot",
+    "topics": "EE-07-2016-2017",
+    "title": "Personalised ICT-tools for the Active Engagement of Consumers Towards Sustainable Energy",
+    "startDate": "01/10/2017",
+    "endDate": "31/12/2020",
+    "objective": "'Eco-Bot aims to utilize recent advances in chatbot tools and advanced signal processing (i.e. energy disaggregation) using low-resolution smart meter-type data with the goal of changing their behaviour towards energy efficiency. Eco-Bot targets to a personalized virtual energy assistant to deliver information on itemized (appliance-level) energy usage through a chat-bot tool.\nThe 'chat-bot' functionality will be use an attractive frontend interface, permitting seamless communication in a more natural and interactive way than a traditional mobile application. This way, Eco-Bot aims to achieve a higher level of engagement with consumers than previous efforts (i.e. serious games, gamification, competitions or other interactive ICT), by adding a more engaging form of interaction with existing platforms that has been proven in different market settings.\nThe proposed system considers knowledge of the delivered multi-factorial models, including rebound-effects, as a result of the baseline research on both European and International activities. Then, based on advanced ICT, such as knowledge engineering, machine learning, expert systems, the project transforms the multi-factorial models for energy reduction to interactive, personalized and targeted recommendations to consumers on how to save energy.\nEco-Bot uses also existing NILM, e.g. energy disaggregation methods, and data analytics to break down consumption to the appliance level, where this is possible (smart meters at reasonable granularity, adequate number of information collected) so as to make consumers aware of their most energy-consuming devices.\nThe project will demonstrate the system in three different use cases, each one representing a different business model (B2B / B2B2C /B2C). We aim to validate our system across real and diverse conditions such as socio-cultural, environmental, demographic, climate and consumption, so as to draw concrete conclusions regarding performance, effectiveness, affordability, etc.'",
+    "totalCost": "2521566,1",
+    "ecMaxContribution": "1964145,38",
+    "coordinator": "RISA SICHERHEITSANALYSEN GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "UNIWERSYTET EKONOMICZNY W KATOWICACH;DEXMA SENSORS SL;ADELPHI RESEARCH GEMEINNUTZIGE GMBH;BOTEGO BILGI TEKNOLOJILERI A.S.;SEnerCon GmbH;PLEGMA LABS TECHNOLOGIKES LYSEIS ANONYMOS ETAIRIA;ESTABANELL Y PAHISA ENERGIA SA;UNIVERSITY OF STRATHCLYDE",
+    "participantCountries": "PL;ES;DE;TR;EL;UK",
+    "projectParticipants": {
+        "999512930": {
+            "orgId": "999512930",
+            "orgName": "RISA SICHERHEITSANALYSEN GMBH",
+            "ecContrib": 316531
+        },
+        "952918204": {
+            "orgId": "952918204",
+            "orgName": "SEnerCon GmbH",
+            "ecContrib": 244300
+        },
+        "949855138": {
+            "orgId": "949855138",
+            "orgName": "PLEGMA LABS TECHNOLOGIKES LYSEIS ANONYMOS ETAIRIA",
+            "ecContrib": 197749
+        },
+        "947530242": {
+            "orgId": "947530242",
+            "orgName": "BOTEGO BILGI TEKNOLOJILERI A.S.",
+            "ecContrib": 149759
+        },
+        "952615370": {
+            "orgId": "952615370",
+            "orgName": "ESTABANELL Y PAHISA ENERGIA SA",
+            "ecContrib": 193594
+        },
+        "999693350": {
+            "orgId": "999693350",
+            "orgName": "ADELPHI RESEARCH GEMEINNUTZIGE GMBH",
+            "ecContrib": 241875
+        },
+        "998521008": {
+            "orgId": "998521008",
+            "orgName": "UNIWERSYTET EKONOMICZNY W KATOWICACH",
+            "ecContrib": 170938
+        },
+        "999974068": {
+            "orgId": "999974068",
+            "orgName": "UNIVERSITY OF STRATHCLYDE",
+            "ecContrib": 250688
+        },
+        "938942056": {
+            "orgId": "938942056",
+            "orgName": "DEXMA SENSORS SL",
+            "ecContrib": 198712
+        }
+    },
+    "calculatedTotalContribution": 1964146
+}

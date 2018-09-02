@@ -1,0 +1,48 @@
+{
+    "rcn": "206852",
+    "acronym": "CARESSES",
+    "topics": "SC1-PM-14-2016",
+    "title": "Culture Aware Robots and Environmental Sensor Systems for Elderly Support",
+    "startDate": "01/01/2017",
+    "endDate": "31/01/2020",
+    "objective": "The groundbreaking objective of CARESSES is to build culturally competent care robots, able to autonomously re-configure their way of acting and speaking, when offering a service, to match the culture, customs and etiquette of the person they are assisting. By designing robots that are more sensitive to the userís needs, CARESSESí innovative solution will offer elderly clients a safe, reliable and intuitive system to foster their independence and autonomy, with a greater impact on quality of life, a reduced caregiver burden, and an improved efficiency and efficacy. \n\nThe need for cultural competence has been deeply investigated in the Nursing literature. However, it has been totally neglected in Robotics. CARESSES stems from the consideration that cultural competence is crucial for care robots as it is for human caregivers. From the userís perspective, a culturally appropriate behavior is key to improve acceptability; from the commercial perspective, it will open new avenues for marketing robots across different countries. \n\nCARESSES will adopt the following approach. First, we will study how to represent cultural models, how to use these models in sensing, planning and acting, and how to acquire them. Second, we will consider three (physically identical) replicas of a commercial robot on the market and integrate cultural models into them, by making them culturally competent. Third, we will test the three robots, customized for three different cultures, in the EU (two cultural groups) and Japan (one cultural group), on a number of elderly volunteers and their informal caregivers. Evaluation will be conducted through quantitative and qualitative investigation.\n\nTo achieve its groundbreaking objective, CARESSES will involve a multidisciplinary team of EU and Japanese researchers with a background in Transcultural Nursing, AI, Robotics, Testing and evaluations of health-care technology, a worldwide leading company in Robotics and a network of Nursing care homes.",
+    "totalCost": "2084248,75",
+    "ecMaxContribution": "2084248,75",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI GENOVA",
+    "coordinatorCountry": "IT",
+    "participants": "ADVINIA HEALTH CARE LIMITED;OREBRO UNIVERSITY;UNIVERSITY OF BEDFORDSHIRE;MIDDLESEX UNIVERSITY HIGHER EDUCATION CORPORATION;SOFTBANK ROBOTICS EUROPE",
+    "participantCountries": "UK;SE;FR",
+    "projectParticipants": {
+        "919862253": {
+            "orgId": "919862253",
+            "orgName": "ADVINIA HEALTH CARE LIMITED",
+            "ecContrib": 102375
+        },
+        "996538522": {
+            "orgId": "996538522",
+            "orgName": "SOFTBANK ROBOTICS EUROPE",
+            "ecContrib": 356250
+        },
+        "999976687": {
+            "orgId": "999976687",
+            "orgName": "UNIVERSITA DEGLI STUDI DI GENOVA",
+            "ecContrib": 548875
+        },
+        "999855922": {
+            "orgId": "999855922",
+            "orgName": "UNIVERSITY OF BEDFORDSHIRE",
+            "ecContrib": 247742
+        },
+        "999650088": {
+            "orgId": "999650088",
+            "orgName": "OREBRO UNIVERSITY",
+            "ecContrib": 502326
+        },
+        "999883470": {
+            "orgId": "999883470",
+            "orgName": "MIDDLESEX UNIVERSITY HIGHER EDUCATION CORPORATION",
+            "ecContrib": 326680
+        }
+    },
+    "calculatedTotalContribution": 2084248
+}

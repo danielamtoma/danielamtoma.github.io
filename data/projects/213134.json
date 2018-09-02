@@ -1,0 +1,58 @@
+{
+    "rcn": "213134",
+    "acronym": "3eFERRO",
+    "topics": "ICT-31-2017",
+    "title": "Energy Efficient Embedded Non-volatile Memory  Logic based on Ferroelectric Hf(Zr)O2",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2021",
+    "objective": "Edge computing requires highly energy efficient microprocessor units (MCU) with embedded non-volatile memories (eNVM) to process data at the source that is the IoT sensor node. eFLASH technology is limited by low write speed, high power and low endurance. Alternative fast, low power and high endurance eNVM could greatly enhance energy efficiency and allow flexibility for finer grain of logic and memory. FeRAM has the highest endurance of all emerging NVMs. However, perovskite-based eFeRAM is incompatible with Si CMOS, does not easily scale and has manufacturability and cost issues. \nWe introduce new ferroelectric material Hf(Zr)O2 to make FeRAM competitive NVM candidate for IoT. HfO2 compatibility with Si processing will facilitate integration, improve manufacturability and allow better scaling.  Different cell architectures based on capacitors or ferroelectric FETs will give unprecedented flexibility for ìfine-grainedî logic ñin-memory (LiM) circuits, which allows data storage close to logic circuits, reduces energy cost of data transfer and allows smart gating for ìnormally-offî computing. \nThe project is built around four objectives: i) Optimization of Materials, ii) LiM design & architecture, iii) Integration of Hf(Zr)O2-based NVM arrays, iv) Memory test & validation & benchmarking. The work calls on the full spectrum of expertise from advanced materials synthesis and characterization, processing, design and integration and benchmarking to make substantial progress towards a truly disruptive energy efficient memory and logic technology.\nA team of 8 partners, including a major European semiconductor company, the leader in the field of ferroelectric HfO2 and a large technology laboratory, originating from 5 EU states, will join forces to deliver experimental demonstrators creating the opportunity for the EU industry to establish a dominant position in IoT innovative components market and make an impact on the future roadmap for embedded systems and applications.",
+    "totalCost": "3989571,41",
+    "ecMaxContribution": "3989570,2",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "STMICROELECTRONICS CROLLES 2 SAS;FORSCHUNGSZENTRUM JULICH GMBH;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;INSTITUTUL NATIONAL DE CERCETARE DEZVOLTARE PENTRU FIZICA MATERIALELOR;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";ECOLE CENTRALE DE LYON;NAMLAB GGMBH",
+    "participantCountries": "FR;DE;CH;RO;EL",
+    "projectParticipants": {
+        "996489440": {
+            "orgId": "996489440",
+            "orgName": "NAMLAB GGMBH",
+            "ecContrib": 718438
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1462494
+        },
+        "999750580": {
+            "orgId": "999750580",
+            "orgName": "STMICROELECTRONICS CROLLES 2 SAS",
+            "ecContrib": 184989
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 369588
+        },
+        "996587119": {
+            "orgId": "996587119",
+            "orgName": "INSTITUTUL NATIONAL DE CERCETARE DEZVOLTARE PENTRU FIZICA MATERIALELOR",
+            "ecContrib": 310125
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 367000
+        },
+        "999510311": {
+            "orgId": "999510311",
+            "orgName": "ECOLE CENTRALE DE LYON",
+            "ecContrib": 357438
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 219500
+        }
+    },
+    "calculatedTotalContribution": 3989572
+}

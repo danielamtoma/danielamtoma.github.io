@@ -1,0 +1,38 @@
+{
+    "rcn": "194368",
+    "acronym": "DECADE",
+    "topics": "MSCA-RISE-2014",
+    "title": "Deploying High Capacity Dense Small Cell Heterogeneous Networks",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2019",
+    "objective": "Broadband mobile networks are experiencing exponential traffic growth. It is predicted that this trend will continue in the next five to ten years with an estimated compound annual growth rate of 0.6 to 1.0. Hence the traffic (mostly data) carried by a mobile operatorís network in 2022 could be over 1000 times of that in 2012. This traffic growth presents a huge challenge to both the mobile industry and to academic researchers.\n\nAlong with increased spectrum efficiency, spectrum bandwidth expansion and traffic offloading through WiFi, small cell deployment is regarded as one of the most promising ways to meet the use of broadband mobile service in both outdoor and in particular indoor scenarios in the next decade. The deployment of small cells in a macrocell coverage area leads to a multi-tier heterogeneous network (HetNet), in which a mix of access node types, such as macrocell, femtocell and relay, will co-exist. Despite the current research and development on small cell/HetNet from both industry and academia, there are still many challenges to be addressed and questions to be answered for successful small cell and HetNet deployment. These challenges range from the lack of fundamental understanding of HetNet network capacity to the need of Radio Access Network (RAN) Planning and Optimisation (PO) tool for HetNet deployment involving both indoor and outdoor scenarios.\n \nThe DECADE project adopts the scheme of Research and Innovation Staff Exchange (RISE), with the effect of inter-sectorial efforts and knowledge integration to tackle the challenges in HetNet planning and optimization. The research consists in fundamental capacity analysis, system modeling, algorithm development, and performance engineering for HetNets. In addition, DECADE serves as a solid platform to promote long-term collaboration between academia and industry collaboration in a rapidly evolving area of Information and Communication Technologies (ICT) in Europe.",
+    "totalCost": "634500",
+    "ecMaxContribution": "634500",
+    "coordinator": "LINKOPINGS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "THE UNIVERSITY OF SHEFFIELD;RANPLAN WIRELESS NETWORK DESIGN LTD;IQUADRAT INFORMATICA SL",
+    "participantCountries": "UK;ES",
+    "projectParticipants": {
+        "888897696": {
+            "orgId": "888897696",
+            "orgName": "LINKOPINGS UNIVERSITET",
+            "ecContrib": 175500
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 135000
+        },
+        "996237822": {
+            "orgId": "996237822",
+            "orgName": "IQUADRAT INFORMATICA SL",
+            "ecContrib": 189000
+        },
+        "999481017": {
+            "orgId": "999481017",
+            "orgName": "RANPLAN WIRELESS NETWORK DESIGN LTD",
+            "ecContrib": 135000
+        }
+    },
+    "calculatedTotalContribution": 634500
+}

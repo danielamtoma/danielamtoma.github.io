@@ -1,0 +1,28 @@
+{
+    "rcn": "208496",
+    "acronym": "iGear",
+    "topics": "JTI-CS2-2016-CFP03-FRC-02-15",
+    "title": "Intelligent Gearbox for Endurance Advanced Rotorcraft",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2019",
+    "objective": "The ultimate goal of the iGear (Intelligent Gearbox for Endurance Advanced Rotorcraft) project is the development of an on-the-fly Structural Health Monitoring (SHM). This innovative system will be applied to the lateral rotor gearboxes and engine to main gearbox reduction stages, in the framework of LifeRCraft demonstrator for the Fast Rotorcraft IADP. This topic is of high importance in order to promote enabling technologies for next generation gearboxes comprising new materials, namely composite or ceramic.\nThe primary objective of the iGear proposal is to assess technologies suitable to characterize health monitoring condition of gearboxes, mainly by enabling the provision of the localization and early detection of gearing and bearing failure. The ultimate goal is the early detection of on-going failures to allow for prompt maintenance or part replacement. This project inherits significant knowledge and developments made by Active Space Technologies and Cranfield University during former or ongoing research activities related to solutions performing in harsh environments, namely accelerometers, temperature detectors, and acoustic emission sensors.\nIn this project we will need an innovative approach to the use of ceramic ball bearings for the high speed shaft. The combination of vibration, oil analysis, among other technologies, will be used for both the Lateral Rotor Gearboxes and the Engine to Main Gearbox reduction stages. The key innovation we propose is the use of data fusion across condition indicators (Cis) to increase the robustness of diagnosis. We will seek to avoid excessive computation while maintaining traceability to acceptable rule-based diagnosis and probability, e.g. by adopting fuzzy logic for signal fusion. We will also examine the effectiveness of a system oriented approach, seeking to understand the sensitivities around the health state transitions, which must be transmitted to the user rather than solely focussing on damage measurements.",
+    "totalCost": "499758,75",
+    "ecMaxContribution": "410044,13",
+    "coordinator": "Active Space Technologies, Actividades Aeroespaciais S.A.",
+    "coordinatorCountry": "PT",
+    "participants": "CRANFIELD UNIVERSITY",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "964190477": {
+            "orgId": "964190477",
+            "orgName": "Active Space Technologies, Actividades Aeroespaciais S.A.",
+            "ecContrib": 209334
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 200710
+        }
+    },
+    "calculatedTotalContribution": 410044
+}

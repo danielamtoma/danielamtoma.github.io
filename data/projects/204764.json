@@ -1,0 +1,168 @@
+{
+    "rcn": "204764",
+    "acronym": "ADASANDME",
+    "topics": "MG-3.6a-2015",
+    "title": "Adaptive ADAS to support incapacitated drivers Mitigate Effectively risks through tailor made HMI under automation",
+    "startDate": "01/09/2016",
+    "endDate": "29/02/2020",
+    "objective": "ADAS&ME (ìAdaptive ADAS to support incapacitated drivers &Mitigate Effectively risks through tailor made HMI under automationî) will develop adapted Advanced Driver Assistance Systems, that incorporate driver/rider state, situational/environmental context, and adaptive interaction to automatically transfer control between vehicle and driver/rider and thus ensure safer and more efficient road usage. To achieve this, a holistic approach will be taken which considers automated driving along with information on driver/rider state. The work is based around 7 provisionally identified Use Cases for cars, trucks, buses and motorcycles, aiming to cover a large proportion of driving on European roads. Experimental research will be carried out on algorithms for driver state monitoring as well as on HMI and automation transitions. It will develop robust detection/prediction algorithms for driver/rider state monitoring towards different driver states, such as fatigue, sleepiness, stress, inattention and impairing emotions, employing existing and novel sensing technologies, taking into account traffic and weather conditions via V2X and personalizing them to individual driverís physiology and driving behaviour. In addition, the core development includes multimodal and adaptive warning and intervention strategies based on current driver state and severity of scenarios. The final outcome is the successful fusion of the developed elements into an integrated driver/rider state monitoring system, able to both be utilized in and be supported by vehicle automation of Levels 1 to 4. The system will be validated with a wide pool of drivers/riders under simulated and real road conditions and under different driver/rider states; with the use of 2 cars (1 conventional, 1 electric), 1 truck, 2 PTWs and 1 bus demonstrators. This challenging task has been undertaken by a multidisciplinary Consortium of 30 Partners, including an OEM per vehicle type and 7 Tier 1 suppliers.",
+    "totalCost": "9609700",
+    "ecMaxContribution": "8998950",
+    "coordinator": "STATENS VAG- OCH TRANSPORTFORSKNINGSINSTITUT",
+    "coordinatorCountry": "SE",
+    "participants": "AUTOLIV DEVELOPMENT AB;SCANIA CV AB;NATIONAL UNIVERSITY OF IRELAND GALWAY;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;OTTO-VON-GUERICKE-UNIVERSITAET MAGDEBURG;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;FONDATION PARTENARIAL MOV'EOTEC;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;TOMTOM GLOBAL CONTENT BV;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;FORD-WERKE GMBH;UPPSALA UNIVERSITET;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;VALEO COMFORT AND DRIVING ASSISTANCE;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;SMART EYE AKTIEBOLAG;IDIADA AUTOMOTIVE TECHNOLOGY SA;HUMANIST;TOMTOM INTERNATIONAL BV;TECHNISCHE UNIVERSITAET CHEMNITZ;DUCATI MOTOR HOLDING SPA;Continental Automotive GmbH;AUTOMOBIL CLUB ASSISTENCIA SA;INSTITUT FRANCAIS DES SCIENCES ET TECHNOLOGIES DES TRANSPORTS, DE L'AMENAGEMENT ET DES RESEAUX;DAINESE SPA;OSBORNE CLARKE;PANEPISTIMIO PATRON;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA;STOCKHOLMS UNIVERSITET;DENSO AUTOMOTIVE DEUTSCHLAND GMBH",
+    "participantCountries": "SE;IE;EL;DE;FR;NL;CH;ES;IT;BE",
+    "projectParticipants": {
+        "973132131": {
+            "orgId": "973132131",
+            "orgName": "TOMTOM INTERNATIONAL BV",
+            "ecContrib": 0
+        },
+        "999877844": {
+            "orgId": "999877844",
+            "orgName": "TECHNISCHE UNIVERSITAET CHEMNITZ",
+            "ecContrib": 371875
+        },
+        "999599551": {
+            "orgId": "999599551",
+            "orgName": "STATENS VAG- OCH TRANSPORTFORSKNINGSINSTITUT",
+            "ecContrib": 701500
+        },
+        "999476652": {
+            "orgId": "999476652",
+            "orgName": "SCANIA CV AB",
+            "ecContrib": 758869
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 166750
+        },
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 176250
+        },
+        "999985029": {
+            "orgId": "999985029",
+            "orgName": "UPPSALA UNIVERSITET",
+            "ecContrib": 164750
+        },
+        "988810047": {
+            "orgId": "988810047",
+            "orgName": "HUMANIST",
+            "ecContrib": 150275
+        },
+        "999885022": {
+            "orgId": "999885022",
+            "orgName": "STOCKHOLMS UNIVERSITET",
+            "ecContrib": 147938
+        },
+        "929118284": {
+            "orgId": "929118284",
+            "orgName": "OSBORNE CLARKE",
+            "ecContrib": 218750
+        },
+        "999808004": {
+            "orgId": "999808004",
+            "orgName": "AUTOLIV DEVELOPMENT AB",
+            "ecContrib": 490000
+        },
+        "918515311": {
+            "orgId": "918515311",
+            "orgName": "VALEO COMFORT AND DRIVING ASSISTANCE",
+            "ecContrib": 471875
+        },
+        "922644116": {
+            "orgId": "922644116",
+            "orgName": "DAINESE SPA",
+            "ecContrib": 274000
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 306250
+        },
+        "999873285": {
+            "orgId": "999873285",
+            "orgName": "OTTO-VON-GUERICKE-UNIVERSITAET MAGDEBURG",
+            "ecContrib": 185558
+        },
+        "968126446": {
+            "orgId": "968126446",
+            "orgName": "INSTITUT FRANCAIS DES SCIENCES ET TECHNOLOGIES DES TRANSPORTS, DE L'AMENAGEMENT ET DES RESEAUX",
+            "ecContrib": 158750
+        },
+        "930803659": {
+            "orgId": "930803659",
+            "orgName": "DUCATI MOTOR HOLDING SPA",
+            "ecContrib": 307500
+        },
+        "934323304": {
+            "orgId": "934323304",
+            "orgName": "SMART EYE AKTIEBOLAG",
+            "ecContrib": 315500
+        },
+        "999788313": {
+            "orgId": "999788313",
+            "orgName": "IDIADA AUTOMOTIVE TECHNOLOGY SA",
+            "ecContrib": 315350
+        },
+        "999978045": {
+            "orgId": "999978045",
+            "orgName": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+            "ecContrib": 172500
+        },
+        "952510416": {
+            "orgId": "952510416",
+            "orgName": "FONDATION PARTENARIAL MOV'EOTEC",
+            "ecContrib": 208925
+        },
+        "999894528": {
+            "orgId": "999894528",
+            "orgName": "PANEPISTIMIO PATRON",
+            "ecContrib": 191250
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 240000
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 473125
+        },
+        "999761638": {
+            "orgId": "999761638",
+            "orgName": "Continental Automotive GmbH",
+            "ecContrib": 267970
+        },
+        "996657347": {
+            "orgId": "996657347",
+            "orgName": "FORD-WERKE GMBH",
+            "ecContrib": 456336
+        },
+        "956612352": {
+            "orgId": "956612352",
+            "orgName": "AUTOMOBIL CLUB ASSISTENCIA SA",
+            "ecContrib": 175000
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        },
+        "972424419": {
+            "orgId": "972424419",
+            "orgName": "DENSO AUTOMOTIVE DEUTSCHLAND GMBH",
+            "ecContrib": 442250
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 464855
+        }
+    },
+    "calculatedTotalContribution": 8773951
+}

@@ -1,0 +1,17 @@
+{
+    "rcn": "214970",
+    "acronym": "NegCap",
+    "topics": "ERC-2017-PoC",
+    "title": "Negative capacitor based on a ferroelectric nano-dot",
+    "startDate": "01/05/2018",
+    "endDate": "31/10/2019",
+    "objective": "One of the most exciting proposed solutions to the approaching limit of down-scaling in microelectronics (so-called ìend of Mooreís lawî) consists of the use of negative capacitors, [NegCap]s. \n     When a NegCap is placed between the gate and the channel of a FET (field-effect transistor), the applied voltage on the gate is strongly amplified on the channel. Therefore, it is possible to reduce substantially the applied gate voltage, yet keeping the voltage on the gate sufficiently high for on/off switching of the FET. \n    To continue the scaling down of basic electronic components such as FET, reduction of the applied voltage is essential in order to avoid overheating due to the too high power dissipation in the ultra high-density circuits. On the other hand, due to fundamental laws of physics, a minimum voltage of 60mV/decade is necessary for operation of the FET with currently available technologies. A way to solve these conflicting needs is to reduce the gate voltage and in parallel use a NegCap that will amplify the voltage on the channel.  \n    But how to get a negative capacitor? In 2008 Salahuddin and Datta proposed to make NegCap using a ferroelectric capacitor. However, so far, experimental attempts failed to show the stable negative capacitance necessary for the voltage amplification on the FET gate. The key problem is that the ferroelectric splits into domains, which cancels the stabilized negative capacitance effect.\n    In our ERC-AdG project (ìMOBILE-Wî), we conceived a concept, supported by theory and modelling, that allows the fabrication of negative capacitors in which splitting to domains is prohibited. Here we aim to demonstrate this experimentally providing proof of concept, and find suitable framework and partners to translate our concept into commercial products.  We believe that this will solve one of the major road-blocks for further scaling down of microelectronic circuits.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

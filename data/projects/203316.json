@@ -1,0 +1,28 @@
+{
+    "rcn": "203316",
+    "acronym": "Multi-time Integral Eqs.",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Interacting relativistic quantum dynamics via multi-time integral equations",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2019",
+    "objective": "Multi-time wave functions are quantum-mechanical wave functions with N space-time arguments for N particles. They were suggested by the Nobel laureates Dirac, Tomonaga and Schwinger as a particularly natural way of achieving manifest Lorentz invariance in the Schrˆdinger picture. While for a long time it was not clear how to obtain consistent interacting dynamics for multi-time wave functions, this has changed recently when a series of papers has clarified the theory of multi-time Schrˆdinger equations and provided the first interacting toy models. This project aims, with the long-term goal of a rigorous multi-time formulation of quantum field theory in mind, at improving on these models by considering the possibility of integral equations to formulate interacting dynamics for multi-time wave functions of N=2 particles. This is especially promising, as integral equations avoid a restrictive consistency condition that one faces for differential multi-time equations. Furthermore, the typical ultraviolet divergencies of quantum field theory are avoided.\nThe objectives are (1) to study the existence of solutions of a particular integral equation similar to the Bethe-Salpeter equation, (2) to assess whether the integral equation is compatible with a probabilistic meaning, as well as (3) to determine the classical limit of the integral equation and to compare it with the action-at-a-distance formulation of classical electrodynamics due to Gauﬂ, Fokker, Tetrode, Wheeler and Feynman.\nObjective (1) shall be approached using the theory of Fredholm integral equations, as well as partial results in the physics literature. For (2), suitable conserved tensor currents with a positive density component shall be constructed. (3) shall be reached by studying wave packets concentrated around the classical world-lines of particles using (and extending) functional-analytic methods of the classical limit, such as Hagedorn wave packets and Wigner functions.",
+    "totalCost": "239860,8",
+    "ecMaxContribution": "239860,8",
+    "coordinator": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999882403": {
+            "orgId": "999882403",
+            "orgName": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
+            "ecContrib": 0
+        },
+        "999991916": {
+            "orgId": "999991916",
+            "orgName": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+            "ecContrib": 239861
+        }
+    },
+    "calculatedTotalContribution": 239861
+}

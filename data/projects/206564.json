@@ -1,0 +1,73 @@
+{
+    "rcn": "206564",
+    "acronym": "InRel-NPower",
+    "topics": "NMBP-02-2016",
+    "title": "Innovative Reliable Nitride based Power Devices and Applications",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The main objective of this proposal is to develop reliable GaN-based power devices and systems for high and medium power electronics targeting industrial and automotive applications and bringing the GaN power devices another step towards the wide usability in the energy saving environment to further tap the full potential which this new material brings along\nThis proposal addresses two subjects, one of which is medium power (till 10kW) GaN-on-Si based lateral HEMT structures, with special focus on high reliability, which is still a major blocking item to allow wide-spread market adoption.  Hence, the impact of the GaN material quality, in combination with the device layout in view of long-term reliability will be addressed. The project aims an in-depth reliability study and qualification strategy development whereby the study of the impact of dislocations and other structural disturbances inside the materials on the long term device reliability will be specifically addressed. In addition, this proposal aims to demonstrate new device concepts with increased robustness and reliability, which will be realized, evaluated and tested thoroughly. This will demonstrate how it is possible to overcome the known limitations of the GaN on Silicon technology, like e.g. the vertical leakage, trapping phenomena and/or breakdown of lateral HEMTs. The current proposal also contains the development of novel device architecture (dual channel, substrate removal, e-mode), as well as the exploration of new material systems (Aluminum Nitride (Al-based) devices) which can also largely contribute to overcome drawbacks of the GaN on Si technology. The applicability of the novel GaN-on-Si concepts in form of an industrial inverter will be demonstrated finally, with the development of an innovative low inductance packaging system for power devices, making full benefits of the fast switching capability of GaN-based power devices.",
+    "totalCost": "7691466,25",
+    "ecMaxContribution": "7190000",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI PADOVA",
+    "coordinatorCountry": "IT",
+    "participants": "ROBERT BOSCH GMBH;NATIONAL UNIVERSITY CORPORATION KYUSHU UNIVERSITY;UNIVERSITEIT GENT;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ON SEMICONDUCTOR BELGIUM BVBA;NATIONAL UNIVERSITY CORPORATION MIE UNIVERSITY;CONSTRUCTIONS ELECTRONIQUES + TELECOMMUNICATIONS;EPIGAN NV;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;SIEMENS AKTIENGESELLSCHAFT",
+    "participantCountries": "DE;JP;BE;FR",
+    "projectParticipants": {
+        "999995602": {
+            "orgId": "999995602",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PADOVA",
+            "ecContrib": 650000
+        },
+        "996719524": {
+            "orgId": "996719524",
+            "orgName": "ON SEMICONDUCTOR BELGIUM BVBA",
+            "ecContrib": 1825271
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 636084
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 505000
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 950000
+        },
+        "999987260": {
+            "orgId": "999987260",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT",
+            "ecContrib": 750000
+        },
+        "923819465": {
+            "orgId": "923819465",
+            "orgName": "NATIONAL UNIVERSITY CORPORATION MIE UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 626165
+        },
+        "961770327": {
+            "orgId": "961770327",
+            "orgName": "NATIONAL UNIVERSITY CORPORATION KYUSHU UNIVERSITY",
+            "ecContrib": 0
+        },
+        "918547515": {
+            "orgId": "918547515",
+            "orgName": "CONSTRUCTIONS ELECTRONIQUES + TELECOMMUNICATIONS",
+            "ecContrib": 502500
+        },
+        "954412586": {
+            "orgId": "954412586",
+            "orgName": "EPIGAN NV",
+            "ecContrib": 744980
+        }
+    },
+    "calculatedTotalContribution": 7190000
+}

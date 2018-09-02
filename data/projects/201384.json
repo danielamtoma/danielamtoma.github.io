@@ -1,0 +1,23 @@
+{
+    "rcn": "201384",
+    "acronym": "FORGENET",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "A novel approach for detecting polygenic adaptation applied to FORest tree candidate GEne NETworks",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "Unravelling the mechanisms of selection that allow species to adapt to changing environments has been a perpetual goal of evolutionary genetics. A current paradigm shift seems to radically change our view regarding the major mechanisms of evolutionary change. Ample experimental data indicates that most traits that potentially play a role in adaptations are controlled by many genes that may not act independently, but as members of complex gene interaction networks. Thus, it is widely agreed that most adaptation events in natural populations are reached via so-called polygenic adaptation, involving small changes at multiple genes at a time. Nevertheless, methods are still lacking to detect such adaptive gene associations. The main objective of FORGENET is to propose NetAdapt, a network-based test of polygenic selection for candidate-gene data. NetAdapt exploits candidate-gene data both as genotype and functional genomic data. First, based on the functional genomic information inherent to candidate gene data, it proposes to construct a gene interaction network, whose topology can be used to define a null hypothesis of neutrality. Second, based on the genotype data, it proposes a test for detecting selection on gene interactions, i.e. epistatic selection, based on linkage disequilibrium statistics. NetAdapt is expected to enhance our understanding how selection acts on gene networks and to propose new candidate genes for future genotyping. NetAdapt will be applied to published data on coniferous forest trees that have been genotyped from haploid tissue, which offers a straightforward application. Many conifers are endangered by climate change and estimating their adaptability is an important European research priority. FORGENET will study the evolution of flowering time genes at spruces along latitudinal gradients, and drought tolerance in Mediterranean pine species.",
+    "totalCost": "175419,6",
+    "ecMaxContribution": "175419,6",
+    "coordinator": "UNIVERSITAT ZURICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 175420
+        }
+    },
+    "calculatedTotalContribution": 175420
+}

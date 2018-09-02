@@ -1,0 +1,23 @@
+{
+    "rcn": "201067",
+    "acronym": "FORT2",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Forward Trigger for the CMS phase-2",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2018",
+    "objective": "The LHC will undergo a major upgrade in 2025 to increase its luminosity (Phase-II). The main challenges for the CMS experiment during the Phase-II are detector radiation damage and the pileup coming from the high instantaneous luminosity. Under these challenging conditions to maintain its excellent performance the CMS collaboration will perform an upgrade program of the detector. One of the main elements of this upgrade is the replacement of the endcap calorimeters with a new High Granularity Calorimeter (HGCal). The first critical step of the upgrade is the R&D status approval, to be completed by end 2017.\nI propose the development and construction of an innovative trigger system that will be integrated in the HGCal. The goal is to have a trigger system able to maintain the overall physics acceptance under the challenging Phase-II conditions but retaining an outstanding efficiency in selecting physics events, specially regarding rare signals.\nThanks to the characteristics of the HGCal the trigger system will be able to use informations on the growth and angle of electromagnetic showers, and to apply the methods of particle flow to optimize the jet energy resolution, allowing a more efficient and accurate event selection.\nOne of the physics channels that will profit from this new trigger system will be the measurement of the Higgs boson self-coupling in Vector-Boson-Fusion events. Such process is extremely rare in the Standard Model of particle physics, but it can be enhanced by the presence of Supersymmetric particles or New Physics phenomena. Thus, the Higgs boson self-coupling is a very sensitive observable, and it is of the utmost importance to measure it during the LHC Phase-II. To quantify the improvements in physics performances due to the new HGCal trigger system, I will present the first feasibility study of this channel and design the analysis strategy to perform the measurement. The algorithmic strategies for VBF will be tested on the 2016 CMS data taking",
+    "totalCost": "173076",
+    "ecMaxContribution": "173076",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 173076
+        }
+    },
+    "calculatedTotalContribution": 173076
+}

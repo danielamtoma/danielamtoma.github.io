@@ -1,0 +1,23 @@
+{
+    "rcn": "213446",
+    "acronym": "CoCoSym",
+    "topics": "ERC-2017-COG",
+    "title": "Symmetry in Computational Complexity",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "The last 20 years of rapid development in the computational-theoretic aspects of the fixed-language Constraint Satisfaction Problems (CSPs) has been fueled by a connection between the complexity and a certain concept capturing symmetry of computational problems in this class.\n\n\nMy vision is that this connection will eventually evolve into the organizing principle of computational complexity and will lead to solutions of fundamental problems such as the Unique Games Conjecture or even the P-versus-NP problem.  In order to break through the current limits of this algebraic approach, I will concentrate on specific goals designed to:\n\n(A) Discover suitable objects capturing symmetry that reflect the complexity in problem classes, where such an object is not known yet;\n\n(B) Make the natural ordering of symmetries coarser so that it reflects the complexity more faithfully;\n\n(C) Delineate the borderline between computationally hard and easy problems;\n\n(D) Strengthen characterizations of existing borderlines to increase their usefulness as tools for proving hardness and designing efficient algorithm; and\n\n(E) Design efficient algorithms based on direct and indirect uses of symmetries.\n\nThe specific goals concern the fixed-language CSP over finite relational structures and its generalizations to infinite domains (iCSP) and weighted relations (vCSP), in which the algebraic theory is highly developed and the limitations are clearly visible. \n\nThe approach is based on joining the forces of the universal algebraic methods in finite domains, model-theoretical and topological methods in the iCSP, and analytical and probabilistic methods in the vCSP. The starting point is to generalize and improve the Absorption Theory from finite domains.",
+    "totalCost": "1211375",
+    "ecMaxContribution": "1211375",
+    "coordinator": "UNIVERZITA KARLOVA",
+    "coordinatorCountry": "CZ",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999923434": {
+            "orgId": "999923434",
+            "orgName": "UNIVERZITA KARLOVA",
+            "ecContrib": 1211375
+        }
+    },
+    "calculatedTotalContribution": 1211375
+}

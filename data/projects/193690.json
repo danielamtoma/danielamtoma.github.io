@@ -1,0 +1,48 @@
+{
+    "rcn": "193690",
+    "acronym": "PEGASUS",
+    "topics": "COMPET-01-2014",
+    "title": "Flight Qualification of Deployable Radiator using Two Phase Technology",
+    "startDate": "01/01/2015",
+    "endDate": "30/09/2018",
+    "objective": "The main objective of this project is to develop a Deployable Thermal Radiator (DPR) based on Loop Heat Pipes Qualification Model. This includes the design, manufacturing and flight qualification testing to achieve a Technological Readiness Level (TRL) 8.\n\nThe increasing demand of power rejection in current and future satellites requires the development of deployable radiator panels which can be stowed for launch and then deployed once the satellite is on its orbit. The development of such device implies several technical challenges: to transport efficiently the heat from the heat sources to the radiator, to increase the radiator area for rejecting higher powers but keeping a lightweight solution, and to accommodate a mechanism compliant with the functional requirements and the platform interfaces.\n\nMoreover, the DPR will be developed to guarantee modularity and scalability to be used in applications other than telecom such as Low Earth Orbit (LEO) missions, and in several platforms including full electric.  The proposed design provides a solution flexible enough to adapt this technology to different heat transport systems such as Loop Heat Pipes and Mechanical Pumped Loops.\n\nTo reach this goal, two specifications at system level will be issued for telecommunications and LEO applications. Considering these requirements, a DPR based on Loop Heat Pipes will be developed including a deployment mechanism which can cope with the functional needs. \n\nSeveral models will be manufactured. Two small scale models (one for telecom applications and the other one adapted to LEO specification) to demonstrate the fulfilment of the thermal performance and the scalability and adaptability of the design, and one DPR Qualification Model (QM). A complete flight qualification will be performed on this QM including mechanical and thermal testing at component and DPR levels.\n\nTherefore, the proposed project allows increasing the TRL of DPR, providing to the users a product fully qualified.",
+    "totalCost": "3534173,5",
+    "ecMaxContribution": "3534173,5",
+    "coordinator": "IBERICA DEL ESPACIO SA",
+    "coordinatorCountry": "ES",
+    "participants": "Active Space Technologies, Actividades Aeroespaciais S.A.;FUNDACION TECNALIA RESEARCH & INNOVATION;THALES ALENIA SPACE ITALIA SPA;SENER INGENIERIA Y SISTEMAS S.A.;THALES ALENIA SPACE FRANCE",
+    "participantCountries": "PT;ES;IT;FR",
+    "projectParticipants": {
+        "999488195": {
+            "orgId": "999488195",
+            "orgName": "THALES ALENIA SPACE ITALIA SPA",
+            "ecContrib": 667680
+        },
+        "986969957": {
+            "orgId": "986969957",
+            "orgName": "IBERICA DEL ESPACIO SA",
+            "ecContrib": 1202704
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 200971
+        },
+        "964190477": {
+            "orgId": "964190477",
+            "orgName": "Active Space Technologies, Actividades Aeroespaciais S.A.",
+            "ecContrib": 509875
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 650010
+        },
+        "998851778": {
+            "orgId": "998851778",
+            "orgName": "SENER INGENIERIA Y SISTEMAS S.A.",
+            "ecContrib": 302934
+        }
+    },
+    "calculatedTotalContribution": 3534174
+}

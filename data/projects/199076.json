@@ -1,0 +1,58 @@
+{
+    "rcn": "199076",
+    "acronym": "ARMOUR",
+    "topics": "ICT-12-2015",
+    "title": "Large-Scale Experiments of IoT Security Trust",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2018",
+    "objective": "The Internet-of-Things (IoT) is rapidly heading for large scale meaning that all mechanisms and features for the future IoT need to be especially designed and duly tested/certified for large-scale conditions. Also, Security, Privacy and Trust are critical elements of the IoT where inadequacy of these is a barrier to the deployment of IoT systems and to broad adoption of IoT technologies. Suitable duly tested solutions are then needed to cope with security, privacy and safety in the large scale IoT.\nInterestingly, world-class European research on IoT Security & Trust exists in European companies (especially SME) and academia where even there are available technologies that were proven to work adequately in the lab and/or small-scale pilots. More, unique experimental IoT facilities exist in the EU FIRE initiative that make possible large-scale experimentally-driven research but that are not well equipped to support IoT Security & Trust experiments. But notably, Europe is a leader in IoT Security & Trust testing solutions (e.g. RASEN toolbox, ETSI Security TC, etc.) that can be extended to large-scale testing environments and be integrated in FIRE IoT testbeds for supporting experimentations.\nThe ARMOUR project is aimed at providing duly tested, benchmarked and certified Security & Trust technological solutions for large-scale IoT using upgraded FIRE large-scale IoT/Cloud testbeds properly-equipped for Security & Trust experimentations. To this, ARMOUR will: (1) Enhance two outstanding FIRE testbeds (> 2700nodes; ~500users) with the ARMOUR experimentation toolbox for enabling large-scale IoT Security & Trust experiments; (2) Deliver six properly experimented, suitably validated and duly benchmarked methods and technologies for enabling Security & Trust in the large-scale IoT; and (3) Define a framework to support the design of Secure & Trusted IoT applications as well as establishing a certification scheme for setting confidence on Security & Trust IoT solutions.",
+    "totalCost": "1999558,75",
+    "ecMaxContribution": "1999558,75",
+    "coordinator": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+    "coordinatorCountry": "FR",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;SMARTESTING SOLUTIONS & SERVICES;ODIN SOLUTIONS S.L.;UNPARALLEL INNOVATION LDA;SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA;EASY GLOBAL MARKET SAS;JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+    "participantCountries": "FR;ES;PT;EL;BE",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 315750
+        },
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 258938
+        },
+        "999992304": {
+            "orgId": "999992304",
+            "orgName": "JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+            "ecContrib": 190500
+        },
+        "953318426": {
+            "orgId": "953318426",
+            "orgName": "UNPARALLEL INNOVATION LDA",
+            "ecContrib": 284272
+        },
+        "930039784": {
+            "orgId": "930039784",
+            "orgName": "SMARTESTING SOLUTIONS & SERVICES",
+            "ecContrib": 266888
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 259961
+        },
+        "934796858": {
+            "orgId": "934796858",
+            "orgName": "ODIN SOLUTIONS S.L.",
+            "ecContrib": 152438
+        },
+        "972455847": {
+            "orgId": "972455847",
+            "orgName": "EASY GLOBAL MARKET SAS",
+            "ecContrib": 270812
+        }
+    },
+    "calculatedTotalContribution": 1999559
+}

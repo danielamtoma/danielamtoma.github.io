@@ -1,0 +1,78 @@
+{
+    "rcn": "211032",
+    "acronym": "McSAFE",
+    "topics": "NFRP-1",
+    "title": "High-Performance Monte Carlo Methods for SAFEty Demonstration- From Proof of Concept to realistic Safety Analysis and Industry-like Applications",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "Considering the priority topics of NUGENIA and the achievements of the EU HPMC project, the overall objective of the McSAFE project is to move the Monte Carlo based stand-alone and coupled solution methodologies (advanced depletion, optimal coupling of MC-codes to thermal-hydraulic solvers, time-dependent Monte Carlo and methods and algorithms for massively parallel simulations) to become valuable and widespread numerical tools for realistic core design, safety analysis and industry-like applications of LWRs of generation II and III.\n\nOn one hand, the envisaged developments will permit to predict important core safety parameters with less conservatism than current state-of-the-art methods and on the other hand, it will make possible the increase the performance and operational flexibility of nuclear reactors. Last but not least, this kind of projects fosters the dissemination of knowledge from experienced researchers to young engineers, scientists as well as master and doctoral students.\n\nThe McSAFE project is planned to be a research and innovation action. Even though the applications foreseen for this period are all focused on Generation II, the codes and methods to be further developed and validated can be applied to Gen-III and Gen-IV reactors in a straight-forward manner. In addition, the McSAFE tools and methods are also applicable to research reactors (core design optimisation and safety features evaluation), where the complicated geometry and physics of the core can be adequately simulated only by Monte Carlo codes.",
+    "totalCost": "3140393,75",
+    "ecMaxContribution": "2981592,23",
+    "coordinator": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+    "coordinatorCountry": "DE",
+    "participants": "PREUSSENELEKTRA GMBH;KUNGLIGA TEKNISKA HOEGSKOLAN;ELECTRICITE DE FRANCE;Teknologian tutkimuskeskus VTT Oy;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;ENERGY, SAFETY AND RISK CONSULTANTS (UK) LIMITED;CEZ AS;JAN EDUARD HOOGENBOOM;UJV REZ, a. s.;HELMHOLTZ-ZENTRUM DRESDEN-ROSSENDORF EV;JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+    "participantCountries": "DE;SE;FR;FI;UK;CZ;NL;BE",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 415806
+        },
+        "999470541": {
+            "orgId": "999470541",
+            "orgName": "HELMHOLTZ-ZENTRUM DRESDEN-ROSSENDORF EV",
+            "ecContrib": 279656
+        },
+        "999992304": {
+            "orgId": "999992304",
+            "orgName": "JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+            "ecContrib": 251542
+        },
+        "949179048": {
+            "orgId": "949179048",
+            "orgName": "JAN EDUARD HOOGENBOOM",
+            "ecContrib": 212723
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 247190
+        },
+        "997998954": {
+            "orgId": "997998954",
+            "orgName": "CEZ AS",
+            "ecContrib": 36219
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 464638
+        },
+        "999926829": {
+            "orgId": "999926829",
+            "orgName": "ELECTRICITE DE FRANCE",
+            "ecContrib": 62938
+        },
+        "952728472": {
+            "orgId": "952728472",
+            "orgName": "ENERGY, SAFETY AND RISK CONSULTANTS (UK) LIMITED",
+            "ecContrib": 158256
+        },
+        "999477428": {
+            "orgId": "999477428",
+            "orgName": "UJV REZ, a. s.",
+            "ecContrib": 118750
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 670938
+        },
+        "997543636": {
+            "orgId": "997543636",
+            "orgName": "PREUSSENELEKTRA GMBH",
+            "ecContrib": 62938
+        }
+    },
+    "calculatedTotalContribution": 2981594
+}

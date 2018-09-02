@@ -1,0 +1,23 @@
+{
+    "rcn": "207593",
+    "acronym": "GENECLOCKS",
+    "topics": "ERC-2016-STG",
+    "title": "Reconstructing a dated tree of life using phylogenetic incongruence",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "With the advent of genome-scale sequencing, molecular phylogeny, which reconstructs gene trees from homologous sequences, has reached an impasse. Instead of answering open questions, new genomes have reignited old debates. The problem is clear, gene trees are not species trees, each is the unique result of series of evolutionary events. If, however, we model these differences in the context of a common species tree, we can access a wealth of information on†genome evolution and the diversification of species that is not available to traditional methods. For example, as horizontal gene transfer (HGT) can only occur†between coexisting species, HGTs provide information on the order of speciations. When HGT is rare, lineage sorting can generate incongruence between gene trees and the dating problem can be formulated in terms of biologically meaningful parameters (such as population size), that are informative on the rate of evolution and hence invaluable to molecular dating. \nMy first goal is to develop methods that systematically extract information on the pattern and timing of genomic evolution by explaining differences between gene trees. This will allow us to, for the first time, reconstruct a dated tree of life from genome-scale data. We will use parallel programming to maximise the number of genomes analysed.\nMy second goal is to apply these methods to open problems, e.g.: i) to resolve the timing of microbial evolution and its relationship to Earth history, where the extreme paucity of fossils limits the use of molecular dating†methods, by using HGT events as ìmolecular fossilsî; ii) to reconstruct rooted phylogenies from complete genomes and harness phylogenetic incongruence to answer long standing questions, such as the of diversification of animals or the position of eukaryotes among archaea; and iii) for eukaryotic groups such as Fungi, where evidence of significant amounts of HGT is emerging our methods will also allow the quantification of the extent of HGT.",
+    "totalCost": "1453542",
+    "ecMaxContribution": "1453542",
+    "coordinator": "EOTVOS LORAND TUDOMANYEGYETEM",
+    "coordinatorCountry": "HU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999896468": {
+            "orgId": "999896468",
+            "orgName": "EOTVOS LORAND TUDOMANYEGYETEM",
+            "ecContrib": 1453542
+        }
+    },
+    "calculatedTotalContribution": 1453542
+}

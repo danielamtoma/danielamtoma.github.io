@@ -1,0 +1,17 @@
+{
+    "rcn": "216257",
+    "acronym": "FairSocialComputing",
+    "topics": "ERC-2017-ADG",
+    "title": "Foundations for Fair Social Computing",
+    "startDate": "01/07/2018",
+    "endDate": "30/06/2023",
+    "objective": "Social computing represents a societal-scale symbiosis of humans and computational systems, where humans interact via and with computers, actively providing inputs to influence and being influenced by, the outputs of the computations. Recently, several concerns have been raised about the unfairness of social computations pervading our lives ranging from the potential for discrimination in machine learning based predictive analytics and implicit biases in online search and recommendations to their general lack of transparency on what sensitive data about users they use or how they use them.\n\nIn this proposal, I propose ten fairness principles for social computations. They span across all three main categories of organizational justice, including distributive (fairness of the outcomes or ends of computations), procedural (fairness of the process or means of computations), and informational fairness (transparency of the outcomes and process of computations) and they cover a variety of unfairness perceptions about social computations. \n\nI describe the fundamental and novel technical challenges that arise when applying these principles to social computations. These challenges are related to operationalization (measurement), synthesis and analysis of fairness in computations. Tackling these requires applying methodologies from a number of sub-areas within CS, including learning, datamining, IR, game-theory, privacy, and distributed systems. \n\nI discuss our recent breakthroughs in tackling some of these challenges, particularly our idea of fairness constraints, a flexible mechanism that allows us to constrain learning models to synthesize fair computations that are non-discriminatory, the first of our ten principles. I outline our plans to build upon our results to tackle the challenges that arise from the other nine fairness principles. Successful execution of the proposal will provide the foundations for fair social computing in the future.",
+    "totalCost": "2487500",
+    "ecMaxContribution": "2487500",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

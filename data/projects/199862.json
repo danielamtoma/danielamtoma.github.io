@@ -1,0 +1,58 @@
+{
+    "rcn": "199862",
+    "acronym": "STREAMLINE",
+    "topics": "ICT-16-2015",
+    "title": "STREAMLINE",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "STREAMLINE will address the competitive advantage needs of European online media businesses (EOMB) by delivering fast reactive analytics suitable in solving a wide array of problems, including addressing customer retention, personalised recommendation, and more broadly targeted services. STREAMLINE will develop cross-sectorial analytics drawing on multi-source data originating from online media consumption, online games, telecommunications services, and multilingual web content. \n\nSTREAMLINE partners face big and fast data challenges. They serve over 100 million users, offer services that produce billions of events, yielding over 10 TB of data daily, and possess over a PB of data at rest. Their business use-cases are representative of EOMB, which cannot be handled efficiently & effectively by state-of-the-art technologies, as a consequence of system and human latencies. \nSystem latency issues arise due to the lack of appropriate (data) stream-oriented analytics tools and more importantly the added complexity, cost, and burden associated with jointly supporting analytics for both ìdata at restî and ìdata in motion.î Human latency results from the heterogeneity of existing tools and the low level programming languages required for development using an inordinate number of boilerplate codes that are system specific (e.g., Hadoop, SolR, Esper, Storm, and databases) and a plethora of scripts required to glue systems together.\n\nOur research and innovation actions, include addressing the challenges brought on by system and human latencies. In this regard, STREAMLINE will:\n1.\tDevelop a high level declarative language and user-interface, and corresponding automatic optimisation, parallelisation, and system adaptation technologies that reduce the programming expertise required by data scientists, thereby enabling them to more freely focus on domain specific matters.\n2.\tOvercome the complexity of the so-called ëlambda architectureí by delivering simplified operations that jointly support ìdata at restî and ìdata in motionî in a single system and is compatible with the Hadoop ecosystem.\n3.\tDevelop fast reactive machine learning technologies based on distributed parameter servers and fully distributed asynchronous and approximate algorithms for fast results at high input rates.\n\nThe impact of developing a European open source tool for analysing ìdata at restî and ìdata in motionî in a single system featuring a high level declarative language and a fast reactive machine learning library is much wider than just the recommender, ad targeting, and customer retention applications that the industrial partners in STREAMLINE will use to demonstrate the business value of our work for the data economy. Our open source tools will help Europe, in general, since they lower the big data analytics skills barrier, broaden the reach of data analytics tools, and are applicable to diverse market sectors, including healthcare, manufacturing, and transportation. Thereby, enabling a broad number of European SMEs in other markets to explore and integrate these technologies into their businesses. At the same time, STREAMLINE will provide a solid foundation for big data leadership in Europe, by providing an open-source platform ready to be used by millions of stakeholders in companies, households, and government.\n\nThe STREAMLINE consortium comprises world-renowned scientists and innovators in the areas of database systems (DFKI), distributed systems (SICS), and machine learning (SZTAKI) who have won many international awards, hold 18 patents collectively, and have founded and advised nine startups. Complementing the research excellence are four leading European enterprises in the data economy, in the areas of global telecommunication services (e.g., Internet, IPTV, mobile, and landline networks) (PT), games and entertainment (Rovio), media content streaming (NMusic), and web-scale data extraction and business analytics (IMR), with P\netab",
+    "totalCost": "3291294,99",
+    "ecMaxContribution": "3291294,99",
+    "coordinator": "RISE SICS AB",
+    "coordinatorCountry": "SE",
+    "participants": "MEO-SERVICOS DE COMUNICACOES E MULTIMEDIA SA;ALTICE LABS SA;NMUSIC SA;INTERNET MEMORY RESEARCH SAS;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET;ROVIO ENTERTAINMENT OY",
+    "participantCountries": "PT;FR;DE;HU;FI",
+    "projectParticipants": {
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 725522
+        },
+        "962640417": {
+            "orgId": "962640417",
+            "orgName": "INTERNET MEMORY RESEARCH SAS",
+            "ecContrib": 501104
+        },
+        "952057523": {
+            "orgId": "952057523",
+            "orgName": "ROVIO ENTERTAINMENT OY",
+            "ecContrib": 373832
+        },
+        "942289332": {
+            "orgId": "942289332",
+            "orgName": "NMUSIC SA",
+            "ecContrib": 92138
+        },
+        "999588202": {
+            "orgId": "999588202",
+            "orgName": "RISE SICS AB",
+            "ecContrib": 749050
+        },
+        "968722511": {
+            "orgId": "968722511",
+            "orgName": "MEO-SERVICOS DE COMUNICACOES E MULTIMEDIA SA",
+            "ecContrib": 0
+        },
+        "999911503": {
+            "orgId": "999911503",
+            "orgName": "ALTICE LABS SA",
+            "ecContrib": 431452
+        },
+        "999651252": {
+            "orgId": "999651252",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET",
+            "ecContrib": 418197
+        }
+    },
+    "calculatedTotalContribution": 3291295
+}

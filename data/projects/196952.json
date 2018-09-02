@@ -1,0 +1,23 @@
+{
+    "rcn": "196952",
+    "acronym": "ZSCAN",
+    "topics": "ERC-PoC-2014",
+    "title": "Hand pose and gesture analysis for next generation device interaction",
+    "startDate": "01/06/2015",
+    "endDate": "30/11/2016",
+    "objective": "A touch-less, markerless interface for next generation Virtual Reality headsets and laptops (with embedded 3D sensors expected early 2015), will be possible only when accurate and robust finger and hand pose detection is available and developers can easily build applications with these natural interfaces. Solutions based on color cameras are problematic because of the restrictions on environment lighting, complex backgrounds and varied skin tones. A recent breakthrough during research within our current ERC grant has been the development of a highly efficient prototype system that is capable of real-time markerless fingertip and hand pose detection and analysis using 3D sensors. Exposing this functionality for future human-computer interfaces is an important and necessary step forward that will allow more intuitive and effective interaction with next generation computing systems. Upscaling our current prototype system and packaging its functionality for easy use by developers is precisely the innovation we aim to implement in this PoC.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

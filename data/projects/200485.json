@@ -1,0 +1,23 @@
+{
+    "rcn": "200485",
+    "acronym": "BIGCODE",
+    "topics": "ERC-StG-2015",
+    "title": "Learning from Big Code: Probabilistic Models, Analysis and Synthesis",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "The goal of this proposal is to fundamentally change the way we build and reason about software. We aim to develop new kinds of statistical programming systems that provide probabilistically likely solutions to tasks that are difficult or impossible to solve with traditional approaches.\n\nThese statistical programming systems will be based on probabilistic models of massive codebases (also known as 'Big Code') built via a combination of advanced programming languages and powerful machine learning and natural language processing techniques. To solve a particular challenge, a statistical programming system will query a probabilistic model, compute the most likely predictions, and present those to the developer.\n\nBased on probabilistic models of 'Big Code', we propose to investigate new statistical techniques in the context of three fundamental research directions: i) statistical program synthesis where we develop techniques that automatically synthesize and predict new programs, ii) statistical prediction of program properties where we develop new techniques that can predict important facts (e.g., types) about programs, and iii) statistical translation of programs where we investigate new techniques for statistical translation of programs (e.g., from one programming language to another, or to a natural language).\n\nWe believe the research direction outlined in this interdisciplinary proposal opens a new and exciting area of computer science. This area will combine sophisticated statistical learning and advanced programming language techniques for building the next-generation statistical programming systems. \n\nWe expect the results of this proposal to have an immediate impact upon millions of developers worldwide, triggering a paradigm shift in the way tomorrow's software is built, as well as a long-lasting impact on scientific fields such as machine learning, natural language processing, programming languages and software engineering.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

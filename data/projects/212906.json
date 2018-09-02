@@ -1,0 +1,53 @@
+{
+    "rcn": "212906",
+    "acronym": "PRoPART",
+    "topics": "GALILEO-1-2017",
+    "title": "Precise and Robust Positioning for Automated Road Transports",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2019",
+    "objective": "The objective of the project ëPRoPARTí is the development and demonstration of a high availability positioning solution for connected automated driving applications. It aims to develop and enhance an existing RTK (Real Time Kinematic) software solution developed by Flowscape, by exploiting the distinguished features of Galileo signals as well as combining it with other positioning and sensor technologies. Besides the use of vehicle on board sensors, ëPRoPARTí will also use a low-cost Ultra Wideband (UWB) ranging solution for redundancy and robustness in areas where the coverage of GNSS is poor e.g. in tunnels or in urban canyons. In order to define the correct requirements for the PRoPART combined positioning solution, a cooperative automated vehicle application will be defined and developed. The vehicle application will rely on the high availability positioning solution and use it to couple its ADAS system with V2X and aggregate information received from other connected vehicles and Road Side Units (RSU). As there will be a transition period where a lot of vehicles are neither connected nor automated, solutions having high impact during low penetration are in focus. Therefore ëPRoPARTí will implement an RSU with high precision positioning and use both UWB as well as a traffic monitoring to supply ranging, object perception and EGNSS RTK correction data via ETSI ITS-G5 to the connected automated vehicle so it can make safe decisions based on robust data. This means that ëPRoPARTí also will implement perception layer sensor fusion that uses information collected in the LDM (Local Dynamic Map) as well as information from both the on board vehicle sensors and the high availability positioning solution. We will also exploit possibilities to distribute EGNSS RTK correction data from the RSU to the vehicle.",
+    "totalCost": "3502075,75",
+    "ecMaxContribution": "2968128,26",
+    "coordinator": "RISE RESEARCH INSTITUTES OF SWEDEN AB",
+    "coordinatorCountry": "SE",
+    "participants": "COMMSIGNIA KFT;SCANIA CV AB;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;BASELABS GMBH;FLOWSCAPE AB;ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+    "participantCountries": "HU;SE;DE;ES",
+    "projectParticipants": {
+        "999476652": {
+            "orgId": "999476652",
+            "orgName": "SCANIA CV AB",
+            "ecContrib": 405978
+        },
+        "915803870": {
+            "orgId": "915803870",
+            "orgName": "FLOWSCAPE AB",
+            "ecContrib": 330649
+        },
+        "953476051": {
+            "orgId": "953476051",
+            "orgName": "BASELABS GMBH",
+            "ecContrib": 231875
+        },
+        "951878461": {
+            "orgId": "951878461",
+            "orgName": "COMMSIGNIA KFT",
+            "ecContrib": 277375
+        },
+        "999605662": {
+            "orgId": "999605662",
+            "orgName": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+            "ecContrib": 405566
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 633900
+        },
+        "999613422": {
+            "orgId": "999613422",
+            "orgName": "RISE RESEARCH INSTITUTES OF SWEDEN AB",
+            "ecContrib": 682784
+        }
+    },
+    "calculatedTotalContribution": 2968127
+}

@@ -1,0 +1,63 @@
+{
+    "rcn": "207209",
+    "acronym": "SAFERtec",
+    "topics": "DS-01-2016",
+    "title": "Security Assurance FramEwoRk for neTworked vEhicular teChnology",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The assurance of security, privacy, reliability and safety features is key-point to unlock the enormous potential that the connected vehicles systems paradigm i.e., the dynamic Cyberphysical system of highly-equipped infrastructure-connected vehicles with numerous third-party components, can offer towards safer transportation. The emerging systems expose a variety of wireless-communication and hardware interfaces which result in a large attack surface; thus, attempts to assess the degree of confidence that security needs are satisfied come with prohibited cost for automotive stakeholders and OEMs.\nSAFERtec project will leverage a highly-skilled consortium to first model the varying exposure of a prototype connected vehicle system to numerous threats appearing under two generic instances of the increasingly pervasive V2I setting. One relates to road-side unit communication while the other involves the interaction with cloud application and passengers' smart devices. Then, adopting a systematic vertical approach SAFERtec will obtain an in-depth look of the possible vulnerabilities performing penetration-testing on individual hardware components and upper-layer V2I applications. Considering the available security mechanisms a third party provider already applies to each module, SAFERtec will determine a corresponding protection profile as a summary of the identified risks. An innovative framework appropriately designed for unified and thus, cost-effective use across all modules will employ statistical tools and security metrics to quantify the involved security assurance levels and also feed the incomplete automotive standards. Research on dependability methods will then allow the framework's transition from individual modules to the connected vehicle system. All above results will be incorporated and made available through an open-access toolkit that will pave the way towards the cost-effective identification of security assurance levels for connected vehicle systems.",
+    "totalCost": "3819380",
+    "ecMaxContribution": "3819380",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "COMMSIGNIA KFT;CENTRO RICERCHE FIAT SCPA;CASSIDIAN CYBERSECURITY SAS;TOMTOM DEVELOPMENT GERMANY GMBH;AUTOTALKS LTD;OPPIDA;UNIVERSITY OF PIRAEUS RESEARCH CENTER;SWARCO MIZAR SRL",
+    "participantCountries": "HU;IT;FR;DE;IL;EL",
+    "projectParticipants": {
+        "999924210": {
+            "orgId": "999924210",
+            "orgName": "SWARCO MIZAR SRL",
+            "ecContrib": 268100
+        },
+        "919322836": {
+            "orgId": "919322836",
+            "orgName": "AUTOTALKS LTD",
+            "ecContrib": 485000
+        },
+        "999586941": {
+            "orgId": "999586941",
+            "orgName": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+            "ecContrib": 363750
+        },
+        "951878461": {
+            "orgId": "951878461",
+            "orgName": "COMMSIGNIA KFT",
+            "ecContrib": 272500
+        },
+        "919758172": {
+            "orgId": "919758172",
+            "orgName": "OPPIDA",
+            "ecContrib": 435000
+        },
+        "999992886": {
+            "orgId": "999992886",
+            "orgName": "CENTRO RICERCHE FIAT SCPA",
+            "ecContrib": 323500
+        },
+        "951657883": {
+            "orgId": "951657883",
+            "orgName": "TOMTOM DEVELOPMENT GERMANY GMBH",
+            "ecContrib": 510000
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 615000
+        },
+        "952774935": {
+            "orgId": "952774935",
+            "orgName": "CASSIDIAN CYBERSECURITY SAS",
+            "ecContrib": 546530
+        }
+    },
+    "calculatedTotalContribution": 3819380
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "212862",
+    "acronym": "MRI4DEEG",
+    "topics": "ERC-2017-PoC",
+    "title": "An EEG calibration toolkit for monitoring rehabilitation of stroke patients.",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2019",
+    "objective": "An EEG calibration toolkit for monitoring rehabilitation of stroke patients\nEEG records electric potential differences from electrodes attached to the human skin. Since it is a brain imaging technique that provides a direct measure of neural activity, it is an ideal device to monitor stroke rehabilitation. For instance, the amplitude of an EEG response to a fixed external stimulus on the wrist could act as a biomarker quantifying the number of active cells in the primary somatosensory cortex. In this way, an EEG system could work as a simple monitoring device rendering direct feedback to healthcare workers on the success of the applied therapeutic strategy. This would greatly help to select the most optimal therapy for the individual patient.\nHowever, with the current state of the art a direct comparison between EEG amplitudes of different subjects is not possible because these amplitudes are strongly affected by inter individual skull variations. In this PoC project a calibration step is proposed to reduce these influences on the EEG biomarker. We will develop a software toolkit, allowing to execute the required calibration step with a minimum of patient burden. \nWe foresee that the prototype delivered by the end of the project can be developed into a commercial accessory EEG software device that can be provided to end users for relatively small add-on price. Best practices of EEG calibration will be disseminated by publications, presentations at conferences, a special workshop and business development activities.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "STICHTING VUMC",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "919322739": {
+            "orgId": "919322739",
+            "orgName": "STICHTING VUMC",
+            "ecContrib": 137500
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 12500
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

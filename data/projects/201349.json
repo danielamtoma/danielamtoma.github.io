@@ -1,0 +1,23 @@
+{
+    "rcn": "201349",
+    "acronym": "SAGE-CPSoC",
+    "topics": "MSCA-IF-2015-GF",
+    "title": "Self-Aware CPSoCs with Hierarchical Goal Management",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2019",
+    "objective": "SoCs (System-on-Chip) constitute the basis of embedded systems, are highly complex and require thorough orchestration of different goals across operating system, compiler and architecture layers. State-of-the-art approaches tend to focus on a single aspect, while other critical objectives are neglected. There is no centralized arbiter that considers the priority and significance of objectives and requirements of each application, as the objectives of different applications may be overlapping or contradicting. \n\nThe main research objective of this project is to propose a self-aware SoC platform with hierarchical goal management (HGM). To the best of the fellow's knowledge, this project is the first systematic approach to manage SoCs considering an arbitrary number of objectives in a complex hierarchy of competing goals and sub-goals. To this end, Cyber-Physical System-on-Chip (CPSoC), a sensor- and actuator-rich multiprocessor SoC platform developed at UC Irvine (UCI), will be used in cooperation with the UCI and TU Wien (TUW) groups. The stepping stones towards this approach will be explored in the disciplines of control theory and cognitive science by utilizing supervisory control, self-awareness, and machine learning methods. \n\nThe fellow will spend two years at UCI to gain a solid understanding of hierarchical control systems and develop the basic concepts of HGM on the CPSoC platform in cooperation with TUW. Then, he will spend the third year at TUW to further develop the concepts, reinforce the system with self-awareness and online learning, and apply them in application scenarios. At TUW, he will gain a solid understanding and undertake high-level training in cognitive science while exploiting it to enhance the management strategy. This enables him to emerge from the project with new skills, and the capability to develop his career by establishing a unique position in the academia, as a competent researcher in the field of embedded and cyber-physical systems.",
+    "totalCost": "261208,8",
+    "ecMaxContribution": "261208,8",
+    "coordinator": "TECHNISCHE UNIVERSITAET WIEN",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 261209
+        }
+    },
+    "calculatedTotalContribution": 261209
+}

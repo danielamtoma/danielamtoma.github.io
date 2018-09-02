@@ -1,0 +1,23 @@
+{
+    "rcn": "208012",
+    "acronym": "iTRUST",
+    "topics": "SMEInst-06-2016-2017",
+    "title": "iTRUST: In-time TReatment of acUte ischaemic STroke",
+    "startDate": "01/02/2017",
+    "endDate": "31/07/2017",
+    "objective": "The problem: Intravenous thrombolysis is by far the most effective treatment of Acute Ischaemic Stroke (AIS), and its use can independently strongly increase the proportion of AIS patients surviving. However, in the emergency setting of AIS an excess of information must be considered by the physician including imaging, clinical presentation and electronic health record data before safely inferring on the suitability of thrombolytic therapy. Still, the therapeutic decision is largely dependent on the capacity of the expert radiologist in predicting what is the outcome for the given patient after applying the pharmacological treatment ñ a problem further compounded by the heterogeneity in AIS progression.\n\nThe solution: iTRUST solution is a clinical decision support system that uses Convolutional Neural Networks to predict the outcome of the AIS for each patient based on the patientís biomarkers as well as clinical information. The prediction is presented as a probability of infarction when using pharmacological treatment or mechanical recanalization, making the prediction much more useful compared to current methods.\n\nThe market: The global AIS diagnosis and treatment market was valued at USD 1.2 billion in 2013 and is estimated to reach a market worth of USD 1.9 billion in 2020 growing at a CAGR of 6.3% from 2014 to 2020. Given the high incidence of AIS cases and the high importance of quickly allocating the appropriate therapeutic intervention, we have reasons to believe that iTRUST solution can generate an accumulated turnover exceeding EUR 32 million, five years post-project.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "CERCARE MEDICAL APS",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "920595961": {
+            "orgId": "920595961",
+            "orgName": "CERCARE MEDICAL APS",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

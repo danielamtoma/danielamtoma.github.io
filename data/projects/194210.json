@@ -1,0 +1,73 @@
+{
+    "rcn": "194210",
+    "acronym": "TIPS",
+    "topics": "ICT-02-2014",
+    "title": "Thermally Integrated Smart Photonics Systems",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "The objective of this proposal is to develop and demonstrate a scalable, thermally-enabled 3D integrated optoelectronic platform that can meet the explosion in data traffic growth within ICT. The Thermally Integrated Smart Photonics Systems (TIPS) program will heterogeneously integrate micro-thermoelectric coolers (?TEC) and micro-fluidics (?Fluidics) with optoelectronic devices (lasers, modulators, etc.) in order to precisely control device temperature and thus device wavelength compared to commercially available discrete technology.\nData traffic is projected to increase sharply (40-80◊ by 2020) and this is driving an increase in network complexity and the requirement for scalable optoelectronic integration. A major bottleneck to this large scale integration is thermal management. Active photonic devices generate extremely high heat flux levels (~1 kW/cm2) that must be efficiently removed to maintain performance and reliability; furthermore, active photonic devices must be controlled at temperature precision better than ±0.1∞C. Todayís thermal technology is at the limit and cannot scale with growth in the network. As a comparison, electronics produce lower heat flux levels (~100 W/cm2) and have a less restrictive temperature requirement of ? 85±2∞C.\nIntegration of thermal management onto optoelectronic devices has not been addressed to date in academic or industrial investigations and therefore presents a significant knowledge gap that must be filled to enable impact and ensure the EU is at the forefront of optoelectronic technology. While the end goal is driven by telecom or datacom industrial requirements there are many scientific knowledge gaps that will be filled by the TIPS consortium. The application space for a thermally-integrated smart optoelectronic solution is large and spans multiple communication length scales from long reach to inter/ intrachip communications as well as other applications like sensors that seek to leverage silicon photonics platforms",
+    "totalCost": "5230041,25",
+    "ecMaxContribution": "5230041",
+    "coordinator": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+    "coordinatorCountry": "IE",
+    "participants": "UNIVERSITAET HAMBURG;Alcatel Lucent Ireland Limited;LIONIX BV;UNIVERSITY OF LIMERICK;LIONIX INTERNATIONAL BV;LEIBNIZ-INSTITUT FUER FESTKOERPER- UND WERKSTOFFFORSCHUNG DRESDEN E.V.;COMMUNICRAFT LIMITED;III-V LAB;NOKIA BELL LABS FRANCE;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "DE;IE;NL;FR",
+    "projectParticipants": {
+        "918272908": {
+            "orgId": "918272908",
+            "orgName": "LIONIX INTERNATIONAL BV",
+            "ecContrib": 472625
+        },
+        "950835711": {
+            "orgId": "950835711",
+            "orgName": "COMMUNICRAFT LIMITED",
+            "ecContrib": 152734
+        },
+        "999809071": {
+            "orgId": "999809071",
+            "orgName": "UNIVERSITY OF LIMERICK",
+            "ecContrib": 471709
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 741500
+        },
+        "996377696": {
+            "orgId": "996377696",
+            "orgName": "NOKIA BELL LABS FRANCE",
+            "ecContrib": 367002
+        },
+        "999659206": {
+            "orgId": "999659206",
+            "orgName": "LIONIX BV",
+            "ecContrib": 0
+        },
+        "999975717": {
+            "orgId": "999975717",
+            "orgName": "UNIVERSITY COLLEGE CORK -  NATIONAL UNIVERSITY OF IRELAND, CORK",
+            "ecContrib": 1198696
+        },
+        "999544746": {
+            "orgId": "999544746",
+            "orgName": "LEIBNIZ-INSTITUT FUER FESTKOERPER- UND WERKSTOFFFORSCHUNG DRESDEN E.V.",
+            "ecContrib": 480425
+        },
+        "912924328": {
+            "orgId": "912924328",
+            "orgName": "UNIVERSITAET HAMBURG",
+            "ecContrib": 0
+        },
+        "999971546": {
+            "orgId": "999971546",
+            "orgName": "III-V LAB",
+            "ecContrib": 794850
+        },
+        "990844040": {
+            "orgId": "990844040",
+            "orgName": "Alcatel Lucent Ireland Limited",
+            "ecContrib": 550500
+        }
+    },
+    "calculatedTotalContribution": 5230041
+}

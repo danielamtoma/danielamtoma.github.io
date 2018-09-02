@@ -1,0 +1,23 @@
+{
+    "rcn": "197485",
+    "acronym": "ACCORD",
+    "topics": "ERC-StG-2014",
+    "title": "Algorithms for Complex Collective Decisions on Structured Domains",
+    "startDate": "01/07/2015",
+    "endDate": "30/06/2020",
+    "objective": "Algorithms for Complex Collective Decisions on Structured Domains. \nThe aim of this proposal is to substantially advance the field of Computational Social Choice, by developing new tools and methodologies that can be used for making complex group decisions in rich and structured environments. We consider settings where each member of a decision-making body has preferences over a finite set of alternatives, and the goal is to synthesise a collective preference over these alternatives, which may take the form of a partial order over the set of alternatives with a predefined structure: examples include selecting a fixed-size set of alternatives, a ranking of the alternatives, a winner and up to two runner-ups, etc. We will formulate desiderata that apply to such preference aggregation procedures, design specific procedures that satisfy as many of these desiderata as possible, and develop efficient algorithms for computing them. As the latter step may be infeasible on general preference domains, we will focus on identifying the least restrictive domains that enable efficient computation, and use real-life preference data to verify whether the associated restrictions are likely to be satisfied in realistic preference aggregation scenarios. Also, we will determine whether our preference aggregation procedures are computationally resistant to malicious behavior. To lower the cognitive burden on the decision-makers, we will extend our procedures to accept partial rankings as inputs. Finally, to further contribute towards bridging the gap between theory and practice of collective decision making, we will provide open-source software implementations of our procedures, and reach out to the potential users to obtain feedback on their practical applicability.",
+    "totalCost": "1395933",
+    "ecMaxContribution": "1395933",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 1395933
+        }
+    },
+    "calculatedTotalContribution": 1395933
+}

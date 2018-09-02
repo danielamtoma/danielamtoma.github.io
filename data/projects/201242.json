@@ -1,0 +1,23 @@
+{
+    "rcn": "201242",
+    "acronym": "HYPERBIO",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Hybrid Particle-Field Approach Including Electrostatics for Large-Scale Simulations of Biological Systems",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2018",
+    "objective": "Despite the continuous progress in computer simulations, the typical time and size bottlenecks are nowadays still heavily affecting the feasibility of large-scale simulations of complex biological systems at the molecular resolution accuracy. The current proposal aims at formulating a new hybrid particle-field approach including explicit treatment of electrostatic interactions for computational modelling of complex biological environments. The proposed method will combine the computational advantages of a self-consistent field approach (linear scaling cost for computation of intermolecular interactions, easy parallelization), becoming increasingly popular in polymer and soft-matter simulations, with a rigorous treatment of particles and explicit electrostatics. The proposed approach will allow fast and reliable simulations of polyelectrolyte mixtures, including biological charged membranes, multi-phase systems, and biological polymers (polysaccharides, proteins, nucleic acids etc), and it will make it possible to break by orders of magnitude the current limits for biomolecular simulations both in time and size. The project will have a main development part, where the self-consistent field formalism with electrostatics will be derived and implemented, and an applicative part, where the new methodology will be tested on lipopolysaccharide moieties. These large amphiphilic and chemically complex molecules constitute the outer membrane of Gram- bacteria, and are to date one of the major research targets to in antibiotic resistance studies. This project is multidisciplinary and involves international collaboration.  This project would have a great positive impact on the applicantís early stage researcher career, identifying her as one of the key players in the opening a new pathway into molecular simulations of biological systems.",
+    "totalCost": "196400,4",
+    "ecMaxContribution": "196400,4",
+    "coordinator": "UNIVERSITETET I OSLO",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 196400
+        }
+    },
+    "calculatedTotalContribution": 196400
+}

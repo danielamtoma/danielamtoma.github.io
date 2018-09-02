@@ -1,0 +1,43 @@
+{
+    "rcn": "207042",
+    "acronym": "TESTBED",
+    "topics": "MSCA-RISE-2016",
+    "title": "Testing and Evaluating Sophisticated information and communication Technologies for enaBling a smartEr griD",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Smart grid represents a significant new technology of improving the efficiency, reliability, and economics of the production, transmission, and distribution of electricity. It is crucial to exchange and use information for performing smart grid applications. However, in reality the exchange of information over multiple networks is unreliable, leading to unpredictable network Quality-of-Service and thus unreliable smart grid applications. Whatís worse, there are massive data, including metering data and measurement data,  structured or unstructured, making it challenging to exploit useful information. Hence, there is an urgent need to solve the research problem: how to coordinate multiple networks to reliably transmit data, and then manage ICT system resources to efficiently extract useful information for supporting smart grid applications?\nTESTBED is a major interdisciplinary project that combines wisdoms in three academic disciplines - Electronics Engineering, Power Engineering and Computing Sciences, to address the aforesaid problem. The main focus is on improving the communication layer interoperability and the efficiency of data analytic. Regarding the communication layer interoperability, this project intends to develop and evaluate function-driven communication frameworks. Moreover, this project will develop and verify new data integration and analytic techniques for enhancing power grid operations. These developed frameworks and methods will be extensively tested and evaluated in 4 well-equipped Laboratories at HWU, EPRI, ICCS, and CAS. They will not only support the SGAM Framework, but also complement and enhance International Standards. \nOverall, the main objective of this project is to coordinate the action of 5 Universities and 3 enterprises, working in the field of ICT and smart grid from both EU and China, to build and test sophisticated ICT, thereby facilitating the successful implementation of smart grid applications.",
+    "totalCost": "882000",
+    "ecMaxContribution": "598500",
+    "coordinator": "UNIVERSITY OF DURHAM",
+    "coordinatorCountry": "UK",
+    "participants": "DOTX CONTROL SOLUTIONS BV;HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE);HERIOT-WATT UNIVERSITY;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "participantCountries": "NL;EL;UK",
+    "projectParticipants": {
+        "932682452": {
+            "orgId": "932682452",
+            "orgName": "DOTX CONTROL SOLUTIONS BV",
+            "ecContrib": 54000
+        },
+        "999853400": {
+            "orgId": "999853400",
+            "orgName": "HERIOT-WATT UNIVERSITY",
+            "ecContrib": 144000
+        },
+        "999866010": {
+            "orgId": "999866010",
+            "orgName": "UNIVERSITY OF DURHAM",
+            "ecContrib": 202500
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 117000
+        },
+        "999792581": {
+            "orgId": "999792581",
+            "orgName": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+            "ecContrib": 81000
+        }
+    },
+    "calculatedTotalContribution": 598500
+}

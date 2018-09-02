@@ -1,0 +1,23 @@
+{
+    "rcn": "210200",
+    "acronym": "NNNPDF",
+    "topics": "ERC-2016-ADG",
+    "title": "Proton strucure for discovery at the Large Hadron Collider",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "'The objective of this project is to revolutionize the way the structure of the proton is accessed, determined, and used in the computation of physical processes at hadron colliders such as the Large Hadron Collider (LHC) of CERN.  At a hadron accelerator, predictions require a precise, detailed, and accurate description and understanding  of the structure of the colliding protons, as encoded in parton distributions (PDFs) - the distributions of quarks and gluons. At the LHC, PDFs are at present the major source of uncertainty, and in the near future they will be the main hurdle for discovery. The vision of this project is to remove this hurdle by attacking the problem using recent results from artificial intelligence (AI). I will lead a research team of two staff scientists, four postdocs and three PhD students, who will apply to PDF determination the recent methods of deep reinforcement learning and Q-learning, which will be coupled with deep residual networks to achieve a fully parameter- and bias-free understanding of proton structure. I will bring into high-energy physics a methodology so far used for object recognition in self-driving cars and automatic game playing, leading both to new physics, and new computational techniques. The application of these techniques to  PDFs will enable me to reach two secondary goals. The first is theoretical: the full use for PDF determination of recent high perturbative order (next-to-next-to leading order or NNLO) computations, which will be integrated by means of a new approximation method which relies on combining known exact results with all-order information in various kinematic limits to extend the scope of the former to a more detailed ('more exclusive') description of the final state.The second is phenomenological: the integration in PDF determination of the Monte-Carlo event generators which are used to turn field theoretical prediction into a realistic description which may be directly compared to experimental data.\n'",
+    "totalCost": "1602862",
+    "ecMaxContribution": "1602862",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999995796": {
+            "orgId": "999995796",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MILANO",
+            "ecContrib": 1602862
+        }
+    },
+    "calculatedTotalContribution": 1602862
+}

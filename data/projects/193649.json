@@ -1,0 +1,23 @@
+{
+    "rcn": "193649",
+    "acronym": "FELICITY",
+    "topics": "ERC-StG-2014",
+    "title": "Foundations of Efficient Lattice Cryptography",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2020",
+    "objective": "Public key cryptography is the backbone of internet security. Yet it is very likely that within the next few decades some government or corporate entity will succeed in building a general-purpose quantum computer that is capable of breaking all of today's public key protocols. Lattice cryptography, which appears to be resilient to quantum attacks, is currently viewed as the most promising candidate to take over as the basis for cryptography in the future.  Recent theoretical breakthroughs have additionally shown that lattice cryptography may even allow for constructions of primitives with novel capabilities.  But even though the progress in this latter area has been considerable, the resulting schemes are still extremely impractical. \n\nThe central objective of the FELICITY project is to substantially expand the boundaries of efficient lattice-based cryptography.  This includes improving on the most crucial cryptographic protocols, some of which are already considered practical, as well as pushing towards efficiency in areas that currently seem out of reach.  The methodology that we propose to use differs from the bulk of the research being done today.   Rather than directly working on advanced primitives in which practical considerations are ignored, the focus of the project will be on finding novel ways in which to break the most fundamental barriers that are standing in the way of practicality.  For this, I believe it is productive to concentrate on building schemes that stand at the frontier of what is considered efficient -- because it is there that the most critical barriers are most apparent.  And since cryptographic techniques usually propagate themselves from simple to advanced primitives, improved solutions for the fundamental ones will eventually serve as building blocks for practical constructions of schemes having advanced capabilities.",
+    "totalCost": "1311687,5",
+    "ecMaxContribution": "1311687,5",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 1311688
+        }
+    },
+    "calculatedTotalContribution": 1311688
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "196081",
+    "acronym": "ECDCOP",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Evolutionary Computation for Dynamic Constrained Optimization Problems",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2017",
+    "objective": "Evolutionary computation (EC), as an efficient tool, has been widely applied to solve different kinds of stationary optimization problems. However, many real-world optimization problems are dynamic constrained optimization problems (DCOPs), where the objective function, constraints, decision variables, and environmental parameters may change over time. At present, very few attempts have been made to investigate this kind of optimization problems in the communities of optimization and EC. This project aims to fill this gap. In this project, we will concentrate on the design, analysis, and applications of EC for DCOPs, including the following five main aspects. Firstly, we will design a set of benchmark dynamic constrained optimization test environments which can resemble real-world scenarios. Secondly, we intend to design standardized performance indicators to evaluate EC methods for DCOPs. Thirdly, based on the standardized dynamic test and evaluation environments, we will design some novel and effective EC methods to solve DCOPs. Fourthly, we will present theoretical analysis of EC with different constraint-handling techniques for DCOPs, with the aim of establishing the theoretical foundation of this area. Finally, applying the developed EC methods to deal with DCOPs in rail networks is also one key aspect of this project. This project has great potentials to fundamentally change the way in which DCOPs are treated, both from a real-world point of view and from the point of view of advancing our theoretical understanding. The research results of this project will be of great interest to academia in many fields and of significant benefit to many industries that involve DCOPs.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "DE MONTFORT UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999847968": {
+            "orgId": "999847968",
+            "orgName": "DE MONTFORT UNIVERSITY",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

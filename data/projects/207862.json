@@ -1,0 +1,28 @@
+{
+    "rcn": "207862",
+    "acronym": "TOPIOS",
+    "topics": "ERC-2016-STG",
+    "title": "Tracking Of Plastic In Our Seas",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2022",
+    "objective": "The amount of plastic in our ocean is exponentially growing, with recent estimates of more than 5 million metric tonnes of plastic reaching the ocean each year. This plastic infiltrates the ocean food chain and thus poses a major threat to marine life. However, understanding of plastic movement and its budget in the ocean is inadequate to fully establish its environmental impact, prompting the EU and G7 to recently make marine litter a top science priority.\nIt is now recognised that the amount of plastic entering our ocean is several orders of magnitude larger than the estimates of floating plastic on the surface of the ocean. More than 99% of plastic within our ocean is therefore ëmissingí.\nThis project will make breakthroughs towards closing the plastic budget by creating a novel comprehensive modelling framework that tracks plastic movement through the ocean. Building on well-established previous work to follow generic water parcels through hydrodynamic ocean models, this project will modify these ëvirtualí parcels to represent pieces of plastic by, for the first time, simulating fragmentation, sinking, beaching, wave-mixing and ingestion by biota. \nThe new parameterisations that underpin this modelling will be based on field data and new coastal flume wave tank lab experiments. The simulated plastic particles will be tracked within state-of-the-art hydrodynamic ocean models, in order to compute maps of pathways and transports around our oceans and on coastlines and in biota. This numerical modelling will be used to evaluate a broad suite of scenarios and test hypotheses, including where the risk to marine biota is greatest. \nThe results from this project will inform policymakers and the public on which countries, for example, are responsible for which part of the plastic problem, crucial for mitigation and legal frameworks. It will also inform engineers on where and how to best invest resources in mitigating the problem of plastic in our ocean.",
+    "totalCost": "1484760",
+    "ecMaxContribution": "1484760",
+    "coordinator": "UNIVERSITEIT UTRECHT",
+    "coordinatorCountry": "NL",
+    "participants": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "participantCountries": "UK;ES",
+    "projectParticipants": {
+        "999985805": {
+            "orgId": "999985805",
+            "orgName": "UNIVERSITEIT UTRECHT",
+            "ecContrib": 1276792
+        },
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 8784
+        }
+    },
+    "calculatedTotalContribution": 1285576
+}

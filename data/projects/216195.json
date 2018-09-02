@@ -1,0 +1,17 @@
+{
+    "rcn": "216195",
+    "acronym": "FRAPPANT",
+    "topics": "ERC-2017-ADG",
+    "title": "Formal Reasoning About Probabilistic Programs: Breaking New Ground for Automation",
+    "startDate": "01/11/2018",
+    "endDate": "31/10/2023",
+    "objective": "Probabilistic programs describe recipes on how to infer statistical conclusions about data from a complex mixture of uncertain data and real-world observations. They can represent probabilistic graphical models far beyond the capabilities of Bayesian networks and are expected to have a major impact on machine intelligence.\n\nProbabilistic programs are ubiquitous. They steer autonomous robots and self-driving cars, are key to describe security mechanisms, naturally code up randomised algorithms for solving NP-hard problems, and are rapidly encroaching AI. Probabilistic programming aims to make probabilistic modeling and machine learning accessible to the programmer.\n\nProbabilistic programs, though typically relatively small in size, are hard to grasp, let alone automatically checkable. Are they doing the right thing? Whatís their precision? These questions are notoriously hard ó even the most elementary question ìdoes a program halt with probability one?î is ìmore undecidableî than the halting problem ó and can (if at all) be answered with statistical evidence only. Bugs thus easily occur. Hard guarantees are called for. The objective of this project is to enable predictable probabilistic programming. We do so by developing formal verification techniques.\n\nWhereas program correctness is pivotal in computer science, the formal verification of probabilistic programs is in its infancy. The project aims to fill this barren landscape by developing program analysis techniques, leveraging model checking, deductive verification, and static analysis. Challenging problems such as checking program equivalence, loop-invariant and parameter synthesis, program repair, program robustness and exact inference using weakest precondition reasoning will be tackled. The techniques will be evaluated in the context of probabilistic graphical models, randomised algorithms, and autonomous robots.\n\nFRAPPANT will spearhead formally verifiable probabilistic programming.",
+    "totalCost": "2491250",
+    "ecMaxContribution": "2491250",
+    "coordinator": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

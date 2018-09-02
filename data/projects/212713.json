@@ -1,0 +1,23 @@
+{
+    "rcn": "212713",
+    "acronym": "NoTape",
+    "topics": "ERC-2017-STG",
+    "title": "Measuring with no tape",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2022",
+    "objective": "Society generates increasing amounts of data, which is both a resource and a challenge. The data reveal new insights that may potentially improve our livelihood, but their quantity renders such insights difficult to find. Machine learning techniques sift through the data looking for statistical patterns of interest to a given task. Due to an exponential growth in available data, these techniques enable us to automate difficult decisions, such as those needed for personalized medicine and self-driving cars.\n\nNoTape note that machine learning techniques depend on a distance measure to determine which data points are similar and which are not. As this measure is difficult to choose, NoTape develop methods for estimating an optimal distance measure directly from data. Empirical evidence suggest that the optimal distance measure in one region of data space need not coincide with the optimal measure in another region, i.e.that the distance measure should locally adapt to the data. Local adaptability imply that the distance measure itself will be sensitive to noise in the data, and therefore should be described as a random variable. NoTape estimate distance measures as random Riemannian metrics and perform statistical data analysis accordingly. The notion of statistical computations with respect to an uncertain locally adaptive distance measure is uncharted territory, which need new algorithms for numerical integration and for solving differential equations.\n\nAs a guiding example, we estimate statistical models that reflect human perception. As perception processes are not fully understood, an optimal distance measure cannot be precisely estimated and the uncertainty of NoTape is needed.\n\nThe geometric nature of the developed methods ensure that attained models are interpretable by humans, which contrast current locally adaptive techniques. As society automate more decisions, interpretability is increasing important to ensure that the machine learning system can be trusted.",
+    "totalCost": "1463805",
+    "ecMaxContribution": "1463805",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 1463805
+        }
+    },
+    "calculatedTotalContribution": 1463805
+}

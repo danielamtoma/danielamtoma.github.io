@@ -1,0 +1,23 @@
+{
+    "rcn": "211864",
+    "acronym": "ELECTRIC",
+    "topics": "ERC-2017-STG",
+    "title": "Chip Scale Electrically Powered Optical Frequency Combs",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "In ELECTRIC, I will integrate electrically powered optical frequency combs on mass manufacturable silicon chips. This will allow for making use of all the advantageous properties of these light sources in real-life situations.\nOptical frequency combs are light sources with a spectrum consisting of millions of laser lines, equally spaced in frequency. This equifrequency spacing provides a link between the radio frequency band and the optical frequency band of the electromagnetic spectrum. This property has literally revolutionized the field of frequency metrology and precision laser spectroscopy. Recently, their application field has been extended. Amongst others, their unique properties have been exploited in precision distant measurement experiments  as well as optical waveform and microwave synthesis demonstrators. Moreover, so called ìdual-comb spectroscopyî experiments have demonstrated broadband Fourier Transform Infrared  spectroscopy with ultra-high resolution and record acquisition speeds. However, most of these demonstrations required large bulky experimental setups which hampers wide deployment.\n \nI will build frequency combs on optical chips that can be mass-manufactured. Unlike the current chip scale Kerr comb based solutions they do not need to be optically pumped with a powerful continuous wave laser and can have a narrower comb spacing. The challenge here is two-fold. First, we need to make electrically powered integrated low noise oscillators. Second, we need to lower the threshold of current on-chip nonlinear optical interactions by an order of magnitude to use them in on-chip OFC generators. \n\nSpecifically I will achieve this goal by: \nï\tMaking use of ultra-efficient nonlinear optical interactions based on soliton compression in dispersion engineered III-V waveguides and plasmonic enhanced second order nonlinear materials. \nï\tEnhance the performance of ultra-low noise silicon nitride mode locked lasers with these nonlinear components.",
+    "totalCost": "1391250",
+    "ecMaxContribution": "1391250",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 1391250
+        }
+    },
+    "calculatedTotalContribution": 1391250
+}

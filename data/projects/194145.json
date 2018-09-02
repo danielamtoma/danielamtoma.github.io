@@ -1,0 +1,63 @@
+{
+    "rcn": "194145",
+    "acronym": "HECTOR",
+    "topics": "ICT-32-2014",
+    "title": "HARDWARE ENABLED CRYPTO AND RANDOMNESS",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2018",
+    "objective": "A single flipped bit or a weak random number generator can cause secure systems to fail. The main objective of this proposal is to close the gap between the mathematical heaven of cryptographic algorithms and their efficient, secure and robust hardware implementations. It requires integrating   secure cryptographic primitives such as random number generators (RNGs) and physically uncloneable functions (PUFs), together with physical attack countermeasures. Therefore we will study, design and implement RNGs and PUFs with demonstrable entropy guarantees and quality metrics. This includes on-the-fly entropy testing and physical attacks evaluations. This will enable more secure systems and easier certification.\nState-of-the-art cryptography and countermeasures can fail due to low-entropy random numbers. The unknown is ëhow muchí they will fail and how much entropy degradation can be tolerated (due to attacks or RNG designs mixing true and pseudo randomness). Our objective is to study the strength and gradual security degradation when using lower entropy random numbers. This will enable more optimal and secure implementations.\nThese objectives have to be combined with hardware efficiency and flexibility. This means addressing the extremely low-cost and low-power requirements of constrained embedded devices, low-latency of real-time memory encryption, or high throughput of future terabit networks. \nUltimately, we target security building blocks that are flexible, hardware-friendly, efficient, and robust against physical attacks, and which will be demonstrated on European relevant use cases. \nWe bring together experts from industry, academia and evaluation labs with collective ambitions, potential and track records and with complementary expertise, dissemination and impact potential. Results will not only benefit the companies involved and their customers, but also the broader ICT through publications and inputs to standardization and certification bodies.",
+    "totalCost": "4494087,5",
+    "ecMaxContribution": "4494087,5",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "TECHNISCHE UNIVERSITAET GRAZ;THALES COMMUNICATIONS & SECURITY SAS;STMICROELECTRONICS ROUSSET SAS;Brightsight BV;UNIVERSITE JEAN MONNET SAINT-ETIENNE;STMICROELECTRONICS SRL;KATHOLIEKE UNIVERSITEIT LEUVEN;MICRONIC AS",
+    "participantCountries": "AT;FR;NL;IT;BE;SK",
+    "projectParticipants": {
+        "999889775": {
+            "orgId": "999889775",
+            "orgName": "UNIVERSITE JEAN MONNET SAINT-ETIENNE",
+            "ecContrib": 489875
+        },
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 518750
+        },
+        "989581779": {
+            "orgId": "989581779",
+            "orgName": "STMICROELECTRONICS ROUSSET SAS",
+            "ecContrib": 573619
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 413250
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 549375
+        },
+        "941774165": {
+            "orgId": "941774165",
+            "orgName": "MICRONIC AS",
+            "ecContrib": 472000
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 540469
+        },
+        "996271287": {
+            "orgId": "996271287",
+            "orgName": "Brightsight BV",
+            "ecContrib": 341250
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 595500
+        }
+    },
+    "calculatedTotalContribution": 4494088
+}

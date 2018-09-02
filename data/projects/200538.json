@@ -1,0 +1,23 @@
+{
+    "rcn": "200538",
+    "acronym": "DIRECT-fMRI",
+    "topics": "ERC-StG-2015",
+    "title": "Sensing activity-induced cell swellings and ensuing neurotransmitter releases for in-vivo functional imaging sans hemodynamics",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2021",
+    "objective": "Functional-Magnetic Resonance Imaging (fMRI) has transformed our understanding of brain function due to its ability to noninvasively tag ëactiveí brain regions. Nevertheless, fMRI only detects neural activity indirectly, by relying on slow hemodynamic couplings whose relationships with underlying neural activity are not fully known.\n We have recently pioneered two unique MR approaches: Non-Uniform Oscillating-Gradient Spin-Echo (NOGSE) MRI and Relaxation Enhanced MR Spectroscopy (RE MRS). NOGSE-MRI is an exquisite microstructural probe, sensing cell sizes (l) with an unprecedented l^6 sensitivity (compared to l^2 in conventional approaches); RE MRS is a new spectral technique capable of recording metabolic signals with extraordinary fidelity at ultrahigh fields. \nThis proposal aims to harness these novel concepts for mapping neural activity directly, without relying on hemodynamics. The specific objectives of this proposal are:\n(1) Mapping neural activity via sensing cell swellings upon activity (?fMRI): we hypothesize that NOGSE can robustly sense subtle changes in cellular microstructure upon neural firings and hence convey neural activity directly. \n(2) Probing the nature of elicited activity via detection of neurotransmitter release: we posit that RE MRS is sufficiently sensitive to robustly detect changes in Glutamate and GABA signals upon activation. \n(3) Network mapping in optogenetically-stimulated, behaving mice: we propose to couple our novel approaches with optogenetics to resolve neural correlates of behavior in awake, behaving mice.  \nSimulations for ?fMRI predict >4% signal changes upon subtle cell swellings; further, our in vivo RE MRS experiments have detected metabolites with SNR>50 in only 6 seconds. Hence, these two complementary ñand importantly, hemodynamics-independentñ approaches will represent a true paradigm shift: from indirect detection of neurovasculature couplings towards direct and noninvasive mapping of neural activity in vivo.",
+    "totalCost": "1787500",
+    "ecMaxContribution": "1787500",
+    "coordinator": "FUNDACAO D. ANNA SOMMER CHAMPALIMAUD E DR. CARLOS MONTEZ CHAMPALIMAUD",
+    "coordinatorCountry": "PT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "967498371": {
+            "orgId": "967498371",
+            "orgName": "FUNDACAO D. ANNA SOMMER CHAMPALIMAUD E DR. CARLOS MONTEZ CHAMPALIMAUD",
+            "ecContrib": 1787500
+        }
+    },
+    "calculatedTotalContribution": 1787500
+}

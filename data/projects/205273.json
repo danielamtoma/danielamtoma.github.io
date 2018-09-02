@@ -1,0 +1,23 @@
+{
+    "rcn": "205273",
+    "acronym": "Fabriscale",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "Fabric management for the software defined data centre",
+    "startDate": "01/09/2016",
+    "endDate": "31/12/2016",
+    "objective": "Fabriscale Technologies is a Norwegian software startup company aiming at becoming a leading provider of fabric and data centre management software. Our first product is the Fabriscale fabric manager (FFM), a European next-generation fabric management software system that offers more efficient and reliable operation of data centres and HPC clusters than existing solutions. This is critical for large clusters with thousands of nodes, where the consequences of downtime are that medical, industrial and societal services hosted in the cloud are interrupted.  The FFM builds on world-class research on concepts and algorithms for network management at Simula Research Laboratory. Its disruptive features outperforms existing FMs by up to 40% in terms of network throughput, and is up to several hundred times faster in terms of time of recovery from faults.\n\nTarget users are operators of large storage and computing facilities. They will experience increased network throughput by up to 40% and reduced recovery time from several minutes to less than a second. Cost savings are estimated to Ä 750 000 for a system with 5000 servers over a four-year period and the reduction in energy consumption is estimated to 30% if the increase in efficiency is used to decommission unneeded equipment.\n\nGartner estimates the global market for fabric managers to Ä 800 million, with a compound annual growth rate of 8.6% in 2014 - 2019. Fabriscale aims for a revenue of Ä 7 million for our InfiniBand/Omni-Path FM by 2020, which increases to Ä 80 million by 2025 with an expansion to the Ethernet segment.\n\nDuring phase 1 we will complete an analysis of the worldwide market for fabric managers, finalise agreements with pilots, identify potential partners, and refine the business model for the US and European markets. During phase 2 we will pursue customer-driven product demonstration activities in the US and European markets together with the two pilot customers that we reached agreements with in phase 1",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "FABRISCALE TECHNOLOGIES AS",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "920948944": {
+            "orgId": "920948944",
+            "orgName": "FABRISCALE TECHNOLOGIES AS",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

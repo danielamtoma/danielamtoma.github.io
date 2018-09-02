@@ -1,0 +1,33 @@
+{
+    "rcn": "213823",
+    "acronym": "FireExtinction",
+    "topics": "JTI-CS2-2017-CFP06-LPA-02-18",
+    "title": "MULTI-PHYSICS METHODOLOGY FOR PHASE CHANGE DUE TO RAPIDLY DEPRESSURISED TWO-PHASE FLOWS",
+    "startDate": "01/03/2018",
+    "endDate": "29/02/2020",
+    "objective": "A multi-physics methodology is proposed to couple CFD calculations with models for phase change of rapidly depressurised mist of a fire suppression system. The methodology combines existing models with newly developed ideas with considers the coupling between large and small scales. The new models aim to describe the penetration of a two-phase flow and phase transitions into the confounding space and will be implemented as a user defined function in a tool chain and coupled with the nearfield CFD calculation. Both, a Lagragian and a Eulerian formulation will be followed using existing commercial tools and ìin-houseî multiphase solvers. Finally, one experiment is proposed to validate the numerical results in one relevant case.",
+    "totalCost": "395937,5",
+    "ecMaxContribution": "395937,5",
+    "coordinator": "UNIVERSIDAD POLITECNICA DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSITAT POLITECNICA DE VALENCIA;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "ES",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 131562
+        },
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 119688
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 144688
+        }
+    },
+    "calculatedTotalContribution": 395938
+}

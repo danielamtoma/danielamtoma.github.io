@@ -1,0 +1,23 @@
+{
+    "rcn": "202564",
+    "acronym": "COLORAMAP",
+    "topics": "ERC-StG-2015",
+    "title": "Constrained Low-Rank Matrix Approximations: Theoretical and Algorithmic Developments for Practitioners",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Low-rank matrix approximation (LRA) techniques such as principal component analysis (PCA) are powerful tools for the representation and analysis of high dimensional data, and are used in a wide variety of areas such as machine learning, signal and image processing, data mining, and optimization. Without any constraints and using the least squares error, LRA can be solved via the singular value decomposition. However, in practice, this model is often not suitable mainly because (i) the data might be contaminated with outliers, missing data and non-Gaussian noise, and (ii) the low-rank factors of the decomposition might have to satisfy some specific constraints. Hence, in recent years, many variants of LRA have been introduced, using different constraints on the factors and using different objective functions to assess the quality of the approximation; e.g., sparse PCA, PCA with missing data, independent component analysis and nonnegative matrix factorization. Although these new constrained LRA models have become very popular and standard in some fields, there is still a significant gap between theory and practice. In this project, our goal is to reduce this gap by attacking the problem in an integrated way making connections between LRA variants, and by using four very different but complementary perspectives: (1) computational complexity issues, (2) provably correct algorithms, (3) heuristics for difficult instances, and (4) application-oriented aspects. This unified and multi-disciplinary approach will enable us to understand these problems better, to develop and analyze new and existing algorithms and to then use them for applications. Our ultimate goal is to provide practitioners with new tools and to allow them to decide which method to use in which situation and to know what to expect from it.",
+    "totalCost": "1291750",
+    "ecMaxContribution": "1291750",
+    "coordinator": "UNIVERSITE DE MONS",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "990884004": {
+            "orgId": "990884004",
+            "orgName": "UNIVERSITE DE MONS",
+            "ecContrib": 1291750
+        }
+    },
+    "calculatedTotalContribution": 1291750
+}

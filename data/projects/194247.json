@@ -1,0 +1,68 @@
+{
+    "rcn": "194247",
+    "acronym": "PaaSword",
+    "topics": "ICT-07-2014",
+    "title": "A Holistic Data Privacy and Security by Design Platform-as-a-Service Framework Introducing Distributed Encrypted Persistence in Cloud-based Applications",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The vision of PaaSword is to maximize and fortify the trust of individual, professional and corporate customers to Cloud -enabled services and applications, to safeguard both corporate and personal sensitive data stored on Cloud infrastructures and Cloud-based storage services, and to accelerate the adoption of Cloud computing technologies and paradigm shift from the European industry. Thus, PaaSword will introduce a holistic data privacy and security by design framework enhanced by sophisticated context-aware policy access models and robust policy access, decision, enforcement and governance mechanisms, which will enable the implementation of secure and transparent Cloud-based applications and services that will maintain a fully distributed and totally encrypted data persistence layer, and, thus, will foster customers' data protection, integrity and confidentiality, even in the case wherein there is no control over the underlying third-party Cloud resources utilized.\nIn particular, PaaSword intends not only to adopt the CSA Cloud security principles, but also to extend them by capitalizing on recent innovations on (a) distributed encryption and virtual database middleware technologies that introduce a scalable secure Cloud database abstraction layer combined with sophisticated distribution and encryption methods into the processing and querying of data stored in the Cloud; (b) context-aware access control that incorporate the dynamically changing contextual information into novel group policies implementing configurable context-based access control policies and context-dependent access rights to the stored data at various different levels; and (c) policy governance, modelling and annotation techniques that allows application developers to specify an appropriate level of protection for the applicationís data, while the evaluation of whether an incoming request should be granted access to the target data takes dynamically place during application runtime.",
+    "totalCost": "4461513",
+    "ecMaxContribution": "3984575",
+    "coordinator": "CAS SOFTWARE AG",
+    "coordinatorCountry": "DE",
+    "participants": "KENTRO EREVNON NOTIOANATOLIKIS EVROPIS ASTIKI MI KERDOSKOPIKI ETAIREIA;SIXSQ SARL;SIEMENS SRL;GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS;RISE SICS AB;KARLSRUHER INSTITUT FUER TECHNOLOGIE;SINGULARLOGIC CYPRUS LTD;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;INTRASOFT INTERNATIONAL SA",
+    "participantCountries": "EL;CH;RO;SE;DE;CY;LU",
+    "projectParticipants": {
+        "953556755": {
+            "orgId": "953556755",
+            "orgName": "SIEMENS SRL",
+            "ecContrib": 235000
+        },
+        "999532621": {
+            "orgId": "999532621",
+            "orgName": "KENTRO EREVNON NOTIOANATOLIKIS EVROPIS ASTIKI MI KERDOSKOPIKI ETAIREIA",
+            "ecContrib": 325000
+        },
+        "999702371": {
+            "orgId": "999702371",
+            "orgName": "INTRASOFT INTERNATIONAL SA",
+            "ecContrib": 615000
+        },
+        "999588202": {
+            "orgId": "999588202",
+            "orgName": "RISE SICS AB",
+            "ecContrib": 617750
+        },
+        "948520806": {
+            "orgId": "948520806",
+            "orgName": "SINGULARLOGIC CYPRUS LTD",
+            "ecContrib": 265500
+        },
+        "999797334": {
+            "orgId": "999797334",
+            "orgName": "CAS SOFTWARE AG",
+            "ecContrib": 641875
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 322750
+        },
+        "996552684": {
+            "orgId": "996552684",
+            "orgName": "SIXSQ SARL",
+            "ecContrib": 0
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 636700
+        },
+        "985034419": {
+            "orgId": "985034419",
+            "orgName": "GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",
+            "ecContrib": 325000
+        }
+    },
+    "calculatedTotalContribution": 3984575
+}

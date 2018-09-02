@@ -1,0 +1,58 @@
+{
+    "rcn": "194249",
+    "acronym": "CENTAURO",
+    "topics": "ICT-23-2014",
+    "title": "Robust Mobility and Dexterous Manipulation in Disaster Response by Fullbody Telepresence in a Centaur-like Robot",
+    "startDate": "01/04/2015",
+    "endDate": "30/09/2018",
+    "objective": "Disaster scenarios, like the Fukushima nuclear accident, clearly show that the capabilities of today's disaster response robots are not sufficient for providing the needed support to rescue workers. The CENTAURO project aims at development of a human-robot symbiotic system where a human operator is telepresent with its whole body in a Centaur-like robot, which is capable of robust locomotion and dexterous manipulation in the rough terrain and austere conditions characteristic of disasters. The CENTAURO robot will consist of a four-legged basis and an anthropomorphic upper body and will be driven by lightweight, compliant actuators. It will be able to navigate in affected man-made environments, including the inside of buildings and stairs, which are cluttered with debris and partially collapsed. The Centauro system will be capable of using unmodified human tools for solving complex bimanual manipulation tasks, such as connecting a hose or opening a valve, in order to relieve the situation. A human operator will control the robot intuitively using a full-body telepresence suit that provides visual, auditory, and upper-body haptic feedback. Rich sensors will provide the necessary situation awareness.\nRobot percepts and suggested actions will be displayed to the operator with augmented reality techniques. For routine manipulation and navigation tasks, autonomous robot skills will be developed. This will allow for taking the operator partially out of the control loop, which will be necessary to cope with communication latencies and bandwidth limitations and to reduce the operator workload.\nA series of increasingly complex tests with corresponding evaluation criteria will be devised from end-user requirements to systematically benchmark the capabilities of the developed disaster response system.",
+    "totalCost": "4124915",
+    "ecMaxContribution": "4124915",
+    "coordinator": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+    "coordinatorCountry": "DE",
+    "participants": "LINKOPINGS UNIVERSITET;PROGENOX GMBH;KUNGLIGA TEKNISKA HOEGSKOLAN;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA;FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA;KERNTECHNISCHE HILFSDIENST GMBH",
+    "participantCountries": "SE;DE;IT",
+    "projectParticipants": {
+        "888897696": {
+            "orgId": "888897696",
+            "orgName": "LINKOPINGS UNIVERSITET",
+            "ecContrib": 467500
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 487625
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 504125
+        },
+        "999980276": {
+            "orgId": "999980276",
+            "orgName": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+            "ecContrib": 784625
+        },
+        "999596447": {
+            "orgId": "999596447",
+            "orgName": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+            "ecContrib": 724125
+        },
+        "999884731": {
+            "orgId": "999884731",
+            "orgName": "SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA",
+            "ecContrib": 601875
+        },
+        "941211371": {
+            "orgId": "941211371",
+            "orgName": "KERNTECHNISCHE HILFSDIENST GMBH",
+            "ecContrib": 171290
+        },
+        "951340887": {
+            "orgId": "951340887",
+            "orgName": "PROGENOX GMBH",
+            "ecContrib": 383750
+        }
+    },
+    "calculatedTotalContribution": 4124915
+}

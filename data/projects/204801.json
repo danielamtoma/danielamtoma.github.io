@@ -1,0 +1,23 @@
+{
+    "rcn": "204801",
+    "acronym": "OMIP",
+    "topics": "ERC-PoC-2015",
+    "title": "Improved Over-The-Counter (OTC) Market Integrity and Privacy via cryptographic proofs of computational integrity",
+    "startDate": "01/09/2016",
+    "endDate": "28/02/2018",
+    "objective": "Over-The-Counter (OTC) trading is trading done directly between two parties, without supervision of an exchange. Traders in OTC markets face several types of counterparty risk (Default, Replacement, Settlement and  Liquidity). The technology developed by the PI's ERC-funded research will be applied to solve two basic problems: \n\nHow to preserve the privacy and anonymity of traders involved in decentralized OTC trading, while improving accountability and transparency. \n\nThe objective is the creation of a decentralized peer to peer network in which asset ownership can be settled cryptographically with little cost and latency. The system will allow traders to (1) prove ownership of assets, (2) transfer ownership between two trading parties in an efficient, secure, and timely manner. Achieving this will help traders comply with new financial regulations (such as the Dodd-Frank Act) regarding OTC markets, and reduce (1) market inefficiencies, (2) counterparty risk, and (3) settlement and clearing latencies and costs.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

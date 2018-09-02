@@ -1,0 +1,113 @@
+{
+    "rcn": "197346",
+    "acronym": "5GEx",
+    "topics": "ICT-14-2014",
+    "title": "5G Exchange",
+    "startDate": "01/10/2015",
+    "endDate": "31/03/2018",
+    "objective": "The goal of the 5G Exchange (5GEx) project is to enable cross-domain orchestration of services over multiple administrations or over multi-domain single administrations. This will allow end-to-end network and service elements to mix in multi-vendor, heterogeneous technology and resource environments. Market fragmentation has resulted in a multitude of network operators each focused on different countries and regions. This makes it difficult to create infrastructure services spanning multiple countries, such as virtual connectivity or compute resources, as no single operator has a footprint everywhere.\n\n5GEx aims to enable collaboration between operators, regarding 5G infrastructure services, with the view to introducing a unification via NFV/SDN compatible multi-domain orchestration by producing (i) an open platform enabling cross-domain orchestration of services over these multiple domains, with a set of open source software tools and extensions that can be utilised outside the scope of 5GEx; (ii) a Sandbox Network enabling experimentation and validation of the devised architecture, mechanisms, and business models; (iii) a proof-of-innovation multi-domain platform enabling multiple 5G use-cases and realistic scenarios that demonstrate the orchestration of complex end-to-end Infrastructure as a Service across multiple carriers; (iv) contributions to standards bodies of concepts learned during the development and experimentation of the project; (v) input to stimulate the telecom and IT industry stakeholders by actively promoting adoption of 5GExís open solutions.\n\nSuch 5G infrastructure services will provide a crucial role in making 5G happen as they provide the foundation of all cloud and networking services. 5GEx aims to enable, through operator collaboration, a unified European infrastructure service market integrating multiple operators and technologies, where service provisioning is fast and automated and which results in stronger economy via economies of scale.",
+    "totalCost": "10003725",
+    "ecMaxContribution": "7921094,88",
+    "coordinator": "ERICSSON MAGYARORSZAG KOMMUNIKACIOS RENDSZEREK K.F.T.",
+    "coordinatorCountry": "HU",
+    "participants": "TELENOR ASA;EUROPEAN CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGIES GMBH;BISDN GMBH - BERLIN INSTITUTE FOR SOFTWARE DEFINED NETWORKS;MEDIA NETWORK SERVICES AS;ORANGE SA;KUNGLIGA TEKNISKA HOEGSKOLAN;HUAWEI TECHNOLOGIES DUESSELDORF GMBH;BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM;ATOS SPAIN SA;HEWLETT PACKARD ITALIANA SRL;TELEFONICA INVESTIGACION Y DESARROLLO SA;ERICSSON TELECOMUNICAZIONI;REDZINC SERVICES LIMITED;ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER;UNIVERSITY COLLEGE LONDON;TELECOM ITALIA SPA;DEUTSCHE TELEKOM AG;UNIVERSIDAD CARLOS III DE MADRID",
+    "participantCountries": "NO;DE;FR;SE;HU;ES;IT;IE;EL;UK",
+    "projectParticipants": {
+        "999936335": {
+            "orgId": "999936335",
+            "orgName": "DEUTSCHE TELEKOM AG",
+            "ecContrib": 293738
+        },
+        "923382480": {
+            "orgId": "923382480",
+            "orgName": "MEDIA NETWORK SERVICES AS",
+            "ecContrib": 193200
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 440825
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 176925
+        },
+        "999944289": {
+            "orgId": "999944289",
+            "orgName": "ERICSSON MAGYARORSZAG KOMMUNIKACIOS RENDSZEREK K.F.T.",
+            "ecContrib": 476347
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 277725
+        },
+        "999910630": {
+            "orgId": "999910630",
+            "orgName": "TELENOR ASA",
+            "ecContrib": 136500
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 665625
+        },
+        "999625353": {
+            "orgId": "999625353",
+            "orgName": "EUROPEAN CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGIES GMBH",
+            "ecContrib": 0
+        },
+        "999909951": {
+            "orgId": "999909951",
+            "orgName": "HEWLETT PACKARD ITALIANA SRL",
+            "ecContrib": 519312
+        },
+        "999904228": {
+            "orgId": "999904228",
+            "orgName": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
+            "ecContrib": 512500
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 344883
+        },
+        "961330335": {
+            "orgId": "961330335",
+            "orgName": "REDZINC SERVICES LIMITED",
+            "ecContrib": 512822
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 846062
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 345625
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 815938
+        },
+        "999896856": {
+            "orgId": "999896856",
+            "orgName": "ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",
+            "ecContrib": 221500
+        },
+        "996543275": {
+            "orgId": "996543275",
+            "orgName": "HUAWEI TECHNOLOGIES DUESSELDORF GMBH",
+            "ecContrib": 563193
+        },
+        "951383761": {
+            "orgId": "951383761",
+            "orgName": "BISDN GMBH - BERLIN INSTITUTE FOR SOFTWARE DEFINED NETWORKS",
+            "ecContrib": 578375
+        }
+    },
+    "calculatedTotalContribution": 7921095
+}

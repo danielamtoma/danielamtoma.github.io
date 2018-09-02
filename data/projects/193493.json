@@ -1,0 +1,23 @@
+{
+    "rcn": "193493",
+    "acronym": "EVERYSOUND",
+    "topics": "ERC-StG-2014",
+    "title": "Computational Analysis of Everyday Soundscapes",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2020",
+    "objective": "Sounds carry a large amount of information about our everyday environment and physical events that take place in it. For example, when a car is passing by, one can perceive the approximate size and speed of the car. Sound can easily and unobtrusively be captured e.g. by mobile phones and transmitted further ñ for example, tens of hours of audio is uploaded to the internet every minute e.g. in the form of YouTube videos. However, today's technology is not able to recognize individual sound sources in realistic soundscapes, where multiple sounds are present, often simultaneously, and distorted by the environment.\nThe ground-breaking objective of EVERYSOUND is to develop computational methods which will automatically provide high-level descriptions of environmental sounds in realistic everyday soundscapes such as street, park, home, etc. This requires developing several novel methods, including joint source separation and robust pattern classification algorithms to reliably recognize multiple overlapping sounds, and a hierarchical multilayer taxonomy to accurately categorize everyday sounds. The methods are based on the applicant's internationally recognized and awarded expertise on source separation and robust pattern recognition in speech and music processing, which will allow now tackling the new and challenging research area of everyday sound recognition.\nThe results of EVERYSOUND will enable searching for multimedia based on its audio content, which is not possible with today's technology. It will allow mobile devices, robots, and intelligent monitoring systems to recognize activities in their environments using acoustic information. Producing automatically descriptions of vast quantities of audio will give new tools for geographical, social, cultural, and biological studies to analyze sounds related to human, animal, and natural activity in urban and rural areas, as well as multimedia in social networks.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "TTY-SAATIO",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "990343811": {
+            "orgId": "990343811",
+            "orgName": "TTY-SAATIO",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

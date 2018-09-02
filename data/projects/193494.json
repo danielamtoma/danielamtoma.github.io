@@ -1,0 +1,23 @@
+{
+    "rcn": "193494",
+    "acronym": "ISIFit",
+    "topics": "ERC-StG-2014",
+    "title": "Individualised and self-adapting sound processing for cochlear implants",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2020",
+    "objective": "Cochlear implants (CIs) are successful auditory prostheses that enable people with deafness to hear through electrical stimulation of the auditory nerve. In a CI sound processor, a sound signal is converted into a sequence of electrical pulses. This conversion entails many parameters that should ideally be fine-tuned (fitted) for every individual patient, to account for various anatomical and physiological differences. In current clinical practice, devices are fitted during the initial rehabilitation and yearly thereafter. As fitting is very time consuming, only the bare minimum number of parameters is fitted individually. However, for many other parameters, for which currently the same default values are used for all patients, better speech understanding can be achieved with individual fitting.  Apart from the fitting, CIs do not take into account the neural or perceptual effects of stimulation. \nThe objective of this project is to provide better fitting to individual patients by developing a closed-loop CI that automatically adjusts its fitting and sound processing based on the neural response to speech. To achieve this, we will (1) objectively measure speech understanding, by recording the electroencephalogram (EEG) in response to ecological speech signals, (2) automatically fit a wide array of sound processing parameters accordingly using a genetic algorithm, and (3) develop a wearable closed-loop CI that continuously records the EEG and adjusts the fitting in real-life situations. \nThis will lead to a better understanding of speech perception of people with a hearing impairment, an objective measure of speech intelligibility with many applications in diagnostics, a method to automatically fit CIs, and a novel closed-loop CI. For the patient this means improved speech intelligibility in noise and therefore better communication and quality of life. For the clinic this means improved efficiency and the ability to better fit devices.",
+    "totalCost": "1734360",
+    "ecMaxContribution": "1734360",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 1734360
+        }
+    },
+    "calculatedTotalContribution": 1734360
+}

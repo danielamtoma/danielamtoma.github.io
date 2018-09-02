@@ -1,0 +1,63 @@
+{
+    "rcn": "212914",
+    "acronym": "FLAMINGO",
+    "topics": "GALILEO-2-2017",
+    "title": "Fulfilling enhanced Location Accuracy in the Mass-market through Initial GalileO services",
+    "startDate": "01/11/2017",
+    "endDate": "30/04/2020",
+    "objective": "The success of Galileo will largely depend on its uptake in LBS and IoT markets. Leveraging on Galileoís features that improve performance in urban environment, FLAMINGO will unleash GNSS mass-market potential.\n\nThe overarching objectives of FLAMINGO are to develop and deliver high accuracy and reliable positioning and navigation services for mass market uptake, to demonstrate the potential by developing and showcasing ready to market applications on both Smartphone and IoT devices within major European cities, and to foster a new community of E-GNSS consumers and applications. FLAMINGO shall produce a service targeting accuracies of 50cm (95%) and better, employing multi-constellation, PPP and RTK mechanisms, power consumption optimisation techniques as well as the GNSS raw measurements availability. \n\nFLAMINGO will deliver hardware and software that utilise the service to its full potential. Technology triggers for mobile devices will be provided by Google through the provision of an Android-N build that provides continuous carrier phase measurements (a prerequisite for the highest order accuracy GNSS positioning) and by BQ who developed the first European Galileo-ready Smartphone to hit the market.  IoT devices currently provided by three of the consortium partners will be modified, enhanced, and made available for the validation activities. The project will develop and deliver a series of market-ready Galileo enabled IoT and commercial LBS applications in three urban areas that support European ambitions on Smart Cities namely Barcelona (ES), Toulouse (F) and the Gdansk/Gdynia/Sopot Tricity (PL).  In addition the E-GNSS user base and markets will be stimulated through a tiered FLAMINGO Hackathon process which will bring together a mixed community of E-GNSS users, consumers, application developers, GIS and data scientists. \n\nFLAMINGO involves nine leading organisations who specialise in location technology, including five SMEs.",
+    "totalCost": "2770360",
+    "ecMaxContribution": "1999793,51",
+    "coordinator": "NOTTINGHAM SCIENTIFIC LTD",
+    "coordinatorCountry": "UK",
+    "participants": "ECLEXYS SAGL;TELESPAZIO FRANCE SAS;VVA BRUSSELS;THE UNIVERSITY OF NOTTINGHAM;THALES ALENIA SPACE FRANCE;MUNDO READER SL;ROKUBUN S.L.;BLUE DOT SOLUTIONS SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "participantCountries": "CH;FR;BE;UK;ES;PL",
+    "projectParticipants": {
+        "990825707": {
+            "orgId": "990825707",
+            "orgName": "NOTTINGHAM SCIENTIFIC LTD",
+            "ecContrib": 505689
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 201805
+        },
+        "997899044": {
+            "orgId": "997899044",
+            "orgName": "TELESPAZIO FRANCE SAS",
+            "ecContrib": 357337
+        },
+        "998000118": {
+            "orgId": "998000118",
+            "orgName": "ECLEXYS SAGL",
+            "ecContrib": 200419
+        },
+        "930692691": {
+            "orgId": "930692691",
+            "orgName": "BLUE DOT SOLUTIONS SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+            "ecContrib": 171281
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 198622
+        },
+        "945951179": {
+            "orgId": "945951179",
+            "orgName": "MUNDO READER SL",
+            "ecContrib": 101281
+        },
+        "930267637": {
+            "orgId": "930267637",
+            "orgName": "VVA BRUSSELS",
+            "ecContrib": 98875
+        },
+        "930136202": {
+            "orgId": "930136202",
+            "orgName": "ROKUBUN S.L.",
+            "ecContrib": 164484
+        }
+    },
+    "calculatedTotalContribution": 1999793
+}

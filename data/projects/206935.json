@@ -1,0 +1,23 @@
+{
+    "rcn": "206935",
+    "acronym": "DYNMECH",
+    "topics": "ERC-2016-STG",
+    "title": "Dynamic Mechanisms",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "This project studies dynamic mechanisms.  By ìdynamic mechanismsî, we mean policies to which a principal (e.g., a seller, an employer, or a regulator) can commit to induce the agents (e.g., buyers, employees, or regulated firms) to take the desired actions over time.  Several components of the project are envisaged: \n\n- Competition in dynamic mechanisms.  \no I propose a competitive setting in which agents (e.g., buyers or workers) learn about the offers of different principals over time.  Agents may receive more than one offer at a time, leading to direct competition between mechanisms.  Received offers are agentsí private information, permitting strategic delay of acceptance (for instance, an agent may want to wait to evaluate new offers that received in the future).\n\n- Robust predictions for a rich class of stochastic processes.\no We study optimal dynamic mechanisms for agents whose preferences evolve stochastically with time.  We develop an approach to partially characterizing these mechanisms which (unlike virtually all of the existing literature) does not depend on ad-hoc restrictions on the stochastic process for preferences.\n\n- Efficient bilateral trade with budget balance:  dynamic arrival of traders\no I study bilateral trade with budget balance, when traders (i) arrive over time, and (ii) have preferences which evolve stochastically with time.  The project aims at an impossibility result in this setting:  contrary to the existing literature which does not account for dynamic arrivals, budget-balanced efficient trade is typically impossible, even for very patient traders.\n\n- Pre-event ticket sales and complementary investments\no We provide a rationale for the early allocation of capacity to customers for events such as flights and concerts based on customersí demand for pre-event complementary investments (such as booking a hotel or a babysitter).  We examine efficient and profit-maximizing mechanisms.",
+    "totalCost": "1321625",
+    "ecMaxContribution": "1321625",
+    "coordinator": "FONDATION JEAN-JACQUES LAFFONT,TOULOUSE SCIENCES ECONOMIQUES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998386566": {
+            "orgId": "998386566",
+            "orgName": "FONDATION JEAN-JACQUES LAFFONT,TOULOUSE SCIENCES ECONOMIQUES",
+            "ecContrib": 1321625
+        }
+    },
+    "calculatedTotalContribution": 1321625
+}

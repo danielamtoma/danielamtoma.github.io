@@ -1,0 +1,58 @@
+{
+    "rcn": "199237",
+    "acronym": "EO4wildlife",
+    "topics": "EO-2-2015",
+    "title": "Platform for wildlife monitoring integrating Copernicus and ARGOS data",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "EO4wildlife main objective is to bring large number of multidisciplinary scientists such as biologists, ecologists and ornithologists around the world to collaborate closely together while using European Sentinel Copernicus Earth Observation more heavily and efficiently.\nIn order to reach such important objective, an open service platform and interoperable toolbox will be designed and developed. It will offer high level services that can be accessed by scientists to perform their respective research. The platform front end will be easy-to-use, access and offer dedicated services that will enable them process their geospatial environmental stimulations using Sentinel Earth Observation data that are intelligently combined with other observation sources.\nSpecifically, the EO4wildlife platform will enable the integration of Sentinel data, ARGOS archive databases and real time thematic databank portals, including Wildlifetracking.org, Seabirdtracking.org, and other Earth Observation and MetOcean databases; locally or remotely, and simultaneously.\nEO4wildlife research specialises in the intelligent management big data, processing, advanced analytics and a Knowledge Base for wildlife migratory behaviour and trends forecast. The research will lead to the development of web-enabled open services using OGC standards for sensor observation and measurements and data processing of heterogeneous geospatial observation data and uncertainties.\nEO4wildlife will design, implement and validate various scenarios based on real operational use case requirements in the field of wildlife migrations, habitats and behaviour. These include: (1) Management tools for regulatory authorities to achieve real-time advanced decision-making on the protection of protect seabird species; (2) Enhancing scientific knowledge of pelagic fish migrations routes, reproduction and feeding behaviours for better species management; and (3) Setting up tools to assist marine protected areas and management.",
+    "totalCost": "2665325",
+    "ecMaxContribution": "2665325",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "THE UNIVERSITY OF EXETER;AGENCE FRANCAISE POUR LA BIODIVERSITE;UNIVERSITY OF SOUTHAMPTON;COLLECTE LOCALISATION SATELLITES SA;ATOS INTEGRATION SAS;BIRDLIFE INTERNATIONAL;AGENCE DES AIRES MARINES PROTEGEES",
+    "participantCountries": "UK;FR",
+    "projectParticipants": {
+        "998142126": {
+            "orgId": "998142126",
+            "orgName": "COLLECTE LOCALISATION SATELLITES SA",
+            "ecContrib": 495595
+        },
+        "913291182": {
+            "orgId": "913291182",
+            "orgName": "AGENCE FRANCAISE POUR LA BIODIVERSITE",
+            "ecContrib": 195000
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 562730
+        },
+        "999864555": {
+            "orgId": "999864555",
+            "orgName": "THE UNIVERSITY OF EXETER",
+            "ecContrib": 83750
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 484375
+        },
+        "929437123": {
+            "orgId": "929437123",
+            "orgName": "AGENCE DES AIRES MARINES PROTEGEES",
+            "ecContrib": 0
+        },
+        "996484008": {
+            "orgId": "996484008",
+            "orgName": "ATOS INTEGRATION SAS",
+            "ecContrib": 630250
+        },
+        "998509950": {
+            "orgId": "998509950",
+            "orgName": "BIRDLIFE INTERNATIONAL",
+            "ecContrib": 213625
+        }
+    },
+    "calculatedTotalContribution": 2665325
+}

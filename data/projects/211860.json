@@ -1,0 +1,23 @@
+{
+    "rcn": "211860",
+    "acronym": "VDJtargeting",
+    "topics": "ERC-2017-STG",
+    "title": "Engineering T cells and B cells for Immunotherapy using V(D)J recombination",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "T cell engineering has shown clinical success mainly in haematological cancers, but scaling up is challenging due to reliance on ex vivo manipulations. In addition, B cell engineering has not shown therapeutic efficacy to date. Here, we propose a novel immunotherapy approach, allowing safe and efficient engineering of B cells and T cells, both ex vivo and in vivo. We will use adeno associated vectors (AAV) to integrate chimeric antigen receptor (CAR) or T cell receptor (TCR) genes into loci coding TCR chains and to integrate antibody (Ab) genes into loci coding Ab chains. Previously, we used AAV facilitated gene targeting in vivo to ameliorate genetic diseases in mice. For lymphocytes we develop ìVDJ targetingî: A promoterless receptor/Ab gene flanked by recognition signal sequences (RSS) will be inserted into the endogenous locus by the recombination activating gene (RAG) complex during V(D)J recombination. Only developing lymphocytes, expressing RAG, will incorporate the receptor/Ab gene, which will thus be expressed in potent naÔve cells from the strong endogenous promoter. Targeted developing cells are subjected to negative selection, thus reducing risk of adverse autoimmunity. Lack of promoter reduces spurious expression and oncogenic risk upon rare off-target integration. Targeting endogenous loci may allow allelic exclusion. In B cells it may allow utilizing the endogenous constant region to express a B cell receptor and, upon activation, a secreted Ab. Activation may be accompanied by proliferation and affinity maturation, including somatic hypermutation and class switching, to allow a potent immune response, memory retention and diminished antigenic escape. Where controlled autoimmunity is desired, we will engineer B cells to inducibly secret an auto-Ab. We will demonstrate efficacy in cancer and autoimmune disease models implanted with lymphocytes that we engineered while ex vivo differentiated and in mice injected with vectors for in vivo VDJ targeting.",
+    "totalCost": "1496875",
+    "ecMaxContribution": "1496875",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1496875
+        }
+    },
+    "calculatedTotalContribution": 1496875
+}

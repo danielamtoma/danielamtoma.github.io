@@ -1,0 +1,38 @@
+{
+    "rcn": "207066",
+    "acronym": "is3DMIMO",
+    "topics": "MSCA-RISE-2016",
+    "title": "indoor small-cell Networks with 3D MIMO Array Antennas",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "It is predicted that wireless network traffic will increase 1000 times in the next decade. The exponential traffic growth is not uniform across geographical areas and mainly takes place in indoor hot spots. Hence, high capacity indoor venues represent the biggest network capacity increase challenge.\n\nThe recently emerged 3D MIMO technology provides a promising dimension to provide extra capacity gain in hot spots. In particular, the 3D deployment of small cells (SCs) equipped with 3D MIMO antenna arrays will take advantage of 3D distribution of user equipment (UE) in typical high capacity venues, and represents an excellent technical combination to address the indoor high capacity challenge. The 3D deployment of SCs with 3D MIMO antenna arrays faces technical challenges ranging from 3D MIMO antenna array design, performance evaluation, the lack of understanding of 3D MIMO SC network performance limits to the optimal 3D SC network deployment.\n\nThe is3DMIMO project aims to address these technical challenges by assembling a team of four partners in the UK, Sweden and China with complementary expertise. During the project, the is3DMIMO consortium aims to achieve the following objectives:\nï\tcharacterize and model indoor 3D MIMO channels for typical indoor environments;\nï\tdevelop a reliable OTA antenna characterization method for 3D MIMO SCs;\nï\tcharacterize OTA performance in laboratory conditions as compared to real-life 3D MIMO small cell scenarios;\nï\tobtain fundamental understanding of the network performance gains achievable by 3D SCs with 3D MIMO antenna arrays;\nï\tdevelop techniques for jointly optimizing the deployment locations of SC access points (APs) and their 3D MIMO configurations; and\nï\tprovide 3D MIMO SC network planning and deployment guidelines for typical 3D indoor scenarios. \nThe achievement of the above objectives will provide crucial inputs for multiple-antenna and 5G/B5G system design, and will increase network capacity in indoor hot spots by 20-30%.",
+    "totalCost": "1309500",
+    "ecMaxContribution": "877500",
+    "coordinator": "THE UNIVERSITY OF SHEFFIELD",
+    "coordinatorCountry": "UK",
+    "participants": "RANPLAN WIRELESS NETWORK DESIGN LTD;UNIVERSITEIT TWENTE;GAPWAVES AB;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "UK;NL;SE",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 94500
+        },
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 351000
+        },
+        "999481017": {
+            "orgId": "999481017",
+            "orgName": "RANPLAN WIRELESS NETWORK DESIGN LTD",
+            "ecContrib": 175500
+        },
+        "933882730": {
+            "orgId": "933882730",
+            "orgName": "GAPWAVES AB",
+            "ecContrib": 54000
+        }
+    },
+    "calculatedTotalContribution": 675000
+}

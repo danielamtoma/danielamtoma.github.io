@@ -1,0 +1,48 @@
+{
+    "rcn": "205991",
+    "acronym": "Bio4Comp",
+    "topics": "FETPROACT-01-2016",
+    "title": "Parallel network-based biocomputation: technological baseline, scale-up and innovation ecosystem",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "Many technologically and societally important mathematical problems are intractable for conventional, serial computers. Therefore, a significant need exists for parallel-computing approaches that are capable to solve such problems within reasonable time frames. Recently, part of our consortium demonstrated proof-of-principle of a parallel-computation system in which a given combinatorial problem is encoded into a graphical, modular network that is embedded in a nanofabricated planar device. The problem is then solved by a large number of independent biological agents, namely molecular-motor-propelled protein filaments, exploring the network in a highly parallel fashion (PNAS 113, 2591 (2016)). Notably, this approach uses orders of magnitude less energy than conventional computers, thus addressing issues related to power-consumption and heat-dissipation. Within Bio4Comp we (i) will establish the technological and scientific basis for robust upscaling of this approach, (ii) will demonstrate scalability by systematically increasing the problem size by several orders of magnitude, and (iii) will develop new algorithms with the aim to open up a wide range of applications. Additionally, we will (iv) help foster and structure an ecosystem of scientists and companies that will accelerate the path to market acceptance, including the creation of a joint roadmap. Benefits to society will include the ability to solve hitherto intractable problems, and the development of a sustainable and energy-efficient computing approach that is radically different from current information and communications technology.",
+    "totalCost": "6084949",
+    "ecMaxContribution": "6084949",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "LINNEUNIVERSITETET;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;BAR ILAN UNIVERSITY;MOLECULAR SENSE LTD;TECHNISCHE UNIVERSITAET DRESDEN",
+    "participantCountries": "SE;DE;IL;UK",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 1350448
+        },
+        "986317632": {
+            "orgId": "986317632",
+            "orgName": "LINNEUNIVERSITETET",
+            "ecContrib": 990853
+        },
+        "999886574": {
+            "orgId": "999886574",
+            "orgName": "BAR ILAN UNIVERSITY",
+            "ecContrib": 618500
+        },
+        "967500311": {
+            "orgId": "967500311",
+            "orgName": "MOLECULAR SENSE LTD",
+            "ecContrib": 912250
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 1107125
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 1105774
+        }
+    },
+    "calculatedTotalContribution": 6084950
+}

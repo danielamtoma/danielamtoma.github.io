@@ -1,0 +1,28 @@
+{
+    "rcn": "205483",
+    "acronym": "HEPODIS",
+    "topics": "JTI-CS2-2015-CFP02-AIR-02-09",
+    "title": "HVDC Electrical Power cOnversion and DIstribution System",
+    "startDate": "01/07/2016",
+    "endDate": "31/03/2020",
+    "objective": "The HEPODIS project aims to develop a new electrical power conversion and distribution system more efficient and reliable for High Voltage Direct Current (HVDC) for the electrical power supply of essential loads to be implemented and integrated in the Regional FTB2 Demonstrator. The main objectives of HEPODIS are to:\n-Design, manufacturing and qualification of new regulated Transformer Rectifier Unit (TRU) equipment to supply an HVDC distribution system in order to supply essential loads in the regional aircraft FT2B. This advance TRU system must be bench tested and later on integrat-ed on the aircraft itself.\n-Improve the characteristics of TRU in relation to the existing equipment: functionality, elec-trical efficiency, power density, safety, advance control and monitoring and use of advance semiconductor technologies.\n-Generate a realistic model of the TRU in order to be integrated with the rest of the models of the HVDC systems. The model must reproduce precisely the working conditions of the real system to avoid integration problems and support the permit to flight phase.\n-Specify, design, develop, manufacture, qualify and validate a HVDC Distribution Equipment for essential loads from Flight Control System for IADP Regional Aircraft FT2B.\n-Integrate power generation system and the electrical power distribution system.\n-Improve effectiveness (providing 270Vdc power to essential loads with high level of criticality into an electrical system based on 115Vac and 28Vdc), reliability (development and integration of System Bite, Protections, Redundancy for improving safety) and efficiency (new intelligent energy management concepts and processes to minimize global energy demand, including reconfigurations according load safety requirements) compared with current architectures.\n-Model and simulate electrical performance, compared with real system performance for supporting design, testing and certification strategies.",
+    "totalCost": "1428195",
+    "ecMaxContribution": "999736,5",
+    "coordinator": "TEMAI Ingenieros S.L.",
+    "coordinatorCountry": "ES",
+    "participants": "SKYLIFE ENGINEERING SL",
+    "participantCountries": "ES",
+    "projectParticipants": {
+        "952538061": {
+            "orgId": "952538061",
+            "orgName": "SKYLIFE ENGINEERING SL",
+            "ecContrib": 434700
+        },
+        "998852263": {
+            "orgId": "998852263",
+            "orgName": "TEMAI Ingenieros S.L.",
+            "ecContrib": 565036
+        }
+    },
+    "calculatedTotalContribution": 999736
+}

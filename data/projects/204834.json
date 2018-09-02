@@ -1,0 +1,38 @@
+{
+    "rcn": "204834",
+    "acronym": "CHANGE",
+    "topics": "ERC-ADG-2015",
+    "title": "New CHallenges for (adaptive) PDE solvers: the interplay of ANalysis and GEometry",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "The simulation of Partial Differential Equations (PDEs) is an indispensable tool for  innovation in science and technology.\nComputer-based simulation of PDEs approximates unknowns defined on a geometrical entity such as the computational domain with all of its properties. Mainly due to historical reasons, geometric design and numerical methods for PDEs have been developed independently, resulting in tools that rely on different representations of the same objects.\n\nCHANGE aims at developing innovative mathematical tools for  numerically solving PDEs and for geometric modeling and processing,   the final goal being  the definition of a common framework where geometrical entities and simulation are coherently integrated and where adaptive methods can be used to guarantee optimal use of computer resources, from the geometric description to the simulation. \nWe will concentrate on two classes of methods for the discretisation of PDEs that are having growing impact: \nisogeometric methods and variational methods on polyhedral partitions. They are both  extensions of standard finite elements enjoying exciting features, but both lack of an ad-hoc geometric modelling counterpart. \nWe will extend numerical methods to ensure robustness on the most general geometric models, and we will develop geometric tools to construct, manipulate and refine such models. Based on our tools, we will design an innovative adaptive framework, that jointly exploits  multilevel representation of  geometric entities and PDE unknowns. \nMoreover, efficient algorithms call for efficient implementation: the issue of the optimisation of our algorithms on modern computer architecture will be addressed. \nOur research (and the team involved in the project) will combine competencies in computer science, numerical analysis, high performance computing, and computational mechanics.   Leveraging our innovative tools, we will also tackle challenging numerical problems deriving from bio-mechanical applications.",
+    "totalCost": "2199219",
+    "ecMaxContribution": "2199219",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "UNIVERSITAT LINZ;CONSIGLIO NAZIONALE DELLE RICERCHE;OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+    "participantCountries": "AT;IT",
+    "projectParticipants": {
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 255595
+        },
+        "999823912": {
+            "orgId": "999823912",
+            "orgName": "OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+            "ecContrib": 255595
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 877558
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 810471
+        }
+    },
+    "calculatedTotalContribution": 2199219
+}

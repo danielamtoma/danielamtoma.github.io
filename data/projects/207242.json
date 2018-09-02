@@ -1,0 +1,78 @@
+{
+    "rcn": "207242",
+    "acronym": "INSIGHT",
+    "topics": "FCH-02-5-2016",
+    "title": "ImplementatioN in real SOFC Systems of monItoring and diaGnostic tools using signal analysis to increase tHeir lifeTime",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The INSIGHT project aims at developing a Monitoring, Diagnostic and Lifetime Tool (MDLT) for Solid Oxide Fuel Cell (SOFC) stacks and the hardware necessary for its implementation into a real SOFC system. The effectiveness of the MDLT will be demonstrated through on-field tests on a real micro-Combined Heat and Power system (2.5 kW), thus moving these tools from Technology Readiness Level (TRL) 3 to beyond 5. \n\nINSIGHT leverages the experience of previous projects and consolidates their outcomes both at methodological and application levels. The consortium will specifically exploit monitoring approaches based on two advanced complementary techniques: Electrochemical Impedance Spectroscopy (EIS) and Total Harmonic Distortion (THD) in addition to conventional dynamic stack signals. Durability tests with faults added on purpose and accelerated tests will generate the data required to develop and validate the MDL algorithms. Based on the outcome of experimental analysis and mathematical approaches, fault mitigation logics will be developed to avoid stack failures and slow down their degradation. \n\nA specific low-cost hardware, consisting in a single board able to embed the MDLT will be developed and integrated into a commercial SOFC system, the EnGenTM 2500, which will be tested on-field. \n\nINSIGHT will then open the perspective to decrease the costs of service and SOFC stack replacement by 50%, which would correspond to a reduction of the Total Cost of Ownership by 10% / kWh.\n\nTo reach these objectives, INSIGHT is a cross multidisciplinary consortium gathering 11 organisations from 6 member states (France, Italy, Denmark, Slovenia, Austria, Finland) and one associated country (Switzerland). The partnership covers all competences necessary: experimental testing (CEA, DTU, EPFL), algorithms developments (UNISA, IJS, AVL), hardware development (BIT), system integration and validation (VTT, SP, HTC), supported by AK for the project management and dissemination.",
+    "totalCost": "3146056,25",
+    "ecMaxContribution": "2498948,75",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITA DEGLI STUDI DI SALERNO;ABSISKEY;INSTITUT JOZEF STEFAN;SOLIDPOWER SPA;Teknologian tutkimuskeskus VTT Oy;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;ABSISKEY CP;AVL LIST GMBH;DANMARKS TEKNISKE UNIVERSITET;BITRON SPA;HTceramix SA",
+    "participantCountries": "IT;FR;SI;FI;CH;AT;DK",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 191331
+        },
+        "999952243": {
+            "orgId": "999952243",
+            "orgName": "AVL LIST GMBH",
+            "ecContrib": 250688
+        },
+        "990608039": {
+            "orgId": "990608039",
+            "orgName": "BITRON SPA",
+            "ecContrib": 281409
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 368834
+        },
+        "997365641": {
+            "orgId": "997365641",
+            "orgName": "HTceramix SA",
+            "ecContrib": 0
+        },
+        "999899184": {
+            "orgId": "999899184",
+            "orgName": "UNIVERSITA DEGLI STUDI DI SALERNO",
+            "ecContrib": 361562
+        },
+        "999777352": {
+            "orgId": "999777352",
+            "orgName": "ABSISKEY CP",
+            "ecContrib": 0
+        },
+        "911620842": {
+            "orgId": "911620842",
+            "orgName": "ABSISKEY",
+            "ecContrib": 118000
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 313625
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 190500
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        },
+        "973618489": {
+            "orgId": "973618489",
+            "orgName": "SOLIDPOWER SPA",
+            "ecContrib": 423000
+        }
+    },
+    "calculatedTotalContribution": 2498949
+}

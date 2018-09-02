@@ -1,0 +1,38 @@
+{
+    "rcn": "212036",
+    "acronym": "NECOS",
+    "topics": "EUB-01-2017",
+    "title": "Novel Enablers for Cloud Slicing",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2019",
+    "objective": "The NECOS project addresses the limitations of current cloud computing infrastructures to respond to the demand of new services, as presented in two use-cases that will drive the whole execution of the project. The first use-case is Telco service provider focussed and is oriented towards the adoption of cloud computing in their large networks. The second use-case is targeting the use of edge clouds to support devices with low computation and storage capacity. The envisaged solution is based on a new concept ñ Lightweight Slice Defined Cloud (LSDC) ñ as an approach that extends the virtualization to all the resources in the involved networks and data centres and provides a uniform management with a high-level of orchestration.\nThe NECOS approach will be manifested in a platform whose main distinguishing features are:\n1. The Slice as a Service ñ- a new deployment model. A slice is a grouping of resources managed as a whole, and that can accommodate service components, independent of other slices.\n2. Embedded algorithms for an optimal allocation of resources to slices in the cloud and networking infrastructure, to respond to the dynamic changes of the various service demands.\n3. A management and orchestration approach making use of artificial intelligence techniques in order to tackle with the complexity of large scale virtualized infrastructure environments.\n4. Making reality the lightweight principle, in terms of low footprint components deployable on large number of small network and cloud devices at the edges of the network.\nThe NECOS platform will be based on state of the art open software platforms, which will be carefully selected, rather than start from scratch. This baseline platform will be enhanced with the management and orchestration algorithms and the APIs that will constitute the research activity of the project. Finally, the NECOS platform will be validated, in the context of the two proposed use cases, using the 5TONIC and FIBRE testing frameworks.",
+    "totalCost": "1494906,25",
+    "ecMaxContribution": "1494906,25",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSITY OF MACEDONIA;TELEFONICA INVESTIGACION Y DESARROLLO SA;UNIVERSITY COLLEGE LONDON",
+    "participantCountries": "EL;ES;UK",
+    "projectParticipants": {
+        "999874352": {
+            "orgId": "999874352",
+            "orgName": "UNIVERSITY OF MACEDONIA",
+            "ecContrib": 205000
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 365000
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 523969
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 400938
+        }
+    },
+    "calculatedTotalContribution": 1494907
+}

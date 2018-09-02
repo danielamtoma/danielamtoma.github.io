@@ -1,0 +1,23 @@
+{
+    "rcn": "211005",
+    "acronym": "CyberGenetics",
+    "topics": "ERC-2016-ADG",
+    "title": "Cybergenetics: Theory and Design Tools for Biomolecular Control Systems",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2022",
+    "objective": "We propose to develop a new theory and design tools for the estimation and real-time control of living cells. The control systems designed using these tools will precisely and robustly steer the dynamic behavior of living cells in real time to achieve desired objectives.  Cells would be controlled either collectively at the population level, or individually as single cells. The control systems achieving this regulation will be realized either on a digital computer that is interfaced with living cells, or using de novo genetic circuits that are introduced into the cells where they are designed to function as molecular control systems. Our methods will explicitly confront the numerous challenges brought about by the special environment of the cell including nonlinearity, stochasticity, cell-to-cell variability, metabolic burden, etc. The theory and methods developed in this project will thus enable the systematic, rational, and effective feedback control of living cells at the gene level, and will lay the foundation for a new corresponding body of knowledge which we call ``Cybergenetics'.  It will also open new research directions in the areas of control theory and estimation.\n\nWe also propose to design three cybergenetic control systems, each addressing an important application in biotechnology or therapeutics. In the first, the controller will use light and nutrient supply to precisely regulate gene expression and cell growth in E. coli to achieve high protein and low biomass production rates. The second involves multiple feedback controllers regulating in parallel a large number of single stem cells, and leading to their differentiation to desired fates, e.g. beta cells, with potential for therapeutic applications. Finally, we will engineer into living cells dynamic molecular control systems. Such controllers can be used to monitor physiological variables and secrete biological effectors in a feedback fashion for the treatment of diseases like Type 1 diabetes.",
+    "totalCost": "2499887",
+    "ecMaxContribution": "2499887",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 2499887
+        }
+    },
+    "calculatedTotalContribution": 2499887
+}

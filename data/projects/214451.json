@@ -1,0 +1,17 @@
+{
+    "rcn": "214451",
+    "acronym": "CONSYN",
+    "topics": "ERC-2017-COG",
+    "title": "Contextualizing biomolecular circuit models for synthetic biology",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2023",
+    "objective": "Synthetic biology is the bottom-up engineering of new molecular functionality inside a biological cell. Although it aims at a quantitative and compositional approach, most of todayís implementations of synthetic circuits are based on inefficient trial-and-error runs. This approach to circuit design does not scale well with circuit complexity and is against the basic paradigm of synthetic biology. This unsatisfactory state of affairs is partly due to the lack of the right computational methodology that can support the quantitative characterization of circuits and their significant context dependency, i.e., their change in behavior upon interactions with the host machinery and with other circuit elements.\nCONSYN will contribute computational methodology to overcome the trial-and-error approach and to ultimately turn synthetic circuit design into a rational bottom-up process that heavily relies on computational analysis before any actual biomolecular implementation is considered. In order to achieve this goal, we will work on the following agenda: (i) develop biophysical and statistical models of biomolecular contexts into which the synthetic circuit or synthetic part can be embedded in silico; (ii) devise new statistical inference methods that can deliver accurate characterization of circuits and their context dependency by making use of cutting-edge single-cell experimental data; (iii) derive new context-insensitive circuit designs through in silico sensitivity analysis and application of filtering theory; (iv) optimize protocols and measurement infrastructure using model-based experimental design yielding a better circuit and context characterization; (v) experimentally build synthetic circuits in vivo and in cell-free systems in order to validate and bring to life the above theoretical investigations. We are in the unique position to also address (v) in-house due to the experimental wetlab facilities in our group.",
+    "totalCost": "1996579",
+    "ecMaxContribution": "1996579",
+    "coordinator": "TECHNISCHE UNIVERSITAT DARMSTADT",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

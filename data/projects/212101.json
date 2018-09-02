@@ -1,0 +1,23 @@
+{
+    "rcn": "212101",
+    "acronym": "VARIAMOLS",
+    "topics": "ERC-2017-STG",
+    "title": "VAriable ResolutIon Algorithms for macroMOLecular Simulation",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Within the broad spectrum of biological soft matter systems, large proteins and protein assemblies occupy a central role. These molecules are extremely versatile: they can catalyze chemical reactions, transport atoms and molecules across the cellular membrane, bind to foreign bodies to be destroyed, or combine into large molecular machines that perform a variety of different tasks. One of the most prominent problems in the computational study of these macromolecules is that the cost of using accurate atomistic models dramatically increases with system size. Simplified, coarse-grained representations offer an elegant and effective alternative to high-resolution models, and enable the simulation of large systems over extended time scales; the other side of the coin, however, is that the missing chemical detail often represents an insurmountable limitation to the realistic reproduction of the properties of interest. The main goal of the VARIAMOLS project is to develop and apply novel computer-aided methods for the study of large molecular assemblies and their dynamics, thus bridging the existing gap between computational cost and chemical accuracy. Specifically, the research will unfold along two intertwined lines: 1) the development of non-uniform resolution models of the system, which optimize the balance between detail and efficiency; and 2) the study of dynamics-mediated properties of protein assemblies. The working philosophy of VARIAMOLS has two complementary and strictly interconnected aspects: on the one hand, the theoretical and algorithmic advancement of the methods currently employed to represent and simulate biomolecules; on the other hand, the systematic application of the developed methods to real-life case studies of great relevance for medical science and technology, with a particular focus on viruses and antibodies.",
+    "totalCost": "1339351",
+    "ecMaxContribution": "1339351",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI TRENTO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999841954": {
+            "orgId": "999841954",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRENTO",
+            "ecContrib": 1339351
+        }
+    },
+    "calculatedTotalContribution": 1339351
+}

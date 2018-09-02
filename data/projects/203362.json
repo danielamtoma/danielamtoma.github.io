@@ -1,0 +1,23 @@
+{
+    "rcn": "203362",
+    "acronym": "WHIPLASH",
+    "topics": "ERC-StG-2015",
+    "title": "WHat next? an Integrated PLanetary Atmosphere Simulator: from Habitable worlds to Hot jupiters",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Thousands of exoplanets have now been found. In the next decade, the grand challenge is to characterize their atmospheres. This is the only way to unravel the origin of the wild, unexpected diversity we have uncovered. For this task, there are several planned missionsóJWST being our next best opportunity. However, to be ready for the analysis and interpretation of such high-precision observations, we need new-generation tools fit to address the multiple challenges they will raise. Indeed, until now, most atmospheric characterization observationsóe.g. transit/eclipse spectroscopyóare analyzed with spherically symmetric, steady state 1D models that cannot accurately represent the very anisotropic atmospheres of most transiting exoplanets. This issue is worsened by the ubiquity of clouds, whose inhomogeneous spatial distributionópatchinessóprevents any satisfactory treatment in 1D.\nIn this project, we will develop a new framework to constrain the physics and composition of exo-atmospheres that will allow us to overcome these difficulties when analyzing and interpreting observations. This will be done by exploiting a new 3D planetary atmosphere simulator that integrates a global climate model and a 3D Monte Carlo radiative transfer code to generate observables. Using such an innovative approach, this ERC project will thus answer the following fundamental questions: \n- What are the necessary conditions to sustain liquid water on terrestrial exoplanets? How can we infer observationally whether an atmosphere meeting these requirements is actually present?\n- Can clouds explain the puzzling features of observed hot, gaseous exoplanets? What can these observations tell us on the dynamical and microphysical properties of clouds inside these atmospheres?  \nIf we want theory to keep pace with the quality of future data, such a project is the necessary counterpart to the huge ongoing observational effort made by the community.",
+    "totalCost": "1480421",
+    "ecMaxContribution": "1480421",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1480421
+        }
+    },
+    "calculatedTotalContribution": 1480421
+}

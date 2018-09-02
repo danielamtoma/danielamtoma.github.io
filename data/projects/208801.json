@@ -1,0 +1,23 @@
+{
+    "rcn": "208801",
+    "acronym": "TreeGraSP",
+    "topics": "ERC-2016-COG",
+    "title": "Tree rewriting grammars and the syntax-semantics interface:From grammar development to semantic parsing",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "The increasing amount of data available in our digital society is both a chance and a challenge for natural language processing. On the one hand, we have better possibilities than ever to extract and process meaning from language data, and recent techniques, in particular deep learning methods, have achieved impressive results. On the other hand, linguistic research has a much broader empirical basis and can aim at rich quantitative models of language. Unfortunately, theory and application interact too little in these areas of meaning extraction and grammar theory. Current semantic processing techniques do not sufficiently capture the complex structure of language while grammatical  theory does not sufficiently incorporate data-driven insights about language.  \n\nTreeGraSP bridges this gap by combining rich linguistic theory with data-driven approaches to large scale statistical grammar induction and to semantic parsing. The novelty of its approach consists in putting semantics at the center of grammar theory, putting an emphasis on multilinguality and typological diversity, and adopting a constructional approach to grammar. TreeGraSP is interdisciplinary and innovative in serveral respects: It contributes to the field of linguistics by a) making theories of grammar explicit, b) providing a grammar implementation tool for typologically working linguists and c) developing means to obtain a quantitative grammar theory. And it contributes to the field of computational semantics by providing a probabilistic theory of meaning construal that can be used for textual entailment and reasoning applications. The challenge lies in the intended transfer between theoretical linguistics and statistical natural language processing.",
+    "totalCost": "1995890",
+    "ecMaxContribution": "1995890",
+    "coordinator": "HEINRICH-HEINE-UNIVERSITAET DUESSELDORF",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999856116": {
+            "orgId": "999856116",
+            "orgName": "HEINRICH-HEINE-UNIVERSITAET DUESSELDORF",
+            "ecContrib": 1995890
+        }
+    },
+    "calculatedTotalContribution": 1995890
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "199931",
+    "acronym": "MIREL",
+    "topics": "MSCA-RISE-2015",
+    "title": "MIREL - MIning and REasoning with Legal texts",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "The management of large repositories of norms, and the semantic access and reasoning to these norms are key challenges in Legal Informatics. The MIREL project will create an international and inter-sectorial network to define a formal framework and to develop tools for MIning and REasoning with Legal texts, with the aim of translating these legal texts into formal representations that can be used for querying norms, compliance checking, and decision support. The development of the MIREL framework and tools will be guided by the needs of three industrial partners, and validated by industrial case studies. MIREL promotes mobility and staff exchange between SMEs to academies in order to create an inter-continental interdisciplinary consortium in Law and Artificial Intelligence areas including Natural Language Processing, Computational Ontologies, Argumentation, and Logic & Reasoning.\nMIREL addresses both conceptual challenges, such as the role of legal interpretation in mining and reasoning, and computational challenges, such as the handling of big legal data, and the complexity of regulatory compliance. It bridges the gap between the community working on legal ontologies and NLP parsers and the community working on reasoning methods and formal logic. Moreover, it is the first project of its kind to involve industrial partners in the future development of innovative products and services in legal reasoning and their deployment in the market.\nThe European MIREL partners are key players in the communities of Deontic, AI & Law, and the Semantic Web, communities that have traditionally been strong in Europe. The MIREL consortium brings these scientists together with researchers with expertise traditionally lacking in Europe, such as norm and argument mining (Argentina, Japan and China), description logic for reasoning about legal ontologies (South Africa), natural language semantics of deontic modals (US), and the complexity analysis of regulatory compliance (Australia).",
+    "totalCost": "1264500",
+    "ecMaxContribution": "1152000",
+    "coordinator": "UNIVERSITE DU LUXEMBOURG",
+    "coordinatorCountry": "LU",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;DLVSYSTEM SRL;UNIVERSITA DEGLI STUDI DI TORINO;NOMOTIKA SRL;APIS HRISTOVICH EOOD;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;THE UNIVERSITY OF HUDDERSFIELD",
+    "participantCountries": "FR;IT;BG;UK",
+    "projectParticipants": {
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 198000
+        },
+        "999452208": {
+            "orgId": "999452208",
+            "orgName": "THE UNIVERSITY OF HUDDERSFIELD",
+            "ecContrib": 180000
+        },
+        "951385701": {
+            "orgId": "951385701",
+            "orgName": "NOMOTIKA SRL",
+            "ecContrib": 0
+        },
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 405000
+        },
+        "999861936": {
+            "orgId": "999861936",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TORINO",
+            "ecContrib": 81000
+        },
+        "996733589": {
+            "orgId": "996733589",
+            "orgName": "APIS HRISTOVICH EOOD",
+            "ecContrib": 22500
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 193500
+        },
+        "928551707": {
+            "orgId": "928551707",
+            "orgName": "DLVSYSTEM SRL",
+            "ecContrib": 72000
+        }
+    },
+    "calculatedTotalContribution": 1152000
+}

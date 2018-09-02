@@ -1,0 +1,28 @@
+{
+    "rcn": "213806",
+    "acronym": "CONCERTO",
+    "topics": "JTI-CS2-2017-CFP06-FRC-02-20",
+    "title": "Computation of cOmpouNd rotorCraft latEral RoTor nOise",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2021",
+    "objective": "The main objective of the CONCERTO project is to provide the topic leader (Airbus Helicopters) of the Clean Sky 2 IADP Fast Rotorcraft with a new computational tool enabling the noise modelling and prediction of lateral rotors installed on the future LifeRCraft demonstrator. This tool, enabling both fast prediction and high fidelity approaches, will include 3 modules: aerodynamics, free field acoustic and scattering effects. All three will be, implemented in a chaining process, based on a seamless workflow and software environment that will be created during the project.  While aerodynamics module relies on PUMA code (Free Wake) as Fast aerodynamic solver and TAU code (CFD) as High fidelity solver, free field acoustic solver will use the KIM code (FW-H). KIM code will also be implemented for fast scattered acoustic prediction, while BEMUSE code (BEM) will be implemented for high fidelity scattered prediction. The overall tool will be validated and applied to a subset of the LifeRCraft flight domain.  The project will be implemented through 6 WPs: WP1 Workflow definition and implementation; WP2 Aerodynamics module; WP3 Free-field acoustic module; WP4 Scattered field acoustic module; WP5 Validation; WP6 Project Management, dissemination and exploitation.  CONCERTO consortium, ONERA and DLR, will deliver and install the necessary tools at the topic leader location including documentation, support and possible updates during the 3 years of the project. With a total budget of about Ä 635,000, the project will go beyond the state of the art (investigating unsteady flight cases, capturing quadripole noise sources, solving efficiently the multi-frequency problem of combined main rotor and lateral rotors, etc.), and will fully address user needs, contribute to the maturation and future commercialization of a new aircraft vehicle satisfying new mobility roles, thus contributing to the competitiveness of the European aeronautics sector.",
+    "totalCost": "634936,25",
+    "ecMaxContribution": "634936,25",
+    "coordinator": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+    "coordinatorCountry": "FR",
+    "participants": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999994438": {
+            "orgId": "999994438",
+            "orgName": "OFFICE NATIONAL D'ETUDES ET DE RECHERCHES AEROSPATIALES",
+            "ecContrib": 382192
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 252744
+        }
+    },
+    "calculatedTotalContribution": 634936
+}

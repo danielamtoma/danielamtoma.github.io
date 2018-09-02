@@ -1,0 +1,28 @@
+{
+    "rcn": "197004",
+    "acronym": "iPIM",
+    "topics": "NMP-25-2014",
+    "title": "Development of an Intelligent Onshore Pipeline Integrity Monitoring System",
+    "startDate": "01/10/2015",
+    "endDate": "31/03/2018",
+    "objective": "In iPIM a developed prototype of sophisticated non-destructive technique (NDT) for structural health monitoring system (SHM) of oil and gas (O&G) pipelines will be further modified so that the system can be made available for commercialization. iPIM will continuously monitor the pipeline for cracks, corrosion and other faults and send the information over a wireless communication system to the network monitoring centre where the fault will be displayed over a 3D map of the pipeline. This will help the pipeline operators to take preventive and corrective measures before any accident stemmed from pipeline failure occurs.  A low profile wireless Acoustic Emission (AE) and Long Range Ultrasonic (LRU) dual mode sensors will be permanently attached on the pipeline with a collar installed 100m apart from each other that can monitor 50m of pipeline in either side. The sensors will act in passive AE mode in normal operation and on detection of an anomaly will switch to LRU mode to locate and determine the characteristics of the anomaly. An artificial neural network (ANN) and data fusion system will intelligently manage data acquisition and analysis functions based on data received from the installed sensor nodes. An energy harvesting system will be developed to power the onsite electronics. A new software will be developed that will enable advanced signal processing with improved signal/noise separation in handling sensor data, thus supporting more sensitive measurement and more effective analysis.\niPIM will ensure onshore pipeline safety and reduce cost due to pipeline failure in the Europe. The expected profit to the SMEs generated through the exploitation of the iPIM system is in the order of Ä56 Million, representing a return on investment (RoI) of 612%. With revenue per capita in the sector of Ä100,000 per employee, the creation of some 600 new, high-skilled, high-technology jobs in Europe has been anticipated.",
+    "totalCost": "1343975,5",
+    "ecMaxContribution": "940782",
+    "coordinator": "DRAXIS ENVIRONMENTAL S.A.",
+    "coordinatorCountry": "EL",
+    "participants": "ADVANCED MECHANICAL SYSTEMS LTD",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "934554067": {
+            "orgId": "934554067",
+            "orgName": "ADVANCED MECHANICAL SYSTEMS LTD",
+            "ecContrib": 266525
+        },
+        "996151686": {
+            "orgId": "996151686",
+            "orgName": "DRAXIS ENVIRONMENTAL S.A.",
+            "ecContrib": 674257
+        }
+    },
+    "calculatedTotalContribution": 940782
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "193606",
+    "acronym": "PhosFunc",
+    "topics": "ERC-StG-2014",
+    "title": "Dissecting the functional importance of eukaryotic protein phosphorylation",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2020",
+    "objective": "Cells have evolved intricate systems to sense environmental changes and an initial response to such cues is often driven by post-translational modifications (PTMs) of proteins. Protein phosphorylation is an abundant PTM that modulates protein function via diverse mechanisms. Improvements in mass-spectrometry are unveiling a complex world of PTM regulation with thousands of phosphosites routinely identified per study. We and others have recently shown that phosphosites can diverge quickly during evolution and that a significant fraction may have no biological role in extant species. Identifying functionally relevant phosphosites is therefore a major challenge in cell-signaling. In the past, gene knock-out libraries and genetic methods have been instrumental in dissecting gene-function in a systematic manner. Here, we aim to develop genetic approaches to study the functional relevance of phosphorylation in S. cerevisiae. Phosphoproteomic datasets for 18 ascomycota fungal species will be used to reconstruct the evolutionary history of  phosphorylation events in these species. S. cerevisiae sites will then be grouped according to age and predicted function (e.g. regulation of interactions, activities, etc) and a subset will be selected for mutagenesis. A library of non-phosphorylatable point mutants will be created and used to measure fitness under different stress conditions. These will reveal the functional importance, pleiotropy and relevant pathways of the selected phosphosites. The age, functional groupings and the genetic information will allow us to train predictors of the conditional fitness of phosphosites at proteome-wide level. Lastly, we will study the importance of evolutionary changes in phospho-regulation in natural populations of yeast. Mutations that likely disrupt phosphosites will be identified from the genomes of natural isolates and the consequences of these mutations will be predicted based on the trained classifier.",
+    "totalCost": "1451421",
+    "ecMaxContribution": "1451421",
+    "coordinator": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 1451421
+        }
+    },
+    "calculatedTotalContribution": 1451421
+}

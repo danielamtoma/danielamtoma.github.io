@@ -1,0 +1,63 @@
+{
+    "rcn": "206411",
+    "acronym": "RobMoSys",
+    "topics": "ICT-26-2016",
+    "title": "Composable Models and Software for Robotics Systems",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2020",
+    "objective": "RobMoSys will coordinate the whole communityís best and consorted effort to build an open and sustainable, agile and multi-domain European robotics software ecosystem.\nRobMoSys envisions an integration approach built on-top-of, or rather around, the current code-centric robotic platforms, by means of the systematic application of model-driven methods and tools that explicitly focus on (system-of-) system integration. As proven in many other engineering domains, model-driven approaches are the most suitable approach to manage integration that is intended to be ìall-inclusiveî with respect to technologies and stakeholder groups.\nRobMoSys will enable the management of the interfaces between different roles (robotics expert, domain expert, component supplier, system integrator, installation and deployment, operation) and separated concerns in an efficient and systematic way by making the step change to a set of fully model-driven methods and tools for engineering robotics systems.\nRobMoSys will drive the non-competitive part of building the eco-system aiming at turning community involvement into active support for an ecosystem of professional quality and scope. It will provide, based on broad involvement via two Open Calls, important concretizations for many of the common robot functionalities (sensing, planning, control in the broad sense). It will fulfill two complementary missions: (1) establish a common methodology enabling a composition-oriented approach to address complexity in robotics and face the integration burden caused by type diversity, target diversity and platform diversity; (2) stimulate and boost an ecosystem of methodology-based toolchains that supports the interaction of separated roles.\nRobMoSys is designed for widest inclusion - from the very beginning and throughout the overall course of the project - of the expertise and body of knowledge of the robotics community and of related relevant technology and application domains (Tier-1 concept).",
+    "totalCost": "8379500",
+    "ecMaxContribution": "8000000",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "PAL ROBOTICS SL;ECLIPSE FOUNDATION EUROPE GMBH;TECHNISCHE UNIVERSITAET MUENCHEN;EUNITED AISBL;FACHHOCHSCHULE ULM;COMAU SPA;KATHOLIEKE UNIVERSITEIT LEUVEN;SIEMENS AKTIENGESELLSCHAFT",
+    "participantCountries": "ES;DE;BE;IT",
+    "projectParticipants": {
+        "996311930": {
+            "orgId": "996311930",
+            "orgName": "FACHHOCHSCHULE ULM",
+            "ecContrib": 550000
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 4911970
+        },
+        "998080143": {
+            "orgId": "998080143",
+            "orgName": "COMAU SPA",
+            "ecContrib": 148750
+        },
+        "944758564": {
+            "orgId": "944758564",
+            "orgName": "ECLIPSE FOUNDATION EUROPE GMBH",
+            "ecContrib": 105875
+        },
+        "999987260": {
+            "orgId": "999987260",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT",
+            "ecContrib": 487375
+        },
+        "970666488": {
+            "orgId": "970666488",
+            "orgName": "PAL ROBOTICS SL",
+            "ecContrib": 143500
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 865111
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 623229
+        },
+        "996259647": {
+            "orgId": "996259647",
+            "orgName": "EUNITED AISBL",
+            "ecContrib": 164190
+        }
+    },
+    "calculatedTotalContribution": 8000000
+}

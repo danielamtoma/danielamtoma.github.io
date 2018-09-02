@@ -1,0 +1,63 @@
+{
+    "rcn": "211916",
+    "acronym": "TEQ",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "Testing the Large-Scale Limit of Quantum Mechanics",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "Microscopic systems can be prepared in quantum configurations with no classical counterpart. Such a possibility seems precluded when the 'complexity' of the system grows towards the macroscopic domain: so far we have no evidence of non-classical behavior of the macroscopic world. Why is it so? How is quantumness lost as we abandon the microscopic domain? These questions, which remain to date largely unanswered, address interesting and challenging goals of modern research in physics, and serve the overarching goal of this project. TEQ will establish the large-scale limit of quantum mechanics by pursuing a novel research programme that aims at surpassing the current approach based on matter-wave interferometry. Specifically, the TEQ Consortium will\n1) Trap an ad hoc manufactured nanocrystal in a radio-frequency ion trap, cooling it by optical parametric feedback, so as to let it operate in ultra-low noise environments. \n2) Determine quantitatively all the major sources of decoherence affecting the nanocrystal, and control them experimentally so as to prepare high-quality quantum states of its motional degrees of freedom. \n3) Analyse the light scattered by the nanocrystal to test the quantum predictions for the motion of the particle against those of spontaneous collapse and non-standard decoherence mechanisms, and thus pinpoint/rule-out key quantum-spoiling effects, beyond all the studies performed so far.\nThis roadmap will enable the test of quantum effects for systems whose mass is orders of magnitude larger than that employed in the most successful quantum experiments to date, thus closing the gap with the macroscopic world. Moreover, it will entail significant technological impact: the device that will be built will exhibit exquisite sensitivity to frequency and displacements, thus embodying a significant contribution of explicit technological nature to the design of quantum empowered metrological sensors.",
+    "totalCost": "4371473,75",
+    "ecMaxContribution": "4371473,75",
+    "coordinator": "UNIVERSITA DEGLI STUDI DI TRIESTE",
+    "coordinatorCountry": "IT",
+    "participants": "AARHUS UNIVERSITET;M-SQUARED LASERS LIMITED;THE QUEEN'S UNIVERSITY OF BELFAST;UNIVERSITY OF SOUTHAMPTON;UNIVERSITY COLLEGE LONDON;OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN;TECHNISCHE UNIVERSITEIT DELFT;ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+    "participantCountries": "DK;UK;AT;NL;IT",
+    "projectParticipants": {
+        "999656005": {
+            "orgId": "999656005",
+            "orgName": "M-SQUARED LASERS LIMITED",
+            "ecContrib": 394812
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 727991
+        },
+        "999823912": {
+            "orgId": "999823912",
+            "orgName": "OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+            "ecContrib": 372375
+        },
+        "999992789": {
+            "orgId": "999992789",
+            "orgName": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+            "ecContrib": 384375
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 393840
+        },
+        "999842051": {
+            "orgId": "999842051",
+            "orgName": "UNIVERSITA DEGLI STUDI DI TRIESTE",
+            "ecContrib": 621260
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 518996
+        },
+        "999992013": {
+            "orgId": "999992013",
+            "orgName": "THE QUEEN'S UNIVERSITY OF BELFAST",
+            "ecContrib": 442199
+        },
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 515625
+        }
+    },
+    "calculatedTotalContribution": 4371473
+}

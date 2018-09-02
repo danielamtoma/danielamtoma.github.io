@@ -1,0 +1,33 @@
+{
+    "rcn": "206579",
+    "acronym": "E2S2A2",
+    "topics": "JTI-CS2-2015-CFP02-AIR-02-10",
+    "title": "Embedded electronically steerable satcom airborne antenna",
+    "startDate": "01/07/2016",
+    "endDate": "31/08/2020",
+    "objective": "E2S2A2 includes the design, prototyping, manufacturing and testing 'on ground' and 'in-flight' of an airborne antenna highly integrated into the wing ñ fuselage airframe fairing.  Allowing high data rate in-flight connectivity (IFC) for different purposes. The connectivity will be through satellite communication operating at the Ka frequency band. The antenna is electronically steered utilizing Phased Array technology. This allows the high integration into the airframe structure, concretely the wing-to-fuselage fairing (WFF) panels of the FTB2 prototype aircraft (A/C). The panels will be replaced by new composite structures with embedded antenna elements.  The antenna builds on concepts and prototypes developed by Gilat and its Bulgarian subsidiary Raysat and will benefit from the vast experience in SATCOM technology and airborne applications. The antenna consists of innovative Monolithic Microwave Integrated Circuit (MMIC) resulting from RTD partially funded by national RTD programs. The activities and 50 months' work plan are in accordance with the work plan of the Regional Aircraft FTB2 demonstrator. Close synchronization, coordination and cooperation with the Leader is vital. The work is divided into 6 technological WPs starting with the Definition of Structure and System Conceptual Design (WP1). WP2,3 include the activities from design to qualification of the Embedded Steering Antenna Aperture and KRFU unit (WP2) and the Ka Data Network Unit (WP3). The SATCOM MODEM selection and modifications will be carried through WP4. The SATCOM Ka band Antenna System Integration Activities at Laboratory level included in WP5. Integration into the A/C and ground and in-flight testing in WP6. WP0 is project management including close synchronization with the Leader and reporting and interfacing with the EC. Dissemination and Exploitation activities in WP7. The project will allow high data rate IFC minimizing effects on the A/C aerodynamic, performance and fuel consumption.",
+    "totalCost": "1749624,75",
+    "ecMaxContribution": "1223162",
+    "coordinator": "GILAT SATELLITE NETWORKS LTD",
+    "coordinatorCountry": "IL",
+    "participants": "RAYSAT BULGARIA LTD;FBM COMPOSITE MATERIALS LTD",
+    "participantCountries": "BG;IL",
+    "projectParticipants": {
+        "924404666": {
+            "orgId": "924404666",
+            "orgName": "FBM COMPOSITE MATERIALS LTD",
+            "ecContrib": 258370
+        },
+        "950651217": {
+            "orgId": "950651217",
+            "orgName": "RAYSAT BULGARIA LTD",
+            "ecContrib": 419387
+        },
+        "989925256": {
+            "orgId": "989925256",
+            "orgName": "GILAT SATELLITE NETWORKS LTD",
+            "ecContrib": 545405
+        }
+    },
+    "calculatedTotalContribution": 1223162
+}

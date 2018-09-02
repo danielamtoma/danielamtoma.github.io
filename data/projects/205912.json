@@ -1,0 +1,23 @@
+{
+    "rcn": "205912",
+    "acronym": "PACT",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Proof-theoretical Approaches to Concurrency Theory",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2018",
+    "objective": "This project aims at providing a mathematical understanding of software exploiting modern distributed computer architectures, through the study of type systems for concurrent programs from a logical perspective. Type systems are an essential part of modern programming languages, that have proved to be a reliable support for the development of trustworthy software in the standard setting of sequential (functional) computing. However, the mathematical foundations and associated techniques underlying the type systems of functional programming languages have not yet been transferred to the distributed setting, although this is a crucial step in the development of concurrent programming languages.\n\nA cornerstone of the development of functional type systems was the connection between proof systems, in formal logic, and programming languages. Proof theory is a flexible tool that naturally leads to a precise, mathematical specification of type systems that can be very expressive. The goal of the project is to leverage recent work in computational logic (in particular linear logic and its extensions) to design type systems for process calculi (a mathematical representation of distributed software) that support the features necessary to the development of a programming language. Specifically, the question of the sequentiality of computing steps in this parallel setting is the major point of contention, that needs to be addressed for such a programming language to be reasonably conceived. This proof-theoretical approach to concurrency theory (the mathematical study of distributed software) is the key to the development of type systems that would validate well-behaved distributed programs: the main objectives of the project are the integration of explicit sequentiality to state-of-the-art systems, and the establishment of a precise relation between the typeability of a program (its validity according to the type system) and its implementability.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "TECHNISCHE UNIVERSITAET BERLIN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

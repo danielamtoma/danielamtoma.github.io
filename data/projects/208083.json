@@ -1,0 +1,28 @@
+{
+    "rcn": "208083",
+    "acronym": "AQSuS",
+    "topics": "ERC-2016-STG",
+    "title": "Analog Quantum Simulation using Superconducting Qubits",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2022",
+    "objective": "AQSuS aims at experimentally implementing analogue quantum simulation of interacting spin models in two-dimensional geometries. The proposed experimental approach paves the way to investigate a broad range of currently inaccessible quantum phenomena, for which existing analytical and numerical methods reach their limitations. Developing precisely controlled interacting quantum systems in 2D is an important current goal well beyond the field of quantum simulation and has applications in e.g. solid state physics, computing and metrology.\nTo access these models, I propose to develop a novel circuit quantum-electrodynamics (cQED) platform based on the 3D transmon qubit architecture. This platform utilizes the highly engineerable properties and long coherence times of these qubits. A central novel idea behind AQSuS is to exploit the spatial dependence of the naturally occurring dipolar interactions between the qubits to engineer the desired spin-spin interactions. This approach avoids the complicated wiring, typical for other cQED experiments and reduces the complexity of the experimental setup. The scheme is therefore directly scalable to larger systems. The experimental goals are:\n\n1) Demonstrate analogue quantum simulation of an interacting spin system in 1D & 2D.\n2) Establish methods to precisely initialize the state of the system, control the interactions and readout single qubit states and multi-qubit correlations.\n3) Investigate unobserved quantum phenomena on 2D geometries e.g. kagome and triangular lattices.\n4) Study open system dynamics with interacting spin systems. \n\nAQSuS builds on my backgrounds in both superconducting qubits and quantum simulation with trapped-ions. With theory collaborators my young research group and I have recently published an article in PRB [9] describing and analysing the proposed platform. The ERC starting grant would allow me to open a big new research direction and capitalize on the foundations established over the last two years.",
+    "totalCost": "1498514,94",
+    "ecMaxContribution": "1498514,94",
+    "coordinator": "UNIVERSITAET INNSBRUCK",
+    "coordinatorCountry": "AT",
+    "participants": "OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+    "participantCountries": "AT",
+    "projectParticipants": {
+        "999869114": {
+            "orgId": "999869114",
+            "orgName": "UNIVERSITAET INNSBRUCK",
+            "ecContrib": 751328
+        },
+        "999823912": {
+            "orgId": "999823912",
+            "orgName": "OESTERREICHISCHE AKADEMIE DER WISSENSCHAFTEN",
+            "ecContrib": 747187
+        }
+    },
+    "calculatedTotalContribution": 1498515
+}

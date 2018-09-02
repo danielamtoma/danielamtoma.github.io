@@ -1,0 +1,17 @@
+{
+    "rcn": "215735",
+    "acronym": "PALMERA",
+    "topics": "MSCA-IF-2017",
+    "title": "Low Power and Fault Tolerant Cache Memory Design through a Combination of Hardware and Software Approaches",
+    "startDate": "01/05/2019",
+    "endDate": "30/04/2021",
+    "objective": "PALMERA will address the low power and fault tolerant cache memory design bottleneck through a combination of hardware and software approaches. The proposal has two research directions: (1) Develop a cache memory hardware equipped with novel circuit designs to keep the reliability during voltage scaling. (2) Leverage the software application level to manage energy consumption. A methodology will be developed that enables the programmer to identify non-critical data structures and program phases that are not memory-bound. Through a system scenario design methodology, this information is used to manage the settings of the underlying novel hardware to increase error resilience and save energy. \nThe focus is on memories implemented for embedded systems in areas such as medical imaging and space applications, typically having strict requirements for both energy consumption and reliability.  These types of applications are increasingly becoming multitasked and dynamic; hence, data intensive and fluctuating with respect to resource requirements. Available static analysis and worst-case design margins cannot any longer meet the power and reliability constraints. Compared to previous techniques that typically focus on either hardware or software when optimizing for both energy and reliability, PALMERA adopts a multidisciplinary holistic approach where hardware and software levels of the system are combined. \nWorking towards these challenging project goals not only moves the research front forward, but also gives the Experienced Researcher excellent opportunity to develop her skills and career potential. The combination of PALMERA research, with high quality training at the host institution and during secondment, strengthens her knowledge and experience and provides the best opportunity for her to gain a position as a senior researcher in industry or academia. The goal is for PALMERA to be an enabler for the next step, being a proposal for a European Research Council grant.",
+    "totalCost": "208400,4",
+    "ecMaxContribution": "208400,4",
+    "coordinator": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "204591",
+    "acronym": "Teraki",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "Making Big Data Small for the Internet of Things",
+    "startDate": "01/07/2016",
+    "endDate": "31/12/2016",
+    "objective": "Everything from cars to power plants to farms have connected sensors which measure things like temperature, flow, vibration, speed, and beyond. With 25 billion ëthingsí connected by 2020, the sheer volume, velocity and structure of data from the Internet of Things (IoT) already challenges network capacity. Bottlenecks affect security, data, storage management, servers and the data centre networks. \n\nUsing groundbreaking sensor data reduction techniques, Teraki software enables users to extract the maximum potential of their IoT applications otherwise constrained by limited battery lifetime and/or prohibitive connectivity costs. \n\nWe can leverage up to 10 times more data at the sensor level without additional computation resources. Battery life is improved; data transmission and processing latency and storage requirements are reduced. Privacy is strongly enhanced since only partial data is sent. The result is a 90% reduction in IT costs, and 50% less in maintenance costs for connected sensor systems. \n\nThe most common data reduction solutions for sensor networks are compression techniques. Compression requires high computational resources at the sensor with high impact on battery life. Teraki will render embedded sensor compression techniques obsolete since our solution needs no additional resources and the data selection and further analysis can be done in real time.\n\nThe goal of this project is to identify the most appropriate IoT market verticals for commercialization and continue market validation activities. We will detail the technical challenges we need to address for widespread adoption of our innovation.  We will analyse risks and explore opportunities to enable new business models and become a game-changing force in the IoT sector. Founded in March 2015, we have already raised over 300,000Ä in seed funding, and Terakiís product-market fit is being validated by tier I companies like Audi, Bosch, Intel and Cisco IoT.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "TERAKI GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "924040916": {
+            "orgId": "924040916",
+            "orgName": "TERAKI GMBH",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

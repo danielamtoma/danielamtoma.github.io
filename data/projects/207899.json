@@ -1,0 +1,23 @@
+{
+    "rcn": "207899",
+    "acronym": "CompDB",
+    "topics": "ERC-2016-COG",
+    "title": "The Computational Database for Real World Awareness",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2022",
+    "objective": "Two major hardware trends have a significant impact on the architecture of database management systems (DBMSs): First, main memory sizes continue to grow significantly. Machines with 1TB of main memory and more are readily available at a relatively low price. Second, the number of cores in a system continues to grow, from currently 64 and more to hundreds in the near future. \nThis trend offers radically new opportunities for both business and science.  It promises to allow for information-at-your-fingertips, i.e., large volumes of data can be analyzed and deeply explored online, in parallel to regular transaction processing. Currently, deep data exploration is performed outside of the database system which necessitates huge data transfers. This impedes the processing such that real-time interactive exploration is impossible.  These new hardware capabilities now allow to build a true computational database system that integrates deep exploration functionality at the source of the data. This will lead to a drastic shift in how users interact with data, as for the first time interactive data exploration becomes possible at a massive scale.\n\nUnfortunately, traditional DBMSs are simply not capable to tackle these new challenges.\nTraditional techniques like interpreted code execution for query processing become a severe bottleneck in the presence of such massive parallelism, causing poor utilization of the hardware. I pursue a radically different approach: Instead of adapting the traditional, disk-based approaches, I am integrating a new just-in-time compilation framework into the in-memory database that directly exploits the abundant, parallel hardware for large-scale data processing and exploration. By explicitly utilizing cores, I will be able to build a powerful computational database engine that scales the entire spectrum of data processing - from transactional to analytical to exploration workflows - far beyond traditional architectures.",
+    "totalCost": "1918750",
+    "ecMaxContribution": "1918750",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 1918750
+        }
+    },
+    "calculatedTotalContribution": 1918750
+}

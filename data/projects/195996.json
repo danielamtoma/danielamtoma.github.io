@@ -1,0 +1,23 @@
+{
+    "rcn": "195996",
+    "acronym": "MADDOG",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Multidisciplinary Adjoint Design Optimisation of Gasturbines",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2017",
+    "objective": "Adjoint based design optimization techniques are widely recognized as having a large potential to revolutionize the design process of modern gasturbines. By applying such techniques, the optimization of the entire gasturbine system with million degrees of freedom is within reach of the current available computational power. Such simulations include inherently all interactions between the different components avoiding sub-optimal designs. \nHowever, todayís reality is far from this prospect. Current adjoint design optimization techniques only consider aerodynamic performance, preventing the optimization of complete systems, as they are by their very nature multidisciplinary. This project will develop an adjoint optimization methodology that goes beyond only aerodynamic considerations and includes other disciplines such as structural mechanics and vibration dynamics concurrently for the first time, such that in the longer term optimization of complete systems will be achievable. \nThe key to achieving a true multidisciplinary adjoint design optimization is to work with a master CAD geometry that is shared between all the different disciplines. This differs significantly from the current practice in adjoint techniques, which mainly considers parameterisations that are suitable for only aerodynamic optimizations. The involvement of a master CAD geometry requires the differentiation of a CAD system, until now this has not been performed as CAD systems are invariably proprietary and as such not accessible. In addition, the extension of the methodology to multiple disciplines requires for a highly skilled researcher with a background in aerodynamics as well as structural mechanics. \nThe fellow of this proposal is a research leader at the Von Karman Institute, which has gained significant experience in the area of multidisciplinary design optimization of turbomachinery over the past 9 years and is the developer of a gradient free optimization system which includes a dedicated",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "QUEEN MARY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

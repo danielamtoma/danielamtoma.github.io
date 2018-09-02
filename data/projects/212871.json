@@ -1,0 +1,23 @@
+{
+    "rcn": "212871",
+    "acronym": "ViDaR",
+    "topics": "ERC-2017-PoC",
+    "title": "ViDaR: R-enabled large-scale data analytics in ViDa",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2019",
+    "objective": "In this project we will build ViDaR, an interface for integrating R with ViDa. R is among the leading data analytics environments (the leading open-source), and is heavily used by data and domain scientists and data analysts in their daily routine. ViDa, developed by an ERC grant, is the state-of-the-art query engine for raw data. It relies on data virtualization, i.e., abstracting data out of its form and manipulating it regardless of the way it is stored or structured, to enable efficient, scalable, querying and manipulation of data in-situ, at their raw format and shape. Integration of ViDa with R will have a positive impact on both systems. For ViDa, it will provide capabilities for data exploration, visualization, mining and analytics, as well as powerful libraries for numerical and statistical computing, thereby substantially growing its user base. For R, it will increase its scale and performance, and reduce the time and effort spent by data scientists on tedious data management tasks. The resulting solution will serve as a proof-of-concept of ViDaís performance, capabilities, and flexibility for integration with any third-party software that needs to manage vast amounts of raw data.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

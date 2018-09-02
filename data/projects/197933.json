@@ -1,0 +1,68 @@
+{
+    "rcn": "197933",
+    "acronym": "SAGE",
+    "topics": "FETHPC-1-2014",
+    "title": "SAGE",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "Worldwide data volumes are exploding and islands of storage remote from compute will not scale. We will demonstrate the first instance of intelligent data storage, uniting data processing and storage as two sides of the same rich computational model. This will enable sophisticated, intention-aware data processing to be integrated within a storage systems infrastructure, combined with the potential for Exabyte scale deployment in future generations of extreme scale HPC systems.\n\nEnabling only the salient data to flow in and out of compute nodes, from a sea of devices spanning next generation solid state to low performance disc we enable a vision of a new model of highly efficient and effective HPC and Big Data demonstrated through the SAGE project.\n\nObjectives\n- Provide a next-generation multi-tiered object-based data storage system (hardware and enabling software) supporting future-generation multi-tier persistent storage media supporting integral computational capability, within a hierarchy.\n- Significantly improve overall scientific output through advancements in systemic data access performance and drastically reduced data movements.\n- Provides a roadmap of technologies supporting data access for both Exascale/Exabyte and High Performance Data Analytics.\n- Provide programming models, access methods and support tools validating their usability, including ëBig-Dataí access and analysis methods \n- Co-Designing and validating on a smaller representative system with earth sciences, meteorology, clean energy, and physics communities\n- Projecting suitability for extreme scaling through simulation based on evaluation results.\n\nCall Alignment:  We address storage data access with optimised systems for converged Big Data and HPC use, in a co-design process with scientific partners and applications from many domains. System effectiveness and power efficiency are dramatically improved through minimized data transfer, with extreme scaling and resilience.",
+    "totalCost": "7882531,25",
+    "ecMaxContribution": "7882531",
+    "coordinator": "SEAGATE SYSTEMS UK LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "KUNGLIGA TEKNISKA HOEGSKOLAN;FORSCHUNGSZENTRUM JULICH GMBH;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;UNITED KINGDOM ATOMIC ENERGY AUTHORITY;DIAMOND LIGHT SOURCE LIMITED;BULL SAS;ALLINEA SOFTWARE LIMITED",
+    "participantCountries": "SE;DE;FR;UK",
+    "projectParticipants": {
+        "969276478": {
+            "orgId": "969276478",
+            "orgName": "ALLINEA SOFTWARE LIMITED",
+            "ecContrib": 770450
+        },
+        "999607602": {
+            "orgId": "999607602",
+            "orgName": "DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ GMBH",
+            "ecContrib": 675000
+        },
+        "998475612": {
+            "orgId": "998475612",
+            "orgName": "DIAMOND LIGHT SOURCE LIMITED",
+            "ecContrib": 248750
+        },
+        "999728076": {
+            "orgId": "999728076",
+            "orgName": "SEAGATE SYSTEMS UK LIMITED",
+            "ecContrib": 2587061
+        },
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 501875
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 974245
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 248240
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 916900
+        },
+        "998811911": {
+            "orgId": "998811911",
+            "orgName": "UNITED KINGDOM ATOMIC ENERGY AUTHORITY",
+            "ecContrib": 248750
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 711260
+        }
+    },
+    "calculatedTotalContribution": 7882531
+}

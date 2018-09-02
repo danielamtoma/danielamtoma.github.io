@@ -1,0 +1,23 @@
+{
+    "rcn": "194550",
+    "acronym": "LEXICAL",
+    "topics": "ERC-CoG-2014",
+    "title": "Lexical Acquisition Across Languages",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Due to the growing volume of textual information available in multiple languages, there is a great demand for Natural Language Processing (NLP) techniques that can automatically process and manage multi-lingual texts, supporting information access and communication in core areas of society (e.g. healthcare, business, science). Many NLP tasks and applications rely on task-specific lexicons (e.g. dictionaries, word classifications) for optimal performance. Recently, automatic acquisition of lexicons from relevant texts has proved a promising, cost-effective alternative to manual lexicography. It has the potential to considerably enhance the viability and portability of NLP technology both within and across languages. However, this approach has been explored for a very small number of resource-rich languages only, leaving the vast majority of worldsí languages without useful technology. The ambitious goal of this project is to take research in lexical acquisition to the level where it can support multi-lingual NLP, involving also languages for which no parallel language resources (e.g. corpora, knowledge resources) are available. Building on an emerging line of research which uses mainly naturally occurring supervision (connections between languages) to guide cross-lingual NLP, we will develop a radically novel approach to lexical acquisition. This approach will transfer lexical knowledge from one language to another as well as will learn it simultaneously for a diverse set of languages using new methodology based on guiding joint learning and inference with rich knowledge about cross-lingual connections. We not only aim to create next generation lexical acquisition technology but also aim to take cross-lingual NLP a big step toward to the direction where it is no longer dependent on parallel resources. We will use our approach to support fundamental tasks and applications aimed at broadening the global reach of NLP to areas where it is now critically needed.",
+    "totalCost": "1989203",
+    "ecMaxContribution": "1989203",
+    "coordinator": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

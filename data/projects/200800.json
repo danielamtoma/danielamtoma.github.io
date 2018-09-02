@@ -1,0 +1,23 @@
+{
+    "rcn": "200800",
+    "acronym": "CIRCUS",
+    "topics": "ERC-CoG-2015",
+    "title": "An end-to-end verification architecture for building Certified Implementations of Robust,  Cryptographically Secure web applications",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2021",
+    "objective": "The security of modern web applications depends on a variety of critical components including cryptographic libraries, Transport Layer Security (TLS), browser security mechanisms, and single sign-on protocols. Although these components are widely used, their security guarantees remain poorly understood, leading to subtle bugs and frequent attacks.\nRather than fixing one attack at a time, we advocate the use of formal security verification to identify and eliminate entire classes of vulnerabilities in one go. With the aid of my ERC starting grant, I have built a team that has already achieved landmark results in this direction. We built the first TLS implementation with a cryptographic proof of security. We discovered high-profile vulnerabilities such as the recent Triple Handshake and FREAK attacks, both of which triggered critical security updates to all major web browsers and TLS libraries.\nSo far, our security theorems only apply to carefully-written standalone reference implementations. CIRCUS proposes to take on the next great challenge: verifying the end-to-end security of web applications running in mainstream software. The key idea is to identify the core security components of web browsers and servers and replace them by rigorously verified components that offer the same functionality but with robust security guarantees.\nOur goal is ambitious and there are many challenges to overcome, but we believe this is an opportune time for this proposal. In response to the Snowden reports, many cryptographic libraries and protocols are currently being audited and redesigned. Standards bodies and software developers are inviting researchers to help analyse their designs and code. Responding to their call requires a team of researchers who are willing to deal with the messy details of nascent standards and legacy code, and at the same time prove strong security theorems based on precise cryptographic assumptions. We are able, we are willing, and the time is now.",
+    "totalCost": "1885248",
+    "ecMaxContribution": "1885248",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 1885248
+        }
+    },
+    "calculatedTotalContribution": 1885248
+}

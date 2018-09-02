@@ -1,0 +1,23 @@
+{
+    "rcn": "208419",
+    "acronym": "PolySolv",
+    "topics": "INNOSUP-02-2016",
+    "title": "Polymer Solvation with COSMO-RS",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2018",
+    "objective": "SCM is a scientific software company with a track record of over two decades of translating scientific advances into commercial success. The companyís strength has traditionally lied in electronic structure methods, its flagship product being the well-known ADF package. In recent years SCM has been broadening its scope to add approximate, faster methods. One of such methods is the COnductor-like Screening MOdel for Realistic Solvation, COSMO-RS, a powerful continuum solvation model.\nCOSMO-RS is able to predict thermodynamic properties in solutions in an efficient and general way, and has proven to be one of the modules with the fastest-growing demand within SCMís portfolio ñ the companyís revenues from COSMO-RS have increased almost 130% over the last two years. COSMO-RS is therefore a key component of SCMís growth strategy.\nHowever, our COSMO-RS implementation has one important limitation, as it cannot deal with molecular models above a certain size. And the ability to predict thermodynamic properties in larger molecules, and in particular polymers, is of great relevance in many areas (e.g. food packaging, coating technology, membrane separation and drug development). SCM therefore plans to extend its COSMO-RS implementation to allow for molecular models of any size, in order to increase our market share in the field of polymer chemistry.\nThere are several possible routes to accomplish that (such as fragment-based methods or equations of state (EOS) approaches) but they all require a level of expertise in thermodynamics and continuum models currently lacking within SCM. This is highly specialized work, which falls outside SCMís strengths in electronic structure methods, and the company needs to recruit skills combining expertise in continuum solvation models as well as modern software development techniques.\nSuch developments would extend the market for SCMís COSMO-RS implementation, allowing the company to tap into the huge market of polymer chemistry.",
+    "totalCost": "105000",
+    "ecMaxContribution": "105000",
+    "coordinator": "SOFTWARE FOR CHEMISTRY & MATERIALSBV",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998282485": {
+            "orgId": "998282485",
+            "orgName": "SOFTWARE FOR CHEMISTRY & MATERIALS BV",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

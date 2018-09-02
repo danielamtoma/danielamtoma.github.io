@@ -1,0 +1,53 @@
+{
+    "rcn": "204054",
+    "acronym": "PHENOMEN",
+    "topics": "FETOPEN-1-2014",
+    "title": "All-Phononic circuits Enabled by Opto-mechanics",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2019",
+    "objective": "This project is at the intersection of photonics, RF signal processing and phononics, aiming to achieve an all-optical phononic circuit using coherent phonons as the state variable. The concept is based on cavity optomechanics (OM) to develop GHz- frequency in-chip phononic circuits for room temperature operation. The circuits will integrate OM-pumped phonon sources and detectors as well as phonon processing components (waveguides, splitters, memories, photonic RF signal processing) to process information with phonons outside the cavity. The project seeks to prove two concepts. One is the efficient generation of GHz to tens of GHz coherent phonons, coupling them efficiently into a waveguide, engineering their propagation with low losses and detecting them at room temperature. The other is the synchronisation of two or more self-sustained OM cavities, which relies on the integration of several phononic components. Phonon-based processing will enable on-chip synchronisation and transfer of information carried between optical channels by phonons, which could eventually serve as a future scalable platform for, e.g., practical information processing with phonons. The technical work is organised in three work-packages: Theory, Components and Integration. The consortium is made up by three leading research institutes, three universities with an internationally recognised track-record in their respective areas of expertise and an industrial partner bringing their photonics, phononics, optomechanics, electrical engineering, integration, nanofabrication, theory, multi-physics/multi-scale modelling, instrumentation and application of detectors to the project.",
+    "totalCost": "2915886,25",
+    "ecMaxContribution": "2915885,75",
+    "coordinator": "FUNDACIO INSTITUT CATALA DE NANOCIENCIA I NANOTECNOLOGIA",
+    "coordinatorCountry": "ES",
+    "participants": "Teknologian tutkimuskeskus VTT Oy;CONSIGLIO NAZIONALE DELLE RICERCHE;UNIVERSITAT POLITECNICA DE VALENCIA;UNIVERSITA POLITECNICA DELLE MARCHE;MENAPIC SAS;UNIVERSITE DES SCIENCES ET TECHNOLOGIES DE LILLE - LILLE I",
+    "participantCountries": "FI;IT;ES;FR",
+    "projectParticipants": {
+        "925015475": {
+            "orgId": "925015475",
+            "orgName": "MENAPIC SAS",
+            "ecContrib": 223625
+        },
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 622186
+        },
+        "999899378": {
+            "orgId": "999899378",
+            "orgName": "UNIVERSITE DES SCIENCES ET TECHNOLOGIES DE LILLE - LILLE I",
+            "ecContrib": 317325
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 238496
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 480250
+        },
+        "999606923": {
+            "orgId": "999606923",
+            "orgName": "FUNDACIO INSTITUT CATALA DE NANOCIENCIA I NANOTECNOLOGIA",
+            "ecContrib": 653254
+        },
+        "999866689": {
+            "orgId": "999866689",
+            "orgName": "UNIVERSITA POLITECNICA DELLE MARCHE",
+            "ecContrib": 380750
+        }
+    },
+    "calculatedTotalContribution": 2915886
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "210429",
+    "acronym": "GreenSoft",
+    "topics": "SMEInst-01-2016-2017",
+    "title": "Toolset for development of high performance and energy-efficient software, realising the potential of ubiquitous computing and the Internet of Things",
+    "startDate": "01/05/2017",
+    "endDate": "31/10/2017",
+    "objective": "The huge, emerging market that is referred to by terms such as ëubiquitous computingí and the ëInternet of Thingsí\ninvolves not mere hundreds of millions, but tens to hundreds of billions of processors.\nWhen planning to manufacture ten to the tenth or eleventh power of items, cost rules;\nwhen planning to deploy them, energy efficiency and maintenance cost rule.\nConventional processors, running legacy software, were never designed to address these three crucial considerations.\n\nWe believe that the wisest way to ameliorate this problem is to abandon legacy software that has been driving conventional computer architectures and address these demanding problems in a fresh, simple way.\nThe GreenSoft project targets development of a novel, highly productive and energy-efficient programming framework and software toolset to synergetically support use of state of the art low-energy processors. Our approach addresses the critically important need for the combination of high performance and energy-efficiency, \nwhich is the key to fully realise the potential of ubiquitous computing and the Internet of Things.\n\nThe GreenArrays GA144 is a recent example of a low-power spatial processor, composed of many small, simple, identical cores.\nThe novel architecture is optimised for performance, i.e., speed combined with low power consumption.\nHowever, traditional compilers and other existing software tools do not support such emerging multi-core processors.\nGreenSoft represents a new paradigm for efficient product development, taking full advantage of inherent benefits made available by the technology.\n\nBy generating compact and highly efficient programmes which fully exploit inherent low-power capabilities of processor architecture, compounded with the benefits of processor hardware that consumes only 1% compared to its competitors, an overall reduction in power consumption of 1,000x is readily achievable, whilst a reduction of 10,000x can be reasonably targeted for many applications.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "MICROPROCESSOR SOLUTIONS OU",
+    "coordinatorCountry": "EE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "913638539": {
+            "orgId": "913638539",
+            "orgName": "MICROPROCESSOR SOLUTIONS OU",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

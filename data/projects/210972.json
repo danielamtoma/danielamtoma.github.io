@@ -1,0 +1,23 @@
+{
+    "rcn": "210972",
+    "acronym": "EPIC",
+    "topics": "ERC-2016-ADG",
+    "title": "Evolving Program Improvement Collaborators",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "EPIC will automatically construct Evolutionary Program Improvement Collaborators (called Epi-Collaborators) that suggest code changes that improve software according to multiple functional and non-functional objectives. The Epi-Collaborator suggestions will include transplantation of code from a donor system to a host, grafting of entirely new features `grown' (evolved) by the Epi-Collaborator, and identification and optimisation of tuneable `deep' parameters (that were previously unexposed and therefore unexploited).\n\nA key feature of the EPIC approach is that all of these suggestions will be underpinned by automatically-constructed quantitative evidence that justifies, explains and documents improvements. EPIC aims to introduce a new way of developing software, as a collaboration between human and machine, exploiting the complementary strengths of each; the human has domain and contextual insights, while the machine has the ability to intelligently search large search spaces. The EPIC approach directly tackles the emergent challenges of multiplicity: optimising for multiple competing and conflicting objectives and platforms with multiple software versions.\n\n\nKeywords:\nSearch Based Software Engineering (SBSE),\nEvolutionary Computing,\nSoftware Testing,\nGenetic Algorithms,\nGenetic Programming.",
+    "totalCost": "2159035",
+    "ecMaxContribution": "2159035",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 2159035
+        }
+    },
+    "calculatedTotalContribution": 2159035
+}

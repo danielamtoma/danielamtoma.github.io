@@ -1,0 +1,23 @@
+{
+    "rcn": "209599",
+    "acronym": "RAD-FIRE",
+    "topics": "MSCA-IF-2016",
+    "title": "Efficient methods for radiative heat transfer analysis in fires and water sprays for fire suppression",
+    "startDate": "01/09/2017",
+    "endDate": "28/02/2019",
+    "objective": "The annual cost of losses due to fires is estimated at Ä126bn, equivalent to 1% of European global gross domestic product (GDP). The use of performance-based fire safety engineering which relies on fire modeling is seen as a good step to reduce fire losses. Thermal radiation is the most dominant mode of heat transfer in fires and its rigorous and efficient modeling is therefore critical for the reliability of fire safety codes employed in fire engineering. The project aims to improve the current modeling strategies of radiative heat transfer in fires and in fire suppression by water sprays where the  interaction between fires and water droplets should be taken into account. Current computational methods used in fire modeling and fire suppression suffer from the main following drawbacks: (1) They use the optically gray Planck mean radiative properties of the composite medium, which are too crude to describe the real spectral behavior of thermal radiation (2) The angular dependence of the radiation intensity is usually approximated with too much details without accounting for the real radiation field; (3) The computational mesh taken from the Computational Fluid Dynamics (CFD) part of the general fire code is too detailed and not appropriate for radiative transfer calculations; (4) the computational requirements for current fire CFD codes are prohibitive and this is an obstacle.\nIt is proposed in the scientific part of the project to develop simplified and rigorous radiative approaches which retain the physics and significantly reduce the computational time. This will lead to more efficient CFD fire codes and enhance their wider use for safety applications. The action also aims to train the Experienced Researcher in developing and acquiring knowledge in advanced fire combustion and turbulence modeling using LES (large eddy simulation) approach, CFD methods and gain a general knowledge of multidisciplinary fire safety science.",
+    "totalCost": "146591,1",
+    "ecMaxContribution": "146591,1",
+    "coordinator": "KINGSTON UNIVERSITY HIGHER EDUCATION CORPORATION",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999864652": {
+            "orgId": "999864652",
+            "orgName": "KINGSTON UNIVERSITY HIGHER EDUCATION CORPORATION",
+            "ecContrib": 146591
+        }
+    },
+    "calculatedTotalContribution": 146591
+}

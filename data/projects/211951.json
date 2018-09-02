@@ -1,0 +1,48 @@
+{
+    "rcn": "211951",
+    "acronym": "INTERPLAN",
+    "topics": "LCE-05-2017",
+    "title": "INTEgrated opeRation PLAnning tool towards the Pan-European Network",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2020",
+    "objective": "'The European Union (EU) energy security policy faces significant challenges, as we move towards a panñEuropean network based on the wide diversity of energy systems among EU members. In such a context, novel solutions are needed to support the future operation of the EU electricity system in order to increase security of supply also accounting for the increasing contribution of renewable energy sources. The goal of INTERPLAN project is to provide an INTEgrated opeRation PLANning tool towards the pan-European network, to support the EU in reaching the expected low-carbon targets, while maintaining network security. A methodology for proper representation of a ìclusteredî model of the pan-European network will be provided, with the aim to generate grid equivalents as a growing library able to cover all relevant system connectivity possibilities occurring in the real grid, by addressing operational issues at all network levels (transmission, distribution and TSOs-DSOs interfaces). In this perspective, the chosen top-down approach will actually lead to an 'integrated' tool, both in terms of voltage levels, going from high voltage down to low voltage up to end user, and in terms of building a bridge between static, long-term planning and considering operational issues by introducing controllers in the operation planning. Proper cluster and interface controllers will be developed to intervene in presence of criticalities, by exploiting the flexibility potentials throughout the grid. The achievement of the project goal will be ensured by the subdivision of the needed steps in seven Work Packages, each of them, with a specific measurable objective. The project is in line with the Work Programme, in ensuring more flexibility and active involvement of all stakeholders, and a close coordination of TSOs and DSOs. Moreover, its versatility in the concept of grid equivalents, will allow an accurate analysis of the complex network, by considering local active elements in the grid.'",
+    "totalCost": "2964362,5",
+    "ecMaxContribution": "2964362,5",
+    "coordinator": "AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE",
+    "coordinatorCountry": "IT",
+    "participants": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;European Distributed Energy Resources Laboratories e.V.;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INSTYTUT ENERGETYKI;UNIVERSITY OF CYPRUS",
+    "participantCountries": "AT;DE;PL;CY",
+    "projectParticipants": {
+        "999988521": {
+            "orgId": "999988521",
+            "orgName": "AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE",
+            "ecContrib": 556075
+        },
+        "999835843": {
+            "orgId": "999835843",
+            "orgName": "UNIVERSITY OF CYPRUS",
+            "ecContrib": 440100
+        },
+        "999543873": {
+            "orgId": "999543873",
+            "orgName": "INSTYTUT ENERGETYKI",
+            "ecContrib": 205375
+        },
+        "995966028": {
+            "orgId": "995966028",
+            "orgName": "European Distributed Energy Resources Laboratories e.V.",
+            "ecContrib": 591375
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 550250
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 621188
+        }
+    },
+    "calculatedTotalContribution": 2964363
+}

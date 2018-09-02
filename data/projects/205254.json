@@ -1,0 +1,33 @@
+{
+    "rcn": "205254",
+    "acronym": "SYNCHRONVERTER",
+    "topics": "SIE-01-2015",
+    "title": "Smart Synchronous inverter for gridís stability",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2018",
+    "objective": "One of the key areas when it comes to Smart Grids is the safe integration of Renewable Energy Sources (RES) and Distributed Energy Storage systems (DES) onto the electric network. Nowadays RESs (solar, wind, etc.) and DES systems are connected to the grid via DC/AC converters (inverters). Currently these inverters do not provide the ancillary services required to avoid grid fluctuations derived from a growing share of RESs connected to the grid. Inverters playing an active role in grid stabilisation can efficiently mitigate some of the drawback that RESs have from an electric grid operator point of view such as transient grid-voltage fluctuations or frequency deviations. Synvertec, an Israeli company seed-funded by Horizon Green Tech Ventures (an investment alliance formed by Alstom S.A., Rotem Industries Ltd. and Gefen Investments) has developed and patented the Synchronverter, a system which connected to a standard inverter mimics the operation of a synchronous generator. Synchronverter integrates with existing inverters und turns them in effect into a virtual synchronous generator device being able to (i) actively respond to frequency changes and stabilize the voltage and (ii) imitate the inherent mechanical inertia of synchronous generators. The inverter market for renewable energy accounted in 2014 for more than Ä8.68 billion and is expected to exceed the Ä13.5 billion in 2017. Europe is the largest contributor with a 60% of the market and a revenue of Ä5.2 billion in 2014. The European market segment below 100 kW accounts for 85% of the total. Synvertec has founded a consortium with two German companies (an inverter manufacturer: Solutronic Energy, and an inverter supplier: Q3 Energie) to integrate their solution into commercial inverters and boost the deployment of the final solution into the market thanks to the well-stablished sales channels of those partners.",
+    "totalCost": "2670652",
+    "ecMaxContribution": "1869456,4",
+    "coordinator": "SYNVERTEC LTD",
+    "coordinatorCountry": "IL",
+    "participants": "Q3 ENERGIE GMBH & CO KG;SOLUTRONIC ENERGY GMBH",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "930257064": {
+            "orgId": "930257064",
+            "orgName": "SYNVERTEC LTD",
+            "ecContrib": 987604
+        },
+        "924208726": {
+            "orgId": "924208726",
+            "orgName": "SOLUTRONIC ENERGY GMBH",
+            "ecContrib": 647352
+        },
+        "924206883": {
+            "orgId": "924206883",
+            "orgName": "Q3 ENERGIE GMBH & CO KG",
+            "ecContrib": 234500
+        }
+    },
+    "calculatedTotalContribution": 1869456
+}

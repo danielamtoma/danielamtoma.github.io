@@ -1,0 +1,63 @@
+{
+    "rcn": "197536",
+    "acronym": "ExCAPE",
+    "topics": "FETHPC-1-2014",
+    "title": "Exascale Compound Activity Prediction Engine",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "Scalable machine learning of complex models on extreme data will be an important industrial application of exascale computers. In this project, we take the example of predicting compound bioactivity for the pharmaceutical industry, an important sector for Europe for employment, income, and solving the problems of an ageing society. Small scale approaches to machine learning have already been trialed and show great promise to reduce empirical testing costs by acting as a virtual screen to filter out tests unlikely to work. However, it is not yet possible to use all available data to make the best possible models, as algorithms (and their implementations) capable of learning the best models do not scale to such sizes and heterogeneity of input data. There are also further challenges including imbalanced data, confidence estimation, data standards model quality and feature diversity.\n\nThe ExCAPE project aims to solve these problems by producing state of the art scalable algorithms and implementations thereof suitable for running on future Exascale machines. These approaches will scale programs for complex pharmaceutical workloads to input data sets at industry scale. The programs will be targeted at exascale platforms by using a mix of HPC programming techniques, advanced platform simulation for tuning and and suitable accelerators.",
+    "totalCost": "3910140",
+    "ecMaxContribution": "3910140",
+    "coordinator": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+    "coordinatorCountry": "BE",
+    "participants": "VYSOKA SKOLA BANSKA - TECHNICKA UNIVERZITA OSTRAVA;IDEACONSULT LIMITED LIABILITY COMPANY;ASTRAZENECA AB;UNIVERSITAT LINZ;AALTO KORKEAKOULUSAATIO SR;JANSSEN CILAG SA;INTEL CORPORATION;ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",
+    "participantCountries": "CZ;BG;SE;AT;FI;ES;BE;UK",
+    "projectParticipants": {
+        "999941379": {
+            "orgId": "999941379",
+            "orgName": "ASTRAZENECA AB",
+            "ecContrib": 403125
+        },
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 371624
+        },
+        "999783657": {
+            "orgId": "999783657",
+            "orgName": "INTEL CORPORATION",
+            "ecContrib": 507500
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 873146
+        },
+        "998937914": {
+            "orgId": "998937914",
+            "orgName": "IDEACONSULT LIMITED LIABILITY COMPANY",
+            "ecContrib": 120000
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "999868144": {
+            "orgId": "999868144",
+            "orgName": "VYSOKA SKOLA BANSKA - TECHNICKA UNIVERZITA OSTRAVA",
+            "ecContrib": 532500
+        },
+        "950874026": {
+            "orgId": "950874026",
+            "orgName": "JANSSEN CILAG SA",
+            "ecContrib": 448708
+        },
+        "999861451": {
+            "orgId": "999861451",
+            "orgName": "ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",
+            "ecContrib": 369944
+        }
+    },
+    "calculatedTotalContribution": 3626547
+}

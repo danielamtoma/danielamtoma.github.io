@@ -1,0 +1,23 @@
+{
+    "rcn": "194535",
+    "acronym": "WILLOW",
+    "topics": "ERC-CoG-2014",
+    "title": "WIreLess LOWband communications: massive and ultra-reliable access",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2020",
+    "objective": "The overall objective of WILLOW is to make wireless communication a true commodity by enabling lowband communications: low-rate links for massive number of devices and ultra-reliable connectivity. This research effort is a major endeavour in the area of wireless communications, taking a different path from the mainstream research that aims at ì4G, but fasterî. Lowband communication is the key to enabling new applications, such as massive sensing, ultra-reliable vehicular links and wireless cloud connectivity with guaranteed minimal rate. The research in WILLOW is centred on two fundamental issues. First, it is the efficient communication with short packets, in which the data size is comparable to the size of the metadata, i.e. control information, which is not the case in broadband communication. Communication of short packets that come from a massive number of devices and/or need to meet a latency constraint requires fundamental rethinking of the packet structure and the associated communication protocols. Second is the system architecture in which graceful rate degradation, low latency and massive access can exist simultaneously with the broadband services. The principles from WILLOW will be applied to: (a) clean-slate wireless systems; (b) reengineer existing wireless systems. Option (b) is unique to lowband communication that does not require high physical-layer speed, but can reuse the physical layer of an existing system and redefine the metadata/data relationship to achieve massive/ultra-reliable communication. WILLOW carries high risk by conjecturing that it is possible to support an unprecedented number of connected devices and wireless reliability levels. Considering the timeliness and the relevance, the strong track record of the PI and the rich wireless research environment at Aalborg University, WILLOW is poised to make a breakthrough towards lowband communications and create the technology that will enable a plethora of new wireless usage modes.",
+    "totalCost": "1994411,25",
+    "ecMaxContribution": "1994411,25",
+    "coordinator": "AALBORG UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 1994411
+        }
+    },
+    "calculatedTotalContribution": 1994411
+}

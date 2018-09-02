@@ -1,0 +1,63 @@
+{
+    "rcn": "194226",
+    "acronym": "MixedEmotions",
+    "topics": "ICT-15-2014",
+    "title": "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "MixedEmotions will develop innovative multilingual multi-modal Big Data analytics applications that will analyze a more complete emotional profile of user behavior using data from mixed input channels: multilingual text data sources, A/V signal input (multilingual speech, audio, video), social media (social network, comments), and structured data. Commercial applications (implemented as pilot projects) will be in Social TV, Brand Reputation Management and Call Centre Operations. Making sense of accumulated user interaction from different data sources, modalities and languages is challenging and has not yet been explored in fullness in an industrial context. Commercial solutions exist but do not address the multilingual aspect in a robust and large-scale setting and do not scale up to huge data volumes that need to be processed, or the integration of emotion analysis observations across data sources and/or modalities on a meaningful level. MixedEmotions will implement an integrated Big Linked Data platform for emotion analysis across heterogeneous data sources, different languages and modalities, building on existing state of the art tools, services and approaches that will enable the tracking of emotional aspects of user interaction and feedback on an entity level. The MixedEmotions platform will provide an integrated solution for: large-scale emotion analysis and fusion on heterogeneous, multilingual, text, speech, video and social media data streams, leveraging open access and proprietary data sources, and exploiting social context by leveraging social network graphs; semantic-level emotion information aggregation and integration through robust extraction of social semantic knowledge graphs for emotion analysis along multidimensional clusters.",
+    "totalCost": "3529617,14",
+    "ecMaxContribution": "3036910",
+    "coordinator": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+    "coordinatorCountry": "IE",
+    "participants": "DEUTSCHE WELLE;SINDICE LIMITED;MILLWARD BROWN CZECH REPUBLIC SRO;VYSOKE UCENI TECHNICKE V BRNE;PARADIGMA DIGITAL SL;EXPERT SYSTEM SPA;UNIVERSITAT PASSAU;UNIVERSIDAD POLITECNICA DE MADRID;PHONEXIA SRO",
+    "participantCountries": "DE;IE;CZ;ES;IT",
+    "projectParticipants": {
+        "999974844": {
+            "orgId": "999974844",
+            "orgName": "UNIVERSIDAD POLITECNICA DE MADRID",
+            "ecContrib": 291125
+        },
+        "999586262": {
+            "orgId": "999586262",
+            "orgName": "DEUTSCHE WELLE",
+            "ecContrib": 341035
+        },
+        "999878523": {
+            "orgId": "999878523",
+            "orgName": "UNIVERSITAT PASSAU",
+            "ecContrib": 343688
+        },
+        "965412483": {
+            "orgId": "965412483",
+            "orgName": "SINDICE LIMITED",
+            "ecContrib": 331852
+        },
+        "999978045": {
+            "orgId": "999978045",
+            "orgName": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+            "ecContrib": 557775
+        },
+        "965118476": {
+            "orgId": "965118476",
+            "orgName": "PARADIGMA DIGITAL SL",
+            "ecContrib": 296625
+        },
+        "952361424": {
+            "orgId": "952361424",
+            "orgName": "MILLWARD BROWN CZECH REPUBLIC SRO",
+            "ecContrib": 0
+        },
+        "999873091": {
+            "orgId": "999873091",
+            "orgName": "VYSOKE UCENI TECHNICKE V BRNE",
+            "ecContrib": 353638
+        },
+        "997528019": {
+            "orgId": "997528019",
+            "orgName": "PHONEXIA SRO",
+            "ecContrib": 241818
+        }
+    },
+    "calculatedTotalContribution": 2757556
+}

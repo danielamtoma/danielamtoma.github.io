@@ -1,0 +1,23 @@
+{
+    "rcn": "211862",
+    "acronym": "SUBLINEAR",
+    "topics": "ERC-2017-STG",
+    "title": "Sublinear Algorithms for Modern Data Analysis",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2023",
+    "objective": "Designing efficient algorithms for fundamental computational tasks as well as understanding the limits of tractability has been the goal of computer science since its inception. Polynomial runtime has been the de facto notion of efficiency since the introduction of the notion of NP-completeness. As the sizes of modern datasets grow, however, many classical polynomial time (and sometimes even linear time) solutions become prohibitively expensive. This calls for sublinear algorithms, i.e. algorithms whose resource requirements are substantially smaller than the size of the input that they operate on.  \n\nWe propose to design a toolbox of powerful algorithmic techniques with sublinear resource requirements that will form the theoretical foundation of large data analysis, as well as develop a nuanced runtime, space and communication complexity theory to show optimality of our algorithms. Specifically, we propose to:\n\n1. design an algorithmic toolkit for sublinear graph processing that will form the basis of large scale graph analytics;\n2. design a new generation of  sublinear algorithms for signal processing that will become the method of choice for a wide range of applications;\n3. develop a far-reaching set of techniques for lower bounding runtime, space and communication complexity of sublinear algorithms.\n\nThe  problems that we propose to solve are among the most fundamental algorithmic questions on the forefront of the rapidly developing algorithmic theory of large data analysis, which has been the focus of an extensive body of work in the research community. The algorithms and complexity theoretic results that we propose to design will cut at the core of fundamental computational problems and form the theoretical foundation of computing with constrained resources.",
+    "totalCost": "1473175",
+    "ecMaxContribution": "1473175",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 1473175
+        }
+    },
+    "calculatedTotalContribution": 1473175
+}

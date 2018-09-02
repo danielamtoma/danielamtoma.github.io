@@ -1,0 +1,23 @@
+{
+    "rcn": "212617",
+    "acronym": "INNOVATE",
+    "topics": "MSCA-IF-2016",
+    "title": "INtelligeNt ApplicatiOns oVer Large ScAle DaTa StrEams",
+    "startDate": "01/04/2018",
+    "endDate": "31/03/2020",
+    "objective": "Large scale data analytics is the key research domain for future data driven applications as numerous of devices produce huge volumes of data in the form of streams. Analytics services can offer the necessary basis for building intelligent decision making mechanisms to support novel applications. Due to the huge volumes of data, analytics should be based on efficient schemes for querying large scale data partitions. Partitions contain only a piece of data and a dedicated processor manages the incoming queries. The management of continuous queries over data streams is a challenging research issue requiring intelligent methods to derive the final outcome (i.e., query response) in limited time with maximum performance. The management process of continuous queries involves their assignment to specific processors and the processing of the derived responses. We focus on a group of query controllers serving the incoming queries and, thus, becoming the connection of big data systems with the real world. INNOVATE proposes solutions for the management of the controllers behavior. We propose an intelligent decision making process for each controller in three axes: (i) top-down, by realizing a mechanism that assigns queries to the underlying processors; (ii) bottom-up, by proposing decision making mechanisms for returning responses to users/applications on top of early results; (iii) horizontal, by proposing optimization schemes for queries management. We adopt a pool of learning schemes and an ensemble learning model dealing with how and on which processors each query should be assigned. We also propose specific schemes for combining processors responses. Intelligent and optimization techniques are adopted for the controllers group management. Machine learning, Computational Intelligence and optimization are the key adopted technologies that, when combined, provide efficient solutions to a challenging problem like the support of intelligent analytics over big data streams.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "UNIVERSITY OF GLASGOW",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974165": {
+            "orgId": "999974165",
+            "orgName": "UNIVERSITY OF GLASGOW",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

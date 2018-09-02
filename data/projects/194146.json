@@ -1,0 +1,48 @@
+{
+    "rcn": "194146",
+    "acronym": "ALIGNED",
+    "topics": "ICT-09-2014",
+    "title": "Aligned, Quality-centric Software and Data Engineering",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "The rapid growth of web data creates demand for software engineering methods which can build and maintain applications that extract, process and publish web data. However, converting Big Data sources into high-quality, structured knowledge for use in business processes is usually considered data engineering. ALIGNED will develop models, methods and tools for engineering information systems based on co-evolving software and web data. Tools for model-driven software evolution based on Linked Data sources, runtime data quality analytics, human data curation and process integration will aid more efficient governance, increased agility and higher productivity. \n\nThe opportunities for web data have recently led to intense research and innovation, but most efforts are siloed in the software or data spaces. Past integration of data and software engineering used formal ontologies rather than Linked Data. ALIGNED will provide lightweight methods for European data and software engineering industries to exploit the new opportunities in web data. Information companies like Wolters Kluwer need better ways to extract web data and build applications on top of it. Public bodies like the UK National Health Service (NHS) need evolving systems for data collection and re-use. Web data publishers like DBpedia need new methods to improve data quality. Scientific publications, industry workshops, training programs, open source tools and engaging the OMG, W3C and ISO standards bodies will transfer ALIGNED outputs.\n\nALIGNED combines world class researchers in model driven software engineering (Oxford are transforming NHS systems), Linked Data quality (Leipzig and Trinity College have published foundational papers) and web systems (Leipzig are co-creators of DBpedia) with innovative enterprises (Wolters Kluwer have Linked Data in production systems, Semantic Web Company lead the world in enterprise Linked Data) and pioneering expert-curated data publishers (Oxford Anthropology and Posnan).",
+    "totalCost": "3999934",
+    "ecMaxContribution": "3999934",
+    "coordinator": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "UNIWERSYTET IM. ADAMA MICKIEWICZA W POZNANIU;UNIVERSITAET LEIPZIG;SEMANTIC WEB COMPANY GMBH;WOLTERS KLUWER DEUTSCHLAND GMBH;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "participantCountries": "PL;DE;AT;UK",
+    "projectParticipants": {
+        "985840295": {
+            "orgId": "985840295",
+            "orgName": "WOLTERS KLUWER DEUTSCHLAND GMBH",
+            "ecContrib": 614375
+        },
+        "986022364": {
+            "orgId": "986022364",
+            "orgName": "SEMANTIC WEB COMPANY GMBH",
+            "ecContrib": 620950
+        },
+        "999845446": {
+            "orgId": "999845446",
+            "orgName": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+            "ecContrib": 986040
+        },
+        "999854564": {
+            "orgId": "999854564",
+            "orgName": "UNIVERSITAET LEIPZIG",
+            "ecContrib": 625950
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 982119
+        },
+        "999886865": {
+            "orgId": "999886865",
+            "orgName": "UNIWERSYTET IM. ADAMA MICKIEWICZA W POZNANIU",
+            "ecContrib": 170500
+        }
+    },
+    "calculatedTotalContribution": 3999934
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "199445",
+    "acronym": "3DWATERWAVES",
+    "topics": "ERC-StG-2015",
+    "title": "Mathematical aspects of three-dimensional water waves with vorticity",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2021",
+    "objective": "The goal of this project is to develop a mathematical theory for steady three-dimensional water waves with vorticity. The mathematical model consists of the incompressible Euler equations with a free surface, and vorticity is important for modelling the interaction of surface waves with non-uniform currents. In the two-dimensional case, there has been a lot of progress on water waves with vorticity in the last decade. This progress has mainly been based on the stream function formulation, in which the problem is reformulated as a nonlinear elliptic free boundary problem. An analogue of this formulation is not available in three dimensions, and the theory has therefore so far been restricted to irrotational flow. In this project we seek to go beyond this restriction using two different approaches. In the first approach we will adapt methods which have been used to construct three-dimensional ideal flows with vorticity in domains with a fixed boundary to the free boundary context (for example Beltrami flows). In the second approach we will develop methods which are new even in the case of a fixed boundary, by performing a detailed study of the structure of the equations close to a given shear flow using ideas from infinite-dimensional bifurcation theory. This involves handling infinitely many resonances.",
+    "totalCost": "1203627",
+    "ecMaxContribution": "1203627",
+    "coordinator": "LUNDS UNIVERSITET",
+    "coordinatorCountry": "SE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901318": {
+            "orgId": "999901318",
+            "orgName": "LUNDS UNIVERSITET",
+            "ecContrib": 1203627
+        }
+    },
+    "calculatedTotalContribution": 1203627
+}

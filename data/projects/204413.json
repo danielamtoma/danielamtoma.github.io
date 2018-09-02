@@ -1,0 +1,23 @@
+{
+    "rcn": "204413",
+    "acronym": "SmartRAIN",
+    "topics": "SMEInst-12-2016-2017",
+    "title": "SmartRAIN: an IoT-based solution for real time rain mapping",
+    "startDate": "01/06/2016",
+    "endDate": "30/11/2016",
+    "objective": "SmartRAIN is our patented image-processing technology for measuring rainfall intensity from images shot during rain events. It is the core of an integrated IoT system which transforms imaging devices, like surveillance IP cameras (SmartRAIN Nodes) and smartphones (SmartRAIN Sentinels), into ìeyesî for seeing, gauging and communicating rain intensity in real-time. \n\nSmartRAIN Nodes are non-dedicated, existing video cameras, typically owned by public agencies. A plugin developed by WaterView for the cameras of the main manufacturers is installed on the devices, giving them the pre-processing functionalities and connecting them to the cloud-based engine of SmartRAIN.\n\nSmartRAIN Sentinel is a mobile app which involves citizens in rainstorm sensing by simply sharing photos shot with their devices. The app also provides personalized alerts via push notifications, based on the current position of the user and the flow of real time rain data coming from other Sentinels, Nodes and traditional rain gauging systems.\n\nA balanced mix of Sentinels and Nodes provides our customers (public bodies in charge of civil protection duties, entities that own or manage transport infrastructures, agencies that own or manage rain gauging networks, managers of urban drainage systems, etc.) with a real-time rain gauging service which achieves spatial resolutions up to ten times greater than traditional rain gauging networks, at a comparable cost. \n\nIncreasing the density of traditional rain gauging networks would importantly enhance the quality of real-time representations of rain events; feed forecasting models with better data; enable the implementation of optimal stormwater management strategies; improve the safety of urban and transport infrastructures; reduce the costs of unmanaged events.\n\nThe project aims at outlining the technical features of SmartRAIN and defining effective marketing strategies, based on the outcomes of market surveys and customer/user analyses.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "WATERVIEW SRL",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "930636431": {
+            "orgId": "930636431",
+            "orgName": "WATERVIEW SRL",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

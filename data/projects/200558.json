@@ -1,0 +1,83 @@
+{
+    "rcn": "200558",
+    "acronym": "FutureFlow",
+    "topics": "LCE-06-2015",
+    "title": "Designing eTrading Solutions for Electricity Balancing and Redispatching in Europe",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "Four European TSOs of Central-Eastern Europe (Austria, Hungary, Romania, Slovenia), associated with power system experts, electricity retailers, IT providers and renewable electricity providers, propose to design a unique regional cooperation scheme: it aims at opening Balancing and Redispatching markets to new sources of flexibility and supporting such sources to act on such markets competitively. Thanks to a prototype aggregation solution and renewable generation forecasting techniques, flexibility providers ñ distributed generators (DG) and Commercial and Industrial (C&I) consumers providing demand response (DR) ñ are enabled, through retailers acting as flexibility aggregators, to provide competitive offers for Frequency Restoration Reserve (including secondary control activated with a response time between 30 seconds and 15 minutes). A comprehensive techno-economic model for the cross-border integration of such services involves a common activation function (CAF) tailored to congested borders and optimized to overcome critical intra-regional barriers. The resulting CAF is implemented into a prototype Regional Balancing and Redispatching Platform, securely integrated within the four TSOsí IT systems: this makes research activities about cross-border integration flexible while linking with the aggregation solution. Use cases of growing complexity are pilot tested, going from the involvement of DR and DG into national balancing markets to cross-border competition between flexibility aggregators. Based on past experience with tertiary reserve, participating C&I consumers and DG are expected to provide close to 40MW of secondary reserve. Impact analyses of the pilot tests together with dissemination activities towards all the stakeholders of the electricity value chain will recommend business models and deployment roadmaps for the most promising use cases, which, in turn, contribute to the practical implementation of the European Balancing Target Model by 2020.",
+    "totalCost": "12985242,5",
+    "ecMaxContribution": "12985233,5",
+    "coordinator": "ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA",
+    "coordinatorCountry": "SI",
+    "participants": "COMPANIA NATIONALA DE TRANSPORT ALENERGIEI ELECTRICE TRANSELECTRICA SA;ELEKTROENERGETSKI KOORDINACIONI CENTAR DOO;CYBERGRID GMBH;GEMALTO SA;SAP SE;AUSTRIAN POWER GRID AG;MAVIR MAGYAR VILLAMOSENERGIA-IPARI ATVITELI RENDSZERIRANYITO ZARTKORUEN MUKODO RESZVENYTARSASAG;GEN-I, TRGOVANJE IN PRODAJA ELEKTRICNE ENERGIJE, D.O.O.;CYBERGRID GMBH & CO KG;3E NV;ELEKTRO ENERGIJA, PODJETJE ZA PRODAJO ELEKTRIKE IN DRUGIH ENERGENTOV, SVETOVANJE IN STORITVE, D.O.O.;Elektroinstitut Milan Vidmar",
+    "participantCountries": "RO;RS;AT;FR;DE;HU;SI;BE",
+    "projectParticipants": {
+        "951647116": {
+            "orgId": "951647116",
+            "orgName": "MAVIR MAGYAR VILLAMOSENERGIA-IPARI ATVITELI RENDSZERIRANYITO ZARTKORUEN MUKODO RESZVENYTARSASAG",
+            "ecContrib": 201582
+        },
+        "928678195": {
+            "orgId": "928678195",
+            "orgName": "ELEKTRO ENERGIJA, PODJETJE ZA PRODAJO ELEKTRIKE IN DRUGIH ENERGENTOV, SVETOVANJE IN STORITVE, D.O.O.",
+            "ecContrib": 995338
+        },
+        "998079755": {
+            "orgId": "998079755",
+            "orgName": "ELES DOO SISTEMSKI OPERATER PRENOSNEGA ELEKTROENERGETSKEGA OMREZJA",
+            "ecContrib": 1639750
+        },
+        "997800492": {
+            "orgId": "997800492",
+            "orgName": "AUSTRIAN POWER GRID AG",
+            "ecContrib": 60548
+        },
+        "972800488": {
+            "orgId": "972800488",
+            "orgName": "ELEKTROENERGETSKI KOORDINACIONI CENTAR DOO",
+            "ecContrib": 995662
+        },
+        "999755236": {
+            "orgId": "999755236",
+            "orgName": "COMPANIA NATIONALA DE TRANSPORT ALENERGIEI ELECTRICE TRANSELECTRICA SA",
+            "ecContrib": 281160
+        },
+        "938196902": {
+            "orgId": "938196902",
+            "orgName": "Elektroinstitut Milan Vidmar",
+            "ecContrib": 1436375
+        },
+        "999911212": {
+            "orgId": "999911212",
+            "orgName": "SAP SE",
+            "ecContrib": 1054859
+        },
+        "928950765": {
+            "orgId": "928950765",
+            "orgName": "GEN-I, TRGOVANJE IN PRODAJA ELEKTRICNE ENERGIJE, D.O.O.",
+            "ecContrib": 2715842
+        },
+        "997998081": {
+            "orgId": "997998081",
+            "orgName": "GEMALTO SA",
+            "ecContrib": 1065862
+        },
+        "955336220": {
+            "orgId": "955336220",
+            "orgName": "CYBERGRID GMBH",
+            "ecContrib": 0
+        },
+        "912965068": {
+            "orgId": "912965068",
+            "orgName": "CYBERGRID GMBH & CO KG",
+            "ecContrib": 1529231
+        },
+        "998314786": {
+            "orgId": "998314786",
+            "orgName": "3E NV",
+            "ecContrib": 1009025
+        }
+    },
+    "calculatedTotalContribution": 12985234
+}

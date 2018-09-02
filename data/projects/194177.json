@@ -1,0 +1,48 @@
+{
+    "rcn": "194177",
+    "acronym": "Wi-5",
+    "topics": "ICT-06-2014",
+    "title": "What to do With the Wi-Fi Wild West",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The last few years have witnessed a significant increase in the use of portable devices, especially smartphones and tablets thanks to their functionality, user-friendly interface, and affordable price. Most of these devices use Wi-Fi Access Points (AP) where possible, in addition to 3G/4G, to connect to the Internet due to its speed, maturity and efficiency. \n\nGiven this demand, Wi-Fi is facing mounting issues of spectrum efficiency due to its utilisation of non-licensed frequency bands, so improvements continue to be added to standards in order to improve performance and adapt it to new demands. For example, as Wi-Fi saturation increases in areas, such as business centres, malls, campuses or even whole European cities, interference between these competing APs can begin to negatively impact usersí experience. At the same time, real-time interactive services have grown in popularity and are now used across a range of mobile devices. These share the same connection with ìtraditionalî applications, such as e-mail and Web browsing, but are far more bandwidth intensive and require consistent network capacity to meet user Quality of Experience demands. \n\nIn this context, Wi-5 Project (What to do With the Wi-Fi Wild West) proposes an architecture based on an integrated and coordinated set of smart solutions able to efficiently reduce interference between neighbouring APs and provide optimised connectivity for new and emerging services. Cooperating mechanisms will be integrated into Wi-Fi equipment at different layers of the protocol stack with the aim of meeting a demanding set of goals:\n\nï Support seamless hand-over to improve user experience with real-time interactive services\nï Develop new business models to optimise available Wi-Fi spectrum in urban areas, public spaces, and offices\nï Integrate novel smart functionalities into APs to address radio spectrum congestion and current usage inefficiency, thus increasing global throughput and achieving energy savings",
+    "totalCost": "2106083,75",
+    "ecMaxContribution": "2104945,75",
+    "coordinator": "LIVERPOOL JOHN MOORES UNIVERSITY",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSIDAD DE ZARAGOZA;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;PRIMETEL PLC;TELEFONICA INVESTIGACION Y DESARROLLO SA;AIRTIES KABLOSUZ ILETISIM SANAYI VEDIS TICARET ANONIM SIRKETI",
+    "participantCountries": "ES;NL;CY;TR",
+    "projectParticipants": {
+        "999670361": {
+            "orgId": "999670361",
+            "orgName": "PRIMETEL PLC",
+            "ecContrib": 110872
+        },
+        "998079949": {
+            "orgId": "998079949",
+            "orgName": "LIVERPOOL JOHN MOORES UNIVERSITY",
+            "ecContrib": 778640
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 495959
+        },
+        "999898214": {
+            "orgId": "999898214",
+            "orgName": "UNIVERSIDAD DE ZARAGOZA",
+            "ecContrib": 298474
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 106004
+        },
+        "950927570": {
+            "orgId": "950927570",
+            "orgName": "AIRTIES KABLOSUZ ILETISIM SANAYI VEDIS TICARET ANONIM SIRKETI",
+            "ecContrib": 314998
+        }
+    },
+    "calculatedTotalContribution": 2104947
+}

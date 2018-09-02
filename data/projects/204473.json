@@ -1,0 +1,23 @@
+{
+    "rcn": "204473",
+    "acronym": "OSARES",
+    "topics": "ERC-CoG-2015",
+    "title": "Output-Sensitive Algorithms for Reactive Synthesis",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "Reactive synthesis has the potential to revolutionize the development of distributed embedded systems. From a given logical specification, the synthesis algorithm automatically constructs an implementation that is correct-by-design. The vision is that a designer analyzes the design objectives with a synthesis tool, automatically identifies competing or contradictory requirements and obtains an error-free prototype implementation. Coding and testing, the most expensive stages of development, are eliminated from the development process. Recent case studies from robotic control and from hardware design, such as the automatic synthesis of the AMBA AHB bus controller, demonstrate that this vision is in principle feasible. So far, however, synthesis does not scale to large systems. Even if successful, it produces code that is much larger and much more complicated than the code produced by human programmers for the same specification. Our goal is to address both of these fundamental shortcomings at the same time. We will develop output-sensitive synthesis algorithms, i.e. algorithms that, in addition to optimal performance in the size of the specification, also perform optimally in the size and structural complexity of the implementation. Target applications for our algorithms come from both the classic areas of reactive synthesis, such as hardware circuits, and from new and much more challenging application areas such as the distributed control and coordination of autonomous vehicles and manufacturing robots, which are far beyond the reach of the currently available synthesis algorithms.",
+    "totalCost": "1995000",
+    "ecMaxContribution": "1995000",
+    "coordinator": "UNIVERSITAT DES SAARLANDES",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999929545": {
+            "orgId": "999929545",
+            "orgName": "UNIVERSITAT DES SAARLANDES",
+            "ecContrib": 1995000
+        }
+    },
+    "calculatedTotalContribution": 1995000
+}

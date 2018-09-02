@@ -1,0 +1,28 @@
+{
+    "rcn": "203374",
+    "acronym": "PRESTISSIMO",
+    "topics": "ERC-CoG-2015",
+    "title": "Plasma Reconnection, Shocks and Turbulence in Solar System Interactions: Modelling and Observations",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "This project combines the forefront space physics with top-tier high performance computing. Three phenomena are above others in importance in explaining plasma behaviour in the Solar-Terrestrial system, laboratories, fusion devices, and astrophysical domains: 1) magnetic reconnection enabling energy and mass transfer between magnetic domains, 2) collisionless shocks forming due to supersonic relative flow speeds between plasmas, and 3) particle acceleration associated with both. These processes are critical in understanding the scientific foundation of space weather, i.e., harmful effects caused by enhanced radiation and dynamical processes that endanger space- and ground-based technological systems or human life. Space weather forecasts require physics-based models; however, to date only simple plasma descriptions have been used in the global context. We have developed the first 6-dimensional global magnetospheric kinetic simulation in the world, Vlasiator, promising a grand leap both in understanding fundamental space plasma physics, and in improving the accuracy of present space weather models. Combining the unique Vlasiator with newest spacecraft data, local kinetic physics can be interpreted in global context in a ground-breaking fashion. We examine in the global and self-consistent context\n1.     Near-Earth reconnection,\n2.     Ion-scale phenomena in the near-Earth shocks,\n3.     Particle acceleration by shocks and reconnection,\n4.     Inner magnetospheric wave-particle processes, and the consequent particle precipitation into the ionosphere.\nThe proposed work is now feasible thanks to increased computational capabilities and Vlasiator. The newest space missions produce high-fidelity multi-point observations that require directly comparable global kinetic simulations offered by Vlasiator. The proposing team has an outstanding record and a leading role in global space physics modelling.",
+    "totalCost": "1998054",
+    "ecMaxContribution": "1998054",
+    "coordinator": "HELSINGIN YLIOPISTO",
+    "coordinatorCountry": "FI",
+    "participants": "ILMATIETEEN LAITOS",
+    "participantCountries": "FI",
+    "projectParticipants": {
+        "999591306": {
+            "orgId": "999591306",
+            "orgName": "ILMATIETEEN LAITOS",
+            "ecContrib": 94049
+        },
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 1904005
+        }
+    },
+    "calculatedTotalContribution": 1998054
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "214202",
+    "acronym": "NL2LPV",
+    "topics": "MSCA-IF-2017",
+    "title": "Nonlinear system modelling for linear parameter-varying control design",
+    "startDate": "01/03/2018",
+    "endDate": "29/02/2020",
+    "objective": "This project approaches the linear parameter-varying (LPV) framework starting from a nonlinear system point of view. This allows one to include strongly nonlinear systems in the considered LPV system class, and to develop LPV-based control strategies for nonlinear systems. At the end of this project a unified framework will be in place to go from nonlinear system identification to a LPV model suited for robust LPV control design.\n\nComplex nonlinear behavior is encountered in many physical systems in engineering, e.g. in high-tech applications, chemical processes or in energy applications. For a long time, these systems were operated around steady-state conditions or specific regimes using digital controllers, designed via Linear Time-Invariant (LTI) control synthesis. Growing challenges in terms of system complexity, performance requirements, operational constraints and energy efficiency have begun to push the limitations of the LTI framework.\n\nThe nonlinear modelling and control tools developed in the past lack the intuitive and simple interpretation that are the trademark of LTI framework. The LPV framework on the other hand has been developed as an extension of the LTI framework, preserving most of its intuitive features, with the possibility to use a systematic control design flow. A significant gap continues to exist between nonlinear systems and the LPV framework. \n\nHow to bridge this gap, while exploiting the already available tools of nonlinear system identification for the estimation of LPV models for robust LPV control design is the topic of this research proposal. Three core research objectives are addressed in this project:\n\n1. Nonlinear identification for robust LPV control using a frequency-domain weighted cost function\n2. Convert nonlinear models in LPV representations in a systematic way\n3. Develop a frequency-domain LPV model uncertainty analysis framework\n\nThese three objectives combined result in LPV models suited for robust LPV control design.",
+    "totalCost": "177598,8",
+    "ecMaxContribution": "177598,8",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 177599
+        }
+    },
+    "calculatedTotalContribution": 177599
+}

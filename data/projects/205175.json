@@ -1,0 +1,28 @@
+{
+    "rcn": "205175",
+    "acronym": "SLAB",
+    "topics": "ERC-StG-2015",
+    "title": "Signal processing and Learning Applied to Brain data",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Understanding how the brain works in healthy and pathological conditions is considered as one of the challenges for the 21st century. After the first electroencephalography (EEG) measurements in 1929, the 90ís was the birth of modern functional brain imaging with the first functional MRI and full head magnetoencephalography (MEG) system. In the last twenty years, imaging has revolutionized clinical and cognitive neuroscience.\nAfter pioneering works in physics and engineering, the field of neuroscience has to face two major challenges.\nThe size of the datasets keeps growing. The answers to neuroscience questions are limited by the complexity of the signals observed: non-stationarity, high noise levels, heterogeneity of sensors, lack of accurate models.\nSLAB will provide the next generation of models and algorithms for mining electrophysiology signals which offer unique ways to image the brain at a millisecond time scale.\nSLAB will develop dedicated machine learning and signal processing methods and favor the emergence of new challenges for these fields. SLAB focuses on five objectives: 1) source localization with M/EEG for brain imaging at high temporal resolution 2) representation learning to boost statistical power and reduce acquisition costs 3) fusion of heterogeneous sensors 4) modeling of non-stationary spectral interactions to identify functional coupling between neural ensembles 5) development of fast algorithms easy to use by non-experts.\nSLAB aims to strengthen mathematical and computational foundations of brain data analysis. The methods developed will have applications across fields (computational biology, astronomy, econometrics). Yet, the primary impact of SLAB will be on neuroscience. The tools and high quality open software produced in SLAB will facilitate the analysis of electrophysiology data, offering new perspectives to understand how the brain works at a mesoscale, and for clinical applications (epilepsy, autism, tremor, sleep disorders).",
+    "totalCost": "1492252,5",
+    "ecMaxContribution": "1492252,5",
+    "coordinator": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+    "coordinatorCountry": "FR",
+    "participants": "INSTITUT MINES-TELECOM",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 1380142
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 112111
+        }
+    },
+    "calculatedTotalContribution": 1492253
+}

@@ -1,0 +1,63 @@
+{
+    "rcn": "206364",
+    "acronym": "OPENREQ",
+    "topics": "ICT-10-2016",
+    "title": "Intelligent Recommendation  Decision Technologies for Community-Driven Requirements Engineering",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Requirements engineering is a key activity in ICT projects: What are current user needs and what requirements satisfy them? How much effort would a requirement cost and in which release should it be delivered? Which requirements can be reused from similar projects? Are there hidden dependencies or inconsistencies? What trade-offs are acceptable for users and other stakeholders? A satisfactory, efficient answer to these questions is essential for the success for nowadays software projects.\nOPENREQ leverages modern recommender algorithms, semantic technologies and data-mining to provide intelligent, proactive support for stakeholders survey alternatives and make individual or group decisions. OPENREQ focuses on complex, community-driven ICT projects with various dependencies and stakeholders as in the Telecom, Transportation, and Cross-Platform-Software domain covered in our trials. \nWe will develop, evaluate and disseminate a fully integrated open-source requirements management platform and a set of connectors with the following decision-making capabilities: \nRequirements Intelligence: monitors the actual software usage, collects stakeholdersí and usersí feedback (e.g. from social media), aggregates and visualizes this information as predictive analytics.\nStakeholderís Personal Recommender: implements advanced recommendation and machine-learning algorithms to assist requirements work, improve a requirementís quality, estimate its properties or predict relevant stakeholders.\nGroup Decision Support: enables the stakeholdersí participation, the resolution of preference conflicts, and the identification of consensus, e.g. during release planning.\nDependency Management: semi-automatically identifies requirements dependencies, supports requirements reasoning and reuse of requirements knowledge.\nWith the OPENREQ Interfaces, these capabilities will be integrated into stakeholdersí workflows and tools including requirements tools, issues trackers and collaboration tools.",
+    "totalCost": "4511775",
+    "ecMaxContribution": "4511775",
+    "coordinator": "HAMBURGER INFORMATIK TECHNOLOGIE-CENTER HITEC EV",
+    "coordinatorCountry": "DE",
+    "participants": "HELSINGIN YLIOPISTO;TECHNISCHE UNIVERSITAET GRAZ;THE QT COMPANY OY;WIND TRE SPA;SIEMENS AKTIENGESELLSCHAFT OESTERREICH;UNIVERSITAT POLITECNICA DE CATALUNYA;ENGINEERING - INGEGNERIA INFORMATICA SPA;vogella GmbH",
+    "participantCountries": "FI;AT;IT;ES;DE",
+    "projectParticipants": {
+        "919847218": {
+            "orgId": "919847218",
+            "orgName": "THE QT COMPANY OY",
+            "ecContrib": 297000
+        },
+        "999977948": {
+            "orgId": "999977948",
+            "orgName": "TECHNISCHE UNIVERSITAET GRAZ",
+            "ecContrib": 602500
+        },
+        "919708314": {
+            "orgId": "919708314",
+            "orgName": "vogella GmbH",
+            "ecContrib": 434250
+        },
+        "991094009": {
+            "orgId": "991094009",
+            "orgName": "HAMBURGER INFORMATIK TECHNOLOGIE-CENTER HITEC EV",
+            "ecContrib": 905750
+        },
+        "952108351": {
+            "orgId": "952108351",
+            "orgName": "WIND TRE SPA",
+            "ecContrib": 202650
+        },
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 567750
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 443250
+        },
+        "999960488": {
+            "orgId": "999960488",
+            "orgName": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "ecContrib": 490000
+        },
+        "999953601": {
+            "orgId": "999953601",
+            "orgName": "SIEMENS AKTIENGESELLSCHAFT OESTERREICH",
+            "ecContrib": 568625
+        }
+    },
+    "calculatedTotalContribution": 4511775
+}

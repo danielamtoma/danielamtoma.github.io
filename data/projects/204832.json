@@ -1,0 +1,23 @@
+{
+    "rcn": "204832",
+    "acronym": "SEQCLAS",
+    "topics": "ERC-ADG-2015",
+    "title": "A Sequence Classification Framework for Human Language Technology",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2021",
+    "objective": "This project will develop a unifying framework of novel methods for sequence classification and thus make a major break-through in automatic speech recognition and machine translation, advancing these areas of human language technology (HLT) beyond state-of-the-art. Despite the huge progress made in the field, the specific aspect of sequence classification has not been addressed adequately in the past research in these disciplines and remains a big challenge. The proposed project will provide a novel framework under consistent consideration of the leading aspect of sequence classification. It will break the ground for a deeper, more comprehensive foundation for sequence classification and pave the way for a new generation of algorithms that will put human language technology on a more solid basis and that will accelerate progress in the field across several disciplines. \nThe leading research objectives are: 1. A novel theoretical framework for sequence classification. 2. Consistent sequence modeling across training and testing, which is specifically lacking in machine translation. 3. Adequate sequence-level performance-aware training criteria to learn the free parameters of the models. 4. Investigation of (true) unsupervised training for HLT sequence classification: its principles, its prerequisites, its limitations and its practical usage. The study of these four problems will provide key enabling techniques for HLT sequence classification in general that will carry over to and create high impact on the areas of speech recognition, machine translation and handwritten text recognition. Using our top-ranking research prototype systems, we will verify the validity and effectiveness or our research on public international benchmarks.",
+    "totalCost": "2500000",
+    "ecMaxContribution": "2500000",
+    "coordinator": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 2500000
+        }
+    },
+    "calculatedTotalContribution": 2500000
+}

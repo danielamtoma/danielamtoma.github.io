@@ -1,0 +1,23 @@
+{
+    "rcn": "201053",
+    "acronym": "ETC-VSL",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Efficient Traffic Control with Variable Speed Limits: Bridging the gap between Theory and Practical Implementation",
+    "startDate": "01/02/2017",
+    "endDate": "31/01/2019",
+    "objective": "The main objective ETC-VSL, the proposed MSCA, is the design and testing of a control algorithm for Variable Speed Limits (VSL) that approaches the behavior of an optimal controller and can, at the same time, be applied in practice to large traffic networks. When designing this controller, it has to be taken into account in general that a linear or logic-based controller for VSL, which can performs properly for one particular kind of congestion, is not going to approach an optimal behavior for other kinds of congestion. In fact, all the previously proposed algorithms for VSL performs suboptimally or are difficult to implement in practice. Therefore, this proposal suggests the use of two control levels: In the upper level, a scheduling controller detects online the main kinds of congestion (recurrent congestions, shock waves and unexpected capacity reductions) and, in the lower level, a practically implementable controller for each kind of congestion is used. \nIn order to achieve this objective, the proposal considers the following steps: Step 1: The design or selection of a triggering rule that estimates what kind of congestion the system is showing (if any). Step 2: The design or selection of a controller that works for each kind of congestion. Step 3: The collection of a loop detector data set from the SE-30 ring-road in Spain. Step 4: The testing and evaluation of the proposed algorithm in two freeways (SE-30 in Spain and A12 in The Netherlands) that show the main kinds of congestion allowing an objective evaluation of the designed VSL control algorithm and a comparison with previously proposed techniques. Step 5: The analysis of the economic and social improvements that can be obtained by the implementation of VSL applying a Benefit-Cost Analysis. Step 6: Dissemination of results and communication towards the technical and non-technical community in order to show the potential performance that can be achieved using the newly developed VSL control strategy.",
+    "totalCost": "165598,8",
+    "ecMaxContribution": "165598,8",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 165599
+        }
+    },
+    "calculatedTotalContribution": 165599
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "203061",
+    "acronym": "FM-4NXTG",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Characterization and Measurement of Wideband Directional Channels in FM Band For New Efficient Wireless Systems",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2018",
+    "objective": "Motivation: Wireless access is being used extensively in our life. Wireless access enabler, the frequency bands, on the other hand, is very scarce. It is very important that any wireless access system utilizes the frequency at outmost efficiency. One of the poorly utilized wireless bands is the FM Band between 88ñ108 MHz. The band is being allocated only for relatively high quality audio broadcast around the world. This band has good propagation characteristics and therefore its coverage range and its penetration through buildings are excellent. As FM coverage is so ubiquitous around the world, several applications are already considered to better exploit this useful band: (a) Software defined radios for public safety, (b) New digital audio broadcast services, and (c) the development of an emergency message delivery services. With one of these applications and good propagation characteristics, FM Band can enable a fully connected Europe. \n\nIt is of significant interest to investigate and characterize channel properties of the FM Band for the potential wireless systems. Therefore, the objective of this novel research is for the first time to develop a complete channel characterization of FM Band and then to perform analytical directional channel modelling. The newly introduced models will then be validated through field trials, and will be able to support the parameters of the contemporary wireless systems with multiple antennae. \n\nApproach: The directional channel models will be developed through (i) geometrical (ray tracing) and (ii) tapped delay line (parametric stochastic modelling) approaches by considering 2-D (time and angular) channel impulse response.  The models will be based on the specification of directional channel impulse response functions, large and small channel effects. The measurement campaigns will be carried out via channel sounders. Thus, we will have the first standard directional channel models of the FM Band.",
+    "totalCost": "157845,6",
+    "ecMaxContribution": "157845,6",
+    "coordinator": "ISTANBUL MEDIPOL UNIVERSITESI VAFKI",
+    "coordinatorCountry": "TR",
+    "participants": "ISTANBUL SEHIR UNIVERSITESI",
+    "participantCountries": "TR",
+    "projectParticipants": {
+        "967774433": {
+            "orgId": "967774433",
+            "orgName": "ISTANBUL MEDIPOL UNIVERSITESI VAFKI",
+            "ecContrib": 78923
+        },
+        "985914403": {
+            "orgId": "985914403",
+            "orgName": "ISTANBUL SEHIR UNIVERSITESI",
+            "ecContrib": 78923
+        }
+    },
+    "calculatedTotalContribution": 157846
+}

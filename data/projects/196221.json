@@ -1,0 +1,28 @@
+{
+    "rcn": "196221",
+    "acronym": "CSAR",
+    "topics": "Space-SME-2014-1",
+    "title": "Ensuring pipeline integrity using Earth Observation Data",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2015",
+    "objective": "Third Party Interferences (TPIs) are responsible for a large part of all failures in transmission pipelines. Examples of TPIs are excavations, construction activities, dredging, etc.. An efficient monitoring service for (short lived) TPIs requires high resolution data, a high revisit rate and needs to be dependable. These requirement cannot be filled by any single satellite mission alone. A feasibility study is proposed to investigate the quality of detection of TPIs when combining Sentinel-1 images at a high revisit frequency with higher resolution data acquired with a low revisit frequency. \nThe results of this study will be integrated in the existing Orbital Eye infrastructure for pipeline integrity monitoring. This will result in a system that is fully automatic and continuously operational, can monitor both long and short lived TPIs and has an operational cost that is considerably lower compared to existing solutions. No such system currently exists on the European market, creating a unique business opportunity.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "SCIENCE AND TECHNOLOGY BV",
+    "coordinatorCountry": "NL",
+    "participants": "ORBITAL EYE BV",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "936034869": {
+            "orgId": "936034869",
+            "orgName": "ORBITAL EYE BV",
+            "ecContrib": 0
+        },
+        "990406085": {
+            "orgId": "990406085",
+            "orgName": "SCIENCE AND TECHNOLOGY BV",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

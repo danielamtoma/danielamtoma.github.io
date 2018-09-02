@@ -1,0 +1,68 @@
+{
+    "rcn": "210834",
+    "acronym": "NOMAD",
+    "topics": "NFRP-1",
+    "title": "Nondestructive Evaluation (NDE) System for the Inspection of Operation-Induced Material Degradation in Nuclear Power Plants",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2021",
+    "objective": "The long-term operation (LTO) of existing nuclear power plants (NPPs) has already been accepted in many countries as a strategic objective to ensure adequate supply of electricity over the coming decades. In order to estimate the remaining useful lifetime of NPP components, LTO requires reliable tools.\nThe objective of NOMAD is the development, demonstration and validation of a non-destructive evaluation (NDE) tool for the local and volumetric characterisation of the embrittlement in operational reactor pressure vessels (RPVs). In order to address these objectives, the following steps will be taken: \nï Development and demonstration of an NDE tool for the characterisation of RPV embrittlement, especially accounting for material heterogeneities and exceeding the existing information from surveillance programmes.\nï Extension of the existing database of RPV material degradation by adding correlations of mechanical, microstructural and NDE parameters as well as including quantification of reliability and uncertainty.\nï Application of the developed tool to cladded material resembling the actual RPV inspection scenario.\nNOMAD takes into account the priorities of reactor operation, responding to stringent safety requirements from regulators, and seeks to foster convergence of nuclear safety approaches. The approach to be developed within NOMAD will deliver information complementary to and exceeding the information obtained by destructive tests of surveillance samples, which are currently assumed to represent the whole component and do not take into account possible local material variations. NOMAD aims to fulfil requirements for nuclear safety in the framework of assessment of lifetime operation. Thereby, it covers the specific challenge and scope of the call: Continually improving safety and reliability of Generation II and III reactors.",
+    "totalCost": "4881168,75",
+    "ecMaxContribution": "4881168,75",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "TECNATOM S.A.;COVENTRY UNIVERSITY;Teknologian tutkimuskeskus VTT Oy;EURICE EUROPEAN RESEARCH AND PROJECT OFFICE GMBH;MAGYAR TUDOMANYOS AKADEMIA ENERGIATUDOMANYI KUTATOKOZPONT;Studiecentrum voor Kernenergie/Centre d'Etude de l'Energie NuclÈaire;SVTI SCHWEIZERISCHER VEREIN FUR TECHNISCHE INSPEKTIONEN;PAUL SCHERRER INSTITUT;HEPENIX MUSZAKI SZOLGALTATO KFT",
+    "participantCountries": "ES;UK;FI;DE;HU;BE;CH",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 564152
+        },
+        "937132424": {
+            "orgId": "937132424",
+            "orgName": "SVTI SCHWEIZERISCHER VEREIN FUR TECHNISCHE INSPEKTIONEN",
+            "ecContrib": 366241
+        },
+        "941272675": {
+            "orgId": "941272675",
+            "orgName": "HEPENIX MUSZAKI SZOLGALTATO KFT",
+            "ecContrib": 285625
+        },
+        "999778419": {
+            "orgId": "999778419",
+            "orgName": "EURICE EUROPEAN RESEARCH AND PROJECT OFFICE GMBH",
+            "ecContrib": 385625
+        },
+        "999994923": {
+            "orgId": "999994923",
+            "orgName": "PAUL SCHERRER INSTITUT",
+            "ecContrib": 231790
+        },
+        "999612161": {
+            "orgId": "999612161",
+            "orgName": "COVENTRY UNIVERSITY",
+            "ecContrib": 328248
+        },
+        "954721919": {
+            "orgId": "954721919",
+            "orgName": "MAGYAR TUDOMANYOS AKADEMIA ENERGIATUDOMANYI KUTATOKOZPONT",
+            "ecContrib": 275250
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 676359
+        },
+        "999468213": {
+            "orgId": "999468213",
+            "orgName": "TECNATOM S.A.",
+            "ecContrib": 123500
+        },
+        "999986775": {
+            "orgId": "999986775",
+            "orgName": "Studiecentrum voor Kernenergie/Centre d'Etude de l'Energie Nucléaire",
+            "ecContrib": 1644379
+        }
+    },
+    "calculatedTotalContribution": 4881169
+}

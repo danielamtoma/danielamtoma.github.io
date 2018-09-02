@@ -1,0 +1,48 @@
+{
+    "rcn": "200021",
+    "acronym": "TANGO",
+    "topics": "ICT-04-2015",
+    "title": "Transparent heterogeneous hardware Architecture deployment for eNergy Gain in Operation",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "Computer systems have faced significant power challenges over the past 20 years; these challenges have shifted from the devices and circuits level, to their current position as first-order constraints for system architects and software developers. TANGOís goal is to characterise factors which affect power consumption in software development and operation for heterogeneous parallel hardware environments. Our main contribution is the combination of requirements engineering and design modelling for self-adaptive software systems, with power consumption awareness in relation to these environments. The energy efficiency and application quality factors are integrated in the application lifecycle (design, implementation, operation). To support this, the key novelty of the project is a reference architecture and its implementation. Moreover, a programming model with built-in support for various hardware architectures including heterogeneous clusters, heterogeneous chips and programmable logic devices will be provided. TANGO will create a new cross-layer programming approach for heterogeneous parallel hardware architectures featuring automatic code generation including software and hardware modelling. This will consider power, performance, data location and time criticality optimization, in addition to security and dependability on the target hardware architecture. These results will be demonstrated in two real-world applications: reconfigurable power optimized connected platform and HPC. In order to improve collaboration and sustainability of TANGOís and fellow projects results, TANGO considers the foundation of a Research Alliance in which complementary research efforts into novel programming approaches will nucleate, leading to a strong research collaboration and effective integration of project results.",
+    "totalCost": "3199625",
+    "ecMaxContribution": "3199625",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "DELTATEC;UNIVERSITY OF LEEDS;BULL SAS;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION;CENTRE D'EXCELLENCE EN TECHNOLOGIES DE L'INFORMATION ET DE LA COMMUNICATION",
+    "participantCountries": "BE;UK;FR;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 395500
+        },
+        "999975426": {
+            "orgId": "999975426",
+            "orgName": "UNIVERSITY OF LEEDS",
+            "ecContrib": 517500
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 523750
+        },
+        "939895081": {
+            "orgId": "939895081",
+            "orgName": "DELTATEC",
+            "ecContrib": 618750
+        },
+        "999639127": {
+            "orgId": "999639127",
+            "orgName": "CENTRE D'EXCELLENCE EN TECHNOLOGIES DE L'INFORMATION ET DE LA COMMUNICATION",
+            "ecContrib": 514625
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 629500
+        }
+    },
+    "calculatedTotalContribution": 3199625
+}

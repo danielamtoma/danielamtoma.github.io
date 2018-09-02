@@ -1,0 +1,23 @@
+{
+    "rcn": "200976",
+    "acronym": "IPLATFORM",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Implementation of a dynamical Pollen Module and the transformations of the pollen including feedbacks in a numerical Weather Forecast Model",
+    "startDate": "01/06/2016",
+    "endDate": "27/02/2019",
+    "objective": "The main goal of the proposed project is to provide an advanced mathematical model (WRF-BioChem) for modelling the emission, dispersion and concentration of bioaerosols at the regional scale. The model will with this development be able to handle feedback mechanisms between biology, chemistry and weather. The model is developed to go beyond state-of-the-art by developing the mathematical model for oak pollen and by doing it at the species level. The project supported by a three companion projects on grass pollen, fungal spores (Alternaria) and pathogens ñ all at species level. These projects deliver the needed resources for detection. As such the mathematical model will be a validated model that will be generally applicable for bioaerosols including pollen, pathogens and fungal spores. Detection of pollen will be carried out by supporting staff and projects using both traditional methods based on optical detection at the genus level and next generation sequencing at the species level. This proposal requires multidisciplinary approach to the problem as pollen appearance and behaviour in the air is dependent on many factors, including meteorological conditions, chemical composition of the atmosphere or surface properties as well as feedbacks between these elements. WRF-Chem currently used in air quality modelling will therefore be adapted for studying transport of bioaerosols in a way consistent with the transport and transformation of other air pollutants. Until now, no atmospheric model is used for the simulation of pollen at the species level in either Europe or in USA. Also, it will be the first time simulations of oak pollen will be possible in Europe or in USA. Also, it will be the first time simulations of oak pollen will be possible in Europe. Finally, it will be the first mathematical model that allows for a full feedback between meteorology, chemistry, bioaerosols and the terrestrial biosphere. The model developments will be implemented in forecasting.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "University of Worcester",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998694444": {
+            "orgId": "998694444",
+            "orgName": "University of Worcester",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

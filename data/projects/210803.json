@@ -1,0 +1,173 @@
+{
+    "rcn": "210803",
+    "acronym": "SILENSE",
+    "topics": "ECSEL-2016-1",
+    "title": "(Ultra)Sound Interfaces and Low Energy iNtegrated SEnsors",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2020",
+    "objective": "The SILENSE project will focus on using smart acoustic technologies and ultrasound in particular for Human Machine- and Machine to Machine Interfaces. Acoustic technologies have the main advantage of a much simpler, smaller, cheaper and easier to integrate transducer. The ambition of this project is to develop and improve acoustic technologies beyond state-of-the-art and extend its application beyond the mobile domain to Smart Home & Buildings and Automotive domains.\nIn this project, it will be proven that acoustics can be used as a touchless activation and control mechanism, by improvement or development of different smart acoustic technology blocks (hardware, software and system level) and integrate these blocks at system level.\n\nAt technology level, the SILENSE project will:\n-\tAdapt and improve cost, performance, directivity and power consumption of (MEMS) acoustic transducers (incl. testing and qualification)\n-\tHeterogeneously integrate arrays of acoustic transducers with other electronics, using advanced (3D) packaging concepts\n-\tDevelop smart algorithms for acoustical sensing, localization and communication\n-\tCombine voice and gesture control by means of the same transducer(s)\n\nAt application level the SILENSE project will:\n-\tApply acoustical sensing for touchless activation/control of mobile devices, wearables and, more in general, IoT nodes. \n\nThe project links to Smart Systems Integration (B4), and refers also to application application-related topics, such as Smart Mobility and Smart Society. The application scope of the developed technologies is broader and comprises more societal domains, such as smart home/buildings, smart factories (i.e. Smart Production) and even Smart Health. Furthermore, a clear cross reference with Semiconductor Process, Equipment and Materials (B1) is established in view of the heterogeneous integration of technology blocks. Conventional silicon technologies will be combined with printed (flexible, large area electronics).",
+    "totalCost": "29330610,84",
+    "ecMaxContribution": "8726966,03",
+    "coordinator": "NXP SEMICONDUCTORS BELGIUM NV",
+    "coordinatorCountry": "BE",
+    "participants": "BCB Informatica y Control S.L.;COVENTOR SARL;SYNOPSYS NETHERLANDS BV;INFINEON TECHNOLOGIES AUSTRIA  AG;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;STIFTELSEN SINTEF;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;VERHAERT NEW PRODUCTS & SERVICES NV;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;GESTIGON GMBH;SOLMATES BV;INSTITUT MIKROELEKTRONICKYCH APLIKACI S.R.O.;INFINEON TECHNOLOGIES AG;UNIVERSITAT LINZ;LINZ CENTER OF MECHATRONICS GMBH;USTAV TEORIE INFORMACE A AUTOMATIZACE AV CR VVI;FUNDACION PRODINTEC;NXP SEMICONDUCTORS FRANCE SAS;VYSOKE UCENI TECHNICKE V BRNE;TECHNISCHE UNIVERSITAET BERLIN;GRUPO ANTOLIN-INGENIERIA SA;INSTITUT MINES-TELECOM;NXP SEMICONDUCTORS NETHERLANDS BV;LABORATORIOS ALPHA SAN IGNACIO PHARMA S.L. - ALPHASIP;TECHNISCHE UNIVERSITAET CHEMNITZ;ELLIPTIC LABORATORIES AS;Continental Automotive GmbH;TECHNISCHE UNIVERSITEIT EINDHOVEN;TECHNISCHE UNIVERSITEIT DELFT;CTR CARINTHIAN TECH RESEARCH AG",
+    "participantCountries": "ES;FR;NL;AT;NO;BE;DE;CZ",
+    "projectParticipants": {
+        "999978918": {
+            "orgId": "999978918",
+            "orgName": "INFINEON TECHNOLOGIES AG",
+            "ecContrib": 494229
+        },
+        "997717945": {
+            "orgId": "997717945",
+            "orgName": "BCB Informatica y Control S.L.",
+            "ecContrib": 75075
+        },
+        "999877844": {
+            "orgId": "999877844",
+            "orgName": "TECHNISCHE UNIVERSITAET CHEMNITZ",
+            "ecContrib": 100008
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 437500
+        },
+        "994873808": {
+            "orgId": "994873808",
+            "orgName": "NXP SEMICONDUCTORS FRANCE SAS",
+            "ecContrib": 424725
+        },
+        "999892976": {
+            "orgId": "999892976",
+            "orgName": "UNIVERSITAT LINZ",
+            "ecContrib": 70139
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 184934
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 976841
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 364260
+        },
+        "937445540": {
+            "orgId": "937445540",
+            "orgName": "GESTIGON GMBH",
+            "ecContrib": 129062
+        },
+        "927997449": {
+            "orgId": "927997449",
+            "orgName": "ELLIPTIC LABORATORIES AS",
+            "ecContrib": 243750
+        },
+        "999697424": {
+            "orgId": "999697424",
+            "orgName": "INSTITUT MIKROELEKTRONICKYCH APLIKACI S.R.O.",
+            "ecContrib": 108750
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 380208
+        },
+        "985696250": {
+            "orgId": "985696250",
+            "orgName": "SYNOPSYS NETHERLANDS BV",
+            "ecContrib": 458312
+        },
+        "988168004": {
+            "orgId": "988168004",
+            "orgName": "LABORATORIOS ALPHA SAN IGNACIO PHARMA S.L. - ALPHASIP",
+            "ecContrib": 132375
+        },
+        "996537940": {
+            "orgId": "996537940",
+            "orgName": "LINZ CENTER OF MECHATRONICS GMBH",
+            "ecContrib": 70000
+        },
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 127059
+        },
+        "999995020": {
+            "orgId": "999995020",
+            "orgName": "NXP SEMICONDUCTORS NETHERLANDS BV",
+            "ecContrib": 787500
+        },
+        "997171738": {
+            "orgId": "997171738",
+            "orgName": "FUNDACION PRODINTEC",
+            "ecContrib": 229688
+        },
+        "999478107": {
+            "orgId": "999478107",
+            "orgName": "COVENTOR SARL",
+            "ecContrib": 342984
+        },
+        "999949236": {
+            "orgId": "999949236",
+            "orgName": "NXP SEMICONDUCTORS BELGIUM NV",
+            "ecContrib": 557819
+        },
+        "999645335": {
+            "orgId": "999645335",
+            "orgName": "CTR CARINTHIAN TECH RESEARCH AG",
+            "ecContrib": 238804
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 346035
+        },
+        "998782035": {
+            "orgId": "998782035",
+            "orgName": "SOLMATES BV",
+            "ecContrib": 211462
+        },
+        "992798008": {
+            "orgId": "992798008",
+            "orgName": "VERHAERT NEW PRODUCTS & SERVICES NV",
+            "ecContrib": 214676
+        },
+        "999873091": {
+            "orgId": "999873091",
+            "orgName": "VYSOKE UCENI TECHNICKE V BRNE",
+            "ecContrib": 212450
+        },
+        "999761638": {
+            "orgId": "999761638",
+            "orgName": "Continental Automotive GmbH",
+            "ecContrib": 0
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 120531
+        },
+        "998785721": {
+            "orgId": "998785721",
+            "orgName": "GRUPO ANTOLIN-INGENIERIA SA",
+            "ecContrib": 99225
+        },
+        "999618175": {
+            "orgId": "999618175",
+            "orgName": "USTAV TEORIE INFORMACE A AUTOMATIZACE AV CR VVI",
+            "ecContrib": 171062
+        },
+        "999705087": {
+            "orgId": "999705087",
+            "orgName": "INFINEON TECHNOLOGIES AUSTRIA  AG",
+            "ecContrib": 417500
+        }
+    },
+    "calculatedTotalContribution": 8726963
+}

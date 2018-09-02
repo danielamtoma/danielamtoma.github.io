@@ -1,0 +1,98 @@
+{
+    "rcn": "197347",
+    "acronym": "COHERENT",
+    "topics": "ICT-14-2014",
+    "title": "Coordinated control and spectrum management for 5G heterogeneous radio access networks",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2017",
+    "objective": "The exponential growth of mobile traffic, drastically increasing of network complexity, and the strong need for inter-network coordination of wireless network resources call for breakthroughs in control, coordination and flexible spectrum management  in 5G heterogeneous radio access networks. The COHERENT project aims to address these problems by researching, developing and validating a novel control framework for future mobile networks. The key innovation of COHERENT is to develop a unified programmable control framework to coordinate the underlying heterogeneous mobile networks as a whole. The COHERENT control framework has two unique features to deal with the insufficiency of current control solutions for inter-network coordination. First, theories and methods to abstract the low layer network states and behaviors of different underlying mobile networks are developed, which provides a simplified but sufficient abstracted network view for network-wide control and resource coordination. Network abstraction will significantly reduce the signaling overhead, making scalable network-wide control solutions feasible, and enable more flexible spectrum management, which are key for the success of 5G networks. Second, based on the abstracted network view, common interfaces and software-development kits will be developed to enable programmability in controlling and coordinating heterogeneous mobile networks. The programmable control will provide operators a flexible and cost efficient way to implement new control functions and thus to support new services. The innovative impact of the COHERENT project is in enabling a unified control and coordination framework for heterogeneous mobile networks by combining innovative approaches on abstraction of low layers in underlying mobile networks, software defined networking, and flexible spectrum management. COHERENT will build a true proof-of-concept prototype to demonstrate the applicability and benefits of its approach.",
+    "totalCost": "6024299",
+    "ecMaxContribution": "6024299",
+    "coordinator": "Teknologian tutkimuskeskus VTT Oy",
+    "coordinatorCountry": "FI",
+    "participants": "CREATE-NET (CENTER FOR RESEARCH AND TELECOMMUNICATION EXPERIMENTATION FOR NETWORKED COMMUNITIES);EUROPEAN CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGIES GMBH;POLITECHNIKA POZNANSKA;FAIRSPECTRUM OY;THALES COMMUNICATIONS & SECURITY SAS;GOLDHAMER MARIANA;AALTO KORKEAKOULUSAATIO SR;UNIVERSITAET DUISBURG-ESSEN;RISE SICS AB;TRAVELPING GMBH;HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE);COMMAGILITY LIMITED;FONDAZIONE BRUNO KESSLER;EURECOM;INEA SPOLKA AKCYJNA",
+    "participantCountries": "IT;DE;PL;FI;FR;IL;SE;EL;UK",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 941618
+        },
+        "999606147": {
+            "orgId": "999606147",
+            "orgName": "EURECOM",
+            "ecContrib": 469660
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 478750
+        },
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        },
+        "999588202": {
+            "orgId": "999588202",
+            "orgName": "RISE SICS AB",
+            "ecContrib": 620392
+        },
+        "999625353": {
+            "orgId": "999625353",
+            "orgName": "EUROPEAN CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGIES GMBH",
+            "ecContrib": 273446
+        },
+        "950985285": {
+            "orgId": "950985285",
+            "orgName": "COMMAGILITY LIMITED",
+            "ecContrib": 414688
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 536884
+        },
+        "999659691": {
+            "orgId": "999659691",
+            "orgName": "POLITECHNIKA POZNANSKA",
+            "ecContrib": 205625
+        },
+        "955187616": {
+            "orgId": "955187616",
+            "orgName": "GOLDHAMER MARIANA",
+            "ecContrib": 302274
+        },
+        "999843312": {
+            "orgId": "999843312",
+            "orgName": "UNIVERSITAET DUISBURG-ESSEN",
+            "ecContrib": 468638
+        },
+        "954816009": {
+            "orgId": "954816009",
+            "orgName": "INEA SPOLKA AKCYJNA",
+            "ecContrib": 113562
+        },
+        "950716304": {
+            "orgId": "950716304",
+            "orgName": "FAIRSPECTRUM OY",
+            "ecContrib": 273750
+        },
+        "999792581": {
+            "orgId": "999792581",
+            "orgName": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+            "ecContrib": 312500
+        },
+        "954804466": {
+            "orgId": "954804466",
+            "orgName": "TRAVELPING GMBH",
+            "ecContrib": 207812
+        },
+        "999575786": {
+            "orgId": "999575786",
+            "orgName": "CREATE-NET (CENTER FOR RESEARCH AND TELECOMMUNICATION EXPERIMENTATION FOR NETWORKED COMMUNITIES)",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 5619599
+}

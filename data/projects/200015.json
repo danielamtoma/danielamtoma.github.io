@@ -1,0 +1,83 @@
+{
+    "rcn": "200015",
+    "acronym": "RECAP",
+    "topics": "INSO-1-2015",
+    "title": "Personalised public services in support of the implementation of the CAP",
+    "startDate": "01/05/2016",
+    "endDate": "31/10/2018",
+    "objective": "Public administrations responsible for the implementation of the Common Agricultural Policy (CAP) need to monitor farmersí compliance to standards. Monitoring is performed by in-field visits and through remote sensing. Due to the high complexity and diversity of the obligations that need to be monitored, both methods have limitations, and entail a high cost for public administrations. \nRECAP proposes a methodology for improving the efficiency and transparency of the compliance monitoring procedure through a cloud-based Software as a Service (SaaS) platform which will make use of large volumes of publicly available data provided by satellite remote sensing, and user-generated data provided by farmers through mobile devices (geo-referenced and time-stamped photos).\nThe RECAP platform will extract useful features from Earth Observation open data, correlate them with user-generated and geo-information data available to public organisations, and model this information for enabling the identification of potential breaches of compliance by public authorities and inspectors. \nRECAP will offer farmers a tool supporting them to comply with regulations imposed by the CAP, providing personalised information for simplifying the interpretation of complex regulations, and early alerts on potential breaches.\nRECAP will allow agricultural consultants and developers to create add-ons to the main application that extend its functionality and exploit the data collected through an Application Programming Interface (API), and a Software Development Kit (SDK). Consultants will be able to access data available in the platform, subject to security and privacy policies, and to develop their own services within the platform using design tools, libraries, and communication with the database under an open approach. \nThe RECAP services will be tested and validated in an operational environment in 5 countries with the participation of public authorities, farmers, and agricultural consultants.",
+    "totalCost": "2669940",
+    "ecMaxContribution": "2142381,75",
+    "coordinator": "DRAXIS ENVIRONMENTAL S.A.",
+    "coordinatorCountry": "EL",
+    "participants": "STRUTT & PARKER LLP;NATIONAL PAYING AGENCY;THE UNIVERSITY OF READING;ORGANISMOS PLIROMON KE ELEGHOU KINOTIKON ENISHYSEON PROSANATOLISMOU KEEGGYISEON;INICIATIVAS INNOVADORAS SAL;INSTITUTO NAVARRO DE TECNOLOGIAS E INFRAESTRUCTURAS AGROALIMENTARIAS SA;INOSENS DOO NOVI SAD;SAVILLS (UK) LTD;NATIONAL OBSERVATORY OF ATHENS;VIESOJI ISTAIGA LIETUVOS ZEMES UKIO KONSULTAVIMO TARNYBA;ETAM ANONYMH ETAIREIA SYMBOYLEYTIKON KAI MELETHTIKON YPIRESION;CREVIS SPRL",
+    "participantCountries": "UK;LT;EL;ES;RS;BE",
+    "projectParticipants": {
+        "999984156": {
+            "orgId": "999984156",
+            "orgName": "THE UNIVERSITY OF READING",
+            "ecContrib": 261850
+        },
+        "952387032": {
+            "orgId": "952387032",
+            "orgName": "INSTITUTO NAVARRO DE TECNOLOGIAS E INFRAESTRUCTURAS AGROALIMENTARIAS SA",
+            "ecContrib": 127760
+        },
+        "951039702": {
+            "orgId": "951039702",
+            "orgName": "ETAM ANONYMH ETAIREIA SYMBOYLEYTIKON KAI MELETHTIKON YPIRESION",
+            "ecContrib": 262281
+        },
+        "938441924": {
+            "orgId": "938441924",
+            "orgName": "SAVILLS (UK) LTD",
+            "ecContrib": 0
+        },
+        "972051745": {
+            "orgId": "972051745",
+            "orgName": "ORGANISMOS PLIROMON KE ELEGHOU KINOTIKON ENISHYSEON PROSANATOLISMOU KEEGGYISEON",
+            "ecContrib": 131625
+        },
+        "945903649": {
+            "orgId": "945903649",
+            "orgName": "VIESOJI ISTAIGA LIETUVOS ZEMES UKIO KONSULTAVIMO TARNYBA",
+            "ecContrib": 106750
+        },
+        "999653677": {
+            "orgId": "999653677",
+            "orgName": "NATIONAL OBSERVATORY OF ATHENS",
+            "ecContrib": 291375
+        },
+        "996151686": {
+            "orgId": "996151686",
+            "orgName": "DRAXIS ENVIRONMENTAL S.A.",
+            "ecContrib": 220150
+        },
+        "933205185": {
+            "orgId": "933205185",
+            "orgName": "INOSENS DOO NOVI SAD",
+            "ecContrib": 146562
+        },
+        "922994771": {
+            "orgId": "922994771",
+            "orgName": "STRUTT & PARKER LLP",
+            "ecContrib": 157465
+        },
+        "940178806": {
+            "orgId": "940178806",
+            "orgName": "NATIONAL PAYING AGENCY",
+            "ecContrib": 119812
+        },
+        "958216150": {
+            "orgId": "958216150",
+            "orgName": "INICIATIVAS INNOVADORAS SAL",
+            "ecContrib": 214375
+        },
+        "920624673": {
+            "orgId": "920624673",
+            "orgName": "CREVIS SPRL",
+            "ecContrib": 102375
+        }
+    },
+    "calculatedTotalContribution": 2142380
+}

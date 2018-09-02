@@ -1,0 +1,83 @@
+{
+    "rcn": "210840",
+    "acronym": "ADVISE",
+    "topics": "NFRP-1",
+    "title": "ADVanced Inspection of Complex StructurEs",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2021",
+    "objective": "ADVISE aims to advance the ultrasonic inspection of complex structured materials, for which conventional ultrasonic techniques suffer from severe performance limitations due to the micro and/or macro-structure. The project relies on a multi-pronged strategy: \n- Model-assisted inspection enhancement tools allow the iterative optimisation of customised transducers and associated excitation signals, to specify the most appropriate inspection approach.\n- Novel in-situ characterisation techniques acquire specific information about the structure to be inspected; then model-assisted optimisation tools fine-tune the inspection parameters in the field.\n- Model-assisted diagnostic tools take a-priori, model-predicted and in-situ obtained information into account to fully exploit the information contained in full matrix capture (FMC) acquisitions, using adaptive imaging methods, backscatter filtering and inversion strategies.\nThe main output of the project is thus a step change improvement in performance in terms of inspectable depth, defect detection and characterisation accuracy. For austeno-ferritic cast components, an increase of the inspectable depth of 70 to 85 mm is aimed for. Equally importantly, the in-situ characterisation for specific inspections will provide the confidence needed to make safe decisions from measured indications without the significant conservatism that is needed in many cases currently. \nADVISE brings together leading experts and key stakeholders with long-term commitments to this subject, covering construction, operation, and all aspects of in-service inspection. They will collaborate for new nuclear power constructions, maintenance of ageing power stations and safe operation of plants at end of life, addressing both Western European and Russian designs. An Industrial Advisory Board will play a major role throughout the project to guarantee a focus on the key issues and thereby ensure rapid deployment of the ADVISE developed techniques and tools.",
+    "totalCost": "4546407,5",
+    "ecMaxContribution": "4168855",
+    "coordinator": "ELECTRICITE DE FRANCE",
+    "coordinatorCountry": "FR",
+    "participants": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE;BAY ZOLTAN ALKALMAZOTT KUTATASI KOZHASZNU NONPROFIT KFT.;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;M 2 M;INTERCONTROLE;ARTTIC;UNIVERSITY OF BRISTOL;EXTENDE;KAUNO TECHNOLOGIJOS UNIVERSITETAS;UNIVERSITAET STUTTGART;UJV REZ, a. s.",
+    "participantCountries": "UK;HU;DE;FR;LT;CZ",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 505261
+        },
+        "954347790": {
+            "orgId": "954347790",
+            "orgName": "BAY ZOLTAN ALKALMAZOTT KUTATASI KOZHASZNU NONPROFIT KFT.",
+            "ecContrib": 218750
+        },
+        "992068083": {
+            "orgId": "992068083",
+            "orgName": "M 2 M",
+            "ecContrib": 254060
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 656377
+        },
+        "999792484": {
+            "orgId": "999792484",
+            "orgName": "ARTTIC",
+            "ecContrib": 320010
+        },
+        "999926829": {
+            "orgId": "999926829",
+            "orgName": "ELECTRICITE DE FRANCE",
+            "ecContrib": 525991
+        },
+        "972074249": {
+            "orgId": "972074249",
+            "orgName": "EXTENDE",
+            "ecContrib": 165000
+        },
+        "999844961": {
+            "orgId": "999844961",
+            "orgName": "KAUNO TECHNOLOGIJOS UNIVERSITETAS",
+            "ecContrib": 249375
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 94687
+        },
+        "999477428": {
+            "orgId": "999477428",
+            "orgName": "UJV REZ, a. s.",
+            "ecContrib": 118639
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 419316
+        },
+        "917414652": {
+            "orgId": "917414652",
+            "orgName": "INTERCONTROLE",
+            "ecContrib": 261263
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 380126
+        }
+    },
+    "calculatedTotalContribution": 4168855
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "210320",
+    "acronym": "ENVISION",
+    "topics": "MSCA-IF-2016",
+    "title": "Enabling Visual IoT Applications with Advanced Network Coding Algorithms",
+    "startDate": "15/01/2018",
+    "endDate": "14/01/2020",
+    "objective": "The latest advances and integration of several key technologies such as wireless communications, low-power sensing, embedded systems, Internet protocols and cloud computing, have enabled the emergence of the Internet of Things (IoT) paradigm. However, the ever-growing deployment of the visual sensing applications within IoT deployments is expected to strain the network and cloud infrastructures used to deliver and store massive amounts of visual data. To partly address these challenges, prototypes of neuromorphic visual sensors, a.k.a. dynamic vision sensors (DVS), have been produced in the last two years. Instead of the conventional raster scan of video cameras, DVS devices record pixel coordinates and timestamps of reflectance events in an asynchronous manner, thereby offering substantial improvements in sampling speed and power consumption. ENVISION argues that, in order to fully exploit the advantages of neuromorphic sensing for IoT applications, such devices should be coupled with appropriate transmission and storage mechanisms that would take advantage of the visual data properties to achieve even higher bandwidth, power and storage efficiency. The ENVISION project aims at developing such data-driven delivery and storage algorithms based on advanced network coding techniques for data acquired by both conventional frame-based video cameras and DVS devices. Specifically, ENVISION is pursuing three interconnected  research objectives: (i) designing advanced content-driven network codes for efficient transmission of the visual content captured by neuromorphic and conventional visual sensors  to the cloud service under bandwidth and power constraints, (ii) developing novel content-aware network codes for storage of the visual content under the cost-performance optimisation framework, and (iii) investigating approximate decoding techniques including both the theoretical analysis of the performance and the implementation of practical low-complexity decoders.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "UNIVERSITY COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

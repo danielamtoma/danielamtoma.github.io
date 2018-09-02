@@ -1,0 +1,53 @@
+{
+    "rcn": "194907",
+    "acronym": "SafeCloud",
+    "topics": "DS-01-2014",
+    "title": "Secure and Resilient Cloud Architecture",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "Cloud infrastructures, despite all their advantages and importance to the competitiveness of modern economies, raise fundamental questions related to the privacy, integrity, and security of offsite data storage and processing tasks. These questions are currently not answered satisfactorily by existing technologies. Furthermore, recent developments in the wake of the expansive and sometimes unauthorized government access to private and sensitive data raise major privacy and security concerns about data located in the cloud, especially when data is physically located, processed, or must transit outside the legal jurisdiction of its rightful owner. This is exacerbated by providers of cloud services that frequently move and process data without notice in ways that are detrimental to the users and their privacy.\n\nSafeCloud will re-architect cloud infrastructures to ensure that data transmission, storage, and processing can be (1) partitioned in multiple administrative domains that are unlikely to collude, so that sensitive data can be protected by design; (2) entangled with inter-dependencies that make it impossible for any of the domains to tamper with its integrity. These two principles (partitioning and entanglement) are thus applied holistically across the entire data management stack, from communication to storage and processing.\n\nUsers will control the choice of non-colluding domains for partitioning and the tradeoffs between entanglement and performance, and thus will have full control over what happens to their data. This will make users less reluctant to manage their personal data online due to privacy concerns and will generate positive business cases for privacy-sensitive online applications such as the distributed cloud infrastructure and medical record storage platform that we address.",
+    "totalCost": "3298987,5",
+    "ecMaxContribution": "2150810",
+    "coordinator": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+    "coordinatorCountry": "PT",
+    "participants": "CYBERNETICA AS;CLOUD&HEAT TECHNOLOGIES GMBH;TECHNISCHE UNIVERSITAET MUENCHEN;UNIVERSITE DE NEUCHATEL;MAXDATA SOFTWARE SA;INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA",
+    "participantCountries": "EE;DE;CH;PT",
+    "projectParticipants": {
+        "956952143": {
+            "orgId": "956952143",
+            "orgName": "CLOUD&HEAT TECHNOLOGIES GMBH",
+            "ecContrib": 305060
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 524375
+        },
+        "951341178": {
+            "orgId": "951341178",
+            "orgName": "MAXDATA SOFTWARE SA",
+            "ecContrib": 200812
+        },
+        "999870181": {
+            "orgId": "999870181",
+            "orgName": "UNIVERSITE DE NEUCHATEL",
+            "ecContrib": 0
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 395938
+        },
+        "999613325": {
+            "orgId": "999613325",
+            "orgName": "INESC ID - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, INVESTIGACAO E DESENVOLVIMENTO EM LISBOA",
+            "ecContrib": 450750
+        },
+        "999754363": {
+            "orgId": "999754363",
+            "orgName": "CYBERNETICA AS",
+            "ecContrib": 273875
+        }
+    },
+    "calculatedTotalContribution": 2150810
+}

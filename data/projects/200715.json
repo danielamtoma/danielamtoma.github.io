@@ -1,0 +1,23 @@
+{
+    "rcn": "200715",
+    "acronym": "LENA",
+    "topics": "ERC-StG-2015",
+    "title": "non-LinEar sigNal processing for solving data challenges in Astrophysics",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Astrophysics has arrived to a turning point where the scientific exploitation of data requires overcoming challenging analysis issues, which mandates the development of advanced signal processing methods. In this context, sparsity and sparse signal representations have played a prominent role in astrophysics. Indeed, thanks to sparsity, an extremely clean full-sky map of the Cosmic Microwave Background (CMB) has been derived from the Planck data [Bobin14], a European space mission that observes the sky in the microwave wavelengths. This led to a noticeable breakthrough: we showed that the large-scale statistical studies of the CMB can be performed without having to mask the galactic centre anymore thanks to the achieved high quality component separation [Rassat14]. \nDespite the undeniable success of sparsity, standard linear signal processing approaches are too simplistic to capture the intrinsically non-linear properties of physical data. For instance, the analysis of the Planck data in polarization requires new sparse representations to finely capture the properties of polarization vector fields (e.g. rotation invariance), which cannot be tackled by linear approaches. Shifting from the linear to the non-linear signal representation paradigm is an emerging area in signal processing, which builds upon new connections with fields such as deep learning [Mallat13]. \nInspired by these active and fertile connections, the LENA project will: i) study a new non-linear signal representation framework to design non-linear models that can account for the underlying physics, and ii) develop new numerical methods that can exploit these models. We will further demonstrate the impact of the developed models and algorithms to tackle data analysis challenges in the scope of the Planck mission and the European radio-interferometer LOFAR. We expect the results of the LENA project to impact astrophysical data analysis as significantly as deploying sparsity to the field has achieved.",
+    "totalCost": "1497411",
+    "ecMaxContribution": "1497411",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1497411
+        }
+    },
+    "calculatedTotalContribution": 1497411
+}

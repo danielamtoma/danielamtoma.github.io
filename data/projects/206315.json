@@ -1,0 +1,28 @@
+{
+    "rcn": "206315",
+    "acronym": "EVOIMMECH",
+    "topics": "ERC-2016-STG",
+    "title": "The evolutionary ecology of bacterial immune mechanisms",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2021",
+    "objective": "Bacteria have a range of immune mechanisms, but it is unclear why this diverse armamentarium evolved. The most important immune mechanisms are (1) Surface Modification (SM) (2) Abortive infection (Abi) (3) Restriction Modification (R-M) (4) CRISPR-Cas and (5) prokaryotic Argonaute (pAgo), all of which can occur as stand-alone mechanisms or in combination. The individual mechanisms differ in key aspects, such as their fitness costs (constitutive versus inducible), specificity (indiscriminate versus specific), the recipient of the benefits (individual versus group), the speed of de novo resistance evolution (rapid versus slow), and heritability of immunity. Here I will take a combined in vitro and in vivo approach to tease apart the variables that drive the evolution of these diverse stand-alone and integrated bacterial immune strategies in nature, and examine their associated co-evolutionary dynamics. I focus on three ecological variables that are consistently important in host-symbiont co-evolution: (1) force of infection (2) spatial structure (3) presence of mutualists (plasmids). First, I will perform in vitro manipulations using Pseudomonas aeruginosa PA14 variants that carry either single or multiple immune mechanisms. Next, I will sequence metagenomes, transcriptomes and viromes of microbial communities from environments that differ in ecological variables that are important in vitro, to examine their importance in vivo. Key ecological mechanisms identified in the first two parts of the project will be used to guide mesocosm experiments to experimentally confirm that these mechanisms are the drivers of the observed patterns of resistance and co-evolution in nature. Finally, I will share my data with mathematical biologists to generate theoretical models to predict and manipulate the evolution of bacterial immune mechanisms, which will facilitate tailored species protection in agriculture and industry. ??",
+    "totalCost": "1498337",
+    "ecMaxContribution": "1498337",
+    "coordinator": "THE UNIVERSITY OF EXETER",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITY OF OTAGO",
+    "participantCountries": "NZ",
+    "projectParticipants": {
+        "999864555": {
+            "orgId": "999864555",
+            "orgName": "THE UNIVERSITY OF EXETER",
+            "ecContrib": 1435837
+        },
+        "998331567": {
+            "orgId": "998331567",
+            "orgName": "UNIVERSITY OF OTAGO",
+            "ecContrib": 62500
+        }
+    },
+    "calculatedTotalContribution": 1498337
+}

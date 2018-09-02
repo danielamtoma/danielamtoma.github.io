@@ -1,0 +1,17 @@
+{
+    "rcn": "216211",
+    "acronym": "SAPHIR",
+    "topics": "MSCA-IF-2017",
+    "title": "Scalable DSP algorithms for high performance hardware applied to 5G MaMi systems",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2020",
+    "objective": "There is persistent demand for radical advancements in telecommunication systems.  The digital baseband processing unit (or Digital Signal Processor ñ DSP) is of paramount importance for the overall performance and it consumes a significant part of the total power. Breakthroughs in terms of accuracy, speed and efficiency are required in custom DSP implementations. To this end we propose to employ ideas that lead to advances in quantum algorithms for scientific computing to obtain silicon integrated circuit implementations meeting the performance expectations. Our experience and the similarities in the efficiency and accuracy requirements between such quantum algorithms and custom silicon-based integrated circuit design have not been exploited. This has a huge potential for obtaining high performance DSP cores in 5G MaMi systems.\n\nWe propose to derive DSP algorithms and corresponding digital circuits with performance guarantees in terms of accuracy and speed. In some cases we will be deriving entirely new algorithms and circuits. In others we will investigate the degree to which the existing quantum algorithms for scientific computing can be used as a basis to derive efficient custom integrated circuits for DSP. To address the efficiency requirements and to control the error propagation we propose a modular approach. Algorithms will be composed by combining modules performing sub-tasks.  Digital circuits with a priori known error and cost characteristics will be used to implement the different modules. This allows the comparison of the trade-offs between implementation alternatives and paves the way toward fully automatic overall resource optimization in DSP design. The proposed approach will provide a new and sound methodology to design and test custom integrated circuits for next generation communication systems (5G).",
+    "totalCost": "178156,8",
+    "ecMaxContribution": "178156,8",
+    "coordinator": "INFINEON TECHNOLOGIES AUSTRIA  AG",
+    "coordinatorCountry": "AT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

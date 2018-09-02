@@ -1,0 +1,28 @@
+{
+    "rcn": "197519",
+    "acronym": "NeuroNanoChip",
+    "topics": "ERC-PoC-2014",
+    "title": "A Nano-electrode chip for high-resolution/high-throughput cellular assays in cultured neurons including synaptic tranmission",
+    "startDate": "01/07/2015",
+    "endDate": "31/12/2016",
+    "objective": "Cellular studies in neuroscience are hampered by the fact that in vitro cultures of primary neurons are complex, variable and heterogeneous, making studies on cultured neurons time consuming, labour intensive and not scalable. Especially for single cell studies on synaptic transmission and cellular trafficking, this is a major limitation. Both in academia and industry, mitotic cells are commonly used as a proxy for neurons (e.g. PC12 cells). However, while being less variable and better scalable, such cells model neurons only to a limited extent. These cells make no functional contacts (synapses) and do not have the same polarized organization that neurons have, which limits the validity for studies on synaptic transmission and cellular trafficking. Most commonly prescribed drugs for brain disorders target synapses. Yet, drug screening, lead finding/optimization and safety studies build either on cells that make no synapses or on labor-intensive low-throughput assays. Hence, new, standardized, scalable assays using real (synaptic) neurons, will provide a substantial step forward both for academia and industry.\nThis application aims to develop a nano-electrode chip with an electrode array to stimulate, record and image many single neurons with high-resolution, for a period up to several weeks. This approach provides imaging data at single synapse and single organelle resolution and synaptic transmission data at high-throughput. Together, this will not only facilitate and standardize cellular assays using real neurons, but also upscale throughput 100 fold. In addition to the chip itself, we also see market potential for the method (growing/recording neurons on chips) and for a fee-for-service company that offers high throughput compound screening on synaptic neurons.",
+    "totalCost": "149475",
+    "ecMaxContribution": "149475",
+    "coordinator": "STICHTING VUMC",
+    "coordinatorCountry": "NL",
+    "participants": "STICHTING VU",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "919322739": {
+            "orgId": "919322739",
+            "orgName": "STICHTING VUMC",
+            "ecContrib": 135617
+        },
+        "954530344": {
+            "orgId": "954530344",
+            "orgName": "STICHTING VU",
+            "ecContrib": 13858
+        }
+    },
+    "calculatedTotalContribution": 149475
+}

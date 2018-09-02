@@ -1,0 +1,23 @@
+{
+    "rcn": "214106",
+    "acronym": "BiT-XLMS",
+    "topics": "MSCA-IF-2017",
+    "title": "Development of comprehensive and user-friendly bioinformatics tools to study protein structures and interactions in mass spectrometry-based chemical cross-linking",
+    "startDate": "01/01/2019",
+    "endDate": "31/12/2020",
+    "objective": "Mass spectrometry-based chemical cross-linking (XL-MS) is an emerging field to study protein structures, conformations and interactions. Despite its great potential, the data analysis part hinders its widespread applications for a variety of reasons. First, an arduous manual validation is still used in many laboratories. Second, most of the available bioinformatics tools are limited to conventional cross-linkers and not the new type of cross-linkers: MS-cleavable cross-linkers which are key to study protein interactions. Besides, almost every tool has been developed for identification but not quantification, which provides valuable information for changes in protein conformations. Above all, these tools are not user-friendly and requires an assistance of an expert bioinformatician for analysis. I therefore plan to develop fully-automated, comprehensive, user-friendly and free bioinformatics tools for XL-MS studies. This will be a part of one of the most commonly used proteomics software, MaxQuant, developed in the Cox group. MaxQuant software has already well-established preprocessing steps and a solid background. These will facilitate developing specialized tools in XL-MS effectively. I will build these bioinformatics tools which will be introduced as a module for MaxQuant software. My fellowship will cover the following three tasks: i) the identification of the protein samples by conventional cross-linkers, ii) a complete identification workflow for the analysis with MS-cleavable cross-linker and iii) performing relative quantification of over many samples. The extended version of MaxQuant will allow scientists from mass spectrometry or structural biology laboratories to analyze their XL-MS data efficiently without any assistance of bioinformatics expert. Moreover, the fully-automated and user-friendly feature of the tool will make cross-linking as one of the routine tools in structural biology.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

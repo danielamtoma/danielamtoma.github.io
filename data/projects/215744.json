@@ -1,0 +1,17 @@
+{
+    "rcn": "215744",
+    "acronym": "PolyBar",
+    "topics": "MSCA-IF-2017",
+    "title": "A new approach to polymorphism through bar recursion",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2020",
+    "objective": "Parametric polymorphism is an ubiquitous paradigm in programming. It permits writing generic algorithms that can be used\non several datatypes, thus reducing the duplication of code and producing safer software. System F is a very simple\npolymorphic programming language suited to the theoretical study of polymorphism. From the point of view of mathematical\nlogic, System F corresponds to the theory of second-order Peano arithmetic (PA2), which in turn is a sub-theory of first-order\nPeano arithmetic with the axiom of countable choice (PA-AC). On the other hand, PA-AC can be computationally interpreted\nusing the non-polymorphic programming language System T extended with the bar recursion operator (System TBR).\nThe PolyBar project will turn the logical translation of PA2 to PA-AC into a computational translation from System F to\nSystem TBR. This translation will improve the state-of-the-art by extending the use of well-known proof techniques to polymorphic programming languages and promote the use of these languages in environments where safety is important, like medical software or autonomous car systems. Computer programmers will be able to use the sophisticated features of polymorphism and still prove correctness properties on their programs.\nThe PolyBar project will be carried out by the experienced researcher who worked during his PhD thesis on computational\ninterpretations of PA-AC using System TBR, and recently gave the first connections with PA2 and System F. The\nexperienced researcher will collaborate with a supervisor who has a strong background in type theories (including System F)\nand in correspondences between various mathematical theories and programming languages. Working in France, where\nSystem F was discovered and is still a subject of intense research by many experts in the field, the experienced researcher\nwill make the beneficiary benefit from his experience in the UK, which has a strong community on recursion theory and denotational semantics.",
+    "totalCost": "185076",
+    "ecMaxContribution": "185076",
+    "coordinator": "UNIVERSITE PARIS DIDEROT - PARIS 7",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

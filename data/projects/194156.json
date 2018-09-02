@@ -1,0 +1,53 @@
+{
+    "rcn": "194156",
+    "acronym": "MIXMAX",
+    "topics": "MSCA-RISE-2014",
+    "title": "Development and Implementation of new generation of Pseudo Random Number Generators based on Kolmogorov-Anosov K-systems",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2018",
+    "objective": "Modern powerful computers open a new era for the application of the Monte Carlo method for the simulation of physical systems of higher complexity. The Monte Carlo simulations are important computational techniques in many areas of natural sciences and have significant application in particle and nuclear physics, quantum physics, statistical physics, quantum chemistry, material science, among many other multidisciplinary applications. In the heart of the Monte Carlo simulations are Pseudo Random Number Generators (RNG). The primary objective of the proposed network is a systematic development and implementation of the state of the art new generation of Pseudo Random Number Generators based on Kolmogorov-Anosov K-systems, which demonstrates excellent statistical properties, into a multidisciplinary usable product.  This innovative class of RNG was proposed earlier by the members of the network and relies on the fundamental discoveries and results of Ergodic theory. In order to turn these ideas and earlier research on K-systems generators into a usable product the network undertakes the following actions: To develop an efficient program of the K-system generator with tunable internal parameters of maximal dimensionality and of the order of the Galois field, embedded into a user friendly environment and with an on-line manual; To provide statistical data representing internal characteristics of the K-system generator as a function of the dimensionality of the generator and of the order of the Galois field; To implement the K-system generator into the concurrent and distributed software at CERN for applications in LHC and other HEP experiments; To perform large scale simulations in Quantum Gravity and Quantum Field Theory based on K-system generator. To disseminate the product at CERN and other research centers.These objectives will be achieved by secondments,exchange of knowledge, collective research and training between staff members of the five partners.",
+    "totalCost": "360000",
+    "ecMaxContribution": "252000",
+    "coordinator": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+    "coordinatorCountry": "EL",
+    "participants": "KOBENHAVNS UNIVERSITET;EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+    "participantCountries": "DK;CH",
+    "projectParticipants": {
+        "999890357": {
+            "orgId": "999890357",
+            "orgName": "NANJING UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999586553": {
+            "orgId": "999586553",
+            "orgName": "NATIONAL ACADEMY OF SCIENCES OF THE REPUBLIC OF ARMENIA",
+            "ecContrib": 0
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 216000
+        },
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 18000
+        },
+        "999637672": {
+            "orgId": "999637672",
+            "orgName": "A I ALIKHANYAN NATIONAL SCIENCE LABORATORY",
+            "ecContrib": 0
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        },
+        "999988133": {
+            "orgId": "999988133",
+            "orgName": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+            "ecContrib": 18000
+        }
+    },
+    "calculatedTotalContribution": 252000
+}

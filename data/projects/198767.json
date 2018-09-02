@@ -1,0 +1,73 @@
+{
+    "rcn": "198767",
+    "acronym": "OPTIMISED",
+    "topics": "FoF-08-2015",
+    "title": "Operational Planning Tool Interfacing Manufacturing Integrated Simulations with Empirical Data",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2018",
+    "objective": "OPTIMISED aims to develop novel methods and tools for deployment of highly optimised and reactive planning systems that incorporate extensive factory modelling and simulation based on empirical data captured using smart embedded sensors and pro-active human-machine interfaces. The impact of energy management on factory planning and optimisation will be specifically assessed and demonstrated to reduce energy waste and address peak demand so that operations that require or use less energy, can allow this excess energy to be re-routed to local communities. The OPTIMISED environment will use semantically enriched process modelling, big-data generation, capture and perform analytics to effectively support planning specialists, manufacturing engineers, team leaders and shopfloor operatives throughout the systems lifecycle. These next generation manufacturing systems  supported by data rich manufacturing execution systems with OPTIMISED technology will support a dramatic improvement in system performance, improved operational efficiency and equipment utilisation, real-time equipment and station performance monitoring, adaptation and resource optimisation.\n\nThe OPTIMISED vision will be achieved by developing systems which are able to:\n1. Monitor system performance through an integrated sensor network, automatically detecting bottlenecks, faults and performance drop-off\n2. Continuously evolve to respond to disruptive events, supply chain disruptions and non-quality issues through factory simulation modelling\n3. Improve understanding and monitoring of energy demand curve and energy usage per industrial process and globally improve efficiency of production line through reduced energy waste\n4. Understand potential benefits, added value and impacts of participating in Demand Side Response (DSR) processes and becoming an active player in the changing energy industry, instead of remaining a conventional passive element that simply acquires a service from energy providers",
+    "totalCost": "7012637,5",
+    "ecMaxContribution": "7012637,25",
+    "coordinator": "LAING O ROURKE PLC",
+    "coordinatorCountry": "UK",
+    "participants": "KEONYS SAS;DASSAULT SYSTEMES;SIMPLAN AG;SMARTER GRID SOLUTIONS LTD;IDEKO S COOP;Advanced data processing GmbH;THE UNIVERSITY OF NOTTINGHAM;GOIMEK S COOP;ALSTOM TRANSPORT SA;DASSAULT SYSTEMES BV",
+    "participantCountries": "FR;DE;UK;ES;NL",
+    "projectParticipants": {
+        "999546007": {
+            "orgId": "999546007",
+            "orgName": "IDEKO S COOP",
+            "ecContrib": 484375
+        },
+        "999965338": {
+            "orgId": "999965338",
+            "orgName": "DASSAULT SYSTEMES",
+            "ecContrib": 89325
+        },
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 895477
+        },
+        "953014331": {
+            "orgId": "953014331",
+            "orgName": "KEONYS SAS",
+            "ecContrib": 714411
+        },
+        "999804900": {
+            "orgId": "999804900",
+            "orgName": "ALSTOM TRANSPORT SA",
+            "ecContrib": 433442
+        },
+        "971954163": {
+            "orgId": "971954163",
+            "orgName": "SIMPLAN AG",
+            "ecContrib": 892783
+        },
+        "951624030": {
+            "orgId": "951624030",
+            "orgName": "LAING O ROURKE PLC",
+            "ecContrib": 2105494
+        },
+        "951740624": {
+            "orgId": "951740624",
+            "orgName": "GOIMEK S COOP",
+            "ecContrib": 302000
+        },
+        "998506846": {
+            "orgId": "998506846",
+            "orgName": "Advanced data processing GmbH",
+            "ecContrib": 389000
+        },
+        "932733474": {
+            "orgId": "932733474",
+            "orgName": "SMARTER GRID SOLUTIONS LTD",
+            "ecContrib": 675120
+        },
+        "932950463": {
+            "orgId": "932950463",
+            "orgName": "DASSAULT SYSTEMES BV",
+            "ecContrib": 31210
+        }
+    },
+    "calculatedTotalContribution": 7012637
+}

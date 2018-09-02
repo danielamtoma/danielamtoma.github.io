@@ -1,0 +1,23 @@
+{
+    "rcn": "209560",
+    "acronym": "VASCFORM",
+    "topics": "MSCA-IF-2016",
+    "title": "Deformable vascular registration for co-mapping altered hemodynamics with vascular responses,and for introducing a new measure for aneurysm rupture risk assessment: the local surfacegrowth",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2020",
+    "objective": "Growth rate of ascending aortic aneurysm (AsAA) is a rupture risk marker as it potentially reflects a wall remodeling that leads to fast growth. It is measured as the maximum diameter change over time. However, expansion is not uniform but presents localized growth. We propose to develop a methodology based on deformable surface registration tools that will provide correspondence between aortic surface meshes obtained at consecutive time points and quantify vascular surface growth distribution. The direct application of this methodology in animal and clinical research will answer some long debated questions about AsAA pathology. While a cause and effect relationship between hemodynamics and lesion development is long suspected, exact quantification of the responsible hemodynamic factors has not been performed so far. This is because the geometry changes between baseline (measurement of initiating hemodynamics with computational fluid mechanics) and end stage (lesion development), making it difficult to identify corresponding regions at the microscopic level of lesion size. We will use angiotensin II-infused ApoE-/- mice, a model for AsAA, and apply the developed registration methodology to obtain a detailed correspondence between the 3D images, and co-map the complex initiating hemodynamic microenvironment and the histological findings at sacrifice for the identification of disturbed hemodynamics. Furthermore, the local wall expansion can indirectly provide information about aneurysm state. We will associate maximum local growth with the degree of aneurysm initiation (size of media tear) which will be used as a groundwork and pre-clinical justification to introduce the regional growth measurement in clinical risk assessment. Lastly, clinical data from AsAA patients will be used in order to correlate the maximum regional growth with clinical outcome, which will establish a new metric for a more sensitive aneurysm growth quantification.",
+    "totalCost": "187419,6",
+    "ecMaxContribution": "187419,6",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 187420
+        }
+    },
+    "calculatedTotalContribution": 187420
+}

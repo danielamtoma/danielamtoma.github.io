@@ -1,0 +1,38 @@
+{
+    "rcn": "212986",
+    "acronym": "SealedGRID",
+    "topics": "MSCA-RISE-2017",
+    "title": "Scalable, trustEd, and interoperAble pLatform for sEcureD smart GRID",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "The rapid evolution of ICT has revealed the potential for centrally monitoring, controlling, and optimising the power grid. In this context, a more intelligent, responsive, and efficient, system has been devised, known as the Smart Grid (SG). As explained in the EU Third Energy Package the SG will support a dynamic two-way information exchange between utility companies and their customers, contributing towards a smart and sustainable energy management in Europe and the establishment of a wiser energy consumption mentality. However, besides the benefits of such an endeavour, the power grid will be exposed to security threats inherited from the ICT sector, while privacy issues and new vulnerabilities, related to the specific characteristics of the SG infrastructure, will emerge. The problem is assessed as crucial, if we consider that a potential attack to the SG may lead to cascading failures, ranging from destruction of other interconnected critical infrastructures to loss of human lives. Thus, the development of a security platform tailored to the SG is required, that i) can efficiently manage the plethora of SG nodes, ii) deal with potential malicious hardware or software modifications due to the physical access of the customers to the SG nodes, and iii) operate over heterogeneous systems. Considering all the above, SealedGRID aims at bringing together experts from industry and academia from cross-sectorial research areas having complementary background with the long-term goal to design, analyse, and implement a scalable, highly trusted and interoperable SG security platform. The platform will combine, for the very first time, technologies like Blockchain, Distributed Hash Tables, Trusted Execution Environments, and OpenID Connect, while for its realization the SealedGRID consortium is committed to a fully-integrated and multi-disciplinary secondment programme combined with a set of networking, dissemination, and exploitation activities.",
+    "totalCost": "1080000",
+    "ecMaxContribution": "1080000",
+    "coordinator": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+    "coordinatorCountry": "EL",
+    "participants": "BEIA CONSULT INTERNATIONAL SRL;UNIVERSIDAD DE MALAGA;NEUROSOFT SOFTWARE PRODUCTIONS SA",
+    "participantCountries": "RO;ES;EL",
+    "projectParticipants": {
+        "999898311": {
+            "orgId": "999898311",
+            "orgName": "UNIVERSIDAD DE MALAGA",
+            "ecContrib": 270000
+        },
+        "999586941": {
+            "orgId": "999586941",
+            "orgName": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+            "ecContrib": 270000
+        },
+        "999685687": {
+            "orgId": "999685687",
+            "orgName": "BEIA CONSULT INTERNATIONAL SRL",
+            "ecContrib": 270000
+        },
+        "919221083": {
+            "orgId": "919221083",
+            "orgName": "NEUROSOFT SOFTWARE PRODUCTIONS SA",
+            "ecContrib": 270000
+        }
+    },
+    "calculatedTotalContribution": 1080000
+}

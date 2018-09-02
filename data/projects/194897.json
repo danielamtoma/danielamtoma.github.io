@@ -1,0 +1,73 @@
+{
+    "rcn": "194897",
+    "acronym": "EMYNOS",
+    "topics": "DRS-19-2014",
+    "title": "nExt generation eMergencY commuNicatiOnS",
+    "startDate": "01/09/2015",
+    "endDate": "28/02/2018",
+    "objective": "Current emergency systems and 112 services are based on legacy telecommunication technologies, which cannot cope with IP-based services that European citizens use every day. Some of the related limitations are the partial media support (so far, only voice calls and SMS are accepted), the lack of integration of social media, and the use of an analog modem for providing eCall services with limited data amount. As most operators have started migrating towards broadband IP-based infrastructures, current emergency systems need also to be upgraded/adapted in order to fulfill regulatory requirements in terms of Next Generation emergency services. ?he main objective of EMYNOS project is the design and implementation of a Next Generation platform capable of accommodating rich-media emergency calls that combine voice, text, and video, thus constituting a powerful tool for coordinating communication among citizens, call centers and first responders. Additionally, issues such as call routing/redirection to the closest-available call center, retrieval of the caller location, hoax calls prevention, support for people with disabilities, and integration of social media will be addressed. EMYNOS will enable users to make emergency calls across heterogeneous devices (e.g. PCs, TV sets, mobile, AAC and haptic devices) using various mature technologies, including those making use of the Session Initiation Protocol (SIP), the IP Multimedia Subsystem (IMS), and WebRTC framework. EMYNOS will also demonstrate how the eCall concept can benefit from the IP technologies by allowing audio-video calls towards the emergency call centers and complementing location information, with photos and videos. EMYNOS involves partners with complementary expertise (telecom/satellite operator, VoIP provider, eCall testers, end users), which together form the chain for the provision of emergency services and which will deliver the EMYNOS demonstrator that will be validated in operational environment (TRL 7)",
+    "totalCost": "4130493",
+    "ecMaxContribution": "4130493",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "VOZTELECOM OIGAA 360 SA;TURKSAT UYDU HABERLESME VE KABLO TV ISLETME AS;SERVICIUL DE TELECOMUNICATII SPECIALE;NAVCERT GMBH;Harpo Sp. z o. o.;OSTERREICHISCHES ROTES KREUZ;MCS DATALABS;PUBLIC SAFETY COMMUNICATION EUROPE FORUM AISBL;HELLENIC OPEN UNIVERSITY;TECHNOLOGICAL EDUCATIONAL INSTITUTE OF CRETE",
+    "participantCountries": "ES;TR;RO;DE;PL;AT;BE;EL",
+    "projectParticipants": {
+        "984286161": {
+            "orgId": "984286161",
+            "orgName": "SERVICIUL DE TELECOMUNICATII SPECIALE",
+            "ecContrib": 199688
+        },
+        "998462323": {
+            "orgId": "998462323",
+            "orgName": "TURKSAT UYDU HABERLESME VE KABLO TV ISLETME AS",
+            "ecContrib": 300000
+        },
+        "999895110": {
+            "orgId": "999895110",
+            "orgName": "HELLENIC OPEN UNIVERSITY",
+            "ecContrib": 312750
+        },
+        "988226010": {
+            "orgId": "988226010",
+            "orgName": "OSTERREICHISCHES ROTES KREUZ",
+            "ecContrib": 333250
+        },
+        "996489731": {
+            "orgId": "996489731",
+            "orgName": "NAVCERT GMBH",
+            "ecContrib": 484570
+        },
+        "940750039": {
+            "orgId": "940750039",
+            "orgName": "MCS DATALABS",
+            "ecContrib": 478110
+        },
+        "993165929": {
+            "orgId": "993165929",
+            "orgName": "Harpo Sp. z o. o.",
+            "ecContrib": 269375
+        },
+        "984488212": {
+            "orgId": "984488212",
+            "orgName": "PUBLIC SAFETY COMMUNICATION EUROPE FORUM AISBL",
+            "ecContrib": 250000
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 800875
+        },
+        "998007878": {
+            "orgId": "998007878",
+            "orgName": "VOZTELECOM OIGAA 360 SA",
+            "ecContrib": 200625
+        },
+        "999440180": {
+            "orgId": "999440180",
+            "orgName": "TECHNOLOGICAL EDUCATIONAL INSTITUTE OF CRETE",
+            "ecContrib": 501250
+        }
+    },
+    "calculatedTotalContribution": 4130493
+}

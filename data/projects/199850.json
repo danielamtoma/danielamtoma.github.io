@@ -1,0 +1,58 @@
+{
+    "rcn": "199850",
+    "acronym": "TrimBot2020",
+    "topics": "ICT-24-2015",
+    "title": "A gardening robot for rose, hedge and topiary trimming",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2019",
+    "objective": "The TrimBot2020 project will research the robotics and vision technologies to prototype the first outdoor garden trimming robot. The robot will navigate over varying terrain, approach rose bushes, hedges and boxwood topiary, to trim them to an ideal shape. The robot will be based on a modified Bosch Indego robot lawnmower, which will navigate using a user-defined garden map and 3D scene analysis, and then visually servo a novel electric plant cutter.\n\n Achieving this will require a combination of robotics and 3D computer vision research and innovation activities. Original developments will be required for 3D sensing of semi-regular surfaces with physical texture (overgrown plant surfaces), coping with outdoor lighting variations, self-localising and navigating over real terrain and around obstacles, visual servoing to align the vehicle with potentially moving target plants, visual servoing to align leaf and branch cutters to a compliant surface, and innovative engineering to deliver all this on a small battery-powered consumer-grade vehicle. Development of these capabilities aligns closely with the Robotics Strategic Research Agenda and Multi-Annual Roadmap aspirations.\n\n This project falls clearly in the consumer market domain. It will develop service robotics, advanced perceptual capabilities, mobile manipulation, and flexible and reactive autonomy. As a novel robotics application, the current TRL is 1/2, but the project aims to achieve TRL 5/6. Bosch expects to exploit the project's results to extend its current automated lawnmower product.\n\n This exciting project will extend generic robotics and computer vision technologies, explore a new robot application, has an explicit route to market exploitation by an experienced manufacturer, and has a great team with experienced plant roboticists and world-leading computer vision researchers, led by an experienced EC project coordinator.",
+    "totalCost": "6354951,25",
+    "ecMaxContribution": "5420607,5",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "ROBERT BOSCH GMBH;ALBERT-LUDWIGS-UNIVERSITAET FREIBURG;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;WAGENINGEN UNIVERSITY;RIJKSUNIVERSITEIT GRONINGEN;UNIVERSITEIT VAN AMSTERDAM;STICHTING WAGENINGEN RESEARCH",
+    "participantCountries": "DE;CH;NL",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 0
+        },
+        "999981634": {
+            "orgId": "999981634",
+            "orgName": "WAGENINGEN UNIVERSITY",
+            "ecContrib": 570720
+        },
+        "999841760": {
+            "orgId": "999841760",
+            "orgName": "ALBERT-LUDWIGS-UNIVERSITAET FREIBURG",
+            "ecContrib": 857500
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1324812
+        },
+        "999989782": {
+            "orgId": "999989782",
+            "orgName": "RIJKSUNIVERSITEIT GRONINGEN",
+            "ecContrib": 635000
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 833075
+        },
+        "999547365": {
+            "orgId": "999547365",
+            "orgName": "STICHTING WAGENINGEN RESEARCH",
+            "ecContrib": 560515
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 638985
+        }
+    },
+    "calculatedTotalContribution": 5420607
+}

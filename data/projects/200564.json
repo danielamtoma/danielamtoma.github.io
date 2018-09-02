@@ -1,0 +1,38 @@
+{
+    "rcn": "200564",
+    "acronym": "PARTAKE",
+    "topics": "Sesar-09-2015",
+    "title": "cooPerative depArtuRes for a compeTitive ATM networK sErvice.",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "TBO paradigm enhances the design of advanced DSTs (Decision Support Tools) relying on new airspace demand-capacity balance by re-evaluating the amount of potential controller interventions that can be required in future traffic scenario ruled by new cutting edge procedures such as free flight, ASAS, integration of RPAís or soft flight level capping constraints. Thus, the demand-capacity balance of an airspace volume can be estimated by considering the amount of potential proximate events (such as loss of safety distances between trajectories with time stamp concurrency) that could emerge due to the programmed traffic (based on airspace usersí preferences). \nThis project propose a causal model to enhance the potential synergies that could be achieved by exploiting to the maximum extend the gap provided by the strategic decision variables (ie departure slots fixed by ATFM) with the tactical decision making at airport level (ie. departure sequence preserving slot assigned) and the operational decision making at flight execution level between zones that could affect trajectory adherence due to tight interdependencies between RBTís. \n\nA causal model will formalize the different events, to simulate and validate the departure-time-bounded adjustment process that preserves the scheduled slots while relaxing tight 4DT interdependencies to mitigate demand-capacity imbalances. The causal model will be extended and implemented as a constraint-programming model to solve a realistic scenarios (e.g., a large and congested one) interfacing with SWIM through SOA applications. By means of the time clearanceís distribution, the robustness of different solutions will analysed. These adjustments will be computed in such a way that there will be a minimum perturbation in landside resources while there will no negative impact in airside resources. \n\nThe proposed method will capitalize on present freedom degrees in ATM which are not used at all.",
+    "totalCost": "986250",
+    "ecMaxContribution": "985750",
+    "coordinator": "UNIVERSITAT AUTONOMA DE BARCELONA",
+    "coordinatorCountry": "ES",
+    "participants": "ASLOGIC 2011, S.L.;ECOLE NATIONALE DE L AVIATION CIVILE;CRANFIELD UNIVERSITY",
+    "participantCountries": "ES;FR;UK",
+    "projectParticipants": {
+        "999986484": {
+            "orgId": "999986484",
+            "orgName": "UNIVERSITAT AUTONOMA DE BARCELONA",
+            "ecContrib": 280750
+        },
+        "999440762": {
+            "orgId": "999440762",
+            "orgName": "CRANFIELD UNIVERSITY",
+            "ecContrib": 226250
+        },
+        "937648755": {
+            "orgId": "937648755",
+            "orgName": "ASLOGIC 2011, S.L.",
+            "ecContrib": 233750
+        },
+        "996375756": {
+            "orgId": "996375756",
+            "orgName": "ECOLE NATIONALE DE L AVIATION CIVILE",
+            "ecContrib": 245000
+        }
+    },
+    "calculatedTotalContribution": 985750
+}

@@ -1,0 +1,73 @@
+{
+    "rcn": "207185",
+    "acronym": "SHiELD",
+    "topics": "DS-03-2016",
+    "title": "European Security in Health Data Exchange",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "SHiELD will unlock the value of health data to European citizens and businesses by overcoming security and regulatory challenges that today prevent this data being exchanged with those who need it. This will make it possible to provide better health care to mobile citizens across European borders, and facilitate legitimate commercial uses of health data.\nThe exchange of health data is already possible, but rarely happens in practice because it is hard to ensure that the combined ëend-to-endí system will be secure and comply with data protection laws. SHiELD will address these security and compliance challenges:\nï providing models and analysis tools for automated identification of end-to-end security risks and compliance issues and supporting privacy and ëby designí;\nï defining an open and extensible data exchange architecture based on epSOS, able to support security measures to address these risks;\nï developing security mechanisms to deal with new and emerging risks, such as inference attacks on sensitive data, and risks from relatively unprotected mobile edge devices;\nï providing faster and more cost effective methods to verify and monitor compliance with multiple sets of applicable regulations;\nSHiELD case studies will address cross border scenarios in which a citizen needs health care while in one Member State, and care givers need access to their health data from different Member States. SHiELD will also consider how commercial providers of lifestyle services or wearable sensors may be involved in such data exchanges. SHiELD will thereby also create opportunities for using health data to create such products and services addressing the common European market.\nSHiELD will provide guidance in best practice to achieve end-to-end security and data protection compliance in health and health related applications. SHiELD will also feed into CEN-Cenelec and ETSI efforts to create EU standards for data protection by design in eHealth.",
+    "totalCost": "3897267,5",
+    "ecMaxContribution": "3897267,5",
+    "coordinator": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+    "coordinatorCountry": "ES",
+    "participants": "LANCASHIRE CARE NHS FOUNDATION TRUST;AIMES GRID SERVICES COMMUNITY INTEREST COMPANY;IBERMATICA SA;STELAR SECURITY TECHNOLOGY LAW RESEARCH UG;Servicio Vasco de Salud Osakidetza;FONDAZIONE CENTRO SAN RAFFAELE;UNIVERSITY OF SOUTHAMPTON;SYMPHONIC SOFTWARE LTD;METRARC LIMITED;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+    "participantCountries": "UK;ES;DE;IT;IL",
+    "projectParticipants": {
+        "923666108": {
+            "orgId": "923666108",
+            "orgName": "SYMPHONIC SOFTWARE LTD",
+            "ecContrib": 180185
+        },
+        "994498030": {
+            "orgId": "994498030",
+            "orgName": "IBERMATICA SA",
+            "ecContrib": 190250
+        },
+        "993205990": {
+            "orgId": "993205990",
+            "orgName": "Servicio Vasco de Salud Osakidetza",
+            "ecContrib": 242230
+        },
+        "953371388": {
+            "orgId": "953371388",
+            "orgName": "FONDAZIONE CENTRO SAN RAFFAELE",
+            "ecContrib": 390000
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 638750
+        },
+        "999975329": {
+            "orgId": "999975329",
+            "orgName": "UNIVERSITY OF SOUTHAMPTON",
+            "ecContrib": 606278
+        },
+        "943550720": {
+            "orgId": "943550720",
+            "orgName": "LANCASHIRE CARE NHS FOUNDATION TRUST",
+            "ecContrib": 125000
+        },
+        "956000476": {
+            "orgId": "956000476",
+            "orgName": "AIMES GRID SERVICES COMMUNITY INTEREST COMPANY",
+            "ecContrib": 425000
+        },
+        "940589213": {
+            "orgId": "940589213",
+            "orgName": "METRARC LIMITED",
+            "ecContrib": 195375
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 492950
+        },
+        "952468124": {
+            "orgId": "952468124",
+            "orgName": "STELAR SECURITY TECHNOLOGY LAW RESEARCH UG",
+            "ecContrib": 411250
+        }
+    },
+    "calculatedTotalContribution": 3897268
+}

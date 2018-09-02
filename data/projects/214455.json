@@ -1,0 +1,17 @@
+{
+    "rcn": "214455",
+    "acronym": "CORNEA",
+    "topics": "ERC-2017-COG",
+    "title": "Controlling evolutionary dynamics of networked autonomous agents",
+    "startDate": "01/05/2018",
+    "endDate": "30/04/2023",
+    "objective": "Large-scale technological, biological, economic, and social complex systems act as complex networks of interacting autonomous agents. Large numbers of interacting agents making self-interested decisions can result in highly complex, sometimes surprising, and often suboptimal, collective behaviors. Empowered by recent breakthroughs in data-driven cognitive learning technologies, networked agents collectively give rise to evolutionary dynamics that cannot be easily modeled, analysed and/or controlled using current systems and control theory. Consequently, there is an urgent need to develop new theoretical foundations to tackle the emerging challenging control problems associated with evolutionary dynamics for networked autonomous agents.\n\nThe aim of this project is to develop a rigorous theory for the control of evolutionary dynamics so that interacting autonomous agents can be guided to solve group tasks through the pursuit of individual goals in an evolutionary dynamical process. The theory will then be tested, validated and improved against experimental results using robotic fish.\n\nTo achieve the aim, I will: (1) develop a general formulation for stochastic evolutionary dynamics with control inputs, enabling the study on controllability and stabilizability for evolutionary processes; (2) introduce stochastic control Lyapunov functions to design control laws; (3) construct new classes of conditional strategies that may propagate controlled actions effectively from focal agents in multiple time scales; and (4) validate experimentally on tasks with unknown difficulties that require a group of robotic fish to evolve and adapt. \n\nThe project will result in a major advance from the conventional usage of evolutionary game theory with the systematic design to actively control evolutionary outcomes. The combination of theory with experimentation and the multi-disciplinary nature of the approach will lead to new applications of autonomous robotic systems.",
+    "totalCost": "1998933",
+    "ecMaxContribution": "1998933",
+    "coordinator": "RIJKSUNIVERSITEIT GRONINGEN",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

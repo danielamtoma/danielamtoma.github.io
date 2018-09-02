@@ -1,0 +1,23 @@
+{
+    "rcn": "212078",
+    "acronym": "ModelGenomLand",
+    "topics": "ERC-2017-STG",
+    "title": "Modelling the genomic landscapes of selection and speciation",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Understanding how natural selection, random genetic drift and demographic events interact to generate and maintain genetic and species diversity has been the central focus of population genetics for many decades. We now have the necessary genome sequence data to make detailed and powerful inferences about the evolutionary past of populations and species, yet our ability to meaningfully interpret such data has remained fundamentally limited.\n\nThis project will use a combination of theory, development of new inference tools and a large-scale comparative analyses of genome data and has two principal aims:\n\nFirst to develop a general, statistical framework for making inferences about the joint action of past  selection and demography from genome sequence data. This will be achieved using analytic calculations and approximations for the joint distribution of linked polymorphic sites. We will use these results to develop new methods to quantify the genome-wide rates of positive and background selection and to scan for genomic outliers of divergence between and positive selection within species. The new methods will be tested using simulations and data from model insects (Drosophila and Heliconius).\n\nSecond, we will apply the new inference approach to genome data for 20 species pairs of European butterflies and conduct a systematic comparison of the demographic and selective forces involved in speciation. This will reveal how repeatable speciation processes are both in terms of the demographic and selective events, and the genes and genomic architectures involved. Specifically, we will test whether selection during speciation is concentrated at chromosomal rearrangements and/or candidate gene families involved in mate recognition and host plant adaptation. This project will fundamentally improve both our understanding of speciation and selection and our ability to use sequence data to study population processes (be they selection, demography or both) in any system.",
+    "totalCost": "1497755",
+    "ecMaxContribution": "1497755",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1497755
+        }
+    },
+    "calculatedTotalContribution": 1497755
+}

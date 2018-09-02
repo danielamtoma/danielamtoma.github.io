@@ -1,0 +1,53 @@
+{
+    "rcn": "194171",
+    "acronym": "HEAT",
+    "topics": "ICT-32-2014",
+    "title": "Homomorphic Encryption Applications and Technology",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Homomorphic cryptography offers the tantalizing goal of being able to process sensitive information in encrypted form, without needing to compromise on the privacy and security of the citizens and organizations that provide the input data.\n\nThe HEAT proposal brings together Europe's leading researchers on homomorphic cryptography (KU LEUVEN, UNIVBRIS and UL), with the leading expertise on lattice based cryptanalysis (UPMC), and three industrial partners with existing interests in the field (CRX, NXP and Thales UK). The goal of HEAT is to produce a step change in the efficiency and applicability of this technology. The proposal leverages existing ground breaking research in Europe, and links this with three industrially contributed case studies as a way of grounding the research in practical issues. \n\nThe case studies proposed by the industrial partners consist of smart grid, statistical analysis to automate the detection of organized crime and shared satellite infrastructure applications.\n\nThe project will focus on Somewhat Homomorphic Encryption (SHE). Not only is this a stepping stone on the way to Fully Homomorphic Encryption, the partners also believe that SHE is a useful cryptographic tool in its own right. We aim to demonstrate this applicability via our three case studies.\n\nMotivated by the three case studies the project will examine new design and implementation techniques for homomorphic cryptography, as well as a thorough security analysis. The security analysis is likely to have wider applicability due to the linkage with post-quantum cryptographic systems based on lattices. The proposed outputs of HEAT are an open source software library to support applications that wish to use homomorphic cryptography. The results of the HEAT project will be highly beneficial to European industry and academic research since they allow for using homomorphic cryptography to be used by a much wider variety of end developers.",
+    "totalCost": "4165726,25",
+    "ecMaxContribution": "4165726,25",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;CRYPTOEXPERTS SAS;THALES UK LIMITED;NXP SEMICONDUCTORS BELGIUM NV;UNIVERSITE DU LUXEMBOURG;UNIVERSITY OF BRISTOL",
+    "participantCountries": "FR;UK;BE;LU",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 582812
+        },
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 593400
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 609314
+        },
+        "940761388": {
+            "orgId": "940761388",
+            "orgName": "THALES UK LIMITED",
+            "ecContrib": 370738
+        },
+        "999949236": {
+            "orgId": "999949236",
+            "orgName": "NXP SEMICONDUCTORS BELGIUM NV",
+            "ecContrib": 608545
+        },
+        "985516024": {
+            "orgId": "985516024",
+            "orgName": "CRYPTOEXPERTS SAS",
+            "ecContrib": 584375
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 816542
+        }
+    },
+    "calculatedTotalContribution": 4165726
+}

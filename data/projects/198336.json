@@ -1,0 +1,48 @@
+{
+    "rcn": "198336",
+    "acronym": "POP",
+    "topics": "EINFRA-5-2015",
+    "title": "Performance Optimisation and Productivity",
+    "startDate": "01/10/2015",
+    "endDate": "31/03/2018",
+    "objective": "High performance Computing is becoming a fundamental tool for the progress of science and engineering and as such for economic competitiveness. The growing complexity of parallel computers is leading to a situation where code owners and users are not aware of the detailed issues affecting the performance of their applications. The result is often an inefficient use of the infrastructures. Even when the need to get further performance and efficiency is perceived,  code developers may not have sufficient insight  on its detailed causes for addressing the problem properly. This may lead to blind attempts to restructure codes and consequent lack of efficiency.  \nThe objective of POP is to operate a Centre of Excellence in Computing Applications in the area of Performance Optimisation and Productivity. POP will offer the service of precisely assessing the performance of computing application of any sort, from a few hundred to many thousand processors. Also, POP will show its Customers the issues affecting the performance of their code and the most optimal way to alleviate them.\nPOP will target code owners and users from all domains, including infrastructure operators, academic and industrial users. The estimated population of such applications in Europe is 1500 and within the project lifetime POP has the ambition of serving over 150 such codes. The Added Value of POPís services is the savings generated in the operation and use of a code, which will result in a significant Return on Investment (fixing a code costs less than running it below its optimal levels) by employing best-in-class services and release capacity for resolving other priority issues.\nPOP will be a best-in-class centre. By bringing together the European world-class expertise in the area and combining excellent academic resources with  a practical, hand-on approach, it will improve the access to computing applications, thus allowing European researchers and industry  to be more competitive.",
+    "totalCost": "4048845",
+    "ecMaxContribution": "4048845",
+    "coordinator": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "coordinatorCountry": "ES",
+    "participants": "FORSCHUNGSZENTRUM JULICH GMBH;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;TERATEC;NUMERICAL ALGORITHMS GROUP LTD;UNIVERSITAET STUTTGART",
+    "participantCountries": "DE;FR;UK",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 749125
+        },
+        "934216119": {
+            "orgId": "934216119",
+            "orgName": "TERATEC",
+            "ecContrib": 504500
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 629570
+        },
+        "999974747": {
+            "orgId": "999974747",
+            "orgName": "UNIVERSITAET STUTTGART",
+            "ecContrib": 642562
+        },
+        "988881924": {
+            "orgId": "988881924",
+            "orgName": "NUMERICAL ALGORITHMS GROUP LTD",
+            "ecContrib": 840375
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 682712
+        }
+    },
+    "calculatedTotalContribution": 4048844
+}

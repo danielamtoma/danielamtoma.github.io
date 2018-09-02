@@ -1,0 +1,17 @@
+{
+    "rcn": "216250",
+    "acronym": "OCONTSOLAR",
+    "topics": "ERC-2017-ADG",
+    "title": "Optimal Control of Thermal Solar Energy Systems",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2023",
+    "objective": "OCONTSOLAR aims to develop new control methods to use mobile sensors mounted on drones and unmanned ground vehicles (UGV) as an integral part of the control systems. Sensors mounted on vehicles have been used for surveillance and for gathering information, however these mobile sensors have not been used so far as an integral part of control systems. \nSolar power plants will be used as a case study, with the aim of optimizing their operation using spatial irradiance estimations and predictions. Many results will be applicable to other systems such as traffic control in highways and cities, energy management in buildings, micro-grids, agriculture (irrigation and plague control) and flood control. The main objectives and challenges are:\n1. Methods to control mobile sensor fleets and integrate them as an essential part of the overall control systems. \n2. Spatially distributed solar irradiance estimation methods using a variable fleet of sensors mounted on drones and UGVs. \n3. New model predictive control (MPC) algorithms that use mobile solar sensor estimations and predictions to yield safer and more efficient operation of the plants allowing the effective integration of solar energy in systems delivering energy to grids or other systems while satisfying production commitments.\nOCONTSOLAR includes proofs of concepts by implementation on the Solar Platform of Almeria and on a solar air conditioning plant installed at the host institution.",
+    "totalCost": "2500000",
+    "ecMaxContribution": "2500000",
+    "coordinator": "UNIVERSIDAD DE SEVILLA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

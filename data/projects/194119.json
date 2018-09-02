@@ -1,0 +1,43 @@
+{
+    "rcn": "194119",
+    "acronym": "SecondHands",
+    "topics": "ICT-23-2014",
+    "title": "SecondHands: A Robot Assistant For Industrial Maintenance Tasks",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2020",
+    "objective": "The subject of this proposal is a robot assistant that is trained to understand maintenance tasks so that it can either pro-actively or as a result of prompting, offer assistance to maintenance technicians performing routine and preventative maintenance. Conceptually the robot's task is to provide a second pair of hands to the maintenance engineer, such that once the robot has been trained it can predict when and how it can usefully provide help.\n\nThe robot's behavioural repertoire is learnt in a training phase that includes the monitoring of maintenance technician\nactivity, the construction of a knowledge base that describes the context of a task, and a theory of action that enables dynamic behaviour generation. The result is a set of competencies coupled with an ability to recognise the state of a task\nand an understanding of how these competencies can be usefully deployed given the state.\n\nThe scope of work includes the construction of a robot assistant, the systems that facilitate the training, the actual training on\na number of representative tasks, perceptual systems that facilitate activity recognition, and validation of the system's ability\nto usefully contribute to tasks in collaboration with a maintenance engineer. Assessment of the system will test its ability to recognise when it doesn't know something as well as its ability to generalise its knowledge to previously unseen tasks.",
+    "totalCost": "6930000",
+    "ecMaxContribution": "5994000",
+    "coordinator": "OCADO GROUP PLC",
+    "coordinatorCountry": "UK",
+    "participants": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;KARLSRUHER INSTITUT FUER TECHNOLOGIE;UNIVERSITY COLLEGE LONDON;UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+    "participantCountries": "CH;DE;UK;IT",
+    "projectParticipants": {
+        "999987745": {
+            "orgId": "999987745",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+            "ecContrib": 993750
+        },
+        "990797674": {
+            "orgId": "990797674",
+            "orgName": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+            "ecContrib": 2249750
+        },
+        "945888226": {
+            "orgId": "945888226",
+            "orgName": "OCADO GROUP PLC",
+            "ecContrib": 1768250
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 982250
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 5994000
+}

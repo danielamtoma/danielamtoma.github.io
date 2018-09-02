@@ -1,0 +1,23 @@
+{
+    "rcn": "210238",
+    "acronym": "ITHACA",
+    "topics": "ERC-2016-ADG",
+    "title": "An Information Theoretic Approach to Improving the Reliability of Weather and Climate Simulations",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "The aim of this project is to develop a new synergy between climate and computer science to increase the accuracy and hence reliability of comprehensive weather and climate models. The scientific basis for this project lies in the PIís pioneering research on stochastic sub-grid parametrisations for climate models. These parametrisations provide estimates of irreducible uncertainty in weather and climate models, and will be used to determine where numerical precision for model variables can be reduced without degradation. By identifying those bits that carry negligible information ñ typically in high-wavenumber components of the dynamical core and within parametrisation and Earth-System modules ñ computational resources can be reinvested into areas (resolution, process representation, ensemble size) where they are sorely needed. This project will determine scale-dependent estimates of information content as rigorously as possible based on a variety of new tools, which include information-theoretic diagnostics and emulators of imprecision, and in a variety of models, from idealised to comprehensive. The project will contribute significantly to the development of next-generation weather and climate models and is well timed for the advent of exascale supercomputing where energy efficiency is paramount and where movement of bits, being the single biggest determinant of power consumption, must be minimised. The ideas will be tested on emerging hardware capable of exploiting the benefits of mixed-precision arithmetic. A testable scientific hypothesis is presented: a proposed increase in forecast reliability arising from an increase in the forecast modelís vertical resolution, the cost being paid for by a reduction in precision of small-scale variables. This project can be expected to provide new scientific understanding of how different scales interact in the nonlinear climate system, for example in maintaining persistent atmospheric flow regimes.",
+    "totalCost": "2494117",
+    "ecMaxContribution": "2494117",
+    "coordinator": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 2494117
+        }
+    },
+    "calculatedTotalContribution": 2494117
+}

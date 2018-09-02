@@ -1,0 +1,23 @@
+{
+    "rcn": "214127",
+    "acronym": "VisualGrasping",
+    "topics": "MSCA-IF-2017",
+    "title": "Visually guided grasping and its effects on visual representations",
+    "startDate": "02/04/2018",
+    "endDate": "01/04/2020",
+    "objective": "I ask how vision guides grasping, and conversely, how learning to grasp objects constrains visual processing. Grasping an object feels effortless, yet the computations underlying grasp planning are nontrivial and there is an extensive literature describing the multifaceted features of visually guided grasping. I aim to bind this fragmented body of knowledge into a unified framework for understanding how humans visually select grasps. To do so I will use motion-tracking hardware (already in place at the University of Giessen) to measure and model human grasping patterns to 3D objects. I will rely on Dr. Flemingís unique expertise with physical simulation to simulate human grasping with objects varying in shape and material. Joining behavioral measurements with computer simulations will provide a powerful data- and theory-driven approach to fully map out the space of human grasping behavior. The complementary goal of this proposal is to understand how grasping constrains visual processing of object shape and material. I plan to tackle this goal by building a computational model of visual processing for grasp planning. Both Dr. Fleming and I have previous experience with computational modelling of visual function. I will exploit powerful machine learning techniques to infer what kinds of visual representations are necessary for grasp planning. I will train Deep Neural Nets (for which the hardware and software is already in place and in use by the Fleming lab) using extensive physics simulations. Dissecting the learned network architecture and comparing the networkís performance to human behavior will tell us what information about shapes, material, and objects the human visual system encodes to plan motor actions. In short, with this research I aim to determine how processing within the human visual system is shaped by and guides hand motor action.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "JUSTUS-LIEBIG-UNIVERSITAET GIESSEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999840111": {
+            "orgId": "999840111",
+            "orgName": "JUSTUS-LIEBIG-UNIVERSITAET GIESSEN",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

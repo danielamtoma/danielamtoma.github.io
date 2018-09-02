@@ -1,0 +1,63 @@
+{
+    "rcn": "194315",
+    "acronym": "ARCADIA",
+    "topics": "ICT-09-2014",
+    "title": "A NOVEL RECONFIGURABLE BY DESIGN HIGHLY DISTRIBUTED APPLICATIONS DEVELOPMENT PARADIGM OVER PROGRAMMABLE INFRASTRUCTURE",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Given the inability of Highly-Distributed-Application-Developers to foresee the changes as well as the heterogeneity on the underlying infrastructure, it is considerable crucial the design and development of novel software paradigms that facilitate application developers to take advantage of the emerging programmability of the underlying infrastructure and therefore develop Reconfigurable-by-Design applications. In parallel, it is crucial to design solutions that are scalable, support high performance, are resilient-to-failure and take into account the conditions of their runtime environment. Towards this direction, the ARCADIA project aims to design and validate a Novel Reconfigurable-By-Design Highly Distributed Applications Development Paradigm over Programmable Infrastructure. The proposed framework will rely on the development of an extensible Context Model which will be used by developers directly at the source-code level. Proper Context-Model will be assisted and validated by IDE-plugins (for many IDEs) in order to re-assure that the generated executable files contain meaningful semantics.  According to ARCADIAís vision, the generated executables should be on-boarded by a Smart Controller which will undertake the tasks of translating annotations to optimal infrastructural configuration. Such a controller will enforce an optimal configuration to the registered programmable resources and will pro-actively adjust the configuration plan based on the Infrastructural State and the Application State. The Context-Model and the aforementioned ARCADIA toolset will be complemented by a Development Methodology that will assure that developed Highly Distributed Applications are Reconfigurable-By-Design. The framework is planned to be validated and evaluated on three use cases that will be deployed over testbeds that host heterogeneous programmable infrastructure.",
+    "totalCost": "3543864",
+    "ecMaxContribution": "3543864",
+    "coordinator": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+    "coordinatorCountry": "IE",
+    "participants": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE;STIFTELSEN SINTEF;GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS;ADITESS ADVANCED INTEGRATED TECHNOLOGY SOLUTIONS & SERVICES LTD;TECHNISCHE UNIVERSITAET BERLIN;MAGGIOLI SPA;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI;UNIVERZA V LJUBLJANI",
+    "participantCountries": "EL;NO;CY;DE;IT;SI",
+    "projectParticipants": {
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 625739
+        },
+        "954502214": {
+            "orgId": "954502214",
+            "orgName": "ADITESS ADVANCED INTEGRATED TECHNOLOGY SOLUTIONS & SERVICES LTD",
+            "ecContrib": 288125
+        },
+        "999978045": {
+            "orgId": "999978045",
+            "orgName": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+            "ecContrib": 544375
+        },
+        "985034419": {
+            "orgId": "985034419",
+            "orgName": "GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",
+            "ecContrib": 409500
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 320500
+        },
+        "999923240": {
+            "orgId": "999923240",
+            "orgName": "UNIVERZA V LJUBLJANI",
+            "ecContrib": 276375
+        },
+        "996621457": {
+            "orgId": "996621457",
+            "orgName": "MAGGIOLI SPA",
+            "ecContrib": 295000
+        },
+        "952269953": {
+            "orgId": "952269953",
+            "orgName": "WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES EPE",
+            "ecContrib": 341750
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 442500
+        }
+    },
+    "calculatedTotalContribution": 3543864
+}

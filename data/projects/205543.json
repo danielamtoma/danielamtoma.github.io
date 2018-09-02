@@ -1,0 +1,53 @@
+{
+    "rcn": "205543",
+    "acronym": "ZAero",
+    "topics": "FOF-03-2016",
+    "title": "Zero-defect manufacturing of composite parts in the aerospace industry",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2019",
+    "objective": "In the aerospace industry very high quality standards have to be met. For the manufacturing of carbon fibre parts this is currently solved through extended end-of-line inspection in combination with re-work processes to deal with defective parts. Also, in-situ visual inspection is used for quality control, which is currently causing huge productivity losses (30%-50%) during lay-up and has become a real bottleneck in carbon fibre parts manufacturing.\n\nThe project will provide a solution by developing inline quality control methods for the key process steps: automatic lay-up (dry fibre placement and automatic dry material placement) and curing. At the system level decision support systems will be developed that assist human decision-making when assessing defects and when planning the part flow through the production line. These will be supported by simulation tools for part verification and logistical planning. \nThe future manufacturing of the A320neo wing covers will be provide the background for the developments. Each such wing cover consists of two parts, that each cost several hundred thousand Euros in manufacturing. Assuming the planned production rates of 60 planes per month from 2025, savings of 150 MEUR in production costs can be obtained per year.\n\nThe consortium consists of all key players that will play a future role in the manufacturing of such large carbon fibre parts. Airbus with its research centers Airbus Group Innovations and FIDAMC will play a leading role in the consortium as far as the multi-stage manufacturing process is concerned. Machine builders (MTorres, Danobat) and research centers will develop the inline quality control, while Dassault SystÈmes will provide simulation support.",
+    "totalCost": "4124143,75",
+    "ecMaxContribution": "3548206,01",
+    "coordinator": "PROFACTOR GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "M TORRES DISE—OS INDUSTRIALES SA;FUNDACION PARA LA INVESTIGACION, DESARROLLO Y APLICACION DE MATERIALES COMPUESTOS;DASSAULT SYSTEMES;AIRBUS DEFENCE AND SPACE GMBH;IDEKO S COOP;DANOBAT",
+    "participantCountries": "ES;FR;DE",
+    "projectParticipants": {
+        "999546007": {
+            "orgId": "999546007",
+            "orgName": "IDEKO S COOP",
+            "ecContrib": 611250
+        },
+        "999965338": {
+            "orgId": "999965338",
+            "orgName": "DASSAULT SYSTEMES",
+            "ecContrib": 447125
+        },
+        "957637739": {
+            "orgId": "957637739",
+            "orgName": "DANOBAT",
+            "ecContrib": 215250
+        },
+        "960256448": {
+            "orgId": "960256448",
+            "orgName": "M TORRES DISEÑOS INDUSTRIALES SA",
+            "ecContrib": 315981
+        },
+        "999991819": {
+            "orgId": "999991819",
+            "orgName": "AIRBUS DEFENCE AND SPACE GMBH",
+            "ecContrib": 365499
+        },
+        "999610221": {
+            "orgId": "999610221",
+            "orgName": "PROFACTOR GMBH",
+            "ecContrib": 927414
+        },
+        "996431240": {
+            "orgId": "996431240",
+            "orgName": "FUNDACION PARA LA INVESTIGACION, DESARROLLO Y APLICACION DE MATERIALES COMPUESTOS",
+            "ecContrib": 665688
+        }
+    },
+    "calculatedTotalContribution": 3548207
+}

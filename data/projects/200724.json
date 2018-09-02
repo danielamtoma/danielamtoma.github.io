@@ -1,0 +1,28 @@
+{
+    "rcn": "200724",
+    "acronym": "NANOthermMA",
+    "topics": "ERC-StG-2015",
+    "title": "Advanced Simulation Design of Nanostructured Thermoelectric Materials with Enhanced Power Factors",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "Roughly one-third of all energy consumption ends up as low-grade heat. Thermoelectric (TE) materials could potentially convert vast amounts of this waste heat into electricity and reduce the dependence on fossil fuels. State-of-the-art nanostructured materials with record-low thermal conductivities (?~1-2W/mK) have recently demonstrated large improvements in conversion efficiencies, but not high enough to enable large scale implementation. Central to this low efficiency problem lies the fact that the Seebeck coefficient (S) and the electrical conductivity (?), the parameters that determine the TE power factor (?S2), are inversely related. Relaxing this inverse interdependence has never been achieved, and TE efficiency remains low. My recent work in nanostructured materials, however, demonstrated for the first time how such a significant event can be achieved, and unprecedentedly large power factors compared to the corresponding bulk material were reported. This project focuses around four ambitious objectives: i) Theoretically establish and generalize the strategies that relax the adverse interdependence of ? and S in nanostructures and achieve power factors >5◊ compared to the state-of-the-art; ii) Experimentally validate the theoretical propositions through well-controlled material design examples; iii) Provide a predictive, state-of-the-art, high-performance, electro-thermal simulator to generalize the concept and guide the design of the entirely new nanostructured TE materials proposed. Appropriate theory and techniques will be developed so that the tool includes all relevant nanoscale transport physics to ensure accuracy in predictions. Simulation capabilities for a large selection of materials and structures will be included; iv) Develop robust, ëinverse-designí optimization capabilities within the simulator, targeting maximum performance. In the long run, the simulator could evolve as a core platform that impacts many different fields of nanoscience as well.",
+    "totalCost": "1498813",
+    "ecMaxContribution": "1498813",
+    "coordinator": "THE UNIVERSITY OF WARWICK",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+    "participantCountries": "IT",
+    "projectParticipants": {
+        "999923531": {
+            "orgId": "999923531",
+            "orgName": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA",
+            "ecContrib": 240000
+        },
+        "999976784": {
+            "orgId": "999976784",
+            "orgName": "THE UNIVERSITY OF WARWICK",
+            "ecContrib": 1258813
+        }
+    },
+    "calculatedTotalContribution": 1498813
+}

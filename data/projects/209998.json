@@ -1,0 +1,43 @@
+{
+    "rcn": "209998",
+    "acronym": "PPI4HPC",
+    "topics": "EINFRA-21-2017",
+    "title": "Public Procurement of Innovative Solutions for High-Performance Computing",
+    "startDate": "01/04/2017",
+    "endDate": "30/09/2021",
+    "objective": "In its communication on the ìEuropean Cloud Initiativeî the European Commission in April 2016 stressed the need for building an European Data Infrastructure including high-end supercomputers, which will around 2022 reach the exascale performance level. In this proposal, a group of leading European supercomputing centres propose the formation of a buyers group to execute a joint Public Procurement of Innovative Solutions (PPI) in the area of high-performance computing (HPC). The co-funding by the European Commission (EC) will allow for a significant enhancement of the planned pre-exascale HPC infrastructure from 2018 on. The total investment is planned to be about Ä 73 million.\n\nThe involved HPC centres, namely BSC, CEA/GENCI, CINECA and JUELICH, have a strong track record in providing supercomputing resources at European level. The project participants are founding members of PRACE and have made Tier-0 systems available through PRACE.\nThis joint initiative will create benefits in multiple respects:\n? More supercomputing resources will be efficiently exploitable for science and engineering applications in Europe within PRACE, the pan-European HPC infrastructure, as selected, relevant applications will play an important role in guiding this procurement process.\n? R&D on HPC architectures and technologies in Europe will be strengthened as suitable incentives will be provided by this joint procurement process.\n? The coordinated approach will give us a greater weight and allow having more impact on the design of the solutions according to the need of scientists and engineers in Europe.\n\nThe participants will work together on coordinated roadmaps for providing HPC resources optimised to the needs of European scientists and engineers. The final decision on which innovative solutions will be procured at the different sites will be made following these roadmaps, but remain a decision of the individual sites.",
+    "totalCost": "74193295",
+    "ecMaxContribution": "25967653,25",
+    "coordinator": "FORSCHUNGSZENTRUM JULICH GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "GRAND EQUIPEMENT NATIONAL DE CALCUL INTENSIF;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;CINECA CONSORZIO INTERUNIVERSITARIO;BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "participantCountries": "FR;IT;ES",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 591500
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 42752
+        },
+        "999779680": {
+            "orgId": "999779680",
+            "orgName": "GRAND EQUIPEMENT NATIONAL DE CALCUL INTENSIF",
+            "ecContrib": 8455956
+        },
+        "999843409": {
+            "orgId": "999843409",
+            "orgName": "CINECA CONSORZIO INTERUNIVERSITARIO",
+            "ecContrib": 8426250
+        },
+        "999980470": {
+            "orgId": "999980470",
+            "orgName": "FORSCHUNGSZENTRUM JULICH GMBH",
+            "ecContrib": 8451194
+        }
+    },
+    "calculatedTotalContribution": 25967652
+}

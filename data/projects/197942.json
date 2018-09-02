@@ -1,0 +1,63 @@
+{
+    "rcn": "197942",
+    "acronym": "MANGO",
+    "topics": "FETHPC-1-2014",
+    "title": "MANGO: exploring Manycore Architectures for Next-GeneratiOn HPC systems",
+    "startDate": "01/10/2015",
+    "endDate": "30/09/2018",
+    "objective": "MANGO targets to achieve extreme resource efficiency in future QoS-sensitive HPC through ambitious cross-boundary architecture exploration for performance/power/predictability (PPP) based on the definition of new-generation high-performance, power-efficient, heterogeneous architectures with native mechanisms for isolation and quality-of-service, and an innovative two-phase passive cooling system. Its disruptive approach will involve many interrelated mechanisms at various architectural levels, including heterogeneous computing cores, memory architectures, interconnects, run-time resource management, power monitoring and cooling, to the programming models. The system architecture will be inherently heterogeneous as an enabler for efficiency and application-based customization, where general-purpose compute nodes (GN) are intertwined with heterogeneous acceleration nodes (HN), linked by an across-boundary homogeneous interconnect. It will provide guarantees for predictability, bandwidth and latency for the whole HN node infrastructure, allowing dynamic adaptation to applications. MANGO will develop a toolset for PPP and explore holistic pro-active thermal and power management for energy optimization including chip, board and rack cooling levels, creating a hitherto inexistent link between HW and SW effects at all layers. Project will build an effective large-scale emulation platform. The architecture will be validated through noticeable examples of application with QoS and high-performance requirements.\n\nUltimately, the combined interplay of the multi-level innovative solutions brought by MANGO will result in a new positioning in the PPP space, ensuring sustainable performance as high as 100 PFLOPS for the realistic levels of power consumption (<15MWatt) delivered to QoS-sensitive applications in large-scale capacity computing scenarios providing essential building blocks at the architectural level enabling the full realization of the ETP4HPC strategic research agenda",
+    "totalCost": "5801820",
+    "ecMaxContribution": "5801820",
+    "coordinator": "UNIVERSITAT POLITECNICA DE VALENCIA",
+    "coordinatorCountry": "ES",
+    "participants": "THALES COMMUNICATIONS & SECURITY SAS;Centro Regionale Information Communication Technology scrl;SVEUCILISTE U ZAGREBU FAKULTET ELEKTROTEHNIKE I RACUNARSTVA;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;PRO DESIGN Electronic GmbH;POLITECNICO DI MILANO;EATON INDUSTRIES (FRANCE) SAS;PHILIPS MEDICAL SYSTEMS NEDERLAND BV",
+    "participantCountries": "FR;IT;HR;CH;DE;NL",
+    "projectParticipants": {
+        "999608766": {
+            "orgId": "999608766",
+            "orgName": "PHILIPS MEDICAL SYSTEMS NEDERLAND BV",
+            "ecContrib": 495940
+        },
+        "999876486": {
+            "orgId": "999876486",
+            "orgName": "SVEUCILISTE U ZAGREBU FAKULTET ELEKTROTEHNIKE I RACUNARSTVA",
+            "ecContrib": 436000
+        },
+        "957854437": {
+            "orgId": "957854437",
+            "orgName": "PRO DESIGN Electronic GmbH",
+            "ecContrib": 1860964
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 452208
+        },
+        "952858743": {
+            "orgId": "952858743",
+            "orgName": "EATON INDUSTRIES (FRANCE) SAS",
+            "ecContrib": 397625
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 646875
+        },
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 418875
+        },
+        "986394262": {
+            "orgId": "986394262",
+            "orgName": "Centro Regionale Information Communication Technology scrl",
+            "ecContrib": 571250
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 522084
+        }
+    },
+    "calculatedTotalContribution": 5801821
+}

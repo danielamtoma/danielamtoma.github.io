@@ -1,0 +1,23 @@
+{
+    "rcn": "211016",
+    "acronym": "X-Imaging",
+    "topics": "ERC-PoC-2016",
+    "title": "MRI diagnosis using a single-shot imaging technique with unprecedented robustness to field inhomogeneities",
+    "startDate": "01/07/2017",
+    "endDate": "31/12/2018",
+    "objective": "This project seeks to exploit cross-term spatiotemporal encoding (xSPEN), a single-shot MRI modality that we introduced last year as part of our efforts to develop new ultrafast techniques in nuclear magnetic resonance. Besides delivering single-shot images in tens of milliseconds, xSPEN exhibits an unprecedented resilience to field inhomogeneities enabling it to access regions that have so far never been scanned by single-scan MRI. Over the last year we have confirmed this and further developed these single-shot measurements, combining it with sequences and algorithms enabling their use in kinetic and diffusivity studies. This PoC proposes to employ these new methods to tackle three problems that pose open challenges in diagnostic radiology, due to their involvement of tissue-metal and tissue-air interfaces subject to strong susceptibility distortions. These include (i) accessing physiological information in the proximity of metal implants; (ii) diagnosing cholesteatomas, a middle-ear growth of chronic recurrence with characteristic diffusion parameters; and (iii) examining and diagnosing optic nerve neurofibromatosis tumours by diffusion and by dynamic contrast enhanced MRI.  By enabling non-invasive, mostly diffusion-based characterisations of these challenging radiological problems, xSPEN will provide hitherto unavailable opportunities to perform repetitive, differential diagnoses of diseases whose permanent solution demands invasive radiation and/or surgery procedures. This can in turn free patients from what could be unnecessary, highly invasive and dangerous operations, preserving a normal lifestyle, and alleviating associated healthcare costs. Furthermore, as despite its uniqueness xSPEN is compatible with thousands of contemporary clinical MRI machines, validating its diagnostic use on a suitable cohort of volunteers and patients should open a world-wide market of radiological imaging applications, with a life time of decades.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "WEIZMANN INSTITUTE OF SCIENCE",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979306": {
+            "orgId": "999979306",
+            "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

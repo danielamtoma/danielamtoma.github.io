@@ -1,0 +1,58 @@
+{
+    "rcn": "211052",
+    "acronym": "EPIC",
+    "topics": "ICT-09-2017",
+    "title": "Enabling Practical Wireless Tb/s Communications with Next Generation Channel Coding",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "EPIC aims to develop a new generation of Forward-Error-Correction (FEC) codes to enable practical wireless Tb/s link technologyócorresponding to a 10xñ100x throughput improvement over the SoA. The EPIC concept and methodology is shaped by the key finding that routine progress in silicon technology in the next decade will not be sufficient to allow FEC implementations to break the Tb/s barrier; Tb/s FEC will require not only help from silicon technology but also major innovations in FEC algorithm design and implementation domains. A key EPIC objective is therefore to develop and utilize a disruptive FEC design framework that considers the FEC algorithm design and corresponding silicon implementation architectures in a unified fashion. Through such an integrated approach, EPIC aims to advance state-of-the-art FEC schemes (mainly Turbo, LDPC and Polar codes) to obtain the principal channel codes for beyond-5G (B5G) use-cases. Top-performing solutions developed under EPIC will be validated by virtual silicon tape-out implementations, thus providing first-in-class FEC blocks of wireless Tb/s technology. EPIC aims at utmost scientific excellence and leadership position in the FEC domain, contributing to European research and development, ensured by measurable and impactful scientific publications in leading journals/magazines in the FEC research area. EPIC will also contribute to the future of European research strength by organizing lectures and tutorials on FEC technology, targeting graduate students and post-graduate researchers. The EPIC concept comprises a technology roadmap, focusing on its SME partners, with the aim of converting fundamental research outcomes into market opportunities via technology IP generation and standardization contributions, ensured by IPR protection. The EPIC consortium, which includes the lead inventors and institutes in the FEC domain, dynamic SMEs, and impactful industry partners, is dedicated to successfully reaching these objectives.",
+    "totalCost": "2966268,75",
+    "ecMaxContribution": "2966268,75",
+    "coordinator": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+    "coordinatorCountry": "AT",
+    "participants": "CREONIC GMBH;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;INTERDIGITAL EUROPE LTD;INSTITUT MINES-TELECOM;ERICSSON AB;TECHNISCHE UNIVERSITAET KAISERSLAUTERN;POLARAN YAZILIM BILISIM DANISMANLIK ITHALAT IHRACAT SANAYI TICARET LIMITED SIRKETI",
+    "participantCountries": "DE;BE;UK;FR;SE;TR",
+    "projectParticipants": {
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 477425
+        },
+        "950635891": {
+            "orgId": "950635891",
+            "orgName": "INTERDIGITAL EUROPE LTD",
+            "ecContrib": 355625
+        },
+        "999885895": {
+            "orgId": "999885895",
+            "orgName": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+            "ecContrib": 326231
+        },
+        "999910921": {
+            "orgId": "999910921",
+            "orgName": "ERICSSON AB",
+            "ecContrib": 393125
+        },
+        "999849326": {
+            "orgId": "999849326",
+            "orgName": "INSTITUT MINES-TELECOM",
+            "ecContrib": 416112
+        },
+        "999761735": {
+            "orgId": "999761735",
+            "orgName": "TECHNIKON FORSCHUNGS- UND PLANUNGSGESELLSCHAFT MBH",
+            "ecContrib": 237750
+        },
+        "956122017": {
+            "orgId": "956122017",
+            "orgName": "CREONIC GMBH",
+            "ecContrib": 305250
+        },
+        "960108232": {
+            "orgId": "960108232",
+            "orgName": "POLARAN YAZILIM BILISIM DANISMANLIK ITHALAT IHRACAT SANAYI TICARET LIMITED SIRKETI",
+            "ecContrib": 454750
+        }
+    },
+    "calculatedTotalContribution": 2966268
+}

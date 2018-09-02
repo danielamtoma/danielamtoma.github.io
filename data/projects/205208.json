@@ -1,0 +1,23 @@
+{
+    "rcn": "205208",
+    "acronym": "Cathedral",
+    "topics": "ERC-ADG-2015",
+    "title": "Post-Snowden Circuits and Design Methods for Security",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Summary: Comprehensive set of circuits and design methods to create next generation electronic circuits with strong built-in trust and security. \n       Electronics are integrating/invading into the human environment at an amazing speed, called the Internet-of-Things and next the Internet-of-Everything.  This creates huge security problems. Distributed (e.g. body) sensors, pick up often very private data, which is sent digitally into the cloud, over wireless and wired links. Protection of this data relies on high-quality cryptographic algorithms and protocols. The nodes need to be cheap and lightweight, making them very vulnerable to eavesdropping and abuse. Moreover, post-Snowden, society realizes that the attack capabilities of intelligence agencies, and probably following soon of organized crime and other hackers, are orders of magnitude stronger than imagined. Thus there is a strong demand to re-establish trust in ICT systems. \n       In this proposal we focus on the root of trust: the digital hardware. The overall objective is to provide fundamental enabling technologies for secure trustworthy digital circuits which can be applied in a wide range of applications. To master complexity, digital hardware design is traditionally split into different abstraction layers. We revisit these abstraction layers from a security viewpoint: we look at process variations to the benefit of security, standard cell compatible digital design flow with security as design objective, hardware IP blocks for next generation cryptographic algorithms and protocols (e.g. authenticated encryption schemes, post-quantum public key schemes), integration into embedded HW/SW platforms, and methods to provide trust evidence to higher levels of abstraction. To strengthen the security we investigate the links between the layers. Finally an embedded application is selected as design driver, the security evaluation of which will be fed back to the individual layers.",
+    "totalCost": "2369250",
+    "ecMaxContribution": "2369250",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 2369250
+        }
+    },
+    "calculatedTotalContribution": 2369250
+}

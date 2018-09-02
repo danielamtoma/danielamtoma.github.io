@@ -1,0 +1,53 @@
+{
+    "rcn": "194293",
+    "acronym": "NEPHELE",
+    "topics": "ICT-06-2014",
+    "title": "eNd to End scalable and dynamically reconfigurable oPtical arcHitecture for application-awarE SDN cLoud datacentErs",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "Datacentre traffic is experiencing 2-digit growth challenging the scalability of current network architectures. The new concept of disaggregation exacerbates bandwidth and latency demands whereas emerging cloud business opportunities urge for reliable inter-datacenter networking. \nPROJECT will develop an end-to-end solution extending from the datacenter architecture and optical subsystem design to the overlaying control plane and application interfaces. PROJECT hybrid electronic-optical network architecture scales linearly with the number of datacenter hosts, offers Ethernet granularity and saves up to 94% power and 30% cost.  It consolidates compute and storage networks over a single, Ethernet optical TDMA network. Low latency, hardware-level dynamic re-configurability and quasi-deterministic QoS are supported in view of disaggregated datacenter deployment scenarios. A fully functional control plane overlay will be developed comprising an SDN controller along with its interfaces. The southbound interface abstracts physical layer infrastructure and allows dynamic hardware-level network reconfigurability. The northbound interface links the SDN controller with the application requirements through an Application Programming Interface. PROJECT innovative control plane enables Application Defined Networking and merges hardware and software virtualization over the hybrid optical infrastructure. It also integrates SDN modules and functions for inter-datacenter connectivity, enabling dynamic bandwidth allocation based on the needs of migrating VMs as well as on existing Service Level Agreements for transparent networking among telecom and datacenter operatorís domains. \nFully-functional network subsystems will be prototyped: a 400Gb/s hybrid Top-of-Rack switch, a 50Gb/s electronic-optical smart Network Interface Card and a fast optical pod switch. PROJECT concept will be demonstrated in the lab and in its operational environment for both intra- and inter-datacenter scenario",
+    "totalCost": "3053636,25",
+    "ecMaxContribution": "3053636",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "NEXTWORKS;SEAGATE SYSTEMS UK LIMITED;INTEROUTE S.P.A.;MELLANOX TECHNOLOGIES LTD - MLNX;GESELLSCHAFT FUR WISSENSCHAFTLICHE DATENVERARBEITUNG MBH GOTTINGEN;PANEPISTIMIO PATRON",
+    "participantCountries": "IT;UK;IL;DE;EL",
+    "projectParticipants": {
+        "999728076": {
+            "orgId": "999728076",
+            "orgName": "SEAGATE SYSTEMS UK LIMITED",
+            "ecContrib": 430381
+        },
+        "992420096": {
+            "orgId": "992420096",
+            "orgName": "INTEROUTE S.P.A.",
+            "ecContrib": 268250
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 255000
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 696250
+        },
+        "990560024": {
+            "orgId": "990560024",
+            "orgName": "MELLANOX TECHNOLOGIES LTD - MLNX",
+            "ecContrib": 557500
+        },
+        "999894528": {
+            "orgId": "999894528",
+            "orgName": "PANEPISTIMIO PATRON",
+            "ecContrib": 381250
+        },
+        "958202473": {
+            "orgId": "958202473",
+            "orgName": "GESELLSCHAFT FUR WISSENSCHAFTLICHE DATENVERARBEITUNG MBH GOTTINGEN",
+            "ecContrib": 465005
+        }
+    },
+    "calculatedTotalContribution": 3053636
+}

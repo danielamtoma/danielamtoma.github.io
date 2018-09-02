@@ -1,0 +1,23 @@
+{
+    "rcn": "200684",
+    "acronym": "SPINCAD",
+    "topics": "ERC-StG-2015",
+    "title": "Spin correlations by atomic design",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2021",
+    "objective": "Unexpected physical phenomena occurring in materials often result from the complex interplay between spins on the atomic scale. The field of quantum magnetism aims to capture the rich emergent physics that arises when multiple spins interact. While experimental techniques are available to probe the global quantum magnetic properties of materials, they fail to reveal the role of local features such as individual defects or phase boundaries.\n \nI propose to use custom-designed spin lattices created by low-temperature scanning tunnelling microscopy (STM) to probe spin correlations locally at the atomic scale, providing the ultimate tool to trace particle-like excitations (spinons) as they propagate. Since these excitations exist on timescales that are much too short to be accessed directly in real time, I will introduce ëspinon trapsí: atom-built detector bits that record the presence of a spinon and store this information immediately on the atomic scale, to be read out at a later time. This approach opens the possibility to study emergent material properties as a function of system size and test theories for quantum magnetism that were previously experimentally inaccessible.\n\nBased on preliminary experiments in my group that indicate the feasibility of SPINCAD, I will realize and demonstrate the spinon trapping technique by employing it to the study of attractive interactions between spinons, which may be forged independently through atom manipulation. In addition, I will observe the motion of spinons through two-dimensional frustrated spin lattices. Being the first technique to perform local injection and readout of excitations in custom-designed spin structures, SPINCAD will generate a long-lasting synergy between the fields of theoretical quantum magnetism and experimental surface science.",
+    "totalCost": "1449983",
+    "ecMaxContribution": "1449983",
+    "coordinator": "TECHNISCHE UNIVERSITEIT DELFT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 1449983
+        }
+    },
+    "calculatedTotalContribution": 1449983
+}

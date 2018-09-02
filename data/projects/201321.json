@@ -1,0 +1,23 @@
+{
+    "rcn": "201321",
+    "acronym": "poro sos",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Efficient numerical methods for deformable porous media. Application to carbon dioxide storage.",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2018",
+    "objective": "Continuum mechanics represents one of the most important research fields in applied sciences and engineering. Numerical simulation is increasingly prominent in this field, which forms the natural ground for application of very recent techniques of numerical analysis and scientific computing. In the last decades, the simulation of multiphysics problems, where different models interact to describe a complex phenomenon, has received a lot of interest. The current project is framed in this spirit, with the double aim of advancing in the numerical simulation techniques as well as in the improved understanding of the physics in the application field. As main line of work, we treat mathematical and practical aspects of models for nonlinear poroelasticity, with an emphasis on stable numerical discretizations and the use of fast solvers for the highly efficient solution of the resulting algebraic systems.  Regarding the practical aspects, we focus on the simulation of the deformation of reservoirs during the carbon dioxide injection stage. In this innovative proposal, we also develop efficient methods for uncertainty quantification in order to assess the risks involved in such process and to evaluate the impact on the environment. \nThe cooperation between Professors Francisco Gaspar and Cornelis Oosterlee goes back 20 years, when they met (as young and fresh) researchers in FhG SCAI in Germany, and cooperated very successfully on multigrid methods. Then, both researchers went their own way (one in Spain, the other in the Netherlands). Now, both being almost 50 years of age, it is important to cooperate closely again, at Oosterleeís host institution in the Netherlands. Prof. Gaspar is willing to come over to Amsterdam for two years, to boost the research and open new research directions, such as uncertainty quantification.",
+    "totalCost": "165598,8",
+    "ecMaxContribution": "165598,8",
+    "coordinator": "STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999653968": {
+            "orgId": "999653968",
+            "orgName": "STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA",
+            "ecContrib": 165599
+        }
+    },
+    "calculatedTotalContribution": 165599
+}

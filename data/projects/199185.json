@@ -1,0 +1,53 @@
+{
+    "rcn": "199185",
+    "acronym": "MOS-QUITO",
+    "topics": "ICT-25-2015",
+    "title": "MOS-based Quantum Information TechnOlogy",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2019",
+    "objective": "Quantum computing is now widely regarded by many in academia, governments and industry to represent a major new frontier in information technology with the potential for a disruptive impact. Many different materials and approaches have been explored, with a narrowing of focus in recent years on scalable implementations based on solid state platforms. In particular, there is now strong evidence that silicon, the primary platform technology for todayís processor technology, inherently possesses many key properties that make it advantageous for quantum computing. Two types of qubit based on spins in silicon nano-devices made in academic research labs have already been reported with demonstrated high-fidelity operation. Our project builds on this success and aims to take this technology to the next readiness level by showing that silicon-based qubits can be realised within a full CMOS platform, using the 300mm-scale fabrication facilities in our consortium. In doing so we will demonstrate the true potential of silicon based qubits in terms of scalability and manufacturability. \nOur focus is on distilling the silicon device design down to the simplest core element necessary to demonstrate qubit behaviour, in order to lay the foundation for a scalable technology. We will design, model and fabricate these qubit devices, and then benchmark them using key operating parameters. Our attention is not limited at the lowest level technology layer where the qubits reside, and includes higher control layers necessary to operate such devices, including demonstrating strategies for achieving local control and readout in large-scale arrays without cross-talk and developing cryo-CMOS electronics to support the qubit operation. Both of these may be spun-out and yield their own technological impacts. Thus, our holistic approach offers a wider opportunity to harness the tremendous proven capabilities of integrated CMOS technology to become a key driver of quantum technology development.",
+    "totalCost": "3973361,25",
+    "ecMaxContribution": "3450622",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "HITACHI EUROPE LIMITED;Teknologian tutkimuskeskus VTT Oy;KOBENHAVNS UNIVERSITET;ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE;CONSIGLIO NAZIONALE DELLE RICERCHE;UNIVERSITY COLLEGE LONDON",
+    "participantCountries": "UK;FI;DK;CH;IT",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 484486
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1146568
+        },
+        "999958645": {
+            "orgId": "999958645",
+            "orgName": "HITACHI EUROPE LIMITED",
+            "ecContrib": 450000
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 422500
+        },
+        "999975620": {
+            "orgId": "999975620",
+            "orgName": "UNIVERSITY COLLEGE LONDON",
+            "ecContrib": 456061
+        },
+        "999991043": {
+            "orgId": "999991043",
+            "orgName": "KOBENHAVNS UNIVERSITET",
+            "ecContrib": 491007
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3450622
+}

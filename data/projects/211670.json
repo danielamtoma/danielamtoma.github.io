@@ -1,0 +1,23 @@
+{
+    "rcn": "211670",
+    "acronym": "KDD-CHASER",
+    "topics": "MSCA-IF-2016",
+    "title": "Knowledge Discovery in Data as Collaboration of Human and Software Actors",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2020",
+    "objective": "The KDD-CHASER project aims to develop a process model and software platform for collaborative knowledge discovery in data (KDD). Traditionally, KDD has been an expert-driven process, but more recently, special types of KDD processes have begun to emerge that involve non-expert individuals in various roles. With sufficiently intelligent software tools, it is even possible for such individuals to take charge of the process and use KDD to extract useful knowledge from their own personal data, but this possibility is not adequately covered by the established process model of KDD. The project addresses this problem by exploring the requirements of incorporating autonomous software and non-expert humans as actors in the KDD process and distilling these into a new process model, consisting of a data model and a workflow model, that satisfies the requirements.\n\nThe data model aims to provide a representation of the fundamental concepts of the KDD process, most importantly knowledge itself. The model forms an essential part of the foundation of new, more autonomous KDD software tools that are capable of carrying out tasks that currently require a human expert. The workflow model represents the actors of the KDD process - experts, non-experts and software - and the interactions through which they collaborate in different incarnations of the process. Once the models have been validated against their requirements, they will in turn be used to define requirements for a collaborative KDD software platform that can be used by diverse actors to establish teams and design solutions to KDD problems. Finally, the software platform will be implemented and validated by executing a test scenario involving knowledge discovery from personal lifelogs.",
+    "totalCost": "175866",
+    "ecMaxContribution": "175866",
+    "coordinator": "DUBLIN CITY UNIVERSITY",
+    "coordinatorCountry": "IE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999892588": {
+            "orgId": "999892588",
+            "orgName": "DUBLIN CITY UNIVERSITY",
+            "ecContrib": 175866
+        }
+    },
+    "calculatedTotalContribution": 175866
+}

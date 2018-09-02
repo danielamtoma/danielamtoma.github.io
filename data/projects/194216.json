@@ -1,0 +1,98 @@
+{
+    "rcn": "194216",
+    "acronym": "BigDataEurope",
+    "topics": "ICT-15-2014",
+    "title": "Integrating Big Data, Software and Communities for Addressing Europeís Societal Challenges",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "BigDataEurope will provide support mechanisms for all the major aspects of a data value chain, in terms of the employed data and technology assets, the participating roles and the established or evolving processes. The effectiveness of the provided support mechanisms will be assessed in different domains pertaining to Europeís major societal challenges with respect to the needs and requirements of the related communities. To this end, BigDataEurope focuses on providing an integrated stack of tools to manipulate, publish and use large-scale data resources; tools that can be installed and used freely in a customised data processing chain with minimal knowledge of the technologies involved and integrating and industrially hardening key open-source Big Data technologies and European research prototypes into a Big Data Integrator Platform, i.e. an ecosystem of specifications and reference implementations that are both attractive to current players from all parts of the data value chain while also lowering the entry barrier for new businesses.\nIn order to realise its objectives, Big Data Europe will focus on two clearly defined coordination and support measures:\n1.\tCoordination: Engaging with a diverse range of stakeholder groups representing particularly the Horizon 2020 societal challenges Health, Food & Agriculture, Energy, Transport, Climate, Social Sciences and Security; Collecting requirements for the ICT infrastructure needed by data-intensive science practitioners tackling a wide range of societal challenges; covering all aspects of publishing and consuming semantically interoperable, large-scale data and knowledge assets;\n2.\tSupport: Designing, realizing and evaluating a Big Data Aggregator platform infrastructure that meets requirements, minimises the disruption to current workflows, and maximises the opportunities to take advantage of the latest European RTD developments, including multilingual data harvesting, data analytics, and data visualisation.\nBigDataEurope will implement and apply two main instruments to successfully realize these coordination and support measures:\na)\tBuild Societal Big Data Interest Groups in the W3C interest group scheme and involving a large number of stakeholders from the Horizon 2020 societal challenges as well as technical Big Data experts;\nb)\tDesign, integrate and deploy a cloud-deployment-ready Big Data aggregator platform comprising key open-source Big Data technologies for real-time and batch processing, such as Hadoop, Cassandra and Storm.\nBigDataEurope aims to provide an adaptable, easy to deploy and use solution, which will allow the interest-ed user groups and stakeholders to extend their Big Data solutions or introduce Big Data technology to their business processes, based on a concrete methodology for producing a technically sound solution and maximizing its outreach to the relevant communities.",
+    "totalCost": "4984238,75",
+    "ecMaxContribution": "4984238,75",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS FAO;AGRO-KNOW;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;STICHTING VU;TENFORCE BVBA;ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON;CENTRE FOR RENEWABLE ENERGY SOURCES AND SAVING FONDATION;CESSDA AS;EUROPEAN UNION SATELLITE CENTRE;SEMANTIC WEB COMPANY GMBH;RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";The Open PHACTS Foundation;GEIE ERCIM;INSTITUT FUR ANGEWANDTE INFORMATIK (INFAI) EV",
+    "participantCountries": "IT;BE;EL;NL;NO;ES;AT;DE;UK;FR",
+    "projectParticipants": {
+        "940721715": {
+            "orgId": "940721715",
+            "orgName": "CESSDA AS",
+            "ecContrib": 236250
+        },
+        "986022364": {
+            "orgId": "986022364",
+            "orgName": "SEMANTIC WEB COMPANY GMBH",
+            "ecContrib": 536991
+        },
+        "999537083": {
+            "orgId": "999537083",
+            "orgName": "EUROPEAN UNION SATELLITE CENTRE",
+            "ecContrib": 322784
+        },
+        "949888118": {
+            "orgId": "949888118",
+            "orgName": "The Open PHACTS Foundation",
+            "ecContrib": 121825
+        },
+        "999643007": {
+            "orgId": "999643007",
+            "orgName": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+            "ecContrib": 198750
+        },
+        "954530344": {
+            "orgId": "954530344",
+            "orgName": "STICHTING VU",
+            "ecContrib": 162238
+        },
+        "999593828": {
+            "orgId": "999593828",
+            "orgName": "GEIE ERCIM",
+            "ecContrib": 246250
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 609004
+        },
+        "999980276": {
+            "orgId": "999980276",
+            "orgName": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSITAT BONN",
+            "ecContrib": 328402
+        },
+        "951885251": {
+            "orgId": "951885251",
+            "orgName": "AGRO-KNOW",
+            "ecContrib": 210938
+        },
+        "999646014": {
+            "orgId": "999646014",
+            "orgName": "CENTRE FOR RENEWABLE ENERGY SOURCES AND SAVING FONDATION",
+            "ecContrib": 136518
+        },
+        "999608281": {
+            "orgId": "999608281",
+            "orgName": "FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS FAO",
+            "ecContrib": 75938
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 990546
+        },
+        "985890347": {
+            "orgId": "985890347",
+            "orgName": "TENFORCE BVBA",
+            "ecContrib": 505827
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 22000
+        },
+        "998797652": {
+            "orgId": "998797652",
+            "orgName": "INSTITUT FUR ANGEWANDTE INFORMATIK (INFAI) EV",
+            "ecContrib": 279980
+        }
+    },
+    "calculatedTotalContribution": 4984241
+}

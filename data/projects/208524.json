@@ -1,0 +1,23 @@
+{
+    "rcn": "208524",
+    "acronym": "NET",
+    "topics": "INNOSUP-02-2016",
+    "title": "Nanoreactivity at drastically Extended Timescales",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2018",
+    "objective": "SCM is a scientific software company with a track record of over two decades of translating scientific advances into commercial success. The companyís strength has traditionally lied in electronic structure methods, its flagship product being the well-known ADF package. In recent years SCM has been broadening its scope to add approximate, faster methods. One of such methods is ReaxFF, arguably the most transferable reactive empirical force field method and the computational method of choice for atomistic-scale dynamical simulations of chemical reactions.\nThe addition of ReaxFF to our portfolio is a response to market demand, as materials modellers increasingly require accurate simulations of systems involving up to millions of atoms. ReaxFF is a key component of SCMís medium and long-term strategy, being its module with the fastest-growing demand (and providing over 160% growth in revenues in the last two years.).\nHowever, meeting that demand will require important developments, extending ReaxFF to drastically longer time scales in order to achieve large time and length scales with high-accuracy atomistic resolution, currently a major bottleneck for industrial modellers. Such an extension will reduce the need for supercomputing resources and will require the implementation of acceleration techniques, coupling molecular dynamics and statistical mechanics models. This is highly specialized work that falls outside SCMís strengths in electronic structure methods, and the company needs to recruit skills combining expertise in a range of molecular modelling schemes as well as modern software development techniques.\nSuch an extended ReaxFF would lower the barrier for manufacturing companies to use modelling as a means to becoming more competitive, extending the market for SCMís ReaxFF implementation and further driving growth. In particular, manufacturing SMEs without the resources for traditional supercomputing resources represent an untapped market.",
+    "totalCost": "105000",
+    "ecMaxContribution": "105000",
+    "coordinator": "SOFTWARE FOR CHEMISTRY & MATERIALSBV",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998282485": {
+            "orgId": "998282485",
+            "orgName": "SOFTWARE FOR CHEMISTRY & MATERIALS BV",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

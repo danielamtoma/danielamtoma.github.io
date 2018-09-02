@@ -1,0 +1,53 @@
+{
+    "rcn": "199301",
+    "acronym": "AUDITOR",
+    "topics": "GALILEO-2-2015",
+    "title": "Advanced Multi-Constellation EGNSS Augmentation and Monitoring Network and its Application in Precision Agriculture",
+    "startDate": "01/01/2016",
+    "endDate": "30/06/2018",
+    "objective": "The goal of AUDITOR is the implementation of novel precise-positioning techniques based on augmentation data in custom\nGNSS receivers to improve the performance of current augmentation services and reducing costs. These techniques are\nalready patented by the consortium and proven to offer better accuracy with faster convergence times than solutions\ncommercially available. More sophisticated atmospheric models will be implemented to provide better corrections of\nionospheric errors and further increase accuracy. All these advances will be integrated in a software demonstrator that will\nuse public data from GNSS networks to generate these correction data streams. These new receivers will enable cost-effective precision agriculture services to farmers, especially those with small and medium-sized businesses in areas of Europe.\nThe custom dual-frequency receiver module will follow an innovative approach by porting a GNSS software-defined receiver\nto an embedded system that will integrate hardware accelerators to enable real-time operation in a low power system. The\nform factor and capabilities of the resulting receiver will be comparable to those of existing professional receivers in the\nmarket, while retaining all the advantages of software receivers: modularity, scalability, upgradability, and flexibility. Besides\nproviding multi-frequency multi-constellation support, this advanced receiver will allow very low level access to key internals\neven at sample level, enabling the integration of other complementary techniques like interference analysis and monitoring\nor authentication using remote servers for encrypted bands. The fact that the software layer will be the evolution of an existing\nand successful open-source project, GNSS-SDR, will allow GNSS developers and researchers to customize the code of the\nreceiver to tailor it to their own applications or test their algorithms using this flexible receiver module, from reflectometry to\nultra-tight coupled GNSS/INS systems.",
+    "totalCost": "1157736,25",
+    "ecMaxContribution": "996373,75",
+    "coordinator": "ACORDE TECHNOLOGIES SA",
+    "coordinatorCountry": "ES",
+    "participants": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA;TECHNISCHE UNIVERSITAET MUENCHEN;ALPHA CONSULTANTS S.R.L.;DRAXIS ENVIRONMENTAL S.A.;UNIVERSITAT POLITECNICA DE CATALUNYA;STICHTING WAGENINGEN RESEARCH",
+    "participantCountries": "ES;DE;IT;EL;NL",
+    "projectParticipants": {
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 188625
+        },
+        "999796267": {
+            "orgId": "999796267",
+            "orgName": "ACORDE TECHNOLOGIES SA",
+            "ecContrib": 195388
+        },
+        "996151686": {
+            "orgId": "996151686",
+            "orgName": "DRAXIS ENVIRONMENTAL S.A.",
+            "ecContrib": 76125
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 199636
+        },
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 118875
+        },
+        "989408052": {
+            "orgId": "989408052",
+            "orgName": "ALPHA CONSULTANTS S.R.L.",
+            "ecContrib": 105000
+        },
+        "999547365": {
+            "orgId": "999547365",
+            "orgName": "STICHTING WAGENINGEN RESEARCH",
+            "ecContrib": 112725
+        }
+    },
+    "calculatedTotalContribution": 996374
+}

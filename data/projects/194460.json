@@ -1,0 +1,58 @@
+{
+    "rcn": "194460",
+    "acronym": "AnyPLACE",
+    "topics": "LCE-07-2014",
+    "title": "Adaptable Platform for Active Services Exchange",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The AnyPLACE (Adaptable Platform for Active Services Exchange) project intends to develop a modular smart metering platform. The targeted system aims to provide a bidirectional service exchange gateway that enhances the interaction between end users, market representatives, electricity network operators and ICT providers. The proposed solution will allow performing energy remote metering (electricity, gas, heating and cooling), exploiting electricity networks in a more efficient manner and turning end users in active energy markets players through their engagement in demand response programs. Moreover, the utilization of the AnyPLACE platform to actively manage and control electricity networks will also allow mitigating operational problems related with the variability of renewable based generation.\nTo enable the development of an effective modular and flexible platform, an analysis to the different regulatory frameworks, energy/telecommunications standards, potential scenarios of deployment, technical requirements of the solution and technologies currently available will be performed. A modular and plug and play SW and HW platform will be developed in parallel with current and expected regulatory initiatives and standards. A cost-benefit analysis on different possible configurations will be developed, to ensure that appropriate configurations, or even retrofitted solutions, are designed for each context and their cost do not exceed 100Ä.\nA set of prototypes will be built with different combinations of modules to deal with different scenarios of application, which will be tested in a smart grid laboratory environment and in a field trial, providing a real-world assessment of their performance. Near-market prototype versions will be produced, accomplishing the project knowledge and technology transfer to industrial consortium partners as well as general industry and service providers. \nThe AnyPLACE project will also address public acceptance of the designed solutions",
+    "totalCost": "2974263,75",
+    "ecMaxContribution": "2534389,25",
+    "coordinator": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+    "coordinatorCountry": "PT",
+    "participants": "BOSCH TERMOTECNOLOGIA SA;TECHNISCHE UNIVERSITAET WIEN;KREIS LIPPE DER LANDRAT;EFACEC ENERGIA - MAQUINAS E EQUIPAMENTOS ELECTRICOS SA;HOCHSCHULE OSTWESTFALEN-LIPPE;POWER PLUS COMMUNICATIONS AG;JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+    "participantCountries": "PT;AT;DE;BE",
+    "projectParticipants": {
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 263750
+        },
+        "951896891": {
+            "orgId": "951896891",
+            "orgName": "BOSCH TERMOTECNOLOGIA SA",
+            "ecContrib": 218311
+        },
+        "999992304": {
+            "orgId": "999992304",
+            "orgName": "JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+            "ecContrib": 231141
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 460250
+        },
+        "935233649": {
+            "orgId": "935233649",
+            "orgName": "EFACEC ENERGIA - MAQUINAS E EQUIPAMENTOS ELECTRICOS SA",
+            "ecContrib": 385438
+        },
+        "939056807": {
+            "orgId": "939056807",
+            "orgName": "KREIS LIPPE DER LANDRAT",
+            "ecContrib": 278500
+        },
+        "999647663": {
+            "orgId": "999647663",
+            "orgName": "POWER PLUS COMMUNICATIONS AG",
+            "ecContrib": 422625
+        },
+        "999443381": {
+            "orgId": "999443381",
+            "orgName": "HOCHSCHULE OSTWESTFALEN-LIPPE",
+            "ecContrib": 274375
+        }
+    },
+    "calculatedTotalContribution": 2534390
+}

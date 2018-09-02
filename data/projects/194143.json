@@ -1,0 +1,63 @@
+{
+    "rcn": "194143",
+    "acronym": "BEACON",
+    "topics": "ICT-07-2014",
+    "title": "Enabling Federated Cloud Networking",
+    "startDate": "01/02/2015",
+    "endDate": "31/07/2017",
+    "objective": "Cloud federation enables cloud providers to collaborate and share their resources to create a large virtual pool of resources at multiple network locations. Different types of federation architectures for clouds and datacenters have been proposed and implemented (e.g. cloud bursting, cloud brokering or cloud aggregation) with different level of resource coupling and interoperation among the cloud resources, from loosely coupled, typically involving different administrative and legal domains, to tightly coupled  federation, usually spanning multiple datacenters within an organization. In both situations, an effective, agile and secure federation of cloud networking resources is key to impact the deployment of federated applications. \nThe main goal of this project is two-fold: research and develop techniques to federate cloud network resources, and to derive the integrated management cloud layer that enables an efficient and secure deployment of federated cloud applications. Our proposal will deliver a homogeneous virtualization layer, on top of heterogeneous underlying physical networks, computing and storage infrastructures, providing enablement for automated federation of applications across different clouds and datacenters. \nThe project is fully committed to open source software. Cloud networking aspects will be based on OpenDaylight, a collaborative project under The Linux Foundation, and specifically we will leverage and extend the OpenDOVE project with new rich inter-cloud APIs to provision cross-site virtual networks overlays. \nThe new inter-cloud network capabilities will be leveraged by existing open source cloud platforms, OpenNebula and OpenStack, to deploy multi-cloud applications. In particular, different aspects of the platforms will be extended to accommodate the federated cloud networking features like multi-tenancy, federated orchestration of networking, compute and storage management or the placement and elasticity of the multi-cloud applications.",
+    "totalCost": "3570250",
+    "ecMaxContribution": "3570250",
+    "coordinator": "CENTRE D'EXCELLENCE EN TECHNOLOGIES DE L'INFORMATION ET DE LA COMMUNICATION",
+    "coordinatorCountry": "BE",
+    "participants": "LUFTHANSA SYSTEMS GMBH & CO KG;UNIVERSITA DEGLI STUDI DI MESSINA;LUFTHANSA SYSTEMS AG;UNIVERSIDAD COMPLUTENSE DE MADRID;FLEXIANT LIMITED;OPENNEBULA SYSTEMS SL;FLEXIOPS LIMITED;IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+    "participantCountries": "DE;IT;ES;UK;IL",
+    "projectParticipants": {
+        "969580476": {
+            "orgId": "969580476",
+            "orgName": "OPENNEBULA SYSTEMS SL",
+            "ecContrib": 435625
+        },
+        "927065376": {
+            "orgId": "927065376",
+            "orgName": "LUFTHANSA SYSTEMS GMBH & CO KG",
+            "ecContrib": 348275
+        },
+        "986084444": {
+            "orgId": "986084444",
+            "orgName": "FLEXIANT LIMITED",
+            "ecContrib": 0
+        },
+        "999787343": {
+            "orgId": "999787343",
+            "orgName": "IBM ISRAEL - SCIENCE  AND TECHNOLOGY LTD",
+            "ecContrib": 842500
+        },
+        "954831044": {
+            "orgId": "954831044",
+            "orgName": "LUFTHANSA SYSTEMS AG",
+            "ecContrib": 0
+        },
+        "999639127": {
+            "orgId": "999639127",
+            "orgName": "CENTRE D'EXCELLENCE EN TECHNOLOGIES DE L'INFORMATION ET DE LA COMMUNICATION",
+            "ecContrib": 658225
+        },
+        "916061405": {
+            "orgId": "916061405",
+            "orgName": "FLEXIOPS LIMITED",
+            "ecContrib": 502500
+        },
+        "999662601": {
+            "orgId": "999662601",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MESSINA",
+            "ecContrib": 390625
+        },
+        "999874546": {
+            "orgId": "999874546",
+            "orgName": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+            "ecContrib": 392500
+        }
+    },
+    "calculatedTotalContribution": 3570250
+}

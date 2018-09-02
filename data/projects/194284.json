@@ -1,0 +1,63 @@
+{
+    "rcn": "194284",
+    "acronym": "TAPPS",
+    "topics": "ICT-01-2014",
+    "title": "Trusted Apps for open CPS",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Open and smart cyber-physical systems (CPS) are considered to be the next revolution in ICT with enormous economic potential enabling novel business models for integrated services and products. In many areas of CPS devices, there is a strong trend towards open systems, which can be extended during operation instantly adding functionalities on demand. The main goal of the TAPPS (Trusted Apps for open CPS) project is the development of a platform for CPS Apps, which can also access and modify device internals. Therefore, the solution will address all necessary layers from hardware over software to an app store concept always ensuring security and full real-time support for the applications. The extensibility and the pervasive trusted environment of TAPPS are important differentiators that will enable new market extensions to keep pace with user expectations and latest technology. \n\nAs current, rich execution platforms for apps are limited in security, the project will develop a parallel, real-time Trusted Execution Environment (TEE) for highly-trusted CPS Apps. The TEE is located separately from existing the execution environment inside the System Control Units and exploits functionalities provided by the novel hardware-, processor- and network-centric security mechanisms as well as a hypervisor for virtualization. Furthermore, TAPPS will provide and validate an end-to-end solution for development and deployment of trusted apps, including an App Store and a model-based tool chain for trusted application development including verification tools. This multi-level trusted Apps platform and tool chain are matured and validated in health and automotive application domains using industrial, realistic use cases paving the way for future exploitation in further demanding application domains.",
+    "totalCost": "3885484",
+    "ecMaxContribution": "3885484",
+    "coordinator": "FORTISS GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "CRP MECCANICA SRL;VIRTUAL OPEN SYSTEMS;ACTILITY SAS;FONDAZIONE CENTRO SAN RAFFAELE;ENERGICA MOTOR COMPANY S.P.A.;TTTECH COMPUTERTECHNIK AG;STMICROELECTRONICS GRENOBLE 2 SAS;TECHNOLOGICAL EDUCATIONAL INSTITUTE OF CRETE",
+    "participantCountries": "IT;FR;AT;EL",
+    "projectParticipants": {
+        "968966466": {
+            "orgId": "968966466",
+            "orgName": "VIRTUAL OPEN SYSTEMS",
+            "ecContrib": 501250
+        },
+        "953371388": {
+            "orgId": "953371388",
+            "orgName": "FONDAZIONE CENTRO SAN RAFFAELE",
+            "ecContrib": 493125
+        },
+        "927692966": {
+            "orgId": "927692966",
+            "orgName": "ENERGICA MOTOR COMPANY S.P.A.",
+            "ecContrib": 322917
+        },
+        "951886124": {
+            "orgId": "951886124",
+            "orgName": "CRP MECCANICA SRL",
+            "ecContrib": 22708
+        },
+        "997962094": {
+            "orgId": "997962094",
+            "orgName": "STMICROELECTRONICS GRENOBLE 2 SAS",
+            "ecContrib": 450476
+        },
+        "996290008": {
+            "orgId": "996290008",
+            "orgName": "FORTISS GMBH",
+            "ecContrib": 895280
+        },
+        "999440180": {
+            "orgId": "999440180",
+            "orgName": "TECHNOLOGICAL EDUCATIONAL INSTITUTE OF CRETE",
+            "ecContrib": 255462
+        },
+        "999791029": {
+            "orgId": "999791029",
+            "orgName": "TTTECH COMPUTERTECHNIK AG",
+            "ecContrib": 504976
+        },
+        "951614330": {
+            "orgId": "951614330",
+            "orgName": "ACTILITY SAS",
+            "ecContrib": 439290
+        }
+    },
+    "calculatedTotalContribution": 3885484
+}

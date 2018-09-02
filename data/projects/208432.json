@@ -1,0 +1,23 @@
+{
+    "rcn": "208432",
+    "acronym": "CF-Web",
+    "topics": "FETOPEN-04-2016-2017",
+    "title": "ClowdFlows Data and Text Analytics Marketplace on the Web",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2018",
+    "objective": "ClowdFlows is an open source cloud based platform developed within the MUSE FET project that supports the composition and execution of data and text processing workflows on the Web. It has a user-friendly graphical interface running in any browser, and supports big data analytics and text mining to discover patterns and regularities leading to new insights. As such, it fulfils the needs of many companies facing the problem of collecting huge amounts of data but lacking intuitive user-friendly tools to improve competitive market advantage. Data and text processing in ClowdFlows is easily managed in the browser by connecting processing components into an executable workflow executed in the cloud. Once constructed, workflows can be reused to process vast amounts of static data or high volumes of data streams. The web based platform is provided as a hosted service, with the ability for users to install it on a private cloud. In the proposed business model, ClowdFlows serves as a workflow publishing platform: a marketplace of ready-made workflows and data/text processing components, offering components for reuse to companies lacking the expertise and tools to perform needed big data analytics. From the end userís perspective, the lack of internal developmental resources is compensated by crowdsourcing of needed new analytical components within the marketplace. From the developerís perspective, the ClowdFlows marketplace allows the developers of processing components to publish and monetize their work, and to connect to companies in need of easy to use cloud based data mining tools. The CF-Web project will develop a value proposition focused on ease of use for end-users including SMEs, and serve as a marketplace of workflow components and provide revenue sharing for developers, while creating a growing, stable, new business venture based in Slovenia.",
+    "totalCost": "99125",
+    "ecMaxContribution": "99125",
+    "coordinator": "INSTITUT JOZEF STEFAN",
+    "coordinatorCountry": "SI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 99125
+        }
+    },
+    "calculatedTotalContribution": 99125
+}

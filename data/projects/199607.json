@@ -1,0 +1,23 @@
+{
+    "rcn": "199607",
+    "acronym": "CRISPAIR",
+    "topics": "ERC-StG-2015",
+    "title": "Study of the interplay between CRISPR interference and DNA repair pathways towards the development of novel CRISPR tools",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2021",
+    "objective": "CRISPR-Cas loci are the adaptive immune system of archaea and bacteria. They can capture pieces of invading DNA and use this information to degrade target DNA through the action of RNA-guided nucleases. The consequences of DNA cleavage by Cas nucleases, i.e. how breaks are processed and whether they can be repaired, remains to be investigated.  A better understanding of the interplay between DNA repair and CRISPR-Cas is critical both to shed light on the evolution and biology of these fascinating systems and for the development of biotechnological tools based on Cas nucleases. CRISPR systems have indeed become a popular tool to edit Eukaryotic genomes. The strategies employed take advantage of different DNA repair pathways to introduce mutations upon DNA cleavage. In bacteria however, the introduction of breaks by Cas nucleases in the chromosome has been described to kill the cell. Preliminary data indicates that this might not always be the case and that some DNA repair pathways could compete with CRISPR immunity allowing cells to survive. Using a combination of bioinformatics and genetics approaches we will investigate the interplay between CRISPR and DNA repair in bacteria with a particular focus on the widely used CRISPR-Cas9 system. The knowledge gained from this study will then help us develop novel tools for bacterial genome engineering. In particular we will introduce a NHEJ pathway in E.coli making it possible to perform CRISPR knockout screens. Finally using CRISPR libraries and multiplexed targeting, we will generate for the first time all combinations of pair-wise gene knockouts in an organism, a task that for now remains elusive, even for large consortiums and with the use of automation. This will enable to decipher genome-scale genetic interaction networks, an important step for our understanding of bacteria as a system.",
+    "totalCost": "1499763",
+    "ecMaxContribution": "1499763",
+    "coordinator": "INSTITUT PASTEUR",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999993080": {
+            "orgId": "999993080",
+            "orgName": "INSTITUT PASTEUR",
+            "ecContrib": 1499763
+        }
+    },
+    "calculatedTotalContribution": 1499763
+}

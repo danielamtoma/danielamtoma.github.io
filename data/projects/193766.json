@@ -1,0 +1,53 @@
+{
+    "rcn": "193766",
+    "acronym": "GRACeFUL",
+    "topics": "FETPROACT-1-2014",
+    "title": "Global systems Rapid Assessment tools through Constraint FUnctional Languages",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "The making of policies coping with Global Systems is a process that necessarily involves stakeholders from diverse disciplines, each with their own interests, constraints and objectives.  People play a central role in such collective decision making and the quest for solutions to a problem generally intertwines its very specification.  \nSimulators can assist in this process provided they employ adequate high-level modelling to separate the political question from the underlying scientific details. Domain-specific Languages (DSL) embedded in Functional Programming (FP) languages offer a promising way to implement scalable and verifiable simulators. But the use of simulators is essentially a trial-and-error process too tedious for execution in a group session.  A paradigm shift is needed towards active problem solving where stakeholdersí objectives can be taken along from the very beginning. Constraint Programming (CP) has demonstrated to enable such a shift for e.g. managed physical systems like water and power networks. \nThis project lays the base for a DSL aimed at building scalable Rapid Assessment Tools for collective policy making in global systems. This can be achieved through foundational scientific work at different levels: from the high-level, political modelling, adapting the social discipline of Group Model Building (as used in business organizations), through visual forms of CP as well as gamification aspects, down to the needs for a host language, combining CP and FP.  Special emphasis is put on domain-specific constraints, constraint composition, and composable solvers and heuristics.  \nResults are applied and validated for the problem case of Climate-Resilient Urban Design, but the ambition is a general framework applicable to many other systems. The case study is assessed by an external multi-disciplinary Advisory Board of Stakeholders that guides the specification process and evaluates needs and usability of the tools.",
+    "totalCost": "2404943,75",
+    "ecMaxContribution": "2404943",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "STICHTING KATHOLIEKE UNIVERSITEIT;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;ASSOCIATION POUR LA RECHERCHE ET LE DEVELOPPEMENT DES METHODES ET PROCESSUS INDUSTRIELS;STICHTING DELTARES;KATHOLIEKE UNIVERSITEIT LEUVEN;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "NL;DE;FR;BE;SE",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 396455
+        },
+        "999992110": {
+            "orgId": "999992110",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT",
+            "ecContrib": 156225
+        },
+        "999981246": {
+            "orgId": "999981246",
+            "orgName": "ASSOCIATION POUR LA RECHERCHE ET LE DEVELOPPEMENT DES METHODES ET PROCESSUS INDUSTRIELS",
+            "ecContrib": 350650
+        },
+        "999520302": {
+            "orgId": "999520302",
+            "orgName": "STICHTING DELTARES",
+            "ecContrib": 328350
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 454702
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 357311
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 361250
+        }
+    },
+    "calculatedTotalContribution": 2404943
+}

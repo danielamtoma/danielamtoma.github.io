@@ -1,0 +1,73 @@
+{
+    "rcn": "194347",
+    "acronym": "PQCRYPTO",
+    "topics": "ICT-32-2014",
+    "title": "Post-quantum cryptography for long-term security",
+    "startDate": "01/03/2015",
+    "endDate": "28/02/2018",
+    "objective": "Online banking, e-commerce, telemedicine, mobile communication, and cloud computing depend fundamentally on the security of the underlying cryptographic algorithms. Public-key algorithms are particularly crucial since they provide digital signatures and establish secure communication without requiring in-person meetings.\n\nEssentially all applications today are based on RSA or on the discrete-logarithm problem in finite fields or on elliptic curves. Cryptographers optimize parameter choices and implementation details for these systems and build protocols on top of these systems; cryptanalysts fine-tune attacks and establish exact security levels for these systems. Alternative systems are far less visible in research and unheard of in practice.\n\nIt might seem that having three systems offers enough variation, but these systems are all broken as soon as large quantum computers are built. The EU and governments around the world are investing heavily in building quantum computers; society needs to be prepared for the consequences, including cryptanalytic attacks accelerated by these computers. Long-term confidential documents such as patient health-care records and state secrets have to guarantee security for many years, but information encrypted today using RSA or elliptic curves and stored until quantum computers are available will then be as easy to decipher as Enigma-encrypted messages are today.\n\nPQCRYPTO will allow users to switch to post-quantum cryptography: cryptographic systems that are not merely secure for today but that will also remain secure long-term against attacks by quantum computers. PQCRYPTO will design a portfolio of high-security post-quantum public-key systems, and will improve the speed of these systems, adapting to the different performance challenges of mobile devices, the cloud, and the Internet of Things. PQCRYPTO will provide efficient implementations of high-security post-quantum cryptography for a broad spectrum of real-world applications.",
+    "totalCost": "3964791,25",
+    "ecMaxContribution": "3851791,25",
+    "coordinator": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+    "coordinatorCountry": "NL",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;UNIVERSITY OF HAIFA;STICHTING KATHOLIEKE UNIVERSITEIT;BUNDESDRUCKEREI GMBH;NXP SEMICONDUCTORS BELGIUM NV;RUHR-UNIVERSITAET BOCHUM;DANMARKS TEKNISKE UNIVERSITET;TECHNISCHE UNIVERSITAT DARMSTADT;ACADEMIA SINICA;KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "participantCountries": "FR;IL;NL;DE;BE;DK;TW",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 358440
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 708959
+        },
+        "999992110": {
+            "orgId": "999992110",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT",
+            "ecContrib": 352445
+        },
+        "999949236": {
+            "orgId": "999949236",
+            "orgName": "NXP SEMICONDUCTORS BELGIUM NV",
+            "ecContrib": 321460
+        },
+        "999594701": {
+            "orgId": "999594701",
+            "orgName": "ACADEMIA SINICA",
+            "ecContrib": 0
+        },
+        "985212414": {
+            "orgId": "985212414",
+            "orgName": "BUNDESDRUCKEREI GMBH",
+            "ecContrib": 217822
+        },
+        "999988812": {
+            "orgId": "999988812",
+            "orgName": "RUHR-UNIVERSITAET BOCHUM",
+            "ecContrib": 342755
+        },
+        "999897826": {
+            "orgId": "999897826",
+            "orgName": "UNIVERSITY OF HAIFA",
+            "ecContrib": 343392
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 383392
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 463750
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 359375
+        }
+    },
+    "calculatedTotalContribution": 3851790
+}

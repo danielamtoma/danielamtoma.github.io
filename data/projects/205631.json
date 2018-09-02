@@ -1,0 +1,28 @@
+{
+    "rcn": "205631",
+    "acronym": "CRORTET",
+    "topics": "JTI-CS2-2015-CFP02-AIR-01-09",
+    "title": "Experimental characterization of turbulent pressure fluctuations on realistic Contra-Rotating Open Rotor (CROR) 2D airfoil in representative high subsonic Mach number",
+    "startDate": "01/08/2016",
+    "endDate": "31/01/2018",
+    "objective": "Prediction of Open Rotor broadband noise requires  boundary layer statistics that, for the high subsonic relative Mach number encountered by the blades, are not available today in literature. The CRORTET project, fills this lack by preparing and executing a high fidelity wind tunnel test, analyse the results and deliver a well documented data base with test data. \nOne of the major sources of broadband noise is due to the deformation and interaction of the turbulent vortices in the rotor blade boundary layer when they pass over the blade trailing edge. Existing semi-analytical models for the prediction of broadband traling edge noise emission require turbulence statistics of the surface pressures close to the trailing edge, namely: the fluctuation spectrum, convection velocity and spanwise correlation length of the surface pressures. Existing experimental data were made on flat plates, NACA0012 or similar airfoils at low Mach number, No experimental data nor high fidelity simulations are available for the high subsonic Mach conditions encountered by the rotor blades operating in approach (0.5), take-off (0.7) and cruise (0.9) conditions. Applying semi-analytical methods to these conditions, using inappropriate surface pressure statistics shows a shortfall in comparison to open rotor experimental data. It is thought that this is mainly due to the use of low Mach number data on profiles too much different from CROR blade profiles.\nTherefore, in the CRORTET project two airfoils will be specifically designed, manufactured and tested in the DNW-TWG wind tunnel at full scale Reynolds number (representative for a front row CROR blade at 75% blade span) and in the appropriate Ma range. One of those airfoils is a reference airfoil (e.g. a NACA0012 or similar), the other airfoil will be specifically designed to represent a CROR blade. The main goal of the project is to create a high quality data base for future high fidelity numerical computation of broadband noise emission.",
+    "totalCost": "460500",
+    "ecMaxContribution": "460500",
+    "coordinator": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+    "coordinatorCountry": "NL",
+    "participants": "TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 70000
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 390500
+        }
+    },
+    "calculatedTotalContribution": 460500
+}

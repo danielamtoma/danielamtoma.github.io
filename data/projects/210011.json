@@ -1,0 +1,43 @@
+{
+    "rcn": "210011",
+    "acronym": "IoBee",
+    "topics": "FTIPilot-01-2016",
+    "title": "Beehive health IoT application to fight Honey Bee Colony Mortality",
+    "startDate": "01/11/2017",
+    "endDate": "30/04/2020",
+    "objective": "For the past 15 years, European beekeepers have been reporting weakening bee numbers and colony losses. The situation\nis worsening as according to a recent study of the European Union Reference Laboratory for honeybee health, some\ncountries are losing up to a third of their colonies every year. Honey bees are essential in the pollination of many agricultural\ncrops and concerns have been raised about the ability to maintain the pollination services required to ensure pollinator\ndependent food production. Nowadays European citizens consider the decline in bee numbers to be the most serious\nenvironmental issue ñ more than climate change.\nThe IoBee consortium wants to disrupt the beekeeping market by reducing colony losses by at least 50%! Through this\nproject, we aim to pilot and commercialise a new Internet of Things (IoT) sensor application that can automatically assess\nthe threat status to a colony. The system will wirelessly transmit results to a cloud server, making field data available for\nrunning prediction models, perform risk assessments, issue warnings and make historical analysis using a SDSS- Spatial\nDecision Support System. This will allow beekeepers to be active participants in colony surveillance programmes with\nunprecedented accuracy and responsiveness, and as a result, unhealthy or threatened colonies will be remotely detected\nearlier with greater precision, saving millions of Euros in potential losses.\nMany systems to monitor beehives already exist in the market. However there are 3 main gaps in the SoA:\n1) No solution can i) ìfingerprintî individual bees and determine if they are healthy or have a problem (disease,\npoisoning, etc.), ii) identify bee castes, and iii) identify pest insects that attack hives.\n2) No solution offers IoT capability, nor follows standards that could enable establishing the first interoperable\nsurveillance network in Europe.\n3) No solution has a SDSS, which is paramount to an advanced EU surveillance system",
+    "totalCost": "1834351,25",
+    "ecMaxContribution": "1436178",
+    "coordinator": "IRIDEON SL",
+    "coordinatorCountry": "ES",
+    "participants": "ARNIA LIMITED;AVIA-GIS NV;BEE LIFE EUROPEAN BEEKEEPING COORDINATION;TECHNOLOGICAL EDUCATIONAL INSTITUTE OF CRETE",
+    "participantCountries": "UK;BE;EL",
+    "projectParticipants": {
+        "998190238": {
+            "orgId": "998190238",
+            "orgName": "AVIA-GIS NV",
+            "ecContrib": 328562
+        },
+        "935861045": {
+            "orgId": "935861045",
+            "orgName": "IRIDEON SL",
+            "ecContrib": 396900
+        },
+        "926049689": {
+            "orgId": "926049689",
+            "orgName": "BEE LIFE EUROPEAN BEEKEEPING COORDINATION",
+            "ecContrib": 205600
+        },
+        "999440180": {
+            "orgId": "999440180",
+            "orgName": "TECHNOLOGICAL EDUCATIONAL INSTITUTE OF CRETE",
+            "ecContrib": 301510
+        },
+        "952820913": {
+            "orgId": "952820913",
+            "orgName": "ARNIA LIMITED",
+            "ecContrib": 203606
+        }
+    },
+    "calculatedTotalContribution": 1436178
+}

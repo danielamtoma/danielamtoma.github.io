@@ -1,0 +1,43 @@
+{
+    "rcn": "212905",
+    "acronym": "BeyondPlanck",
+    "topics": "COMPET-4-2017",
+    "title": "Beyond Planck -- delivering state-of-the-art observations of the microwave sky from 30 to 70 GHz for the next decade",
+    "startDate": "01/03/2018",
+    "endDate": "29/02/2020",
+    "objective": "The detection of primordial gravity waves created during the Big Bang ranks among the greatest potential intellectual achievements in modern science. During the last few decades, the instrumental progress necessary to achieve this has been nothing short of breath taking. However, from the latest ultra-sensitive experiments such as BICEP2 and Planck, it is clear that instrumental sensitivity alone will not be sufficient to make a robust detection of gravitational waves. Contamination in the form of astrophysical radiation from the Milky Way, for instance thermal dust and synchrotron radiation, obscures the cosmological signal by orders of magnitude. Even more critically are second-order interactions between this radiation and the instrument characterization itself that lead to a highly non-linear and complicated problem.\n\nWe propose a ground-breaking solution to this problem that allows for joint estimation of cosmological parameters, astrophysical components, and instrument specifications. The engine of this method is called Gibbs sampling, which we have already applied extremely successfully to basic CMB component separation. The new and critical step is to apply this method to raw time-ordered observations observed directly by the instrument, as opposed to pre-processed frequency maps. While representing a ~100-fold increase in input data volume, this step is unavoidable in order to break through the current foreground-induced systematics floor. We will apply this method to the Planck LFI observations, and deliver a new set of legacy Planck LFI maps that are robust with respect to instrumental systematics and astrophysical foregrounds. We will also combine these data with similar observations from WMAP (23-94 GHz) and C-BASS (5 GHz), to produce the worldís best measurements of polarized synchrotron emission at CMB frequencies. These data products and mehods will play a central role in designing and optimizing future inflationary gravitational wave experiments.",
+    "totalCost": "1659795",
+    "ecMaxContribution": "1499397,5",
+    "coordinator": "UNIVERSITETET I OSLO",
+    "coordinatorCountry": "NO",
+    "participants": "HELSINGIN YLIOPISTO;ISTITUTO NAZIONALE DI ASTROFISICA;UNIVERSITA DEGLI STUDI DI MILANO;PLANETEK HELLAS ETAIREIA PERIORISMENIS EFTHYNIS YPIRESIES CHARTOGRAFISIS MESO DORYFOROU",
+    "participantCountries": "FI;IT;EL",
+    "projectParticipants": {
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 617812
+        },
+        "999868920": {
+            "orgId": "999868920",
+            "orgName": "ISTITUTO NAZIONALE DI ASTROFISICA",
+            "ecContrib": 234610
+        },
+        "999994535": {
+            "orgId": "999994535",
+            "orgName": "HELSINGIN YLIOPISTO",
+            "ecContrib": 85225
+        },
+        "998526343": {
+            "orgId": "998526343",
+            "orgName": "PLANETEK HELLAS ETAIREIA PERIORISMENIS EFTHYNIS YPIRESIES CHARTOGRAFISIS MESO DORYFOROU",
+            "ecContrib": 300000
+        },
+        "999995796": {
+            "orgId": "999995796",
+            "orgName": "UNIVERSITA DEGLI STUDI DI MILANO",
+            "ecContrib": 261750
+        }
+    },
+    "calculatedTotalContribution": 1499397
+}

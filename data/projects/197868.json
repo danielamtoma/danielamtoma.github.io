@@ -1,0 +1,23 @@
+{
+    "rcn": "197868",
+    "acronym": "QUTE",
+    "topics": "ERC-CoG-2014",
+    "title": "Quantum Tensor Networks and Entanglement",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "One of the major challenges in theoretical physics is the development of systematic methods for describing and simulating quantum many body systems with strong interactions. Given the huge experimental progress and technological potential in manipulating strongly correlated atoms and electrons, there is a pressing need for such a better theory.\nThe study of quantum entanglement holds the promise of being a game changer for this question. By mapping out the entanglement structure of the low-energy wavefunctions of quantum spin systems on the lattice, the prototypical example of strongly correlated systems, we have found that the associated wavefunctions can be very well modeled by a novel class of variational wavefunctions, called tensor network states. Tensor networks are changing the ways in which strongly correlated systems can be simulated, classified and understood: as opposed to the usual many body methods, these tensor networks are generic and describe non-perturbative effects in a very natural way.\nThe goal of this proposal is to advance the scope and use of tensor networks in several directions, both from the numerical and theoretical point of view. We plan to study the differential geometric character of the manifold of tensor network states and the associated nonlinear differential equations of motion on it, develop post tensor network methods in the form of effective theories on top of the tensor network vacuum, study tensor networks in the context of lattice gauge theories and topologically ordered systems, and investigate the novel insights that tensor networks are providing to the renormalization group and the holographic principle.\nColloquially, we believe that tensor networks and the theory of entanglement provide a basic new vocabulary for describing strongly correlated quantum systems, and the main goal of this proposal is to develop the syntax and semantics of that new language.",
+    "totalCost": "1927500",
+    "ecMaxContribution": "1927500",
+    "coordinator": "UNIVERSITEIT GENT",
+    "coordinatorCountry": "BE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 1927500
+        }
+    },
+    "calculatedTotalContribution": 1927500
+}

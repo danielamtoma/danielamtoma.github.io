@@ -1,0 +1,17 @@
+{
+    "rcn": "216312",
+    "acronym": "Sage2",
+    "topics": "FETHPC-02-2017",
+    "title": "Percipient Storage for Exascale Data Centric Computing2",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2021",
+    "objective": "The landscape for High Performance Computing is changing with the proliferation of enormous volumes of data created by scientific instruments and sensors, in addition to data from simulations. This data needs to be stored, processed and analysed, and existing storage system technologies in the realm of extreme computing need to be adapted to achieve reasonable efficiency in achieving higher scientific throughput. We started on the journey to address this problem with the SAGE project. The HPC use cases and the technology ecosystem is now further evolving and there are new requirements and innovations that are brought to the forefront.  It is extremely critical to address them today without ìreinventing the wheelî leveraging existing initiatives and know-how to build the pieces of the Exascale puzzle as quickly and efficiently as we can.\nThe SAGE paradigm already provides a basic framework to address the extreme scale data aspects of High Performance Computing on the path to Exascale.  Sage2 (Percipient StorAGe for Exascale Data Centric Computing 2) intends to validate a next generation storage system building on top of the already existing SAGE platform to address new use case requirements in the areas of extreme scale computing scientific workflows and AI/deep learning leveraging the latest developments in storage infrastructure software and storage technology ecosystem.\nSage2 aims to provide significantly enhanced scientific throughput, improved scalability, and, time & energy to solution for the use cases at scale. Sage2 will also dramatically increase the productivity of developers and users of these systems.\nThis proposal is aligned to FETHPC-02 - 2017:part (c). Sage2 provides a highly performant and resilient, QoS capable multi tiered storage system, with data layouts across the tiers managed by the Mero Object Store, which is capable of handling in-transit/in-situ processing of data within the storage system, accessible through the Clovis API.",
+    "totalCost": "3997117,5",
+    "ecMaxContribution": "3997117,5",
+    "coordinator": "SEAGATE SYSTEMS UK LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "KUNGLIGA TEKNISKA HOEGSKOLAN;FORSCHUNGSZENTRUM JULICH GMBH;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;UNITED KINGDOM ATOMIC ENERGY AUTHORITY;ARM LIMITED;BULL SAS;KITWARE SAS;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "SE;DE;FR;UK",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

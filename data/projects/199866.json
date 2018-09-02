@@ -1,0 +1,78 @@
+{
+    "rcn": "199866",
+    "acronym": "PETMEM",
+    "topics": "ICT-25-2015",
+    "title": "Piezoelectronic Transduction Memory Device",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "Computer clock speeds have not increased since 2003, creating a challenge to invent a successor to CMOS technology able to resume performance improvement. The key requirements for a viable alternative are scalability to nanoscale dimensions ñ following Mooreís Law ñ and simultaneous reduction of line voltage in order to limit switching power. Achieving these two aims for both transistors and memory allows clock speed to again increase with dimensional scaling, a result that would have great impact across the IT industry.\nWe propose to demonstrate an entirely new low-voltage, memory element that makes use of internal transduction in which a voltage state external to the device is converted to an internal acoustic signal that drives an insulator-metal transition. Modelling based on the properties of known materials at device dimensions on the 15 nm scale predicts that this mechanism enables device operation at voltages an order of magnitude lower than CMOS technology while achieving 10GHz operating speed; power is thus reduced two orders.",
+    "totalCost": "3998461,25",
+    "ecMaxContribution": "3340621",
+    "coordinator": "THE BIO NANO CENTRE LIMITED LBG",
+    "coordinatorCountry": "UK",
+    "participants": "NPL MANAGEMENT LIMITED;DCA-INSTRUMENTS OY;UNIVERSITEIT GENT;STIFTELSEN SINTEF;aixACCT Systems GmbH;SOLMATES BV;IBM RESEARCH GMBH;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;ELECTROSCIENCES LTD;THE UNIVERSITY OF EDINBURGH;EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+    "participantCountries": "UK;FI;BE;NO;DE;NL;CH",
+    "projectParticipants": {
+        "973140085": {
+            "orgId": "973140085",
+            "orgName": "THE BIO NANO CENTRE LIMITED LBG",
+            "ecContrib": 532808
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 439488
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 0
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 648060
+        },
+        "996694983": {
+            "orgId": "996694983",
+            "orgName": "aixACCT Systems GmbH",
+            "ecContrib": 338250
+        },
+        "927281783": {
+            "orgId": "927281783",
+            "orgName": "ELECTROSCIENCES LTD",
+            "ecContrib": 55000
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 0
+        },
+        "999986096": {
+            "orgId": "999986096",
+            "orgName": "UNIVERSITEIT GENT",
+            "ecContrib": 206750
+        },
+        "998782035": {
+            "orgId": "998782035",
+            "orgName": "SOLMATES BV",
+            "ecContrib": 374312
+        },
+        "999907138": {
+            "orgId": "999907138",
+            "orgName": "EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+            "ecContrib": 0
+        },
+        "999920330": {
+            "orgId": "999920330",
+            "orgName": "NPL MANAGEMENT LIMITED",
+            "ecContrib": 348609
+        },
+        "973296449": {
+            "orgId": "973296449",
+            "orgName": "DCA-INSTRUMENTS OY",
+            "ecContrib": 397344
+        }
+    },
+    "calculatedTotalContribution": 3340621
+}

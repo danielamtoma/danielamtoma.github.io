@@ -1,0 +1,268 @@
+{
+    "rcn": "198079",
+    "acronym": "MANTIS",
+    "topics": "ECSEL-01-2014",
+    "title": "Cyber Physical System based Proactive Collaborative Maintenance",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "The overall concept of MANTIS is to provide a proactive maintenance service platform architecture based on Cyber Physical Systems that allows to estimate future performance, to predict and prevent imminent failures and to schedule proactive maintenance. Maintenance is no longer a necessary evil that costs what it costs, but an important function that creates additional value in the business process as well as new business models with a stronger service orientation. Physical systems (e.g. industrial machines, vehicles, renewable energy assets) and the environment they operate in, are monitored continuously by a broad and diverse range of intelligent sensors, resulting in massive amounts of data that characterise the usage history, operational condition, location, movement and other physical properties of those systems. These systems form part of a larger network of heterogeneous and collaborative systems (e.g. vehicle fleets or photovoltaic and windmill parks) connected via robust communication mechanisms able to operate in challenging environments. MANTIS consists of distributed processing chains that efficiently transform raw data into knowledge while minimising the need for bandwidth. Sophisticated distributed sensing and decision making functions are performed at different levels in a collaborative way, ranging from local nodes to locally optimise performance, bandwidth and maintenance; to cloud-based platforms that integrate information from diverse systems and execute distributed processing and analytics algorithms for global decision making. The research addressed in MANTIS will contribute to companies' assets availability, competitiveness, growth and sustainability. Use cases will be the testing ground for the innovative functionalities of the proactive maintenance service platform architecture and for its future exploitation in the industrial world. Results of MANTIS can be utilised directly in several industry areas and different fields of maintenanance.",
+    "totalCost": "30138507,25",
+    "ecMaxContribution": "9791974,05",
+    "coordinator": "MONDRAGON GOI ESKOLA POLITEKNIKOA JOSE MARIA ARIZMENDIARRIETA S COOP",
+    "coordinatorCountry": "ES",
+    "participants": "STILL GMBH;SATASERVICE OY;SIRRIS HET COLLECTIEF CENTRUM VAN DE TECHNOLOGISCHE INDUSTRIE;ANSALDO STS S.p.A.;AITIA INTERNATIONAL INFORMATIKAI ZARTKORUEN MUKODO RT;AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH;NOME OY;ROBERT BOSCH GMBH;FUNDACION TEKNIKER;MONDRAGON SISTEMAS DE INFORMACION SOCIEDAD COOPERATIVA;VESTAS WIND SYSTEMS A/S;INSTITUT JOZEF STEFAN;XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO;MONDRAGON CORPORACION COOPERATIVA SCOOP;Teknologian tutkimuskeskus VTT Oy;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INNOVATIVE TECHNOLOGY AND SCIENCE LIMITED - INNOTECUK;INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA;SOLTEQ OYJ;DANFOSS A/S;Fortum Power and Heat Oy;BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM;PHILIPS CONSUMER LIFESTYLE B.V.;WAPICE OY;INSTITUTO SUPERIOR DE ENGENHARIA DO PORTO;SCIENCE AND TECHNOLOGY BV;HOTTINGER BALDWIN MESSTECHNIK GMBH;UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO;ILIAS SOLUTIONS NV;NEOGRID TECHNOLOGIES APS;XTEL WIRELESS APS;ADIRA METAL FORMING SOLUTIONS SA;GOIZPER S. COOP;3E NV;PHILIPS ELECTRONICS NEDERLAND B.V.;LAPIN AMMATTIKORKEAKOULU OY;ATLAS COPCO AIRPOWER NV;RIJKSUNIVERSITEIT GRONINGEN;PHILIPS MEDICAL SYSTEMS NEDERLAND BV;TECHNISCHE UNIVERSITEIT EINDHOVEN;M2XPERT GMBH & CO KG;DETH LOGISTIK APS;FAGOR ARRASATE S COOP;ACCIONA CONSTRUCCION SA;AALBORG UNIVERSITET;LIEBHERR-HYDRAULIKBAGGER GMBH;CONSORZIO INTERUNIVERSITARIO NAZIONALE PER L'INFORMATICA;HG ELECTRIC AS;IKERLAN S COOP",
+    "participantCountries": "DE;FI;BE;IT;HU;AT;ES;DK;SI;UK;PT;NL",
+    "projectParticipants": {
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 246090
+        },
+        "999581315": {
+            "orgId": "999581315",
+            "orgName": "IKERLAN S COOP",
+            "ecContrib": 243762
+        },
+        "936552461": {
+            "orgId": "936552461",
+            "orgName": "NOME OY",
+            "ecContrib": 102294
+        },
+        "999773375": {
+            "orgId": "999773375",
+            "orgName": "XLAB RAZVOJ PROGRAMSKE OPREME IN SVETOVANJE DOO",
+            "ecContrib": 145925
+        },
+        "948849539": {
+            "orgId": "948849539",
+            "orgName": "LAPIN AMMATTIKORKEAKOULU OY",
+            "ecContrib": 125092
+        },
+        "998134075": {
+            "orgId": "998134075",
+            "orgName": "SIRRIS HET COLLECTIEF CENTRUM VAN DE TECHNOLOGISCHE INDUSTRIE",
+            "ecContrib": 109873
+        },
+        "997393577": {
+            "orgId": "997393577",
+            "orgName": "AITIA INTERNATIONAL INFORMATIKAI ZARTKORUEN MUKODO RT",
+            "ecContrib": 106031
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 298663
+        },
+        "999608766": {
+            "orgId": "999608766",
+            "orgName": "PHILIPS MEDICAL SYSTEMS NEDERLAND BV",
+            "ecContrib": 1202012
+        },
+        "953024419": {
+            "orgId": "953024419",
+            "orgName": "NEOGRID TECHNOLOGIES APS",
+            "ecContrib": 66625
+        },
+        "999959227": {
+            "orgId": "999959227",
+            "orgName": "FUNDACION TEKNIKER",
+            "ecContrib": 162171
+        },
+        "999914316": {
+            "orgId": "999914316",
+            "orgName": "DANFOSS A/S",
+            "ecContrib": 87750
+        },
+        "999661437": {
+            "orgId": "999661437",
+            "orgName": "CONSORZIO INTERUNIVERSITARIO NAZIONALE PER L'INFORMATICA",
+            "ecContrib": 146860
+        },
+        "999633889": {
+            "orgId": "999633889",
+            "orgName": "UNINOVA-INSTITUTO DE DESENVOLVIMENTO DE NOVAS TECNOLOGIAS-ASSOCIACAO",
+            "ecContrib": 97110
+        },
+        "999812854": {
+            "orgId": "999812854",
+            "orgName": "ACCIONA CONSTRUCCION SA",
+            "ecContrib": 180944
+        },
+        "999513706": {
+            "orgId": "999513706",
+            "orgName": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
+            "ecContrib": 96821
+        },
+        "989737949": {
+            "orgId": "989737949",
+            "orgName": "FAGOR ARRASATE S COOP",
+            "ecContrib": 263228
+        },
+        "999778807": {
+            "orgId": "999778807",
+            "orgName": "PHILIPS CONSUMER LIFESTYLE B.V.",
+            "ecContrib": 493225
+        },
+        "937272007": {
+            "orgId": "937272007",
+            "orgName": "ATLAS COPCO AIRPOWER NV",
+            "ecContrib": 468147
+        },
+        "999642813": {
+            "orgId": "999642813",
+            "orgName": "INSTITUTO SUPERIOR DE ENGENHARIA DO PORTO",
+            "ecContrib": 97496
+        },
+        "936423839": {
+            "orgId": "936423839",
+            "orgName": "M2XPERT GMBH & CO KG",
+            "ecContrib": 319383
+        },
+        "999904228": {
+            "orgId": "999904228",
+            "orgName": "BUDAPESTI MUSZAKI ES GAZDASAGTUDOMANYI EGYETEM",
+            "ecContrib": 106031
+        },
+        "955000406": {
+            "orgId": "955000406",
+            "orgName": "MONDRAGON CORPORACION COOPERATIVA SCOOP",
+            "ecContrib": 176719
+        },
+        "937067240": {
+            "orgId": "937067240",
+            "orgName": "ADIRA METAL FORMING SOLUTIONS SA",
+            "ecContrib": 97500
+        },
+        "952872517": {
+            "orgId": "952872517",
+            "orgName": "ILIAS SOLUTIONS NV",
+            "ecContrib": 298350
+        },
+        "937130484": {
+            "orgId": "937130484",
+            "orgName": "HOTTINGER BALDWIN MESSTECHNIK GMBH",
+            "ecContrib": 38675
+        },
+        "936341971": {
+            "orgId": "936341971",
+            "orgName": "SOLTEQ OYJ",
+            "ecContrib": 22189
+        },
+        "928219870": {
+            "orgId": "928219870",
+            "orgName": "LIEBHERR-HYDRAULIKBAGGER GMBH",
+            "ecContrib": 119967
+        },
+        "990136037": {
+            "orgId": "990136037",
+            "orgName": "INNOVATIVE TECHNOLOGY AND SCIENCE LIMITED - INNOTECUK",
+            "ecContrib": 186642
+        },
+        "999991625": {
+            "orgId": "999991625",
+            "orgName": "PHILIPS ELECTRONICS NEDERLAND B.V.",
+            "ecContrib": 277445
+        },
+        "918574287": {
+            "orgId": "918574287",
+            "orgName": "SATASERVICE OY",
+            "ecContrib": 124858
+        },
+        "916086043": {
+            "orgId": "916086043",
+            "orgName": "XTEL WIRELESS APS",
+            "ecContrib": 66625
+        },
+        "999989782": {
+            "orgId": "999989782",
+            "orgName": "RIJKSUNIVERSITEIT GRONINGEN",
+            "ecContrib": 146316
+        },
+        "997365932": {
+            "orgId": "997365932",
+            "orgName": "WAPICE OY",
+            "ecContrib": 102891
+        },
+        "999908787": {
+            "orgId": "999908787",
+            "orgName": "ROBERT BOSCH GMBH",
+            "ecContrib": 362403
+        },
+        "999855146": {
+            "orgId": "999855146",
+            "orgName": "MONDRAGON GOI ESKOLA POLITEKNIKOA JOSE MARIA ARIZMENDIARRIETA S COOP",
+            "ecContrib": 344844
+        },
+        "962828306": {
+            "orgId": "962828306",
+            "orgName": "Fortum Power and Heat Oy",
+            "ecContrib": 126680
+        },
+        "998801823": {
+            "orgId": "998801823",
+            "orgName": "ANSALDO STS S.p.A.",
+            "ecContrib": 240603
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 214364
+        },
+        "932129455": {
+            "orgId": "932129455",
+            "orgName": "HG ELECTRIC AS",
+            "ecContrib": 0
+        },
+        "999584128": {
+            "orgId": "999584128",
+            "orgName": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "ecContrib": 19170
+        },
+        "999971837": {
+            "orgId": "999971837",
+            "orgName": "INSTITUT JOZEF STEFAN",
+            "ecContrib": 258375
+        },
+        "999656296": {
+            "orgId": "999656296",
+            "orgName": "VESTAS WIND SYSTEMS A/S",
+            "ecContrib": 84094
+        },
+        "985766478": {
+            "orgId": "985766478",
+            "orgName": "GOIZPER S. COOP",
+            "ecContrib": 229551
+        },
+        "996551326": {
+            "orgId": "996551326",
+            "orgName": "MONDRAGON SISTEMAS DE INFORMACION SOCIEDAD COOPERATIVA",
+            "ecContrib": 168188
+        },
+        "990406085": {
+            "orgId": "990406085",
+            "orgName": "SCIENCE AND TECHNOLOGY BV",
+            "ecContrib": 28963
+        },
+        "999904034": {
+            "orgId": "999904034",
+            "orgName": "AALBORG UNIVERSITET",
+            "ecContrib": 243344
+        },
+        "953524066": {
+            "orgId": "953524066",
+            "orgName": "STILL GMBH",
+            "ecContrib": 339750
+        },
+        "928574211": {
+            "orgId": "928574211",
+            "orgName": "DETH LOGISTIK APS",
+            "ecContrib": 0
+        },
+        "998314786": {
+            "orgId": "998314786",
+            "orgName": "3E NV",
+            "ecContrib": 307937
+        }
+    },
+    "calculatedTotalContribution": 9791976
+}

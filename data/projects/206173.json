@@ -1,0 +1,63 @@
+{
+    "rcn": "206173",
+    "acronym": "WaterSpy",
+    "topics": "ICT-29-2016",
+    "title": "High sensitivity, portable photonic device for pervasive water quality analysis",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "Pervasive and on-line water quality monitoring data is critical for detecting environmental pollution. However, itís not easy to gather such data, at least not for all contaminants. Currently, water utilities rely heavily on frequent sampling and laboratory analysis in order to acquire this information.\nFor this situation to be improved, portable and high-performance devices for pervasive water quality monitoring are required. Towards this end, there has been growing interest in expanding spectroscopic methods beyond the 2?m range of the infrared spectrum. That region of the spectrum is home to many vibrational & rotational absorptions of compounds related to water quality. Unfortunately, water itself is a strong absorber of infrared light. Thus, such methods were restricted to laboratory settings until now.\nWaterSpy addresses this challenge by developing water quality detection photonics technology suitable for inline, field measurements, operating in the 6-10 ?m region. The solution is based on the combined use of advanced, tuneable Quantum Cascade Lasers and fibre-coupled, fast & sensitive Higher Operation Temperature photodetectors. Together with these new components, optimized laser driving and detector electronics as well as laser modulation concepts will be developed. Attenuated total reflectance spectroscopy will be used to give rise to the biochemical profile of the surface chemistry of the sample. Targeted analytes will be specific heterotrophic bacterial cells. Several novel techniques are employed in order to increase the SNR, including antibodies capable of binding the targeted analytes and a novel pre-concentration method. WaterSpy technology will be integrated, for validation purposes, to a commercially successful water quality monitoring platform, in the form of a portable device add-on. WaterSpy will be used in the field for the analysis of critical points of water distribution networks. This will be demonstrated in two different demo sites in Italy",
+    "totalCost": "4133301,25",
+    "ecMaxContribution": "3049206,74",
+    "coordinator": "CY.R.I.C CYPRUS RESEARCH AND INNOVATION CENTER LTD",
+    "coordinatorCountry": "CY",
+    "participants": "TECHNISCHE UNIVERSITAET WIEN;FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG;A.U.G SIGNALS HELLAS TECHNOLOGY DEVELOPMENTS AND APPLICATIONS HELLAS SINGLE MEMBER PRIVATE COMPANY;NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA;CONSIGLIO NAZIONALE DELLE RICERCHE;VIGO SYSTEM S.A.;IREN SPA;ALPES LASERS SA",
+    "participantCountries": "AT;DE;EL;IT;PL;CH",
+    "projectParticipants": {
+        "952429809": {
+            "orgId": "952429809",
+            "orgName": "CY.R.I.C CYPRUS RESEARCH AND INNOVATION CENTER LTD",
+            "ecContrib": 419688
+        },
+        "999979888": {
+            "orgId": "999979888",
+            "orgName": "TECHNISCHE UNIVERSITAET WIEN",
+            "ecContrib": 574297
+        },
+        "999995408": {
+            "orgId": "999995408",
+            "orgName": "FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN NUERNBERG",
+            "ecContrib": 395006
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 386250
+        },
+        "999659303": {
+            "orgId": "999659303",
+            "orgName": "VIGO SYSTEM S.A.",
+            "ecContrib": 416250
+        },
+        "999978142": {
+            "orgId": "999978142",
+            "orgName": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS - NTUA",
+            "ecContrib": 342500
+        },
+        "926013411": {
+            "orgId": "926013411",
+            "orgName": "A.U.G SIGNALS HELLAS TECHNOLOGY DEVELOPMENTS AND APPLICATIONS HELLAS SINGLE MEMBER PRIVATE COMPANY",
+            "ecContrib": 325216
+        },
+        "974020360": {
+            "orgId": "974020360",
+            "orgName": "IREN SPA",
+            "ecContrib": 190000
+        },
+        "995146087": {
+            "orgId": "995146087",
+            "orgName": "ALPES LASERS SA",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3049207
+}

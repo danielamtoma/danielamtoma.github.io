@@ -1,0 +1,73 @@
+{
+    "rcn": "199613",
+    "acronym": "VINEYARD",
+    "topics": "ICT-04-2015",
+    "title": "Versatile Integrated Accelerator-based Heterogeneous Data Centres",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "VINEYARD will develop an integrated platform for energy-efficient data centres based on new servers with novel, coarse-grain and fine-grain, programmable hardware accelerators. It will, also, build a high-level programming framework for allowing end-users to seamlessly utilize these accelerators in heterogeneous computing systems by using typical data-centre programming frameworks (e.g. MapReduce, Storm, Spark, etc.). \nVINEYARD will develop two types of energy-efficient servers integrating two novel hardware accelerator types: coarse-grain programmable dataflow engines and fine-grain all-programmable FPGAs that accommodate multiple ARM cores. The former will be suitable for data centre applications that can be represented in dataflow graphs while the latter will be used for accelerating applications that need tight communication between the processor and the hardware accelerators. Both types of programmable accelerators will be customized based on application requirements, resulting in higher performance and significantly reduced energy budgets.\nVINEYARD will additionally develop a new programming framework and the required system software to hide the programming complexity of the resulting heterogeneous system based on the hardware accelerators. This programming framework will also allow the hardware accelerators to be swapped in and out of the heterogeneous infrastructure so as to offer efficient energy use. VINEYARD will foster the expansion of the soft-IP cores industry, currently limited in the embedded systems, to in data centre market.\nThe VINEYARD consortium has strong industrial foundations, and covers the whole value chain in the data-centre ecosystem; from the data-centre vendors up to the data-centre application programmers. VINEYARD plans to demonstrate the advantages of its approach in three real use-cases a) a bioinformatics application for high-accuracy brain modelling, b) two critical financial applications and c) a big-data analysis application.",
+    "totalCost": "6283895",
+    "ecMaxContribution": "6283895",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "GLOBAZ, S.A.;HELLENIC EXCHANGES-ATHENS STOCK EXCHANGE SA;NEUROCOM LUXEMBOURG SA;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;THE QUEEN'S UNIVERSITY OF BELFAST;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;BULL SAS;NEURASMUS BV;MAXELER TECHNOLOGIES LIMITED;LEANXCALE SL",
+    "participantCountries": "PT;EL;LU;UK;FR;NL;ES",
+    "projectParticipants": {
+        "929779145": {
+            "orgId": "929779145",
+            "orgName": "LEANXCALE SL",
+            "ecContrib": 531625
+        },
+        "969840436": {
+            "orgId": "969840436",
+            "orgName": "HELLENIC EXCHANGES-ATHENS STOCK EXCHANGE SA",
+            "ecContrib": 197500
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 651250
+        },
+        "951463592": {
+            "orgId": "951463592",
+            "orgName": "NEUROCOM LUXEMBOURG SA",
+            "ecContrib": 448125
+        },
+        "968922816": {
+            "orgId": "968922816",
+            "orgName": "MAXELER TECHNOLOGIES LIMITED",
+            "ecContrib": 903750
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 640500
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 399270
+        },
+        "983211983": {
+            "orgId": "983211983",
+            "orgName": "GLOBAZ, S.A.",
+            "ecContrib": 244375
+        },
+        "996058081": {
+            "orgId": "996058081",
+            "orgName": "BULL SAS",
+            "ecContrib": 1011550
+        },
+        "999992013": {
+            "orgId": "999992013",
+            "orgName": "THE QUEEN'S UNIVERSITY OF BELFAST",
+            "ecContrib": 663625
+        },
+        "968992268": {
+            "orgId": "968992268",
+            "orgName": "NEURASMUS BV",
+            "ecContrib": 592325
+        }
+    },
+    "calculatedTotalContribution": 6283895
+}

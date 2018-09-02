@@ -1,0 +1,78 @@
+{
+    "rcn": "203302",
+    "acronym": "SafeShore",
+    "topics": "BES-02-2015",
+    "title": "System  for  detection of  Threat Agents in  Maritime Border  Environment",
+    "startDate": "01/05/2016",
+    "endDate": "31/10/2018",
+    "objective": "The main objective of the SafeShore project is to cover existing gaps in coastal border surveillance, increasing internal security by preventing cross-border crime such trafficking in human beings and the smuggling of drugs. It is designed to be integrated with existing systems and create a continuous detection line along the border. One of the treats to the maritime coast are small Remotely Piloted Aircraft Systems (RPAS) which can carry explosives or which can be used for smuggling drugs, boats and human intruders on the sea shore. \n\nThe SafeShore core solution for detecting small targets that are flying at low attitude is to use a 3D LIDAR that scans the sky and creates above the protected area a virtual dome shield. SafeShore will also integrate the 3D LIDAR with passive acoustic sensors, passive radio detection and video analytics.\n\nOne of SafeShore specific objectives will be to cover 1500-m1800m along the coastal border. This will be done with 3 mobile platforms. Each one of those will cover itself with a dome-shaped virtual detection shield with a radius of about 250m to 300m. There will be approximately 50 meters overlapping between the platforms. The overlapping will create a continuous  detection shield along the shore. \n\nThe SafeShore objective will be to demonstrate the detection capabilities in the missing detection gaps of other existing systems such as costal radars, thereby also ensuring the fusion of information and increasing the situational awareness and better implementation of the European Maritime Security Strategy based on the information exchange frameworks, EUROSUR and EUCISE 2020. \n\nAll SafeShore objectives are measurable, realistic and achievable within the duration of the project, as the SafeShore project will build 3 prototypes that are going to assess the accomplishment of the objectives. Three end-user scripted and end-user validated field trials will be set up to validate these systems: in the North Sea, Black Sea and Mediterranean.",
+    "totalCost": "5133582,5",
+    "ecMaxContribution": "5133582,5",
+    "coordinator": "ECOLE ROYALE MILITAIRE - KONINKLIJKE MILITAIRE SCHOOL",
+    "coordinatorCountry": "BE",
+    "participants": "SERVICIUL DE PROTECTIE SI PAZA;TG DRIVES SRO;INSPECTORATUL GENERAL AL POLITIEI DE FRONTIERA;POLITIEZONE: DE PANNE - KOKSIJDE - NIEUWPOORT;OPTIX AD;MINISTRY OF PUBLIC SECURITY;DR FRUCHT SYSTEMS LTD;QUEEN MARY UNIVERSITY OF LONDON;INSTITUTUL DE OPTOELECTRONICA SA;UNIVERSITA DEL SALENTO;UTI GRUP SA",
+    "participantCountries": "RO;CZ;BE;BG;IL;UK;IT",
+    "projectParticipants": {
+        "999733314": {
+            "orgId": "999733314",
+            "orgName": "UTI GRUP SA",
+            "ecContrib": 823375
+        },
+        "937433609": {
+            "orgId": "937433609",
+            "orgName": "SERVICIUL DE PROTECTIE SI PAZA",
+            "ecContrib": 134000
+        },
+        "961558479": {
+            "orgId": "961558479",
+            "orgName": "MINISTRY OF PUBLIC SECURITY",
+            "ecContrib": 150456
+        },
+        "999831575": {
+            "orgId": "999831575",
+            "orgName": "ECOLE ROYALE MILITAIRE - KONINKLIJKE MILITAIRE SCHOOL",
+            "ecContrib": 725675
+        },
+        "999863585": {
+            "orgId": "999863585",
+            "orgName": "UNIVERSITA DEL SALENTO",
+            "ecContrib": 401186
+        },
+        "926269782": {
+            "orgId": "926269782",
+            "orgName": "DR FRUCHT SYSTEMS LTD",
+            "ecContrib": 1129774
+        },
+        "935269345": {
+            "orgId": "935269345",
+            "orgName": "INSTITUTUL DE OPTOELECTRONICA SA",
+            "ecContrib": 362569
+        },
+        "926255814": {
+            "orgId": "926255814",
+            "orgName": "TG DRIVES SRO",
+            "ecContrib": 418672
+        },
+        "926411984": {
+            "orgId": "926411984",
+            "orgName": "OPTIX AD",
+            "ecContrib": 136206
+        },
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 522085
+        },
+        "952213790": {
+            "orgId": "952213790",
+            "orgName": "INSPECTORATUL GENERAL AL POLITIEI DE FRONTIERA",
+            "ecContrib": 55000
+        },
+        "925879842": {
+            "orgId": "925879842",
+            "orgName": "POLITIEZONE: DE PANNE - KOKSIJDE - NIEUWPOORT",
+            "ecContrib": 274585
+        }
+    },
+    "calculatedTotalContribution": 5133583
+}

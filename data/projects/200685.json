@@ -1,0 +1,23 @@
+{
+    "rcn": "200685",
+    "acronym": "LiKo",
+    "topics": "ERC-StG-2015",
+    "title": "From Liouville to Kolmogorov: 2d quantum gravity, noise sensitivity and turbulent flows",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "This research project is organized along three seemingly unrelated directions:\n\n(1) Mathematical Liouville gravity deals with the geometry of large random planar maps. Historically, conformal invariance was a key ingredient in the construction of Liouville gravity in the physics literature. Conformal invariance has been restored recently with an attempt of understanding large random combinatorial planar maps once conformally embedded in the plane. The geometry induced by these embeddings is conjecturally described by the exponential of a highly oscillating distribution, the Gaussian Free Field. This conjecture is part of a broader program aimed at rigorously understanding the celebrated KPZ relation. The first major goal of my project is to make significant progress towards the completion of this program. I will combine for this several tools such as Liouville Brownian motion, circle packings, QLE processes and Bouchaud trap models.\n\n(2) Euclidean statistical physics is closely related to area (1) through the above KPZ relation. I plan to push further the analysis of critical statistical physics models successfully initiated by the works of Schramm and Smirnov. I will focus in particular on dynamics at and near critical points with a special emphasis on the so-called noise sensitivity of these systems.\n\n(3) 3d turbulence. A more tractable ambition than solving Navier-Stokes equation is to construct explicit stochastic vector fields which combine key features of experimentally observed velocity fields. I will make the mathematical framework precise by identifying four axioms that need to be satisfied. It has been observed recently that the exponential of a certain log-correlated field, as in (1), could be used to create such a realistic velocity field. I plan to construct and analyse this challenging object by relying on techniques from (1) and (2). This would be the first genuine stochastic model of turbulent flow in the spirit of what Kolmogorov was aiming at.",
+    "totalCost": "935000",
+    "ecMaxContribution": "935000",
+    "coordinator": "UNIVERSITE LYON 1 CLAUDE BERNARD",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999902579": {
+            "orgId": "999902579",
+            "orgName": "UNIVERSITE LYON 1 CLAUDE BERNARD",
+            "ecContrib": 935000
+        }
+    },
+    "calculatedTotalContribution": 935000
+}

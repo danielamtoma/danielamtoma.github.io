@@ -1,0 +1,113 @@
+{
+    "rcn": "211066",
+    "acronym": "5GCITY",
+    "topics": "ICT-08-2017",
+    "title": "5GCITY",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2019",
+    "objective": "Delivering on the 5G promise of increased data rates, and ubiquitous coverages, poses stringent requirements on traditional vertically integrated operators. In particular, telecom operators are expected to massively  roll out Small Cells, which requires finding appropriate urban spaces with both backhaul and energy availability. Network sharing becomes essential to unlock those commercial massive deployments. The open access model, or neutral host, will come to play a key role on the deployment of 5G networks, especially in urban scenarios where very dense Small Cell deploymens are required. \nIn parallel recent trends are paving the way towards the development of new, heterogeneous and distributed cloud paradigms that significantly differ from todayís established cloud model: with edge computing, cloud architectures are pushed all the way to the edge of the network, close to the devices that produce and act on data. We posit that there are two sets of players perfectly poised to take advantage of both trends since they already own the infrastructure needed to build edge deployments: telecommunication providers and municipalities. 5GCity focuses on how common smart city infrastructure (i.e.,small cells and processing power at the very edge of networks) can bring benefit to both players based on resource sharing and end-to-end virtualization, pushing the cloud model to the extreme edge. \n5GCity will design, develop, deploy and demonstrate a distributed cloud and radio platform for municipalities and infrastructure owners acting as 5G neutral hosts. 5GCityís main aim is to build and deploy a common, multi-tenant, open platform that extends the (centralized) cloud model to the extreme edge of the network, with a demonstration in three different cities (Barcelona, Bristol and Lucca). 5GCity will directly impact a large and varied range of actors: (i) telecom providers; (ii) municipalities; and (iii) a number of different vertical sectors utilizing the city infrastructure",
+    "totalCost": "7813007",
+    "ecMaxContribution": "6072367,4",
+    "coordinator": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "COMUNICARE DIGITALE - ASSOCIAZIONEDI PROMOZIONE SOCIALE;NEXTWORKS;RETEVISION I SA;ITALTEL SPA;INSTITUT MUNICIPAL D'INFORMATICA DE BARCELONA;WIND TRE SPA;VIRTUAL OPEN SYSTEMS;INFORMACIO I COMUNICACIO DE BARCELONA SA SOCIETAT PRIVADA MUNICIPAL;ADLINK TECHNOLOGY SARL;COMUNE DI LUCCA;ACCELLERAN;NEC LABORATORIES EUROPE GMBH;UNIVERSITY OF BRISTOL;NEC EUROPE LTD;INCITES CONSULTING SARL;RAI-RADIOTELEVISIONE ITALIANA SPA;UBIWHERE LDA;MOG TECHNOLOGIES SA",
+    "participantCountries": "IT;ES;FR;BE;DE;UK;LU;PT",
+    "projectParticipants": {
+        "949872307": {
+            "orgId": "949872307",
+            "orgName": "INCITES CONSULTING SARL",
+            "ecContrib": 140000
+        },
+        "998923558": {
+            "orgId": "998923558",
+            "orgName": "RAI-RADIOTELEVISIONE ITALIANA SPA",
+            "ecContrib": 177538
+        },
+        "968966466": {
+            "orgId": "968966466",
+            "orgName": "VIRTUAL OPEN SYSTEMS",
+            "ecContrib": 452462
+        },
+        "999591500": {
+            "orgId": "999591500",
+            "orgName": "ITALTEL SPA",
+            "ecContrib": 411688
+        },
+        "936868875": {
+            "orgId": "936868875",
+            "orgName": "ADLINK TECHNOLOGY SARL",
+            "ecContrib": 347462
+        },
+        "969047849": {
+            "orgId": "969047849",
+            "orgName": "INSTITUT MUNICIPAL D'INFORMATICA DE BARCELONA",
+            "ecContrib": 546125
+        },
+        "950839591": {
+            "orgId": "950839591",
+            "orgName": "COMUNE DI LUCCA",
+            "ecContrib": 200250
+        },
+        "996613600": {
+            "orgId": "996613600",
+            "orgName": "NEXTWORKS",
+            "ecContrib": 336788
+        },
+        "999974262": {
+            "orgId": "999974262",
+            "orgName": "UNIVERSITY OF BRISTOL",
+            "ecContrib": 554425
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 693375
+        },
+        "996643282": {
+            "orgId": "996643282",
+            "orgName": "RETEVISION I SA",
+            "ecContrib": 303538
+        },
+        "942650075": {
+            "orgId": "942650075",
+            "orgName": "ACCELLERAN",
+            "ecContrib": 319375
+        },
+        "951428381": {
+            "orgId": "951428381",
+            "orgName": "MOG TECHNOLOGIES SA",
+            "ecContrib": 291375
+        },
+        "910561893": {
+            "orgId": "910561893",
+            "orgName": "NEC LABORATORIES EUROPE GMBH",
+            "ecContrib": 452480
+        },
+        "952108351": {
+            "orgId": "952108351",
+            "orgName": "WIND TRE SPA",
+            "ecContrib": 200550
+        },
+        "969046879": {
+            "orgId": "969046879",
+            "orgName": "INFORMACIO I COMUNICACIO DE BARCELONA SA SOCIETAT PRIVADA MUNICIPAL",
+            "ecContrib": 148312
+        },
+        "991811906": {
+            "orgId": "991811906",
+            "orgName": "UBIWHERE LDA",
+            "ecContrib": 296625
+        },
+        "916623617": {
+            "orgId": "916623617",
+            "orgName": "COMUNICARE DIGITALE - ASSOCIAZIONEDI PROMOZIONE SOCIALE",
+            "ecContrib": 200000
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 6072368
+}

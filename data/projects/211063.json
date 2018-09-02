@@ -1,0 +1,103 @@
+{
+    "rcn": "211063",
+    "acronym": "5GTANGO",
+    "topics": "ICT-08-2017",
+    "title": "5G Development and validation platform for global industry-specific network services and Apps",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2019",
+    "objective": "Telecommunication networks have become a critical infrastructure for economic growth and social prosperity. Current networks will be unable to face the future demands and their increasingly diverse set of services, users, applications and requirements what is forcing network operators to transform them. At the centre of this network transformation is the broad-scale deployment of Network Function Virtualization (NFV) and Software-Defined Networking (SDN). \n5GTANGO puts forth the flexible programmability of 5G networks with i) a NFV-enabled Service Development Kit (SDK), ii) a Store with advanced validation and verification mechanisms for VNFs/Network Services qualification (including 3rd party contributions) and iii) a modular Service Platform in order to bridge the gap between business needs and network operational management systems.  We propose an integrated vendor-independent platform where the outcome of the development kit, that is a packaged NFV forwarding graph, is automatically tested and validated in the Store for their posterior deployment with a customizable orchestrator compatible with common existing Virtual Infrastructure Managers (VIM) and SDN controllers in the market. This end-to-end ecosystem for the agile development and deployment of services realises an extended NFV DevOps model between service developers, telecom operators and vertical industries, increasing operational efficiency, facilitating the implementation and validation of new services and accelerating the adoption of NFV technologies.\n5GTANGO system will be demonstrated in two vertical pilots: advanced Manufacturing and immersive Media. \n5GTANGO will actively promote collaboration and try to influence the SDOs most relevant for the project such as ETSI NFV or IETF, as well as the key open source initiatives such as OSM and Open-O. It is also 5GTANGOís ambition to make key contributions to the 5G-PPP Programme, the targeted KPIs and commits to work with its peer 5G-PPP projects.",
+    "totalCost": "8948210,38",
+    "ecMaxContribution": "6983507",
+    "coordinator": "ATOS SPAIN SA",
+    "coordinatorCountry": "ES",
+    "participants": "NUROGAMES GMBH;CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA;HUAWEI TECHNOLOGIES (IRELAND) CO LIMITED;ALTICE LABS SA;WEIDMULLER INTERFACE GMBH & CO KG;TELEFONICA INVESTIGACION Y DESARROLLO SA;UBITECH LIMITED;UNIVERSITY OF PIRAEUS RESEARCH CENTER;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";NEC LABORATORIES EUROPE GMBH;NEC EUROPE LTD;NOKIA BELL LABS FRANCE;QUOBIS NETWORKS SL;EASY GLOBAL MARKET SAS;UNIVERSITAET PADERBORN",
+    "participantCountries": "DE;ES;BE;EL;IE;PT;CY;UK;FR",
+    "projectParticipants": {
+        "973062679": {
+            "orgId": "973062679",
+            "orgName": "QUOBIS NETWORKS SL",
+            "ecContrib": 217875
+        },
+        "999638739": {
+            "orgId": "999638739",
+            "orgName": "CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",
+            "ecContrib": 492200
+        },
+        "999668227": {
+            "orgId": "999668227",
+            "orgName": "SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",
+            "ecContrib": 209606
+        },
+        "944068894": {
+            "orgId": "944068894",
+            "orgName": "WEIDMULLER INTERFACE GMBH & CO KG",
+            "ecContrib": 453250
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 536250
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 624225
+        },
+        "999586941": {
+            "orgId": "999586941",
+            "orgName": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+            "ecContrib": 383750
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 268460
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 487500
+        },
+        "969034463": {
+            "orgId": "969034463",
+            "orgName": "NUROGAMES GMBH",
+            "ecContrib": 434875
+        },
+        "996377696": {
+            "orgId": "996377696",
+            "orgName": "NOKIA BELL LABS FRANCE",
+            "ecContrib": 313287
+        },
+        "999911503": {
+            "orgId": "999911503",
+            "orgName": "ALTICE LABS SA",
+            "ecContrib": 516330
+        },
+        "926362126": {
+            "orgId": "926362126",
+            "orgName": "UBITECH LIMITED",
+            "ecContrib": 377125
+        },
+        "929321984": {
+            "orgId": "929321984",
+            "orgName": "HUAWEI TECHNOLOGIES (IRELAND) CO LIMITED",
+            "ecContrib": 471625
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 0
+        },
+        "999837492": {
+            "orgId": "999837492",
+            "orgName": "UNIVERSITAET PADERBORN",
+            "ecContrib": 499500
+        },
+        "972455847": {
+            "orgId": "972455847",
+            "orgName": "EASY GLOBAL MARKET SAS",
+            "ecContrib": 290098
+        }
+    },
+    "calculatedTotalContribution": 6575956
+}

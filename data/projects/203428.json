@@ -1,0 +1,23 @@
+{
+    "rcn": "203428",
+    "acronym": "Milli-Tech",
+    "topics": "ERC-ADG-2015",
+    "title": "Milli-Volt Switch Technologies for Energy Efficient Computation and Sensing",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "The Milli-Tech proposal aims at a novel technology platform serving both computation and sensing: electronic switch architectures, called steep slope switches, exploiting new device physics and concepts in emerging 2D materials to achieve operation at voltages below 100 millivolts. Such switches will have a subthreshold slope below 10mV/decade, significantly more abrupt than MOSFET thermal limit of 60mV/decade at room temperature and in great advance to any beyond CMOS switches. Such characteristics will dramatically improve both the energy efficiency of logic circuits and the transduction sensitivity for many classes of sensors.\nThe project will develop a technological platform called ëmillivolt technologyí focusing on low power digital and sensing/analog electronic functions exploiting steep slopes, with the goal of lowering the energy per useful function (computed and sensed bit of information) by a factor of 100x. \nSuch ultra-low operation voltage will contribute to solving major challenges of nanoelectronics such as power issues and it will enable energy efficient super-sensitive sensors for Internet-of-Everything (IoE).\nMilli-Tech includes fundamental research on new solid-state steep slope device concepts: heterostructure tunnel FETs in 2D Transition-Metal-Dichalcogenides (TMD), 2D Van der Waals super-lattice energy filter switch and hybrid architectures combining two switching principles: band-to-band-tunneling and metal-insulator-transition or negative capacitance in VO2, used as additive technology boosters.\nMilli-Tech plans breakthroughs by precise demonstrators: (i) energy efficient computation blocks for Von-Neumann ICs at sub-100mV, (ii) Active Pixel Sensors based on 2D TMD/GeSn tunnel FETs for IR imagers, (iii) Terahertz detectors based on hybrid 2D VO2/TMD switches (iii) ultra-sensitive 2D steep slope charge detectors for biosensing. The high-risk ëmillivolt technologyí will be highly rewarding by enabling the energy efficient revolution for IoE.",
+    "totalCost": "2929875",
+    "ecMaxContribution": "2929875",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 2929875
+        }
+    },
+    "calculatedTotalContribution": 2929875
+}

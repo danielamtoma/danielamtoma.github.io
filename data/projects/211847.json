@@ -1,0 +1,23 @@
+{
+    "rcn": "211847",
+    "acronym": "BioNet",
+    "topics": "ERC-2017-STG",
+    "title": "Dynamical Redesign of Biomolecular Networks",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Enzymes created by Nature are still more selective and can be orders of magnitude more efficient than man-made catalysts, in spite of recent advances in the design of de novo catalysts and in enzyme redesign. The optimal engineering of either small molecular or of complex biological catalysts requires both (i) accurate quantitative computational methods capable of a priori assessing catalytic efficiency, and (ii) molecular design principles and corresponding algorithms to achieve, understand and control biomolecular catalytic function and mechanisms. Presently, the computational design of biocatalysts is challenging due to the need for accurate yet computationally-intensive quantum mechanical calculations of bond formation and cleavage, as well as to the requirement for proper statistical sampling over very many degrees of freedom. Pioneering enhanced sampling and analysis methods have been developed to address crucial challenges bridging the gap between the available simulation length and the biologically relevant timescales. However, biased simulations do not generally permit the direct calculation of kinetic information. Recently, I and others pioneered simulation tools that can enable not only accurate calculations of free energies, but also of the intrinsic molecular kinetics and the underlying reaction mechanisms as well. I propose to develop more robust, automatic, and system-tailored sampling algorithms that are optimal in each case. I will use our kinetics-based methods to develop a novel theoretical framework to address catalytic efficiency and to establish molecular design principles to key design problems for new bio-inspired nanocatalysts, and to identify and characterize small molecule modulators of enzyme activity. This is a highly interdisciplinary project that will enable fundamental advances in molecular simulations and will unveil the physical principles that will lead to design and control of catalysis with Nature-like efficiency.",
+    "totalCost": "1499999",
+    "ecMaxContribution": "1499999",
+    "coordinator": "KING'S COLLEGE LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999981052": {
+            "orgId": "999981052",
+            "orgName": "KING'S COLLEGE LONDON",
+            "ecContrib": 1499999
+        }
+    },
+    "calculatedTotalContribution": 1499999
+}

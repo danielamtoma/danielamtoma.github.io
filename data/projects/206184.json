@@ -1,0 +1,58 @@
+{
+    "rcn": "206184",
+    "acronym": "BIOCDx",
+    "topics": "ICT-03-2016",
+    "title": "A miniature Bio-photonics Companion Diagnostics platform for reliable cancer diagnosis and treatment monitoring.",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "Current diagnostic options for cancer treatment monitoring rely on imaging techniques and cannot guarantee proper assessment of therapeutic response. This project aims to develop a disruptive Point of Care (PoC) device for cancer early diagnosis and treatment monitoring as a companion diagnostics tool. One of the scientific breakthroughs of this project is the development of a ìcancer stem cellsî detection platform by virtue of expression of the cancer stem cell-specific transcription factor TWIST1, which controls the expression of the bloodstream circulating biomarkers POSTN, PCOLCE and TGBI. Cancer stem cells represent the most aggressive/tumorigenic cell compartment within tumors. \nBIOCDx will combine advanced concepts from the photonic, nano-biochemical, micro-fluidic and reader/packaging platforms aiming to overcome limitations related to detection reliability, sensitivity, specificity, compactness and cost issues. BIOCDx will rely on ultrasensitive, photonic elements based on an array of 8 asymmetric MZI waveguides fabricated by TriPlex technology on silicon nitride substrates and will achieve a 100 fold improvement ñwith respect to current technologies- of sensitivity (<10-8 RIU). BIOCDx will emlploy a smart concept of signal multiplexing for lowering the number of photodetectors required in multi-analyte detection and allowing for a substantial reduction of chip size. A sandwich assay, enhanced with nanoparticles, will be developed, based on the use of two antibodies per protein, to detect all three circulating proteins. This will enhance the limit of detection (LOD) close to femtomolar and the reliability. BIOCDx photonic, nano-biochemical, fluidics and packaging platforms will be integrated into a portable, desktop PoC device. Its validation in preclinical and clinical setting will be performed in three cancer types: breast cancer, hormone-independent prostate cancer and melanoma.",
+    "totalCost": "3648520",
+    "ecMaxContribution": "3163735",
+    "coordinator": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "coordinatorCountry": "EL",
+    "participants": "LRE MEDICAL GMBH;CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;LEAD PHARMA HOLDING BV;FUTURE DIAGNOSTICS SOLUTIONS BV;LIONIX BV;IDRYMA IATROVIOLOGIKON EREUNON AKADEMIAS ATHINON;LIONIX INTERNATIONAL BV",
+    "participantCountries": "DE;CH;NL;EL",
+    "projectParticipants": {
+        "942028596": {
+            "orgId": "942028596",
+            "orgName": "FUTURE DIAGNOSTICS SOLUTIONS BV",
+            "ecContrib": 328125
+        },
+        "918272908": {
+            "orgId": "918272908",
+            "orgName": "LIONIX INTERNATIONAL BV",
+            "ecContrib": 559500
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 700985
+        },
+        "999622443": {
+            "orgId": "999622443",
+            "orgName": "IDRYMA IATROVIOLOGIKON EREUNON AKADEMIAS ATHINON",
+            "ecContrib": 550125
+        },
+        "999659206": {
+            "orgId": "999659206",
+            "orgName": "LIONIX BV",
+            "ecContrib": 0
+        },
+        "997414335": {
+            "orgId": "997414335",
+            "orgName": "LEAD PHARMA HOLDING BV",
+            "ecContrib": 315000
+        },
+        "919917155": {
+            "orgId": "919917155",
+            "orgName": "LRE MEDICAL GMBH",
+            "ecContrib": 710000
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3163735
+}

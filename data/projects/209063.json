@@ -1,0 +1,23 @@
+{
+    "rcn": "209063",
+    "acronym": "zelig",
+    "topics": "MSCA-IF-2016",
+    "title": "Matched Sampling Approaches for Statistical Inference in Large-Scale Clinical Neuroimaging Studies",
+    "startDate": "01/06/2017",
+    "endDate": "31/05/2019",
+    "objective": "Noninvasive neuroimaging techniques have shown much promise over the last decade in the investigation, diagnosis and in determining treatment of neurological disorders. However, to improve their predictive power and better understand underlying causative disease factors it will be essential to extend our investigations to empiric studies of large populations and to develop appropriate statistical models and define statistical procedure for use in such observational studies. It is the main objective of this project therefore, to develop and extend the methods of Causal Inference for use on large unstructured neuroimaging datasets. Specifically, this proposal seeks to 1) Develop and apply existing techniques from matched sampling to observational studies of imaging for Causal Inference. 2) Investigate the benefits of the same matched sampling procedures in support of classification models. 3) Industrial considerations: This is an enterprise panel proposal and will aim to integrate the developed technology into the Clinical Imaging Big-Data program at Siemens HealthCare (SHC), Erlangen. These objectives will be achieved by implementing and testing different Matched Sampling procedures using large observational neuroimaging datasets and assessing their performance through reduction in the specific forms of bias known to be present in observational data. These methods will be extended for use in classification models and the effects of matching on common prediction methods will be examined. The project is highly relevant for the work program as it will provide an opportunity to enhance training through Siemens and has the potential to facilitate a career move from academia to the non academic sector.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "SIEMENS HEALTHCARE GMBH",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "927325239": {
+            "orgId": "927325239",
+            "orgName": "SIEMENS HEALTHCARE GMBH",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

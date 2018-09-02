@@ -1,0 +1,68 @@
+{
+    "rcn": "199152",
+    "acronym": "AEROBI",
+    "topics": "ICT-24-2015",
+    "title": "AErial RObotic System for In-Depth Bridge Inspection by Contact",
+    "startDate": "01/12/2015",
+    "endDate": "30/11/2018",
+    "objective": "The latest developments in low flying unmanned robots with arms and the associated fields of intelligent control, computer vision and sensors open the floor for robotic solutions, exploitable in the near term, in the field of inspection of difficult-toaccess areas of the civil infrastructure in general and bridges in particular. The latter infrastructure is ageing requiring inspection and assessment. Presently, bridge inspection is primarily done through visual observations by inspectors. It relies upon the inspector having access to bridge components via access equipment (ladders, rigging and scaffolds) and vehicular lifts (manlifts, bucket trucks and under-bridge inspection vehicles). This is uncomfortable and potentially dangerous for the inspectors, while it interferes with the traffic contributing to bottlenecks and congestion. The results of the inspection are used to structurally assess the bridge in a following step.\nAEROBI, driven by the bridge inspection industry, adapts and integrates recent research results in low flying unmanned robots with arms, intelligent control in robotics, computer vision and sensing, in an innovative, integrated, low flying, robotic system with a specialised multi-joint arm that will scan concrete beams and piers in a bridge for potential cracks on the surface or concrete swelling or spalling. In case the width of the above cracks exceeds given limits, it will measure distance between parallel cracks, while it will contact the bridge to non-destructively measure the depth of cracks and deformation. In case of concrete swelling or spalling it will also contact the bridge to non-destructively measure delamination and the diameter of the reinforcing steel bars. The above will provide input for a structural bridge assessment that will be automatically performed by the proposed robotic system. The latter system, which is expected to be exploitable in the short term, will be field evaluated and demonstrated at two actual bridges.",
+    "totalCost": "3584850,25",
+    "ecMaxContribution": "3084949,25",
+    "coordinator": "AIRBUS DS SAS",
+    "coordinatorCountry": "FR",
+    "participants": "EGNATIA ODOS AE;STIFTUNG FRANKFURT INSTITUTE FOR ADVANCED STUDIES;FUNDACION ANDALUZA PARA EL DESARROLLO AEROESPACIAL;RISA SICHERHEITSANALYSEN GMBH;T.E.C.N.I.C. TECNICHE E CONSULENZENELL'INGEGNERIA CIVILE-CONSULTING ENGINEERS-SPA;D. MPAIRAKTARIS KAI SYNERGATES-GRAFEION TECHNIKON MELETON ETAIREIA PERIORISMENIS EFTHYNIS;FORUM DES LABORATOIRES NATIONAUX EUROPEENS DE RECHERCHE ROUTIERE;CONSIGLIO NAZIONALE DELLE RICERCHE;UNIVERSIDAD DE SEVILLA;NETIVEI ISRAEL - NATIONAL TRANSPORT INFRASTRUCTURE COMPANY LTD",
+    "participantCountries": "EL;DE;ES;IT;BE;IL",
+    "projectParticipants": {
+        "999512930": {
+            "orgId": "999512930",
+            "orgName": "RISA SICHERHEITSANALYSEN GMBH",
+            "ecContrib": 204400
+        },
+        "998649048": {
+            "orgId": "998649048",
+            "orgName": "D. MPAIRAKTARIS KAI SYNERGATES-GRAFEION TECHNIKON MELETON ETAIREIA PERIORISMENIS EFTHYNIS",
+            "ecContrib": 163520
+        },
+        "999572876": {
+            "orgId": "999572876",
+            "orgName": "STIFTUNG FRANKFURT INSTITUTE FOR ADVANCED STUDIES",
+            "ecContrib": 481100
+        },
+        "998770880": {
+            "orgId": "998770880",
+            "orgName": "EGNATIA ODOS AE",
+            "ecContrib": 151287
+        },
+        "999496828": {
+            "orgId": "999496828",
+            "orgName": "FORUM DES LABORATOIRES NATIONAUX EUROPEENS DE RECHERCHE ROUTIERE",
+            "ecContrib": 170132
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 361734
+        },
+        "998189850": {
+            "orgId": "998189850",
+            "orgName": "FUNDACION ANDALUZA PARA EL DESARROLLO AEROESPACIAL",
+            "ecContrib": 379375
+        },
+        "972554011": {
+            "orgId": "972554011",
+            "orgName": "NETIVEI ISRAEL - NATIONAL TRANSPORT INFRASTRUCTURE COMPANY LTD",
+            "ecContrib": 155800
+        },
+        "999956705": {
+            "orgId": "999956705",
+            "orgName": "AIRBUS DS SAS",
+            "ecContrib": 438277
+        },
+        "999862518": {
+            "orgId": "999862518",
+            "orgName": "UNIVERSIDAD DE SEVILLA",
+            "ecContrib": 376500
+        }
+    },
+    "calculatedTotalContribution": 2882125
+}

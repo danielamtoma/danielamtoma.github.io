@@ -1,0 +1,153 @@
+{
+    "rcn": "206257",
+    "acronym": "PJ16 CWP HMI",
+    "topics": "SESAR.IR-VLD.Wave1-19-2015",
+    "title": "Controller Working Position / Human Machine Interface - CWP/HMI",
+    "startDate": "01/11/2016",
+    "endDate": "31/12/2019",
+    "objective": "PJ.16 project aims to reduce development and operating costs of Air Navigation Service Providers (ANSP). These savings will ultimately benefit airlines and their customers. It achieves this by delivering the ATM Master Plan goals (defined by the European Air Traffic Management (ATM) community) for a more efficient deployment of human resources,  a progressive increase in automation support, the implementation of virtualisation technologies and  the use of standardised and interoperable systems whilst increasing the safety level. \n\nWithin the PJ16 proposal, there are two innovative solutions:\nThe first solution develops a concept for separating the Controller Working Position (CWP) from the datacentre where the data is produced. This lean and efficient use of ANSP infrastructure tackles the issues presented by fragmented European ATM systems and country-specific architectures, enabling Europe to move to an interoperable, cost-effective and flexible service provision infrastructure. Decoupling of the CWPs should enable a more efficient use of the most valuable and expensive resource, the human. By enabling increased flexibility the ANSPs should better manage staffing for prevailing traffic conditions and assure service continuity. \n\nThe second solution deals with new methods of controller interaction with the Human Machine Interface (HMI), applying mature technologies from other domains to ATM. This will increase controller productivity, reduce workload, stress level and enable the use of SESAR advanced tools, safely facilitating performance based operations. Furthermore, the use of modern thin client technology and the processes for developing HMI solutions are investigated, aiming at more efficient CWP development and operation.\n\nPJ16 has expertise from most of the ANSPs in Europe, the major European industrial partners, the leaders of research domains in the previous ATM R&D phase and has an expanded knowledge pool including new participants from Eastern Europe.",
+    "totalCost": "21584984,5",
+    "ecMaxContribution": "7837484,16",
+    "coordinator": "THALES LAS FRANCE SAS",
+    "coordinatorCountry": "FR",
+    "participants": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH;POLSKA AGENCJA ZEGLUGI POWIETRZNEJ;SAAB AKTIEBOLAG;HUNGAROCONTROL MAGYAR LEGIFORGALMISZOLGALAT ZARTKORUEN MUKODO RESZVENYTARSASAG;RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK;STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;STIFTELSEN SINTEF;SKYGUIDE, SA SUISSE POUR LES SERVICES DE LA NAVIGATION AERIENNE CIVILS ET MILITAIRES;DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE;ENAV SPA;ENTIDAD PUBLICA EMPRESARIAL ENAIRE;VALSTYBES IMONE ORO NAVIGACIJA;EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION;ATOS BELGIUM;CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD;SINTEF AS;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;FREQUENTIS AG;INDRA SISTEMAS SA;NATS (EN ROUTE) PUBLIC LIMITED COMPANY;LETOVE PREVADZKOVE SLUZBY SLOVENSKEJ REPUBLIKY, STATNY PODNIK;UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY;LEONARDO - SOCIETA PER  AZIONI;NAVIAIR;LUFTFARTSVERKET;DFS DEUTSCHE FLUGSICHERUNG GMBH;AIRTEL ATN LIMITED",
+    "participantCountries": "AT;PL;SE;HU;CZ;NL;NO;CH;FR;IT;ES;LT;BE;HR;DE;UK;SK;IE;DK",
+    "projectParticipants": {
+        "997701843": {
+            "orgId": "997701843",
+            "orgName": "ENTIDAD PUBLICA EMPRESARIAL ENAIRE",
+            "ecContrib": 175557
+        },
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 568384
+        },
+        "997604649": {
+            "orgId": "997604649",
+            "orgName": "AIRTEL ATN LIMITED",
+            "ecContrib": 0
+        },
+        "995562023": {
+            "orgId": "995562023",
+            "orgName": "POLSKA AGENCJA ZEGLUGI POWIETRZNEJ",
+            "ecContrib": 0
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 151628
+        },
+        "927009019": {
+            "orgId": "927009019",
+            "orgName": "UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY",
+            "ecContrib": 58677
+        },
+        "924128216": {
+            "orgId": "924128216",
+            "orgName": "CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD",
+            "ecContrib": 25167
+        },
+        "999936820": {
+            "orgId": "999936820",
+            "orgName": "DFS DEUTSCHE FLUGSICHERUNG GMBH",
+            "ecContrib": 559710
+        },
+        "999959615": {
+            "orgId": "999959615",
+            "orgName": "SAAB AKTIEBOLAG",
+            "ecContrib": 0
+        },
+        "919915991": {
+            "orgId": "919915991",
+            "orgName": "VALSTYBES IMONE ORO NAVIGACIJA",
+            "ecContrib": 0
+        },
+        "910945140": {
+            "orgId": "910945140",
+            "orgName": "SINTEF AS",
+            "ecContrib": 6807
+        },
+        "957126452": {
+            "orgId": "957126452",
+            "orgName": "LETOVE PREVADZKOVE SLUZBY SLOVENSKEJ REPUBLIKY, STATNY PODNIK",
+            "ecContrib": 240514
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 1386302
+        },
+        "998956635": {
+            "orgId": "998956635",
+            "orgName": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH",
+            "ecContrib": 65856
+        },
+        "923671249": {
+            "orgId": "923671249",
+            "orgName": "NAVIAIR",
+            "ecContrib": 78941
+        },
+        "928673636": {
+            "orgId": "928673636",
+            "orgName": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+            "ecContrib": 246975
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 0
+        },
+        "998307317": {
+            "orgId": "998307317",
+            "orgName": "FREQUENTIS AG",
+            "ecContrib": 523626
+        },
+        "997542763": {
+            "orgId": "997542763",
+            "orgName": "NATS (EN ROUTE) PUBLIC LIMITED COMPANY",
+            "ecContrib": 554521
+        },
+        "923069461": {
+            "orgId": "923069461",
+            "orgName": "ATOS BELGIUM",
+            "ecContrib": 0
+        },
+        "998197513": {
+            "orgId": "998197513",
+            "orgName": "ENAV SPA",
+            "ecContrib": 246666
+        },
+        "958184334": {
+            "orgId": "958184334",
+            "orgName": "SKYGUIDE, SA SUISSE POUR LES SERVICES DE LA NAVIGATION AERIENNE CIVILS ET MILITAIRES",
+            "ecContrib": 551108
+        },
+        "999961555": {
+            "orgId": "999961555",
+            "orgName": "THALES LAS FRANCE SAS",
+            "ecContrib": 1710483
+        },
+        "954552363": {
+            "orgId": "954552363",
+            "orgName": "RIZENI LETOVEHO PROVOZU CESKE REPUBLIKY STATNI PODNIK",
+            "ecContrib": 198593
+        },
+        "942346077": {
+            "orgId": "942346077",
+            "orgName": "LUFTFARTSVERKET",
+            "ecContrib": 61829
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 283549
+        }
+    },
+    "calculatedTotalContribution": 7694893
+}

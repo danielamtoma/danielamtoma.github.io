@@ -1,0 +1,23 @@
+{
+    "rcn": "212769",
+    "acronym": "ORGANOMICS",
+    "topics": "ERC-2017-STG",
+    "title": "Reconstructing human cortex development and malformation with single-cell transcriptomics",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2022",
+    "objective": "Technologies to sequence single-cell transcriptomes (scRNA-seq) are revolutionizing our ability to analyze cell composition and differentiation in complex tissues. In parallel, recent innovations allow the generation of three-dimensional tissues from stem cells that recapitulate human development. In this proposal, we will focus on human cortex development modelled by cerebral organoids. Our vision is to create an integrative single-cell transcriptomic platform to reconstruct cerebral organoid development, and dissect network alterations that lead to human brain malformations. Our project will be advanced through the following objectives: \n\n1. Single-cell transcriptome-coupled lineage tracing: We will use cellular barcoding to label individual cortical progenitor cells, trace their output and lineage trees with high-throughput scRNA-seq, and quantify lineage transition probabilities between cell types.\n\n2. Gene knockout screens in mosaic organoids: We will use CRISPR/Cas9 to perform genetic screens of up to 100 genotypes in mosaic organoids to understand mechanisms that regulate cell lineage decisions during cortex development. \n\n3. High-throughput reconstructions of cortex malformations: We will generate cerebral organoids from patients with cortical malformations and reconstruct networks and infer differentiation hierarchies using high-throughput and lineage-coupled scRNA-seq. We will spatially resolve network aberrations using sequential fluorescence in situ hybridization (seqFISH).\n\nORGANOMICS provides an entirely new quantitative direction to study human corticogenesis. We will build high-resolution models of cortex development by measuring the expression and function of genes in thousands of single cells. Our interdisciplinary project will lead to groundbreaking insight into mechanisms underlying neurodevelopmental diseases. Our general strategy can be extended to various other organ systems where protocols to generate in vitro counterparts can be established.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

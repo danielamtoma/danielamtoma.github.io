@@ -1,0 +1,43 @@
+{
+    "rcn": "198822",
+    "acronym": "Nanonets2Sense",
+    "topics": "ICT-25-2015",
+    "title": "Nanonets2Sense",
+    "startDate": "01/02/2016",
+    "endDate": "31/01/2019",
+    "objective": "Nanonets2Sense proposes a new technological approach, where random networks of nanowires, called nanonets (NN), allow biosensors for medical applications to be integrated at low cost with a 3D integration scheme. The final objective of the project is to demonstrate 3D above-IC integration of nanonet-based sensing devices on a CMOS platform. By using nanonets as sensing material, our synergetic approach retains the advantages of nanowires (NW) properties without the associated technological burden. With a smart combination of bottom-up and top-down technologies and a low processing temperature (<400∞C) compatible with CMOS integration, it allows 3D integration into a compact sensor, where the sensing element, which is exposed to breath or biofluids, is integrated above the CMOS detection circuit, which is naturally protected.\n\nNanonets2Sense will address all material, device and circuit issues. It will develop the integration process that allows the 3D above-IC integration of NN-based sensing devices on a CMOS platform, optimize sensor performance by engineering nanonet properties and device dimensions, analyse NN-based devices operation and performance and optimize readout accordingly, demonstrate the viability of the integration approach by fabricating a proof-of-concept integrated sensor that realizes 3D SoC integration of a NN-based sensing device with its CMOS read-out.\n\nNanonets2Sense is thus providing a new technological building block to enhance CMOS chip functionality with biosensing capability. It combines high performance at low cost and the impact is enhanced by the fact that the approach is generic and can be adapted to a large variety of NW and target molecules. Nanonets2Sense relies on well recognized European partners, including academic, SME and large company, which represent the whole chain from basic and applied research to foundry and products development, ensuring that exploitation will combine sounded physical concepts with industrial vision.",
+    "totalCost": "2195000",
+    "ecMaxContribution": "2195000",
+    "coordinator": "INSTITUT POLYTECHNIQUE DE GRENOBLE",
+    "coordinatorCountry": "FR",
+    "participants": "AMS SENSORS UK LIMITED;KUNGLIGA TEKNISKA HOEGSKOLAN;AMS AG;INSTITUT SINANO ASSOCIATION",
+    "participantCountries": "UK;SE;AT;FR",
+    "projectParticipants": {
+        "999990946": {
+            "orgId": "999990946",
+            "orgName": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+            "ecContrib": 532500
+        },
+        "998386178": {
+            "orgId": "998386178",
+            "orgName": "INSTITUT SINANO ASSOCIATION",
+            "ecContrib": 75000
+        },
+        "996644058": {
+            "orgId": "996644058",
+            "orgName": "AMS SENSORS UK LIMITED",
+            "ecContrib": 475000
+        },
+        "999875225": {
+            "orgId": "999875225",
+            "orgName": "INSTITUT POLYTECHNIQUE DE GRENOBLE",
+            "ecContrib": 625000
+        },
+        "999809459": {
+            "orgId": "999809459",
+            "orgName": "AMS AG",
+            "ecContrib": 487500
+        }
+    },
+    "calculatedTotalContribution": 2195000
+}

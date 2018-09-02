@@ -1,0 +1,23 @@
+{
+    "rcn": "200709",
+    "acronym": "MultiMT",
+    "topics": "ERC-StG-2015",
+    "title": "Multi-modal Context Modelling for Machine Translation",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "Automatically translating human language has been a long sought-after goal in the field of Natural Language Processing (NLP). Machine Translation (MT) can significantly lower communication barriers, with enormous potential for positive social and economic impact. The dominant paradigm is Statistical Machine Translation (SMT), which learns to translate from human-translated examples.\n\nHuman translators have access to a number of contextual cues beyond the actual segment to translate when performing translation, for example images associated with the text and related documents. SMT systems, however, completely disregard any form of non-textual context and make little or no reference to wider surrounding textual content. This results in translations that miss relevant information or convey incorrect meaning. Such issues drastically affect reading comprehension and may make translations useless. This is especially critical for user-generated content such as social media posts -- which are often short and contain non-standard language -- but applies to a wide range of text types. \n\nThe novel and ambitious idea in this proposal is to devise methods and algorithms to exploit global multi-modal information for context modelling in SMT. This will require a significantly disruptive approach with new ways to acquire multilingual multi-modal representations, and new machine learning and inference algorithms that can process rich context models. The focus will be on three context types: global textual content from the document and related texts, visual cues from images and metadata including topic, date, author, source. As test beds, two challenging user-generated datasets will be used: Twitter posts and product reviews.\n\nThis highly interdisciplinary research proposal draws expertise from NLP, Computer Vision and Machine Learning and claims that appropriate modelling of multi-modal context is key to achieve a new breakthrough in SMT, regardless of language pair and text type.",
+    "totalCost": "1493771",
+    "ecMaxContribution": "1493771",
+    "coordinator": "THE UNIVERSITY OF SHEFFIELD",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976881": {
+            "orgId": "999976881",
+            "orgName": "THE UNIVERSITY OF SHEFFIELD",
+            "ecContrib": 1493771
+        }
+    },
+    "calculatedTotalContribution": 1493771
+}

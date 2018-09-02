@@ -1,0 +1,23 @@
+{
+    "rcn": "211865",
+    "acronym": "ALGOCom",
+    "topics": "ERC-2017-STG",
+    "title": "Novel Algorithmic Techniques through the Lens of Combinatorics",
+    "startDate": "01/02/2018",
+    "endDate": "31/01/2023",
+    "objective": "Real-world optimization problems pose major challenges to algorithmic research. For instance, (i) many important  problems are believed to be intractable (i.e. NP-hard) and (ii) with the growth of data size, modern applications often require a decision making under {\\em incomplete and  dynamically changing input data}. After several decades of research, central  problems in these domains have remained  poorly understood (e.g. Is there an asymptotically most efficient binary search trees?)  Existing algorithmic techniques either  reach their limitation or are inherently tailored to   special cases.   \n\nThis project attempts to untangle this gap in the state of the art and seeks new interplay across  multiple areas of algorithms, such as approximation algorithms, online algorithms, fixed-parameter tractable (FPT) algorithms,  exponential time algorithms, and data structures. We propose new directions from the {\\em structural perspectives} that connect the aforementioned algorithmic problems to basic questions in combinatorics.\nOur approaches fall into one of the three broad schemes: (i) new structural theory, (ii) intermediate problems, and (iii) transfer of techniques. These directions  partially build on the PI's successes in resolving more than ten classical  problems in this context. \n\nResolving the proposed problems will likely revolutionize our understanding about algorithms and data structures and potentially unify techniques in  multiple algorithmic regimes. Any progress is, in fact, already a significant contribution to the algorithms community. We suggest concrete intermediate goals that are of independent interest and have lower risks, so they are suitable for Ph.D students.",
+    "totalCost": "1411258",
+    "ecMaxContribution": "1411258",
+    "coordinator": "AALTO KORKEAKOULUSAATIO SR",
+    "coordinatorCountry": "FI",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "991256096": {
+            "orgId": "991256096",
+            "orgName": "AALTO-KORKEAKOULUSAATIO",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "212289",
+    "acronym": "PANAMA",
+    "topics": "ERC-2017-STG",
+    "title": "Probabilistic Automated Numerical Analysis in Machine learning and Artificial intelligence",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2023",
+    "objective": "Numerical tasks - integration, linear algebra, optimization, the solution of differential equations - form the computational basis of machine intelligence. Currently, human designers pick methods for these tasks from toolboxes. The generic algorithms assembled in such collections tend to be inefficient on any specific task, and can be unsafe when used incorrectly on problems they were not designed for. Research in numerical methods thus carries carries the potential for groundbreaking advancements in the performance and quality of AI. \n\nProject PANAMA will develop a framework within which numerical methods can be constructed in an increasingly automated fashion; and within which numerical methods can assess their own suitability, and adapt both model and computations to the task, at runtime. The key tenet is that numerical methods, since they perform tractable computations to estimate a latent quantity, can themselves be interpreted explicitly as active inference agents; thus concepts from machine learning can be translated to the numerical domain. Groundwork for this paradigm - probabilistic numerics - has recently been developed into a rigorous mathematical framework by the PI and others. The proposed research will simultaneously deliver new general theory for the computations of learning machines, and concrete new algorithms for core areas of machine learning. In doing so, Project PANAMA will improve the efficiency and safety of artificial intelligence, addressing scientific, technological and societal challenges affecting Europeans today.",
+    "totalCost": "1450000",
+    "ecMaxContribution": "1450000",
+    "coordinator": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 1450000
+        }
+    },
+    "calculatedTotalContribution": 1450000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "208603",
+    "acronym": "MuRChap",
+    "topics": "MSCA-IF-2016",
+    "title": "The mutation-buffering capacity of RNA chaperones",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "The goal of this project is to investigate how mutations that affect RNA structure can be buffered in trans by RNA chaperones using a combination of experimental and computational approaches. The Warnecke lab (the host) recently showed that RNA chaperones, like their protein chaperone counterparts, can buffer the fitness effects of deleterious mutations in Escherichia coli (Rudan et al. 2015 eLife, 4:e04745). However, the rules governing mutation buffering at the RNA level remain poorly understood. Do RNA chaperones rescue misfolded RNA intermediates? Do they alleviate the effects of mutation that lead to excessively stable secondary structures? Which mutations are amenable to buffering and which are not? And does that presence of RNA chaperones render their substrate RNAs more evolvable? Here, I will evaluate the buffering capacity of a model RNA chaperone, the DEAD-box RNA helicase CYT-19, by exploring how it affects the mutational robustness of the Tetrahymena group I intron, whose self-splicing activity is dependent on its structure. Following systematic site-directed and random mutagenesis, I will assay differential splicing activity of the generated intron variants and compare results to predictions from RNA structural modelling. Importantly, I will assay activity both in the presence and in the absence of CYT-19 to identify mutations that are buffered by RNA chaperone activity. To further understand the structural impact of chaperone-dependent mutations, I will use in-cell SHAPE-Seq to determine the mutated intron structures. To my knowledge, this is the first quantitative assessment of mutational effects on RNA in the presence of an RNA chaperone. The expected outcome will improve our understanding of RNA robustness, and may reveal insights into making better RNA-based tools.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999993468": {
+            "orgId": "999993468",
+            "orgName": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+            "ecContrib": 183455
+        }
+    },
+    "calculatedTotalContribution": 183455
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "195434",
+    "acronym": "LBSKQ",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Location Based Suggestion of Keyword Queries",
+    "startDate": "01/04/2015",
+    "endDate": "31/03/2017",
+    "objective": "Query suggestion is a recent and important add-on feature of Web search engines (e.g., Google), which helps users to express their information needs precisely. Specifically, given the fact that the user may not be able to find appropriate keywords for her search, the system recommends to her a small set of keyword queries that are likely to match her original intention. As an example, when a user searches for ìconvertible car,î she may miss all the documents indexed under ìcabriolet.î Therefore, the engine suggests ìcabrioletî as a follow-up query to the user.  There has been extensive research in the past decade on effective query suggestion. However, none of the existing keyword query suggestion methods consider the userís location. We argue that the queries suggested to a user not only should be semantically relevant to her original query, but also should give results near the userís location, especially when these queries are expressed by a mobile user; otherwise, the suggested queries might not be of interest to the user. Therefore, there is a need for effective location-based keyword query suggestion (LBKQS) models. The objectives of this project are (1) the development of LBKQS models, (2) the evaluation of the proposed models, (3) the development of efficient and scalable LBKQS techniques based on the most effective models. In the end, we expect our system to provide appropriate query suggestions to mobile users in real-time.\n\nThe subject of this project is timely and of great interest to the research community and IT industries, therefore the research publications that will arise from it will improve the visibility of European research internationally. The Experienced Researcher (ER) has a notable publications record and extensive experience in subjects related to the proposal (spatial, textual, spatio-textual data management and mining). The project will help him to (i) enhance his skills in the areas of recommender systems, distributed/mobile data managem",
+    "totalCost": "164653,2",
+    "ecMaxContribution": "164653,2",
+    "coordinator": "PANEPISTIMIO IOANNINON",
+    "coordinatorCountry": "EL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999852818": {
+            "orgId": "999852818",
+            "orgName": "PANEPISTIMIO IOANNINON",
+            "ecContrib": 164653
+        }
+    },
+    "calculatedTotalContribution": 164653
+}

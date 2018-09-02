@@ -1,0 +1,58 @@
+{
+    "rcn": "197938",
+    "acronym": "ANTAREX",
+    "topics": "FETHPC-1-2014",
+    "title": "AutoTuning and Adaptivity appRoach for Energy efficient eXascale HPC systems",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "Energy-efficient heterogeneous supercomputing architectures need to be coupled with a radically new software stack capable of exploiting the benefits offered by the heterogeneity at all the different levels (supercomputer, job, node) to meet the scalability and energy efficiency required by Exascale supercomputers.\nANTAREX will solve these challenging problems by proposing a disruptive holistic approach spanning all the decision layers composing the supercomputer software stack and exploiting effectively the full system capabilities (including heterogeneity and energy management). The main goal of the ANTAREX project is to provide a breakthrough approach to express application self-adaptivity at design-time and to runtime manage and autotune applications for green and heterogenous High Performance Computing (HPC) systems up to the Exascale level.",
+    "totalCost": "3115251,25",
+    "ecMaxContribution": "3115251",
+    "coordinator": "POLITECNICO DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE;VYSOKA SKOLA BANSKA - TECHNICKA UNIVERZITA OSTRAVA;DOMPE FARMACEUTICI SPA;SYGIC AS;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;UNIVERSIDADE DO PORTO;CINECA CONSORZIO INTERUNIVERSITARIO",
+    "participantCountries": "FR;CZ;IT;SK;CH;PT",
+    "projectParticipants": {
+        "941850310": {
+            "orgId": "941850310",
+            "orgName": "SYGIC AS",
+            "ecContrib": 296250
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 446250
+        },
+        "999868144": {
+            "orgId": "999868144",
+            "orgName": "VYSOKA SKOLA BANSKA - TECHNICKA UNIVERZITA OSTRAVA",
+            "ecContrib": 401250
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 577500
+        },
+        "999894916": {
+            "orgId": "999894916",
+            "orgName": "UNIVERSIDADE DO PORTO",
+            "ecContrib": 384250
+        },
+        "999547074": {
+            "orgId": "999547074",
+            "orgName": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+            "ecContrib": 301001
+        },
+        "934390622": {
+            "orgId": "934390622",
+            "orgName": "DOMPE FARMACEUTICI SPA",
+            "ecContrib": 296250
+        },
+        "999843409": {
+            "orgId": "999843409",
+            "orgName": "CINECA CONSORZIO INTERUNIVERSITARIO",
+            "ecContrib": 412500
+        }
+    },
+    "calculatedTotalContribution": 3115251
+}

@@ -1,0 +1,33 @@
+{
+    "rcn": "205619",
+    "acronym": "HASTECS",
+    "topics": "JTI-CS2-2015-CFP02-LPA-01-11",
+    "title": "Hybrid Aircraft; academic reSearch on Thermal and Electrical Components and Systems",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "The HASTECS project aims at supporting the demonstration of radical aircraft configurations (CS-2/WP1.6) by means of models and tools development that can help the designers in assessing main benefits of architectures and power management of hybrid electric propulsion. The proposed consortium involves all competences to face the huge complexity of this process. All academic researchers will gather their expertise to optimize the overall hybrid power chain, starting with electric and thermal components up to system integration by taking into account main environmental constraints. Assessments will be integrated at the system level and will include design and analysis of main components of the hybrid power chain: electric machines and related cooling, cables, power electronics and related thermal management. This system integration will take into account the main environmental constraints, especially partial discharges due to new high power and ultra-high voltage standards. The HASTECS project proposes to reach aggressive targets with a strong increase of specific powers for the main components; We especially target to double the specific power of electric machines from 5kW/kg for 2025 to 10kW/kg for 2035 while specific powers of converters would evolve from 15kW/kg for 2025 to 25kW/kg for 2035: this expected gap, when installing 4 inverterñmotor drives of 1.5MW, will lead to a weight reduction of 1.8 tons, which will offer a significant fuel burn reduction estimated at 3.5% for a short range (~300nm) flight. Additional fuel burn reduction will be obtained thanks to several technological steps as on ìauxiliary sourcesî (batteries, fuel cells, etc) and by optimizing the overall system sizing integrating the power management. Recent assessments estimate that the reduction of total energy provided by both Gas Turbines and auxiliaries (batteries of fuel cells) of the most promising electric hybrid architecture may go beyond 20% for a 300nm regional flight!",
+    "totalCost": "1499825",
+    "ecMaxContribution": "1499825",
+    "coordinator": "INSTITUT NATIONAL POLYTECHNIQUE DE TOULOUSE",
+    "coordinatorCountry": "FR",
+    "participants": "ECOLE NATIONALE SUPERIEURE DE MECANIQUE ET D'AEROTECHNIQUE;UNIVERSITE PAUL SABATIER TOULOUSE III",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "996067878": {
+            "orgId": "996067878",
+            "orgName": "ECOLE NATIONALE SUPERIEURE DE MECANIQUE ET D'AEROTECHNIQUE",
+            "ecContrib": 422075
+        },
+        "999851169": {
+            "orgId": "999851169",
+            "orgName": "UNIVERSITE PAUL SABATIER TOULOUSE III",
+            "ecContrib": 329375
+        },
+        "999836037": {
+            "orgId": "999836037",
+            "orgName": "INSTITUT NATIONAL POLYTECHNIQUE DE TOULOUSE",
+            "ecContrib": 748375
+        }
+    },
+    "calculatedTotalContribution": 1499825
+}

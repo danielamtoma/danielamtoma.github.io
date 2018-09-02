@@ -1,0 +1,23 @@
+{
+    "rcn": "204110",
+    "acronym": "COMPASS",
+    "topics": "ERC-StG-2015",
+    "title": "Control for Orbit Manoeuvring through Perturbations for Application to Space Systems",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2021",
+    "objective": "Space benefits mankind through the services it provides to Earth. Future space activities progress thanks to space transfer and are safeguarded by space situation awareness. Natural orbit perturbations are responsible for the trajectory divergence from the nominal two-body problem, increasing the requirements for orbit control; whereas, in space situation awareness, they influence the orbit evolution of space debris that could cause hazard to operational spacecraft and near Earth objects that may intersect the Earth. However, this project proposes to leverage the dynamics of natural orbit perturbations to significantly reduce current extreme high mission cost and create new opportunities for space exploration and exploitation.\nThe COMPASS project will bridge over the disciplines of orbital dynamics, dynamical systems theory, optimisation and space mission design by developing novel techniques for orbit manoeuvring by ìsurfingî through orbit perturbations. The use of semi-analytical techniques and tools of dynamical systems theory will lay the foundation for a new understanding of the dynamics of orbit perturbations. We will develop an optimiser that progressively explores the phase space and, though spacecraft parameters and propulsion manoeuvres, governs the effect of perturbations to reach the desired orbit. It is the ambition of COMPASS to radically change the current space mission design philosophy: from counteracting disturbances, to exploiting natural and artificial perturbations.\nCOMPASS will benefit from the extensive international network of the PI, including the ESA, NASA, JAXA, CNES, and the UK space agency. Indeed, the proposed idea of optimal navigation through orbit perturbations will address various major engineering challenges in space situation awareness, for application to space debris evolution and mitigation, missions to asteroids for their detection, exploration and deflection, and in space transfers, for perturbation-enhanced trajectory design.",
+    "totalCost": "1499020,97",
+    "ecMaxContribution": "1499020,97",
+    "coordinator": "POLITECNICO DI MILANO",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 1499021
+        }
+    },
+    "calculatedTotalContribution": 1499021
+}

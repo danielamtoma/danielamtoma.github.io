@@ -1,0 +1,38 @@
+{
+    "rcn": "200266",
+    "acronym": "NAVISAS",
+    "topics": "Sesar-08-2015",
+    "title": "Navigation of Airborne Vehicle with Integrated Space and Atomic Signals",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2018",
+    "objective": "Global Navigation Satellite System Positioning, Navigation and Timing (PNT) services have been increasing the airspace capacity, efficiency and safety and continue to proliferate and support more and more performance-based navigation operations. In the event of GNSS interference or outage, many GNSS enabled PNT services will be lost and the existing legacy navigation aids (VOR, DME, NDB and Secondary Radar) do not meet performance requirements nor maintain adequate capacity and efficiency. Therefore, a disruption to air traffic operations is expected to occur.\nDue to this disturbing reality and considering the growth of the worldwide air traffic, continuous, robust/resilient and high precision alternative positioning, navigation and timing (APNT) services and technologies are needed to maintain flight operations with the required level of performance while ensuring safety and security. \nCurrent solutions for APNT comprise of ground-based infrastructures transmitting non-GNSS signals-in-space to avionics.  However, all these solutions cannot be used by small aircraft without major reengineering of their avionic systems. \nThe NAVISAS Consortium will propose a novel concept of APNT for small aircraft that will integrate novel technologies and will merge multiple navigation avionics into one with no major impact on avionics. Specifically, NAVISAS is devoted to combine multiple GNSS constellations (GLONASS, GPS and Galileo) and a novel concept of atomic micro-gyroscope based on atomic spin and nuclear magnetic moment precessions, and to assess the improvements in performance and security. The technology of these gyros relies on a similar cell used for miniature atomic clocks, and will allow bridging the gap between the price of navigation grade gyroscopes and the market constraints for affordable non-inertial navigation systems and avionics in small aircraft, thus contributing significantly to enhancement of the flight safety level.",
+    "totalCost": "890910",
+    "ecMaxContribution": "584978,75",
+    "coordinator": "TEKEVER ASDS",
+    "coordinatorCountry": "PT",
+    "participants": "SHARK.AERO s.r.o;CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;THALES AVS FRANCE SAS",
+    "participantCountries": "SK;CH;FR",
+    "projectParticipants": {
+        "999984447": {
+            "orgId": "999984447",
+            "orgName": "THALES AVS FRANCE SAS",
+            "ecContrib": 93791
+        },
+        "926898633": {
+            "orgId": "926898633",
+            "orgName": "SHARK.AERO s.r.o",
+            "ecContrib": 117188
+        },
+        "958942292": {
+            "orgId": "958942292",
+            "orgName": "TEKEVER ASDS",
+            "ecContrib": 374000
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 584979
+}

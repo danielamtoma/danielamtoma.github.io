@@ -1,0 +1,73 @@
+{
+    "rcn": "202689",
+    "acronym": "RAMSES",
+    "topics": "FCT-04-2015",
+    "title": "Internet Forensic platform for tracking the money flow of financially-motivated malware",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2019",
+    "objective": "The Internet has become a key piece of any business activity. Criminal activity is not an exception. Some crimes previous to the Internet, such as thefts and scams, have found in the Internet the perfect tool for developing their activities. The Internet allows criminals hiding their real identity and the possibility to purchase specific tools for stealing sensitive data with a very low investment.\n\nThe overall objective of RAMSES is to design and develop a holistic, intelligent, scalable and modular platform for Law Enforcement Agencies (LEAs) to facilitate digital Forensic Investigations. The system will extract, analyse, link and interpret information extracted from Internet related with financially-motivated malware. \n\nCustomers, developers and malware victims will be included in order to obtain a better understanding of how and where malware is spread and to get to the source of the threat. To achieve these ambitious objectives, this project will rely on disruptive Big Data technologies to firstly extract and storage, and secondly look for patterns of fraudulent behaviour in enormous amounts of unstructured and structured data. We will focus on 2 case studies: ransomware and banking Trojans. \n\nIn order to this, RAMSES brings together the latest technologies to develop an intelligent software platform, combining scraping of public and deep web, detecting manipulation and steganalysis for images and videos, tracking malware payments, extraction and analysis of malware samples and Big Data analysis and visualizations tools.\n\nValidation pilots will take place in three different EU countries (Portugal, Belgium and Spain) being the first a mono-LEA pilot in each site and the second a collaborative investigation pilot between several LEAs. \n\nCommercial potential will be validated during the project supported by a feasibility study to assess determinants for the adoption of the platform and appropriate business models.",
+    "totalCost": "3803087,5",
+    "ecMaxContribution": "3532000",
+    "coordinator": "TREELOGIC TELEMATICA Y LOGICA RACIONAL PARA LA EMPRESA EUROPEA SL",
+    "coordinatorCountry": "ES",
+    "participants": "HOCHSCHULE FUR DEN OFFENTLICHEN DIENST IN BAYERN;SERVICE PUBLIC FEDERAL INTERIEUR;RISSC - CENTRO RICERCHE E STUDI SUSICUREZZA E CRIMINALITA ASSOCIAZIONE;MinistÈrio da JustiÁa;UNIVERSIDAD COMPLUTENSE DE MADRID;UNIVERSITY OF KENT;POLITECNICO DI MILANO;TRILATERAL RESEARCH LTD;MINISTERIO DEL INTERIOR;UNIVERSITAT DES SAARLANDES",
+    "participantCountries": "DE;BE;IT;PT;ES;UK",
+    "projectParticipants": {
+        "963764453": {
+            "orgId": "963764453",
+            "orgName": "SERVICE PUBLIC FEDERAL INTERIEUR",
+            "ecContrib": 281906
+        },
+        "999841275": {
+            "orgId": "999841275",
+            "orgName": "UNIVERSITY OF KENT",
+            "ecContrib": 471488
+        },
+        "999929545": {
+            "orgId": "999929545",
+            "orgName": "UNIVERSITAT DES SAARLANDES",
+            "ecContrib": 301594
+        },
+        "999827501": {
+            "orgId": "999827501",
+            "orgName": "MINISTERIO DEL INTERIOR",
+            "ecContrib": 138000
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 270500
+        },
+        "996538910": {
+            "orgId": "996538910",
+            "orgName": "TREELOGIC TELEMATICA Y LOGICA RACIONAL PARA LA EMPRESA EUROPEA SL",
+            "ecContrib": 386312
+        },
+        "923930724": {
+            "orgId": "923930724",
+            "orgName": "TRILATERAL RESEARCH LTD",
+            "ecContrib": 246225
+        },
+        "925864613": {
+            "orgId": "925864613",
+            "orgName": "RISSC - CENTRO RICERCHE E STUDI SUSICUREZZA E CRIMINALITA ASSOCIAZIONE",
+            "ecContrib": 233781
+        },
+        "983734231": {
+            "orgId": "983734231",
+            "orgName": "Ministério da Justiça",
+            "ecContrib": 207844
+        },
+        "999874546": {
+            "orgId": "999874546",
+            "orgName": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+            "ecContrib": 627125
+        },
+        "955334474": {
+            "orgId": "955334474",
+            "orgName": "HOCHSCHULE FUR DEN OFFENTLICHEN DIENST IN BAYERN",
+            "ecContrib": 367225
+        }
+    },
+    "calculatedTotalContribution": 3532000
+}

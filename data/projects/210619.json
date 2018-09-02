@@ -1,0 +1,28 @@
+{
+    "rcn": "210619",
+    "acronym": "Constance",
+    "topics": "JTI-CS2-2016-CFP04-FRC-01-12",
+    "title": "Flight Critical Wireless Slip Ring for Civil Tiltrotor",
+    "startDate": "01/06/2017",
+    "endDate": "31/07/2022",
+    "objective": "Slip rings for transferring power and data commonly form the interface between a rotating environment and a stationary domain. For aerospace applications, currently only conventional slip rings, with brushes, are on the market. The technique is proven, fairly reliable and robust, but there are clear drawbacks: wear, size and compromised signal integrity due to electrical noise.  \nA few commercial wireless slip rings are now available, however not designed and certified for aerospace applications. Flight-critical applications in harsh environments require a fault-tolerant design. The future need for qualification has to be taken into account from the start of the development.\nThe call for proposal asks for the development of wireless slip rings for power and data transfer for a flight-critical application within the Next Generation Civil Tiltrotor (NGCTR). This CfP is a technical and industrial challenge, which provides an opportunity for improving competitiveness on this important improvement part of the NGCTR program of the CS2 work plan.\nFor the development of Constance, NLR will combine their tiltrotor experience from the FP5 TILTAERO and FP7 NICETRIP programs with their patented wireless slip ring design and knowledge from the Contra-Rotating Open Rotor project of the CS2 Smart Fixed Wing Aircraft program. The distinguishing feature of the Constance slip ring is the specific orientation of the rotor and stator parts of the contactless slip ring which makes the design mechanically robust, safe and fault tolerant up to high rotational speeds. For the extension towards the flight-critical application on the tiltrotor the expertise of DDC Electronics Ltd. on power converters will be fully incorporated into the proven technology.   \nIn Constance, three redundant slip ring assemblies with flight clearance will be delivered to the topic manager for ground and flight testing on their NGCTR and two models will be used for extensive qualification tests. Constance will end the project with TRL 6.",
+    "totalCost": "861530",
+    "ecMaxContribution": "748405",
+    "coordinator": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+    "coordinatorCountry": "NL",
+    "participants": "DDC ELECTRONICS LIMITED",
+    "participantCountries": "UK",
+    "projectParticipants": {
+        "917136262": {
+            "orgId": "917136262",
+            "orgName": "DDC ELECTRONICS LIMITED",
+            "ecContrib": 261625
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 486780
+        }
+    },
+    "calculatedTotalContribution": 748405
+}

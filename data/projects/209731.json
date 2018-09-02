@@ -1,0 +1,33 @@
+{
+    "rcn": "209731",
+    "acronym": "ReservoirDOCs",
+    "topics": "ERC-2016-COG",
+    "title": "The evolutionary dynamics of pathogen emergence and establishment: from Reservoir Detection to Outbreak Control",
+    "startDate": "01/08/2017",
+    "endDate": "31/07/2022",
+    "objective": "Extracted evolutionary and epidemiological information from pathogen genomes has grown into an important instrument across infectious disease research. By harnessing such information, molecular epidemiologists aim to shed light on the origin and epidemic history of pathogens, from reservoir dynamics to emergence and adaptation to new hosts, and their spatiotemporal spread. However, despite the revolution in genome sequencing technologies and advances in statistical methodology, key questions about pathogen emergence and establishment in human populations remain unresolved for major viral epidemics. When confronted with new viral outbreaks, such as the recent devastating Ebola virus epidemic, we also struggle to deploy these technologies in a systematic and concerted way despite a critical need to support public health interventions.\nIn this project, we propose to unravel crucial steps in the emergence and establishment of key viral pathogens. We will scrutinise the reservoir dynamics of HCV by sequencing complete hepacivirus genomes from infected samples emerging from a large-scale screening of African rodents, and analyze the cross-species transmission history using novel evolutionary methods that accommodate spatial and temporal variability in selective pressures. To test hypotheses about the early establishment of HIV-1, we will carve a genomic window into the past epidemic history of the virus by integrating molecular work on archival samples from Central Africa and on samples representative of the current HIV-1 diversity, with the development of ancestral recombination graphs that accommodate dated tips and spatial diffusion, as well as population dynamic models that incorporate epidemiological information. Finally, we will take the recent Ebola epidemic in West Africa as a model to develop high-performance statistical approaches for extracting practical and timely epidemiological information from virus genome sequences during epidemics as they unfold.",
+    "totalCost": "1810576",
+    "ecMaxContribution": "1810576",
+    "coordinator": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "coordinatorCountry": "BE",
+    "participants": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA;THE UNIVERSITY OF EDINBURGH",
+    "participantCountries": "US;UK",
+    "projectParticipants": {
+        "999467340": {
+            "orgId": "999467340",
+            "orgName": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+            "ecContrib": 149100
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 350197
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 1311279
+        }
+    },
+    "calculatedTotalContribution": 1810576
+}

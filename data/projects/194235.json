@@ -1,0 +1,63 @@
+{
+    "rcn": "194235",
+    "acronym": "CloudSocket",
+    "topics": "ICT-07-2014",
+    "title": "Business and IT-Cloud Alignment using a Smart Socket",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Business and IT Alignment is important challenge, as we are facing a dramatic change in the way we rely, depend and interact with ICT that influences our everyday life. Although ìdigital nativesî will soon enter the workforce, there is still a huge gap between the business domain and ICT domain in terms of awareness, common understanding or expertise. This hampers the take-off of technology such as Cloud Computing. Hence, we are facing a competition, between global-market players who quicker succeed in changing business into the Cloud to raise ICT efficiency and reduce costs. This is particularly true for SMEs that have started to embrace virtualisation or at best IaaS offers but the exploding and dynamic market of components available on the PaaS or SaaS level demands for expertise and time typically not available at SMEs.\nBusiness processes are commodity when defining business activities in human understandable way in form of ìsequences of manual, semi-automatic or automated tasks with the aim to achieve the companyís goalî.\nPrevious work in plugIT mapped business processes on static ICT configurations available at a companyís site, assuming ICT is still mainly configured on platform or component level.\nCloudSocket envisions the idea of ìBusiness Process as a Serviceî, where domain-specific business processes like employee registration at social insurance, tax report, or legal verification are supported by workflows that optimally match the ICT support for the selected process. The ICT support is expected to be realized by available platforms or software components from PaaS or SaaS platforms.\nCloudSocket introduces the concept BPaaS that fulfills the business process needs thanks to smart alignment techniques, packages this BPaaS as ìextended Cloudletsî that are autonomously deployable and include adaptive rules to appropriately react in a multi-cloud environment by keeping SLAs and process-based billing. Hence, the vision is to ìplug businessî into the ìCloudî.",
+    "totalCost": "4084850",
+    "ecMaxContribution": "3548596",
+    "coordinator": "BOC ASSET MANAGEMENT GMBH",
+    "coordinatorCountry": "AT",
+    "participants": "YMENS TEAMNET SRL;MATHEMA SRL;FACHHOCHSCHULE NORDWESTSCHWEIZ;UNIVERSITAET ULM;FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS;FHOSTER SRL;ATOS SPAIN SA;BWCON GMBH",
+    "participantCountries": "RO;IT;CH;DE;EL;ES",
+    "projectParticipants": {
+        "999786179": {
+            "orgId": "999786179",
+            "orgName": "BOC ASSET MANAGEMENT GMBH",
+            "ecContrib": 902750
+        },
+        "999995893": {
+            "orgId": "999995893",
+            "orgName": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+            "ecContrib": 268750
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 423438
+        },
+        "999856310": {
+            "orgId": "999856310",
+            "orgName": "FACHHOCHSCHULE NORDWESTSCHWEIZ",
+            "ecContrib": 0
+        },
+        "936119647": {
+            "orgId": "936119647",
+            "orgName": "UNIVERSITAET ULM",
+            "ecContrib": 524150
+        },
+        "953500689": {
+            "orgId": "953500689",
+            "orgName": "MATHEMA SRL",
+            "ecContrib": 323125
+        },
+        "941889789": {
+            "orgId": "941889789",
+            "orgName": "YMENS TEAMNET SRL",
+            "ecContrib": 396375
+        },
+        "937328655": {
+            "orgId": "937328655",
+            "orgName": "BWCON GMBH",
+            "ecContrib": 458883
+        },
+        "940728505": {
+            "orgId": "940728505",
+            "orgName": "FHOSTER SRL",
+            "ecContrib": 251125
+        }
+    },
+    "calculatedTotalContribution": 3548596
+}

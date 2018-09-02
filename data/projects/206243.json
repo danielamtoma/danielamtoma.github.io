@@ -1,0 +1,63 @@
+{
+    "rcn": "206243",
+    "acronym": "VERSATILE",
+    "topics": "ICT-25-2016-2017",
+    "title": "Innovative robotic applications for highly reconfigurable production lines - VERSATILE",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The recent trends of mass customization of products and lean approaches impacts production by a drastic reduction of\nproduction lot sizes. However, traditional automation and robotics fail to be competitive in such a context since all individual\nproduct variant would require a complete automation project. In addition, keeping up with the introduction of robots outside of\nthe traditional sectors require to automate much more complex manual tasks, where again traditional robotics automation\nfails to provide a good ratio of cost vs robustness, mainly due to the rigidity of existing production equipment in terms of\nprogramming and tools\n\nThe overall objective of the project is to provide a bridge for transferring, demonstrating and validating the latest R&D results\nin robotics towards different industrial environments proving their applicability and effectiveness.\nMore specifically, VERSATILE will apply dual arm robots in executing complex tasks that are traditionally assigned to\nhumans due to their manipulation requirements. By providing the tools to quickly setup, program and operate innovative\nrobotic systems the end user will have robotic cells flexible enough to automatically adapt to the high number of products\nvariants.\n\nIn this context the project will focus on advancing the TRL level of the latest developments in the areas of:\n- Perception for Operation in semi-structured environment\n- Easy Programming framework to improve the re-configurability/ programmability of the robotic systems\n- Mobile dual-arm robotics manipulation capabilities\n- Open frameworks for the ëPlug and Produceí based coordination of these resources\n\nThis will be investigated in three industry driven use cases including both static and mobile dual arm robots. The project will\nfocus on three main applications:\n- Automotive: assembly of vehicle dashboards at PSA\n- Aerospace: assembly of aircraft wing parts at AIRBUS\n- Consumer goods: handling and packaging of shaver handles at BIC",
+    "totalCost": "4301766,25",
+    "ecMaxContribution": "3479631,75",
+    "coordinator": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+    "coordinatorCountry": "ES",
+    "participants": "INTERMODALICS BVBA;VIOLEX BIC ABEE ANONIMOS BIOMICHANIKI KAI EMPORIKI ETAIRIA;UNIVERSITE DE MONTPELLIER;AIRBUS OPERATIONS SL;PSA AUTOMOBILES SA;DGH ROBOTICA, AUTOMATIZACION Y MANTENIMIENTO INDUSTRIAL SA;COMAU SPA;PANEPISTIMIO PATRON",
+    "participantCountries": "BE;EL;FR;ES;IT",
+    "projectParticipants": {
+        "975080473": {
+            "orgId": "975080473",
+            "orgName": "INTERMODALICS BVBA",
+            "ecContrib": 184888
+        },
+        "999944095": {
+            "orgId": "999944095",
+            "orgName": "AIRBUS OPERATIONS SL",
+            "ecContrib": 238438
+        },
+        "933640521": {
+            "orgId": "933640521",
+            "orgName": "UNIVERSITE DE MONTPELLIER",
+            "ecContrib": 296919
+        },
+        "998080143": {
+            "orgId": "998080143",
+            "orgName": "COMAU SPA",
+            "ecContrib": 451062
+        },
+        "999420877": {
+            "orgId": "999420877",
+            "orgName": "PSA AUTOMOBILES SA",
+            "ecContrib": 378063
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 754450
+        },
+        "999894528": {
+            "orgId": "999894528",
+            "orgName": "PANEPISTIMIO PATRON",
+            "ecContrib": 555000
+        },
+        "965854415": {
+            "orgId": "965854415",
+            "orgName": "VIOLEX BIC ABEE ANONIMOS BIOMICHANIKI KAI EMPORIKI ETAIRIA",
+            "ecContrib": 198625
+        },
+        "949608079": {
+            "orgId": "949608079",
+            "orgName": "DGH ROBOTICA, AUTOMATIZACION Y MANTENIMIENTO INDUSTRIAL SA",
+            "ecContrib": 422188
+        }
+    },
+    "calculatedTotalContribution": 3479633
+}

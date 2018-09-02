@@ -1,0 +1,23 @@
+{
+    "rcn": "208401",
+    "acronym": "RelPro",
+    "topics": "MSCA-IF-2016",
+    "title": "Relativistic non-linear optical property calculations with density functional theory",
+    "startDate": "18/04/2017",
+    "endDate": "17/04/2019",
+    "objective": "Non-linear optical properties of molecules with strong relativistic effects play an important role in current research e.g. for photochromic materials and bioimaging. Up to now, there is no computational treatment of these molecular properties such as two-photon absorption (TPA) and first hyperpolarizabilities using density functional theory (DFT). Such a computational technique will, however, be very benefitial for research in this field as by result prediction and computational assistance for the interpretation of results, it will allow for a much more efficient use of synthesis ressources both regarding manpower and chemicals. The molecular properties will be treated in terms of energy derivatives w.r.t. the electric field using response theory. Relativistic effects will be taken into account as part of the zeroth-order Hamiltonian. Namely, the four-component Hamiltonian will be used. As the first main task of the project, the so-called second exchange-correlation kernel, the third derivative of the exchange-correlation energy with respect to the variational parameters, will be formulated and implemented. Due to the innovativeness of the response theory approach to be used, TPA, first hyperpolarizabilities and excited state dipole moments will be available at the same time allowing for a large variety of applications right from the start. This project is a big challenge for quantum chemical method development as taking into account relativistic effects using the four-component Hamiltonian operator renders the fundamental expressions very complex. However, the risk behind this project will be minimized by the organization in terms of work packages which ensure that the implementation will be performed in different steps with increasing complexity.",
+    "totalCost": "159460,8",
+    "ecMaxContribution": "159460,8",
+    "coordinator": "HEINRICH-HEINE-UNIVERSITAET DUESSELDORF",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999856116": {
+            "orgId": "999856116",
+            "orgName": "HEINRICH-HEINE-UNIVERSITAET DUESSELDORF",
+            "ecContrib": 159461
+        }
+    },
+    "calculatedTotalContribution": 159461
+}

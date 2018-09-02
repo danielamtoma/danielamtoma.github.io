@@ -1,0 +1,23 @@
+{
+    "rcn": "193663",
+    "acronym": "Hi-EST",
+    "topics": "ERC-StG-2014",
+    "title": "Holistic Integration of Emerging Supercomputing Technologies",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2020",
+    "objective": "Hi-EST aims to address a new class of placement problem, a challenge for computational sciences that consists in mapping workloads on top of hardware resources with the goal to maximise the performance of workloads and the utilization of resources. The objective of the placement problem is to perform a more efficient management of the computing infrastructure by continuously adjusting the number and type of resources allocated to each workload. \n\nPlacement, in this context, is well known for being NP-hard, and resembles the multi-dimensional knapsack problem. Heuristics have been used in the past for different domains, providing vertical solutions that cannot be generalised. When the workload mix is heterogeneous and the infrastructure hybrid, the problem becomes even more challenging. This is the problem that Hi-EST plans to address. The approach followed will build on top of four research pillars: supervised learning of the placement properties, placement algorithms for tasks, placement algorithms for data, and software defined environments for placement enforcement.\n\nHi-EST plans to advance research frontiers in four different areas: 1) Adaptive Learning Algorithms: by proposing the first known use of Deep Learning techniques for guiding task and data placement decisions; 2) Task Placement: by proposing the first known algorithm to map heterogeneous sets of tasks on top of systems enabled with Active Storage capabilities, and by extending unifying performance models for heterogeneous workloads to cover and unprecedented number of workload types; 3) Data Placement: by proposing the first known algorithm used to map data on top of heterogeneous sets of key/value stores connected to Active Storage technologies; and 4) Software Defined Environments (SDE): by extending SDE description languages with a still inexistent vocabulary to describe Supercomputing workloads that will be leveraged to combine data and task placement into one single decision-making process.",
+    "totalCost": "1467783",
+    "ecMaxContribution": "1467783",
+    "coordinator": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 1467783
+        }
+    },
+    "calculatedTotalContribution": 1467783
+}

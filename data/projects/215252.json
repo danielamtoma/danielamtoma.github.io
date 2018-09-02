@@ -1,0 +1,17 @@
+{
+    "rcn": "215252",
+    "acronym": "RCADE",
+    "topics": "MSCA-IF-2017",
+    "title": "Reversible causally-consistent debugging of concurrent programs",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2020",
+    "objective": "Modern computing devices execute complex software to provide every-day services and applications. The development of such software is challenging, time consuming and costly. It involves writing a program code, testing it and debugging it, namely finding an error in the code and correcting it. It is estimated that debugging costs an estimated 312 billion USD a year. The most successful commercial debugging tools are reversible debuggers. They allow the users to undo an execution of a faulty program, to find and correct errors, and then to run the corrected code forwards again. UndoDB by Undo Software is the top reversible debugger currently on the market. However, even the best reversible debuggers are not suited very well to debugging of concurrent programs. Moreover, it is not universally agreed yet how to reverse the code of concurrent or distributed software. This project aims at addressing these shortcomings by exploiting the promising notion of causally-consistent reversibility as the basis for reversible debugging tools. Novel formal models and new techniques for recording, analysis and replay of concurrent programs will be created. An execution engine for the shared-memory and message-passing styles of programs will be developed in a close collaboration with Undo Software and Erlang Solutions, the leading software companies. The scientific outcomes will be turned into an experimental prototype software, called Reversible CAusally-consistent DEbugger (RCADE), which will extend and enhance commercial debugging tools, especially for concurrency.\n\nThe Fellow will undertake a world-class programme of research, industrial and academic training and collaboration. He will obtain formal lecturer qualification and deliver an undergraduate module. The knowledge and experience gained on the fellowship will be transferred to academia and industry in Europe. The project will develop his scientific independence, create a new network and enforce a senior academic position.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "UNIVERSITY OF LEICESTER",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

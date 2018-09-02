@@ -1,0 +1,68 @@
+{
+    "rcn": "211421",
+    "acronym": "5G-CORAL",
+    "topics": "ICT-08-2017",
+    "title": "5G-CORAL: A 5G Convergent Virtualised Radio Access Network Living at the Edge",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2019",
+    "objective": "The 5G-CORAL project leverages on the pervasiveness of edge and fog computing in the Radio Access Network (RAN) to create a unique opportunity for access convergence. This is envisioned by the means of an integrated and virtualised networking and computing solution where virtualised functions, context-aware services, and user and third-party applications are blended together to offer enhanced connectivity and better quality of experience. The proposed solution contemplates two major building blocks, namely (i) the Edge and Fog computing System (EFS) subsuming all the edge and fog computing substrate offered as a shared hosting environment for virtualised functions, services, and applications; and (ii) the Orchestration and Control System (OCS) responsible for managing and controlling the EFS, including its interworking with other (non-EFS) domains (e.g., transport and core networks, distant clouds, etc.). Through the 5G-CORAL solution, several Key Performance Indicators (KPIs) can be achieved, notably an ultra-low end-to-end latency in the order of milliseconds. Moreover, new business prospects arise with new stakeholders in the value chain, notably small players owning computing and networking assets in the local service area, such as in shopping malls, airports, trains and cars. These environments will be used to validate the system in three complementary end-to-end large-scale testbeds in Taiwan, supporting innovative applications such as augmented reality, car safety, and IoT gateway.",
+    "totalCost": "3856973,75",
+    "ecMaxContribution": "2497223,75",
+    "coordinator": "UNIVERSIDAD CARLOS III DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "AZCOM TECHNOLOGY SRL;INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE INCORPORATED;INTERDIGITAL EUROPE LTD;RISE SICS AB;ERICSSON AB;NATIONAL CHIAO TUNG UNIVERSITY;ADLINK TECHNOLOGY INC;TELECOM ITALIA SPA;TELCARIA IDEAS SL",
+    "participantCountries": "IT;TW;UK;SE;ES",
+    "projectParticipants": {
+        "958590376": {
+            "orgId": "958590376",
+            "orgName": "NATIONAL CHIAO TUNG UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 237750
+        },
+        "999588202": {
+            "orgId": "999588202",
+            "orgName": "RISE SICS AB",
+            "ecContrib": 381750
+        },
+        "954016341": {
+            "orgId": "954016341",
+            "orgName": "AZCOM TECHNOLOGY SRL",
+            "ecContrib": 218000
+        },
+        "950635891": {
+            "orgId": "950635891",
+            "orgName": "INTERDIGITAL EUROPE LTD",
+            "ecContrib": 470500
+        },
+        "999910921": {
+            "orgId": "999910921",
+            "orgName": "ERICSSON AB",
+            "ecContrib": 314474
+        },
+        "917338119": {
+            "orgId": "917338119",
+            "orgName": "ADLINK TECHNOLOGY INC",
+            "ecContrib": 0
+        },
+        "938460839": {
+            "orgId": "938460839",
+            "orgName": "TELCARIA IDEAS SL",
+            "ecContrib": 302750
+        },
+        "992251995": {
+            "orgId": "992251995",
+            "orgName": "INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE INCORPORATED",
+            "ecContrib": 0
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 572000
+        }
+    },
+    "calculatedTotalContribution": 2497224
+}

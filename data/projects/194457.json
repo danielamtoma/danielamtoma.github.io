@@ -1,0 +1,78 @@
+{
+    "rcn": "194457",
+    "acronym": "FLEXMETER",
+    "topics": "LCE-07-2014",
+    "title": "Flexible smart metering for multiple energy vectors with active prosumers",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "The introduction of the electricity market, the widespread diffusion of distributed generation from renewable and non-programmable energy sources and the need for storage are quickly changing the problems that Transmission and Distribution system operators have to face in their activity and are requiring a ìsmarterî grid. A first step in this direction is the development and installation of a flexible smart metering architecture for multiple energy vectors. Up to now the smart meters that in some countries are being installed at the users are nearly only devoted to billing improvements. The new metering systems must go much further to provide their contribution to various objectives such as end-user affordability of electricity, energy and market efficiency improvement, CO2 emissions and pollutants reduction. In the FLEXMETER project a flexible, multi-utility, multi-service metering architecture will be designed and deployed in two demonstrators. Simple off-the-shelf meters will be placed at the users for electric, thermal and gas metering; they will communicate with a building concentrator, where the ìsmartnessî of the metering system will reside. A central cloud system will collect data from the building concentrators and from MV/LV substation meters. Data collection, fusion and mining algorithms will be adopted. The proposed architecture will allow for innovative services for the prosumers (e.g. analysis of the energy consumption), for the Distribution System Operators (DSOs) (e.g. fault detection, network balancing and storage integration) and for the retail market. Also demand side management devices could be plugged into the system. In the FLEXMETER project two pilot applications in two different countries (Italy and Sweden), on real systems, with the involvement of the local DSOs and volunteer prosumers will be demonstrated. The results on the demonstrators will then be scaled up to the size of the cities in order to evaluate the advantages on a real scale.",
+    "totalCost": "3869607,25",
+    "ecMaxContribution": "3197791,38",
+    "coordinator": "POLITECNICO DI TORINO",
+    "coordinatorCountry": "IT",
+    "participants": "E.ON SVERIGE AB;IREN ENERGIA SPA;INSTITUT POLYTECHNIQUE DE GRENOBLE;RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;SIVECO ROMANIA SA;UNIVERSITATEA POLITEHNICA DIN BUCURESTI;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;IREN SPA;STMICROELECTRONICS SRL;TELECOM ITALIA SPA;JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+    "participantCountries": "SE;IT;FR;DE;RO;BE",
+    "projectParticipants": {
+        "997953655": {
+            "orgId": "997953655",
+            "orgName": "E.ON SVERIGE AB",
+            "ecContrib": 300000
+        },
+        "999842342": {
+            "orgId": "999842342",
+            "orgName": "UNIVERSITATEA POLITEHNICA DIN BUCURESTI",
+            "ecContrib": 190625
+        },
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 202875
+        },
+        "999992304": {
+            "orgId": "999992304",
+            "orgName": "JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+            "ecContrib": 50000
+        },
+        "997983337": {
+            "orgId": "997983337",
+            "orgName": "SIVECO ROMANIA SA",
+            "ecContrib": 192500
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 281750
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 683524
+        },
+        "999977657": {
+            "orgId": "999977657",
+            "orgName": "STMICROELECTRONICS SRL",
+            "ecContrib": 305499
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 280000
+        },
+        "957310267": {
+            "orgId": "957310267",
+            "orgName": "IREN ENERGIA SPA",
+            "ecContrib": 8750
+        },
+        "999875225": {
+            "orgId": "999875225",
+            "orgName": "INSTITUT POLYTECHNIQUE DE GRENOBLE",
+            "ecContrib": 223198
+        },
+        "974020360": {
+            "orgId": "974020360",
+            "orgName": "IREN SPA",
+            "ecContrib": 479071
+        }
+    },
+    "calculatedTotalContribution": 3197792
+}

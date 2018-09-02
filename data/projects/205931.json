@@ -1,0 +1,73 @@
+{
+    "rcn": "205931",
+    "acronym": "ELASTEST",
+    "topics": "ICT-10-2016",
+    "title": "ElasTest: an elastic platform for testing complex distributed large software systems",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The demand for larger and more interconnected software systems is constantly increasing, but the ability of developers to satisfy it is not evolving accordingly. The most limiting factor is software validation, which typically requires very costly and complex testing processes. This project aims at significantly improving the efficiency and effectiveness of the testing process and, with it, the overall quality of large software systems. For this, we propose to apply the ìdivide-and-conquerî principle, which is commonly used for architecting complex software, to testing by developing a novel test orchestration theory and toolbox enabling the creation of complex test suites as the composition of simple testing units. This test orchestration mechanism is complemented with a number of tools that include: (1) Capabilities for the instrumentation of the Software under Test enabling to reproduce real-world operational conditions thanks to features such as Packet Loss as a Service, Network Latency as a Service, Failure as a Service, etc. (2) Reusable testing services solving common testing problems including Browser Automation as a Service, Sensor Emulator as a Service, Monitoring as a Service, Security Check as a Service, Log Ingestion and Analysis as a Service, Cost Modeling as a Service, etc. (3) Cognitive computing and machine learning mechanisms suitable for ingesting large amounts of knowledge (e.g. specifications, logs, software engineering documents, etc.) and capable of using it for generating testing recommendations and answering natural language questions about the testing process. The ElasTest platform thus created shall be released basing on a flexible Free Open Source Software and a community of users, stakeholders and contributors shall be grown around it with the objective of transforming ElasTest into a worldwide reference in the area of large software systems testing and of guaranteeing the long term sustainability of the project generated results.",
+    "totalCost": "5031187,5",
+    "ecMaxContribution": "4270187",
+    "coordinator": "UNIVERSIDAD REY JUAN CARLOS",
+    "coordinatorCountry": "ES",
+    "participants": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;TIKAL TECHNOLOGIES SL;IBM IRELAND LIMITED;TECHNISCHE UNIVERSITAET BERLIN;ATOS SPAIN SA;CONSIGLIO NAZIONALE DELLE RICERCHE;FUNDACION IMDEA SOFTWARE;PRODUCTION TRADE AND SUPPORT OF MACHINABLE PRODUCTS OF SOFTWARE AND INFORMATICS - RELATIONAL TECHNOLOGY AE;TELECOM ITALIA SPA;ZURCHER HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN",
+    "participantCountries": "DE;ES;IE;IT;EL;CH",
+    "projectParticipants": {
+        "998291506": {
+            "orgId": "998291506",
+            "orgName": "ZURCHER HOCHSCHULE FUR ANGEWANDTE WISSENSCHAFTEN",
+            "ecContrib": 0
+        },
+        "999908496": {
+            "orgId": "999908496",
+            "orgName": "TELECOM ITALIA SPA",
+            "ecContrib": 0
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 497625
+        },
+        "999886283": {
+            "orgId": "999886283",
+            "orgName": "UNIVERSIDAD REY JUAN CARLOS",
+            "ecContrib": 797625
+        },
+        "968580309": {
+            "orgId": "968580309",
+            "orgName": "TIKAL TECHNOLOGIES SL",
+            "ecContrib": 436375
+        },
+        "952910153": {
+            "orgId": "952910153",
+            "orgName": "PRODUCTION TRADE AND SUPPORT OF MACHINABLE PRODUCTS OF SOFTWARE AND INFORMATICS - RELATIONAL TECHNOLOGY AE",
+            "ecContrib": 269750
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 411875
+        },
+        "998520426": {
+            "orgId": "998520426",
+            "orgName": "FUNDACION IMDEA SOFTWARE",
+            "ecContrib": 288875
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 332125
+        },
+        "944973128": {
+            "orgId": "944973128",
+            "orgName": "IBM IRELAND LIMITED",
+            "ecContrib": 440687
+        },
+        "999986678": {
+            "orgId": "999986678",
+            "orgName": "TECHNISCHE UNIVERSITAET BERLIN",
+            "ecContrib": 795250
+        }
+    },
+    "calculatedTotalContribution": 4270187
+}

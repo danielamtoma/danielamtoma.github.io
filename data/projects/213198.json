@@ -1,0 +1,68 @@
+{
+    "rcn": "213198",
+    "acronym": "PODIUM",
+    "topics": "SESAR-VLD1-10-2016",
+    "title": "Proving Operations of Drones with Initial UTM Management",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2019",
+    "objective": "The PODIUM project comprises four complementary, large scale demonstrations, taking place in  Denmark, France and the Netherlands where more than 185 drone flights will be conducted. Its partnersí quick wins integrated UTM solution will be demonstrated in a broad range of realistic operational conditions of drone operations (VLOS and BVLOS) in VLL airspace (controlled & uncontrolled airspace; urban, rural and in the vicinity of airports) interacting with manned traffic. Each of its four sites has its own specificities (e.g. routine day to day operations, emphasis on UTM/ATM communication, normal/abnormal conditions).\n\nThe demonstrations will notably enable its safe and secure use by various categories of users (e.g. authorities, drone operations, drone pilots) and for many types of drone operations (e.g. electricity line inspection, emergency services). Together the four sites demonstrations ensure a comprehensive and extensive demonstration of the full potential and technology readiness level of the PODIUM UTM functionalities (from Before-flight to Post-flight with a special focus on in-flight dynamic geo-fencing). PODIUM is a U-Space compliant demonstration.\n\nUnder EUROCONTROL leadership, PODIUM consortium comprises 10 members,17 linked third parties and 4 sub-contractors, including many in-kind contributions. By bringing together drone actors (UTM provider, drone operators, drone trackers manufacturers), ATM actors (ANSPs, ATM system integrator & others) and infrastructure providers (drone demonstrations centers, telecommunication network) supported by their local authorities in its Advisory Board, PODIUM project will naturally improve the links between the drone and the ATM communities therefore contributing to a safer integration of drone operation in the European airspace and maximising the outreach of the project at regulatory and standardisation levels.",
+    "totalCost": "3199900",
+    "ecMaxContribution": "1395649,25",
+    "coordinator": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+    "coordinatorCountry": "BE",
+    "participants": "UNIFLY;STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE;ORANGE BELGIUM;DRONES PARIS REGION;AIRBUS DEFENCE AND SPACE SAS;DELAIR-TECH;NAVIAIR;INTEGRA AERIAL SERVICES APS",
+    "participantCountries": "BE;NL;FR;DK",
+    "projectParticipants": {
+        "953488467": {
+            "orgId": "953488467",
+            "orgName": "ORANGE BELGIUM",
+            "ecContrib": 63175
+        },
+        "952199046": {
+            "orgId": "952199046",
+            "orgName": "DELAIR-TECH",
+            "ecContrib": 29566
+        },
+        "924870557": {
+            "orgId": "924870557",
+            "orgName": "UNIFLY",
+            "ecContrib": 265881
+        },
+        "923671249": {
+            "orgId": "923671249",
+            "orgName": "NAVIAIR",
+            "ecContrib": 69624
+        },
+        "928673636": {
+            "orgId": "928673636",
+            "orgName": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+            "ecContrib": 135625
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 270831
+        },
+        "916969907": {
+            "orgId": "916969907",
+            "orgName": "INTEGRA AERIAL SERVICES APS",
+            "ecContrib": 182000
+        },
+        "913233564": {
+            "orgId": "913233564",
+            "orgName": "DRONES PARIS REGION",
+            "ecContrib": 201412
+        },
+        "999809265": {
+            "orgId": "999809265",
+            "orgName": "AIRBUS DEFENCE AND SPACE SAS",
+            "ecContrib": 177536
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 1395650
+}

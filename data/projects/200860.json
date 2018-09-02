@@ -1,0 +1,53 @@
+{
+    "rcn": "200860",
+    "acronym": "SALSA",
+    "topics": "Sesar-07-2015",
+    "title": "SATELLITE-BASED ADS-B FOR LOWER SEPARATION-MINIMA APPLICATION (SALSA)",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2018",
+    "objective": "SALSA is an exploratory research project relating to multi-source ADS-B system.\n\nA multi-source ADS-B system that combines the benefit of all possible type of relays (space, maritime, air or ground based) of ADS-B messages could provide a global surveillance system to overcome the prevailing continuous surveillance constraints in the non-radar airspace (NRA).  \n\nBy bringing Space based ADS-B with other sources of surveillance based on ground, air and oceanic relays, a system of system architecture is conceived; upon its benefits, new separation standards are validated through analysis using theoretical modelling for separation standard and airspace capacity, in the context of NRA.   Reduction in separation minimum and in the number of standards will bring significant benefits to ATC/ATM operations with improved aircraft surveillance and airspace management.   \n\nThese two aspects, namely, a  system-of-system concept for multi-source ADS-B architecture  and analytical modelling for enhanced separation minima and airspace capacity in the context of NRA define the scope of SALSA. The analysis will also consider different scenarios of separation minima Vs. ADS-B message update rate.\n\nThe study will assess the impact of performance of such a system of systems approach in the context of separation standards; it will provide an assessment of the procedural impact and impact to flight safety due to the revised minima and the system configuration.\n\nA set of recommendations to SESAR JU and other stake-holders and industry partners will be provided in order to purse the outcome of the study towards higher technology readiness level (TRL) and eventual implementation.",
+    "totalCost": "995063,75",
+    "ecMaxContribution": "995063,75",
+    "coordinator": "AIRBUS DEFENCE AND SPACE LTD",
+    "coordinatorCountry": "UK",
+    "participants": "REDU SPACE SERVICES;NAVEGACAO AEREA DE PORTUGAL - NAV PORTUGAL EPE;AIRBUS DEFENCE AND SPACE GMBH;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;AIRBUS DEFENCE AND SPACE SAS;AIRBUS DS SAS;AIRBUS DS GMBH",
+    "participantCountries": "BE;PT;DE;FR",
+    "projectParticipants": {
+        "955596471": {
+            "orgId": "955596471",
+            "orgName": "NAVEGACAO AEREA DE PORTUGAL - NAV PORTUGAL EPE",
+            "ecContrib": 104675
+        },
+        "950661305": {
+            "orgId": "950661305",
+            "orgName": "REDU SPACE SERVICES",
+            "ecContrib": 164900
+        },
+        "999530778": {
+            "orgId": "999530778",
+            "orgName": "AIRBUS DEFENCE AND SPACE LTD",
+            "ecContrib": 104909
+        },
+        "999436494": {
+            "orgId": "999436494",
+            "orgName": "AIRBUS DS GMBH",
+            "ecContrib": 0
+        },
+        "999809265": {
+            "orgId": "999809265",
+            "orgName": "AIRBUS DEFENCE AND SPACE SAS",
+            "ecContrib": 104700
+        },
+        "999956705": {
+            "orgId": "999956705",
+            "orgName": "AIRBUS DS SAS",
+            "ecContrib": 175218
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 235650
+        }
+    },
+    "calculatedTotalContribution": 890052
+}

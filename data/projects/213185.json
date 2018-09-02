@@ -1,0 +1,53 @@
+{
+    "rcn": "213185",
+    "acronym": "plaCMOS",
+    "topics": "ICT-30-2017",
+    "title": "Wafer-scale, CMOS integration of photonics, plasmonics and electronics devices for mass manufacturing 200Gb/s non-return-to-zero (NRZ) transceivers towards low-cost Terabit connectivity in Data Centers",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2020",
+    "objective": "The goal of the PlaCMOS project is to develop and demonstrate the next generation optical-electronic CMOS platform that will enable transceivers capable of real-time communication with data rates exceeding 200 Gb/s. To achieve this goal the PlaCMOS platform will be based on the latest bipolar CMOS (BiCMOS) technology and will be cointegrated with a ferroelectric plasmonic and SiGe detector technology.  By exploiting plasmonics rather than photonics PlaCMOS will not only be able to extend the bandwidth far beyond 100 GHz but also reduce the footprint of the photonics device to the micrometer scale. To demonstrate the technology, a single channel 200 Gb/s non-return-to-zero (NRZ) transmitter and receiver pair will be implemented. To further show the scalability an ultra-compact 4 x 50 Gb/s transceiver directly interfacing a multicore optical fiber will be implemented and tested for temperature stability beyond 150 degree Celsius. And while the project goes far beyond the current state-of-the art, the approach is not speculative but is substantiated by recent experiments performed by the members of the consortium that indicate that both electronic and photonic limits can be stretched beyond the current limits. To this end a team with complementary skill sets from both industry and universities ñ all with outstanding track records in the field ñ have committed to address the needs outlined in current roadmaps for data communication. This project will demonstrate the capabilities of the technology for a single exemplary field of applications. Yet, the project has far wider implications with applications that go beyond the field of communications.",
+    "totalCost": "4036377,5",
+    "ecMaxContribution": "4036377,5",
+    "coordinator": "MELLANOX TECHNOLOGIES LTD - MLNX",
+    "coordinatorCountry": "IL",
+    "participants": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK;ARISTOTELIO PANEPISTIMIO THESSALONIKIS;IBM RESEARCH GMBH;EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH;MICRAM MICROELECTRONIC GMBH;UNIVERSITAT DES SAARLANDES",
+    "participantCountries": "DE;EL;CH",
+    "projectParticipants": {
+        "986557707": {
+            "orgId": "986557707",
+            "orgName": "MICRAM MICROELECTRONIC GMBH",
+            "ecContrib": 751721
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 611471
+        },
+        "999606438": {
+            "orgId": "999606438",
+            "orgName": "IHP GMBH - INNOVATIONS FOR HIGH PERFORMANCE MICROELECTRONICS/LEIBNIZ-INSTITUT FUER INNOVATIVE MIKROELEKTRONIK",
+            "ecContrib": 723560
+        },
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 582000
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 512000
+        },
+        "999929545": {
+            "orgId": "999929545",
+            "orgName": "UNIVERSITAT DES SAARLANDES",
+            "ecContrib": 374375
+        },
+        "990560024": {
+            "orgId": "990560024",
+            "orgName": "MELLANOX TECHNOLOGIES LTD - MLNX",
+            "ecContrib": 481250
+        }
+    },
+    "calculatedTotalContribution": 4036377
+}

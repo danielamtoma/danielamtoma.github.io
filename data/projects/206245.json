@@ -1,0 +1,158 @@
+{
+    "rcn": "206245",
+    "acronym": "PJ09 DCB",
+    "topics": "SESAR.IR-VLD.Wave1-11-2015",
+    "title": "Advanced DCB",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "The S2020 project ìPJ09 Advanced DCBî evolves the existing DCB process to a powerful distributed network management function which takes full advantage from the SESAR Layered Collaborative Planning, Trajectory Management principles and SWIM Technology to improve the effectiveness of ATM resource planning and the network performance of the ATM system in Europe. \nSolution 1 develops shared situation awareness with respect to demand, capacity and performance impacts. Traffic and demand forecast have improved reliability based on complexity assessment and the computation of confidence indexes. Network Operations will be continuously monitored through Network Performance KPA/KPI. Network impact assessment will analyse trade-offs and facilitate collaborative decision making processes.\nSolution 2 forms the core functionality of the INAP process (everything which can and should be decided locally. Solution PJ09-02 is the logical follow-up of the SESAR1 Local DCB toolset. It includes: INAP management, ASM integrated into DCB, reconciliation of DCB measures with local complexity management, ATC and Arrival Management. The solution addresses the integration of Local Network Management with extended ATC planning and arrival management activities in the short-term to execution in a seamless process.\nSolution 3 delivers subsidiary Network Management facilitated by a rolling NOP planning environment (including weather, demand pattern and capacity bottlenecks). Network Operations planning and Execution is managed by an agreed set of rules and procedures, guiding subsidiary DCB and UDPP measures under consideration of trade-offs and network performance targets. Collaborative 4D constraints management integrates AUs priorities and reconciles DCB measures with Airports, ACCs, AU and NM.",
+    "totalCost": "30944040,74",
+    "ecMaxContribution": "1450877,45",
+    "coordinator": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+    "coordinatorCountry": "BE",
+    "participants": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH;SAAB AKTIEBOLAG;HUNGAROCONTROL MAGYAR LEGIFORGALMISZOLGALAT ZARTKORUEN MUKODO RESZVENYTARSASAG;STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM;FLUGHAFEN ZURICH AG;SWEDAVIA AB;STIFTELSEN SINTEF;SKYGUIDE, SA SUISSE POUR LES SERVICES DE LA NAVIGATION AERIENNE CIVILS ET MILITAIRES;DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE;ENAV SPA;ENTIDAD PUBLICA EMPRESARIAL ENAIRE;FLUGHAFEN MUNCHEN GMBH;ATOS BELGIUM;CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD;AEROPORTS DE PARIS;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;AVINOR AS;FREQUENTIS AG;INDRA SISTEMAS SA;HEATHROW AIRPORT LIMITED;THALES LAS FRANCE SAS;NATS (EN ROUTE) PUBLIC LIMITED COMPANY;UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY;LEONARDO - SOCIETA PER  AZIONI;NAVIAIR;LUFTFARTSVERKET;AIRTEL ATN LIMITED;SCHIPHOL NEDERLAND B.V.",
+    "participantCountries": "AT;SE;HU;NL;CH;NO;FR;IT;ES;DE;BE;HR;UK;IE;DK",
+    "projectParticipants": {
+        "997701843": {
+            "orgId": "997701843",
+            "orgName": "ENTIDAD PUBLICA EMPRESARIAL ENAIRE",
+            "ecContrib": 284573
+        },
+        "998627417": {
+            "orgId": "998627417",
+            "orgName": "LEONARDO - SOCIETA PER  AZIONI",
+            "ecContrib": 70796
+        },
+        "997604649": {
+            "orgId": "997604649",
+            "orgName": "AIRTEL ATN LIMITED",
+            "ecContrib": 0
+        },
+        "999980761": {
+            "orgId": "999980761",
+            "orgName": "STIFTELSEN SINTEF",
+            "ecContrib": 79102
+        },
+        "927009019": {
+            "orgId": "927009019",
+            "orgName": "UDARAS EITLIOCHTA NA HEIREANN THE IRISH AVIATION AUTHORITY",
+            "ecContrib": 0
+        },
+        "924128216": {
+            "orgId": "924128216",
+            "orgName": "CROATIA CONTROL, CROATIAN AIR NAVIGATION SERVICES LTD",
+            "ecContrib": 5395
+        },
+        "999959615": {
+            "orgId": "999959615",
+            "orgName": "SAAB AKTIEBOLAG",
+            "ecContrib": 0
+        },
+        "944977784": {
+            "orgId": "944977784",
+            "orgName": "FLUGHAFEN MUNCHEN GMBH",
+            "ecContrib": 0
+        },
+        "999959130": {
+            "orgId": "999959130",
+            "orgName": "INDRA SISTEMAS SA",
+            "ecContrib": 188526
+        },
+        "968723384": {
+            "orgId": "968723384",
+            "orgName": "HEATHROW AIRPORT LIMITED",
+            "ecContrib": 56791
+        },
+        "957080474": {
+            "orgId": "957080474",
+            "orgName": "AEROPORTS DE PARIS",
+            "ecContrib": 25556
+        },
+        "998956635": {
+            "orgId": "998956635",
+            "orgName": "AUSTRO CONTROL OSTERREICHISCHE GESELLSCHAFT FUR ZIVILLUFTFAHRT MBH",
+            "ecContrib": 8590
+        },
+        "923671249": {
+            "orgId": "923671249",
+            "orgName": "NAVIAIR",
+            "ecContrib": 0
+        },
+        "928673636": {
+            "orgId": "928673636",
+            "orgName": "DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE",
+            "ecContrib": 150354
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 0
+        },
+        "984282281": {
+            "orgId": "984282281",
+            "orgName": "SWEDAVIA AB",
+            "ecContrib": 0
+        },
+        "998307317": {
+            "orgId": "998307317",
+            "orgName": "FREQUENTIS AG",
+            "ecContrib": 0
+        },
+        "938275375": {
+            "orgId": "938275375",
+            "orgName": "AVINOR AS",
+            "ecContrib": 0
+        },
+        "997542763": {
+            "orgId": "997542763",
+            "orgName": "NATS (EN ROUTE) PUBLIC LIMITED COMPANY",
+            "ecContrib": 106483
+        },
+        "999931388": {
+            "orgId": "999931388",
+            "orgName": "SCHIPHOL NEDERLAND B.V.",
+            "ecContrib": 8519
+        },
+        "923069461": {
+            "orgId": "923069461",
+            "orgName": "ATOS BELGIUM",
+            "ecContrib": 101514
+        },
+        "998197513": {
+            "orgId": "998197513",
+            "orgName": "ENAV SPA",
+            "ecContrib": 56791
+        },
+        "958184334": {
+            "orgId": "958184334",
+            "orgName": "SKYGUIDE, SA SUISSE POUR LES SERVICES DE LA NAVIGATION AERIENNE CIVILS ET MILITAIRES",
+            "ecContrib": 57481
+        },
+        "999961555": {
+            "orgId": "999961555",
+            "orgName": "THALES LAS FRANCE SAS",
+            "ecContrib": 197754
+        },
+        "999594992": {
+            "orgId": "999594992",
+            "orgName": "FLUGHAFEN ZURICH AG",
+            "ecContrib": 0
+        },
+        "942346077": {
+            "orgId": "942346077",
+            "orgName": "LUFTFARTSVERKET",
+            "ecContrib": 0
+        },
+        "999483733": {
+            "orgId": "999483733",
+            "orgName": "EUROCONTROL - EUROPEAN ORGANISATION FOR THE SAFETY OF AIR NAVIGATION",
+            "ecContrib": 0
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 52653
+        }
+    },
+    "calculatedTotalContribution": 1450878
+}

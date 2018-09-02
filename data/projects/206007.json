@@ -1,0 +1,58 @@
+{
+    "rcn": "206007",
+    "acronym": "FLAIR",
+    "topics": "ICT-29-2016",
+    "title": "FLying ultrA-broadband single-shot InfraRed sensor",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2019",
+    "objective": "FLAIR aims at developing an airborne, compact and cost-effective air quality sampling sensor for sensitive and selective detection of molecular fingerprints in the 2-5 ?m and 8-12 ?m infrared atmospheric windows. The sensor is based on an innovative supercontinuum laser that provides ultra-bright emission across the entire spectrum of interest. Such a light source in combination with a novel type of multipass cell in conjunction with specifically developed uncooled detector arrays will ensure highly sensitive detection. Broadband single-shot 2D high resolution absorption spectra capture will allow highly selective molecular detection in complex gas mixtures in the ppbv levels in real time. This high performance sensor constitutes a breakthrough in the field of trace gas spectroscopy. Moreover, in a hybrid approach, the main spectroscopic sensor will be complemented by a fine particle detector in order to obtain a complete picture of the air quality.\nMounted on an adapted and optimized UAV (drone), the sensor will enable pervasive sensing on large scales outside urban environments where air quality monitoring remains challenging, e.g. along gas pipelines or around chemical plants. Also, FLAIR can guide emergency measures in case of chemical fires or leaks, wildfires or volcanic eruptions or even serve for oil and gas exploration or explosives related molecules detection, by far more cost-effectively than for missions on manned research aircraft. As such FLAIR provides a novel and ubiquitous tool addressing air quality related safety issues.\nThe sensor prototype will be tested at TRL 4 in the lab and at TRL 5 on-board a UAV in the context of a well-defined and controlled validation test setting. The project will be carried out by 3 SMEs, 1 industrial partner and 4 RTDs, covering the full value chain (development, implementation and application) of such a sensor for air quality monitoring. Business cases for commercialization routes in a global market will be provided",
+    "totalCost": "4277813,75",
+    "ecMaxContribution": "3072020",
+    "coordinator": "TEKEVER II AUTONOMOUS SYSTEMS LDA",
+    "coordinatorCountry": "PT",
+    "participants": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT;STICHTING KATHOLIEKE UNIVERSITEIT;NKT PHOTONICS A/S;NEW INFRARED TECHNOLOGIES SL;SENSEAIR AB;DANMARKS TEKNISKE UNIVERSITET;EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+    "participantCountries": "CH;NL;DK;ES;SE",
+    "projectParticipants": {
+        "999992110": {
+            "orgId": "999992110",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT",
+            "ecContrib": 593395
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 413375
+        },
+        "958744412": {
+            "orgId": "958744412",
+            "orgName": "TEKEVER II AUTONOMOUS SYSTEMS LDA",
+            "ecContrib": 512000
+        },
+        "940211980": {
+            "orgId": "940211980",
+            "orgName": "SENSEAIR AB",
+            "ecContrib": 634500
+        },
+        "998883885": {
+            "orgId": "998883885",
+            "orgName": "NEW INFRARED TECHNOLOGIES SL",
+            "ecContrib": 200625
+        },
+        "990462054": {
+            "orgId": "990462054",
+            "orgName": "NKT PHOTONICS A/S",
+            "ecContrib": 718125
+        },
+        "999907138": {
+            "orgId": "999907138",
+            "orgName": "EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+            "ecContrib": 0
+        },
+        "999958839": {
+            "orgId": "999958839",
+            "orgName": "CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 3072020
+}

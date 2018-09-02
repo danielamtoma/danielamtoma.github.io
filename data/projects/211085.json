@@ -1,0 +1,98 @@
+{
+    "rcn": "211085",
+    "acronym": "5G-PHOS",
+    "topics": "ICT-08-2017",
+    "title": "5G integrated Fiber-Wireless networks exploiting existing photonic technologies for high-density SDN-programmable network architectures",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "5G-PHOS aims to architect and evaluate 5G broadband wireless networks for dense, ultra-dense and Hot-Spot area use cases drawing from recent results in the area of optical technologies towards producing and exploiting a powerful\nphotonic integrated circuit technology toolkit. It aims to streamline advances in multi-format and multi-bitrate optical communications, in InP transceiver, in Triplex optical beamformers and in integrated optical add/drop multiplexers in\norder to migrate from CPRI-based towards integrated Fiber-Wireless (FiWi) packetized C-RAN fronthaul supporting massive mmWave MIMO communications.It will deliver: a) a set of SDN-programmable units, called FlexBox and\nFlexBox-Pro, that will be compatible with the emerging 25Gb/s PON access networks and can deliver FiWi traffic ranging between 25-400Gb/s, b) a set of three different 64x64 MIMO Remote Radio Head configurations exploiting\nanalog optical beamforming and producing 25Gb/s,100Gb/s and 400Gb/s wireless data-rates, c) an integrated FiWi packetized fronthaul for supporting Medium-Transparent Dynamic Bandwidth Allocation mechanisms and\ncooperative radio-optical beamforming, d) a converged FiWi SDN control plane for optimally orchestrating both the optical and the wireless resources. These blocks will be integrated towards architecting 5G networks for 3 use cases,\nevaluating their performance in lab-scale and field-trial experiments: \n\na. 25Gb/s peak data rate PON-overlaid 5G FiWi network for dense areas, capable to offer densities up to 1.7 Tb/s/km2 , to be demonstrated also in field-trial experiments at the deployed network of Greek operator COSMOTE.\nb. 400Gb/s peak data-rate SDM-enabled 5G FiWi network targeted for ultra-dense environments and being capable of offering densities up to 28 Tb/s/km2 with <1msec latency.\nc.100Gb/s peak data-rate WDM-enabled 5G FiWi network targeted for Hot-Spot areas and being evaluated in field-trial experiments at the stadium of P.A.O.K. F.C. in Thessaloniki, Greece.",
+    "totalCost": "9541196,25",
+    "ecMaxContribution": "7848540,88",
+    "coordinator": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+    "coordinatorCountry": "EL",
+    "participants": "PANTHESSALONIKIOS ATHLITIKOS OMILOS KONSTANTINOUPOLITON - PAOK PODOSFAIRIKI ANONIMI ETAIRIA;ORANGE SA;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;COSMOTE KINITES TILEPIKOINONIES AE;INCELLIGENT IDIOTIKI KEFALAIOUCHIKI ETAIREIA;LIONIX INTERNATIONAL BV;ERICSSON TELECOMUNICAZIONI;MELLANOX TECHNOLOGIES LTD - MLNX;III-V LAB;IQUADRAT INFORMATICA SL;TECHNISCHE UNIVERSITEIT EINDHOVEN;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;SIKLU COMMUNICATION LTD",
+    "participantCountries": "EL;FR;DE;BE;NL;IT;IL;ES",
+    "projectParticipants": {
+        "918272908": {
+            "orgId": "918272908",
+            "orgName": "LIONIX INTERNATIONAL BV",
+            "ecContrib": 747986
+        },
+        "999977269": {
+            "orgId": "999977269",
+            "orgName": "TECHNISCHE UNIVERSITEIT EINDHOVEN",
+            "ecContrib": 397500
+        },
+        "999908981": {
+            "orgId": "999908981",
+            "orgName": "ORANGE SA",
+            "ecContrib": 156975
+        },
+        "999654550": {
+            "orgId": "999654550",
+            "orgName": "COSMOTE KINITES TILEPIKOINONIES AE",
+            "ecContrib": 281575
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 354575
+        },
+        "999895692": {
+            "orgId": "999895692",
+            "orgName": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
+            "ecContrib": 1374625
+        },
+        "935904404": {
+            "orgId": "935904404",
+            "orgName": "INCELLIGENT IDIOTIKI KEFALAIOUCHIKI ETAIREIA",
+            "ecContrib": 323750
+        },
+        "999813921": {
+            "orgId": "999813921",
+            "orgName": "MTN CYPRUS LIMITED",
+            "ecContrib": 0
+        },
+        "996237822": {
+            "orgId": "996237822",
+            "orgName": "IQUADRAT INFORMATICA SL",
+            "ecContrib": 519312
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 939875
+        },
+        "916977279": {
+            "orgId": "916977279",
+            "orgName": "PANTHESSALONIKIOS ATHLITIKOS OMILOS KONSTANTINOUPOLITON - PAOK PODOSFAIRIKI ANONIMI ETAIRIA",
+            "ecContrib": 95725
+        },
+        "996323667": {
+            "orgId": "996323667",
+            "orgName": "SIKLU COMMUNICATION LTD",
+            "ecContrib": 568925
+        },
+        "990560024": {
+            "orgId": "990560024",
+            "orgName": "MELLANOX TECHNOLOGIES LTD - MLNX",
+            "ecContrib": 515725
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 832435
+        },
+        "999971546": {
+            "orgId": "999971546",
+            "orgName": "III-V LAB",
+            "ecContrib": 605158
+        },
+        "996447342": {
+            "orgId": "996447342",
+            "orgName": "ERICSSON TELECOMUNICAZIONI",
+            "ecContrib": 134400
+        }
+    },
+    "calculatedTotalContribution": 7848541
+}

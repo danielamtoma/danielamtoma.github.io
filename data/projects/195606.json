@@ -1,0 +1,23 @@
+{
+    "rcn": "195606",
+    "acronym": "ENMMCL",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Efficient Numerical Modeling of Moving Contact Lines under Non-isothermal Conditions",
+    "startDate": "06/10/2015",
+    "endDate": "05/10/2017",
+    "objective": "A moving contact line (MCL) is a moving line of intersection between a fluid/fluid interface and a solid wall. MCLs are central to a wide range of flows in nature and industry, however, their modeling has been a classical difficulty, especially under non-isothermal conditions. The project will tackle this challenge and we will develop a novel computational model enabling simulations of non-isothermal flows involving MCLs with unprecedented efficiency. The model borrows the idea from the large eddy simulation in turbulence modeling; it will resolve the macroscale flows only while model the effect of MCLs using non-isothermal hydrodynamic theories, which will also be developed in the present project. We expect that the model can lead to a reduction of computational effort by nine orders of magnitude for three-dimensional flows, compared with direct numerical simulations using a uniform grid, and it will therefore enable affordable simulations of practical flows in industry.",
+    "totalCost": "195454,8",
+    "ecMaxContribution": "195454,8",
+    "coordinator": "QUEEN MARY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 195455
+        }
+    },
+    "calculatedTotalContribution": 195455
+}

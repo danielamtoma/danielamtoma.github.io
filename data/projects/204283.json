@@ -1,0 +1,58 @@
+{
+    "rcn": "204283",
+    "acronym": "GrInHy",
+    "topics": "FCH-02.4-2015",
+    "title": "Green Industrial Hydrogen via Reversible High-Temperature Electrolysis",
+    "startDate": "01/03/2016",
+    "endDate": "28/02/2019",
+    "objective": "High-temperature electrolysis (HT electrolysis) is one of the most promising technologies to address the European Commission¥s Roadmap to a competitive low-carbon economy in 2050. Because a significant share of the energy input is provided in the form of heat, HT electrolysis achieves higher electrical system efficiency compared to low temperature electrolysis technologies. Therefore, the main objectives of the GrInHy project focus on:\n\nï  Proof of reaching an overall electrical efficiency of at least 80 %LHV (ca. 95 %HHV);\nï  Scaling-up the SOEC unit to a DC power input (stack level) of 120 kWel;\nï  Reaching a lifetime of greater 10,000 h with a degradation rate below 1 %/1,000 h;\nï  Integration and operation for at least 7,000 h meeting the hydrogen quality standards of the steel industry;\n\nAdditional project objectives are:\nï  Elaboration of an Exploitation Roadmap for cost reducing measures;\nï  Development of dependable system cost data;\nï  Integration of a reversible operation mode (fuel cell mode);\n\nThe objectives are congruent with the call FCH-02.4-2015 and the Multi Annual Work Plan of the FCH JU.\n\nThe proof-of-concept will take place in the relevant environment of an integrated iron and steel works. Its existing infrastructure and metallurgical processes, which provide the necessary waste heat, increase the project¥s cost-effectiveness and minimize the electrical power demand of auxiliaries. As a result, the electrical efficiency of 80 % will be achieved by operating the HT electrolyser close to the thermal-neutral operation point. The installation will consist of an optimized multi-stack module design with 6 stacks modules in parallel (total capacity: 120 kWel). The last project year is dedicated to the testing of 7,000 h and more. This will be achieved due to a high degree of existing knowledge at system level. Lifetime and degradation targets have already been fulfilled at cell level and will be verified by testing an enhanced stack.",
+    "totalCost": "4498150",
+    "ecMaxContribution": "4498150",
+    "coordinator": "Salzgitter Mannesmann Forschung GmbH",
+    "coordinatorCountry": "DE",
+    "participants": "EIFER EUROPAISCHES INSTITUT FUR ENERGIEFORSCHUNG EDF KIT EWIV;Teknologian tutkimuskeskus VTT Oy;SUNFIRE GMBH;BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.;Salzgitter Flachstahl GmbH;Ustav fyziky materialu, Akademie Ved Ceske republiky, v.v.i.;POLITECNICO DI TORINO",
+    "participantCountries": "DE;FI;ES;CZ;IT",
+    "projectParticipants": {
+        "961490385": {
+            "orgId": "961490385",
+            "orgName": "Salzgitter Flachstahl GmbH",
+            "ecContrib": 303988
+        },
+        "932760440": {
+            "orgId": "932760440",
+            "orgName": "Teknologian tutkimuskeskus VTT Oy",
+            "ecContrib": 394772
+        },
+        "999977754": {
+            "orgId": "999977754",
+            "orgName": "POLITECNICO DI TORINO",
+            "ecContrib": 245282
+        },
+        "999648730": {
+            "orgId": "999648730",
+            "orgName": "BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.",
+            "ecContrib": 395458
+        },
+        "992438041": {
+            "orgId": "992438041",
+            "orgName": "Ustav fyziky materialu, Akademie Ved Ceske republiky, v.v.i.",
+            "ecContrib": 314225
+        },
+        "997980718": {
+            "orgId": "997980718",
+            "orgName": "EIFER EUROPAISCHES INSTITUT FUR ENERGIEFORSCHUNG EDF KIT EWIV",
+            "ecContrib": 411082
+        },
+        "954033801": {
+            "orgId": "954033801",
+            "orgName": "SUNFIRE GMBH",
+            "ecContrib": 2008125
+        },
+        "963400315": {
+            "orgId": "963400315",
+            "orgName": "Salzgitter Mannesmann Forschung GmbH",
+            "ecContrib": 425218
+        }
+    },
+    "calculatedTotalContribution": 4498150
+}

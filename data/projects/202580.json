@@ -1,0 +1,23 @@
+{
+    "rcn": "202580",
+    "acronym": "COSMIC LENS",
+    "topics": "ERC-CoG-2015",
+    "title": "Delivering on the Promise of Measuring Dark Energy from Cosmic Lensing",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2021",
+    "objective": "The apparent gravitational distortion of distant galaxies, ëcosmic lensingí, allows us to map dark matter and hence unveil the nature of the mysterious dark energy. I will develop novel approaches to cosmic lensing and use these to place constraints on dark energy using the Dark Energy Survey (DES). Themes 1 and 2 address key systematic effects crucial for the extraction of cosmology in theme 3. Theme 1: The lensing community has spent two decades trying to find the perfect galaxy shape measurement method. We will take a unique approach by translating a technique common in particle physics and the CMB to lensing: we will simulate images matched to observed galaxy positions and shapes, and vary lensing to accurately calibrate shapes. We will make the code public and use it to produce the final public DES shear catalogues. Theme 2: We will exploit my innovative and successful program of coordinated international challenges from shear measurement and apply it to mitigating galaxy intrinsic alignments (IA). I have shown that knowledge of IAs is essential for leveraging the potential of cosmic lensing for cosmology and described a mitigation method, but this needs to be tested on simulations. I will coordinate international IA simulation efforts and identify the optimum method for removing intrinsic alignments and apply it to the DES data. Theme 3: We have developed a skeleton software framework for cosmology, CosmoSIS. We will write modules for cosmology from imaging data incorporating the main systematic effects, and use CosmoSIS to produce the final constraints on cosmology from DES lensing. We will incorporate constraints on sterile neutrinos from particle physics for the first time. If the current tensions between cosmic lensing the CMB are confirmed by this work we will have discovered the need for new physics. Furthermore, the work in this proposal will place us in prime position to exploit the main cosmology surveys of the next decade (LSST, Euclid, WFIRST).",
+    "totalCost": "1997219",
+    "ecMaxContribution": "1997219",
+    "coordinator": "THE UNIVERSITY OF MANCHESTER",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999903840": {
+            "orgId": "999903840",
+            "orgName": "THE UNIVERSITY OF MANCHESTER",
+            "ecContrib": 1997219
+        }
+    },
+    "calculatedTotalContribution": 1997219
+}

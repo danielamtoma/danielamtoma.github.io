@@ -1,0 +1,23 @@
+{
+    "rcn": "207723",
+    "acronym": "ENFOC",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Exploiting the Nonlinear Fiber-Optical Channel",
+    "startDate": "01/03/2016",
+    "endDate": "",
+    "objective": "The demand for bandwidth in optical fiber communication systems is increasing at a steady rate. In order to keep up with the demand, techniques to overcome the limit determined by the nonlinear nature of optical fiber transmission have attracted a lot of research attention.\nRecently, transmission using the nonlinear Fourier transform (NFT) was proposed as a promising technique to take advantage of fiber nonlinearities for data transmission. The technique uses signal states which are invariant to the fiber optical channel in certain system configurations. However, many challenges and open questions remain concerning NFT transmission in particular regarding suitable signal processing algorithms and coding strategies for such systems. It is currently unknown how NFT transmission performs with practical coded modulation and detection schemes and how its computational complexity and practical feasibility compares to other options for nonlinearity mitigation such as digital back-propagation. Furthermore, the impact of inter-channel nonlinearities and co-propagating wavelength channels has not yet been investigated. The only experimental demonstrations to date consider single-channel transmission.\nThe project aims to address the aforementioned questions by first investigating coded modulation schemes for nonlinear channels based on existing commercial architectures. One of the key aspects is to gain insight in the signal statistics for the nonlinear channel and learn how to utilize this information for increased signal processing and decoding performance. Based on these results, the applicability and performance of coded modulation concepts for NFT transmission will be quantified for practical system scenarios. Furthermore, the impact of co-propagating WDM channels on coded NFT transmission will be studied and WDM NFT transmission demonstrated. Together with our industrial partners the practical feasibility of these concepts is evaluated.",
+    "totalCost": "171460,8",
+    "ecMaxContribution": "171460,8",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 171461
+        }
+    },
+    "calculatedTotalContribution": 171461
+}

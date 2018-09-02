@@ -1,0 +1,28 @@
+{
+    "rcn": "199469",
+    "acronym": "BroadSem",
+    "topics": "ERC-StG-2015",
+    "title": "Induction of Broad-Coverage Semantic Parsers",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2021",
+    "objective": "In the last one or two decades, language technology has achieved a number of important successes, for example, producing functional machine translation systems and beating humans in quiz games. The key bottleneck which prevents further progress in these and many other natural language processing (NLP) applications (e.g., text summarization, information retrieval, opinion mining, dialog and tutoring systems) is the lack of accurate methods for producing meaning representations of texts. Accurately predicting such meaning representations on an open domain with an automatic parser is a challenging and unsolved problem, primarily because of language variability and ambiguity. The reason for the unsatisfactory performance is reliance on supervised learning (learning from annotated resources), with the amounts of annotation required for accurate open-domain parsing exceeding what is practically feasible.  Moreover, representations defined in these resources typically do not provide abstractions suitable for reasoning.\n \nIn this project, we will induce semantic representations from large amounts of unannotated data (i.e. text which has not been labeled by humans) while guided by information contained in human-annotated data and other forms of linguistic knowledge. This will allow us to scale our approach to many domains and across languages. We will specialize meaning representations for reasoning by modeling relations (e.g., facts) appearing across sentences in texts (document-level modeling), across different texts, and across texts and knowledge bases. Learning to predict this linked data is closely related to learning to reason, including learning the notions of semantic equivalence and entailment. We will jointly induce semantic parsers (e.g., log-linear feature-rich models) and reasoning models (latent factor models) relying on this data, thus, ensuring that the semantic representations are informative for applications requiring reasoning.",
+    "totalCost": "1457185",
+    "ecMaxContribution": "1457185",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "UNIVERSITEIT VAN AMSTERDAM",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 1238212
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 218972
+        }
+    },
+    "calculatedTotalContribution": 1457184
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "213184",
+    "acronym": "OncoSeq",
+    "topics": "ERC-2017-PoC",
+    "title": "OncoSeq: an innovative single-cell system for immunomonitoring",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2018",
+    "objective": "Host immunity plays a central and complex role in tumour progression, and the quality and quantity of immune infiltrate at the tumour site is used as a prognostic marker of cancer progression. Therefore, detailed single-cell analysis of tumor infiltrating immune cells, and ultimately liquid biopsy of circulating immune cells, is of vital importance for the development of new and improved immunotherapy strategies, and for diagnosis, prognosis, patient stratification and follow-up.\nWe propose in OncoSeq to adapt the droplet barcoding microfluidics system, an output from the ERC EVOEVO project, to develop a novel ìmolecular cytometerî for high-throughput transcriptomic and phenotypic analysis, at the single-cell level, of tumor infiltrating or circulating immune cells. Readout of genotype and phenotype will be entirely based on next generation sequencing (NGS) allowing higher phenotypic multiplexing capacity (100s of phenotypic markers) than fluorescence (Flow cytometry) or mass spectrometry (CyTOF) based approaches (?40 markers) and simultaneous RNA-sequencing (RNA-seq), allowing the creation of high-resolution phenotype-transcriptome maps for tens of thousands of single cells. \nThis will be a powerful tool for cancer prognosis, clinical decision making and monitoring of disease progression, especially in the context of immunotherapy. So far, no such diagnostic instruments, enabling high-throughput single-cell phenotypic and transcriptomic analysis, exist.\nThe technology developed will be transferred to our industrial partner through licensing for internal development of novel immunotherapies. In addition, once the prototype system is fully validated, we plan, with our industrial partners, to create a new company specialising in the sale of instruments and associated consumables for clinical single-cell immuno-monitoring for the research and clinical oncology markets.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "PARMENIDES STIFTUNG",
+    "coordinatorCountry": "DE",
+    "participants": "ECOLE SUPERIEURE DE PHYSIQUE ET DECHIMIE INDUSTRIELLES DE LA VILLE DEPARIS",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "998280545": {
+            "orgId": "998280545",
+            "orgName": "PARMENIDES STIFTUNG",
+            "ecContrib": 41250
+        },
+        "975116460": {
+            "orgId": "975116460",
+            "orgName": "ECOLE SUPERIEURE DE PHYSIQUE ET DECHIMIE INDUSTRIELLES DE LA VILLE DEPARIS",
+            "ecContrib": 108750
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

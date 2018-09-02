@@ -1,0 +1,28 @@
+{
+    "rcn": "204440",
+    "acronym": "Tamed Cancer",
+    "topics": "ERC-StG-2015",
+    "title": "Personalized Cancer Therapy by Model-based Optimal Robust Control Algorithm",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2021",
+    "objective": "Imagine if tumor growth would be reduced and then kept in a minimal and safe volume in an automated manner and in a personalized way, i.e. cancer drug would be injected using a continuous therapy improving the patientís quality of life.\nBy control engineering approaches it is possible to create model-based strategies for health problems. Artificial pancreas is an adequate example for this, where by continuous glucose measurement device and insulin pump it is possible to improve diabetes treatment. Gaining expertise from this problem, the current proposal focuses on taming the cancer by developing an engineering-based medical therapy.\nThe interdisciplinary approach focuses on modern robust control algorithm development in order to stop the angiogenesis process (i.e. vascular system development) of the tumor; hence, to stop tumor growth, maintaining it in a minimal, ìtamedî form. This breakthrough concept could revitalize cancer treatment. It is the right time to do it as some investigations regarding tumor growth modeling have been already done; now, it should be refined by model identification tools and validated on animal trials. The benefit of robust control was already demonstrated in artificial pancreas; hence, it could be adapted to cancer research. The result could end with a personalized healthcare approach for drug-delivery in cancer, improving quality of life, optimizing drug infusion and minimizing treatment costs. This interdisciplinary approach combines control engineering with mathematics, computer science and medical sciences.\nAs a result, the model-based robust control approach envisage refining the currently existing tumor growth modeling aspects, design an optimal control algorithm and extend it by robust control theory to guarantee its general applicability. Based on our research background, validation will be done first in a manually controlled way, but then in an automatic mode to propose it for further human investigations.",
+    "totalCost": "1015900",
+    "ecMaxContribution": "1015900",
+    "coordinator": "OBUDAI EGYETEM",
+    "coordinatorCountry": "HU",
+    "participants": "SEMMELWEIS EGYETEM",
+    "participantCountries": "HU",
+    "projectParticipants": {
+        "986279123": {
+            "orgId": "986279123",
+            "orgName": "OBUDAI EGYETEM",
+            "ecContrib": 917925
+        },
+        "999860675": {
+            "orgId": "999860675",
+            "orgName": "SEMMELWEIS EGYETEM",
+            "ecContrib": 97975
+        }
+    },
+    "calculatedTotalContribution": 1015900
+}

@@ -1,0 +1,58 @@
+{
+    "rcn": "202679",
+    "acronym": "SISSDEN",
+    "topics": "DS-04-2015",
+    "title": "Secure Information Sharing Sensor Delivery event Network",
+    "startDate": "01/05/2016",
+    "endDate": "30/04/2019",
+    "objective": "SISSDEN is a project aimed at improving the cybersecurity posture of EU entities and end users through development of situational awareness and sharing of actionable information. It builds on the experience of Shadowserver, a non-profit organization well known in the security community for its efforts in mitigation of botnet and malware propagation, free of charge victim notification services, and close collaboration with Law Enforcement Agencies, national CERTs, and network providers.\n\nThe core of SISSDEN is a worldwide sensor network, which will be deployed and operated by the project consortium. This passive threat data collection mechanism will be complemented by behavioral analysis of malware and multiple external data sources. Actionable information produced by SISSDEN will be used for the purposes of no?cost victim notification and remediation via organizations such as National CERTs, ISPs, hosting providers and Law Enforcement Agencies such as EC3. It will especially benefit SMEs and citizens, which do not have the capability to resist threats alone, allowing them to participate in this global effort, and profit from the improved information processing, analysis and exchange of security intelligence, to effectively prevent and counter security breaches.\n\nThe main goal of the project is creation of multiple high-quality feeds of actionable security information that will be used for remediation purposes and for proactive tightening of computer defences. This will be achieved through development and deployment of a distributed sensor network based on state-of-the-art honeypot/darknet technologies and creation of a high-throughput data processing center. SISSDEN will provide in-depth analytics on the collected data and develop metrics that will be used to establish the scale of most important security issues in the EU, and impact of the project itself. Finally, a curated reference data set will be created and published to provide a high-value resource.",
+    "totalCost": "6341775",
+    "ecMaxContribution": "4912692,5",
+    "coordinator": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+    "coordinatorCountry": "PL",
+    "participants": "CYBERDEFCON LIMITED;ECLEXYS SAGL;STICHTING THE SHADOWSERVER FOUNDATION EUROPE;MONTIMAGE EURL;POSTE ITALIANE - SOCIETA PER AZIONI;DEUTSCHE TELEKOM AG;UNIVERSITAT DES SAARLANDES",
+    "participantCountries": "UK;CH;NL;FR;IT;DE",
+    "projectParticipants": {
+        "999936335": {
+            "orgId": "999936335",
+            "orgName": "DEUTSCHE TELEKOM AG",
+            "ecContrib": 395500
+        },
+        "937119426": {
+            "orgId": "937119426",
+            "orgName": "STICHTING THE SHADOWSERVER FOUNDATION EUROPE",
+            "ecContrib": 1518750
+        },
+        "953632706": {
+            "orgId": "953632706",
+            "orgName": "CYBERDEFCON LIMITED",
+            "ecContrib": 794981
+        },
+        "999929545": {
+            "orgId": "999929545",
+            "orgName": "UNIVERSITAT DES SAARLANDES",
+            "ecContrib": 478125
+        },
+        "998000118": {
+            "orgId": "998000118",
+            "orgName": "ECLEXYS SAGL",
+            "ecContrib": 0
+        },
+        "956974453": {
+            "orgId": "956974453",
+            "orgName": "POSTE ITALIANE - SOCIETA PER AZIONI",
+            "ecContrib": 227500
+        },
+        "999716242": {
+            "orgId": "999716242",
+            "orgName": "MONTIMAGE EURL",
+            "ecContrib": 414461
+        },
+        "999918681": {
+            "orgId": "999918681",
+            "orgName": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+            "ecContrib": 1083375
+        }
+    },
+    "calculatedTotalContribution": 4912692
+}

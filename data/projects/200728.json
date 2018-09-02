@@ -1,0 +1,23 @@
+{
+    "rcn": "200728",
+    "acronym": "DAPP",
+    "topics": "ERC-StG-2015",
+    "title": "Data-centric Parallel Programming",
+    "startDate": "01/06/2016",
+    "endDate": "31/05/2021",
+    "objective": "We address a fundamental and increasingly important challenge in computer science: how to program large-scale heterogeneous parallel computers. Society relies on these computers to satisfy the growing demands of important applications such as drug design, weather prediction, and big data analytics. Architectural trends make heterogeneous parallel processors the fundamental building blocks of computing platforms ranging from quad-core laptops to million-core supercomputers; failing to exploit these architectures efficiently will severely limit the technological advance of our society. Computationally demanding problems are often inherently parallel and can readily be compiled for various target architectures. Yet, efficiently mapping data to the target memory system is notoriously hard, and the cost of fetching two operands from remote memory is already orders of magnitude more expensive than any arithmetic operation. Data access cost is growing with the amount of parallelism which makes data layout optimizations crucial. Prevalent parallel programming abstractions largely ignore data access and guide programmers to design threads of execution that are scheduled to the machine. We depart from this control-centric model to a data-centric program formulation where we express programs as collections of values, called memlets, that are mapped as first-class objects by the compiler and runtime system. Our holistic compiler and runtime system aims to substantially advance the state of the art in parallel computing by combining static and dynamic scheduling of memlets to complex heterogeneous target architectures. We will demonstrate our methods on three challenging real-world applications in scientific computing, data analytics, and graph processing. We strongly believe that, without holistic data-centric programming, the growing complexity and inefficiency of parallel programming will create a scaling wall that will limit our future computational capabilities.",
+    "totalCost": "1499672",
+    "ecMaxContribution": "1499672",
+    "coordinator": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999979015": {
+            "orgId": "999979015",
+            "orgName": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+            "ecContrib": 1499672
+        }
+    },
+    "calculatedTotalContribution": 1499672
+}

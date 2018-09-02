@@ -1,0 +1,23 @@
+{
+    "rcn": "204693",
+    "acronym": "NLPRO",
+    "topics": "ERC-StG-2015",
+    "title": "Natural Language Programming: Turning Text into Executable Code",
+    "startDate": "01/08/2016",
+    "endDate": "31/07/2021",
+    "objective": "Can we program computers in our native tongue? This idea, termed natural language programming, has attracted attention almost since the inception of computers themselves.  \nFrom the point of view of software engineering (SE), efforts to program in natural language (NL) have relied thus far on controlled natural languages (CNL) -- small unambiguous fragments of English with strict grammars and limited expressivity. Is it possible to replace CNLs with truly natural, human language?  \nFrom the point of view of natural language processing (NLP), current technology successfully extracts static information from NL texts. However, human-like NL understanding goes far beyond such extraction -- it requires dynamic interpretation processes which affect, and are affected by, the environment, update states and lead to action. So, is it possible to endow computers with this kind of dynamic NL understanding?  \nThese two questions are fundamental to SE and NLP, respectively, and addressing each requires a huge leap forward in the respective field. In this proposal I argue that the solutions to these seemingly separate challenges are actually closely intertwined, and that one community's challenge is the other community's stepping stone for a huge leap, and vice versa. Specifically, I propose to view executable programs in SE as semantic structures in NLP, and use them as the basis for broad-coverage dynamic semantic parsing.\nMy ambitious, cross-disciplinary goal is to develop a new NL compiler based on this novel approach to NL semantics. The NL compiler will accept an NL description as input and return an executable system as output. Moreover, it will continuously improve its NL understanding capacity via online learning that will feed on verification, simulation, synthesis or user feedback. Such dynamic, ever-improving, NL compilers will have vast applications in AI, SE, robotics and cognitive computing and will fundamentally change the way humans and computers interact.",
+    "totalCost": "1449375",
+    "ecMaxContribution": "1449375",
+    "coordinator": "THE OPEN UNIVERSITY*",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "998334477": {
+            "orgId": "998334477",
+            "orgName": "THE OPEN UNIVERSITY*",
+            "ecContrib": 1449375
+        }
+    },
+    "calculatedTotalContribution": 1449375
+}

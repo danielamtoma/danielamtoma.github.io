@@ -1,0 +1,23 @@
+{
+    "rcn": "208304",
+    "acronym": "NORIA",
+    "topics": "ERC-2016-COG",
+    "title": "Numerical Optimal tRansport for ImAging",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2022",
+    "objective": "Optimal Transport (OT) theory provides a powerful framework to manipulate probability distributions using simple and intuitive geometric principles. OT distances compare favorably to all other alternatives, notably Euclidean metrics or information divergences, whose outputs are particularly sensitive to changes in quantization and are not suitable to compare point clouds. Because of these and many more favorable properties, OT should be a standard tool in imaging sciences where probability distributions are routinely used. However, at this time, OT is but a confidential tool restricted to niche applications. OT is barely used because it is complex mathematically, which hinders its dissemination in more applied fields, and because it consumes substantial computational resources when used naively. NORIA will address these two bottlenecks and develop the next generation of theoretical, numerical and algorithmic advances to enable large-scale optimal transport computations in imag- ing sciences. The algorithms developed by NORIA will rely on several mathematical breakthroughs: highly parallelizable entropic regularization schemes, Bregman stochastic optimization and gradient flows for metric spaces. They will be implemented using fast optimization codes that will be interfaced through a high-level, easy to use, scripting language. These algorithms will have far reaching applications in imaging sciences and data science in a broad sense. In particular, they will be used in three flagship applications: color and material processing in computer graphics, texture analysis and synthesis in computer vision, and exploration of the visual cortex in neuroimaging. NORIAís members are key players in the European mathematical school of optimal transport, which is very strong. NORIA is the unique opportunity to give a computational and practical embodiment to this wealth of theoretical knowledge.",
+    "totalCost": "1996720",
+    "ecMaxContribution": "1996720",
+    "coordinator": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 1996720
+        }
+    },
+    "calculatedTotalContribution": 1996720
+}

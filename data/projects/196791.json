@@ -1,0 +1,23 @@
+{
+    "rcn": "196791",
+    "acronym": "CAFES",
+    "topics": "ERC-StG-2014",
+    "title": "Causal Analysis of Feedback Systems",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Many questions in science, policy making and everyday life are of a causal nature: how would changing A influence B? Causal inference, a branch of statistics and machine learning, studies how cause-effect relationships can be discovered from data and how these can be used for making predictions in situations where a system has been perturbed by an external intervention. The ability to reliably make such causal predictions is of great value for practical applications in a variety of disciplines. Over the last two decades, remarkable progress has been made in the field. However, even though state-of-the-art causal inference algorithms work well on simulated data when all their assumptions are met, there is still a considerable gap between theory and practice. The goal of CAFES is to bridge that gap by developing theory and algorithms that will enable large-scale applications of causal inference in various challenging domains in science, industry and decision making. \n\nThe key challenge that will be addressed is how to deal with cyclic causal relationships ('feedback loops'). Feedback loops are very common in many domains (e.g., biology, economy and climatology), but have mostly been ignored so far in the field. Building on recently established connections between dynamical systems and causal models, CAFES will develop theory and algorithms for causal modeling, reasoning, discovery and prediction for cyclic causal systems. Extensions to stationary and non-stationary processes will be developed to advance the state-of-the-art in causal analysis of time-series data. In order to optimally use available resources, computationally efficient and statistically robust algorithms for causal inference from observational and interventional data in the context of confounders and feedback will be developed. The work will be done with a strong focus on applications in molecular biology, one of the most promising areas for automated causal inference from data.",
+    "totalCost": "1405652",
+    "ecMaxContribution": "1405652",
+    "coordinator": "UNIVERSITEIT VAN AMSTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 1405652
+        }
+    },
+    "calculatedTotalContribution": 1405652
+}

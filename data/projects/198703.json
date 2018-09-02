@@ -1,0 +1,23 @@
+{
+    "rcn": "198703",
+    "acronym": "MYCOCHASSIS",
+    "topics": "ERC-ADG-2014",
+    "title": "Engineering of a minimal bacterial therapeutic chassis",
+    "startDate": "01/11/2015",
+    "endDate": "31/10/2020",
+    "objective": "Engineering bacteria to deliver therapeutic agents or to present antigens for vaccination is an emerging area of research with great clinical potential. The most challenging issue in this field is the selection of the right bacteria to engineer, commonly known as ìchassisî. The best chassis depends on the application but there is a common drawback in bacteria used nowadays: their complexity and the lack of quantitative information for many reactions which limits genome engineering to classical trial and error approaches.  In this project, we want to engineer the genome-reduced bacterium M. pneumoniae using a whole-cell model that will drive the rational to create a chassis for human and animal therapy. Its small size (816 Kbases), the lack of cell wall, and the vast amount of comprehensive quantitative ñomics datasets makes this bacterium one of the best candidates for chassis design. By combining bioinformatics, -omics, and biochemistry approaches with genome engineering tools, systems biology analyses, and computational whole-cell models, MYCOCHASSIS aims to: i) develop a whole cell-model based on organism-specific experimental data that will be validated experimentally and that can predict the impact of genome modifications; ii) implement genome engineering tools to delete non-essential pathogenic and virulent elements predicted by the whole-cell model to engineer a therapeutical chassis; iii) using the whole-cell model design and engineer genes and circuits to improve growth rate in a defined medium. iv) as a proof of concept introduce orthogonal gene circuits to secrete peptides and enzymes capable of dissolving in vitro biofilms made by the lung pathogens Pseudomonas aeruginosa and Staphylococus aureus. This project will validate the usefulness of whole-cell models for synthetic biology by modelling multiple genomic modifications orientated to facilitate engineering of biological systems.",
+    "totalCost": "2454522",
+    "ecMaxContribution": "2454522",
+    "coordinator": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999544455": {
+            "orgId": "999544455",
+            "orgName": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+            "ecContrib": 2454522
+        }
+    },
+    "calculatedTotalContribution": 2454522
+}

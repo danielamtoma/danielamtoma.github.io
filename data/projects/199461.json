@@ -1,0 +1,28 @@
+{
+    "rcn": "199461",
+    "acronym": "STAQAMOF",
+    "topics": "ERC-StG-2015",
+    "title": "Statistical modelling across price and time scales: a quantitative approach to modern financial regulation",
+    "startDate": "01/10/2016",
+    "endDate": "30/09/2021",
+    "objective": "This project aims at providing a new quantitative approach to financial regulation, notably in the context of high frequency trading. The key idea of our method is to build relevant statistical models through price and time scales, connecting the microstructure of financial markets to the long term behavior of prices.  Doing so, we will be able to understand and quantify the macroscopic consequences of regulatory measures modifying the microscopic design of the market. Succeeding in this modelling task will require to address several intricate statistical problems.  In particular new results will be needed in the fields of limit theory for semi-martingales, multifractal processes, rough stochastic differential equations, Hawkes processes and high-dimensional statistics. Hence, through this project, we not only have the hope to provide groundbreaking tools for worldwide regulation of financial markets but, concurrently, to answer important and challenging mathematical problems. In term of analyzing concrete regulatory measures, particular attention will be devoted to the issue of the choice of a proper tick value, that is the minimal price increment allowed on a financial market. Indeed, the tick value is the tool which seems to be favored by most policy makers in order to regulate high frequency trading.",
+    "totalCost": "1165625",
+    "ecMaxContribution": "1165625",
+    "coordinator": "Ecole Polytechnique of Paris",
+    "coordinatorCountry": "FR",
+    "participants": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "999864264": {
+            "orgId": "999864264",
+            "orgName": "ECOLE POLYTECHNIQUE",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 0
+}

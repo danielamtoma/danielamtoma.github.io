@@ -1,0 +1,23 @@
+{
+    "rcn": "195854",
+    "acronym": "MINDS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "Multivariate analysis for the Imaging of Neuronal activity using Deep architectureS",
+    "startDate": "11/01/2016",
+    "endDate": "10/01/2018",
+    "objective": "Functional magnetic resonance imaging (fMRI) is the dominating approach to research in the mapping of neural activity in the human brain. State of the art data analysis techniques employ a statistical parametric mapping (SPM) strategy to convert raw signal into interpretable images by processing data in a pipeline of task-specific modules. This approach, despite its simplicity and reliability, presents a set of inconveniences, including low interconnectivity among modules, resulting in suboptimal solutions. In this project we aim at making a major contribution to the field by replacing the step-by-step data processing pipeline by a deep neural network. We hypothesise that this will achieve better solutions by propagating the effects of module-based decisions through the network, jointly optimizing the whole processing pipeline. Moreover, fMRI low temporal resolution will be alleviated by means of a post-processing treatment, where advanced interpolation techniques will be used. We will release a freely accessible software tool that integrates with SPM, supplying an easy-to-use framework including advanced techniques for an automatic multivariate non-linear data analysis. The generated deep network solution will be applied in a multidisciplinary study in neurofeedback, where subjects will learn relaxation strategies guided by fMRI technology. At the end of the project, we expect our tool to become a useful standard practise in the field.",
+    "totalCost": "212194,8",
+    "ecMaxContribution": "212194,8",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 212195
+        }
+    },
+    "calculatedTotalContribution": 212195
+}

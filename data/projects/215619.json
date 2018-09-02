@@ -1,0 +1,17 @@
+{
+    "rcn": "215619",
+    "acronym": "Entrans",
+    "topics": "MSCA-IF-2017",
+    "title": "Energy Efficient Transprecision Techniques for Linear Solver",
+    "startDate": "01/06/2018",
+    "endDate": "31/05/2020",
+    "objective": "All computations that use floating-point arithmetic are built on the fundamental assumption that the computation is meaningful when employing only a limited precision. The required precision typically varies throughout the computation and depends on the actual represented values. Many computations use too many bits of precision, which reduces performance and increases energy consumption. The Entrans project aims to utilize the optimal precision during a computation without loss of accuracy, which will result in higher execution speed and lower energy consumption. This idea, dubbed transprecision computing, requires novel results in numerical analysis and runtime decision making to adapt the precision of a computation on the fly.\nThe Fellow, JunKyu Lee, is an expert in numerical analysis and will collaborate with the research group of Dr Hans Vandierendonck at Queenís University Belfast, who are experts in high-performance and parallel computing. The Fellow will collaborate with experts in runtime systems software and with experts in computer architecture. This unique collaboration and combination of skill sets is crucial to embed dynamic, runtime behavior in numerical algorithms.\nThis ambitious research project, in conjunction with formal training and bespoke mentoring will enhance the Fellowís academic profile, research experience, and breadth of skill set in numerical analysis and high-performance computing. Providing fundamental insights in the runtime variation of precision requirements of numerical algorithms will improve their execution speed and energy-efficiency, but will also lay the foundation for the development of novel algorithms.",
+    "totalCost": "183454,8",
+    "ecMaxContribution": "183454,8",
+    "coordinator": "THE QUEEN'S UNIVERSITY OF BELFAST",
+    "coordinatorCountry": "UK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

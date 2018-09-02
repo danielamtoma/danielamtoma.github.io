@@ -1,0 +1,28 @@
+{
+    "rcn": "210612",
+    "acronym": "FloCoS",
+    "topics": "JTI-CS2-2016-CFP04-LPA-01-25",
+    "title": "Development and Manufacturing of a Smart AFC Drive and Control System",
+    "startDate": "01/06/2017",
+    "endDate": "30/09/2019",
+    "objective": "The project FloCoS will focus on an integrated flow control actuator driving system taking into account the specific requirements of piezoelectrically driven Synthetic Jet Actuators. The system will be divided into two different main parts: The amplifier unit on the one hand and the control part on the other hand. For making measurement values available which will be used for closed-loop control of the actuator, a dedicated measurement circuit will be developed and optimized for this specific application. A highly integrated and miniaturized electronic module for fluidic AFC actuators will be the output of this project. \n\nFloCoS will not only provide smart power amplifier solutions, but also efficient solutions. State-of-the-art power recovery technologies will be used to minimize the needed power for driving the piezoelectric elements. For the addressed application scenarios, e.g. the test of actuators in large scale wind tunnel test studies, there are special requirements for remote access and control for the system. For the test of the actuators as well as the aerodynamic concepts, the actuators have to be driven in WT/T environment, where control computers and power supply connectors may be far away from the point of action. FloCoS will provide remote access to all system parameters with an advanced monitoring and logging functionality.\n\nThe requested number of actuators suggests that there is a short term plan to test the actuators at a specific region in the wing, e.g. pylon-wing junction or outer wing. The integration aspects for these regions will demand special concepts for miniaturized solutions. The system itself will be encapsulated to comply with all harsh environmental requirements which are applied to the system in relevant environmental conditions. The conformity of the system with the electromagnetic compatibility requirements will be demonstrated by testing.",
+    "totalCost": "693013,75",
+    "ecMaxContribution": "485109,63",
+    "coordinator": "TRISITEC UG",
+    "coordinatorCountry": "DE",
+    "participants": "CEDRAT TECHNOLOGIES SA",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999429122": {
+            "orgId": "999429122",
+            "orgName": "CEDRAT TECHNOLOGIES SA",
+            "ecContrib": 299250
+        },
+        "925216071": {
+            "orgId": "925216071",
+            "orgName": "TRISITEC UG",
+            "ecContrib": 185860
+        }
+    },
+    "calculatedTotalContribution": 485110
+}

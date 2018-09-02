@@ -1,0 +1,23 @@
+{
+    "rcn": "208118",
+    "acronym": "Vis4Weather",
+    "topics": "ERC-PoC-2016",
+    "title": "Improved Communication of High Impact Weather Events",
+    "startDate": "01/03/2017",
+    "endDate": "31/08/2018",
+    "objective": "'In the scope of my ERC Advanced Grant 'SaferVis', I have focused especially on the development of novel concepts and algorithms for analysing the uncertainty that is represented by an ensemble of simulations of a physical phenomenon, such as ensemble weather forecasts. Instead of making a single deterministic computation of the future weather state, today the weather centres worldwide compute ensembles of numerical forecasts routinely using operational ensemble prediction systems. Weather forecasts then take the form of probabilities of occurrence of weather events, which are derived from the ensemble fields. \n\nIn the scope of SaferVis we have developed the opensource software tool Met.3D for 3D meteorological ensemble visualization. In the PoC, I aim to study a) the potential of an operational use of Met.3D at weather centres, b) the potential of Met.3D for training forecasters, decision makers and researchers in 3D ensemble visualization, c) the possible societal impact of (3D) ensemble visualization for communicating uncertainty in forecasts of high impact weather events to the public, and d) Met.3Dís potential for commercialization.'",
+    "totalCost": "148750",
+    "ecMaxContribution": "148750",
+    "coordinator": "TECHNISCHE UNIVERSITAET MUENCHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999977463": {
+            "orgId": "999977463",
+            "orgName": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "ecContrib": 148750
+        }
+    },
+    "calculatedTotalContribution": 148750
+}

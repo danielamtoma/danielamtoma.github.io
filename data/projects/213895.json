@@ -1,0 +1,23 @@
+{
+    "rcn": "213895",
+    "acronym": "ImageToSim",
+    "topics": "ERC-2017-STG",
+    "title": "Multiscale Imaging-through-analysis Methods for Autonomous Patient-specific Simulation Workflows",
+    "startDate": "01/08/2018",
+    "endDate": "31/07/2023",
+    "objective": "Due to the intricate process of transferring diagnostic imaging data into patient-specific models, simulation workflows involving complex physiological geometries largely rely on the manual intervention of specially trained analysts. This constitutes a significant roadblock for a wider adoption of predictive simulation in clinical practice, as the associated cost and response times are incompatible with tight budgets and urgent decision-making. Therefore, a new generation of imaging-through-analysis tools is needed that can be run autonomously in hospitals and medical clinics. The overarching goal of ImageToSim is to make substantial progress towards automation by casting image processing, geometry segmentation and physiology-based simulation into a unifying finite element framework that will overcome the dependence of state-of-the-art procedures on manual intervention. In this context, ImageToSim will fill fundamental technology gaps by developing a series of novel comprehensive variational multiscale methodologies that address robust active contour segmentation, upscaling of voxel-scale parameters, transition of micro- to macro-scale failure and flow through vascular networks of largely varying length scales. Focusing on osteoporotic bone fracture and liver perfusion, ImageToSim will integrate the newly developed techniques into an imaging-through-analysis prototype that will come significantly closer to automated operation than any existing framework. Tested and validated in collaboration with clinicians, it will showcase pathways to new simulation-based clinical protocols in osteoporosis prevention and liver surgery planning. Beyond its technical scope, ImageToSim will help establish a new paradigm for patient-specific simulation research that emphasizes full automation as a key objective, accelerating the much-needed transformation of healthcare from reactive and hospital-centered to preventive, proactive, evidence-based, and person-centered.",
+    "totalCost": "1555403",
+    "ecMaxContribution": "1555403",
+    "coordinator": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 1555403
+        }
+    },
+    "calculatedTotalContribution": 1555403
+}

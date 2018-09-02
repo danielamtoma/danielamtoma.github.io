@@ -1,0 +1,23 @@
+{
+    "rcn": "196029",
+    "acronym": "ProLeMAS",
+    "topics": "MSCA-IF-2014-EF",
+    "title": "ProLeMAS: PROcessing LEgal language in normative Multi-Agent Systems",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2017",
+    "objective": "Existing technologies usually represent norms as formal rules involving deontic operators. Such a rule-based representation of norms is not suitable to handle real data. Norms emerge from laws via an interpretation process. The methodology of Normative Multi-agent Systems (NorMas) by prof. Boella and prof. van der Torre has been conceived to overcome these limits. Nevertheless, the current formalization of NorMas features two main limitations. \nFirstly, its models are based on deontic logic such as input/output logic. Deontic logic is typically propositional, i.e. its basic components are propositions connected by modal operators. A proposition basically refers to a whole sentence. On the other hand, natural language semantics includes a wide range of fine-grained intra-sentence linguistic phenomena: named entities, scope-sensitive operators, etc. It is then necessary to move beyond the propositional level, i.e. to enhance the expressivity of NorMas fit to formalize the meaning of the phrases constituting the sentences (noun phrases, verbal phrases, named entities, etc.). \nSecondly, NorMas has never been implemented and tested on real legal text. Currently, NorMas is only a promising logical theory, but it is time to see how it behaves on real data, in order to make it suitable for commercial applications. \nDrawing from my past experience in natural language semantics, parsing, and corpora building, I propose a project for extending NorMas in that sense, leading to ProLeMAS: (Processing Legal language in normative Multi-Agent Systems), a new logic for normative reasoning in multi-agent systems. In particular, the present project aims at (1) filling the gap between the current formalization of NorMas and the richness of natural language semantics (2) Implementing a pipeline from legal text to ProLeMAS formulae, passing through parsing and reasoning.",
+    "totalCost": "160800",
+    "ecMaxContribution": "160800",
+    "coordinator": "UNIVERSITE DU LUXEMBOURG",
+    "coordinatorCountry": "LU",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999878620": {
+            "orgId": "999878620",
+            "orgName": "UNIVERSITE DU LUXEMBOURG",
+            "ecContrib": 160800
+        }
+    },
+    "calculatedTotalContribution": 160800
+}

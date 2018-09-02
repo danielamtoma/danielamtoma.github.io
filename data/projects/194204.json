@@ -1,0 +1,48 @@
+{
+    "rcn": "194204",
+    "acronym": "HimL",
+    "topics": "ICT-17-2014",
+    "title": "Health in my Language",
+    "startDate": "01/02/2015",
+    "endDate": "31/01/2018",
+    "objective": "To an ever-increasing extent, web-based services are providing a frontline for healthcare information in Europe. They help citizens find answers to their questions and help them understand and find the local services they need. However, due to the number of languages spoken in Europe, and the mobility of its population, there is a high demand for these services to be available in many languages. In order to satisfy this demand, we need to rely on automatic translation, as it is infeasible to manually translate into all languages requested. The aim of HimL is to use recent advances in machine translation to create and deploy a system for the automatic translation of public health information, with a special focus on meaning preservation. In particular, we will include recent work on domain adaptation, translation into morphological rich languages, terminology management, and semantically enhanced machine translation to build reliable machine translation for the health domain. The aim will be to create usable, reliable,  fully automatic translation of public health information, initially testing with translation from English into Czech, Polish, Romanian and German. In the HimL project we will iterate cycles of incorporating improvements into the MT systems, with careful evaluation and user acceptance testing.",
+    "totalCost": "3071897,77",
+    "ecMaxContribution": "2949571,25",
+    "coordinator": "THE UNIVERSITY OF EDINBURGH",
+    "coordinatorCountry": "UK",
+    "participants": "NHS 24 (SCOTLAND);LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN;THE COCHRANE COLLABORATION;UNIVERZITA KARLOVA;LINGEA SRO",
+    "participantCountries": "UK;DE;CZ",
+    "projectParticipants": {
+        "961006452": {
+            "orgId": "961006452",
+            "orgName": "NHS 24 (SCOTLAND)",
+            "ecContrib": 547425
+        },
+        "999978433": {
+            "orgId": "999978433",
+            "orgName": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+            "ecContrib": 510875
+        },
+        "999974941": {
+            "orgId": "999974941",
+            "orgName": "THE UNIVERSITY OF EDINBURGH",
+            "ecContrib": 785084
+        },
+        "942264015": {
+            "orgId": "942264015",
+            "orgName": "LINGEA SRO",
+            "ecContrib": 237562
+        },
+        "999923434": {
+            "orgId": "999923434",
+            "orgName": "UNIVERZITA KARLOVA",
+            "ecContrib": 475000
+        },
+        "997404635": {
+            "orgId": "997404635",
+            "orgName": "THE COCHRANE COLLABORATION",
+            "ecContrib": 393625
+        }
+    },
+    "calculatedTotalContribution": 2949571
+}

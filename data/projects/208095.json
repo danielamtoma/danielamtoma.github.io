@@ -1,0 +1,23 @@
+{
+    "rcn": "208095",
+    "acronym": "BACCO",
+    "topics": "ERC-2016-STG",
+    "title": "Bias and Clustering Calculations Optimised: Maximising discovery with galaxy surveys",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2022",
+    "objective": "A new generation of galaxy surveys will soon start measuring the spatial distribution of millions of galaxies over a broad range of redshifts, offering an imminent opportunity to discover new physics. A detailed comparison of these measurements with theoretical models of galaxy clustering may reveal a new fundamental particle, a breakdown of General Relativity, or a hint on the nature of cosmic acceleration. Despite a large progress in the analytic treatment of structure formation in recent years, traditional clustering models still suffer from large uncertainties. This limits cosmological analyses to a very restricted range of scales and statistics, which will be one of the main obstacles to reach a comprehensive exploitation of future surveys.\n\nHere I propose to develop a novel simulation--based approach to predict galaxy clustering. Combining recent advances in computational cosmology, from cosmological N--body calculations to physically-motivated galaxy formation models, I will develop a unified framework to directly predict the position and velocity of individual dark matter structures and galaxies as function of cosmological and astrophysical parameters. In this formulation, galaxy clustering will be a prediction of a set of physical assumptions in a given cosmological setting. The new theoretical framework will be flexible, accurate and fast: it will provide predictions for any clustering statistic, down to scales 100 times smaller than in state-of-the-art perturbation--theory--based models, and in less than 1 minute of CPU time. These advances will enable major improvements in future cosmological constraints, which will significantly increase the overall power of future surveys maximising our potential to discover new physics.",
+    "totalCost": "1484240",
+    "ecMaxContribution": "1484240",
+    "coordinator": "FUNDACION CENTRO DE ESTUDIOS DE FISICA DEL COSMOS DE ARAGON",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "967126473": {
+            "orgId": "967126473",
+            "orgName": "FUNDACION CENTRO DE ESTUDIOS DE FISICA DEL COSMOS DE ARAGON",
+            "ecContrib": 1484240
+        }
+    },
+    "calculatedTotalContribution": 1484240
+}

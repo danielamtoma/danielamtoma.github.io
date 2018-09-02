@@ -1,0 +1,63 @@
+{
+    "rcn": "213790",
+    "acronym": "SIA",
+    "topics": "GALILEO-1-2017",
+    "title": "System for vehicle-infrastructure Interaction Assets health status monitoring",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2021",
+    "objective": "SIA has the objective of developing 4 ready-to-use new services (iWheelMon, iRailMon, iPantMon and iCatMon) to provide prognostic information about the health status of the railwayís most demanding assets in terms of maintenance costs (wheel, rail, pantograph and catenary). These new services will help to reduce the 15% of railway maintenance costs, 25% of maintenance unscheduled events and 15% of derailments associated to the rail-wheel interface. These new end-to-end services are supported by a system that will adapt and integrate existing products (TR9) and technologies (TRL5-TRL7) as STEREOÆ, WINDSepeÆ and ERSAT_CPSÆ among others, brought by the consortium. The features of the services rely on an accurate and available positioning that will be achieved thanks to the distinguished characteristics for the railway environment of the EGNOS and Galileo multi-frequency multi-constellation signals (e.g. E5 wideband signal with Altboc modulation has high code range precision through reduced code noise and multipath). SIA will build on existing EGNSS based pilot projects such as H2020-ERSAT EAV and H2020-FR8RAIL within the context of Shift2Rail. SIA will also build on standards and best practice guides (e.g. GEGN8578, IEC613735-2-6, RailTopoModel among others), which will foster EGNSS adoption in the railway environment. Complementary, and with the same importance level to the technical development, SIA has the objective of paving the way for the market uptake of the new services. With this regard, 4 pilot projects has been planned to validate the performance of the new services in fully operational scenarios and to be used as a commercial platform for potential end-users. The preliminary business plans reveals a very promising business potential with a ROI of 126%, an accumulated turn-over of 34MÄ in 5 years and acquired income rights of another 58MÄ for the 5th year. Three high-tech SMEs are leading the project representing approximately 40% of the project effort.",
+    "totalCost": "3395036,25",
+    "ecMaxContribution": "2901948,76",
+    "coordinator": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+    "coordinatorCountry": "ES",
+    "participants": "UNION INTERNATIONALE DES CHEMINS DE FER;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;VIAS Y CONSTRUCCIONES SA;Ferrocarrils de la Generalitat de Catalunya;INGENIERIA Y CONTROL ELECTRONICO SA;OBB-Infrastruktur  AG;NOTTINGHAM SCIENTIFIC LTD;TELEFONOS LINEAS Y CENTRALES SA",
+    "participantCountries": "FR;DE;ES;AT;UK",
+    "projectParticipants": {
+        "997904185": {
+            "orgId": "997904185",
+            "orgName": "OBB-Infrastruktur  AG",
+            "ecContrib": 191144
+        },
+        "990825707": {
+            "orgId": "990825707",
+            "orgName": "NOTTINGHAM SCIENTIFIC LTD",
+            "ecContrib": 339609
+        },
+        "999738649": {
+            "orgId": "999738649",
+            "orgName": "UNION INTERNATIONALE DES CHEMINS DE FER",
+            "ecContrib": 307062
+        },
+        "973050263": {
+            "orgId": "973050263",
+            "orgName": "INGENIERIA Y CONTROL ELECTRONICO SA",
+            "ecContrib": 280394
+        },
+        "934735360": {
+            "orgId": "934735360",
+            "orgName": "TELEFONOS LINEAS Y CENTRALES SA",
+            "ecContrib": 218991
+        },
+        "967388179": {
+            "orgId": "967388179",
+            "orgName": "Ferrocarrils de la Generalitat de Catalunya",
+            "ecContrib": 276125
+        },
+        "999605662": {
+            "orgId": "999605662",
+            "orgName": "ASOCIACION CENTRO TECNOLOGICO CEIT-IK4",
+            "ecContrib": 625989
+        },
+        "983048150": {
+            "orgId": "983048150",
+            "orgName": "VIAS Y CONSTRUCCIONES SA",
+            "ecContrib": 120400
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 542235
+        }
+    },
+    "calculatedTotalContribution": 2901949
+}

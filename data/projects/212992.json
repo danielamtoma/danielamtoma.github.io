@@ -1,0 +1,48 @@
+{
+    "rcn": "212992",
+    "acronym": "PRO GAIT",
+    "topics": "MSCA-RISE-2017",
+    "title": "Physiological and Rehabilitation Outcomes: Gains from Automated Interventions in stroke Therapy (PRO GAIT)",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2022",
+    "objective": "Developments in robotics allow people with profound neuromuscular deficits after stroke to walk with assistance (during the gait cycle) using an exoskeleton robot. Integrating a robotic device with individualised user electroencephalography (EEG /electrical activity in the motor areas in the brain) and EMG (muscle)feedback would allow more physiological and targeted gait parameters in response to effort, and  confer neuroplastic training effects including neuromodulation of temporal and spatial features of gait.\nFuture integration of EEG/EMGsignals with robotic devices will allow patient initiated movement through thought and/or attempted effort, where currently parameters for devices are therapist set and usage is not functionally driven by the patient. Advancement in this regard is stalled primarily because of difficulty in 3D modelling of gait by EEG. \nThis collaborative consortium through secondments and return and built in knowledge sharing strategies will exchange knowledge and expertise across: Design, development and production of exoskeleton gait devices; neuro-rehabilitation; bioelectric EEG/EMG signal capture and interpretation; mathematical modelling and brain computer interface (BCI) platform development can advance the state of the art in gait rehabilitation after stroke rehabilitation. The proposal  will allow development of 3D modelling of gait, for gait restoration  and explore integration  with robotics from multi-stakeholder perspectives.\nAims:\n1. Define current state of the art in EEG modelling of gait post stroke by systematic review and meta-synthesis\n2. Complete 3D modelling of gait as visualised gait, overground gait and robotic walking in healthy individuals and stroke survivors\n3. Develop and test a virtual reality BCI gait training device, including end-user feedback\n4. Explore integration of this prototype with robotic software platforms",
+    "totalCost": "157500",
+    "ecMaxContribution": "144000",
+    "coordinator": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "CONGREGAZIONE DELLE SUORE INFERMIERE DELL ADDOLORATA;UNIVERSITA DEGLI STUDI DI PADOVA;MATER MISERICORDIAE UNIVERSITY HOSPITAL;UNIVERSITY OF ULSTER;G.TEC MEDICAL ENGINEERING GMBH",
+    "participantCountries": "IT;IE;UK;AT",
+    "projectParticipants": {
+        "999995602": {
+            "orgId": "999995602",
+            "orgName": "UNIVERSITA DEGLI STUDI DI PADOVA",
+            "ecContrib": 22500
+        },
+        "999885313": {
+            "orgId": "999885313",
+            "orgName": "UNIVERSITY OF ULSTER",
+            "ecContrib": 18000
+        },
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 13500
+        },
+        "949761436": {
+            "orgId": "949761436",
+            "orgName": "G.TEC MEDICAL ENGINEERING GMBH",
+            "ecContrib": 72000
+        },
+        "928377689": {
+            "orgId": "928377689",
+            "orgName": "EKSO BIONICS INC",
+            "ecContrib": 0
+        },
+        "996523487": {
+            "orgId": "996523487",
+            "orgName": "CONGREGAZIONE DELLE SUORE INFERMIERE DELL ADDOLORATA",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 126000
+}

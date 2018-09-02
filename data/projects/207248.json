@@ -1,0 +1,48 @@
+{
+    "rcn": "207248",
+    "acronym": "PHASE-CHANGE SWITCH",
+    "topics": "FETOPEN-01-2016-2017",
+    "title": "Phase-Change Materials and Switches for Enabling Beyond-CMOS Energy Efficient Applications",
+    "startDate": "01/01/2017",
+    "endDate": "30/06/2020",
+    "objective": "The proposal PHASE-CHANGE SWITCH addresses the need for combined energy efficiency and extended functionality with the engineering of new classes of solid-state Beyond CMOS switches exploiting the abrupt phase-change (Metal-Insulator-Transition - MIT) in materials and at temperatures that make them interesting for electronic circuits and systems by their performance, energy efficiency and scalability. The proposal includes disruptive research contributions on the whole value chain, from novel phase-change materials to new device and circuit architectures together with their scaling and integration on silicon and GaN platforms. On materials alloying and straining techniques in phase-change systems are used for the engineering of the transition temperature and the ON and OFF bandgaps (conductivity) of VO2. A significant advance is the three-terminal energy efficient phase-change electronic switch with deep-sub-thermionic average slope (<10mV/decade at room temperature), operating at sub-0.5V voltage supply, with ON current better than silicon MOSFET and OFF current comparable with tunnel FETs, surpassing the state-of-the-art. \nThe proposal focuses on smart design and exploitation of the unique properties of the phase-change VO2 beyond CMOS switches, by targeting with the same technology platform: (i) von-Neumann steep-slope logic devices and circuits, to extend CMOS with novel functionality and energy efficiency, (ii) uniquely reconfigurable energy efficient radio-frequency (RF) circuit functions from 1 to 100GHz, (iii) unconventional scalable neuristors exploiting the hysteretic RC switching behaviour for neuromorphic computation, and, (iv) disruptive classes of solid-state ionitronic devices for neuromorphic computation, exploiting non-volatile memory effects.\nThe proposed research is expected to create new applications and markets and reinforce the leadership of European industrial players in the field of energy efficient IoT and high frequency communications.",
+    "totalCost": "3883412,5",
+    "ecMaxContribution": "3883412",
+    "coordinator": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+    "coordinatorCountry": "CH",
+    "participants": "THE CHANCELLOR MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE;IBM RESEARCH GMBH;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;GESELLSCHAFT FUR ANGEWANDTE MIKRO UND OPTOELEKTRONIK MIT BESCHRANKTERHAFTUNG AMO GMBH;THALES SA",
+    "participantCountries": "UK;CH;DE;FR",
+    "projectParticipants": {
+        "999751938": {
+            "orgId": "999751938",
+            "orgName": "THALES SA",
+            "ecContrib": 581250
+        },
+        "999909854": {
+            "orgId": "999909854",
+            "orgName": "IBM RESEARCH GMBH",
+            "ecContrib": 612412
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 593625
+        },
+        "999977172": {
+            "orgId": "999977172",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+            "ecContrib": 0
+        },
+        "999796558": {
+            "orgId": "999796558",
+            "orgName": "GESELLSCHAFT FUR ANGEWANDTE MIKRO UND OPTOELEKTRONIK MIT BESCHRANKTERHAFTUNG AMO GMBH",
+            "ecContrib": 782375
+        },
+        "999973971": {
+            "orgId": "999973971",
+            "orgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+            "ecContrib": 658750
+        }
+    },
+    "calculatedTotalContribution": 3228412
+}

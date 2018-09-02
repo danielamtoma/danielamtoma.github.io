@@ -1,0 +1,123 @@
+{
+    "rcn": "211072",
+    "acronym": "5G ESSENCE",
+    "topics": "ICT-07-2017",
+    "title": "Embedded Network Services for 5G Experiences",
+    "startDate": "01/06/2017",
+    "endDate": "30/11/2019",
+    "objective": "5G ESSENCE addresses the paradigms of Edge Cloud computing and Small Cell as a Service by fuelling the drivers and removing the barriers in  the Small Cell market, forecasted to grow at an impressive pace up to 2020 and beyond and to play a key-role in the 5G ecosystem. 5G ESSENCE provides a highly flexible and scalable platform,able to support new business models and revenue streams by creating a neutral host market and reducing operational costs by providing new opportunities for ownership, deployment,toperation and amortisation.\nThe technical approach exploits the benefits of the centralisation of Small Cell functions as scale grows through an edge cloud environment based on a two-tier architecture: a first distributed tier for providing low latency services and a second centralised tier for providing high processing power for computing-intensive network applications. This  allows decoupling the control and user planes of the Radio Access Network (RAN) and achieving the benefits of Cloud-RAN without the enormous fronthaul latency restrictions. The use of end-to-end network slicing mechanisms will allow sharing the 5G ESSENCE infrastructure among multiple operators/vertical industries and customising its capabilities on a per-tenant basis. The versatility of the architecture is enhanced by high-performance virtualisation techniques for data  isolation, latency reduction and resource efficiency, and by orchestrating lightweight virtual resources enabling efficient Virtualised Network Function placement and live migration. 5G ESSENCE leverages knowledge, SW modules and prototypes from various 5G-PPP Phase-1 projects,SESAME being particularly relevant. Building on these foundations, very ambitious objectives are targeted, culminating with the prototyping and demonstration of 5G ESSENCE system in three real-life use cases associated to vertical industries, i.e., edge network acceleration in a crowded event, mission critical applications, and in-flight communications.",
+    "totalCost": "7981897,5",
+    "ecMaxContribution": "7978272,5",
+    "coordinator": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+    "coordinatorCountry": "EL",
+    "participants": "PIETRZYK SLAWOMIR;MUNICIPALITY OF EGALEO;ITALTEL SPA;THALES COMMUNICATIONS & SECURITY SAS;WIND TRE SPA;BAPCO LBG;ATOS SPAIN SA;SMART MOBILE LABS GMBH;UNIVERSITAT POLITECNICA DE CATALUNYA;\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\";FONDAZIONE BRUNO KESSLER;NEC LABORATORIES EUROPE GMBH;INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED;NEC EUROPE LTD;EIGHT BELLS LTD;UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA;TriaGnoSys GmbH;FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA;CAPRITECH LIMITED;ORION INNOVATIONS PRIVATE COMPANY;ATHONET SRL",
+    "participantCountries": "PL;EL;IT;FR;UK;ES;DE;IE;CY",
+    "projectParticipants": {
+        "999567347": {
+            "orgId": "999567347",
+            "orgName": "BAPCO LBG",
+            "ecContrib": 112500
+        },
+        "942321342": {
+            "orgId": "942321342",
+            "orgName": "ATHONET SRL",
+            "ecContrib": 220000
+        },
+        "999625450": {
+            "orgId": "999625450",
+            "orgName": "FONDAZIONE BRUNO KESSLER",
+            "ecContrib": 403750
+        },
+        "999591500": {
+            "orgId": "999591500",
+            "orgName": "ITALTEL SPA",
+            "ecContrib": 352500
+        },
+        "935934959": {
+            "orgId": "935934959",
+            "orgName": "ORION INNOVATIONS PRIVATE COMPANY",
+            "ecContrib": 425000
+        },
+        "999993856": {
+            "orgId": "999993856",
+            "orgName": "ATOS SPAIN SA",
+            "ecContrib": 378750
+        },
+        "999971934": {
+            "orgId": "999971934",
+            "orgName": "THALES COMMUNICATIONS & SECURITY SAS",
+            "ecContrib": 469888
+        },
+        "999978239": {
+            "orgId": "999978239",
+            "orgName": "\"NATIONAL CENTER FOR SCIENTIFIC RESEARCH \"\"DEMOKRITOS\"\"\"",
+            "ecContrib": 671750
+        },
+        "999583061": {
+            "orgId": "999583061",
+            "orgName": "FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",
+            "ecContrib": 419125
+        },
+        "933973716": {
+            "orgId": "933973716",
+            "orgName": "MUNICIPALITY OF EGALEO",
+            "ecContrib": 94375
+        },
+        "997492129": {
+            "orgId": "997492129",
+            "orgName": "TriaGnoSys GmbH",
+            "ecContrib": 465050
+        },
+        "917066131": {
+            "orgId": "917066131",
+            "orgName": "EIGHT BELLS LTD",
+            "ecContrib": 267500
+        },
+        "916965348": {
+            "orgId": "916965348",
+            "orgName": "SMART MOBILE LABS GMBH",
+            "ecContrib": 296250
+        },
+        "987086066": {
+            "orgId": "987086066",
+            "orgName": "INTEL RESEARCH AND DEVELOPMENT IRELAND LIMITED",
+            "ecContrib": 425750
+        },
+        "999792581": {
+            "orgId": "999792581",
+            "orgName": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A. - OTE AE (ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE)",
+            "ecContrib": 985500
+        },
+        "952108351": {
+            "orgId": "952108351",
+            "orgName": "WIND TRE SPA",
+            "ecContrib": 177500
+        },
+        "955040467": {
+            "orgId": "955040467",
+            "orgName": "PIETRZYK SLAWOMIR",
+            "ecContrib": 291000
+        },
+        "999865234": {
+            "orgId": "999865234",
+            "orgName": "UNIVERSIDAD DEL PAIS VASCO/ EUSKAL HERRIKO UNIBERTSITATEA",
+            "ecContrib": 223500
+        },
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 473500
+        },
+        "999911794": {
+            "orgId": "999911794",
+            "orgName": "NEC EUROPE LTD",
+            "ecContrib": 0
+        },
+        "927024733": {
+            "orgId": "927024733",
+            "orgName": "CAPRITECH LIMITED",
+            "ecContrib": 246250
+        }
+    },
+    "calculatedTotalContribution": 7399438
+}

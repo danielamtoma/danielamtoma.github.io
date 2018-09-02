@@ -1,0 +1,17 @@
+{
+    "rcn": "214842",
+    "acronym": "OLYMPUS",
+    "topics": "DS-08-2017",
+    "title": "Oblivious identitY Management for Private and User-friendly Services",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2021",
+    "objective": "At first sight, privacy and strong identity seem inherently at odds. Indeed, if users are strongly identified during a transaction, then privacy is non-existent. Nevertheless, there exist mechanisms that can reconcile privacy and strong identity, either by trusting an online identity provider (IDP), or by using cryptographic mechanisms such as anonymous credentials.\n \nThe former approach, made popular by technologies such as SAML, OpenID Connect, and Facebook Connect, has the disadvantage that the IDP forms a single point of failure in terms of privacy and security, because it can impersonate and track its users online. The latter approach has the disadvantage that users have to rely on trusted hardware such as smartcards to protect credentials from compromise and from illegitimate sharing.\n \nOLYMPUS will take a radically new approach offering the seamless user experience of online IDPs, but without their drawbacks. Namely, OLYMPUS will pioneer the concept of distributed oblivious identity management, where the role of the IDP is split over multiple authorities, so that no single authority can track or impersonate their users. By exploiting advanced techniques based on threshold cryptography, the OLYMPUS framework will let users maintain unlinkable identities with different service providers while using standard devices and a single password or biometric.\n \nBy leveraging existing eID solutions to create a strong link to physical identities, and by integrating into existing frameworks to ease adoption by service providers, OLYMPUS will establish a secure and interoperable European identity management framework. Its practical feasibility and relevance will be demonstrated in two pilots. The first combines the framework with soft identity proofs to build a mobile driver license application that can be used for offline purchases of restricted goods. The second use case will leverage pseudonymous identification in the financial world to simplify online credit application.",
+    "totalCost": "3147837,5",
+    "ecMaxContribution": "2564480,01",
+    "coordinator": "UNIVERSIDAD DE MURCIA",
+    "coordinatorCountry": "ES",
+    "participants": "SCYTALES AB;LOGALTY SERVICIOS DE TERCERO DE CONFIANZA SL SME;IBM RESEARCH GMBH;ALEXANDRA INSTITUTTET A/S;MULTICERT - SERVICOS DE CERTIFICACAO ELECTRONICA SA",
+    "participantCountries": "SE;ES;CH;DK;PT",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

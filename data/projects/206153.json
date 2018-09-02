@@ -1,0 +1,43 @@
+{
+    "rcn": "206153",
+    "acronym": "ECoLaSS",
+    "topics": "EO-3-2016",
+    "title": "Evolution of Copernicus Land Services based on Sentinel data",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "The Copernicus programme, coordinated and managed by the European Commission, delivers environmental information (largely based on Earth Observation satellite data) in the form of Copernicus Services, addressing six thematic areas: Land, Marine, Atmosphere, Climate Change, Emergency Management and Security. \nThe new Sentinel satellites, recently extended through the successful launch of Sentinel-3, will deliver an unprecedented volume of EO data in high spatial, radiometric and temporal resolution, providing a huge potential for monitoring applications within the Land Monitoring Service - at continental and global scale. The synergistic use of Sentinel-1/2/3 opens up the possibility for new applications, such as the use of time series in the area of Land Monitoring. \nThe ECoLaSS project (Evolution of Copernicus Land Services based on Sentinel data) aims to develop methods and algorithms for pre-operational prototypes improving and developing future specific Copernicus Land services. These prototypes, representing new or improved Copernicus Land Cover and Land Use products, will be demonstrated by means of test/demonstrations sites distributed over Europe and Africa, representing multiple bio-geographic regions and biomes. Prototypes will be designed with high spatial and thematic accuracy, in a timely manner for a pan-European operational Roll-out with the potential for global applications.\nECoLaSS will promote the innovation potential of new land monitoring services and applications and might thus contribute to a growing ìCopernicus Economyî by boosting (new) Copernicus CORE Land Services and value-added applications (Downstream Services). It is expected, that such new services will bring new opportunities with a wide range of dedicated applications to the market from 2020 onwards and thus significantly contribute to a positive evolution of the Copernicus Land services.",
+    "totalCost": "2000000",
+    "ecMaxContribution": "2000000",
+    "coordinator": "GAF AG",
+    "coordinatorCountry": "DE",
+    "participants": "JOANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT MBH;UNIVERSITE CATHOLIQUE DE LOUVAIN;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;SYSTEMES D'INFORMATION A REFERENCE SPATIALE - SIRS",
+    "participantCountries": "AT;BE;DE;FR",
+    "projectParticipants": {
+        "935107743": {
+            "orgId": "935107743",
+            "orgName": "SYSTEMES D'INFORMATION A REFERENCE SPATIALE - SIRS",
+            "ecContrib": 430000
+        },
+        "999981537": {
+            "orgId": "999981537",
+            "orgName": "JOANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT MBH",
+            "ecContrib": 335000
+        },
+        "999980664": {
+            "orgId": "999980664",
+            "orgName": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+            "ecContrib": 335000
+        },
+        "999415639": {
+            "orgId": "999415639",
+            "orgName": "GAF AG",
+            "ecContrib": 580000
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 320000
+        }
+    },
+    "calculatedTotalContribution": 2000000
+}

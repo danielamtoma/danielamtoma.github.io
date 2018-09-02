@@ -1,0 +1,23 @@
+{
+    "rcn": "207692",
+    "acronym": "INSTET",
+    "topics": "SMEInst-13-2016-2017",
+    "title": "Integral Security  Trust Element for the Internet of Things",
+    "startDate": "01/10/2016",
+    "endDate": "31/03/2017",
+    "objective": "Intrinsic-ID is a Dutch SME, spin-off from Philips Research, and a world leader in security solutions for chips, with 25\\ patents. Intrinsic-ID has created a technology to uniquely identify and authenticate chips based on the inherent characteristics of their memory component (SRAM). This technology, a digital equivalent of a fingerprint, is called Physical Unclonable Function (PUF).\n\nIntrinsic-ID is working on INSTET ñ a fully-fledged security solution on top of PUF that will protect low-end chips that are omnipresent in IoT devices everywhere by making them physically and cryptographically secure and extremely resilient to advanced attacks. INSTET will work as a Root of Trust, i.e. a set of core software components that are always trusted by the chip, and provide a trust foundation for the IoT device and distributed IoT systems.\n\nINSTET addresses the core problem of semiconductor vendors and OEMs: lack of security. INSTET can be deployed on almost any chip, including the ones that are already in the field, without costly redesigns or additional hardware, generating savings of up to 35% per chip.\n\nIn this 6-month feasibility study, Intrinsic-ID will investigate the product/market fit and business model fit in three most promising vertical segments of the semiconductor industry (wearables, medical electronics and automotive), develop a go-to-market strategy and calculate costs of scaling up.",
+    "totalCost": "71429",
+    "ecMaxContribution": "50000",
+    "coordinator": "INTRINSIC ID B.V.",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "995186051": {
+            "orgId": "995186051",
+            "orgName": "INTRINSIC ID B.V.",
+            "ecContrib": 50000
+        }
+    },
+    "calculatedTotalContribution": 50000
+}

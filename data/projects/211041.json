@@ -1,0 +1,28 @@
+{
+    "rcn": "211041",
+    "acronym": "MULTIECS",
+    "topics": "JTI-CS2-2016-CFP04-SYS-02-26",
+    "title": "MULTIivariable Environmental Control System",
+    "startDate": "01/09/2017",
+    "endDate": "31/08/2020",
+    "objective": "The goal of this project is the development of a Multivariable Control System (MCS) by means of extended linearization techniques, based on a control-oriented thermodynamical modelling for the electric air conditioning pack. The focus will be on developing real-time capable low-order models. In a second step, these models will be calibrated using test results from the Topic Manager. The subsequent MCS design will be performed in the Matlab/Simulink environment, in order to guarantee compatibility with the Topic Manager certification standards and processes. After successful simulation of the MCS implementation in Matlab/Simulink, an experimental validation of the MCS is aimed at the Topic Managerís facilities. The different objectives of the MULTIECS project are itemized as follows:\nï Derivation of symbolic control-oriented models for the electrical air-conditioning. \nï Efficient parameter identification of the nonlinear dynamic models to used in the MCS design aiming a small number of necessary test cases.\nï Development of the multivariable optimal control structure in the Matlab/Simulink taing advantage of the extended linearisation techniques, especially the SDRE design.\nï Assessment by simulations and experimental validation of the multivariable control system.",
+    "totalCost": "490250",
+    "ecMaxContribution": "490250",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSITAET ROSTOCK",
+    "participantCountries": "DE",
+    "projectParticipants": {
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 213125
+        },
+        "999852430": {
+            "orgId": "999852430",
+            "orgName": "UNIVERSITAET ROSTOCK",
+            "ecContrib": 277125
+        }
+    },
+    "calculatedTotalContribution": 490250
+}

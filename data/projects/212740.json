@@ -1,0 +1,23 @@
+{
+    "rcn": "212740",
+    "acronym": "MicroBar",
+    "topics": "ERC-2017-STG",
+    "title": "Microsatellite Barcoding: reconstructing the family tree of hematopoietic cells",
+    "startDate": "01/08/2018",
+    "endDate": "31/07/2023",
+    "objective": "While murine hematopoiesis has been considered as resolved science, recent results using barcoding, which allows the tracing of single cells in vivo, clearly show that the topology of the murine hematopoietic tree needs revisions. In parallel, human hematopoiesis has been overlooked and is widely considered as following the same tree as in mice. To leverage our understanding of normal human hematopoiesis, tools for barcoding in humans are urgently needed. This research program seeks to meet this need by taking advantage of recent developments in next generation sequencing to provide an improved barcoding method for in vivo use in human. Our microsatellite barcoding method exploits the fact that microsatellites in various loci undergo length changes during cell division, to create a natural barcode for each cell, and reconstruct the overall differentiation tree using a phylogenetic algorithm. Our technique, which is highly detailed with respect to current versions of microsatellite barcoding, provides high dimensional characterization of the cells and will allow the inference of important properties such as new phenotypic markers and key molecular regulators. Therefore, we will provide insights into both cell lineage and the molecular mechanisms involved in differentiation. With this method, we will provide the first in vivo description of the human hematopoietic tree and identify new progenitors and key molecular factors involved in human hematopoiesis. This knowledge will allow us to test whether cells with different origins have different functions, a key question in immunology in particular during infection and inflammation, and it will help design ways of therapeutically manipulating the hematopoietic system. More generally it will impact our understanding of stem cell differentiation for which hematopoiesis is used as an exemplar.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "INSTITUT CURIE",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999896759": {
+            "orgId": "999896759",
+            "orgName": "INSTITUT CURIE",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

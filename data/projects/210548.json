@@ -1,0 +1,23 @@
+{
+    "rcn": "210548",
+    "acronym": "UMWP-CHIP",
+    "topics": "ERC-2016-ADG",
+    "title": "Universal microwave photonics programmable processor for seamlessly interfacing wireless and optical ICT systems",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "Information and communication technology (ICT) systems are expanding at an awesome pace in terms of capacity demand, number of connected end-users and required infrastructure. To cope with these rapidly increasing growth rates there is a need for a flexible, scalable and future-proof solution for seamlessly interfacing the wireless and photonic segments of communication networks. \nRF or Microwave photonics (MWP), is the best positioned technology to provide the required flexible, adaptive and future-proof physical layer with unrivalled characteristics. Its widespread use is however limited by the high-cost, non-compact and heavy nature of its systems. Integrated Microwave Photonics (IMWP) targets the incorporation of MWP functionalities in photonic chips to obtain cost-effective and reduced space, weight and power consumption systems. IMWP has demonstrated some functionalities in through application specific photonic circuits (ASPICs), yielding almost as many technologies as applications and preventing cost-effective industrial manufacturing processes. A radically different approach is based on a universal or general-purpose programmable photonic integrated circuit (PIC) capable of performing with the same hardware architecture the main required functionalities. The aim of this project is the design, implementation and validation of such processor based on the novel concept of photonic waveguide mesh optical core and its integration in a Silicon Photonics chip. Its three specific objectives are: (1) The architecture design and optimization of a technology-agnostic universal MWP programmable signal processor, (2) The chip mask design, fabrication and testing of the processor and (3) The experimental demonstration and validation of the processor. Targeting record values in bandwidth and footprint its potential impact will be very large by unlocking bandwidth bottlenecks and providing seamless interfacing of the fiber and wireless segments in future ICT systems.",
+    "totalCost": "2494444",
+    "ecMaxContribution": "2494444",
+    "coordinator": "UNIVERSITAT POLITECNICA DE VALENCIA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999864846": {
+            "orgId": "999864846",
+            "orgName": "UNIVERSITAT POLITECNICA DE VALENCIA",
+            "ecContrib": 2494444
+        }
+    },
+    "calculatedTotalContribution": 2494444
+}

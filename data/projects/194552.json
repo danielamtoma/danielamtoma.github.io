@@ -1,0 +1,23 @@
+{
+    "rcn": "194552",
+    "acronym": "STERCP",
+    "topics": "ERC-CoG-2014",
+    "title": "Synchronisation to enhance reliability of climate predictions",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2020",
+    "objective": "Climate prediction is the next frontier in climate research. Prediction of climate on timescales from a season to a decade has shown progress, but beyond the ocean skill remains low. And while the historical evolution of climate at global scales can be reasonably simulated, agreement at a regional level is limited and large uncertainties exist in future climate change. These large uncertainties pose a major challenge to those providing climate services and to informing policy makers.\n\nThis proposal aims to investigate the potential of an innovative technique to reduce model systematic error, and hence to improve climate prediction skill and reduce uncertainties in future climate projections. The current practice to account for model systematic error, as for example adopted by the Intergovernmental Panel on Climate Change, is to perform simulations with ensembles of different models. This leads to more reliable predictions, and to a better representation of climate. Instead of running models independently, we propose to connect the different models in manner that they synchronise and errors compensate, thus leading to a model superior to any of the individual models ñ a super model. \n\nThe concept stems from theoretical non-dynamics and relies on advanced machine learning algorithms. Its application to climate modelling has been rudimentary. Nevertheless, our initial results show it holds great promise for improving climate prediction. To achieve even greater gains, we will extend the approach to allow greater connectivity among multiple complex climate models to create a true super climate model. We will assess the approachís potential to enhance seasonal-to-decadal prediction, focusing on the Tropical Pacific and North Atlantic, and to reduce uncertainties in climate projections. Importantly, this work will improve our understanding of climate, as well as how systematic model errors impact prediction skill and contribute to climate change uncertainties.",
+    "totalCost": "1999388,75",
+    "ecMaxContribution": "1999388,75",
+    "coordinator": "UNIVERSITETET I BERGEN",
+    "coordinatorCountry": "NO",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974456": {
+            "orgId": "999974456",
+            "orgName": "UNIVERSITETET I BERGEN",
+            "ecContrib": 1999389
+        }
+    },
+    "calculatedTotalContribution": 1999389
+}

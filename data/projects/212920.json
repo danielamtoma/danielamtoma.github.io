@@ -1,0 +1,53 @@
+{
+    "rcn": "212920",
+    "acronym": "HOLDON",
+    "topics": "COMPET-2-2017",
+    "title": "HgCdte APD Optimization for Lidar Detection Of greeNhouse gases",
+    "startDate": "01/01/2018",
+    "endDate": "30/06/2021",
+    "objective": "Lidar remote sensing of the earthís atmosphere is one of the main challenges in coping with the effects and causes of global warming caused by the emission of greenhouse gases. The present operating Lidar missions are all implanted on large satellite platforms due to the size of the telescope and high energy laser modules required to ensure a sufficient collection of light to extract the signal from the detector noise. The principal objective of HOLDON project is to develop a new detection chain which will improve the performance of the Lidars on large platforms and/or reduce the Lidar payload to be integrated in the future micro and mini-satellites. The performance increase is obtained by the optimization of HgCdTe avalanche photodiodes that will be hybridized to a CMOS Readout Circuit providing two operation modes and designed to meet the most demanding requirements for Lidar applications in terms of sensitivity, dynamic range and temporal resolution.\nTo achieve these goals, a team of 7 partners, leaders in the different fields related to Lidar missions, will collaborate (4 represented EU member states). To this end, three ambitious objectives are defined:\nï Design and built a cutting-edge photon noise limited Lidar detection chain\nï Validate adequation between detection chain key performances and future space mission requirements\nï Demonstrate the improvement achieved with the cutting-edge detection chain for greenhouse gases detection\nCOMPET-2-2017 aims at supporting project developing new technologies, systems and sub-systems for Earth observation in a relevant environment. According to this call, HOLDON project addresses i) ìDetector technolog\ny and complete detection chain enhancement in the domains of CMOS and Infrared for Earth observationsî, ii) ìSensors and mission concepts delivering high accuracy parameters for emission measurements.",
+    "totalCost": "2508571,25",
+    "ecMaxContribution": "2508571,25",
+    "coordinator": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+    "coordinatorCountry": "FR",
+    "participants": "Ecole Polytechnique of Paris;ABSISKEY;ALTER TECHNOLOGY TUV NORD SA;DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV;AIRBUS DEFENCE AND SPACE SAS;ID QUANTIQUE SA",
+    "participantCountries": "FR;ES;DE;CH",
+    "projectParticipants": {
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 1239490
+        },
+        "972426262": {
+            "orgId": "972426262",
+            "orgName": "ALTER TECHNOLOGY TUV NORD SA",
+            "ecContrib": 150000
+        },
+        "999864264": {
+            "orgId": "999864264",
+            "orgName": "ECOLE POLYTECHNIQUE",
+            "ecContrib": 0
+        },
+        "999662892": {
+            "orgId": "999662892",
+            "orgName": "ID QUANTIQUE SA",
+            "ecContrib": 376089
+        },
+        "911620842": {
+            "orgId": "911620842",
+            "orgName": "ABSISKEY",
+            "ecContrib": 100000
+        },
+        "999809265": {
+            "orgId": "999809265",
+            "orgName": "AIRBUS DEFENCE AND SPACE SAS",
+            "ecContrib": 229392
+        },
+        "999981731": {
+            "orgId": "999981731",
+            "orgName": "DEUTSCHES ZENTRUM FUER LUFT - UND RAUMFAHRT EV",
+            "ecContrib": 212975
+        }
+    },
+    "calculatedTotalContribution": 2307946
+}

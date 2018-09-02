@@ -1,0 +1,17 @@
+{
+    "rcn": "215815",
+    "acronym": "kANNa",
+    "topics": "MSCA-IF-2017",
+    "title": "Knowledge graph completion using Artificial Neural Networks for Herb-Drug Interaction discovery",
+    "startDate": "01/01/2019",
+    "endDate": "31/12/2020",
+    "objective": "With the growing popularity of herbal drugs an increasing number of scientific studies report information about herb-drug interactions that can significantly alter the effects of a drug. Keeping up with the current publication rate is not feasible, therefore there is a clear need for computational methods for early detection of herb-drug interactions that will enable better public and physician understanding of herbal products. But the costs of manually representing knowledge about herb-drug interactions in a machine processable way are prohibitive, therefore domain expertise has to be leveraged indirectly from domain-specific corpora using Information Extraction. This Marie Curie European Fellowship proposes a Deep Learning approach based on Artificial Neural Networks (ANN) and Information Extraction to monitor medical literature and construct a knowledge base of herb-drug interactions together with supporting evidence in the form of interaction mechanisms. To cope with the problem of incorrect or missing information we will consolidate the resulting knowledge graph using knowledge graph completion that predicts the probability of existence or correctness of typed edges in the graph. Advanced graph visualization techniques will be employed to develop intuitive interfaces for analyzing and comparing herb-drug interactions and underlying mechanisms. The Fellowship is expected to increase knowledge on clinically significant herb-drug interactions which will contribute to improved public safety. The Host will provide training on Deep Learning approaches for knowledge extraction which will open opportunities for a senior researcher position, in turn the Fellow will transfer Natural Language Processing skills and European collaborations to the host.",
+    "totalCost": "185076",
+    "ecMaxContribution": "185076",
+    "coordinator": "UNIVERSITE DE BORDEAUX",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

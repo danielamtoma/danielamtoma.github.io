@@ -1,0 +1,58 @@
+{
+    "rcn": "212578",
+    "acronym": "TotalControl",
+    "topics": "LCE-07-2016-2017",
+    "title": "Advanced integrated supervisory and wind turbine control for optimal operation of large Wind Power Plants",
+    "startDate": "01/01/2018",
+    "endDate": "31/12/2021",
+    "objective": "Cost of energy (COE) is the most important single factor in deployment of renewables in the energy system. Reduction of COE is, among other things, directly related to operational control of Wind Power Plants (WPP) as a whole and the individual wind turbines (WT) within them. In the Total Control project the COE reduction will be pursued by developing and validating advanced integrated WPP/WT control schemes, where all essential interactions between the WPP WTís are accounted for including both production and load aspects.\nOptimal WPP control is traditionally formulated as a one-parameter optimization problem focusing on the WPP production only. However, ultimately the optimal WPP performance should result from a multi objective optimization problem, where the optimal economic performance of a WPP is pursued over the WPP life time, conditioned on external grid demands. This is what Total Control is about.\nThe suggested integrated WPP/WT control approach seeks the optimal economical WPP revenue ñ i.e. the optimal economic balance between WPP power production and WPP operational costs. This is done by developing hierarchically coupled WPP and WT control schemes conditioned on a set of superior grid operator demands. \nIn the WPP control design phase information is only fed from the WPP controller to the individual WT controllers, whereas in on-line operational control available WT and WPP flow field information will be assimilated into the WPP control for optimal system performance. Furthermore, the WPP controller will also make use of current market information (e.g. energy price, demand for ancillary services etc.) as well as information about the state of individual turbines (e.g. current operational state, maintenance requirements and component lifetime consumption) to allow COE objectives to be optimised dynamically.",
+    "totalCost": "4876482,5",
+    "ecMaxContribution": "4876482,5",
+    "coordinator": "DANMARKS TEKNISKE UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "SINTEF ENERGI AS;GARRAD HASSAN & PARTNERS LTD;SIEMENS GAMESA RENEWABLE ENERGY AS;VATTENFALL AB;OFFSHORE RENEWABLE ENERGY CATAPULT;STATOIL ASA;KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "participantCountries": "NO;UK;DK;SE;BE",
+    "projectParticipants": {
+        "999513221": {
+            "orgId": "999513221",
+            "orgName": "SINTEF ENERGI AS",
+            "ecContrib": 1068156
+        },
+        "998811620": {
+            "orgId": "998811620",
+            "orgName": "OFFSHORE RENEWABLE ENERGY CATAPULT",
+            "ecContrib": 567201
+        },
+        "999939827": {
+            "orgId": "999939827",
+            "orgName": "STATOIL ASA",
+            "ecContrib": 80000
+        },
+        "986360215": {
+            "orgId": "986360215",
+            "orgName": "SIEMENS GAMESA RENEWABLE ENERGY AS",
+            "ecContrib": 95000
+        },
+        "999990655": {
+            "orgId": "999990655",
+            "orgName": "DANMARKS TEKNISKE UNIVERSITET",
+            "ecContrib": 1637500
+        },
+        "999743887": {
+            "orgId": "999743887",
+            "orgName": "GARRAD HASSAN & PARTNERS LTD",
+            "ecContrib": 599250
+        },
+        "997981785": {
+            "orgId": "997981785",
+            "orgName": "VATTENFALL AB",
+            "ecContrib": 202500
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 626875
+        }
+    },
+    "calculatedTotalContribution": 4876482
+}

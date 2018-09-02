@@ -1,0 +1,53 @@
+{
+    "rcn": "198093",
+    "acronym": "D2Service",
+    "topics": "FCH-02.9-2014",
+    "title": "Design of 2 Technologies and Applications to Service",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "The current ìDesign to serviceî project aims at simplifying both, residential and commercial fuel cell systems for easy, fast and save system service and maintenance. In order to make best use of lessons learned and available resources, this project jointly works on two distinguished technologies (PEFC&SOFC) in two different markets (residential & extended UPS). Both SME manufacturers are committed to establish lean after-sales structures, a significant step towards mass manufacturing and deployment. Maintenance is one significant part of Total Cost of Ownership of FC systems.\nPooling the operational experience of field test programs, such as ene.field and Callux, critical analysis will lead to a priority list of required technical changes. For cold Balance of Plant Components, joint efforts will focus on the desulphuriser and the water treatment system. Actions are taken for both, simplified maintenance and extended durability for prolonged service intervals. Logistics for replacement component supply will be considered. For the hot component parts, the manufacturers work on their individual hot topics to adapt and simplify the design of the current units, e.g. to allow replacement of individual components instead of sub-units. A large decrease of costs impact is expected once individual stacks can be changed in a simple maintenance operation instead of complete sub-units. It is important that such operations can be performed by a significant pool of qualified installers. This is addressed by the elaboration of simple technical manuals that will be exposed to real-life practical technicians in training programs. These actions aim at decreasing the technical barrier to service systems. \nFinally, the improved BoP units will be validated by testing single and multiple units. Beyond the classical features of high efficiency and silent operation, this will also add values like flexibility and modularity of FC technologies with respect to individual customer requests.",
+    "totalCost": "3636797,5",
+    "ecMaxContribution": "2953790,75",
+    "coordinator": "DLR-INSTITUT FUR VERNETZTE ENERGIESYSTEME EV",
+    "coordinatorCountry": "DE",
+    "participants": "BOSAL EMISSION CONTROL SYSTEMS NV;BALLARD POWER SYSTEMS EUROPE AS;SOLIDPOWER SPA;ENERGY PARTNER SRL;BRITISH GAS TRADING LIMITED;ZENTRUM FUR BRENNSTOFFZELLEN-TECHNIK GMBH",
+    "participantCountries": "BE;DK;IT;UK;DE",
+    "projectParticipants": {
+        "986378451": {
+            "orgId": "986378451",
+            "orgName": "ZENTRUM FUR BRENNSTOFFZELLEN-TECHNIK GMBH",
+            "ecContrib": 705450
+        },
+        "966670282": {
+            "orgId": "966670282",
+            "orgName": "BRITISH GAS TRADING LIMITED",
+            "ecContrib": 0
+        },
+        "996365765": {
+            "orgId": "996365765",
+            "orgName": "DLR-INSTITUT FUR VERNETZTE ENERGIESYSTEME EV",
+            "ecContrib": 705000
+        },
+        "991681732": {
+            "orgId": "991681732",
+            "orgName": "BALLARD POWER SYSTEMS EUROPE AS",
+            "ecContrib": 450100
+        },
+        "935062541": {
+            "orgId": "935062541",
+            "orgName": "ENERGY PARTNER SRL",
+            "ecContrib": 285198
+        },
+        "991660004": {
+            "orgId": "991660004",
+            "orgName": "BOSAL EMISSION CONTROL SYSTEMS NV",
+            "ecContrib": 288600
+        },
+        "973618489": {
+            "orgId": "973618489",
+            "orgName": "SOLIDPOWER SPA",
+            "ecContrib": 519444
+        }
+    },
+    "calculatedTotalContribution": 2953792
+}

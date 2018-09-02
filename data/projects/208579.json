@@ -1,0 +1,23 @@
+{
+    "rcn": "208579",
+    "acronym": "Wave-Locked Loop",
+    "topics": "MSCA-IF-2016",
+    "title": "Wave-Locked Loop for Frequency Synthesis (WLL)",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2019",
+    "objective": "Conventional analog Phase-Locked Loop (PLL) occupies large area and is difficult to be reconfigured due to a bulky loop filter. In 2005, phase-domain all-digital phase-locked-loop (ADPLL) was proposed. It measured output phase of digitally controlled oscillator (DCO) using a time-to-digital converter (TDC). Unfortunately, designing fine-resolution TDC and wide dynamic range is power-consuming. In this project, instead of utilizing single sampling point per reference clock, we propose to oversample and digitize oscillator oscillator waveform which will produce enough digital samples to reconstruct, now in digital domain, the waveform and compare against a model waveform which will give precise frequency/phase and amplitude information. Thus, it is called, wave-locked loop (WLL) that will result in low-in-band phase noise, fast lock time, and wide-loop bandwidth that is no longer limited by reference clock. Preliminary data shows finer than 1-degree phase resolution even with 10% delay error in sampling clocks, and distortion from input waveform. This shows possibility to break the tradeoff in traditional TDC and improve robustness over PVT variations. Moreover, the design of building blocks which includes low-flicker-noise mm-wave LC Digitally-Controlled Oscillator (DCO) and small-sized ring oscillator with phase noise filtering will be investigated. Thus, this fellowship program studies an innovative frequency synthesizer and clock generation systems using wave-locked loop, which includes the study of oversampling of oscillator waveform for fine phase detection, the study of phase-noise reduction in ring oscillator using discrete-time filtering, the study of mm-wave oscillator with flicker noise corner reduction, and system integration for wave-locked loop system. The proposed synthesizer will be tapeout using advanced CMOS technology and will be measured to verify their performance.",
+    "totalCost": "175866",
+    "ecMaxContribution": "175866",
+    "coordinator": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+    "coordinatorCountry": "IE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999974359": {
+            "orgId": "999974359",
+            "orgName": "UNIVERSITY COLLEGE DUBLIN, NATIONAL UNIVERSITY OF IRELAND, DUBLIN",
+            "ecContrib": 175866
+        }
+    },
+    "calculatedTotalContribution": 175866
+}

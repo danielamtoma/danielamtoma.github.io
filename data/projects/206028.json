@@ -1,0 +1,53 @@
+{
+    "rcn": "206028",
+    "acronym": "MELODIC",
+    "topics": "ICT-06-2016",
+    "title": "Multi-cloud Execution-ware for Large-scale Optimized Data-Intensive Computing",
+    "startDate": "01/12/2016",
+    "endDate": "30/11/2019",
+    "objective": "MELODIC will enable data-intensive applications to run within defined security, cost, and performance boundaries seamlessly on geographically distributed and federated cloud infrastructures. Serving the userís needs and constraints, MELODIC will realise the potential of Cloud computing for big data and data-intensive applications by transparently taking advantage of distinct characteristics of available private and public clouds, dynamically optimise resource utilisation, consider data locality, conform to the userís privacy needs and service requirements, and counter vendor lock-in.\n\nThese benefits are achieved by integrating and extending the results and the open source platforms available from three major European Cloud projects with the Hadoop and Spark big data frameworks: The PaaSage platform will be used for intelligent and autonomic cross-cloud deployment and is extended with data aware modelling and deployment configuration reasoning; the CACTOS platform is extended with support for Hadoop and Spark in cross-Cloud application deployment and management; and the PaaSword platform will ensure unified data security and cross-Cloud privacy.\n\nMELODIC will integrate with the existing open source development teams for these platforms and the contributions will be released back to the used platforms as open source. The integrated MELODIC platform will be maintained and exploited by a professional software house, and tested in several demanding real world applications: scalable Customer Relationship Management, real-time optimised traffic routing, and fast and scalable processing of genomic data.",
+    "totalCost": "4890223,75",
+    "ecMaxContribution": "4890223,75",
+    "coordinator": "UNIVERSITETET I OSLO",
+    "coordinatorCountry": "NO",
+    "participants": "UNIVERSITAET ULM;7BULLS.COM SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA;SIMULA RESEARCH LABORATORY AS;CAS SOFTWARE AG;CE-TRAFFIC AS;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+    "participantCountries": "DE;PL;NO;CZ;EL",
+    "projectParticipants": {
+        "999975814": {
+            "orgId": "999975814",
+            "orgName": "UNIVERSITETET I OSLO",
+            "ecContrib": 653911
+        },
+        "995915976": {
+            "orgId": "995915976",
+            "orgName": "SIMULA RESEARCH LABORATORY AS",
+            "ecContrib": 961250
+        },
+        "936119647": {
+            "orgId": "936119647",
+            "orgName": "UNIVERSITAET ULM",
+            "ecContrib": 742688
+        },
+        "957310461": {
+            "orgId": "957310461",
+            "orgName": "CE-TRAFFIC AS",
+            "ecContrib": 492125
+        },
+        "999797334": {
+            "orgId": "999797334",
+            "orgName": "CAS SOFTWARE AG",
+            "ecContrib": 621875
+        },
+        "919795129": {
+            "orgId": "919795129",
+            "orgName": "7BULLS.COM SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+            "ecContrib": 875000
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 543375
+        }
+    },
+    "calculatedTotalContribution": 4890224
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "214075",
+    "acronym": "RD-ADVANCE",
+    "topics": "ERC-2017-COG",
+    "title": "Advancing Econometric Methods for Analyzing Data from Regression Discontinuity Designs",
+    "startDate": "01/09/2018",
+    "endDate": "31/08/2022",
+    "objective": "Over the past two decades, regression discontinuity (RD) designs have become one of empirical economics' most popular strategies for estimating causal effects from observational data.  In such designs, units are assigned to the treatment group if and only if a special covariate, or running variable, falls above a known cutoff value. Under mild conditions, those units close to the cutoff are as good as randomly assigned to receive the treatment, which provides a simple and transparent source of identification of the treatment's causal effect.\nThis project extends the range of methodological tools available to applied researchers working with data from RD designs. It is divided into three parts. The first part develops methods for incorporating covariates and group structures into the analysis of RD designs by adapting modern machine learning methods and empirical Bayes approaches. The second part considers RD designs with a discrete running variable. It shows that current state-of-the-art inference procedures are likely to be misleading in such settings, and develops new confidence intervals for causal effects. The third part develops methods for estimation and inference that account for manipulation in RD designs. Here manipulation refers to any strategic action taken by the actors within the respective institutional context that leads to observational units on different sides of the cutoff being non-comparable. The part develops a general framework for manipulation with corresponding nonparametric methods for estimation and inference, and considers various extensions.\nGiven the huge popularity of RD designs, and the proposal's focus on practical methods, this project has the potential to have a sizable impact on empirical economic research in a number of policy relevant areas, including education and public finance; but also on other branches of science where researchers commonly work with observational data, such as sociology or epidemiology.",
+    "totalCost": "878970",
+    "ecMaxContribution": "878970",
+    "coordinator": "UNIVERSITAET MANNHEIM",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999878135": {
+            "orgId": "999878135",
+            "orgName": "UNIVERSITAET MANNHEIM",
+            "ecContrib": 878970
+        }
+    },
+    "calculatedTotalContribution": 878970
+}

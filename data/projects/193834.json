@@ -1,0 +1,73 @@
+{
+    "rcn": "193834",
+    "acronym": "COREGAL",
+    "topics": "GALILEO-3-2014",
+    "title": "Combined Positioning-Reflectometry Galileo Code Receiver for Forest Management",
+    "startDate": "01/01/2015",
+    "endDate": "31/05/2017",
+    "objective": "Biomass mapping has gained increased interest for bioenergy, climate research and mitigation activities, such as reducing emissions from deforestation and forest degradation, sustainable management of forests and enhancement of forest carbon stocks (e.g. REDD initiative).\n\nHowever, continuous deforestation activity and forest management requires frequent and accurate monitoring which can be expensive and difficult to attain. In Brazil, optical satellite data is typically used by government but even such does not allow accurate enough mapping due cloud coverage, requiring combination of other sources such as in-situ and air-borne measurements. Furthermore, satellite radar signals can penetrate clouds but still today the spatial resolution is not sufficient.\n\nIn COREGAL, a low cost unmanned fixed-plane Unmanned Aerial Vehicle (UAV) and service for biomass mapping will allow wide scale mapping in the Brazilian context of forest management. A first of a kind combined Position-Reflectometry Galileo receiver will be developed as main sensor for platform positioning and biomass estimation, the latter using reflected GNSS signals (also called GNSS-R) on tree canopies. High positioning accuracy (centimetre level) is required for surface point reflection determination, which is challenging for remote areas where no GNSS infrastructure is available as in the case of many forests in Brazil. However, Galileo AltBOC E5 signals offer unprecedented pseudorange measurement quality which can be used for novel high accuracy positioning.\n\nThe UAV will be equipped and tested with a COREGAL receiver and optical cameras for aerial mapping and biomass estimation, enabling wide scale low cost mapping: UAV mapping is at least one order of magnitude lower cost than manned air-borne missions while GNSS-R can be seen as bi-static radar replacing expensive, heavy and power consuming radars. \n\nThe consortium includes universities and companies for successful services and technology exploitation.",
+    "totalCost": "1314248,75",
+    "ecMaxContribution": "906267,5",
+    "coordinator": "DEIMOS ENGENHARIA S.A.",
+    "coordinatorCountry": "PT",
+    "participants": "EDITORA MUNDO GEO LTDA;UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA;GAMMA REMOTE SENSING RESEARCH AND CONSULTING AG;FUNDACION TECNALIA RESEARCH & INNOVATION;ENGEMAP ENGENHARIA, MAPEAMENTO E AEROLEVANTAMENTO LTDA;MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV;GEONUMERICS SL;Universidade Estadual Paulista - UNESP;THE UNIVERSITY OF NOTTINGHAM;DEIMOS SPACE SOCIEDAD LIMITADA UNIPERSONAL",
+    "participantCountries": "BR;IT;CH;ES;DE;UK",
+    "projectParticipants": {
+        "999976978": {
+            "orgId": "999976978",
+            "orgName": "THE UNIVERSITY OF NOTTINGHAM",
+            "ecContrib": 50000
+        },
+        "999844864": {
+            "orgId": "999844864",
+            "orgName": "UNIVERSITA DEGLI STUDI DI ROMA TORVERGATA",
+            "ecContrib": 85318
+        },
+        "888898380": {
+            "orgId": "888898380",
+            "orgName": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+            "ecContrib": 94375
+        },
+        "951895242": {
+            "orgId": "951895242",
+            "orgName": "ENGEMAP ENGENHARIA, MAPEAMENTO E AEROLEVANTAMENTO LTDA",
+            "ecContrib": 0
+        },
+        "998059288": {
+            "orgId": "998059288",
+            "orgName": "GAMMA REMOTE SENSING RESEARCH AND CONSULTING AG",
+            "ecContrib": 0
+        },
+        "999623219": {
+            "orgId": "999623219",
+            "orgName": "DEIMOS ENGENHARIA S.A.",
+            "ecContrib": 255238
+        },
+        "999604110": {
+            "orgId": "999604110",
+            "orgName": "FUNDACION TECNALIA RESEARCH & INNOVATION",
+            "ecContrib": 151619
+        },
+        "998394423": {
+            "orgId": "998394423",
+            "orgName": "Universidade Estadual Paulista - UNESP",
+            "ecContrib": 0
+        },
+        "999619824": {
+            "orgId": "999619824",
+            "orgName": "DEIMOS SPACE SOCIEDAD LIMITADA UNIPERSONAL",
+            "ecContrib": 140656
+        },
+        "996169922": {
+            "orgId": "996169922",
+            "orgName": "GEONUMERICS SL",
+            "ecContrib": 129062
+        },
+        "969404421": {
+            "orgId": "969404421",
+            "orgName": "EDITORA MUNDO GEO LTDA",
+            "ecContrib": 0
+        }
+    },
+    "calculatedTotalContribution": 906268
+}

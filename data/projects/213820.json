@@ -1,0 +1,38 @@
+{
+    "rcn": "213820",
+    "acronym": "MOTIVE",
+    "topics": "JTI-CS2-2017-CFP06-LPA-01-33",
+    "title": "Multi-physics mOdelling of high Temperature engIne ValvEs",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2022",
+    "objective": "Aim: Predictive assessment of the functionality, performance and controllability of pneumatic aircraft engine valves through modelling of elementary physical phenomena encountered in the engine environment.\n\nAchievement of this project aim will be accomplished via two major technical objectives: 1) successful completion of an experimental testing campaign involving materials characterisation, bespoke friction and aerodynamic testing; 2) Development of a multi-physics model capable of describing the thermal physics, mechanical physics and fluid dynamics which are the three key physical domains involved in a high-temperature engine valve environment. The multi-physics models will be calibrated and validated against the experimental data.\n\nThe project falls under the CS2 Large Passenger Aircraft IADP Platform 1, and addresses the work package WP1.5.3 'Applied Technologies for Enhanced Aircraft Performance'. One of the main objectives is to provide the environment to create, establish, mature and calibrate tools and numerical simulation means to facilitate the transfer of results into scenarios different to the test or demonstration cases, and to facilitate ìvirtualî testing in addition to the designs and physical setups tested on ground and in flight . In addition, the IADP workspace places strong emphasis on developing a systematic understanding for dynamically-scaled demonstration, namely the physical laws, the range and limits of validity, accuracy and representativeness. With these in mind, the MOTIVE project is strongly aligned with the objectives of the CS2 programme.\nThe immediate impact of the project will be providing the IADP's Partners and aerospace community with a totally unique new set of multi-physics models, experimental data and numerical insight to utilise and adopt a multi-physics modelling framework to optimise pneumatic valve design. This will cut lead times and design-to-production through a faster pneumatic component prototyping and validation.",
+    "totalCost": "1099912,5",
+    "ecMaxContribution": "919808,63",
+    "coordinator": "TWI LIMITED",
+    "coordinatorCountry": "UK",
+    "participants": "SCITEK CONSULTANTS LIMITED;MECAS ESI SRO;VENTIL TEST EQUIPMENT BV",
+    "participantCountries": "UK;CZ;NL",
+    "projectParticipants": {
+        "952228825": {
+            "orgId": "952228825",
+            "orgName": "MECAS ESI SRO",
+            "ecContrib": 48991
+        },
+        "999686754": {
+            "orgId": "999686754",
+            "orgName": "SCITEK CONSULTANTS LIMITED",
+            "ecContrib": 208652
+        },
+        "911677393": {
+            "orgId": "911677393",
+            "orgName": "VENTIL TEST EQUIPMENT BV",
+            "ecContrib": 162599
+        },
+        "999912764": {
+            "orgId": "999912764",
+            "orgName": "TWI LIMITED",
+            "ecContrib": 499566
+        }
+    },
+    "calculatedTotalContribution": 919808
+}

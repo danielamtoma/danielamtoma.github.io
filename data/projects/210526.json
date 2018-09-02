@@ -1,0 +1,148 @@
+{
+    "rcn": "210526",
+    "acronym": "TAKEMI5",
+    "topics": "ECSEL-2016-2",
+    "title": "Technology Advances and Key Enablers for Module Integration for 5 nm",
+    "startDate": "01/04/2017",
+    "endDate": "31/03/2019",
+    "objective": "In line with industry needs, Mooreís law, scaling in ITRS 2013/2015, and ECSEL JU MASP 2016, the main objective of the TAKEMI5 project is to discover, develop and demonstrate lithographic, metrology, process and integration technologies enabling module integration for the 5 nm node. This is planned with available EUV/NA0.33 scanners that are optimized for mix and match with existing DUV/NA1.35 scanners, and with system design and development of a new hyper NA EUV lithography tool to enable more single exposure patterning at 5 nm to create complex integrated circuits. Process steps for modules in Front-end, Middle and Back-end of line are discovered and developed using the most advanced tool capabilities and they are evaluated morphologically and electrically using a relaxed test vehicle. During the development, specific challenges in metrology are assessed and metrology tools are upgraded or newly developed. The results are demonstrated in the imec pilot line with qualified metrology tools at the 5 nm node. The TAKEMI5 project relates to the ECSEL work program topic Process technologies ñ More Moore. It addresses and targets, as set out in the MASP, at a (disruptive) new Semiconductor Process, Equipment and Materials solutions for advanced CMOS processes that enable the module integration of electronic devices for the 5nm node in high-volume manufacturing and fast prototyping. The project touches the core of the continuation of Mooreís law which has celebrated its 50th anniversary. The cost aware development process supports the involved companies, and places them in an enhanced position for their worldwide competition. Through their worldwide affiliations, the impact of the TAKEMI5 project will be felt outside Europe in America and Asia Pacific semiconductor centers and is expected to benefit the European economy a lot by supporting its semiconductor equipment and metrology sectors with innovations, exports and employment.",
+    "totalCost": "132991314,3",
+    "ecMaxContribution": "28340000",
+    "coordinator": "ASML NETHERLANDS B.V.",
+    "coordinatorCountry": "NL",
+    "participants": "ICT Integrated Circuit Testing GmbH;ICOS VISION SYSTEMS NV;COVENTOR SARL;NANOMOTION LTD;PFEIFFER VACUUM;APPLIED MATERIALS BELGIUM;RECIF TECHNOLOGIES;NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO;SEMILAB FELVEZETO FIZIKAI LABORATORIUM RESZVENYTARSASAG;LAM RESEARCH BELGIUM;APPLIED MATERIALS ISRAEL LTD;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;CARL ZEISS SMT GMBH;INSTITUT FUER MIKROELEKTRONIK STUTTGART;EMC ISRAEL DEVELOPMENT CENTER LTD;ASYS AUTOMATIC SYSTEMS GMBH & CO KG;FYZIKALNI USTAV AV CR V.V.I;NOVA MEASURING INSTRUMENTS LTD;BRUKER JV ISRAEL LTD;ACTIVE TECHNOLOGIES SRL;AIS AUTOMATION DRESDEN GmbH;CRYTUR SPOL.S.R.O.;FEI ELECTRON OPTICS BV;ION BEAM SERVICES;KLA-TENCOR CORPORATION (ISRAEL)",
+    "participantCountries": "DE;BE;FR;IL;NL;HU;CZ;IT",
+    "projectParticipants": {
+        "952502559": {
+            "orgId": "952502559",
+            "orgName": "CRYTUR SPOL.S.R.O.",
+            "ecContrib": 70000
+        },
+        "956060228": {
+            "orgId": "956060228",
+            "orgName": "NOVA MEASURING INSTRUMENTS LTD",
+            "ecContrib": 1272534
+        },
+        "985764441": {
+            "orgId": "985764441",
+            "orgName": "ION BEAM SERVICES",
+            "ecContrib": 296931
+        },
+        "936401335": {
+            "orgId": "936401335",
+            "orgName": "NANOMOTION LTD",
+            "ecContrib": 412269
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 6206110
+        },
+        "999988909": {
+            "orgId": "999988909",
+            "orgName": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "ecContrib": 412533
+        },
+        "913229975": {
+            "orgId": "913229975",
+            "orgName": "EMC ISRAEL DEVELOPMENT CENTER LTD",
+            "ecContrib": 199575
+        },
+        "998639833": {
+            "orgId": "998639833",
+            "orgName": "PFEIFFER VACUUM",
+            "ecContrib": 224956
+        },
+        "999943416": {
+            "orgId": "999943416",
+            "orgName": "ASML NETHERLANDS B.V.",
+            "ecContrib": 6936682
+        },
+        "985529895": {
+            "orgId": "985529895",
+            "orgName": "ICT Integrated Circuit Testing GmbH",
+            "ecContrib": 366500
+        },
+        "999735060": {
+            "orgId": "999735060",
+            "orgName": "ACTIVE TECHNOLOGIES SRL",
+            "ecContrib": 165432
+        },
+        "937248436": {
+            "orgId": "937248436",
+            "orgName": "ASYS AUTOMATIC SYSTEMS GMBH & CO KG",
+            "ecContrib": 166062
+        },
+        "936809705": {
+            "orgId": "936809705",
+            "orgName": "LAM RESEARCH BELGIUM",
+            "ecContrib": 38023
+        },
+        "985728454": {
+            "orgId": "985728454",
+            "orgName": "APPLIED MATERIALS ISRAEL LTD",
+            "ecContrib": 1825000
+        },
+        "999478107": {
+            "orgId": "999478107",
+            "orgName": "COVENTOR SARL",
+            "ecContrib": 407728
+        },
+        "953141692": {
+            "orgId": "953141692",
+            "orgName": "ICOS VISION SYSTEMS NV",
+            "ecContrib": 124095
+        },
+        "989695851": {
+            "orgId": "989695851",
+            "orgName": "RECIF TECHNOLOGIES",
+            "ecContrib": 95401
+        },
+        "996053910": {
+            "orgId": "996053910",
+            "orgName": "SEMILAB FELVEZETO FIZIKAI LABORATORIUM RESZVENYTARSASAG",
+            "ecContrib": 213401
+        },
+        "999873867": {
+            "orgId": "999873867",
+            "orgName": "FYZIKALNI USTAV AV CR V.V.I",
+            "ecContrib": 42000
+        },
+        "999590433": {
+            "orgId": "999590433",
+            "orgName": "INSTITUT FUER MIKROELEKTRONIK STUTTGART",
+            "ecContrib": 957888
+        },
+        "987342049": {
+            "orgId": "987342049",
+            "orgName": "AIS AUTOMATION DRESDEN GmbH",
+            "ecContrib": 40289
+        },
+        "985480037": {
+            "orgId": "985480037",
+            "orgName": "FEI ELECTRON OPTICS BV",
+            "ecContrib": 965492
+        },
+        "968955602": {
+            "orgId": "968955602",
+            "orgName": "APPLIED MATERIALS BELGIUM",
+            "ecContrib": 232256
+        },
+        "950397174": {
+            "orgId": "950397174",
+            "orgName": "CARL ZEISS SMT GMBH",
+            "ecContrib": 5520000
+        },
+        "999943707": {
+            "orgId": "999943707",
+            "orgName": "KLA-TENCOR CORPORATION (ISRAEL)",
+            "ecContrib": 848717
+        },
+        "999772211": {
+            "orgId": "999772211",
+            "orgName": "BRUKER JV ISRAEL LTD",
+            "ecContrib": 300125
+        }
+    },
+    "calculatedTotalContribution": 28339999
+}

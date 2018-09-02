@@ -1,0 +1,23 @@
+{
+    "rcn": "202563",
+    "acronym": "FLEXOCOMP",
+    "topics": "ERC-StG-2015",
+    "title": "Enabling flexoelectric engineering through modeling and computation",
+    "startDate": "01/09/2016",
+    "endDate": "31/08/2021",
+    "objective": "Piezoelectric materials transduce electrical voltage into mechanical strain and vice-versa, which makes them ubiquitous in sensors, actuators, and energy harvesting systems. Flexoelectricity is a related but different effect, by which electric polarization is coupled to strain gradients, i.e. it requires inhomogeneous deformation. Flexoelectricity is present in a much wider variety of materials, including non-polar dielectrics and polymers, but is only significant at small length-scales. Flexoelectricity has demonstrated its potential in information technologies, by flexoelectric-mediated mechanical writing in ferroelectric thin films at the nanoscale, or in flexoelectric electromechanical transducers. It has been suggested that flexoelectricity could enable piezoelectric composites made out of non-piezoelectric components, including soft materials, which could be used in biocompatible and self-powered small-scale devices. Flexoelectricity is a nascent field with major open questions. Furthermore, experimental devices and material designs are limited by what we can understand and analyze, and unfortunately, we lack general engineering analysis tools for flexoelectricity. As a result, current flexoelectric devices are only minimal variations of configurations conceived within the uniform-strain mindset of piezoelectricity. Our main objective in this proposal is to develop an advanced computational infrastructure to quantify flexoelectricity in solids, focusing on continuum models but also exploring multiscale aspects. We plan to use it to (1) analyze accurately flexoelectricity accounting for general geometries, electrode configurations, and material behavior, (2) identify new physics emerging  flexoelectricity, and (3) propose, build and test a new generation of thin-film devices, composites and metamaterials for electromechanical transduction, genuinely designed to exploit small-scale flexoelectricity and make it available at macroscopic scales.",
+    "totalCost": "1500000",
+    "ecMaxContribution": "1500000",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 1500000
+        }
+    },
+    "calculatedTotalContribution": 1500000
+}

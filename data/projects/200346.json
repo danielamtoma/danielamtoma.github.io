@@ -1,0 +1,23 @@
+{
+    "rcn": "200346",
+    "acronym": "ETIC",
+    "topics": "MSCA-IF-2015-EF",
+    "title": "Encoding and Transmission of Information in the Mouse Somatosensory Cortex",
+    "startDate": "01/07/2016",
+    "endDate": "30/06/2018",
+    "objective": "A major challenge in neuroscience is to understand how neurons code information. Optogenetics techniques provide the opportunity of controlling neuronal activity with high temporal and spatial resolution and thus testing causally the role of a specific encoding strategy. However, to enable us to crack the neural code, these optical approaches need to be complemented by theoretical developments that: 1) identify the response variables of a neural population that carry the most information about sensory stimuli and thus allows to build a hypothesis about the neural code it uses; 2) create stimulation protocols specifically designed to rigorously test the hypothesis; 3) apply appropriate statistical analyses that determine whether different information-carrying components of neural population activity are transmitted through downstream networks. Here I will develop a novel theoretical framework to address these issues and understand how the mammalian cortex encodes sensory information, using the mouse somatosensory cortex as an experimental model. I will develop a set of computational techniques aimed at characterizing the encoding and transmission of information in layer IV and then in one of its main targets: layer II/III. Specifically, I will develop Non-Negative Matrix Factorization methods to characterize how large-scale populations of layer IV encode whisker information. I will develop a Wavelet Transform based method to decompose the electrophysiological responses of layer II/III neurons into independently contributing temporal scales and establish which whisker-informative components of layer IV population activity are transmitted to the response of layer 2/3 neurons. This project constitutes a completely novel and comprehensive approach to crack the neural code that lies at the interface between computational neuroscience, optogenetic and neurophysiology and that will provide a crucial step towards the optimal applicability of causal optogenetic techniques.",
+    "totalCost": "168277,2",
+    "ecMaxContribution": "168277,2",
+    "coordinator": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+    "coordinatorCountry": "IT",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999596447": {
+            "orgId": "999596447",
+            "orgName": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+            "ecContrib": 168277
+        }
+    },
+    "calculatedTotalContribution": 168277
+}

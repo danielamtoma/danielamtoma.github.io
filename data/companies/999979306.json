@@ -1,0 +1,976 @@
+{
+    "orgId": "999979306",
+    "orgName": "WEIZMANN INSTITUTE OF SCIENCE",
+    "orgCountry": "Israel",
+    "orgAddr": "HERZL STREET 234 7610001 REHOVOT",
+    "orgGeoloc": [
+        34.8105616,
+        31.8952532
+    ],
+    "orgLat": 31.8952532,
+    "orgLng": 34.8105616,
+    "orgProjects": {
+        "209936": {
+            "Acronym": "ESCAPE_COPD",
+            "rcn": "209936",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "198825": {
+            "Acronym": "EuBI PPII",
+            "rcn": "198825",
+            "ecContrib": 1500,
+            "projectTotalCost": 1497910,
+            "projectEuContrib": 1497910
+        },
+        "209502": {
+            "Acronym": "Prolifimeter",
+            "rcn": "209502",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "194892": {
+            "Acronym": "iNEXT",
+            "rcn": "194892",
+            "ecContrib": 31250,
+            "projectTotalCost": 9999534,
+            "projectEuContrib": 9999534
+        },
+        "193892": {
+            "Acronym": "ResMoSys",
+            "rcn": "193892",
+            "ecContrib": 260301,
+            "projectTotalCost": 2646334,
+            "projectEuContrib": 2646334
+        },
+        "200420": {
+            "Acronym": "WASTE2FUELS",
+            "rcn": "200420",
+            "ecContrib": 249616,
+            "projectTotalCost": 5989744,
+            "projectEuContrib": 5989742
+        },
+        "197092": {
+            "Acronym": "NOVCARBFIX",
+            "rcn": "197092",
+            "ecContrib": 1999843,
+            "projectTotalCost": 1999843,
+            "projectEuContrib": 1999843
+        },
+        "203239": {
+            "Acronym": "Virocellsphere",
+            "rcn": "203239",
+            "ecContrib": 2749901,
+            "projectTotalCost": 2749901,
+            "projectEuContrib": 2749901
+        },
+        "211100": {
+            "Acronym": "watersplit",
+            "rcn": "211100",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "213900": {
+            "Acronym": "CIRCOMMUNICATION",
+            "rcn": "213900",
+            "ecContrib": 1999945,
+            "projectTotalCost": 1999945,
+            "projectEuContrib": 1999945
+        },
+        "204119": {
+            "Acronym": "NATURAL_BAT_NAV",
+            "rcn": "204119",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "202415": {
+            "Acronym": "MITOCHONTACTS",
+            "rcn": "202415",
+            "ecContrib": 182509,
+            "projectTotalCost": 182509,
+            "projectEuContrib": 182509
+        },
+        "193947": {
+            "Acronym": "EUROPOL",
+            "rcn": "193947",
+            "ecContrib": 780902,
+            "projectTotalCost": 3960040,
+            "projectEuContrib": 3960040
+        },
+        "206396": {
+            "Acronym": "LysoMod",
+            "rcn": "206396",
+            "ecContrib": 18450,
+            "projectTotalCost": 1156500,
+            "projectEuContrib": 1102500
+        },
+        "207268": {
+            "Acronym": "FORMAT",
+            "rcn": "207268",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "198228": {
+            "Acronym": "LineageDiscovery",
+            "rcn": "198228",
+            "ecContrib": 2250000,
+            "projectTotalCost": 2250000,
+            "projectEuContrib": 2250000
+        },
+        "196960": {
+            "Acronym": "MRG-GRammar",
+            "rcn": "196960",
+            "ecContrib": 721273,
+            "projectTotalCost": 3999661,
+            "projectEuContrib": 3999661
+        },
+        "203222": {
+            "Acronym": "Ubl-Code",
+            "rcn": "203222",
+            "ecContrib": 1500000,
+            "projectTotalCost": 1500000,
+            "projectEuContrib": 1500000
+        },
+        "193201": {
+            "Acronym": "ERNI2014",
+            "rcn": "193201",
+            "ecContrib": 20993,
+            "projectTotalCost": 808050,
+            "projectEuContrib": 300000
+        },
+        "197080": {
+            "Acronym": "TopFront",
+            "rcn": "197080",
+            "ecContrib": 36334,
+            "projectTotalCost": 1500000,
+            "projectEuContrib": 1500000
+        },
+        "213445": {
+            "Acronym": "ANTSolve",
+            "rcn": "213445",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "193763": {
+            "Acronym": "MetKnock",
+            "rcn": "193763",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "213758": {
+            "Acronym": "eForFuel",
+            "rcn": "213758",
+            "ecContrib": 149538,
+            "projectTotalCost": 4117208,
+            "projectEuContrib": 4117208
+        },
+        "194461": {
+            "Acronym": "PeroxiSystem",
+            "rcn": "194461",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "198758": {
+            "Acronym": "COMbAT",
+            "rcn": "198758",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "212082": {
+            "Acronym": "RetinalRepurposing",
+            "rcn": "212082",
+            "ecContrib": 1494000,
+            "projectTotalCost": 1494000,
+            "projectEuContrib": 1494000
+        },
+        "193810": {
+            "Acronym": "SENSEI",
+            "rcn": "193810",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "206134": {
+            "Acronym": "CrackEpitranscriptom",
+            "rcn": "206134",
+            "ecContrib": 1402666,
+            "projectTotalCost": 1402666,
+            "projectEuContrib": 1402666
+        },
+        "193955": {
+            "Acronym": "InCeM",
+            "rcn": "193955",
+            "ecContrib": 260301,
+            "projectTotalCost": 3866665,
+            "projectEuContrib": 3866665
+        },
+        "197439": {
+            "Acronym": "See-1D-Qmatter",
+            "rcn": "197439",
+            "ecContrib": 2475000,
+            "projectTotalCost": 2475000,
+            "projectEuContrib": 2475000
+        },
+        "205537": {
+            "Acronym": "FiBreMoD",
+            "rcn": "205537",
+            "ecContrib": 260301,
+            "projectTotalCost": 3370807,
+            "projectEuContrib": 3370807
+        },
+        "200722": {
+            "Acronym": "Q-PHOTONICS",
+            "rcn": "200722",
+            "ecContrib": 1500000,
+            "projectTotalCost": 1500000,
+            "projectEuContrib": 1500000
+        },
+        "207009": {
+            "Acronym": "BiofoulRepel",
+            "rcn": "207009",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "210475": {
+            "Acronym": "LearnAnx_CircAmyg",
+            "rcn": "210475",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "210473": {
+            "Acronym": "ThymusTolerance",
+            "rcn": "210473",
+            "ecContrib": 2220000,
+            "projectTotalCost": 2220000,
+            "projectEuContrib": 2220000
+        },
+        "213162": {
+            "Acronym": "PROMETHEUS",
+            "rcn": "213162",
+            "ecContrib": 375582,
+            "projectTotalCost": 5496969,
+            "projectEuContrib": 5496969
+        },
+        "206039": {
+            "Acronym": "EMbRACe",
+            "rcn": "206039",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "195104": {
+            "Acronym": "UltraTherMicroscope",
+            "rcn": "195104",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "193270": {
+            "Acronym": "MULTIMOT",
+            "rcn": "193270",
+            "ecContrib": 490680,
+            "projectTotalCost": 2999354,
+            "projectEuContrib": 2999354
+        },
+        "213768": {
+            "Acronym": "LiftMatch",
+            "rcn": "213768",
+            "ecContrib": 1675640,
+            "projectTotalCost": 1675640,
+            "projectEuContrib": 1675640
+        },
+        "211903": {
+            "Acronym": "DRIVE",
+            "rcn": "211903",
+            "ecContrib": 260301,
+            "projectTotalCost": 3890065,
+            "projectEuContrib": 3890065
+        },
+        "213514": {
+            "Acronym": "PCPHDX",
+            "rcn": "213514",
+            "ecContrib": 1512035,
+            "projectTotalCost": 1512035,
+            "projectEuContrib": 1512035
+        },
+        "202579": {
+            "Acronym": "ColloQuantO",
+            "rcn": "202579",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "207278": {
+            "Acronym": "THZCALORIMETRY",
+            "rcn": "207278",
+            "ecContrib": 400000,
+            "projectTotalCost": 2500000,
+            "projectEuContrib": 2500000
+        },
+        "212083": {
+            "Acronym": "MalPar.NET",
+            "rcn": "212083",
+            "ecContrib": 1500000,
+            "projectTotalCost": 1500000,
+            "projectEuContrib": 1500000
+        },
+        "202878": {
+            "Acronym": "DrugSense",
+            "rcn": "202878",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "208086": {
+            "Acronym": "MAMLE",
+            "rcn": "208086",
+            "ecContrib": 1750000,
+            "projectTotalCost": 1750000,
+            "projectEuContrib": 1750000
+        },
+        "193787": {
+            "Acronym": "ContactLube",
+            "rcn": "193787",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "210265": {
+            "Acronym": "SMALLOSTERY",
+            "rcn": "210265",
+            "ecContrib": 2484722,
+            "projectTotalCost": 2484722,
+            "projectEuContrib": 2484722
+        },
+        "213427": {
+            "Acronym": "LSO",
+            "rcn": "213427",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "207434": {
+            "Acronym": "INSTRUCT-ULTRA",
+            "rcn": "207434",
+            "ecContrib": 100000,
+            "projectTotalCost": 3950000,
+            "projectEuContrib": 3950000
+        },
+        "212212": {
+            "Acronym": "FAITh",
+            "rcn": "212212",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "212061": {
+            "Acronym": "DecodingInfection",
+            "rcn": "212061",
+            "ecContrib": 1499999,
+            "projectTotalCost": 1499999,
+            "projectEuContrib": 1499999
+        },
+        "211016": {
+            "Acronym": "X-Imaging",
+            "rcn": "211016",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "210810": {
+            "Acronym": "ImmuneCheckpointsAD",
+            "rcn": "210810",
+            "ecContrib": 2287500,
+            "projectTotalCost": 2287500,
+            "projectEuContrib": 2287500
+        },
+        "212285": {
+            "Acronym": "OOID",
+            "rcn": "212285",
+            "ecContrib": 1490596,
+            "projectTotalCost": 1490596,
+            "projectEuContrib": 1490596
+        },
+        "210152": {
+            "Acronym": "Fireworks",
+            "rcn": "210152",
+            "ecContrib": 2461111,
+            "projectTotalCost": 2461111,
+            "projectEuContrib": 2461111
+        },
+        "194999": {
+            "Acronym": "Cancer-Drug-Screen",
+            "rcn": "194999",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "211896": {
+            "Acronym": "M-GATE",
+            "rcn": "211896",
+            "ecContrib": 520601,
+            "projectTotalCost": 3961160,
+            "projectEuContrib": 3961160
+        },
+        "204152": {
+            "Acronym": "LogCorrelatedFields",
+            "rcn": "204152",
+            "ecContrib": 1292500,
+            "projectTotalCost": 1292500,
+            "projectEuContrib": 1292500
+        },
+        "193259": {
+            "Acronym": "SPENmr",
+            "rcn": "193259",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "211021": {
+            "Acronym": "INTACt",
+            "rcn": "211021",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "193418": {
+            "Acronym": "20SComplexity",
+            "rcn": "193418",
+            "ecContrib": 1500000,
+            "projectTotalCost": 1500000,
+            "projectEuContrib": 1500000
+        },
+        "199039": {
+            "Acronym": "FutureAgriculture",
+            "rcn": "199039",
+            "ecContrib": 875888,
+            "projectTotalCost": 4871410,
+            "projectEuContrib": 4871410
+        },
+        "194520": {
+            "Acronym": "DBA",
+            "rcn": "194520",
+            "ecContrib": 511309,
+            "projectTotalCost": 1894947,
+            "projectEuContrib": 1894947
+        },
+        "213437": {
+            "Acronym": "MEL-Interactions",
+            "rcn": "213437",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "205255": {
+            "Acronym": "ERNI2016",
+            "rcn": "205255",
+            "ecContrib": 20218,
+            "projectTotalCost": 870025,
+            "projectEuContrib": 300000
+        },
+        "212053": {
+            "Acronym": "StroMaP",
+            "rcn": "212053",
+            "ecContrib": 1499990,
+            "projectTotalCost": 1499990,
+            "projectEuContrib": 1499990
+        },
+        "197242": {
+            "Acronym": "HICONO",
+            "rcn": "197242",
+            "ecContrib": 260301,
+            "projectTotalCost": 2338562,
+            "projectEuContrib": 2338562
+        },
+        "199394": {
+            "Acronym": "QDLight",
+            "rcn": "199394",
+            "ecContrib": 100000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "194985": {
+            "Acronym": "lincPeptEvolDev",
+            "rcn": "194985",
+            "ecContrib": 182509,
+            "projectTotalCost": 182509,
+            "projectEuContrib": 182509
+        },
+        "199391": {
+            "Acronym": "TOPO-NW",
+            "rcn": "199391",
+            "ecContrib": 1750000,
+            "projectTotalCost": 1750000,
+            "projectEuContrib": 1750000
+        },
+        "196772": {
+            "Acronym": "lincSAFARI",
+            "rcn": "196772",
+            "ecContrib": 1500000,
+            "projectTotalCost": 1500000,
+            "projectEuContrib": 1500000
+        },
+        "212042": {
+            "Acronym": "onCOMBINE",
+            "rcn": "212042",
+            "ecContrib": 2488306,
+            "projectTotalCost": 2488306,
+            "projectEuContrib": 2488306
+        },
+        "198716": {
+            "Acronym": "SocioSmell",
+            "rcn": "198716",
+            "ecContrib": 2074206,
+            "projectTotalCost": 2074206,
+            "projectEuContrib": 2074206
+        },
+        "204478": {
+            "Acronym": "SUSCAT",
+            "rcn": "204478",
+            "ecContrib": 2497975,
+            "projectTotalCost": 2497975,
+            "projectEuContrib": 2497975
+        },
+        "211815": {
+            "Acronym": "THUNDEEP",
+            "rcn": "211815",
+            "ecContrib": 1442360,
+            "projectTotalCost": 1442360,
+            "projectEuContrib": 1442360
+        },
+        "196915": {
+            "Acronym": "NanoSmell",
+            "rcn": "196915",
+            "ecContrib": 1019156,
+            "projectTotalCost": 3979069,
+            "projectEuContrib": 3979069
+        },
+        "209240": {
+            "Acronym": "ILCSIGNALLING",
+            "rcn": "209240",
+            "ecContrib": 170509,
+            "projectTotalCost": 170509,
+            "projectEuContrib": 170509
+        },
+        "209914": {
+            "Acronym": "HemTree2.0",
+            "rcn": "209914",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "193336": {
+            "Acronym": "lightMaterInt",
+            "rcn": "193336",
+            "ecContrib": 0,
+            "projectTotalCost": 1999825,
+            "projectEuContrib": 1999825
+        },
+        "211325": {
+            "Acronym": "scAssembly",
+            "rcn": "211325",
+            "ecContrib": 2437500,
+            "projectTotalCost": 2437500,
+            "projectEuContrib": 2437500
+        },
+        "193540": {
+            "Acronym": "RelRepDist",
+            "rcn": "193540",
+            "ecContrib": 1196215,
+            "projectTotalCost": 1196215,
+            "projectEuContrib": 1196215
+        },
+        "197229": {
+            "Acronym": "Profile Infection",
+            "rcn": "197229",
+            "ecContrib": 1500000,
+            "projectTotalCost": 1500000,
+            "projectEuContrib": 1500000
+        },
+        "199712": {
+            "Acronym": "aNtHESIS",
+            "rcn": "199712",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "193966": {
+            "Acronym": "Chromatin3D",
+            "rcn": "193966",
+            "ecContrib": 260301,
+            "projectTotalCost": 3782583,
+            "projectEuContrib": 3782583
+        },
+        "205371": {
+            "Acronym": "HBP SGA1",
+            "rcn": "205371",
+            "ecContrib": 299997,
+            "projectTotalCost": 89000000,
+            "projectEuContrib": 89000000
+        },
+        "211826": {
+            "Acronym": "REACT",
+            "rcn": "211826",
+            "ecContrib": 1493803,
+            "projectTotalCost": 1493803,
+            "projectEuContrib": 1493803
+        },
+        "199775": {
+            "Acronym": "NVS",
+            "rcn": "199775",
+            "ecContrib": 175000,
+            "projectTotalCost": 3497553,
+            "projectEuContrib": 3497553
+        },
+        "199479": {
+            "Acronym": "SOLED",
+            "rcn": "199479",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "200758": {
+            "Acronym": "PhageResist",
+            "rcn": "200758",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "211406": {
+            "Acronym": "CartiLube",
+            "rcn": "211406",
+            "ecContrib": 1901058,
+            "projectTotalCost": 2499944,
+            "projectEuContrib": 2499944
+        },
+        "208893": {
+            "Acronym": "SCALTIE",
+            "rcn": "208893",
+            "ecContrib": 170509,
+            "projectTotalCost": 170509,
+            "projectEuContrib": 170509
+        },
+        "193587": {
+            "Acronym": "NeurogenesisCode",
+            "rcn": "193587",
+            "ecContrib": 1500000,
+            "projectTotalCost": 1500000,
+            "projectEuContrib": 1500000
+        },
+        "202547": {
+            "Acronym": "GutBCells",
+            "rcn": "202547",
+            "ecContrib": 1375000,
+            "projectTotalCost": 1375000,
+            "projectEuContrib": 1375000
+        },
+        "212253": {
+            "Acronym": "CELLNAIVETY",
+            "rcn": "212253",
+            "ecContrib": 2000000,
+            "projectTotalCost": 2000000,
+            "projectEuContrib": 2000000
+        },
+        "208818": {
+            "Acronym": "kiNESIS",
+            "rcn": "208818",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "211754": {
+            "Acronym": "SFICAM",
+            "rcn": "211754",
+            "ecContrib": 150000,
+            "projectTotalCost": 150000,
+            "projectEuContrib": 150000
+        },
+        "202548": {
+            "Acronym": "GeneREFORM",
+            "rcn": "202548",
+            "ecContrib": 1478284,
+            "projectTotalCost": 1478284,
+            "projectEuContrib": 1478284
+        }
+    },
+    "orgRelCompanies": {
+        "999990849": "ACADEMISCH ZIEKENHUIS LEIDEN",
+        "999997736": "AARHUS UNIVERSITET",
+        "999974553": "UNIVERSITEIT LEIDEN",
+        "998721507": "SYNCHROTRON SOLEIL SOCIETE CIVILE",
+        "999880657": "Masarykova univerzita",
+        "999844670": "OULUN YLIOPISTO",
+        "999988230": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+        "999927120": "FORSCHUNGSVERBUND BERLIN EV",
+        "999484121": "EUROPEAN SYNCHROTRON RADIATION FACILITY",
+        "999991722": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+        "960782479": "UNIVERSIDADE NOVA DE LISBOA",
+        "999516810": "CONSORZIO INTERUNIVERSITARIO RISONANZE MAGNETICHE DI METALLO PROTEINE",
+        "999984738": "STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS",
+        "999896468": "EOTVOS LORAND TUDOMANYEGYETEM",
+        "998475612": "DIAMOND LIGHT SOURCE LIMITED",
+        "999978724": "JOHANN WOLFGANG GOETHE-UNIVERSITATFRANKFURT AM MAIN",
+        "999901318": "LUNDS UNIVERSITET",
+        "999985805": "UNIVERSITEIT UTRECHT",
+        "919998053": "EUROPEAN SPALLATION SOURCE ERIC",
+        "999997930": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+        "973478130": "EUROPEAN SPALLATION SOURCE ESS AB",
+        "999864943": "INSTITUTO DE TECNOLOGIA QUIMICA E BIOLOGICA - UNIVERSIDADE NOVA DE LISBOA",
+        "999894528": "PANEPISTIMIO PATRON",
+        "952324661": "INSTRUCT ACADEMIC SERVICES LIMITED",
+        "999977172": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+        "999990946": "KUNGLIGA TEKNISKA HOEGSKOLAN",
+        "996569950": "UNIVERSITE DE STRASBOURG",
+        "949735440": "UNIVERSITE DE BORDEAUX",
+        "999885895": "TECHNISCHE UNIVERSITAET KAISERSLAUTERN",
+        "999981634": "WAGENINGEN UNIVERSITY",
+        "999989782": "RIJKSUNIVERSITEIT GRONINGEN",
+        "999940021": "NOVO NORDISK A/S",
+        "999979888": "TECHNISCHE UNIVERSITAET WIEN",
+        "973139988": "ELVIO ANONYMI ETAIREIA SYSTIMATON PARAGOGIS YDROGONOU KAI ENERGEIAS",
+        "996622912": "ARGUS Umweltbiotechnologie GmbH",
+        "955100316": "ABENGOA RESEARCH SL",
+        "999898214": "UNIVERSIDAD DE ZARAGOZA",
+        "999976590": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II.",
+        "938164892": "SOLARIS BIOTECHNOLOGY SRL",
+        "999869405": "INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE TOULOUSE INSAT",
+        "999846222": "BEN-GURION UNIVERSITY OF THE NEGEV",
+        "957566250": "BIOPOX SRL",
+        "958260479": "EXERGY LTD",
+        "999541254": "INSTITUTO TECNOLOGICO AGRARIO DE CASTILLA Y LEON",
+        "999979500": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+        "999975620": "UNIVERSITY COLLEGE LONDON",
+        "986251284": "ENCO SRL",
+        "999466952": "TEAGASC - AGRICULTURE AND FOOD DEVELOPMENT AUTHORITY",
+        "968706312": "BEUTH-HOCHSCHULE FUER TECHNIK BERLIN",
+        "931144032": "TOMSA DESTIL SL",
+        "999974844": "UNIVERSIDAD POLITECNICA DE MADRID",
+        "999978433": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+        "999755139": "DIAGENODE",
+        "999995893": "FOUNDATION FOR RESEARCH AND TECHNOLOGY HELLAS",
+        "999596447": "FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA",
+        "999458610": "BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING",
+        "999978530": "KAROLINSKA INSTITUTET",
+        "998500153": "AvantiCell Science Ltd",
+        "999600618": "FUNDACIO INSTITUT D'INVESTIGACIO BIOMEDICA DE BELLVITGE",
+        "999415445": "MOSAIQUES DIAGNOSTICS GMBH",
+        "993338007": "UD-GENOMED MEDICAL GENOMIC TECHNOLOGIES KUTATAS-FEJLESZTESI ES SZOLGALTATO KFT",
+        "999974941": "THE UNIVERSITY OF EDINBURGH",
+        "999907526": "THE UNIVERSITY OF BIRMINGHAM",
+        "951881759": "CORTECNET",
+        "999978336": "UNIVERSITY OF YORK",
+        "997393674": "Rotem Industries Ltd.",
+        "999990655": "DANMARKS TEKNISKE UNIVERSITET",
+        "999976978": "THE UNIVERSITY OF NOTTINGHAM",
+        "967702362": "OXFORD INSTRUMENTS INDUSTRIAL PRODUCTS LIMITED",
+        "955518483": "UNIVERSITE D'AIX MARSEILLE",
+        "999881918": "UNIVERSITAETSKLINIKUM FREIBURG",
+        "999448716": "FONDAZIONE TELETHON",
+        "952629532": "GENOMED, DIAGNOSTICOS DE MEDICINA MOLECULAR SA",
+        "999852721": "THE UNIVERSITY OF SUSSEX",
+        "955212448": "Lipotype GmbH",
+        "938785207": "INSTITUTUL DE BIOCHIMIE",
+        "999643201": "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE",
+        "999881336": "UNIVERSIDAD DE BUENOS AIRES",
+        "988546013": "THE CHILDREN'S HOSPITAL OF PHILADELPHIA NON PROFIT ORG",
+        "999984350": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+        "989201830": "IMPASARA LIMITED",
+        "999981343": "GENOME RESEARCH LIMITED",
+        "999907720": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+        "930164720": "AGILENT TECHNOLOGIES LDA ISRAEL LTD",
+        "968504358": "ROUMEN TSANEV INSTITUTE OF MOLECULAR BIOLOGY BULGARIAN ACADEMY OF SCIENCES",
+        "999451238": "INSTITUTO DE BIOLOGIA MOLECULAR E CELULAR-IBMC",
+        "999507886": "INSTITUTO DE SALUD CARLOS III",
+        "999512251": "USTAV MOLEKULARNI GENETIKY AKADEMIE VED CESKE REPUBLIKY VEREJNA VYZKUMNA INSTITUCE",
+        "999975523": "UNIVERSITY OF DUNDEE",
+        "998204594": "MEDZINARODNE LASEROVE CENTRUM",
+        "997826391": "UNIVERSIDADE DE COIMBRA",
+        "990884004": "UNIVERSITE DE MONS",
+        "999975814": "UNIVERSITETET I OSLO",
+        "951714046": "FUNDACION PARA EL FOMENTO DE LA INVESTIGACION SANITARIA Y BIOMEDICA DE LA COMUNITAT VALENCIANA",
+        "998376478": "BIOTECHNOLOGY AND BIOLOGICAL SCIENCES RESEARCH COUNCIL",
+        "999489359": "INSTYTUT BIOLOGII DOSWIADCZALNEJ IM. M. NENCKIEGO POLSKIEJ AKADEMII NAUK",
+        "999988424": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+        "999903355": "ABO AKADEMI",
+        "999544455": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+        "999985708": "UNIVERSITEIT VAN AMSTERDAM",
+        "999897826": "UNIVERSITY OF HAIFA",
+        "999925568": "Bloomfield Science Museum Jerusalem (BSMJ)",
+        "999535143": "ISRAEL NATIONAL MUSEUM OF SCIENCE, TECHNOLOGY AND SPACE DANIEL AND MATILDE RECANATI CENTER",
+        "999657654": "ISRAEL OCEANOGRAPHIC AND LIMNOLOGICAL RESEARCH LIMITED",
+        "999886574": "BAR ILAN UNIVERSITY",
+        "999901609": "TEL AVIV UNIVERSITY",
+        "998334477": "THE OPEN UNIVERSITY*",
+        "999975038": "THE HEBREW UNIVERSITY OF JERUSALEM",
+        "986104329": "SAMI SHAMOON COLLEGE OF ENGINEERING(R.A.) FRIENDLY SOCIETY",
+        "999738358": "MIGAL GALILEE RESEARCH INSTITUTE LTD",
+        "999897632": "UNIVERSITAETSKLINIKUM AACHEN",
+        "952731576": "IBIDI GMBH",
+        "999980470": "FORSCHUNGSZENTRUM JULICH GMBH",
+        "999518362": "KONINKLIJKE NEDERLANDSE AKADEMIE VAN WETENSCHAPPEN - KNAW",
+        "999843312": "UNIVERSITAET DUISBURG-ESSEN",
+        "999663765": "SOFTWARE COMPETENCE CENTER HAGENBERG GMBH",
+        "999948557": "ANDOR TECHNOLOGY LIMITED",
+        "941467160": "GRADIENTECH AB",
+        "999993468": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+        "996327644": "TOYOTA MOTOR EUROPE",
+        "953947859": "CHOMARAT TEXTILES INDUSTRIES",
+        "999770950": "SIEMENS INDUSTRY SOFTWARE NV",
+        "999975329": "UNIVERSITY OF SOUTHAMPTON",
+        "999507692": "BUNDESANSTALT FUER MATERIALFORSCHUNG UND -PRUEFUNG",
+        "999991334": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+        "998584737": "ECOLE NATIONALE SUPERIEURE DES MINES DE PARIS",
+        "999908981": "ORANGE SA",
+        "999653968": "STICHTING CENTRUM VOOR WISKUNDE EN INFORMATICA",
+        "999988909": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+        "999763481": "SCYTL SECURE ELECTRONIC VOTING SA",
+        "999971934": "THALES COMMUNICATIONS & SECURITY SAS",
+        "985804405": "ECOLE NORMALE SUPERIEURE DE LYON",
+        "999909854": "IBM RESEARCH GMBH",
+        "999976202": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+        "999988812": "RUHR-UNIVERSITAET BOCHUM",
+        "999858541": "UNIVERSITE DE RENNES I",
+        "999861451": "ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",
+        "999986096": "UNIVERSITEIT GENT",
+        "999992110": "STICHTING KATHOLIEKE UNIVERSITEIT",
+        "999604401": "UNIVERSITAETSKLINIKUM ESSEN",
+        "997224506": "Idea Bio-Medical Ltd.",
+        "999651931": "VIB",
+        "936426070": "THE FRANCIS CRICK INSTITUTE LIMITED",
+        "911619290": "QPS NETHERLANDS BV",
+        "999994535": "HELSINGIN YLIOPISTO",
+        "999997833": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+        "999984059": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+        "998152505": "ANAXOMICS BIOTECH, S.L.",
+        "999914801": "ACADEMISCH ZIEKENHUIS GRONINGEN",
+        "999991916": "EBERHARD KARLS UNIVERSITAET TUEBINGEN",
+        "935629894": "ADJUVATIS",
+        "999460841": "INSTITUTE OF CANCER RESEARCH - ROYAL CANCER HOSPITAL",
+        "999981052": "KING'S COLLEGE LONDON",
+        "999895886": "UNIVERSIDAD DE ALICANTE",
+        "968837747": "BIOFACTION KG",
+        "999992401": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+        "888898380": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+        "910945140": "SINTEF AS",
+        "911494742": "C3 BIO-TECHNOLOGIES LIMITED",
+        "999703826": "IFEU - INSTITUT FUR ENERGIE UND UMWELTFORSCHUNG HEIDELBERG GMBH",
+        "983078414": "IN SRL",
+        "999974747": "UNIVERSITAET STUTTGART",
+        "961556442": "ARCELORMITTAL BELGIUM NV",
+        "909773865": "ALTAR",
+        "951440215": "GLOBAL BIOENERGIES",
+        "999479853": "ETHNIKO IDRYMA EREVNON",
+        "998082277": "CHEMICKY USTAV SLOVENSKEJ AKADEMIEVIED",
+        "999850878": "SCUOLA INTERNAZIONALE SUPERIORE DI STUDI AVANZATI DI TRIESTE",
+        "999977851": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",
+        "925188814": "EVOGENE LTD",
+        "934511872": "AL-QASEMI ACADEMY ASSOCIATION",
+        "999820323": "INTERDISCIPLINARY CENTER (IDC) HERZLIYA",
+        "933610645": "ORANIM ACADEMIC COLLEGE OF EDUCATION - THE KIBBUTZ MOVEMENT",
+        "999460259": "FASTLITE SARL",
+        "999619436": "FUNDACIO INSTITUT DE CIENCIES FOTONIQUES",
+        "999992013": "THE QUEEN'S UNIVERSITY OF BELFAST",
+        "922379015": "AMETEK GMBH",
+        "999986581": "TECHNISCHE UNIVERSITAT DARMSTADT",
+        "945598681": "LUPHOS GMBH",
+        "935937093": "INTELLISIV LTD",
+        "999974650": "UNIVERSITE DE GENEVE",
+        "925433642": "AUGMANITY NANO LTD",
+        "999899572": "UNIVERSIDAD CARLOS III DE MADRID",
+        "996479740": "Institute of Science and Technology Austria",
+        "999867077": "UNIVERSIDAD POMPEU FABRA",
+        "999547074": "INSTITUT NATIONAL DE RECHERCHE ENINFORMATIQUE ET AUTOMATIQUE",
+        "986317632": "LINNEUNIVERSITETET",
+        "999995505": "UNIVERSIDADE DO MINHO",
+        "999929448": "THE UNIVERSITY COURT OF THE UNIVERSITY OF ABERDEEN",
+        "999986193": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+        "999856116": "HEINRICH-HEINE-UNIVERSITAET DUESSELDORF",
+        "999976105": "UNIVERSITE DE LIEGE",
+        "974626416": "DEUTSCHES ZENTRUM FUR NEURODEGENERATIVE ERKRANKUNGEN EV",
+        "999902870": "UNIVERSITEIT ANTWERPEN",
+        "999911115": "THE UNIVERSITY OF HERTFORDSHIRE HIGHER EDUCATION CORPORATION",
+        "999977948": "TECHNISCHE UNIVERSITAET GRAZ",
+        "999902579": "UNIVERSITE LYON 1 CLAUDE BERNARD",
+        "999903840": "THE UNIVERSITY OF MANCHESTER",
+        "999614101": "STIFTUNG FZI FORSCHUNGSZENTRUM INFORMATIK AM KARLSRUHER INSTITUT FUR TECHNOLOGIE",
+        "999976881": "THE UNIVERSITY OF SHEFFIELD",
+        "954530344": "STICHTING VU",
+        "999971837": "INSTITUT JOZEF STEFAN",
+        "999643007": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+        "912924328": "UNIVERSITAET HAMBURG",
+        "999907914": "UNIVERSITAT BASEL",
+        "999983962": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+        "990343811": "TTY-SAATIO",
+        "999977463": "TECHNISCHE UNIVERSITAET MUENCHEN",
+        "999881239": "DEBRECENI EGYETEM",
+        "999882015": "UNIVERSIDAD DE GRANADA",
+        "999978821": "ISTITUTO SUPERIORE DI SANITA",
+        "999987648": "RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG",
+        "999894722": "BAUHAUS-UNIVERSITAET WEIMAR",
+        "999629815": "SWISS INSTITUTE OF BIOINFORMATICS",
+        "999528450": "FUNDACIO INSTITUT DE BIOENGINYERIA DE CATALUNYA",
+        "999985029": "UPPSALA UNIVERSITET",
+        "999975911": "UNIVERSITEIT MAASTRICHT",
+        "999578405": "HITS GGMBH",
+        "983240210": "INSTITUT DU CERVEAU ET DE LA MOELLE EPINIERE",
+        "991256096": "AALTO-KORKEAKOULUSAATIO",
+        "999847968": "DE MONTFORT UNIVERSITY",
+        "999973971": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE",
+        "996290008": "FORTISS GMBH",
+        "999975426": "UNIVERSITY OF LEEDS",
+        "999600909": "CENTRE HOSPITALIER UNIVERSITAIRE VAUDOIS",
+        "999884731": "SCUOLA SUPERIORE DI STUDI UNIVERSITARI E DI PERFEZIONAMENTO SANT'ANNA",
+        "999856892": "SABANCI UNIVERSITESI",
+        "998242327": "INSTITUTE OF EXPERIMENTAL MEDICINE - HUNGARIAN ACADEMY OF SCIENCES",
+        "999854758": "ECOLE NORMALE SUPERIEURE",
+        "999902967": "NORGES MILJO-OG BIOVITENSKAPLIGE UNIVERSITET",
+        "999886962": "SCUOLA NORMALE SUPERIORE",
+        "999839432": "UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL",
+        "999855437": "MEDIZINISCHE UNIVERSITAT INNSBRUCK",
+        "999976396": "UNIVERSITAT ZURICH",
+        "990797674": "KARLSRUHER INSTITUT FUER TECHNOLOGIE",
+        "999620018": "CONSORCI INSTITUT D'INVESTIGACIONS BIOMEDIQUES AUGUST PI I SUNYER",
+        "999893752": "UNIVERSITA DEGLI STUDI DI PAVIA",
+        "999858735": "BERGISCHE UNIVERSITAET  WUPPERTAL",
+        "999993080": "INSTITUT PASTEUR",
+        "999986387": "UNIVERSITAT DE BARCELONA",
+        "999979015": "EIDGENOESSISCHE TECHNISCHE HOCHSCHULE ZUERICH",
+        "999857474": "UNIVERSITAETSKLINIKUM HAMBURG-EPPENDORF",
+        "999977754": "POLITECNICO DI TORINO",
+        "999840208": "UNIVERSIDAD DE CASTILLA - LA MANCHA",
+        "999995796": "UNIVERSITA DEGLI STUDI DI MILANO",
+        "953171083": "FONDEN TEKNOLOGIRADET",
+        "999850781": "HUMBOLDT-UNIVERSITAET ZU BERLIN",
+        "999886283": "UNIVERSIDAD REY JUAN CARLOS",
+        "999896856": "ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",
+        "999861354": "UNIVERSIDAD AUTONOMA DE MADRID",
+        "999974165": "UNIVERSITY OF GLASGOW",
+        "999843409": "CINECA CONSORZIO INTERUNIVERSITARIO",
+        "999990170": "MEDICAL RESEARCH COUNCIL",
+        "999854370": "UNIVERSITAET BIELEFELD",
+        "999985223": "UNIVERSITY OF SURREY",
+        "998335835": "OSTERREICHISCHE STUDIENGESELLSCHAFTFUR KYBERNETIK VEREIN",
+        "999883470": "MIDDLESEX UNIVERSITY HIGHER EDUCATION CORPORATION",
+        "999824300": "POLYTECHNEIO KRITIS",
+        "999582479": "LABORATORIO EUROPEO DI SPETTROSCOPIE NON LINEARI",
+        "967498371": "FUNDACAO D. ANNA SOMMER CHAMPALIMAUD E DR. CARLOS MONTEZ CHAMPALIMAUD",
+        "999655520": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+        "999979694": "CARDIFF UNIVERSITY",
+        "999897729": "TECHNISCHE UNIVERSITAET DRESDEN",
+        "999992789": "ISTITUTO NAZIONALE DI FISICA NUCLEARE",
+        "999845640": "GEORG-AUGUST-UNIVERSITAT GOTTINGENSTIFTUNG OFFENTLICHEN RECHTS"
+    },
+    "orgSector": "/HES",
+    "orgEcContr": 97496284
+}

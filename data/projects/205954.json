@@ -1,0 +1,38 @@
+{
+    "rcn": "205954",
+    "acronym": "HiperLoc-EP",
+    "topics": "COMPET-3-2016-b",
+    "title": "High performance low cost electric propulsion system development",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2018",
+    "objective": "The HiperLoc-EP project will develop a disruptive electric propulsion technology that provides a High performance Low cost Electric Propulsion system. HiperLoc-EP will provide critical propulsion functionality for micro satellite and satellite constellations typified by Samsungís Earth-wide internet via 4600 micro-satellites. The HiperLoc-EP technology is an Electrospray Colloid Electric Propulsion System (ECEPS). The design approach is radical. The element of the EP system that develops thrust is completely integrated with the Power Processing Unit; the thrust head itself is a multilayer PCB. Core to our methodology is a novel route to manufacturing an EP system, it is inspired by a system we have successfully used in another technology domain in terrestrial applications. Fabrication, integration and propellant costs are anticipated to be several orders of magnitude below conventional EP procurement. The potential applications for this technology are very broad however, in response to the COMPET-3-2016b we will focus the development on micro propulsion consistent with satellites having mass spanning the range from a multi-unit CubeSat to small satellites less than 100kg. The performance target is a thruster whose efficiency is ~50%, some 6 times that possible with typical current PPT designs, but comparable to conventional EP such as GIE and HET. The ECEPS can be designed to operate over a broad range of Isp from ~1000s to ~4000s; herein and consistent with resources of micro-satellites we will demonstrate an Isp of 2500s. ECEPS thrust scales with thrust head active area, anticipated to be ~0.2mN/cm2. This new electric propulsion system will have low volume and low power demands and is ideally suited to micro satellite constraints. This emerging technology will clearly disrupt the status quo of the space sector by providing a radical improvement in performance and cost, critical to customers hoping to operate in the dawning market for micro-satellite based systems.",
+    "totalCost": "1385975",
+    "ecMaxContribution": "1385974,25",
+    "coordinator": "QUEEN MARY UNIVERSITY OF LONDON",
+    "coordinatorCountry": "UK",
+    "participants": "SystematIC design bv;NANOSPACE AB;AIRBUS DEFENCE AND SPACE LTD",
+    "participantCountries": "NL;SE;UK",
+    "projectParticipants": {
+        "999530778": {
+            "orgId": "999530778",
+            "orgName": "AIRBUS DEFENCE AND SPACE LTD",
+            "ecContrib": 69925
+        },
+        "986849871": {
+            "orgId": "986849871",
+            "orgName": "NANOSPACE AB",
+            "ecContrib": 340581
+        },
+        "999847677": {
+            "orgId": "999847677",
+            "orgName": "QUEEN MARY UNIVERSITY OF LONDON",
+            "ecContrib": 641093
+        },
+        "988106021": {
+            "orgId": "988106021",
+            "orgName": "SystematIC design bv",
+            "ecContrib": 334375
+        }
+    },
+    "calculatedTotalContribution": 1385974
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "209053",
+    "acronym": "FRAGMENTOME",
+    "topics": "MSCA-IF-2016",
+    "title": "FRAGMENT screening from advanced-sampling molecular dynamics simulations on a proteOME scale.",
+    "startDate": "01/05/2017",
+    "endDate": "30/04/2019",
+    "objective": "In Fragment-Based Lead Discovery (FBLD) highly sensitive biochemical and biophysical screening technologies are used to detect the low-affinity binding of low-molecular-weight compounds (the so-called fragments) to biological targets that are involved in pathophysiological processes. Knowledge of the molecular interactions between fragment hit(s) and the target protein allows the rational generation of high-quality leads for drug development. Thus, high-resolution (e.g. X-ray crystallography) and relatively high-throughput structure determination technologies are key to this approach but they can become a limiting factor for both technical and economical reasons. As a matter of fact, when the experimental characterization of binding mode fails, the success rate of FBLD approaches drastically drops. To overcome current limitations in FLBD, here we propose the development of a computational framework based on advanced-sampling molecular dynamics simulations to map the binding of fragments to protein surfaces on the proteome scale---thus generating the Fragmentome Altas. For each individual target this will allow to: a) systematically identify fragments binding to protein surfaces and cryptic pockets; b) reconstruct the mechanism of binding with atomistic spatiotemporal resolution; c) characterize the molecular determinants of affinity and kinetics in fragment-protein complexes. This insight is fundamental for optimizing and evolving fragments to lead compounds with desired thermodynamics and kinetics features. To date, neither experimental nor computational approaches can provide such information at affordable costs while maintaining the high throughput needed for screening campaigns. The successful implementation of this ambitious project lies in the unique combination of expertise of its participants, and it will allow a novel state-of-the-art for modern drug discovery to be established. The Fragentome Atlas will be a freely accessible on-line server.",
+    "totalCost": "158121,6",
+    "ecMaxContribution": "158121,6",
+    "coordinator": "FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA)",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999541836": {
+            "orgId": "999541836",
+            "orgName": "FUNDACIO INSTITUT DE RECERCA BIOMEDICA (IRB BARCELONA)",
+            "ecContrib": 158122
+        }
+    },
+    "calculatedTotalContribution": 158122
+}

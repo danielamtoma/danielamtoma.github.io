@@ -1,0 +1,23 @@
+{
+    "rcn": "199455",
+    "acronym": "RANDGEOM",
+    "topics": "ERC-StG-2015",
+    "title": "Random Geometry",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2020",
+    "objective": "The objective of this proposal is an investigation of the geometric structure of random spaces that arise in critical models of statistical physics. The proposal is motivated by inspiring yet non-rigorous predictions from the physics community and the models studied are some of the most popular models in contemporary probability theory such as percolation, random planar maps and random walks.\n\nOne set of problems are on the topic of random planar maps and quantum gravity, a thriving field on the intersection of probability, statistical physics, combinatorics and complex analysis. Our goal is to develop a rigorous theory of these maps viewed as surfaces (rather than metric spaces) via their circle packing. The circle packing structure was recently used by the PI and Gurel-Gurevich to show that these maps are a.s. recurrent, resolving a major conjecture in this area. Among other consequences, this research will hopefully lead to progress on the most important open problem in this field: a rigorous proof of the mysterious KPZ correspondence, a conjectural formula from the physics literature allowing to compute dimensions of certain random sets in the usual square lattice from the corresponding dimension in the random geometry. Such a program will hopefully lead to the solution of the most central problems in two-dimensional statistical physics, such as finding the typical displacement of the self-avoiding walk, proving conformal invariance for percolation on the square lattice and many others.\n\nAnother set of problems is investigating aspects of universality in critical percolation in various high-dimensional graphs. These graphs include lattices in dimension above 6, Cayley graphs of finitely generated non-amenable groups and also finite graphs such as the complete graph, the Hamming hypercube and expanders. It is believed that critical percolation on these graphs is universal in the sense that the resulting percolated clusters exhibit the same mean-field geometry.",
+    "totalCost": "1286150",
+    "ecMaxContribution": "1286150",
+    "coordinator": "TEL AVIV UNIVERSITY",
+    "coordinatorCountry": "IL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999901609": {
+            "orgId": "999901609",
+            "orgName": "TEL AVIV UNIVERSITY",
+            "ecContrib": 1286150
+        }
+    },
+    "calculatedTotalContribution": 1286150
+}

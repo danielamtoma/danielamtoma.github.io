@@ -1,0 +1,68 @@
+{
+    "rcn": "194927",
+    "acronym": "THOR",
+    "topics": "EINFRA-7-2014",
+    "title": "THOR ñ Technical and Human Infrastructure for Open Research",
+    "startDate": "01/06/2015",
+    "endDate": "30/11/2017",
+    "objective": "Five years ago, a global infrastructure to uniquely attribute to researchers their scientific artefacts (articles, data, softwareÖ) appeared technically and socially infeasible. Since then, DataCite has minted over 3.5m unique identifiers for data. ORCID has deployed an open solution for identification of contributors with over 850,000 registrants in less than 2 years. \n\nTHOR will leverage these emerging global infrastructures to support the H2020 goal to make every researcher ëdigitalí and increase creativity and efficiency of research, while bridging the R&D divide between developed and less-developed regions. We will establish interoperability between existing resources, linking digital identifiers across platforms and propagating attribution information.\n\nWe will integrate PID services across the research lifecycle and data publishing workflows in four advanced research communities, and then roll-out core services and service building blocks for the wider community. These open resources will foster an open and sustainable e-infrastructure across stakeholders to avoid duplications, give economies of scale, richness of services and the ability to respond rapidly to opportunities for innovation.\n\nTHOR is not just relevant to the EINFRA-7-1024 Call, but will become a pervasive element of the EINFRA family of e-Infrastructure resources over the next 3 years. It will allow data-management and curation services to exploit knowledge of data location and attribution; provide robust and persistent mechanism for linking literature and data; enable search and resolving services and generate incentives for Open Science; deliver provenance and attribution mechanisms to underpin data exchange; and provide minting and resolving services for data citation workflows.\n\nIts impact will enable third-party services, no-profit and commercial, to leverage the scholarly record.",
+    "totalCost": "3458250",
+    "ecMaxContribution": "3456250",
+    "coordinator": "THE BRITISH LIBRARY BOARD",
+    "coordinatorCountry": "UK",
+    "participants": "EUROPEAN MOLECULAR BIOLOGY LABORATORY;Elsevier;THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL;DATACITE ñ INTERNATIONAL DATA CITATION INITIATIVE;UNIVERSITAET BREMEN;MONASH UNIVERSITY;EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH;ORCID EU;PUBLIC LIBRARY OF SCIENCE",
+    "participantCountries": "DE;NL;US;AU;CH;BE",
+    "projectParticipants": {
+        "999880269": {
+            "orgId": "999880269",
+            "orgName": "MONASH UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999643395": {
+            "orgId": "999643395",
+            "orgName": "THE BRITISH LIBRARY BOARD",
+            "ecContrib": 556000
+        },
+        "999987454": {
+            "orgId": "999987454",
+            "orgName": "UNIVERSITAET BREMEN",
+            "ecContrib": 277875
+        },
+        "972312190": {
+            "orgId": "972312190",
+            "orgName": "DATACITE – INTERNATIONAL DATA CITATION INITIATIVE",
+            "ecContrib": 441000
+        },
+        "999988230": {
+            "orgId": "999988230",
+            "orgName": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+            "ecContrib": 587000
+        },
+        "999573264": {
+            "orgId": "999573264",
+            "orgName": "THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+            "ecContrib": 0
+        },
+        "937802403": {
+            "orgId": "937802403",
+            "orgName": "PUBLIC LIBRARY OF SCIENCE",
+            "ecContrib": 0
+        },
+        "956910433": {
+            "orgId": "956910433",
+            "orgName": "ORCID EU",
+            "ecContrib": 739875
+        },
+        "999937014": {
+            "orgId": "999937014",
+            "orgName": "ELSEVIER BV",
+            "ecContrib": 0
+        },
+        "999988133": {
+            "orgId": "999988133",
+            "orgName": "EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH",
+            "ecContrib": 854500
+        }
+    },
+    "calculatedTotalContribution": 3456250
+}

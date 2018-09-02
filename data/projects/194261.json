@@ -1,0 +1,88 @@
+{
+    "rcn": "194261",
+    "acronym": "AEGLE",
+    "topics": "ICT-15-2014",
+    "title": "AEGLE (Ancient Greek: ?????)  ñ An analytics framework for integrated and personalized healthcare services in Europe",
+    "startDate": "01/03/2015",
+    "endDate": "31/08/2018",
+    "objective": "The data generated in the health domain is coming from heterogeneous, multi-modal, multi-lingual, dynamic and fast evolving medical technologies. Today we are found in a big health landscape characterized by large volume, versatility and velocity (3Vs) which has led to the evolution of the informatics in the big biodata domain. AEGLE project will build an innovative ICT solution addressing the whole data value chain for health based on: cloud computing enabling dynamic resource allocation, HPC infrastructures for computational acceleration and advanced visualization techniques. AEGLE will:\n- Realize a multiparametric platform using algorithms for analysing big biodata including features such as volume properties, communication metrics and bottlenecks, estimation of related computational resources needed, handling data versatility and managing velocity \n- Address the systemic health big bio-data in terms of the 3V multidimensional space, using analytics based on PCA techniques \n- Demonstrate AEGLEís efficiency through the provision of aggregated services covering the 3V space of big bio-data. Specifically it will be evaluated in: a)big biostreams where the decision speed is critical and needs non-linear and multi-parametric estimators for clinical decision support within limited time, b)big-data from non-malignant diseases where the need for NGS and molecular data analytics requires the combination of cloud located resources, coupled with local demands for data and visualization, and finally c)big-data from chronic diseases including EHRs and medication, with needs for quantified estimates of important clinical parameters, semanticsí extraction and regulatory issues for integrated care \n- Bring together all related stakeholders, leading to integration with existing open databases, increasing the speed of AEGLE adaptation \n- Build a business ecosystem for the wider exploitation and targeting on cross-border production of custom multi-lingual solutions based on AEGLE.",
+    "totalCost": "6079642,5",
+    "ecMaxContribution": "5230698,75",
+    "coordinator": "EXODUS ANONYMOS ETAIREIA PLIROFORIKIS",
+    "coordinatorCountry": "EL",
+    "participants": "TIME.LEX;ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS;MAAT France;GLOBAZ, S.A.;PANEPISTIMIAKO GENIKO NOSOKOMEIO IRAKLEIOU;UPPSALA UNIVERSITET;THE NOTTINGHAM TRENT UNIVERSITY;CROYDON HEALTH SERVICES NATIONAL HEALTH SERVICE TRUST;KINGSTON UNIVERSITY HIGHER EDUCATION CORPORATION;ERASMUS UNIVERSITEIT ROTTERDAM;MAXELER TECHNOLOGIES LIMITED;INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS;Universit‡ Vita-Salute San Raffaele",
+    "participantCountries": "BE;EL;FR;PT;SE;UK;NL;IT",
+    "projectParticipants": {
+        "999839335": {
+            "orgId": "999839335",
+            "orgName": "ERASMUS UNIVERSITEIT ROTTERDAM",
+            "ecContrib": 376250
+        },
+        "999985029": {
+            "orgId": "999985029",
+            "orgName": "UPPSALA UNIVERSITET",
+            "ecContrib": 301250
+        },
+        "999824494": {
+            "orgId": "999824494",
+            "orgName": "THE NOTTINGHAM TRENT UNIVERSITY",
+            "ecContrib": 224949
+        },
+        "968922816": {
+            "orgId": "968922816",
+            "orgName": "MAXELER TECHNOLOGIES LIMITED",
+            "ecContrib": 541188
+        },
+        "999854467": {
+            "orgId": "999854467",
+            "orgName": "Università Vita-Salute San Raffaele",
+            "ecContrib": 191250
+        },
+        "950987516": {
+            "orgId": "950987516",
+            "orgName": "PANEPISTIMIAKO GENIKO NOSOKOMEIO IRAKLEIOU",
+            "ecContrib": 156750
+        },
+        "991228063": {
+            "orgId": "991228063",
+            "orgName": "TIME.LEX",
+            "ecContrib": 329000
+        },
+        "999654356": {
+            "orgId": "999654356",
+            "orgName": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+            "ecContrib": 567438
+        },
+        "999864652": {
+            "orgId": "999864652",
+            "orgName": "KINGSTON UNIVERSITY HIGHER EDUCATION CORPORATION",
+            "ecContrib": 493194
+        },
+        "983211983": {
+            "orgId": "983211983",
+            "orgName": "GLOBAZ, S.A.",
+            "ecContrib": 217700
+        },
+        "998399661": {
+            "orgId": "998399661",
+            "orgName": "MAAT France",
+            "ecContrib": 245481
+        },
+        "998802502": {
+            "orgId": "998802502",
+            "orgName": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "ecContrib": 583125
+        },
+        "999937984": {
+            "orgId": "999937984",
+            "orgName": "EXODUS ANONYMOS ETAIREIA PLIROFORIKIS",
+            "ecContrib": 647500
+        },
+        "951232150": {
+            "orgId": "951232150",
+            "orgName": "CROYDON HEALTH SERVICES NATIONAL HEALTH SERVICE TRUST",
+            "ecContrib": 355625
+        }
+    },
+    "calculatedTotalContribution": 5230700
+}

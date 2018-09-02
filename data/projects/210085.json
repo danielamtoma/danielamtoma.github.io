@@ -1,0 +1,23 @@
+{
+    "rcn": "210085",
+    "acronym": "juliaeconometrics",
+    "topics": "MSCA-IF-2016",
+    "title": "Developing a Financial Econometrics Package for the Julia Programming Language",
+    "startDate": "01/03/2018",
+    "endDate": "29/02/2020",
+    "objective": "Julia is a new programming language started at MIT, with a strong focus on numerical computing. Its key advantage compared to languages like R and Python is that Julia is (just in time) compiled, rather than interpreted. As a consequence, Julia effectively combines the convenience of these high level languages with the speed of compiled low level languages such as C\\\\ or Fortran. Speed of execution is critical in many applications, including but not limited to those involving big data. \n\nOne critical aspect of any scientific programming language is its ecosystem, that is, the collection of libraries which implement common scientific functionality. In Julia, these take the form of packages. Packages are contributed by the user community and hosted in an online repository. They can be conveniently installed from within the language itself, similar to R and its CRAN network. Currently there are more than 1000 packages listed.\n\nThe aim of the project proposed here is to build a Financial Econometrics package for Julia, as this functionality is presently absent. This package would become part of the official repository, and hopefully become the standard way of doing financial econometrics in Julia. Like Julia itself, the results of the project would be available under an open source license, an important aspect of open science. Open source software, via R and Python, has already made inroads into scientific computing, but financial econometrics is still a stronghold of commercial closed-source products like Matlab. This project will offer researchers in the field an alternative.",
+    "totalCost": "187419,6",
+    "ecMaxContribution": "187419,6",
+    "coordinator": "UNIVERSITAT ZURICH",
+    "coordinatorCountry": "CH",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976396": {
+            "orgId": "999976396",
+            "orgName": "UNIVERSITAT ZURICH",
+            "ecContrib": 187420
+        }
+    },
+    "calculatedTotalContribution": 187420
+}

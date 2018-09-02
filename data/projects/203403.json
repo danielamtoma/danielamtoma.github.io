@@ -1,0 +1,78 @@
+{
+    "rcn": "203403",
+    "acronym": "TAKE5",
+    "topics": "ECSEL-15-2015",
+    "title": "Technology Advances and Key Enablers for 5 nm",
+    "startDate": "01/04/2016",
+    "endDate": "31/03/2019",
+    "objective": "The TAKE5 project is the next in a chain of thematically connected ENIAC JU KET pilot line projects which are associated with 450mm/300mm development for the 10nm technology node and the ECSEL JU project SeNaTe aiming at the 7nm technology node. The main objective of the TAKE5 project is the demonstration of 5nm patterning in line with the industry needs and the ITRS roadmap in the Advanced Patterning Center at the imec pilot line using innovative design and technology co-optimization, layout and device architecture exploration, and comprising demonstration of a lithographic platform for EUV technology, advanced process and holistic metrology platforms and new materials.\nA lithography scanner will be developed based on EUV technology to achieve the 5nm module patterning specification. Metrology platforms need to be qualified for 5nm patterning of 1D, 2D and 3D geometries with the appropriate precision and accuracy. For the 5nm technology modules new materials will need to be introduced. Introduction of these new materials brings challenges for all involved deposition processes and the related equipment set. Next to new deposition processes also the interaction of the involved materials with subsequent etch steps will be studied. The project will be dedicated to find the best options for patterning. \nThe project relates to the ECSEL work program topic Process technologies ñ More Moore. It addresses and targets as set out in the MASP at the discovery of new Semiconductor Process, Equipment and Materials solutions for advanced CMOS processes that enable the nano-structuring of electronic devices with 5nm resolution in high-volume manufacturing and fast prototyping. The project touches the core of the continuation of Mooreís law which has celebrated its 50th anniversary and covers all aspects of 5nm patterning development.",
+    "totalCost": "150046979,8",
+    "ecMaxContribution": "28364030,78",
+    "coordinator": "ASML NETHERLANDS B.V.",
+    "coordinatorCountry": "NL",
+    "participants": "COVENTOR SARL;LAM RESEARCH BELGIUM;FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.;APPLIED MATERIALS ISRAEL LTD;INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM;CARL ZEISS SMT GMBH;ASM BELGIUM NV;NOVA MEASURING INSTRUMENTS LTD;BRUKER JV ISRAEL LTD;FEI ELECTRON OPTICS BV;KLA-TENCOR CORPORATION (ISRAEL)",
+    "participantCountries": "FR;BE;DE;IL;NL",
+    "projectParticipants": {
+        "956060228": {
+            "orgId": "956060228",
+            "orgName": "NOVA MEASURING INSTRUMENTS LTD",
+            "ecContrib": 1500000
+        },
+        "999981149": {
+            "orgId": "999981149",
+            "orgName": "INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",
+            "ecContrib": 9000126
+        },
+        "999943416": {
+            "orgId": "999943416",
+            "orgName": "ASML NETHERLANDS B.V.",
+            "ecContrib": 9450000
+        },
+        "936809705": {
+            "orgId": "936809705",
+            "orgName": "LAM RESEARCH BELGIUM",
+            "ecContrib": 41250
+        },
+        "985728454": {
+            "orgId": "985728454",
+            "orgName": "APPLIED MATERIALS ISRAEL LTD",
+            "ecContrib": 2081250
+        },
+        "999478107": {
+            "orgId": "999478107",
+            "orgName": "COVENTOR SARL",
+            "ecContrib": 387156
+        },
+        "998880102": {
+            "orgId": "998880102",
+            "orgName": "ASM BELGIUM NV",
+            "ecContrib": 58301
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 123268
+        },
+        "985480037": {
+            "orgId": "985480037",
+            "orgName": "FEI ELECTRON OPTICS BV",
+            "ecContrib": 559050
+        },
+        "950397174": {
+            "orgId": "950397174",
+            "orgName": "CARL ZEISS SMT GMBH",
+            "ecContrib": 3600000
+        },
+        "999943707": {
+            "orgId": "999943707",
+            "orgName": "KLA-TENCOR CORPORATION (ISRAEL)",
+            "ecContrib": 901379
+        },
+        "999772211": {
+            "orgId": "999772211",
+            "orgName": "BRUKER JV ISRAEL LTD",
+            "ecContrib": 662250
+        }
+    },
+    "calculatedTotalContribution": 28364030
+}

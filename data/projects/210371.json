@@ -1,0 +1,53 @@
+{
+    "rcn": "210371",
+    "acronym": "IMPETUS",
+    "topics": "RPAS-02",
+    "title": "Information Management Portal to Enable the inTegration of Unmanned Systems",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2019",
+    "objective": "IMPETUS will research on the application of the ëmicro-servicesí paradigm as a flexible and cost efficient solution for lifecycle support of the expected high variety of drones and missions. Moreover, IMPETUS will explore how to design an Smart UTM Concept taking into consideration the ëFunction as a Serviceí paradigm to develop a cloud-based server-less environment that will be characterized by its scalability to respond to multiple users with diverse business models, its mechanisms to assure the data quality and integrity, and its flexibility to facilitate the integration with manned traffic management systems.\nIMPETUS consortium consists of key stakeholders that provide complementary views on the current and envisioned UTM and ATM information management processes. ALTITUDE ANGEL offers its current UTM capabilities to support recreational and commercial drone operations under VLS and its experience in previous engineering tests for B-VLS and autonomous tests. JEPPESEN, with the technological support of TU DARMSTADT, contributes with its expertise in Information Technology Services to ensure the quality of aeronautical safety-critical data. BOEING offers its expertise to analyse if SWIM standards can be used as the main bridge to exchange UTM and ATM information. INECO strengths the consortium as certified company in the commercial use of drones for bridges inspection services and with its expertise on innovative Smart solutions based on IT technologies (Big Data and Business Intelligence among others). This experience is shared with CRIDA, which is the reference research centre in integration and analysis of multiple aeronautical data sources through advanced data analytics in order to support decision-making at ENAIRE, Air Navigation Service Provider in Spain. Finally, C-ASTRAL provides a wide view and extensive market experience for diverse drone related business models, with applications in surveying, border protection or surveillance operations among others.",
+    "totalCost": "899160",
+    "ecMaxContribution": "899160",
+    "coordinator": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+    "coordinatorCountry": "ES",
+    "participants": "INGENIERIA Y ECONOMIA DEL TRANSPORTE SME MP SA;Jeppesen GmbH;ALTITUDE ANGEL LIMITED;BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.;C-ASTRAL PROIZVODNJA ZRACNIH IN VESOLJSKIH PLOVIL DOO;TECHNISCHE UNIVERSITAT DARMSTADT",
+    "participantCountries": "ES;DE;UK;SI",
+    "projectParticipants": {
+        "999986581": {
+            "orgId": "999986581",
+            "orgName": "TECHNISCHE UNIVERSITAT DARMSTADT",
+            "ecContrib": 148334
+        },
+        "999537568": {
+            "orgId": "999537568",
+            "orgName": "INGENIERIA Y ECONOMIA DEL TRANSPORTE SME MP SA",
+            "ecContrib": 155131
+        },
+        "999648730": {
+            "orgId": "999648730",
+            "orgName": "BOEING RESEARCH & TECHNOLOGY EUROPE S.L.U.",
+            "ecContrib": 121401
+        },
+        "917471882": {
+            "orgId": "917471882",
+            "orgName": "ALTITUDE ANGEL LIMITED",
+            "ecContrib": 160168
+        },
+        "951396856": {
+            "orgId": "951396856",
+            "orgName": "C-ASTRAL PROIZVODNJA ZRACNIH IN VESOLJSKIH PLOVIL DOO",
+            "ecContrib": 26042
+        },
+        "997862087": {
+            "orgId": "997862087",
+            "orgName": "Jeppesen GmbH",
+            "ecContrib": 107334
+        },
+        "997605619": {
+            "orgId": "997605619",
+            "orgName": "CENTRO DE REFERENCIA INVESTIGACION DESARROLLO E INNOVACION ATM, A.I.E.",
+            "ecContrib": 180750
+        }
+    },
+    "calculatedTotalContribution": 899160
+}

@@ -1,0 +1,48 @@
+{
+    "rcn": "207454",
+    "acronym": "INFERNET",
+    "topics": "MSCA-RISE-2016",
+    "title": "New algorithms for inference and optimization from large-scale biological data",
+    "startDate": "01/03/2017",
+    "endDate": "28/02/2021",
+    "objective": "The tremendous technological advance underlying the ongoing genomic revolution in the life sciences has profoundly transformed biological research over the last 10-15 years. The grand challenge ahead is to leverage experimental progress like high-throughput sequencing by developing effective tools for large scale data-based inference and optimization. The goals of INFERNET rely on the transfer of ideas and methods developed in recent years at the boundary between statistical physics and information theory into the world of quantitative biology. We aim at setting up a consortium characterized by a proven track-record of high-quality research in order to implement a highly integrated program leading from the design of new algorithms to concrete biological applications. The consortium will provide the optimal environment to nurture a generation of researchers that will drive new developments at the forefront of these challenging fields.\n\nThe perimeter of each individual research activity will be delimited by: (a) the research themes characterized by the toolbox and methods developed and shared within INFERNET, (b) the choice of the application domains. Principal research themes covered by the consortium will be: (i) the inference of interaction networks from data, (ii) the analysis of static and dynamical processes on networks. Application domains can be broken down into four main areas: (i) the inference and modeling of multi-scale biological networks, (ii) the rational design of biological molecules, (iii) the quantitative study of cell energetics in proliferative regimes, (iv) the characterization of functional states of large-scale regulatory networks. Each individual research project will be a puzzle piece of the wider research project, as well as tailored to suit each researcher's scientific and professional development.",
+    "totalCost": "900000",
+    "ecMaxContribution": "900000",
+    "coordinator": "IIGM FOUNDATION",
+    "coordinatorCountry": "IT",
+    "participants": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6;BEATSON INSTITUTE FOR CANCER RESEARCH LBG;SORBONNE UNIVERSITE",
+    "participantCountries": "FR;UK",
+    "projectParticipants": {
+        "999986193": {
+            "orgId": "999986193",
+            "orgName": "UNIVERSITE PIERRE ET MARIE CURIE - PARIS 6",
+            "ecContrib": 0
+        },
+        "933024862": {
+            "orgId": "933024862",
+            "orgName": "UNIVERSIDAD DE LA HABANA",
+            "ecContrib": 0
+        },
+        "998562039": {
+            "orgId": "998562039",
+            "orgName": "BEATSON INSTITUTE FOR CANCER RESEARCH LBG",
+            "ecContrib": 297000
+        },
+        "909875521": {
+            "orgId": "909875521",
+            "orgName": "SORBONNE UNIVERSITE",
+            "ecContrib": 292500
+        },
+        "996267504": {
+            "orgId": "996267504",
+            "orgName": "Universidad Nacional de General Sarmiento",
+            "ecContrib": 0
+        },
+        "986331600": {
+            "orgId": "986331600",
+            "orgName": "IIGM FOUNDATION",
+            "ecContrib": 310500
+        }
+    },
+    "calculatedTotalContribution": 900000
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "210208",
+    "acronym": "ENCOPOL",
+    "topics": "ERC-2016-ADG",
+    "title": "Encoding information into polymers",
+    "startDate": "01/07/2017",
+    "endDate": "30/06/2022",
+    "objective": "The amount of information trafficking internet nowadays is enormous and will increase further in the near future. It can be expected that in the next decennia the current technologies to store and process data will no longer suffice and that other strategies to handle information have to be developed. One approach is to explore chemical routes, which nature has also followed during evolution: our brain can store and handle very large amounts of data and process them in a way silicon-based computers cannot do. Although brain-like chemical computers are still far beyond reach, it is of interest to explore how atom and molecule-based systems that can write, read, and store information might be designed and constructed. In this proposal we aim at developing a new technology to write, store, and read information, i.e. on a single polymer chain with the help of a molecular machine that is inspired by the hypothetical device (Turing machine) proposed by the British mathematician Alan Turing in 1936 as the general basis for the operation of a computer. The molecular machine is composed of a chiral catalytic cage compound (tape-head) that moves unidirectionally along a chiral polymer chain (tape) while writing a binary code in the form of (R)- (symbol 0) and (S)- (symbol 1) epoxide functions. This writing process is controlled by light or electrons. The information on the tape will be read by single molecule spectroscopy using a reading device that is also based on a chiral cage compound. It moves along the encoded tape and produces left- or right-handed polarized fluorescence light depending on whether it reads a 0 (R-epoxide) or 1 (S-epoxide). As part of this project we will also make the first steps towards chemical computing by arranging two circular tapes (one left-handed and the other one right-handed), each with an attached writing head, in a teller set-up, which allows them to be addressed separately with light according to a set of instructions (Minsky machine).",
+    "totalCost": "2498076",
+    "ecMaxContribution": "2498076",
+    "coordinator": "STICHTING KATHOLIEKE UNIVERSITEIT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999992110": {
+            "orgId": "999992110",
+            "orgName": "STICHTING KATHOLIEKE UNIVERSITEIT",
+            "ecContrib": 2498076
+        }
+    },
+    "calculatedTotalContribution": 2498076
+}

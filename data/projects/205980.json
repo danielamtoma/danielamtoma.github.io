@@ -1,0 +1,43 @@
+{
+    "rcn": "205980",
+    "acronym": "LADIO",
+    "topics": "ICT-21-2016",
+    "title": "Live Action Data Input and Output",
+    "startDate": "01/12/2016",
+    "endDate": "31/05/2018",
+    "objective": "Modern film production relies heavily on digital acquisition and transformation. Blending real-world cinematography and computer graphics necessitates a tight integration between the shooting set and post-production. Today, editing and color grading are more and more frequently initiated directly on set to enable interactions between the shooting crew and the creative team. To facilitate communication between live-action production and digital post-production, a new discipline has emerged, collectively known as on-set data acquisition. There is also an obvious need for efficient tools to check consistency of the data recorded, especially since the number of supporting capture devices and the ways of exploiting them is growing quickly. For visual effects (VFX), one of the most important aspects is the acquisition of dense and accurate 3D data from real-world sets and locations. Capturing specific data on set for VFX is a delicate balance between the requirements of VFX facilities and the practical realities of tight shooting schedules and limited budgets.\nTo smooth the collaboration between all teams on set, LADIO delivers a new platform that will be tested incrementally on real productions during the project. LADIO extends 3D acquisition of the set and centralizes management of all data recorded during the shooting session. It relies on soft- and hardware connectors to capture devices, including new affordable 360∞ cameras and LiDARs, and interacts with production tools both on set and off set. The LADIO application proposes an original approach to monitor all data, metadata and production information. It keeps track of the temporal and spatial location of all the data. LADIOís decentralised data management and API rely on open standards, and its 3D reconstruction software will be released as open source. This is a game-changer for European SMEs who will achieve higher quality and more cost-effective VFX, based on a new streamlined production dataflow.",
+    "totalCost": "1182984,28",
+    "ecMaxContribution": "1051422,7",
+    "coordinator": "SIMULA RESEARCH LABORATORY AS",
+    "coordinatorCountry": "NO",
+    "participants": "MIKROS IMAGE;CESKE VYSOKE UCENI TECHNICKE V PRAZE;LABO MIXED REALITIES AS;INSTITUT NATIONAL POLYTECHNIQUE DE TOULOUSE",
+    "participantCountries": "FR;CZ;NO",
+    "projectParticipants": {
+        "999848744": {
+            "orgId": "999848744",
+            "orgName": "CESKE VYSOKE UCENI TECHNICKE V PRAZE",
+            "ecContrib": 153500
+        },
+        "995915976": {
+            "orgId": "995915976",
+            "orgName": "SIMULA RESEARCH LABORATORY AS",
+            "ecContrib": 469134
+        },
+        "920637671": {
+            "orgId": "920637671",
+            "orgName": "MIKROS IMAGE",
+            "ecContrib": 257361
+        },
+        "951584939": {
+            "orgId": "951584939",
+            "orgName": "LABO MIXED REALITIES AS",
+            "ecContrib": 0
+        },
+        "999836037": {
+            "orgId": "999836037",
+            "orgName": "INSTITUT NATIONAL POLYTECHNIQUE DE TOULOUSE",
+            "ecContrib": 171428
+        }
+    },
+    "calculatedTotalContribution": 1051423
+}

@@ -1,0 +1,17 @@
+{
+    "rcn": "214494",
+    "acronym": "DeciGUT",
+    "topics": "ERC-2017-COG",
+    "title": "A Grand Unified Theory of Decidability in Logic-Based Knowledge Representation",
+    "startDate": "01/10/2018",
+    "endDate": "30/09/2023",
+    "objective": "'Logic-based knowledge representation (KR) constitutes a vital area of IT. The field  inspires and guides scientific and technological developments enabling intelligent management of large and complex knowledge resources. Elaborate languages for specifying knowledge (so-called ontology languages) and querying it have been defined and standardized. Algorithms for automated reasoning and intelligent querying over knowledge resources are being developed, implemented and practically deployed on a wide scale. \nThereby, decidability investigations play a pivotal role to characterize what reasoning or querying tasks are at all computationally solvable. \nPast decades have seen a proliferation of new decidable formalisms for KR, dominated by two major paradigms: description logics and rule-based approaches, most notably existential rules. Recently, these research lines have started to converge and first progress has been made toward identifying commonalities among the various formalisms. Still, the underlying principles for establishing their decidability remain disparate, ranging from proof-theoretic notions to model-theoretic ones. \nDeciGUT will accomplish a major breakthrough in the field by establishing a 'Grand Unified Theory' of decidability. We will provide a novel, powerful model-theoretic criterion inspired by advanced graph-theoretic notions. We will prove that the criterion indeed ensures decidability and that it subsumes most of (if not all) currently known decidable formalisms in the KR field.\nWe will exploit our results toward the definition of novel decidable KR languages of unprecedented expressivity. We will ultimately extend our framework to encompass more advanced KR features beyond standard first order logic such as counting and non-monotonic aspects.\nOur research will draw from and significantly impact the scientific fields of AI, Database Theory and Logic, but also give rise to drastically improved practical information management technology.'",
+    "totalCost": "1814937",
+    "ecMaxContribution": "1814937",
+    "coordinator": "TECHNISCHE UNIVERSITAET DRESDEN",
+    "coordinatorCountry": "DE",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {},
+    "calculatedTotalContribution": 0
+}

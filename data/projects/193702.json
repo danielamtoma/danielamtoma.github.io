@@ -1,0 +1,63 @@
+{
+    "rcn": "193702",
+    "acronym": "FLARECAST",
+    "topics": "PROTEC-1-2014",
+    "title": "Flare Likelihood and Region Eruption Forecasting",
+    "startDate": "01/01/2015",
+    "endDate": "31/12/2017",
+    "objective": "Space weather can have detrimental, and in some cases catastrophic, effects upon a multitude of technologies on which we depend as part our daily lives. Adverse space weather is now known to result from solar flares and coronal mass ejections released from the turbulent and highly complex magnetic fields of active regions. Understanding how active region magnetic fields evolve and produce these events is therefore of fundamental importance to developing accurate and reliable space-weather monitoring and forecasting capabilities.\n\nWe therefore propose to develop an advanced flare prediction system (Flare Likelihood And Region Eruption Forecasting; FLARECAST) that is based on automatically extracted physical properties of active regions coupled with state-of-the-art flare prediction methods and validated using the most appropriate forecast verification measures.\n\nActive region properties, such as area, magnetic flux, shear, magnetic complexity, helicity and proxies for magnetic energy, will be extracted from solar magnetogram and white-light images in near-realtime using advanced image-processing techniques. Once active region properties have been extracted, they will be correlated with solar flare activity and used to optimize prediction algorithms based on statistical, unsupervised clustering and supervised learning methods. This will enable us to validate our image processing and flare prediction algorithms before launching a near-realtime flare forecasting service, the first of its kind in the world.\n\nFLARECAST will therefore form the basis of the first quantitative, physically motivated and autonomous active region monitoring and flare forecasting system, which will be of use to space-weather researchers and forecasters in Europe and around the globe.",
+    "totalCost": "2416651,25",
+    "ecMaxContribution": "2416651,25",
+    "coordinator": "ACADEMY OF ATHENS",
+    "coordinatorCountry": "EL",
+    "participants": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN;FACHHOCHSCHULE NORDWESTSCHWEIZ;MET OFFICE;UNIVERSITE PARIS-SUD;UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE;CONSIGLIO NAZIONALE DELLE RICERCHE;UNIVERSITA DEGLI STUDI DI GENOVA;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+    "participantCountries": "IE;CH;UK;FR;IT",
+    "projectParticipants": {
+        "999892685": {
+            "orgId": "999892685",
+            "orgName": "MET OFFICE",
+            "ecContrib": 136909
+        },
+        "999856310": {
+            "orgId": "999856310",
+            "orgName": "FACHHOCHSCHULE NORDWESTSCHWEIZ",
+            "ecContrib": 569162
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 211000
+        },
+        "999976687": {
+            "orgId": "999976687",
+            "orgName": "UNIVERSITA DEGLI STUDI DI GENOVA",
+            "ecContrib": 241375
+        },
+        "999907235": {
+            "orgId": "999907235",
+            "orgName": "UNIVERSITE PARIS-SUD",
+            "ecContrib": 224584
+        },
+        "999845446": {
+            "orgId": "999845446",
+            "orgName": "THE PROVOST, FELLOWS, FOUNDATION SCHOLARS & THE OTHER MEMBERS OF BOARD OF THE COLLEGE OF THE HOLY & UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN",
+            "ecContrib": 407731
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 135500
+        },
+        "999859705": {
+            "orgId": "999859705",
+            "orgName": "UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE",
+            "ecContrib": 119326
+        },
+        "999817801": {
+            "orgId": "999817801",
+            "orgName": "ACADEMY OF ATHENS",
+            "ecContrib": 371064
+        }
+    },
+    "calculatedTotalContribution": 2416651
+}

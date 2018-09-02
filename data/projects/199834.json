@@ -1,0 +1,63 @@
+{
+    "rcn": "199834",
+    "acronym": "ultraSURFACE",
+    "topics": "ICT-27-2015",
+    "title": "Ultra Dynamic Optical Systems for High Throughput Laser Surface Processing",
+    "startDate": "01/01/2016",
+    "endDate": "31/12/2018",
+    "objective": "In nearly every sector of industrial manufacturing surface processing techniques are used, e.g. for structuring or polishing of aesthetical or functional surfaces. In many applications laser based surface processing techniques already achieve highest precision and quality. But often the throughput is limited.\n\nState of the art for many applications in laser surface processing is the utilization of one round laser beam. The idea of ultraSURFACE is to increase the throughput for laser surface processing by at least a factor of 10 without any drawbacks in the quality of the processing results. Therefore, two different optics concepts will be realised and combined with a fast and synchronized machine, scanner and optics control.\n\nOptics Concept 1 refers to a dynamic and flexible beam-shaping approach with piezo-deformable mirrors which enables the realisation and the fast adaption of application specific intensity distributions. This will allow significant increase in feed speed and track offset and therefore of throughput.\nOptics Concept 2 is a beam splitting approach which allows simultaneous processing with multiple laser beams and thus a significant increase of throughput.\n\nFor both concepts the implementation of prototypes is planned as well as their industrial validation in different fields of application (laser structuring, laser polishing, laser thin-film processing). The main ultraSURFACE Objectives are\nuSO1 Dynamic and flexible beam-shaping optics for laser surface processing\nuSO2 Multi-beam optics for parallel laser surface processing\nuSO3 Ultrafast synchronisation of optics and machine for 3D processing\nuSO4 Validation in industrial scenarios",
+    "totalCost": "3739955",
+    "ecMaxContribution": "2927455",
+    "coordinator": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+    "coordinatorCountry": "DE",
+    "participants": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN;UNITECHNOLOGIES SA;SCHAEFFLER TECHNOLOGIES AG & CO. KG;PULSAR PHOTONICS GMBH;FLEXIBLE OPTICAL BV;Procter & Gamble Services Company GmbH;GEMU GEBR. MULLER APPARATEBAU GMBH& CO KG;NEWSON;HOLO-OR LTD",
+    "participantCountries": "DE;CH;NL;BE;IL",
+    "projectParticipants": {
+        "998709673": {
+            "orgId": "998709673",
+            "orgName": "UNITECHNOLOGIES SA",
+            "ecContrib": 0
+        },
+        "989823794": {
+            "orgId": "989823794",
+            "orgName": "HOLO-OR LTD",
+            "ecContrib": 293750
+        },
+        "935117928": {
+            "orgId": "935117928",
+            "orgName": "PULSAR PHOTONICS GMBH",
+            "ecContrib": 331250
+        },
+        "999983962": {
+            "orgId": "999983962",
+            "orgName": "RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",
+            "ecContrib": 351750
+        },
+        "946808562": {
+            "orgId": "946808562",
+            "orgName": "SCHAEFFLER TECHNOLOGIES AG & CO. KG",
+            "ecContrib": 210732
+        },
+        "933343895": {
+            "orgId": "933343895",
+            "orgName": "GEMU GEBR. MULLER APPARATEBAU GMBH& CO KG",
+            "ecContrib": 75875
+        },
+        "953622812": {
+            "orgId": "953622812",
+            "orgName": "FLEXIBLE OPTICAL BV",
+            "ecContrib": 412500
+        },
+        "999984059": {
+            "orgId": "999984059",
+            "orgName": "FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.",
+            "ecContrib": 861098
+        },
+        "930190425": {
+            "orgId": "930190425",
+            "orgName": "NEWSON",
+            "ecContrib": 270000
+        }
+    },
+    "calculatedTotalContribution": 2806955
+}

@@ -1,0 +1,23 @@
+{
+    "rcn": "200183",
+    "acronym": "NeMoFoil",
+    "topics": "ERC-PoC-2015",
+    "title": "NeMoFoil: electronic foil for neuromonitoring",
+    "startDate": "01/01/2016",
+    "endDate": "30/06/2017",
+    "objective": "For certain neurological disorders it is necessary to record electrical signals directly from the brain. Intracranial neuromonitoring is indicated for several neuropathologies, such as for localization of the source of seizures in epilepsy patients for surgical removal, or closely watching neurological status in intensive care (eg stroke, brainswelling), typically lasting days to weeks. For this, special electrodes embedded in silicon sheets (ëgridsí) are surgically placed between the brain and the skull, which measure neural electrical discharges. Another, emerging need for grids is by severely paralyzed people, to enable direct communication between the brain and computers for writing or for controlling appliances (Brain-Computer Interface). A major problem with grids is that their wires, connecting to external amplifiers, have to pass through the skull, posing an infection risk, and risk of wire breakage with chronic use. A wireless solution would solve many problems.\nIn NeMoFoil the feasibility of wireless grids for human use will be determined. The concept entails embedding of microelectronics for signal amplification, AD conversion and wireless transfer, together with the electrodes in a thin sheet, a ëfoilí. Using modern printing technology, it is possible to print electrodes and their connections with microcircuits. Using several strategically placed coils, power is supplied by induction while signals are transmitted. I have brought together a team of experts in the relevant domains, including engineers and business planners. This project will lead to a blueprint for a commercial product that requires further investment in the production and CE certification process (pre-demonstration stage). In addition a business plan is developed alongside, and ample attention is paid to patentability of the concept. With this approach I expect to have a complete package with which we can attract investors or partners to move the concept towards commercial viability.",
+    "totalCost": "149060",
+    "ecMaxContribution": "149060",
+    "coordinator": "UNIVERSITAIR MEDISCH CENTRUM UTRECHT",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999915189": {
+            "orgId": "999915189",
+            "orgName": "UNIVERSITAIR MEDISCH CENTRUM UTRECHT",
+            "ecContrib": 149060
+        }
+    },
+    "calculatedTotalContribution": 149060
+}

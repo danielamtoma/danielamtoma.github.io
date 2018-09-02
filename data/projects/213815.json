@@ -1,0 +1,28 @@
+{
+    "rcn": "213815",
+    "acronym": "SALAMANDER",
+    "topics": "JTI-CS2-2017-CFP06-ENG-01-21",
+    "title": "Soakback Assessment using LAttice Boltzmann Method and Aerothermal Nodal-network for the Design of the Engine-bay Region",
+    "startDate": "01/03/2018",
+    "endDate": "28/02/2021",
+    "objective": "As part of H2020 program, CleanSky II aims at pushing forward the whole EU aeronautical sector to a worldwide prominent place as well as addressing ambitious targets in reduction of pollution and fuel consumption.\n\nWithin the ìSustainable and Green Engineî Integrated Technology Demonstrator, WP 3 Business Aviation / Short Range Regional TurboProp Demonstrator aims to bring to market a new generation of TurboProp. \n\nThe present call JTI-CS2-2017-CFP06-ENG-01-21, associated with WP3.5.3 Engine nacelle Demonstrator and WP3.6.1 Thermal Management, ultimately aims at assessing the temperature inside the Engine Bay of an ARDIDEN3 TurboProp during soak-back.\n\nThe projects deploys in 3 phases. First, perform high-accuracy, state-of-the-art LBM simulations, of the full engine. Second, develop a reduced-cost, Nodal-network model, for the channel region. Finally, combine LBM (accuracy) & Nodal methods (reduced-cost) to assess soak-back at acceptable cost in the TP Demonstrator.\n\nChallenges are numerous: Physical (Free Convection/ High Mach numbers); Modeling (LBM/ Nodal Network Coupling); Computational (Long-Transient/ Engine Geometry/ 3D Fluid & Solid). The highest levels of numerical expertise are required.\n\nThe present proposal, SALAMANDER ìSoakback Assessment using LAttice Boltzmann Method and Aerothermal Nodal-network for the Design of the Engine-bay Regionî, offers cooperation between EXA, world-leader in LBM solutions, and ALTRAN, world-leader in Engineering Solutions, Fluid and Thermal Engineering Expertise Center. \n\nThe Call combines EXA powerful LBM software, with an expertise on Soak Back, to ALTRAN expertise in Aerothermal and Nodal modeling. This strong partnership ensures this Call success.\n\nEventually, the outcome model delivery will allow the Topic Leader to improve the design of the TurboProp demonstrator as well as future products. \n\nFinally, EU industrials and environment shall greatly benefit from this study, thanks to ALTRAN and EXA new Engineering offers.",
+    "totalCost": "824873,75",
+    "ecMaxContribution": "824873,75",
+    "coordinator": "ALTRAN TECHNOLOGIES",
+    "coordinatorCountry": "FR",
+    "participants": "EUROXA",
+    "participantCountries": "FR",
+    "projectParticipants": {
+        "999926926": {
+            "orgId": "999926926",
+            "orgName": "ALTRAN TECHNOLOGIES",
+            "ecContrib": 334630
+        },
+        "911789234": {
+            "orgId": "911789234",
+            "orgName": "EUROXA",
+            "ecContrib": 490244
+        }
+    },
+    "calculatedTotalContribution": 824874
+}

@@ -1,0 +1,78 @@
+{
+    "rcn": "194863",
+    "acronym": "ReCRED",
+    "topics": "DS-02-2014",
+    "title": "From Real-world Identities to Privacy-preserving and Attribute-based CREDentials for Device-centric Access Control",
+    "startDate": "01/05/2015",
+    "endDate": "30/04/2018",
+    "objective": "ReCREDís ultimate goal is to promote the userís personal mobile device to the role of a unified authentication and authorization proxy towards the digital world. ReCRED adopts an incrementally deployable strategy in two complementary directions: extensibility in the type and nature of supported stakeholders and services (from local access control to online service access), as well as flexibility and extensibility in the set of supported authentication and access control techniques; from widely established and traditional ones to emerging authentication and authorization protocols as well as cryptographically advanced attribute-based access control approaches. Simplicity, usability, and users privacy is accomplished by: i) hiding inside the device all the complexity involved in the aggregation and management of multiple digital identifiers and access control attribute credentials, as well as the relevant interaction with the network infrastructure and with identity consolidation services; ii) integrating in the device support for widespread identity management standards and their necessary extensions; and iii) controlling the exposure of user credentials to third party service providers. ReCRED addresses key security and privacy issues such as resilience to device loss, theft and impersonation, via a combination of: i) local user-to-device and remote device-to-service secure authentication mechanisms; ii) multi-factor authentication mechanisms based on behavioral and physiological user signatures not bound to the device; iii) usable identity management and privacy awareness tools; iv) usable tools that offer the ability for complex reasoning of authorization policies through advanced learning techniques. ReCREDís viability will be assessed via four large-scale realistic pilots in real-world operational environments. The pilots will demonstrate the integration of the developed components and their suitability for end-users, so as to show their TRL7 readiness.",
+    "totalCost": "6325156",
+    "ecMaxContribution": "4997242",
+    "coordinator": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+    "coordinatorCountry": "EL",
+    "participants": "WEDIA LIMITED;DE PRODUCTIZERS BV;TECHNOLOGIKO PANEPISTIMIO KYPROU;VERIZON NEDERLAND BV;UPCOM BVBA;STUDIO PROFESSIONALE ASSOCIATO A BAKER & MCKENZIE;TELEFONICA INVESTIGACION Y DESARROLLO SA;CERTSIGN SA;CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI;UNIVERSIDAD CARLOS III DE MADRID;EXUS SOFTWARE LTD",
+    "participantCountries": "EL;NL;CY;BE;IT;ES;RO;UK",
+    "projectParticipants": {
+        "960082139": {
+            "orgId": "960082139",
+            "orgName": "CERTSIGN SA",
+            "ecContrib": 487375
+        },
+        "999597223": {
+            "orgId": "999597223",
+            "orgName": "TECHNOLOGIKO PANEPISTIMIO KYPROU",
+            "ecContrib": 516128
+        },
+        "936850154": {
+            "orgId": "936850154",
+            "orgName": "DE PRODUCTIZERS BV",
+            "ecContrib": 192062
+        },
+        "939018589": {
+            "orgId": "939018589",
+            "orgName": "UPCOM BVBA",
+            "ecContrib": 427875
+        },
+        "999586941": {
+            "orgId": "999586941",
+            "orgName": "UNIVERSITY OF PIRAEUS RESEARCH CENTER",
+            "ecContrib": 514898
+        },
+        "999910824": {
+            "orgId": "999910824",
+            "orgName": "TELEFONICA INVESTIGACION Y DESARROLLO SA",
+            "ecContrib": 491314
+        },
+        "984074313": {
+            "orgId": "984074313",
+            "orgName": "STUDIO PROFESSIONALE ASSOCIATO A BAKER & MCKENZIE",
+            "ecContrib": 157500
+        },
+        "952567840": {
+            "orgId": "952567840",
+            "orgName": "EXUS SOFTWARE LTD",
+            "ecContrib": 365750
+        },
+        "999649603": {
+            "orgId": "999649603",
+            "orgName": "CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",
+            "ecContrib": 437500
+        },
+        "937540794": {
+            "orgId": "937540794",
+            "orgName": "WEDIA LIMITED",
+            "ecContrib": 452419
+        },
+        "999899572": {
+            "orgId": "999899572",
+            "orgName": "UNIVERSIDAD CARLOS III DE MADRID",
+            "ecContrib": 430250
+        },
+        "937178014": {
+            "orgId": "937178014",
+            "orgName": "VERIZON NEDERLAND BV",
+            "ecContrib": 524170
+        }
+    },
+    "calculatedTotalContribution": 4997241
+}

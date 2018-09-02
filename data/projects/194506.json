@@ -1,0 +1,23 @@
+{
+    "rcn": "194506",
+    "acronym": "PAW",
+    "topics": "ERC-CoG-2014",
+    "title": "Automated Program Analysis for Advanced Web Applications",
+    "startDate": "01/08/2015",
+    "endDate": "31/07/2020",
+    "objective": "Web applications that execute in the user's web browser constitute a substantial part of modern software. JavaScript is the main programming language of the web, although alternatives are emerging, in particular, TypeScript and Dart. Despite the advances in design of languages and libraries, it is difficult to prevent errors when programming such web applications. Although the basic principles of software verification have been known for decades and researchers have developed an abundance of techniques for formal reasoning about programs, modern software has lots of errors, as everyday users can testify. \n\nThe PAW project will create novel automated program analysis algorithms for preventing errors and improving performance of advanced web applications. The project hypothesis is that a scientific breakthrough is within reach, due to recent results in static and dynamic program analysis for JavaScript. The central idea is to combine static and dynamic analysis in new ways. In addition, the project will make program analysis algorithms and infrastructure available in a form that embraces reusability.",
+    "totalCost": "1977382",
+    "ecMaxContribution": "1977382",
+    "coordinator": "AARHUS UNIVERSITET",
+    "coordinatorCountry": "DK",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 1977382
+        }
+    },
+    "calculatedTotalContribution": 1977382
+}

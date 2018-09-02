@@ -1,0 +1,73 @@
+{
+    "rcn": "212452",
+    "acronym": "INSIST",
+    "topics": "SC1-PM-16-2017",
+    "title": "IN-Silico trials for treatment of acute Ischemic STroke",
+    "startDate": "01/11/2017",
+    "endDate": "31/10/2021",
+    "objective": "Stroke is the number one cause of disability in the Western world and the 3rd most common cause of death. Despite new treatment options with intra-arterial thrombectomy, still 2 out of 3 patients still have a poor outcome. The main goal of INSIST is to advance treatments of ischemic stroke and its introduction in clinical practice by realizing in silico clinical stroke trials in which stroke and treatment are modeled. We will generate virtual populations of stroke patients, generate and validate in silico models for intra-arterial thrombectomy, thrombosis and thrombolysis, and microvascular perfusion and neurological deterioration after stroke, and integrate the in silico models to realize an in silico clinical stroke trial. We are uniquely positioned by the availability of a large pool of clinical, imaging, histopathological, and outcome data from multiple recently finalized stroke trials, a large registry (totaling 4500 patients), and new trials that will start later this year (totaling 2500 patients). We will build a population model that takes this input to generate virtual populations of stroke patients addressing the wide variety of patient characteristics. We will build on existing and emerging in silico models to validate reusable models for stroke and stroke treatment with a strong interaction with experimenting modeling in laboratories. The in silico models and virtual populations will be combined to simulate clinical trials and validated by simulating and comparing finalized and currently running trials. The in silico models will be used to simulate clinical trials to evaluate effectiveness and safety of novel devices and medication, both for the device as well as the pharmacological industry. For the device industry, we will evaluate the optimal configuration of thrombectomy stents for reduction of thrombus fragmentation. From the perspective of the pharmacy industry, we will simulate the effect of increased TAFIa on the effectiveness of alteplase.",
+    "totalCost": "5550675",
+    "ecMaxContribution": "5250675",
+    "coordinator": "Academisch Medisch Centrum bij de Universiteit van Amsterdam",
+    "coordinatorCountry": "NL",
+    "participants": "NATIONAL UNIVERSITY OF IRELAND GALWAY;UNIVERSITE DE GENEVE;NEURAVI LIMITED;POLITECNICO DI MILANO;THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD;ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM;INSTITUT DE RECHERCHE INTERNATIONAL SERVIER;KATHOLIEKE UNIVERSITEIT LEUVEN;M.V. LOMONOSOV MOSCOW STATE UNIVERSITY;UNIVERSITEIT VAN AMSTERDAM",
+    "participantCountries": "IE;CH;IT;UK;NL;FR;BE;RU",
+    "projectParticipants": {
+        "999872315": {
+            "orgId": "999872315",
+            "orgName": "M.V. LOMONOSOV MOSCOW STATE UNIVERSITY",
+            "ecContrib": 0
+        },
+        "999988424": {
+            "orgId": "999988424",
+            "orgName": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+            "ecContrib": 717500
+        },
+        "998732274": {
+            "orgId": "998732274",
+            "orgName": "Academisch Medisch Centrum bij de Universiteit van Amsterdam",
+            "ecContrib": 908085
+        },
+        "997658387": {
+            "orgId": "997658387",
+            "orgName": "INSTITUT DE RECHERCHES INTERNATIONALES SERVIER",
+            "ecContrib": 0
+        },
+        "999879881": {
+            "orgId": "999879881",
+            "orgName": "POLITECNICO DI MILANO",
+            "ecContrib": 349600
+        },
+        "999978045": {
+            "orgId": "999978045",
+            "orgName": "NATIONAL UNIVERSITY OF IRELAND GALWAY",
+            "ecContrib": 425365
+        },
+        "999991334": {
+            "orgId": "999991334",
+            "orgName": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+            "ecContrib": 462500
+        },
+        "999974650": {
+            "orgId": "999974650",
+            "orgName": "UNIVERSITE DE GENEVE",
+            "ecContrib": 771975
+        },
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 545750
+        },
+        "999984350": {
+            "orgId": "999984350",
+            "orgName": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+            "ecContrib": 568125
+        },
+        "947370774": {
+            "orgId": "947370774",
+            "orgName": "NEURAVI LIMITED",
+            "ecContrib": 416275
+        }
+    },
+    "calculatedTotalContribution": 5165175
+}

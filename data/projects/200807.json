@@ -1,0 +1,23 @@
+{
+    "rcn": "200807",
+    "acronym": "ISG",
+    "topics": "JTI-CS2-2014-CFP01-FRC-02-05",
+    "title": "Induction Starter Generator",
+    "startDate": "01/04/2016",
+    "endDate": "31/12/2019",
+    "objective": "The objectives of the project Induction Starter Generator (ISG) is to design, develop, manufacture, test and qualify an innovative TRL6 High Voltage Direct Current (HVDC)/Low Voltage Direct Current controlled Starter/Generator (S/G) intended to be installed on the LiFeCraft Helicopter\nISG proposes solutions that will be compatible to the call requirements and will be interfaced to the  two electrical networks, one at 270Vdc H/C network compliant with MIL-STD-704-F and one at 28Vdc H/C network compliant with EN2282.\nISG technical proposal innovation consists of the use of ground applications like automotive engine starter/generator or wind turbines electrical generator that were never used before in aeronautical environment and their adaptation is a real technological innovation that leads, thanks to the development to be performed in this project to a viable solution for demonstration as required by the CFP.\nThe main idea is to use an induction machine associated to power electronics over options like the classic aeronautic Wound Field or brush DC machine, but also over common ground applications like high powered PMG machines, variable reluctance machines or claw-poles machines usually used in automobile industry.\nThe proposed innovative system is composed of one rotating machine - Induction Starter/Generator and an Electrical Control Unit which provides the ISG start control and generation control functions and the electrical power to the H/C.\nThe ISG is a three-phase squirrel cage induction machine drive by the H/C engine turbine  \nThe ECU is composed of two power converter:\n- a bi-directional inverter connected to the \\270Vdc internal power bus to pilot the ISG in both start and generation mode,\n- a DC/DC converter powered by the \\270Vdc internal power bus to supply the H/C 28Vdc network in generation mode.",
+    "totalCost": "1361702,5",
+    "ecMaxContribution": "953191,75",
+    "coordinator": "SAFRAN ELECTRICAL & POWER",
+    "coordinatorCountry": "FR",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999955444": {
+            "orgId": "999955444",
+            "orgName": "SAFRAN ELECTRICAL & POWER",
+            "ecContrib": 953192
+        }
+    },
+    "calculatedTotalContribution": 953192
+}

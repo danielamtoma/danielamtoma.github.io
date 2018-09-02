@@ -1,0 +1,23 @@
+{
+    "rcn": "196864",
+    "acronym": "AUTAR",
+    "topics": "ERC-CoG-2014",
+    "title": "A Unified Theory of Algorithmic Relaxations",
+    "startDate": "01/06/2015",
+    "endDate": "31/05/2020",
+    "objective": "For a large family of computational problems collectively known as constrained optimization and satisfaction problems (CSPs), four decades of research in algorithms and computational complexity have led to a theory that tries to classify them as algorithmically tractable vs. intractable, i.e.  polynomial-time solvable vs. NP-hard. However, there remains an important gap in our knowledge in that many CSPs of interest resist classification by this theory. Some such problems of practical relevance include fundamental partition problems in graph theory, isomorphism problems in combinatorics, and strategy-design problems in mathematical game theory. To tackle this gap in our knowledge, the research of the last decade has been driven either by finding hard instances for algorithms that solve tighter and tighter relaxations of the original problem, or by formulating new hardness-hypotheses that are stronger but admittedly less robust than NP-hardness.\n\nThe ultimate goal of this project is closing the gap between the partial progress that these approaches represent and the original classification project into tractable vs. intractable problems. Our thesis is that the field has reached a point where, in many cases of interest, the analysis of the current candidate algorithms that appear to solve all instances could suffice to classify the problem one way or the other, without the need for alternative hardness-hypotheses. The novelty in our approach is a program to develop our recent discovery that, in some cases of interest, two methods from different areas match in strength: indistinguishability pebble games from mathematical logic, and hierarchies of convex relaxations from mathematical programming. Thus, we aim at making significant advances in the status of important algorithmic problems by looking for a general theory that unifies and goes beyond the current understanding of its components.",
+    "totalCost": "1725656",
+    "ecMaxContribution": "1725656",
+    "coordinator": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999976202": {
+            "orgId": "999976202",
+            "orgName": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+            "ecContrib": 1725656
+        }
+    },
+    "calculatedTotalContribution": 1725656
+}

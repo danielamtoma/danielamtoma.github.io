@@ -1,0 +1,58 @@
+{
+    "rcn": "206406",
+    "acronym": "DAHLIA",
+    "topics": "COMPET-1-2016",
+    "title": "Deep sub-micron microprocessor for spAce rad-Hard appLIcation Asic",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2019",
+    "objective": "We propose the development of a Very High Performance microprocessor System on Chip (SoC) based on STM European 28nm FDSOI technology with multi-core ARM processors for real-time applications, eFPGA for flexibility and key European IPs, enabling faster and cost-efficient development of products for multiple space application domains. \n \nThe performance is expected to be 20 to 40 times the performance of the existing SoC for space and more than 2 times the performance of the future quad core LEON4 chip. This performance level, combined with a large set of integrated peripherals including dedicated on-chip functions for GNSS, TM and TC support, will enable key space applications to be executed within the same microprocessor significantly reducing cost and mass and boosting competitiveness of future European space equipments.\n \nWith the highest cumulative number of European satellites and electronics equipments successfully operating in orbit, Airbus and TAS represent together the indisputable best positioned companies in Europe to ensure the maximum relevance of the DAHLIA SoC for its future use by the whole European Space community. \n \nBeyond Space applications, the adoption of the ARM processor will enable the convergence with terrestrial applications benefiting from the strong ARM ecosystem while the new SoC will ensure European strategic non dependence for the most critical component on board.",
+    "totalCost": "4520555,04",
+    "ecMaxContribution": "4249148,75",
+    "coordinator": "STMICROELECTRONICS GRENOBLE 2 SAS",
+    "coordinatorCountry": "FR",
+    "participants": "THALES ALENIA SPACE ITALIA SPA;AIRBUS DEFENCE AND SPACE GMBH;INTEGRATED SYSTEMS DEVELOPMENT S.A.;NANOXPLORE;AIRBUS DEFENCE AND SPACE SAS;AIRBUS DS GMBH;THALES ALENIA SPACE FRANCE",
+    "participantCountries": "IT;DE;EL;FR",
+    "projectParticipants": {
+        "999488195": {
+            "orgId": "999488195",
+            "orgName": "THALES ALENIA SPACE ITALIA SPA",
+            "ecContrib": 411008
+        },
+        "997607656": {
+            "orgId": "997607656",
+            "orgName": "INTEGRATED SYSTEMS DEVELOPMENT S.A.",
+            "ecContrib": 250000
+        },
+        "941002918": {
+            "orgId": "941002918",
+            "orgName": "NANOXPLORE",
+            "ecContrib": 0
+        },
+        "999908205": {
+            "orgId": "999908205",
+            "orgName": "THALES ALENIA SPACE FRANCE",
+            "ecContrib": 1088622
+        },
+        "999991819": {
+            "orgId": "999991819",
+            "orgName": "AIRBUS DEFENCE AND SPACE GMBH",
+            "ecContrib": 1002219
+        },
+        "999436494": {
+            "orgId": "999436494",
+            "orgName": "AIRBUS DS GMBH",
+            "ecContrib": 0
+        },
+        "997962094": {
+            "orgId": "997962094",
+            "orgName": "STMICROELECTRONICS GRENOBLE 2 SAS",
+            "ecContrib": 999800
+        },
+        "999809265": {
+            "orgId": "999809265",
+            "orgName": "AIRBUS DEFENCE AND SPACE SAS",
+            "ecContrib": 497500
+        }
+    },
+    "calculatedTotalContribution": 4249149
+}

@@ -1,0 +1,63 @@
+{
+    "rcn": "213151",
+    "acronym": "LEGaTO",
+    "topics": "ICT-05-2017",
+    "title": "Low Energy Toolset for Heterogeneous Computing",
+    "startDate": "01/12/2017",
+    "endDate": "30/11/2020",
+    "objective": "Recently system integrators have dramatically increased their efforts in heterogeneous computing by integrating heterogeneous cores on die (ARM), utilizing general purpose GPUs (NVIDIA), combining CPUs and GPUs on same die (Intel, AMD), leveraging FPGAs (Altera, Xilinx), integrating CPUs with FPGAs (Xilinx), and coupling FPGAs and CPUs in the same package (IBM-Altera, Intel-Altera). Heterogeneity aims to solve the problems associated with the end of Moore¥s Law by incorporating more specialized compute units in the system hardware and by utilizing the most efficient compute unit. However, while software-stack support for heterogeneity is relatively well developed for performance, software stack support for power- and energy-efficient computing it is severely lacking. Given that the ICT sector is responsible for 5% of global electricity consumption, software stack-support for energy-efficient heterogeneous computing is critical to the future growth of the ICT industry. The primary ambition of the LEGaTO project is to address this challenge by starting with a Made-in-Europe mature software stack, and by optimizing this stack to support energy-efficient computing on a commercial cutting-edge European-developed CPU-GPU-FPGA heterogeneous hardware substrate, which will lead to an order of magnitude increase in energy efficiency.",
+    "totalCost": "5514182,5",
+    "ecMaxContribution": "5514182,5",
+    "coordinator": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+    "coordinatorCountry": "ES",
+    "participants": "UNIVERSITE DE NEUCHATEL;CHRISTMANN INFORMATIONSTECHNIK + MEDIEN GMBH & CO KG;MACHINE INTELLIGENCE SWEDEN AB;HELMHOLTZ-ZENTRUM FUER INFEKTIONSFORSCHUNG GMBH;TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY;MAXELER TECHNOLOGIES LIMITED;UNIVERSITAET BIELEFELD;TECHNISCHE UNIVERSITAET DRESDEN;CHALMERS TEKNISKA HOEGSKOLA AB",
+    "participantCountries": "CH;DE;SE;IL;UK",
+    "projectParticipants": {
+        "999655520": {
+            "orgId": "999655520",
+            "orgName": "BARCELONA SUPERCOMPUTING CENTER - CENTRO NACIONAL DE SUPERCOMPUTACION",
+            "ecContrib": 1088829
+        },
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 654166
+        },
+        "968922816": {
+            "orgId": "968922816",
+            "orgName": "MAXELER TECHNOLOGIES LIMITED",
+            "ecContrib": 585250
+        },
+        "999470347": {
+            "orgId": "999470347",
+            "orgName": "HELMHOLTZ-ZENTRUM FUER INFEKTIONSFORSCHUNG GMBH",
+            "ecContrib": 208250
+        },
+        "999870181": {
+            "orgId": "999870181",
+            "orgName": "UNIVERSITE DE NEUCHATEL",
+            "ecContrib": 452125
+        },
+        "999854370": {
+            "orgId": "999854370",
+            "orgName": "UNIVERSITAET BIELEFELD",
+            "ecContrib": 654188
+        },
+        "999907720": {
+            "orgId": "999907720",
+            "orgName": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+            "ecContrib": 452750
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 431125
+        },
+        "996332882": {
+            "orgId": "996332882",
+            "orgName": "CHRISTMANN INFORMATIONSTECHNIK + MEDIEN GMBH & CO KG",
+            "ecContrib": 809750
+        }
+    },
+    "calculatedTotalContribution": 5336433
+}

@@ -1,0 +1,28 @@
+{
+    "rcn": "207701",
+    "acronym": "AFloWTest",
+    "topics": "JTI-CS2-2016-CFP03-LPA-01-17",
+    "title": "Wind tunnel test for flow control at the engine/pylon with a representative aircraft configuration under fully realistic flow conditions",
+    "startDate": "01/01/2017",
+    "endDate": "31/12/2018",
+    "objective": "The Active Flow Wind tunnel Test (AFloWTest) project considers the testing of a realistic high lift configuration half-model with a large and with a Ultra High Bypass Ratio (UHBR) flow-through nacelle. An existing half model will be adapted with an UHBR nacelle and for the application of Active Flow Control (AFC) systems at the upper side of the wing near the wing pylon interface in order to improve the high lift performance of the configuration. The application of AFC is considered in order to diminish the detrimental effects of applying a large nacelle in close proximity of the wing, necessitating a slat cutback. Different AFC systems will be installed and tested: a Pulsed Jet Actuator (PJA) and a Steady Blowing (SB) device. Each will be tested at one position. Low speed tests (Ma=0.1 to 0.3) need to be made at representatively high Reynolds number. With the target half model sufficiently high Reynolds number (Re based on mean aerodynamic chord) can only be obtained in a highly pressurized wind tunnel or in a cryogenic facility. The DNW-KKK cryogenic wind tunnel has been selected for the test. \nOverall model forces will be measured and local influence of the AFC systems needs to be monitored, using surface streamline pattern visualization with mini-tufts, complemented with detailed PIV measurements of the separated flow and flow topology over the wing downstream of the wing pylon/nacelle interface.",
+    "totalCost": "942500,25",
+    "ecMaxContribution": "942500,25",
+    "coordinator": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+    "coordinatorCountry": "NL",
+    "participants": "TECHNISCHE UNIVERSITEIT DELFT",
+    "participantCountries": "NL",
+    "projectParticipants": {
+        "999977366": {
+            "orgId": "999977366",
+            "orgName": "TECHNISCHE UNIVERSITEIT DELFT",
+            "ecContrib": 72500
+        },
+        "999987066": {
+            "orgId": "999987066",
+            "orgName": "STICHTING NATIONAAL LUCHT- EN RUIMTEVAARTLABORATORIUM",
+            "ecContrib": 870000
+        }
+    },
+    "calculatedTotalContribution": 942500
+}

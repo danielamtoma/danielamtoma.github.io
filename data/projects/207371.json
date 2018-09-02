@@ -1,0 +1,23 @@
+{
+    "rcn": "207371",
+    "acronym": "ERIDIAN",
+    "topics": "ERC-PoC-2015",
+    "title": "Ensured Randomness Integrity in Device-Independent Networks",
+    "startDate": "01/07/2016",
+    "endDate": "31/12/2017",
+    "objective": "'ERIDIAN will develop a market-ready quantum random number generator for Device Independent (DI) Quantum Cryptography (QKD), which offers the best possible security guarantees.  The prototype developed in ERIDIAN will enable major industrial players to make DI QKD a commercial reality.  Current, classical cryptography is based on the assumed difficulty of certain mathematical problems and thus insecure against future mathematical advances and against quantum computers.  Quantum cryptography gives future-proof security guaranteed by physical laws, but until now is very difficult to commercialise:  the user must trust the communications equipment and its supplier, making a mass-market approach impossible.  The DI approach to quantum cryptography uses strong, directly observable data correlations, technically a 'loophole-free Bell Inequality Violation' (BIV), to guarantee security.  Because the security (or not) of the connection is transparent to the user, there is no need to trust the communications provider, greatly facilitating commercialisation.  The first loophole-free BIVs were demonstrated in 2015, using laboratory-grade random number generators developed in the ERC starting grant AQUMET.  ERIDIAN will advance to the prototype stage this randomness generation technology, a critical element of the BIV and thus a requirement for the DI approach.  The availability of a commercial-grade randomness source suitable for BIVs will allow industrial actors such as telecommunications providers to enter the DI field and offer solutions to a broad range of customers.'",
+    "totalCost": "149925",
+    "ecMaxContribution": "149925",
+    "coordinator": "FUNDACIO INSTITUT DE CIENCIES FOTONIQUES",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999619436": {
+            "orgId": "999619436",
+            "orgName": "FUNDACIO INSTITUT DE CIENCIES FOTONIQUES",
+            "ecContrib": 149925
+        }
+    },
+    "calculatedTotalContribution": 149925
+}

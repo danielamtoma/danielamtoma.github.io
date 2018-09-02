@@ -1,0 +1,53 @@
+{
+    "rcn": "206244",
+    "acronym": "REFILLS",
+    "topics": "ICT-25-2016-2017",
+    "title": "Robotics Enabling Fully-Integrated Logistics Lines for Supermarkets",
+    "startDate": "01/01/2017",
+    "endDate": "30/06/2020",
+    "objective": "While online grocery stores are expanding, supermarkets continue to provide customers with the sensory experience of choosing goods while walking between display shelves. Therefore, retail and logistics companies are concerned with making the shopping experience more comfortable and exciting while, at the same time, using technology to reduce costs and improve efficiency. The REFILLS project aims at developing robotic systems able to address the in-store logistics needs of the retail market. Three scenarios building on top of each other are considered. In the 1st scenario, mobile robots inspect shelves and generate semantic environment maps for layout identification and store monitoring. The 2nd scenario employs robot arms for autonomous sorting of articles in the backroom and for assisting human clerks with shelf refilling in the shop. In the 3rd scenario, the autonomy of the robot is strengthened, resulting in a robotic clerk capable of manipulating articles varying in shape, surface, fragility, stiffness and weight, and refill shelves without human intervention. These scenarios trigger a number of research and technology challenges that are tackled within REFILLS. Information on the supermarket articles is exploited to create powerful knowledge bases, which are used by the robots to identify shelves, recognize missing or misplaced articles, handling them and navigate the shop. Reasoning allows robots to cope with changing task requirements and contexts, and perception-guided reactive control makes them robust to execution errors and uncertainty. A modular approach is adopted for the design of cost-efficient robotic units. The work plan will generate exploitable results through three integration and evaluation phases. A final demonstration will take place at a real retail store. In sum, REFILLS is committed to generating wide impact in the retail market domain and beyond through the development of efficient logistics solutions for professional use in supermarkets.",
+    "totalCost": "4388087,5",
+    "ecMaxContribution": "3692850",
+    "coordinator": "C.R.E.A.T.E. CONSORZIO DI RICERCA PER L'ENERGIA L AUTOMAZIONE E LE TECNOLOGIE DELL'ELETTROMAGNETISMO",
+    "coordinatorCountry": "IT",
+    "participants": "INTEL ISRAEL (74) LTD;SWISSLOG AG;UNIVERSITAET BREMEN;UNIVERSITA DEGLI STUDI DELLA CAMPANIA LUIGI VANVITELLI;KUKA ROBOTER GMBH;DM-DROGERIE MARKT GMBH+CO. KG",
+    "participantCountries": "IL;CH;DE;IT",
+    "projectParticipants": {
+        "956048491": {
+            "orgId": "956048491",
+            "orgName": "INTEL ISRAEL (74) LTD",
+            "ecContrib": 410000
+        },
+        "999987454": {
+            "orgId": "999987454",
+            "orgName": "UNIVERSITAET BREMEN",
+            "ecContrib": 816500
+        },
+        "929339444": {
+            "orgId": "929339444",
+            "orgName": "DM-DROGERIE MARKT GMBH+CO. KG",
+            "ecContrib": 197500
+        },
+        "999848356": {
+            "orgId": "999848356",
+            "orgName": "UNIVERSITA DEGLI STUDI DELLA CAMPANIA LUIGI VANVITELLI",
+            "ecContrib": 530000
+        },
+        "929285609": {
+            "orgId": "929285609",
+            "orgName": "SWISSLOG AG",
+            "ecContrib": 0
+        },
+        "998007975": {
+            "orgId": "998007975",
+            "orgName": "KUKA ROBOTER GMBH",
+            "ecContrib": 1093850
+        },
+        "954718427": {
+            "orgId": "954718427",
+            "orgName": "C.R.E.A.T.E. CONSORZIO DI RICERCA PER L'ENERGIA L AUTOMAZIONE E LE TECNOLOGIE DELL'ELETTROMAGNETISMO",
+            "ecContrib": 645000
+        }
+    },
+    "calculatedTotalContribution": 3692850
+}

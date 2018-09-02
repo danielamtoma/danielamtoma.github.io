@@ -1,0 +1,63 @@
+{
+    "rcn": "196951",
+    "acronym": "RECORD-IT",
+    "topics": "FETOPEN-1-2014",
+    "title": "Reservoir Computing with Real-time Data for future IT",
+    "startDate": "01/09/2015",
+    "endDate": "31/08/2018",
+    "objective": "The aim of this proposal is to develop an intelligent biocompatible sensing device which detects complex behavioural changes in ion concentrations. The sensor will use wet NOMFETs, coated Si nanowires, self-conjugated polymers, arrays of photocells, flow of lipids. The level of ions will be measured by monitoring changes in the response function of the system. The high sensitivity of the device will be achieved by ensuring a strong coupling between the environment and the device. The key research challenges will be: accessing the feasibility of the idea to use reservoir computing for sensing complex environmental changes, identifying suitable integration strategies for the components, optimizing the sets of input/output pairs (response functions) and the device components for enhanced sensitivity.",
+    "totalCost": "4193147,5",
+    "ecMaxContribution": "4193147,25",
+    "coordinator": "CHALMERS TEKNISKA HOEGSKOLA AB",
+    "coordinatorCountry": "SE",
+    "participants": "AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE;UNIVERSITAT BASEL;COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES;THE HEBREW UNIVERSITY OF JERUSALEM;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT;TECHNISCHE UNIVERSITAET DRESDEN;RUDER BOSKOVIC INSTITUTE",
+    "participantCountries": "PL;CH;FR;IL;DE;HR",
+    "projectParticipants": {
+        "999980373": {
+            "orgId": "999980373",
+            "orgName": "CHALMERS TEKNISKA HOEGSKOLA AB",
+            "ecContrib": 917205
+        },
+        "999844573": {
+            "orgId": "999844573",
+            "orgName": "AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE",
+            "ecContrib": 399000
+        },
+        "999992401": {
+            "orgId": "999992401",
+            "orgName": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "ecContrib": 396574
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 672160
+        },
+        "999897729": {
+            "orgId": "999897729",
+            "orgName": "TECHNISCHE UNIVERSITAET DRESDEN",
+            "ecContrib": 286875
+        },
+        "999975038": {
+            "orgId": "999975038",
+            "orgName": "THE HEBREW UNIVERSITY OF JERUSALEM",
+            "ecContrib": 594840
+        },
+        "999907914": {
+            "orgId": "999907914",
+            "orgName": "UNIVERSITAT BASEL",
+            "ecContrib": 384688
+        },
+        "999875031": {
+            "orgId": "999875031",
+            "orgName": "RUDER BOSKOVIC INSTITUTE",
+            "ecContrib": 349462
+        },
+        "999907138": {
+            "orgId": "999907138",
+            "orgName": "EIDGENOSSISCHE MATERIALPRUFUNGS- UND FORSCHUNGSANSTALT",
+            "ecContrib": 192344
+        }
+    },
+    "calculatedTotalContribution": 4193148
+}

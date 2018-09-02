@@ -1,0 +1,293 @@
+{
+    "rcn": "207433",
+    "acronym": "SeaDataCloud",
+    "topics": "INFRAIA-01-2016-2017",
+    "title": "SeaDataCloud - Further developing the pan-European infrastructure for marine and ocean data management",
+    "startDate": "01/11/2016",
+    "endDate": "31/10/2020",
+    "objective": "The SeaDataNet pan-European infrastructure has been developed by NODCs and major research institutes from 34 countries. Over 100 marine data centres are connected and provide discovery and access to data resources for all European researchers. Moreover, SeaDataNet is a key infrastructure driving several portals of the European Marine Observation and Data network (EMODnet), initiated by EU DG-MARE for Marine Knowledge, MSFD, and Blue Growth. SeaDataNet complements the Copernicus Marine Environmental Monitoring Service (CMEMS), coordinated by EU DG-GROW. However, more effective and convenient access is needed to better support European researchers. The standards, tools and services developed must be reviewed and upgraded to keep pace with demand, such as developments of new sensors, and international and IT standards. Also EMODnet and Copernicus pose extra challenges to boost performance and foster INSPIRE compliance. More data from more data providers must be made available, from European and international research projects and observing programmes. \nSeaDataCloud aims at considerably advancing SeaDataNet services and increasing their usage, adopting cloud and HPC technology for better performance. More users will be engaged and for longer sessions by including advanced services in a Virtual Research Environment. Researchers will be empowered with a collection of services and tools, tailored to their specific needs, supporting marine research and enabling generation of added-value products. Data concern the wide range of in situ observations and remote sensing data. To have access to the latest cloud technology and facilities, SeaDataNet will cooperate with EUDAT, a network of computing infrastructures that develop and operate a common framework for managing scientific data across Europe. SeaDataCloud will improve services to users and data providers, optimise connecting data centres and streams, and interoperate with other European and international networks.",
+    "totalCost": "9999737,5",
+    "ecMaxContribution": "9999737,5",
+    "coordinator": "INSTITUT FRANCAIS DE RECHERCHE POUR L'EXPLOITATION DE LA MER",
+    "coordinatorCountry": "FR",
+    "participants": "INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE MARINA GRIGORE ANTIPA;HAVFORSKNINGSINSTITUTTET;INSTITUTO HIDROGRAFICO;AARHUS UNIVERSITET;INSTITUTO ESPANOL DE OCEANOGRAFIA;UNIVERSITE DE LIEGE;EUROGOOS;SUOMEN YMPARISTOKESKUS;INSTYTUT METEOROLOGII I GOSPODARKIWODNEJ - PANSTWOWY INSTYTUT BADAWCZY;UKRAINIAN SCIENTIFIC CENTRE OF ECOLOGY OF THE SEA;INSTITUTE OF OCEANOLOGY - BULGARIAN ACADEMY OF SCIENCES;HELLENIC CENTRE FOR MARINE RESEARCH;STICHTING NIOZ, KONINKLIJK NEDERLANDS INSTITUUT VOOR ONDERZOEK DER ZEE;INSTITUT ZA OCEANOGRAFIJU I RIBARSTVO;ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE;NACIONALNI INSTITUT ZA BIOLOGIJO;INSTITUT ROYAL DES SCIENCES NATURELLES DE BELGIQUE;ORION - INSTITOUTO AEIFORIAS KAI ANAPTIKSEON;DEUTSCHES KLIMARECHENZENTRUM GMBH;MARINE INSTITUTE;ALL-RUSSIAN RESEARCH INSTITUTE OF HYDROMETEOROLOGICAL INFORMATION-WORLD DATA CENTRE;LATVIJAS HIDROEKOLOGIJAS INSTITUTS;AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE;AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS;SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT;ALFRED-WEGENER-INSTITUT HELMHOLTZ-ZENTRUM FUR POLAR- UND MEERESFORSCHUNG;ISRAEL OCEANOGRAPHIC AND LIMNOLOGICAL RESEARCH LIMITED;SCIENCE AND TECHNOLOGY FACILITIES COUNCIL;INTERNATIONAL COUNCIL FOR THE EXPLORATION OF THE SEA;52∞North Initiative for Geospatial Open Source Software GmbH;CONSIGLIO NAZIONALE DELLE RICERCHE;INSTYTUT OCEANOLOGII POLSKIEJ AKADEMII NAUK;STICHTING DELTARES;ISTITUTO NAZIONALE DI OCEANOGRAFIA E DI GEOFISICA SPERIMENTALE;BUNDESAMT FUR SEESCHIFFFAHRT UND HYDROGRAPHIE;IVANE JAVAKHISHVILI TBILISI STATE UNIVERSITY;ILMATIETEEN LAITOS;P.P. SHIRSHOV INSTITUTE OF OCEANOLOGY OF RUSSIAN ACADEMY OF SCIENCES;ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA;UNIVERSITA TA MALTA;MARIENE INFORMATIE SERVICE MARIS BV;HAFRANNSOKNASTOFNUNIN;ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA;SERVICE HYDROGRAPHIQUE ET OCEANOGRAPHIQUE DE LA MARINE;CINECA CONSORZIO INTERUNIVERSITARIO;HELMHOLTZ ZENTRUM FUR OZEANFORSCHUNG KIEL;ETT SPA;CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS;VLAAMS INSTITUUT VOOR DE ZEE VZW;TALLINNA TEHNIKAULIKOOL;UNIVERSITETET I BERGEN;CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY;MIDDLE EAST TECHNICAL UNIVERSITY;NATURAL ENVIRONMENT RESEARCH COUNCIL;JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+    "participantCountries": "RO;NO;PT;DK;ES;BE;FI;PL;UA;BG;EL;NL;HR;SI;CY;DE;IE;RU;LV;IT;SE;IL;UK;GE;MT;IS;FR;EE;TR",
+    "projectParticipants": {
+        "998692310": {
+            "orgId": "998692310",
+            "orgName": "DEUTSCHES KLIMARECHENZENTRUM GMBH",
+            "ecContrib": 453125
+        },
+        "998150953": {
+            "orgId": "998150953",
+            "orgName": "INSTITUTO HIDROGRAFICO",
+            "ecContrib": 54125
+        },
+        "999988521": {
+            "orgId": "999988521",
+            "orgName": "AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE",
+            "ecContrib": 215875
+        },
+        "997711252": {
+            "orgId": "997711252",
+            "orgName": "ALL-RUSSIAN RESEARCH INSTITUTE OF HYDROMETEOROLOGICAL INFORMATION-WORLD DATA CENTRE",
+            "ecContrib": 61750
+        },
+        "991672808": {
+            "orgId": "991672808",
+            "orgName": "ETT SPA",
+            "ecContrib": 109062
+        },
+        "999494209": {
+            "orgId": "999494209",
+            "orgName": "HAFRANNSOKNASTOFNUNIN",
+            "ecContrib": 60469
+        },
+        "999842536": {
+            "orgId": "999842536",
+            "orgName": "TALLINNA TEHNIKAULIKOOL",
+            "ecContrib": 45562
+        },
+        "999472675": {
+            "orgId": "999472675",
+            "orgName": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA",
+            "ecContrib": 152344
+        },
+        "999516034": {
+            "orgId": "999516034",
+            "orgName": "IVANE JAVAKHISHVILI TBILISI STATE UNIVERSITY",
+            "ecContrib": 37062
+        },
+        "999976105": {
+            "orgId": "999976105",
+            "orgName": "UNIVERSITE DE LIEGE",
+            "ecContrib": 198438
+        },
+        "999993953": {
+            "orgId": "999993953",
+            "orgName": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "ecContrib": 130000
+        },
+        "998437006": {
+            "orgId": "998437006",
+            "orgName": "INSTITUT ROYAL DES SCIENCES NATURELLES DE BELGIQUE",
+            "ecContrib": 505688
+        },
+        "997589032": {
+            "orgId": "997589032",
+            "orgName": "INSTITUT ZA OCEANOGRAFIJU I RIBARSTVO",
+            "ecContrib": 41812
+        },
+        "999625644": {
+            "orgId": "999625644",
+            "orgName": "ISTITUTO NAZIONALE DI OCEANOGRAFIA E DI GEOFISICA SPERIMENTALE",
+            "ecContrib": 200125
+        },
+        "999992304": {
+            "orgId": "999992304",
+            "orgName": "JRC -JOINT RESEARCH CENTRE- EUROPEAN COMMISSION",
+            "ecContrib": 162812
+        },
+        "999650476": {
+            "orgId": "999650476",
+            "orgName": "NACIONALNI INSTITUT ZA BIOLOGIJO",
+            "ecContrib": 47562
+        },
+        "998671552": {
+            "orgId": "998671552",
+            "orgName": "P.P. SHIRSHOV INSTITUTE OF OCEANOLOGY OF RUSSIAN ACADEMY OF SCIENCES",
+            "ecContrib": 45375
+        },
+        "999607214": {
+            "orgId": "999607214",
+            "orgName": "INSTYTUT METEOROLOGII I GOSPODARKIWODNEJ - PANSTWOWY INSTYTUT BADAWCZY",
+            "ecContrib": 42875
+        },
+        "999657654": {
+            "orgId": "999657654",
+            "orgName": "ISRAEL OCEANOGRAPHIC AND LIMNOLOGICAL RESEARCH LIMITED",
+            "ecContrib": 52219
+        },
+        "950397271": {
+            "orgId": "950397271",
+            "orgName": "EUROGOOS",
+            "ecContrib": 67500
+        },
+        "999991722": {
+            "orgId": "999991722",
+            "orgName": "AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS",
+            "ecContrib": 103250
+        },
+        "999591306": {
+            "orgId": "999591306",
+            "orgName": "ILMATIETEEN LAITOS",
+            "ecContrib": 74438
+        },
+        "999989200": {
+            "orgId": "999989200",
+            "orgName": "NATURAL ENVIRONMENT RESEARCH COUNCIL",
+            "ecContrib": 361500
+        },
+        "999479077": {
+            "orgId": "999479077",
+            "orgName": "STICHTING NIOZ, KONINKLIJK NEDERLANDS INSTITUUT VOOR ONDERZOEK DER ZEE",
+            "ecContrib": 92938
+        },
+        "999997930": {
+            "orgId": "999997930",
+            "orgName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+            "ecContrib": 174500
+        },
+        "999522824": {
+            "orgId": "999522824",
+            "orgName": "MARINE INSTITUTE",
+            "ecContrib": 119375
+        },
+        "999482569": {
+            "orgId": "999482569",
+            "orgName": "INSTITUTE OF OCEANOLOGY - BULGARIAN ACADEMY OF SCIENCES",
+            "ecContrib": 41125
+        },
+        "999599939": {
+            "orgId": "999599939",
+            "orgName": "VLAAMS INSTITUUT VOOR DE ZEE VZW",
+            "ecContrib": 208062
+        },
+        "930399557": {
+            "orgId": "930399557",
+            "orgName": "ORION - INSTITOUTO AEIFORIAS KAI ANAPTIKSEON",
+            "ecContrib": 79250
+        },
+        "986090458": {
+            "orgId": "986090458",
+            "orgName": "HELMHOLTZ ZENTRUM FUR OZEANFORSCHUNG KIEL",
+            "ecContrib": 96375
+        },
+        "997237407": {
+            "orgId": "997237407",
+            "orgName": "52°North Initiative for Geospatial Open Source Software GmbH",
+            "ecContrib": 102562
+        },
+        "999979500": {
+            "orgId": "999979500",
+            "orgName": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+            "ecContrib": 194281
+        },
+        "999474033": {
+            "orgId": "999474033",
+            "orgName": "INSTITUTO ESPANOL DE OCEANOGRAFIA",
+            "ecContrib": 75062
+        },
+        "999887059": {
+            "orgId": "999887059",
+            "orgName": "UNIVERSITA TA MALTA",
+            "ecContrib": 41469
+        },
+        "999980179": {
+            "orgId": "999980179",
+            "orgName": "SCIENCE AND TECHNOLOGY FACILITIES COUNCIL",
+            "ecContrib": 308750
+        },
+        "999577532": {
+            "orgId": "999577532",
+            "orgName": "HELLENIC CENTRE FOR MARINE RESEARCH",
+            "ecContrib": 180625
+        },
+        "999645820": {
+            "orgId": "999645820",
+            "orgName": "CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY",
+            "ecContrib": 435500
+        },
+        "999548432": {
+            "orgId": "999548432",
+            "orgName": "HAVFORSKNINGSINSTITUTTET",
+            "ecContrib": 246125
+        },
+        "999974456": {
+            "orgId": "999974456",
+            "orgName": "UNIVERSITETET I BERGEN",
+            "ecContrib": 77250
+        },
+        "999478010": {
+            "orgId": "999478010",
+            "orgName": "SUOMEN YMPARISTOKESKUS",
+            "ecContrib": 139656
+        },
+        "999497507": {
+            "orgId": "999497507",
+            "orgName": "ALFRED-WEGENER-INSTITUT HELMHOLTZ-ZENTRUM FUR POLAR- UND MEERESFORSCHUNG",
+            "ecContrib": 355969
+        },
+        "999507983": {
+            "orgId": "999507983",
+            "orgName": "SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT",
+            "ecContrib": 179750
+        },
+        "999488971": {
+            "orgId": "999488971",
+            "orgName": "INSTYTUT OCEANOLOGII POLSKIEJ AKADEMII NAUK",
+            "ecContrib": 45844
+        },
+        "999520302": {
+            "orgId": "999520302",
+            "orgName": "STICHTING DELTARES",
+            "ecContrib": 151375
+        },
+        "997786136": {
+            "orgId": "997786136",
+            "orgName": "UKRAINIAN SCIENTIFIC CENTRE OF ECOLOGY OF THE SEA",
+            "ecContrib": 37250
+        },
+        "999457640": {
+            "orgId": "999457640",
+            "orgName": "SERVICE HYDROGRAPHIQUE ET OCEANOGRAPHIQUE DE LA MARINE",
+            "ecContrib": 132406
+        },
+        "999630300": {
+            "orgId": "999630300",
+            "orgName": "INSTITUT FRANCAIS DE RECHERCHE POUR L'EXPLOITATION DE LA MER",
+            "ecContrib": 1093188
+        },
+        "999643492": {
+            "orgId": "999643492",
+            "orgName": "MIDDLE EAST TECHNICAL UNIVERSITY",
+            "ecContrib": 78500
+        },
+        "998572903": {
+            "orgId": "998572903",
+            "orgName": "INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE MARINA GRIGORE ANTIPA",
+            "ecContrib": 42750
+        },
+        "999843409": {
+            "orgId": "999843409",
+            "orgName": "CINECA CONSORZIO INTERUNIVERSITARIO",
+            "ecContrib": 414875
+        },
+        "999937887": {
+            "orgId": "999937887",
+            "orgName": "ETHNIKO DIKTYO EREVNAS TECHNOLOGIAS AE",
+            "ecContrib": 393675
+        },
+        "999440083": {
+            "orgId": "999440083",
+            "orgName": "BUNDESAMT FUR SEESCHIFFFAHRT UND HYDROGRAPHIE",
+            "ecContrib": 207688
+        },
+        "999997736": {
+            "orgId": "999997736",
+            "orgName": "AARHUS UNIVERSITET",
+            "ecContrib": 100250
+        },
+        "998621694": {
+            "orgId": "998621694",
+            "orgName": "MARIENE INFORMATIE SERVICE MARIS BV",
+            "ecContrib": 732562
+        },
+        "975548401": {
+            "orgId": "975548401",
+            "orgName": "LATVIJAS HIDROEKOLOGIJAS INSTITUTS",
+            "ecContrib": 40531
+        }
+    },
+    "calculatedTotalContribution": 9842486
+}

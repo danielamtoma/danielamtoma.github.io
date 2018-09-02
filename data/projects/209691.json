@@ -1,0 +1,23 @@
+{
+    "rcn": "209691",
+    "acronym": "POLAR-EM",
+    "topics": "ERC-PoC-2016",
+    "title": "Automated tools for atomic resolution mapping of electrostatic fields in the electron microscope",
+    "startDate": "01/12/2017",
+    "endDate": "31/05/2019",
+    "objective": "The overarching goal of this proposal is to produce a software tool that will allow inexpensive atomic resolution mapping of electrostatic potentials and fields within materials in the electron microscope. Such mapping capabilities could revolutionize our understanding of future materials for devices based on exploiting functionalities such as ferroelectric polarization. During the last decade, the scientific community has addressed this pressing need by developing microscopy techniques sensitive to the local potential such as the recently reported differential phase contrast (DPC) imaging technique. DPC can, for the first time, map the distribution of electrostatic potential and field within a material in an atomic column-by-atomic column fashion in a direct way.  However, DPC imaging relies on the use of non-flexible segmented detectors with non-linear geometries. The increasing degree of physical complexity has made this approach rather unaffordable for a conventional materials research lab composed of non-specialists. The technology we propose here will replace such detectors by software tools and produce similar atomic resolution maps. The key idea is to acquire electron diffraction images with more conventional detectors and then apply post-acquisition analysis routines. Pixelated detectors (i.e., cameras) will be used to record the variation of the electron diffraction pattern as a function of probe position. Imaging configurations similar to DPC will be chosen after acquisition: a given detector geometry can be reproduced off-line by partial, ad-hoc integration of regions of the electron diffraction pattern over at each probe position. Basic mathematical operations between images ensuing form those different regions of the bright field disk will produce a DPC image in a straightforward manner. Such a technology will outsmart complex non-flexible hardware only by inexpensive software routines working on the new generation of ultra-fast cameras.",
+    "totalCost": "150000",
+    "ecMaxContribution": "150000",
+    "coordinator": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "coordinatorCountry": "ES",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999874546": {
+            "orgId": "999874546",
+            "orgName": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+            "ecContrib": 150000
+        }
+    },
+    "calculatedTotalContribution": 150000
+}

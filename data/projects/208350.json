@@ -1,0 +1,23 @@
+{
+    "rcn": "208350",
+    "acronym": "TwoCompQuaGas",
+    "topics": "MSCA-IF-2016",
+    "title": "Dynamics of two-component quantum gases",
+    "startDate": "01/10/2017",
+    "endDate": "30/09/2019",
+    "objective": "The computation of dynamical properties (both equilibrium and non-equilibrium) of interacting quantum systems is one of the foremost challenges in contemporary condensed matter theory. Such computations can describe experiments in cold atomic gases, as well as a diverse range of probes in solid-state systems (e.g., inelastic neutron scattering, ARPES, RIXS). The aim of this proposal is to develop a theoretical framework for the study of dynamical properties of two-component quantum gases (TCQGs), systems that are both ubiquitous and under active experimental investigation. This objective will be achieved in four major steps.\n\n1. Development of a non-perturbative computational algorithm for integrable TCQGs. Exact results from integrability will be combined with efficient numerical routines to evaluate correlation functions. This will enable the study of large systems, beyond the reach of existing techniques.\n\n2. The algorithm will be used to study equilibrium dynamics (spectral functions and dynamical structure factors); results will be compared to predictions from field theory techniques, such as the non-linear Luttinger liquid, and links made to experiments. Analytical study of the attractive gas will examine the role of multiple species of bound states. \n\n3. The non-equilibrium dynamics of TCQGs following a quantum quench will be studied. Numerical results will be combined with analytical insights from the Quench Action framework. Scenarios with no analog in a single-component gas will be accessible, opening a door to new and interesting experimentally accessible physics.\n\n4. A numerical framework to treat non-integrable TCQGs will be developed. Using eigenstates of a proximate integrable point as a computational basis, well-tested numerical techniques such as the truncated conformal space approach and the Chebyshev expansion will perform time-evolution with non-integrable Hamiltonians, enabling direct links to on-going experiments in cold atomic gases.",
+    "totalCost": "165598,8",
+    "ecMaxContribution": "165598,8",
+    "coordinator": "UNIVERSITEIT VAN AMSTERDAM",
+    "coordinatorCountry": "NL",
+    "participants": "",
+    "participantCountries": "",
+    "projectParticipants": {
+        "999985708": {
+            "orgId": "999985708",
+            "orgName": "UNIVERSITEIT VAN AMSTERDAM",
+            "ecContrib": 165599
+        }
+    },
+    "calculatedTotalContribution": 165599
+}
