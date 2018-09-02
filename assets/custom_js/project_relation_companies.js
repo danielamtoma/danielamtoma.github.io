@@ -125,7 +125,7 @@ function projectRelationCompanies(){
         .on("mouseout", function(d){
           d3.select(this).style("fill", "#5dade2").style("font-weight", "normal");
         })
-        .text(function(e) { return e.id; })
+        .text(function(e) { return e.name.substring(0,15)+'...'; })
         .style("pointer-events","visible")
         .style("font-weight", "normal")
         .style("fill", "#5dade2");

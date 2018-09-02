@@ -37,7 +37,6 @@ La page est divisée en quatre zones principales :
 
 Tous les éléments représentés - projets ou organisations - sont cliquables et les zones se mettent à jour dynamiquement afin de faciliter la navigation.
 
-
 ## Développement et outils employés :
 
 Dans la phase de **prétraitement**, les données téléchargées ont été manipulées en _Python_ (suppression des données inutiles, formatage des données, génération des données utiles aux représentations).
@@ -48,7 +47,7 @@ Dans la phase de **développement**, le contenu de la page a été réalisé en 
  - Javascript
  - Html
  
- **Ressources et librairies :**
+**Ressources et librairies :**
  - d3.js v3
  - jquery
  - leaflet
@@ -57,3 +56,12 @@ Dans la phase de **développement**, le contenu de la page a été réalisé en 
  - markercluster
  - keen-dashboards
  - font-awesome
+
+## Améliorations possibles :
+ - Améliorer l'aspect esthetique de certaines visualisations
+ - Géolocalisation de l'organisation sur la carte lors de sa sélection dans un menu
+ - Tri des colonnes dans les tableaux
+ - Ajouter des tooltips sur les visualisations
+ - Problèmes de visulisations lors de grandes quantités de données
+ - Fonction hoover sur le bar chart des sélecteurs pour montrer le montant des subventions
+ - Trouver une solution pour les organisations dont le nom est trop long pour s'afficher correctement dans les visualisations
